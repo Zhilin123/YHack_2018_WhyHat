@@ -33,7 +33,7 @@ class SearchDataView(TemplateView):
                 data['videos'].append({
                     "title":item,
                     "description":str("description of " + item),
-                    "url": str("www.youtube.com/" + item),
+                    "url": str("www.youtube.com/" + "watch?v=xHYYWFUTLZE"), #toydata
                 })
         print (data)
         return JsonResponse({
