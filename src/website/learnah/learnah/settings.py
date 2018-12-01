@@ -11,7 +11,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'r!e4c178fd3iq!!-f1j2+20#dz&jrfbo5js&62#ru#!)o)o8&6'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 ONLINE_DATABASE = True
 
 ALLOWED_HOSTS = ['zhilingmail.pythonanywhere.com']
