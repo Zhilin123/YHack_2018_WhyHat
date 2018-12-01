@@ -11,7 +11,7 @@ from django.core.files import File
 
 from data_manager.vector_accessor import upload_video_vector, get_video_vector
 from data_manager.data_import import import_chemistry_topics, import_physics_topics, import_topics
-
+from accounts.user_registration import create_new_user
 
 class HomeView(TemplateView):
     template_name = 'home/index.html'
@@ -59,5 +59,9 @@ class HomeView(TemplateView):
         print(Unit.objects.filter(subject__name="Biology"))
 
         params['current_user'] = request.user
+
+        #res, err_message = create_new_user("test_user","test_password", "test_mail@gmail.com")
+        #print(res, err_message)
+
         params["input_param"] = str("total number of records in topics: " + str(Topic.objects.all().count()))
         return self.render_to_response(params)
