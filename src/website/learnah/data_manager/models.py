@@ -60,4 +60,7 @@ class VideoHistory(models.Model):
 
 
 class Area(models.Model):
-    name = models.CharField(max_length=30)
+    name = models.CharField(max_length=255)
+    def __str__(self):
+        string = self.name
+        return string

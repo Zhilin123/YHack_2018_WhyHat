@@ -1,7 +1,18 @@
 import json
 import csv
-from data_manager.models import Subject, Unit, Topic
+from data_manager.models import Subject, Unit, Topic, Area
 import os
+def import_areas():
+    area_list = ['Politics', 'Learning', "Women's Fashion and Style", "Men's Fashion and Style", 'Venture Capital', 'Apple (company)', 'Academic Research', 'The Universe', 'Movies', 'Colleges and Universities', 'Pizza', 'Travel Hacks', 'Banking', 'Food', 'Entertainment', 'Parenting', 'Invention and Inventions', 'Television Series', 'History of Europe', 'Chemistry', 'Computer Programming', 'Academic Papers', 'Macroeconomics', 'Higher Education', 'Smartphones', 'Marketing', 'Songs', 'The Human Race and Condition', 'Web Design', 'Blogs', 'Visiting and Travel', 'Startup Founders and Entrepreneurs', 'Computer Science', 'Working Out', 'Pharmaceuticals', 'Politics of the United States of America', 'Painting and Paintings (art)', 'Graphic Design', 'Pianos', 'International Economics', 'Fashion and Style', 'Doctors', 'Water', 'Contemporary Art', 'Startups', 'World History', 'Military History and Wars', 'Design', 'Exams and Tests', 'Graduate School Education', 'Academia', 'YouTube', 'Military', 'Investing', 'Problem Solving', 'Art Collecting', 'Healthy Living', 'National Football League', 'Philosophy', 'Economics', 'Schools', 'Fine Art', 'Pop Music', 'Probability (statistics)', 'Recipes', 'Professional Sports', 'Psychology', 'Genetics and Heredity', 'Physics', 'Movie Recommendations', 'Fitness', 'Product Design of Physical Goods', 'Career Advice', 'International Travel', 'Software Engineering', 'Poetry', 'Friendship', 'Bollywood Movies', 'Writing', 'Astrophysics', 'Vegetarian Food', 'Cakes', 'Chocolate', 'Hedge Funds', 'World War II', 'The High School Experience', 'Shoes', 'National Basketball Association (NBA)', 'Finance', 'Relativity (physics)', 'Mobile Applications', 'Literature', 'Software and Applications', 'Technology Startups', 'Airlines', 'Jeans', 'Science', 'Cooking', 'Health', 'Study Habits', 'Technology', 'Philosophy of Science', 'Diet', 'Weight Loss', 'Life Advice', 'Mental Illness', 'Clinical Psychology', 'Celebrities', 'Business Models', 'Geometry', 'Reading', 'Children', 'Advertising and Advertisements', 'Rock Music', 'Investment Banking', 'Intelligence', 'Small Businesses', 'Data Structures', 'Grammar', 'Cognitive Psychology', 'Studying', 'Business Development', 'India', 'Vacations', 'Algebra', 'Metaphysics', 'Blogging', 'User Interfaces', 'The Arts', 'International Relations', 'Mental Health', 'Google (company)', 'Modern Art', 'Information Technology', 'Clothing Fashion', 'Android (operating system)', 'Thinking', 'Shopping', 'Gravity', 'Life and Living', 'Art History', 'Quantum Mechanics', 'YouTube Videos', 'Teaching', 'English (language)', 'Classical Music', 'Fast Food', 'Dating and Relationships', 'Social Advice', 'Artwork', 'Medical Conditions and Diseases', 'Space Exploration', 'Air Travel', 'Exercise', 'Personal Finance', 'Clothing and Apparel', 'Baking', 'Android Applications', 'Innovation', 'Business Ideas', 'Artificial Intelligence', 'Technology Companies', 'Designers', 'History', 'Web Development', 'Cognitive Science', 'Eating', 'China', 'The Future', 'Germany', 'Atoms', 'Association Football', 'Movie Production', 'Restaurants', 'TED', 'Glasses', 'Ethics', 'User Experience', 'Startup Strategy', 'Morals and Morality']
+    for area_name in area_list:
+        if Area.objects.filter(name=area_name).count() == 0:
+            area = Area()
+            area.name = area_name
+            area.save()
+            print(area)
+    print('import finished: ' + str(Area.objects.all().count()) + " areas.")
+
+
 
 def import_topics():
     f = open('data_manager/tree.json')

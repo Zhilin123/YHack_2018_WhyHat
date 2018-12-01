@@ -5,11 +5,11 @@ from django.conf import settings
 from django.http import JsonResponse
 from django.views.generic import TemplateView
 from django.shortcuts import redirect
-from data_manager.models import UserProfile, Subject, Unit, Topic
+from data_manager.models import UserProfile, Subject, Unit, Topic, Area
 from django.contrib.auth.models import User
 from django.core.files import File
 from data_manager.backend_interface import obtain_recommend_videos
-from data_manager.data_import import import_chemistry_topics, import_physics_topics, import_topics
+from data_manager.data_import import import_chemistry_topics, import_physics_topics, import_topics, import_areas
 from accounts.user_registration import create_new_user
 
 class HomeView(TemplateView):
@@ -48,6 +48,9 @@ class HomeView(TemplateView):
             #import_chemistry_topics()
             #import_physics_topics()
             import_topics()
+        
+        if Area.objects.all().count() == 0:
+            import_areas()
 
         print(Unit.objects.filter(subject__name="Chemistry"))
         print(Unit.objects.filter(subject__name="Physics"))
