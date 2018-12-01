@@ -1,0 +1,1860 @@
+23
+REDOX AND ELECTRODE POTENTIALS
+2
+3
+The contents of the flask are heated to 60°C.
+The hot contents of the flask are titrated against
+0.0200 moldm MnO42- and 19.10 cm are required to reach
+the end point.
+Study tip
+Determine the value of x and the formula of (COOH) •xH,O.
+Step 1: Calculate the amount of Mno, that reacted.
+V 2 00
+n(Mn0,) = cx 1000 = 0.0200 x 1
+19.10 = 3.82 x 10-4mol
+Step 2: Determine the amount of (COOH), that reacted.
+2MnO,- (aq) + 6H+ (aq) + 5(COOH)2(aq) → 2Mn2+ (aq)
++ 10CO2(g) + 8H 0(1)
+1000
+You need to use the mean titre V
+and the concentration c of
+Mno, ions.
+2 mol
+5 mol (balancing numbers)
+3.82 x 10-4mol
+2.5 x 3.82 x 10-4
+= 9.55 x 10 4mol
+Study tip
+You need to use the equation and
+number of moles of MnO4
+Step 3: Work out the unknown information. There are several
+stages.
+1 Calculate the molar mass of (COOH), •xH,O.
+n{(COOH), •xH,0) = n((COOH)2) =
+Molar mass M of (COOH),•xH,0 = = 55290-4 = 126.0gmol-1
+2 Determine the value of x and the formula of (COOH) •xH,0.
+Molar mass of (COOH)2 = (12.0 + 16.0 x 2 + 1.0) 2 = 90.0
+Mass of H,0 in (COOH)2•xH_0 = 126.0 - 90.0 = 36.0g
+value of x = 36.0 = 2 Formula = (COOH) •2H,0
+18.0
+Non-familiar redox titrations
+The principles for redox titrations can be extended to the analysis of
+many different substances.
+• Manganate(VII) titrations can be used to analyse reducing agents
+that reduce Mn0- to Mn2+.
+. KMnO, can be replaced with other oxidising agents, the
+commonest used being acidified dichromate(VI), H* / Cr,0,2-.
+The procedures and calculations are similar to those in the examples
+although some modifications may be necessary depending on the
+substance being analysed.
+Study tip
+You could be presented with
+details of a redox titration using
+different chemicals, but the
+essential steps in the calculation
+remain the same.
+379
+23.5 Predictions from electrode
+potentials
+Specification reference: 5.2.3
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+prediction of the feasibility of
+a reaction using standard cell
+potentials
+→ limitations of feasibility
+predictions.
+.•**•.•••••••••••••••••••••••+++++++++
+Predicting redox reactions
+Predictions can be made about the feasibility of any potential redox
+reactions using standard electrode potentials. Table 1 shows three
+redox systems sorted with the most negative standard electrode
+potential at the top.
+• The most negative system has the greatest tendency to be oxidised
+and lose electrons.
+The most positive system has the greatest tendency to be reduced and
+gain electrons.
+An oxidising agent takes electrons away from the species being
+oxidised. So oxidising agents are reduced and are on the left. A
+reducing agent adds electrons to the species being reduced. So
+reducing agents are oxidised and are on the right (Table 1).
+You can predict the feasibility of redox reactions from Eº values.
+In Table 1, a reaction should take place between an oxidising agent
+on the left and a reducing agent on the right, provided that the redox
+system of the oxidising agent has a more positive E value than the
+redox system of the reducing agent.
+The strongest reducing agent is at the top on the right.
+The strongest oxidising agent is at the bottom on the left
+Table 1 Standard electrode potentials:
+reducing and oxidising agents
+Redox system
+E
+V
+oxidation reducing
+agent
+A Cr3+(aq) + 3 =Cr(s)
+Cu2+(aq) +2e=Cu(s)
+Ag* (aq) + = Ag(s)
+oxidising
+agent reduction
+-0.77
++0.34
++0.80
+Comparing redox system C with A and B
+Redox system C has a more positive EⓇ value and will have a greater
+tendency to be reduced than redox systems A and B.
+So the oxidising agent Ag+ (aq) on the left of C should react with
+reducing agents on the right in redox systems A and B, that is, with Cr(s)
+and Cu(s)
+A Cr3+ (aq) + 3e
+Cr(s)
+B Cu2+ (aq) + 2e
+Cu(s)
+CAg+ (aq) + e
+Ag(s)
+Comparing redox system B with A and C
+Redox system B has a more positive E value and will have a greater
+tendency to be reduced than redox system A.
+So the oxidising agent Cu2+ (aq) on the left of B should react with
+reducing agents on the right in redox system A, that is, only with Cr(s).
+A Cr3+ (aq) + 3e + Cr(s)
+B Cu2+ (aq) + 2e
+Cu(s)
+Study tip
+The explanation here is in terms of
+the strength of oxidising agents.
+This can also be explained in
+terms of reducing agents. Both
+approaches are equivalent and
+give the same answer.
+Comparing redox system A with B and C
+The oxidising agent Cr+(aq) on the left of A will not react as there are
+no redox systems with a less positive E value.
+391
+23
+23.5 Predictions from electrode potentials
+Study tip
+For practice, combine the half
+equations above to get these
+overall equations.
+Overall equation
+To write overall equations, the half-equations must be combined. The
+reduction half-equation is the same way round as the equilibrium. The
+oxidation half-equation is obtained by reversing the equilibrium.
+Combining the possible redox reactions above gives the following
+equations:
+Cr(s) + 3 Ag+ (aq) + Cr3+ (aq) + 3Ag(s)
+Cu(s) + 2Agt → Cu2+(aq) + 2Ag
+2Cr(s) + 3Cu2+ (aq) → 2Cr3+(aq) + 3Cu(s)
+You can apply this same principle to any pair of redox systems. If they
+are not ordered then just remember that:
+the redox system with the more positive (less negative) E® value
+will react from left to right, and gain electrons
+the redox system with the less positive (more negative) EⓇ value
+will react from right to left, and lose electrons.
+Synoptic link
+Limitations of predictions using Eº values
+Reaction rate
+One limitation of predictions for feasibility based on AG lies with reactions
+that have a very large activation energy, resulting in a very slow rate. This
+same limitation applied to predictions made based on E values.
+So electrode potentials may indicate the thermodynamic feasibility of a
+reaction, but they give no indication of the rate of a reaction.
+For details of AG see Topic 22.5,
+Free energy.
+Concentration
+Standard electrode potentials are measured using concentrations of
+1 moldm . Many reactions take place using concentrated or dilute
+solutions. If the concentration of a solution is not I moldm, then the
+value of the electrode potential will be different from the standard value.
+For example, the redox equilibrium and standard electrode potential
+for the Zn2+ Zn redox system is shown below.
+Zn2+(aq) + 2 = Zn(s) EⓇ = -0.76 V
+If the concentration of Zn2+(aq) is greater than I moldm-?, the
+equilibrium will shift to the right, removing electrons from the system
+and making the electrode potential less negative.
+In concentrations of Zn²+(aq) less than 1 moldm-3, the equilibrium
+will shift to the left increasing electrons in the system and making the
+electrode potential more negative.
+Any change to the electrode potential will affect the value of the
+overall cell potential.
+Other factors
+The actual conditions used for the reaction may be different from the
+standard conditions used to record E values. This will affect the value
+of the electrode potential.
+Standard electrode potentials apply to aqueous equilibria. Many
+reactions take place that are not aqueous.
+392
+23
+23.2 Manganate(VII) redox titrations
+Summary questions
+1 Write the equation for the reaction that takes place in a
+Fe2+/Mn0, titration.
+(1 mark)
+(1 mark)
+2 Chloride ions, Cl-, are oxidised to chlorine by acidified MnO,-ions.
+Suggest why sulfuric acid is used rather than hydrochloric acid in a
+manganate(VII) titration.
+(1 mark)
+3 In an Fe2+/MnO,-titration, what volume of 0.0200 moldm-3 KMnO,
+would be required to react exactly with 25.0 cm3 of 0.114 mol dm3
+FeSO?
+4 Acidified dichromate (VI) can be used in some redox titrations instead of
+manganate(VII). The half-equation is shown below.
+Cr,0,2- + 14H+ +6e + 2Cr3+ + 7H,0
+a Write the overall equation for the reaction with Fe2+ ions. (1 mark)
+b What is x in the following statement?
+1 mol Cr 0,2 reacts with x mol Fe2+.
+(1 mark)
+5 A metal ore contains Fe(II). 6.46 g of the ore is dissolved in sulfuric acid
+and the resulting solution is made up to 250.0 cm. 25.0 cm of this
+solution is titrated against 21.40 cm of 0.0200 mol dm- potassium
+manganate(VII) solution. Calculate the percentage by mass
+of iron(II) in the sample of ore.
+(1 mark)
+6 A 250.0 cm solution is prepared by dissolving 9.066 g of Fe(NO2),•xH,0
+in water. 25.0 cm samples of this solution are acidified and titrated
+against 0.0200 moldm-3K,Cr,0,. The mean titre is 26.25 cm.
+Calculate the molar mass, the value of x and the formula of the salt.
+Hint: Refer to question 4 for the equation.
+(2 marks)
+380
+23.6 Storage and fuel cells
+Specification reference: 5.2.3
+Modern storage cells
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ modern storage cells
+→ fuel cells.
+Modern cells and batteries
+Our modern-day cells and batteries are based on the chemistry
+introduced in Topic 23.4. The key requirement is for the two
+electrodes to have different electrode potentials. You do not need
+to learn details of any specific cell but you do need to apply the
+important principles of electrode potentials, half-equations, and
+cell reactions.
+Cells can be divided into three main types – primary, secondary,
+and fuel cells. Modern cells and batteries are part of a fast-moving
+technological field, and much research is being carried out to develop
+more efficient and effective portable sources of electrical energy.
+Ni-Cd
+orgizer
+A Figure 1 A mixture of storage cells.
+You can see the types on the labels
+Study tip
+The MnO,/Mn 0, system is more
+positive and undergoes reduction,
+providing the electrons. The Zn/Zn0
+system is less positive and the
+equilibrium equation is reversed. So
+zinc is oxidised and manganese in
+Mno, is reduced.
+Primary cells
+Primary cells are non-rechargeable and are designed to be used once
+only. When in use, electrical energy is produced by oxidation and
+reduction at the electrodes. However, the reactions cannot be reversed.
+Eventually the chemicals will be used up, voltage will fall, the battery
+will go flat, and the cell will be discarded or recycled. Primary cells
+still find use for low-current, long-storage devices such as wall clocks
+and smoke detectors. Most modern primary cells are alkaline based on
+zinc and manganese dioxide, Zn/MnO, and a potassium hydroxide
+alkaline electrolyte. The E values for the redox systems are shown
+below.
+ZnO(s) + H,O(l) + 2e = Zn(s) + 20H(aq)
+EⓇ = -1.28 V
+2Mn0,(s) + H,O(l) + 2e = Mn, 0,(s) + 20H-(aq) EⓇ = +0.15 V
+Oxidation: Zn(s) + 20H(aq) → ZnO(s) + H2O(l) + 2e
+Reduction: 2MnO,(s) + H2O(1) + 2e → Mn,,(s) + 2OH-(aq)
+Cell reaction: Zn (s) + 2MnO2(5) → ZnO(s) + Mn,03(s) Ecell = 1.43 V
+Secondary cells
+Secondary cells are rechargeable. Unlike primary cells, the cell reaction
+producing electrical energy can be reversed during recharging. The
+chemicals in the cell are then regenerated and the cell can be used
+again.
+Common examples of secondary cells include:
+lead-acid batteries used in car batteries
+nickel-cadmium, NiCd, cells and nickel-metal hydride, NiMH - the
+cylindrical batteries used in radios, torches, and so on.
+lithium-ion and lithium-ion polymer cells used in our modern
+appliances - laptops, tablets, cameras, mobile phones - and also
+being developed for cars.
+394
+23
+REDOX AND ELECTRODE POTENTIALS
+Standard electrode potentials and AG
+Feasibility has now been considered in terms of both AG and now E. It is
+perhaps unsurprising that AG and E are connected mathematically:
+AG = -nFE cell
+Where n is amount, in moles, of electrons transferred in the balanced
+equation and Fis the Faraday constant, 96 500 C mol-1.
+When a cell reaction is written, Ecellis positive, calculated from:
+E cell = E® (positive electrode) - E® (negative electrode)
+For a standard cell constructed from Zn2+(aq)|Zn(s) and Cu2+(aq)|Cu(s)
+half-cells the cell reaction and value of Eco
+Zn(s) + Cu2+ (aq) → Zn2+ (aq) + Cu(s) E cel = 1.10V
+2 mol of electrons are transferred, so:
+AGⓇ = - FER=-2 x 96 500 x 1.10 = -212 300J=-212 kJ
+Providing that Ecellis positive, AG will be negative. The smaller the value of
+E , the less negative the value of AG.
+Study tip
+The final answer has been rounded
+to three significant figures to
+match the least significant
+measurement of 1.10 V.
+1
+Two standard electrode potentials are shown below.
+Fe2+ (aq) + 2e = Fe(s) E =-0.44V
+Cd2+(aq) + 2e =Cd(s) E= -0.40V
+a Calculate and write the cell equation that produced this value.
+b Calculate AGⓇ for this cell. Comment on its value.
+Summary questions
+1 State the limitations of predictions for feasibility based on E® values.
+(2 marks)
+2 You are provided with the following information.
+U3+(aq) + 3e =U(s) E = -1.80 V
+V3+(aq) + € =12+(aq) =-0.26 V
+Fe3+(aq) + = Fe2+(aq) E = +0.77 V
+Br_() +2e =Br (aq) E = +1.09 V
+a What is the: i strongest oxidising agent ii strongest reducing agent?
+bi Which of the following would be predicted to react with Fe3+?
+UP+(aq) Br (aq) U(s) V3+ (aq) V2+ (aq)
+ii Write equations for any predicted reactions from i.
+(2 marks)
+(4 marks)
+3 You are provided with the following information.
+Fe3+ (aq) + = Fe2(aq)
+Cr,0,- (aq) + 14H(aq) + 6 =2Cr3+(aq) + 7H,0(1)
+C12(g) + 2e = 2014(aq)
+E = +0.77 V
+E = +1.33 V
+E = +1.36V
+Predict feasible redox reactions based on these Evalues and write equations for the reactions.
+(3 marks)
+393
+REDOX AND ELECTRODE POTENTIALS
+23
+3
+Practice questions
+1 Manganese forms compounds in which
+manganese has several oxidation numbers.
+a Manganese(IV) oxide, MnO,, can be
+converted into manganate(VI), Mn0,2-,
+with hot alkaline chlorate(VII) ions, CIO,
+(i) Unbalanced oxidation and reduction
+half-equations for this reaction are
+shown below.
+MnO2 + OH - Mn0,2- + H20
+H2O + CIO, -OH+ Cl-
+Balance the equations and add the
+correct number of electrons to the
+correct sides of the two half equations.
+(2 marks)
+(ii) Using your half equations, construct
+the overall equation for this reaction.
+(2 marks)
+Manganate (VI), MnO,-, disproportionates
+when it reacts with hot water to form an
+alkaline solution containing manganese (IV)
+oxide, MnO2, and manganate(VII), MnO4-
+Construct the equation for this
+disproportionation reaction. (2 marks)
+F325 June 2012 Q7
+2 Aqueous potassium manganate(VII), KMnO,
+in acidic conditions can be used in analysis. A
+student analyses a sample of sodium sulfite,
+Na,soy, using the following method.
+The student prepares 250.0 cm of a solution
+of the impure Na, Soz. 25.0 cm samples are
+acidified and titrated using 0.0150 mol dm-3
+KMnO
+The equation for the oxidation of Na,so, is
+given below.
+2Mn0,- (aq) + 6H+ (aq) + 550,- (aq) →
+2Mn2+(aq) + 550,-(aq) + 3H2O(1)
+Mass readings
+The reduction half equation for acidified
+manganate(VII) ions is shown below.
+MnO, (aq) + 8H+ (aq) + 5e Mn2+ (aq) +
+4H2O(1)
+a What is the oxidation half-equation for
+the sulfite ion, SO,-(aq), in this titration?
+(1 mark)
+b What colour change takes place at the
+end point?
+(1 mark)
+Using the results, determine the percentage
+of sodium sulfite, Na,s,o,, in the impure
+sample. Show all your working. (7 marks)
+The copper content in brass is determined
+using the procedure below.
+A 2.56g sample of brass is reacted with an
+excess of concentrated nitric acid. In this
+process the copper is converted to Cu2+.
+This solution is neutralised and the resulting
+solution is made up to 250 cm”.
+A 25.0 cm sample of this solution is pipetted
+into a conical flask and an excess of aqueous
+potassium iodide is added. The reaction below
+takes place.
+Cu2+ (aq) + 21+ (aq) → Cul(s) + 1, (aq)
+The iodine formed is titrated with
+0.100 moldm-thiosulfate ions, S,0,2-(aq).
+29.8 cm is required to reach the end point.
+1,(aq) + 25,0,-(aq) → 21 (aq) + 5,0 -(aq)
+a When the brass is reacted with nitric acid
+a redox reaction takes place.
+The unbalanced equation for this reaction
+is shown below.
+Cu + HNO3 → Cu(NO3)2 + NO2 + H2O
+(i) Using oxidation numbers, show
+which element has been oxidised and
+which has been reduced.
+(ii) Balance the equation (3 marks)
+b Explain how you carry out the titration
+as the end point is approached and how
+you would detect the end point of this
+titration.
+(2 marks)
+Determine the percentage, by mass, of
+copper in the brass. Give your answer to
+one decimal place.
+(5 marks)
+14.47
+12.54
+Mass of weighing bottle/g
+Mass of weighing bottle + impure Na 30/8
+Titration readings:
+Trial 1 2
+Final burette
+28.70 27.85 37.50
+reading/cm
+Initial burette
+reading/cm
+0.00 0.00 10.00
+3
+32.75
+5.00
+397
+23
+Chapter 23 Practice questions
+d Another sample of brass is heated with
+concentrated sulfuric acid. The copper
+reacts to produce a blue solution and
+90.0 cm of a gas A, measured at RTP. The
+mass of the gas A collected is 0.240g.
+Suggest a possible identity of gas A. Show
+your working.
+Predict the balanced equation for this
+reaction.
+(4 marks)
+4 Redox reactions are used to generate
+electrical energy from electrochemical cells.
+a The table below shows three redox systems,
+and their standard electrode potentials.
+Redox system EⓇ/V
+A Cr3+ (aq) + 3 =Cr(s) -0.74
+B Snºt(aq) + 24 =Sn2+(aq) +0.15
+c Ag+ (aq) + 4 = Ag(s) +0.80
+(i) Define the term standard electrode
+potential.
+(2 marks)
+(ii) Draw a labelled diagram to show how
+the standard electrode potential of
+a Sn*+/Sn2+ redox system could be
+measured.
+(3 marks)
+(iii) Using the information in the table,
+write equations for the reactions that
+are feasible.
+Suggest two reasons why these
+reactions may not actually take place.
+(5 marks)
+b From the redox systems in the table, what
+is the strongest oxidising agent?
+(1 mark)
+c A student sets up the standard cell based
+on two of the redox systems A-C in
+the table which gives the greatest
+cell potential.
+Which redox systems would be used and
+what is the cell potential? (1 mark)
+F325 Jan 2011 Q4
+5 Modern fuel cells are being developed as an
+alternative to the direct use of fossil fuels.
+The fuel can be hydrogen but many other
+substances are being considered.
+In a methanol fuel cell, the overall reaction is
+the combustion of methanol.
+As with all fuel cells, the reducing agent is
+supplied at one electrode and the oxidising
+agent at the other electrode.
+a What is meant by the term oxidising agent?
+(1 mark)
+b Oxygen reacts at one electrode of a
+methanol fuel cell:
+0, + 4H+ + 4e - 41,0
+(i) Explain with a reason whether
+oxygen is produced at the positive or
+negative electrode.
+(1 mark)
+(ii) Write an equation for the complete
+combustion of methanol. (1 mark)
+(iii) Deduce the half-equation for the
+reaction that takes place at the other
+electrode in a methanol fuel cell.
+(1 mark)
+Suggest one advantage of using
+methanol, rather than hydrogen, in a
+fuel cell for vehicles. Justify your answer.
+(1 mark)
+F325 Jan 2011 Q4 adapted
+6. Standard electrode potentials for six redox
+systems are shown in the table below.
+Redox system
+EⓇ/V
+1 Mg2+(aq) + 24 = Mg(s) -2.37
+2 Cr3+(aq) + 3 = Cr(s) -0.74
+3 Fe3+(aq) + = Fe2+(aq) -0.44
+4 Ti*(aq) + 6 = Ti2+(aq) -0.37
+5 Ag+(aq) + 2 = Ag(s)
++0.80
+6 02(g) + 4H+ (aq) + 4e =2H20(1) +1.23
+a A standard cell can be made based on
+redox systems 1 and 3.
+(i) Draw a labelled diagram to show how
+this standard cell can be set up in the
+laboratory.
+(3 marks)
+(ii) State the charge carriers that transfer
+current through the wire and
+through the solution. (1 mark)
+(iii) Write down the cell potential and
+state the negative electrode. (1 mark)
+398
+23
+23.6 Storage and fuel cells
+Hydrogen fuel cells
+A hydrogen cell can have either an alkali or acid electrolyte. The fuel
+cells, half-equations and E® values for the redox systems are shown
+in Table 1 below. The cell voltages are both 1.23 V, despite the alkali
+and acid cells having different redox systems and half-equations.
+Table 1 Hydrogen fuel cells
+Alkali hydrogen fuel cell
+Acid hydrogen fuel cell
+external circuit
+external circuit
+SO
+oxygen
+hydrogen
+oxygen
+hydrogen —
+H2
+hydroxide
+ions OH
+02
+H2
+hydrogen
+ions Ho
+O
+water +
+H20
+→ water
+H2O
+anode electrolyte cathode
+anode electrolyte cathode
+Redox systems
+24,0(1) +2e =H2(g) + 20H - (aq) =-0.83 V
+102(g) + H2O(1) + 2e = 20H (aq) E = +0.40 V
+Oxidation: H2(g) + 20H- (aq) — 24,0(1) + 2e
+Reduction: 102(8) + H2O(l) + 2€ 20H-(aq)
+Overall: H2(g) + 207(E) – H40(1) Ecev = 1.23V
+Redox systems
+2H+ (aq) +2e=H2(g) = 0.00 V
+102(g) + 2H+ (aq) +2e=H20(1) 6 = +1.23V
+Oxidation: H2(g) → 2H+ (aq) + 2e
+Reduction: 10() + 2H+ (aq) + 2e – H40(1)
+Overall: H2(g) + 102() — H20(1) Ecem = 1.23 V
+Summary questions
+1 State the key difference between a primary cell and a
+secondary cell.
+(1 mark)
+2 State the key characteristics of a fuel cell. (2 marks)
+3 The redox equilibria for a Ni-Cd cell with E = 1.30 V
+are shown below.
+Ca(OH)2 +2e = Cd + 20H- E =-0.81 V
+2NiO(OH) + 2H,0 + 2e = 2Ni(OH), + 20H-
+a Write the equation for the overall cell reaction.
+(Cd is the negative electrode.) (1 mark)
+b Use oxidation numbers to show the elements that
+are oxidised and reduced in the working cell.
+(2 marks)
+c Calculate the standard electrode potential for the
+half equation involving NiO(OH). (1 mark)
+d Construct the overall equation when the cell is
+being charged.
+(1 mark)
+4 In a methanol fuel cell, the overall reaction is the
+combustion of methanol.
+The reaction at the positive electrode is
+0, +4H+ + 4e → 2H,0
+a Write an equation for the complete combustion
+of methanol.
+(1 mark)
+b Deduce the half-equation for the reaction
+at the negative electrode in a methanol
+fuel cell.
+(2 marks)
+396
+23
+23.4 Electrode potentials
+Calculation of a standard cell potential from standard
+electrode potentials
+Standard electrode potentials essentially quantify the tendency of
+redox systems to gain or lose electrons. A standard cell potential
+can be calculated directly from standard electrode potentials. The
+calculation is just the difference between the EⓇ values:
+E cell = EⓇ(positive electrode) - E® (negative electrode)
+For a standard zinc-copper cell,
+E cell = +0.34 - (-0.76) = 1.10 V
+Look back to Figure 8 - you can see that the measured e.m.f. on the
+voltmeter is the same as the calculated value using standard electrode
+potentials.
+Summary questions
+1 In an electrochemical cell, what are the charge carriers:
+a in the wire
+(1 mark)
+b in the salt bridge?
+(1 mark)
+2 a Define the term standard electrode potential.
+(2 marks)
+b State the standard conditions used for electrochemical cells. (1 mark)
+3 Draw a diagram to show the apparatus needed to measure the standard
+cell potential for a cell based on Fe2+, Fe and Co2+, Co3+ ions. (3 marks)
+4 Refer to Table 1.
+a Calculate the standard cell potential for the following cell from the
+redox systems in Table 1:
+i Cu2+(aq) Cu(s) and C1 (g),CH(aq) Pt(s)
+ii A13+(aq)|Al(s) and Fe2+(aq)|Fe(s)
+iii Ag+ (aq) Ag(s) and Zn2+(aq)]Zn(s)
+(3 marks)
+b For each cell given in part a, write half-equations for the oxidation and
+reduction reactions and the overall cell reaction.
+(9 marks)
+5 Four standard cells are set up using different half-cells. Use the results
+to determine the standard electrode potential of the redox systems in
+five half-cells used.
+Ece V
+0.13
+Positive half-cell
+H+(aq), H, (g) Pt(s)
+Ni2+(aq)|Ni(s)
+Co3+ (aq), Co2+(aq)|Pt(s)
+Pb2+ (aq)|Pb(s)
+Negative half-cell
+Pb2+(aq)|Pb(s)
+Cd2+(aq)|Cd(s)
+Cd2+(aq) Cd(s)
+Ni2+ (aq)|Ni(s)
+0.15
+2.21
+0.12
+(5 marks)
+390
+23
+REDOX AND ELECTRODE POTENTIALS
+Figure 8 shows a standard cell made from Zn2+(aq)]Zn(s) and Cu2+(aq)|Cu(s)
+half-cells. The digital voltmeter displays the standard cell potential as 1.10 V.
+The cell potential is the potential difference between the two half-cells.
+zinc
+salt bridge
++
+copper
+118
+solution containing solution containing
+I moldm-3 Zn2+(aq) I moldm Cu2+(aq)
+A Figure 8 A simple cell from Zn2+ (aq)|Zn(s) and Cu2+(aq) Cu(s) half-cells
+In the zinc-copper cell:
+The copper half-cell has the more positive EⓇ and a greater tendency to
+undergo reduction and to gain electrons.
+The zinc half-cell has the more negative and a greater tendency to
+undergo oxidation and to lose electrons.
+• Electrons flow along the wire from the more negative zinc half-cell to the
+less negative copper half-cell.
+The zinc electrode is negative and the copper electrode is positive.
+An overall cell equation is written by combining the relevant equilibria from
+Table 1.
+• The copper equilibrium has the more positive EⓇ and undergoes
+reduction, gaining electrons. The reduction half equation is the same
+way round as the equilibrium, with the electrons on the left-hand side.
+The zinc equilibrium has the more negative EⓇ and undergoes oxidation,
+losing electrons. So this equilibrium is reversed to give the oxidation half
+equation with the electrons on the right-hand side.
+The overall cell equation is obtained by combining the reduction and
+oxidation half-equations.
+reduction:
+Cu2+ (aq) + 2e Cu(s) positive electrode
+oxidation:
+Zn(s) Zn2+(aq) + 2e negative electrode
+overall cell reaction: Zn(s) + Cu2+(aq) → Zn2+ (aq) + Cu(s)
+Study tip
+Remember that electrode potential
+equilibria are always written with
+reduction (gaining electrons) in
+the forward direction and oxidation
+(losing electrons) in the reverse
+direction.
+Study tip
+To get the half-equation for the
+redox system with the more
+negative electrode potential, the
+equilibrium is written the other
+way round with electrons of the
+right-hand side.
+1 A standard cellis constructed from Mg2+ (aq) Mg(s) and
+Fe2+(aq), Fe3+(aq)Pt(s) half-cells. Refer to Table 1.
+a From which electrode will the electrons flow?
+b Write half-equations for the oxidation and reduction processes
+and the overall equation.
+2 Suggest concentrations of FeSo, and Fe (50.), for preparing a
+standard half-cell based on Fe3+ (aq) and Fe2+ (aq) ions.
+389
+REDOX AND ELECTRODE POTENTIALS
+Lithum-ion and lithium-ion polymer cells
+Lithium-ion cells are extremely popular.
+Lithium is a light metal, which translates into a very high energy density
+when used in lithium-ion batteries.
+The cells can be a regular shape, as in camera cells and also as lithium-ion
+polymer pouch batteries, with an internal salt bridge made of a micro-porous
+polymer covered in an electrolytic gel. Because the solid polymer is flexible,
+flexible batteries can be easily formed into various shapes and sizes, ideal
+for fitting round other components in a tightly-packed and lightweight
+laptop, tablet, or mobile phone.
+When a lithium-ion cell charges and discharges, electrons move through
+the connecting wires to power the appliance, whilst Litions move between
+the electrodes within the cell (Figure 2). The negative electrode is made of
+graphite coated with lithium metal. The positive electrode is made out of a
+metal oxide, typically Co Oy. The simplified reactions at each electrode during
+use are shown below.
+negative electrode: Li - Li+ + e
+positive electrode: Li+ COO, + e Lico,
+Figure 2 shows movement of Litions during discharge and a modern
+lithium-ion polymer battery.
+When fully charged, a lithium-ion cell has a voltage of 4.2 V but this drops
+with use. The typical operating voltage is about 3.7-3.8V.
+Lithium-ion cells do have some limitations. They can become unstable at
+high temperatures and, on very rare occasions, they have ignited laptops
+and mobile phones. Care must be taken in their recycling, as lithium is a
+very reactive metal.
+The standard electrode potential for Li* + = Li is -3.04V
+a Assuming this value, what is the electrode potential of the Coo,
+electrode at the fully charged state of the cell?
+b Assuming that Co changes oxidation number, what is the change?
+Figure 2 The structure of a typical
+lithium-ion rechargeable battery.
+The battery consists of a positive
+electrode (green) and negative
+electrode (red), with a layer (yellow)
+separating them. When in use,
+electrons (green arrow) flow from the
+negative electrode to the positive
+electrode and, at the same time, Li+
+ions (blue) travel from the anode to
+the cathode, to keep the electrical
+charge balance in the cell. When
+charging, the process is reversed and
+lithium ions are transferred back to
+the negative electrode
+Fuel cells
+A fuel cell uses the energy from the reaction of a fuel with oxygen to
+create a voltage.
+The fuel and oxygen flow into the fuel cell and the products flow
+out. The electrolyte remains in the cell.
+Fuel cells can operate continuously provided that the fuel and
+oxygen are supplied into the cell.
+Fuel cells do not have to be recharged.
+Many different fuels can be used, but hydrogen is the most common.
+Hydrogen fuel cells produce no carbon dioxide during combustion,
+with water being the only combustion product. Fuel cells using many
+other hydrogen-rich fuels, such as methanol, are also being developed.
+Figure 3 Hydrogenesis fuel-cell ferry.
+This is the UK's first fuel-cell ferry, shown
+in Bristol docks, Bristol, UK. The fuel-cell
+is fuelled by compressed hydrogen gas
+and oxygen. The only emission is water
+395
+23
+REDOX AND ELECTRODE
+POTENTIALS
+23.1 Redox reactions
+Specification reference: 5.2.3
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ oxidising and reducing agents
+→ redox equations from
+half-equations
+→ redox equations from
+oxidation numbers
+interpretation and prediction
+of reactions involving
+electron transfer.
+Reducing and oxidising agents
+You have seen that reduction and oxidation can be described in terms
+of transfer of electrons or change in oxidation number:
+Reduction - gain of electrons OR decrease in oxidation number.
+Oxidation - loss of electrons OR increase in oxidation number.
+You also learnt the important rules for assigning oxidation numbers
+(Table 1).
+Table 1 Important oxidation numbers
+Atom
+Oxidation number
+uncombined element
++1
+combined hydrogen
+combined oxygen
+ion of element
+-2
+Synoptic link
+ionic charge
+For details of oxidation number
+rules, oxidation, and reduction, see
+Topic 4.3, Redox.
+Study tip
+Remember OILRIG:
+OIL Oxidation Is Loss of electrons
+RIG Reduction Is Gain of electrons
+Oxidising agents and reducing agents
+In a redox reaction, there will always be an oxidising agent and a
+reducing agent.
+The oxidising agent takes electrons from the species being oxidised.
+The oxidising agent contains the species that is reduced.
+The reducing agent adds electrons to the species being reduced. The
+reducing agent contains the species that is oxidised.
+For example, the equation for the reaction between Ag+ ions and Cuis
+shown below.
+2Ag (aq) + Cu(s) → Cu2+(aq) + 2Ag(s)
+0
+Agt reduced
++2
+Cu oxidised
+Agt is the oxidising agent - Agt has oxidised Cu.
+Cu is the reducing agent - Cu has reduced Agt.
++1
+Study tip
+You need to be very careful with
+language here. For example, nitric
+acid, HNO3, is a strong oxidising
+agent in many reactions. But
+only the nitrogen atom in HNO, is
+reduced using oxidation numbers.
+Figure 1 Redox reaction between Cu and Ag+
+ions - a coil of copper wire is suspended in a
+solution of silver nitrate. Silver ions are reduced
+by copper, forming crystalline deposits of
+silver metal. The copper is oxidised to Cu2+ ions
+indicated by the pale blue solution that gets
+deeper in colour with time
+372
+23.4 Electrode potentials
+Specification reference: 5.2.3
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ standard electrode potential
+→ measuring cell potentials
+calculating cell potentials
+from electrode potentials.
+Electrochemical cells
+In this topic you will be looking at a type of electrochemical cell called
+a voltaic cell, which converts chemical energy into electrical energy.
+The conversion of chemical energy into electrical energy takes place
+in the modern cells and batteries that power devices such as mobile
+phones. So what do you need to make a voltaic cell? As electrical
+energy results from movement of electrons, you need chemical
+reactions that transfer electrons from one species to another. These are
+redox reactions.
+Half cells
+A half-cell contains the chemical species present in a redox
+half-equation. A voltaic cell can be made by connecting together two
+different half-cells, which then allows electrons to flow. In the cell, the
+chemicals in the two half-cells must be kept apart - if allowed to mix,
+electrons would flow in an uncontrolled way and heat energy would
+be released rather than electrical energy.
+Zn2+(aq)
+Cu2+(aq)
+Figure 1 Zn2+ (aq) Zn(s) and
+Cu2+ (aq)|Cu(s) half-cells
+reduction
+Zn2+(aq) + 2e = Zn(s)
+Metal/metal ion half-cells
+The simplest half-cell consists of a metal rod dipped into a solution
+of its aqueous metal ion. This is represented using a vertical line for
+the phase boundary between the aqueous solution and the metal, for
+example, Zn2+(aq) Zn(s) and Cu2+(aq) Cu(s) half-cells are shown in
+Figure 1.
+At the phase boundary where the metal is in contact with its ions, an
+equilibrium will be set up. By convention, the equilibrium in a
+half-cell is written so that the forward reaction shows reduction and
+the reverse reaction shows oxidation (Figure 2).
+In an isolated half-cell, there is no net transfer of electrons either into
+or out of the metal.
+When two half-cells are connected, the direction of electron flow
+depends upon the relative tendency of each electrode to release
+electrons.
+oxidation
+A Figure 2 Electrode equilibria
+platinum,
+solution containing
+Fe2+(aq) + Fe3+(aq)
+lon/ion half-cells
+An ion/ion half-cell contains ions of the same element in different
+oxidation states. For example, a half-cell can be made containing a
+mixture of aqueous iron (II) and iron (III) ions. The redox equilibrium is:
+Fe3+(aq) + = Fe2+(aq)
+In this type of half-cell there is no metal to transport electrons either
+into or out of the half-cell, so an inert metal electrode made out of
+platinum is used. A half-cell based on Fe2+ (aq) and Fe3+(aq) ions is
+shown in Figure 3.
+Figure 3 A half-cell based on Fe2+ (aq)
+and Fe3+ (aq) - ions of the same element
+in different oxidation states
+386
+23
+REDOX AND ELECTRODE POTENTIALS
+Study tip
+See details above to check why
+1 mol Cu2+ mol is equivalent to
+1 mol 5,0,-
+Step 2: Determine the amounts of I, and Cu2+ that reacted.
+1 mol Cu2+ is equivalent to 1 mol 8,0,2-
+n(Cu2+) = n(8,0,-) = 5.04 x 10-3 mol
+Step 3: Work out the unknown information: the percentages of
+Cu and Zn.
+5.04x10-mol of Cu2+ has a mass of 5.04 x 10-3 x 63.5 = 0.320 g
+mass of Zn = 0.500 -0.320 = 0.180 g
+Study tip
+You could be presented with
+details of an 12/8,0,?-redox
+titration that analyses different
+oxidising agents than shown in the
+worked examples. However, the
+essential steps in the calculation
+remain the same.
+_ 0.320 x 100 = 64.0%
+% composition of Cu =
+0.500
+% composition of Zn -0.180
+x 100 = 36.0%
+mposition of Zn = 0.500
+(1 mark)
+Summary questions
+1 Write the equation for the reaction that takes place in an
+12/5,0,?-titration.
+2 Why is an excess of KI added when analysing oxidising agents
+in iodine-thiosulfate titrations?
+(1 mark)
+3 In an 1,/8,0,2-titration, what volume of 0.180 mol dm-35,0,-would
+be required to react exactly with the iodine formed from 25.0 cm of
+0.144 mol dm-3 CuSO,?
+(1 mark)
+4 lodine/thiosulfate titrations can be used to analyse 10,-ions.
+The reaction with l-is shown below.
+10, +51 +6H — 31, +3H,0
+What is x in the following statement?
+1 mol 10, is equivalent to x mol S20,-
+(1 mark)
+5 A student dissolved 1.365 g of Cu(NOx), •xH,0 in water and made up the
+solution to 250.0 cm. The student added 25.0 cm of the solution to a
+conical flask and added an excess of Kl(aq).
+The resulting mixture was titrated against 0.0235 mol dm-3
+Na 5,0, and 24.05 cm was required to reach the end point.
+Determine the molar mass of the copper(II) salt, the value of x,
+and suggest its formula.
+(5 marks)
+385
+REDOX AND ELECTRODE POTENTIALS
+23
+b Select from the table:
+(i) the species which reduces Ti3+(aq)
+but does not reduce Cr3+(aq).
+(ii) the strongest reducing agent?
+(2 marks)
+C Write the overall cell reaction for a cell
+based on redox systems 2 and 6. (1 mark)
+The standard electrode potentials in the table
+below can be used to predict redox reactions.
+7
+b
+Redox system
+E®/
+1 Cr3+(aq) + 3e =Cr(s)
+-0.74
+2 Fe3+ (aq) + = Fe2+(aq)
+-0.44
+3 Cr?0,2-(aq) + 14H*(aq) + 6 =
++1.33
+2Cr3+ (aq) +7H,0(1)
+a Define the term standard electrode
+potential.
+(2 marks)
+Using the information in the table, write
+equations for the reactions that are
+feasible.
+A student sets up a standard cell using
+half cells based on redox systems 1 and 3
+in the table.
+(i) Draw a labelled diagram to show how
+the standard cell potential of this cell
+could be measured. (3 marks)
+(ii) State the cell potential and the sign
+of the electrode in redox system 1 in
+the cell.
+(1 mark)
+(iii) The half-cell based on redox system 1
+is diluted by adding distilled water.
+Predict what would happen to
+the cell potential. Explain your
+reasoning.
+(3 marks)
+d Platinum is an extremely unreactive
+transition element. However, platinum
+does take part in a redox reaction with
+aqua regia, a mixture of concentrated
+hydrochloric and nitric acids. Two products
+of this reaction are hexachloroplatinic
+acid, H,PCI,, and nitrogen dioxide, NO,
+(i) Use oxidation states to show that this
+is a redox reaction.
+(2 marks)
+(ii) Write an equation for the reaction
+of platinum metal with aqua regia.
+(2 marks)
+OCR F325 JUN 2012 (5c
+8 Brass is an alloy which contains copper.
+The percentage of copper in brass can be
+determined using the steps below.
+1 2.80 g of brass is reacted with an excess of
+concentrated nitric acid, HNO.
+The half equations taking place are shown
+below.
+Cu(s) → Cu²+(aq) + 2e
+2HNO3(1) + e→ NO, (aq) + NO2(g) +
+HO(1)
+2 Excess aqueous sodium carbonate is
+added to neutralise any acid. The mixture
+effervesces and a precipitate forms.
+3 The precipitate is reacted with ethanoic acid
+to form a solution which is made up to
+250 cm with water.
+4 A 25.0 cm sample of the solution is
+pipetted into a conical flask and an excess
+of aqueous potassium iodide is added.
+A precipitate of copper(I) iodide and a
+solution of iodine, 12(aq), forms.
+5 The resulting mixture is titrated with
+0.100 moldm' sodium thiosulfate to
+estimate the iodine present:
+12(aq) + 28,0,- (aq) – 21 (aq) +
+5,0.- (aq)
+6 Steps 4 and 5 are repeated to obtain an
+average titre of 29.8 cm?.
+a For steps 1, 2, and 4, write overall
+equations for the reactions taking
+place.
+(4 marks)
+b Determine the percentage, by mass, of
+copper in the brass.
+Give your answer to one decimal
+place.
+(5 marks)
+F325 June 11 Q8
+399
+23
+REDOX AND ELECTRODE POTENTIALS
+Electrode potentials
+How do you know which electrode has a greater tendency to gain or
+lose electrons? In a cell with two metal/metal ion half-cells connected,
+the more reactive metal releases electrons more readily and is
+oxidised.
+In an operating cell:
+the electrode with more reactive metal loses electrons and is
+oxidised - this is the negative electrode
+the electrode with the less reactive metal gains electrons and is
+reduced - this is the positive electrode.
+►
+H.(g) at 298K
+and 100 kPa
+glass tube
+with holes
+in to allow
+bubbles of
+H.(g) to
+escape
+platinum
+electrode
+Standard electrode potential
+The tendency to be reduced and gain electrons is measured as a
+standard electrode potential E. The standard chosen is a half-cell
+containing hydrogen gas, H, (g), and a solution containing H+(aq) ions.
+An inert platinum electrode is used to allow electrons into and out of
+the half-cell. Figure 4 shows a standard hydrogen electrode.
+By definition, the standard conditions used are:
+solutions have a concentration of exactly 1 mol dm3
+. the temperature is 298 K (25 °C)
+the pressure is 100 kPa (1 bar).
+The standard electrode potential is the e.m.f. of a half-cell connected
+to a standard hydrogen half-cell under standard conditions of 298K,
+solution concentrations of 1 mol dm , and a pressure of 100 kPa.
+By definition, the standard electrode potential of a standard hydrogen
+electrode is exactly O V. The sign of a standard electrode potential
+shows the sign of the half-cell connected to the standard hydrogen
+electrode and shows the relative tendency to gain electrons compared
+with the hydrogen half-cell.
+acid solution
+containing
+1.0 mol dm3
+H(aq)
+Figure 4 Standard hydrogen electrode
+electrons
+H2(g) at 298 K
+and 100 kPa
+salt bridge
+tions
+- copper
+Measuring a standard electrode potential
+To measure a standard electrode potential, the
+half-cell is connected to a standard hydrogen
+electrode.
+The two electrodes are connected by a wire
+to allow a controlled flow of electrons.
+The two solutions are connected with a
+salt bridge which allows ions to flow. The
+salt bridge typically contains a concentrated
+solution of an electrolyte that does not
+react with either solution. An example of a
+salt bridge is a strip of filter paper soaked in
+aqueous potassium nitrate, KNO, (aq).
+Figure 5 shows the experimental set up for
+measuring the standard electrode potential of a
+copper half-cell.
+platinum
+acid solution containing solution containing
+1 moldm-H*(aq)
+1 moldm- Cu²+(aq)
+A Figure 5 Measuring a standard electrode potential
+387
+23
+REDOX AND ELECTRODE POTENTIALS
+Construction of redox equations using half-equations
+You can write equations for a redox reaction from the half-equations
+for the reduction and oxidation reactions. The procedure ensures that
+the number of electrons that are transferred balance.
+Synoptic link
+You learnt in Topic 4.3, Redox,
+that during a redox reaction,
+the number of electrons lost
+during oxidation must equal the
+number of electrons gained during
+reduction.
+C Worked example: Writing a redox equation from
+half-equations
+The redox reaction between hydrogen peroxide, H,O,, and
+alkaline Cr3+ ions has the following half-equations.
+Write the overall redox equation.
+reduction: H,02 + 2e → 20H-
+oxidation: Cr3+ + SOH - Cro,- + 4H2O + 3e
+Step 1: Balance the electrons:
+The reduction equation is multiplied through by x 3 to give 6e .
+A Figure 2 Oxidation of green Cr3+ ions
+(left) in alkaline conditions by hydrogen
+peroxide produces yellow chromate(VI)
+ions, Cro - (right)
+The oxidation equation is multiplied through by x 2 to also give 6e.
+reduction ® 3: 3H,0, +6e →60H
+oxidation x 2: 2Cr3+ + 160H → 2Cro,- + 8H,0 + 6e
+Step 2: Add and cancel electrons:
+3H,02 + 2Cr3+ + 160H + de – 60H- + 2Cro,2- + 8H2O + ÓC
+31,0, +2Cr3+ + 160H – 60H + 2Cro 2- + 8H,0
+Step 3: Finally cancel any species that are on both sides of the
+equation:
+Study tip
+Look for number patterns. Here,
+3 and 2 have the common linked
+number of 2 x 3 = 6. You can
+also use fractions and you may
+find it easier just to multiply the
+reduction equation by 1.5. This is
+perfectly fine and just as correct.
+Here, there are 160H on the left-hand side and 6OH on the
+right-hand side. So you cancel to leave just 100H on the left-
+hand side.
+→ 601 + 2Cro, 2- + 8H,0
+3H,0, + 2 Cr3+ + TOH
+100H
+34,02 + 2Cr3+ + 1004
+– 200,2- + 8H,0
+Using oxidation numbers to write equations
+You can write an equation for a redox reaction from the oxidation
+number of the species in the redox reaction. The procedure ensures
+that the changes in oxidation number balance.
+Study tip
+When you have completed your
+equation, have a final check to see
+if there are any species that are on
+both sides that need cancelling.
+Synoptic link
+Construction of redox equations using oxidation numbers
+Oxidation numbers can be used to write and balance a redox equation.
+By assigning oxidation numbers to all atoms in an equation, it is easy
+to see which atoms have been reduced and which have been oxidised.
+In Topic 4.3, Redox, you learnt that
+in a redox reaction, the overall
+increase in oxidation number
+during oxidation must equal the
+overall decrease in oxidation
+number during reduction.
+373
+23
+23.1 Redox reactions
+To complete the equation, balance the changes in oxidation number as
+shown in the worked example below.
+This example is tricky to balance by trial and error as hydrogen and
+oxygen appear in more than one product. The oxidation number
+method takes much of the guesswork out of balancing redox
+equations.
+2) Worked example: Writing a redox equation from
+oxidation numbers
+Sulfur, S, reacts with concentrated nitric acid, HNO, to form
+sulfuric acid, H2SO4, nitrogen dioxide, NOx, and water, H20.
+Construct the overall equation for this redox reaction.
+Study tip
+In this equation, there are also
+atoms of hydrogen and oxygen
+but their oxidation numbers
+do not change.
+Step 1: Summarise the information provided.
+S + HNO, - H2SO4 + NO + H2O
+Step 2: Assign oxidation numbers to identify the atoms that
+change their oxidation number.
+S + HNO3 → H2SO4 + NO + H20
+0
++6
+oxidation number change: +6
++5
++4
+oxidation number change: -1
+Step 3: Balance only the species that contain the elements that
+have changed oxidation number.
+To match the increase of +6 for sulfur, you need a total decrease
+of -6 from nitrogen.
+So HNO, and NO, also need to be multiplied by 6 to give
+6 X-1 = -6
+S + 6HNO, H,SO4 + 6NO, + H2O
+Step 4: Balance any remaining atoms.
+As the oxidation numbers are now balanced, the hydrogen and
+oxygen atoms are balanced by adding a 2 in front of the H,O.
+S + 6HNO, + H2SO4 + 6NO2 + 2H,0
+Study tip
+Predicting products of redox reactions
+In equations, you might not know all the species involved in the
+reaction and you might need to predict any missing reactants or
+products. In aqueous redox reactions, H,O is often formed. Other likely
+products are H+ and OH-ions, depending on the conditions used.
+As a final check, ensure that both sides of the equations are balanced
+by charge.
+The worked example shows how a half-equation can be predicted
+using oxidation numbers.
+Always make sensible predictions
+- if your predicted formula looks
+strange, you have probably made
+up something that doesn't exist.
+374
+23
+23.4 Electrode potentials
+reduction
+Mg2+(aq) + 2e = Mg(s) E= -2.37V
+Oxidation
+Figure 6 Mg2+(aq)|Mg has a very
+negative Evalue and a greater
+tendency to lose electrons
+Standard electrode potentials have been measured for many different
+redox systems and these are listed in data reference tables. Table 1
+shows examples of standard electrode potentials. The equilibrium
+is always shown so that the forward reaction is reduction. The
+redox systems in Table 1 have been sorted in order of their standard
+electrode potentials, with the most negative value at the top.
+The more negative the EⓇ value:
+the greater the tendency to lose electrons and undergo oxidation.
+the less the tendency to gain electrons and undergo reduction
+The more positive the E value:
+the greater the tendency to gain electrons and undergo reduction
+• the less the tendency to lose electrons and undergo oxidation.
+Metals tend to have negative E values and lose electrons. Non-metals
+tend to have positive E values and gain electrons.
+In general:
+The more negative the Evalue, the greater the reactivity of a metal in
+losing electrons.
+• The more positive the E® value, the greater the reactivity of a
+non-metal in gaining electrons.
+reduction
+Cl2(g)+2e 2C1(aq) E= +1.36V
+oxidation
+A Figure 7 C1 (9)|CF(aq) has a very
+positive E value and a greater tendency
+to gain electrons
+Table 1 Standard electrode
+potentials
+EⓇ/V
+-2.37
+-1.66
+Cell potentials
+Cells can easily be assembled using any half-cells. The e.m.f. measured
+is then a cell potential, Ecell. The procedure below describes how to set
+up cells to measure standard cell potentials E
+cell:
+-0.76
+-0.44
+Redox system
+Mg2+ (aq) +2 = Mg(s)
+Al3+ (aq) + 38 = Al(s)
+Zn2+ (aq) + 2 = Zn(s)
+Fe2+(aq) + 2e = Fe(s)
+2H+ (aq) + 2e =Hz(g)
+Cu2+(aq) + 2e =Cu(s)
+12(aq) + 24 = 21- (aq)
+Fe3+(aq) + e = Fe2+ (aq)
+Ag+ (aq) + = Ag(s)
+CI, (g) + 2e = 2C1-(aq)
+Measuring standard cell potentials
+0.00
++0.34
++0.54
++0.77
++0.80
++1.36
+1 Prepare two standard half-cells.
+For a metal/metal ion half-cell, the metal ion must have a
+concentration of 1 mol dm-3.
+. For an ion/ion half-cell, both metal ions present in the solution must
+have the same concentration. There must be an inert electrode,
+usually platinum.
+For a half-cell containing gases (e.g., a hydrogen half-cell), the gas
+must be at 100 kPa pressure, in contact with a solution with an
+ionic concentration of 1 mol dm-3. There must be an inert electrode,
+usually platinum.
+. For all half-cells, the temperature must be at 298 K.
+2 Connect the metal electrodes of the half-cells to a voltmeter using wires.
+3 Prepare a salt bridge by soaking a strip of filter paper in a saturated
+aqueous solution of potassium nitrate, KNOZ.
+Connect the two solutions of the half-cells with a salt bridge.
+5 Record the standard cell potential from the voltmeter.
+Study tip
+In an ion/ion half-cell, both
+solutions can be 1 mol dm-?, but it
+may be difficult to dissolve enough
+solute to get these concentrations.
+However equal ion concentrations
+gives the same e.m.f.
+388
+23
+23.3 lodine/thiosulfate redox titrations
+Analysis of copper
+Iodine/thiosulfate titrations can be used to determine the copper
+content of copper(II) salts or alloys. For copper(II) salts, Cu2+(aq) ions
+are produced simply by dissolving the compound in water. Insoluble
+copper(II) compounds can be reacted with acids to form Cu²+ (aq) ions.
+For copper alloys, such as brass or bronze, the alloy is reacted and
+dissolved in concentrated nitric acid, followed by neutralisation to
+form Cu2+ (aq) ions:
+Cu(s)
+Cu2+(aq)
+In this analysis:
+Cu2+(aq) ions react with I-(aq) to form a solution of iodine, I, (aq),
+and a white precipitate of copper(I) iodide, Cul(s). The mixture
+appears as a brown colour.
+Figure 4 The mixture is made up of
+brown iodine and a white precipitate
+of copper(1) iodide
+2 Cu2+(aq) + 41- (aq) → 2Cul(s) +
+(aq)
+Reduction:
++2
++1
+Oxidation:
+-1
+.
+The iodine in the brown mixture is then titrated with a standard
+solution of sodium thiosulfate:
+25,0,-(aq) + 12(aq) — 21- (aq) + 5,02-(aq)
+2 mol Cu2+ produces 1 mol iodine which reacts with 2 mol 5,0
+So I mol Cu2+ is equivalent to 1 mol 5,0,2-
+6 Worked example: Analysis of brass
+Brass, an alloy of copper and zinc, is used in many ornaments
+and in brass musical instruments. Brass can be analysed using an
+iodine/thiosulfate titration to find its percentage of copper and zinc.
+A sample of brass is analysed using the practical procedure
+outlined below.
+A 0.500 g sample of brass is reacted with concentrated nitric
+acid to form a solution containing Cu2+ and Zn2+ ions. The
+solution is then neutralised.
+Excess Kl(aq) is added. Cu2+ ions react with lions, forming I,.
+The iodine is titrated with 0.200 moldm-3 sodium thiosulfate
+and 25.20 cm are required to reach the end point.
+Calculate the percentage by mass of copper and zinc in the brass.
+Figure 5 The two main alloys of
+copper are brass (the saxophone) and
+bronze (the bell). Brass is made of
+copper and zinc, whilst bronze is made
+of copper and tin
+Calculation
+Step 1: Calculate the amount of 8,0,- that reacted.
+25.20
+0 1000
+20 = 5,04 x 10-mol
+.0
+n(8,0,2)=cx 1000 = 0.200 x 20
+384
+23
+23.2 Manganate(VII) redox titrations
+Study tip
+You need to use the equation and
+nMnO,
+Study tip
+The most appropriate number of
+significant figures (s.f.) to use
+in this example is 3 s.f. This is
+the lowest number of significant
+figures in the quantities used - for
+the mass of FeSO. •7H,0 as 6.97 g.
+But only round to three significant
+figures for your final answer or
+you will have introduced rounding
+errors during the stages of your
+working
+Step 2: Determine the amount of Fe2+ that reacted.
+MnO4 (aq) + 8H*(aq) + 5Fe2+ (aq) Mn2+(aq) + 5Fe3+ (aq) + 4H20(1)
+1 mol
+5 mol
+4.68 x 10-4mol 5 x 4.68 x 10-4 = 2.34 x 10-3 mol Fe2+
+Step 3: Work out the unknown information. There are several stages.
+1 Scale up to find the amount of Fe2+ in the 250.0 cm solution that you
+prepared.
+n(Fe2+) in 25.00 cm used in the titration = 2.34 x 10-3 mol
+n (Fe2+) in 250.0 cm solution
+= 2.34 x 10-3 x 10
+= 2.34 x 10-2 mol
+2 Find the mass of FeSO, 7H,0 in the impure sample.
+n(FeSO4.7H2O) = n(Fe2+) =
+mass m of Fe50, 7H,0=n xM= 2.34 x 10-2 x 277.9 = 6.502 86 g
+Find the percentage purity of FeSO4.7H20 in the impure sample.
+Percentage puritu = mass of FeSO4.7H20
+mass of impure sample
+of FeSO4.7H20 x 100
+6.502 86 x 100 = 93.3%
+6.97
+Iron supplements containing iron(II) are used to treat iron-deficiency.
+A 0.304 g iron supplement tablet is crushed and dissolved in
+25.0 cm of dilute sulfuric acid. The resulting solution is titrated with
+0.007 50 mol dm-3 KMnO, and 19.20 cm are required to reach the
+end point
+Calculate the percentage by mass of iron in the iron tablet.
+Figure 2 Iron supplements are used
+to treat iron-deficiency (anaemia)
+Study tip
+You should be able to see how
+the two half equations have been
+combined.
+The common link is 2 x 5 = 10
+The reduction half-equation has
+been mutiplied by 2.
+The oxidation half-equation has
+been mutiplied by 5.
+This gives 10e is each half
+equation.
+The half-equations are then added
+and the 10e are cancelled.
+6) Worked example: Determination of a formula
+Hydrated ethanedioic acid has the formula (COOH), •xH,O.
+The value of x can be determined by reacting a solution of
+(COOH), •xH,O with acidified manganate(VII) ions.
+The half-equations and full equation are shown below.
+Reduction: MnO,- (aq) + 8H+ (aq) + 5e - Mn2+ (aq) + 4H,O(1)
+Oxidation: (COOH)2(aq) → 2C02(g) + 2H+ (aq) + 2e
+Overall:
+2MnO4 (aq) + 6H+ (aq) + 5(COOH)2(aq) + 2Mn2+ (aq) + 1000,(g)
++ 8H,O(1)
+Procedure
+1 A 0.1203g sample of (COOH), •xH,O is dissolved in 25.0 cm3
+of 1.0 moldm-' H,S0, in a conical flask.
+378
+23
+REDOX AND ELECTRODE POTENTIALS
+Examples of manganate(VII) titrations
+Manganate(VII) titrations can be used for the analysis of many
+different reducing agents. Two examples are:
+iron (II) ions, Fe2+(aq)
+ethanedioic acid, (COOH)2(aq).
+The same principles can be applied for redox titrations of other
+reducing agents, provided that they can reduce Mno, to Mn2+.
+Study tip
+Potassium manganate (VII)
+is also known as potassium
+permanganate. Permanganate is
+the traditional name for the IUPAC
+name of manganate(VII).
+Analysing the percentage purity of an iron(II)
+compound
+The half-equations and full equation for the reaction of acidified
+manganate(VII) ions with iron (II)ions are shown below.
+Reduction: MnO2 (aq) + 8H(aq) + 5e Mn2+(aq) + 4H,0(1)
+Oxidation:
+Fe2+(aq) - Fe3+ (aq) + e-
+Overall: MnO4 (aq) +8H*(aq) + 5Fe2+ (aq) + Mn?(aq) + 5Fe3+ (aq) + 4H,0(1)
+In this analysis, you will determine the percentage purity of an impure
+sample of iron(11) sulfate, FeS0, 7H,0.
+Study tip
+You should be able to combine
+these two half equations to obtain
+the overall equation.
+Procedure
+1 Prepare a 250.0 cm solution of the impure Fe50,67H,0 in a
+volumetric flask.
+2 Using a pipette, measure 25.0 cm3 of this solution into a conical flask.
+Then add 10 cm of 1 mol dm-3H,50,(aq) (an excess).
+3 Using a burette, titrate this solution using a standard 0.0200 mol dm-3
+solution of potassium manganate(VII), KMnO, (aq).
+4 Finally analyse your results to determine the percentage purity.
+18.34
+Mass measurements
+Mass of weighing bottle + impure FeSO,.7H,0/
+Mass of weighing bottle/g
+Mass of impure FeSO, 7H,0/g
+Synoptic link
+The analysis of results from redox
+titrations is essentially the same
+method as used for acid-base
+titrations. See Topic 4.2, Acid-base
+titrations, for further details.
+11.37
+6.97
+Titration readings
+Study tip
+Final burette reading/cm2
+Initial burette reading/cm3
+Titre/cm3
+Mean titre/cm
+Trial
+24.10
+1.00
+23.10
+1 2
+23.70 47.15
+0.00 23.70
+23.70 23.45
+3
+23.35
+0.00
+23.35
+Only the closest titres are chosen
+for calculating the mean titre.
+23.402
+Study tip
+Analysis
+Step 1: Calculate the amount of MnO, that reacted.
+n(Mn0,-) =< x = 0.0200 x 2340 = 4.68 x 10-4 mol
+You need to use the mean titre V
+and the concentration cof
+MnOions.
+377
+23
+REDOX AND ELECTRODE POTENTIALS
+Procedure
+1 Using a pipette, add 10.0 cm of the bleach into a 250 cm volumetric
+flask and add water to prepare 250.0 cm of solution.
+2 Using a pipette, measure 25.0 cm of this solution into a conical flask.
+Then add 10 cm of 1 mol dm-3 potassium iodide (KI) followed by
+sufficient 1 mol dm-3 HCl(aq) to acidify the solution. The HCI provide
+H+ ions for the reaction.
+3 Using a burette, titrate this solution using a standard 0.0500 mol dm-3
+solution of sodium thiosulfate (Na 5,03(aq)).
+4 Repeat the titration to obtain concordant results.
+5 Finally analyse your results to determine the concentration of chlorate()
+ions in the bleach.
+Study tip
+n(8,0,24 =cx 100 = 0.0500 2420 = 1.21 x 10-mol
+You need to use the mean titre V
+and the concentration c of
+MnO4 ions.
+00X
+Results
+Mean titre of Na S202 = 24.20 cm3
+Analysis
+Step 1: Calculate the amount of S20,- that reacted.
+24.20
+2= 1.21 x 10-3 mol
+1000
+1000
+Step 2: Determine the amounts of Iz and CIO- that reacted.
+1 mol CIO-is equivalent to 2 mol ,0,2-
+n(CIO-) = * n(8,0,34
+1x 1.21 x 10-3 = 6.05 x 10-4 mol
+Step 3: Determine the amount of CIO-in the 250.0 cm solution.
+n(CIO) in 25.00 cm used in the titration = 6.0510-4 mol
+n(CIO) in 250.0 cm solution
+= 6.05 x 10-4 x 10
+= 6.05 x 10-3 mol
+Study tip
+See details above to check why
+1 mol CIO-mol is equivalent to
+2 mol 520,2-
+Study tip
+Scale up to find the amount of
+CIO- in the 250.0 cmº solution that
+you prepared.
+Step 4: Determine the concentration of CIO in the bleach.
+The 250.0 cm solution was prepared using 10 cm bleach, so:
+10 cm bleach contains 6.05 x 10-3 mol CIO-ions
+1 dmbleach contains 6.05 x 10-3 x 100 = 0.605 mol Nacio
+concentration of CIO-ions in the bleach = 6.05 x 10-3 x 100
+= 0.605 mol dm3
+1 Show that the concentration of the bleach above agrees with the
+information of the bleach label in Figure 3.
+10.0 cm of a bleach is diluted to 250.0 cm in a volumetric flask.
+25.0 cm of this solution is added to a conical flask followed by
+an excess of Kl(aq). This solution is titrated with 0.0750 mol dm-3
+Na 5,0, (aq) and 23.20 cm' are required to reach the end point.
+Calculate the concentration of CIO in the bleach, in moldm-3.
+383
+23
+REDOX AND ELECTRODE POTENTIALS
+2) Worked example: Writing a half-equation
+Acidified Mno, ions are reduced to Mn2+ ions:
+Mno, + H+ Mn2+
+Write the half equation for this reduction.
+Step 1: Assign the oxidation numbers and the change in
+oxidation number.
+MnO,- + H+ → Mn2+
++7
++2 oxidation number decreases by 5
+Step 2: Balance the electrons.
+A decrease in oxidation number of 5 requires 5e on the
+left-hand side:
+MnO,- + H+ + 5e – Mn2+
+Step 3: Balance any remaining atoms and predict any further
+species.
+There are four oxygen atoms and H+ on the left-hand side but no
+hydrogen or oxygen atoms on the right hand side.
+A likely product is H2O.
+Add 4,0 to the right hand side and balance the H,O. Finally
+balance the H+.
+Mn0,- + 8H+ + 5e - Mn2+ + 4H2O
+Study tip
+You need to be methodical and
+only add any species that look
+sensible. You are unlikely to
+add species other than 1,0, H*,
+and OH-.
+Summary questions
+1 For the following equations, determine what has been
+oxidised and reduced in terms of oxidation number.
+Identify the oxidising and reducing agents.
+a Mg + Zn2+ Mg2+ + Zn
+(3 marks)
+b 2H,30, + Cu CuSO, +502 +2H20 (3 marks)
+c Fe2+ + 2H+ + NO, Fe3+ + H20 + NO (3 marks)
+2 Construct the overall equation from the
+following pairs of half-equations.
+a Fe2+ Fe3+ + e
+Cr20,2- + 14H+ + 6e + 2Cr3+ + 7H,0 (2 marks)
+b Zn → Zn2+ + 2e
+VO,* + 4H+ + 3e – V2+ + 2H20 (3 marks)
+c H2O2-02 + 2H+ + 2e
+MnO+8H+ + 5e – Mn2+ + 4H20 (3 marks)
+3 Use oxidation numbers to balance the following
+reactions.
+a MnO,- + H+ + H,5 – Mn2+ + S + H,0 (2 marks)
+b Bro, +Br +H+ Bry+H,0 (2 marks)
+4 Balance and complete the following half-equations.
+a MnO+H* + e - Mn2+ +
+(2 marks)
+b NO,- + H+ + NO +
+(2 marks)
+5 Use oxidation numbers to write an equation for the
+following reactions. In each reaction, there is one
+extra product to predict.
+a Hydrogen iodide, HI, reacts with concentrated
+sulfuric acid, H, 50%, to form iodine, 1,, hydrogen
+sulfide, H, S, and one other product. (3 marks)
+b Lead(IV) oxide reacts with concentrated
+hydrochloric acid to form lead(11) chloride,
+chlorine gas, and one other product. (3 marks)
+375
+23.3 lodine/thiosulfate redox titrations
+Specification reference: 5.2.3
+lodine/thiosulfate titrations
+In iodine-thiosulfate titrations, thiosulfate ions, 5.0,- (aq), are
+oxidised and iodine, Iy, is reduced.
+Oxidation: 25,032-(aq) →$402-(aq) + 2e
+Reduction: 12(aq) + 2e → 21 (aq)
+Overall: 25,0,2-(aq) + 12(aq) — 21"(aq) +S402-(aq)
+The concentration of aqueous iodine can be determined by titration
+with a standard solution of sodium thiosulfate. If it were possible to
+analyse only iodine, this titration would be very limiting. However, by
+adding another step to the process, it is possible to obtain unknown
+information about many different oxidising agents.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the techniques and
+procedures used when
+carrying out redox titrations
+involving!/5,02
+structured and non-
+structured calculations for
+12/52032-titrations.
+Analysis of oxidising agents
+3
+lodine/thiosulfate titrations can be used to determine:
+the CIO content in household bleach
+the Cu2+ content in copper(11) compounds
+the Cu content in copper alloys.
+Procedure
+Titrate this solution with the Na,s,o,(aq). During the
+titration, the iodine is reduced back to lions and the
+brown colour fades quite gradually, making it difficult
+to decide on an end point. This problem is solved by
+using starch indicator. When the end point is being
+approached, the iodine colour has faded enough to
+become a pale straw colour. The fading of the yellow-
+brown iodine colour as aqueous sodium thiosulfate is
+added is shown in Figure 1.
+1 Add a standard solution of Na,s,, to the burette.
+2 Prepare a solution of the oxidising agent to be
+analysed. Using a pipette, add this solution to a
+conical flask. Then add an excess of potassium iodide.
+The oxidising agent reacts with iodide ions to produce
+iodine, which turns the solution a yellow-brown colour.
+yellow-brown colour fades
+aqueous iodine appears
+yellow-brown
+PYREX
+250ml
+PYREX
+250ml
+Figure 1 Stages in an iodine-thiosulfate titration. Aqueous sodium thiosulfate is added until the solution has
+faded to a pale straw colour
+381
+23
+23.3 lodine/thiosulfate redox titrations
+Using starch for the end point
+When the end point is being approached and the iodine colour has faded
+enough to become a pale straw colour, a small amount of starch indicator is
+added. A deep blue-black colour forms to assist with the identification of the
+end point. As more sodium thiosulfate is added, the blue-black colour fades.
+At the end point, all the iodine will have just reacted and the blue-black
+colour disappears (Figure 2).
+when starch is added, the
+solution turns blue-black
+the blue-black colour fades
+near the end point
+the end point – the blue-black
+colour has just disappeared - all
+the iodine has been reduced to
+A Figure 2 The starch colour change in an iodine-thiosulfate titration
+Research why it is important to only add the starch indicator towards the
+end of an iodine-thiosulfate titration.
+Examples of iodine-thiosulfate titrations
+Two worked examples are provided for the analysis of two different
+oxidising agents:
+• chlorate (I) ions, ClO (aq)
+copper(II) ions, Cu2+(aq).
+The same principles can be applied for the analysis of other oxidising
+agents, provided that they are capable of oxidising I-ions to I,.
+Analysis of household bleach
+The active ingredient in household bleach is chlorate (1) ions, CIO-(aq),
+commonly known as 'hypochlorite'. Many bottles of bleach show the Nacio
+content, which supplies the active hypochlorite (CIO) ions as labelled on the
+bottle (Figure 2).
+JITENDED
+In this analysis, we will calculate the concentration of CIO-ions in bleach, in
+mol dm-3.
+INGREDIENTS:
+Disinfectant: Sodium Hypochlorite
+4.5 per 100g
+<5% Chlorine based bleach agent
+(Sodium Hypochlorite); Non-ionic
+surfactants; Cationic surfactants; Soap:
+Perfume.
+• CIO-ions from the bleach are first reacted with and Htions to form Iz:
+CIO (aq) + 21- (aq) + 2H+ (aq) → C1- (aq) +l2(aq) + H20(1)
+• In the titration, l, reacts with 5,0, 2-ions:
+25,0,?- (aq) +12(aq) — 21- (aq) +S406?- (aq)
+1 mol ClO mol produces 1 moll, which reacts with 2 mol 5,032-.
+So 1 mol CIOmol is equivalent to 2n
+A Figure 3 Bleach is a solution of
+sodium chlorate(), Nacio, commonly
+named sodium hypochlorite
+382
+23.2 Manganate (VII) redox titrations
+Specification reference: 5.2.3
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the techniques and
+procedures used when
+carrying out redox titrations
+involving Fe2+/Mn0,-
+structured and
+non-structured calculations
+for Fe2+ /MnO,-titrations
+► non-familiar redox systems.
+Carrying out redox titrations
+For redox titrations, the procedures are very similar to acid-base
+titrations and any differences will be described in examples.
+You will be studying two common redox titrations:
+• potassium manganate (VII) (KMnO, (aq)) under acidic conditions
+• sodium thiosulfate (Na,S,, (aq)) for determination of iodine (I, (aq)).
+Manganate(VII) titrations
+In manganate(VII) titrations, MnO,- (aq) ions are reduced and so the other
+chemical used must be a reducing agent that is oxidised.
+2
+,
+Synoptic link
+For full details for preparing
+standard solutions and carrying
+out a titration, see Topic 4.2,
+Acid-base titrations.
+Procedure
+1 A standard solution of potassium manganate(VII), KMnO4, is added to
+the burette.
+Using a pipette, add a measured volume of the solution being analysed
+to the conical flask. An excess of dilute sulfuric acid is also added to
+provide the H(aq) ions required for the reduction of MnO (aq) ions. You
+do not need to add an indicator, as the reaction is self-indicating
+During the titration, the manganate(VII) solution reacts and is
+decolourised as it is being added. The end point of the titration is judged
+by the first permanent pink colour, indicating when there is an excess of
+MnO,-ions present. In titrations, this end point is one of the easiest to
+judge. You can see these changes in Figure 1.
+Repeat the titration until you obtain concordant titres (two titres that
+agree within +0.10 cm).
+Reading the meniscus
+KMnO,(aq) is a deep purple colour and it is very difficult
+to see the bottom of the meniscus through the intense
+colour. In manganate(VII) titrations, burette readings are
+read from the top, rather than the bottom, of the meniscus.
+The titre is the difference between the two readings, so the
+titre is the same as reading the bottom of the meniscus,
+provided that the top is used for both initial and final
+burette readings.
+A Figure 1 Carrying out a manganate(VII) titration. On
+the left, you can see the purple manganate (VII) colour
+disappearing as the flask is being swirled. On the right, you
+can see the pale permanent pink colour at the end point
+In a manganate(VII) titration, a student obtained a
+titre of 22.30 cm. Each burette reading taken had an
+uncertainty of +0.05 cm?.
+What is the percentage uncertainty in the student's titre?
+376

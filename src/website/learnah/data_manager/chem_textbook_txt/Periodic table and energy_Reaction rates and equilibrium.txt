@@ -1,0 +1,1306 @@
+10
+REACTION RATES AND EQUILIBRIUM
+Synoptic link
+Catalysis – sustainability and economic importance
+It is estimated that 90% of all chemical materials are produced using
+a catalyst. Catalysts increase the rate of many industrial chemical
+reactions by lowering the activation energy. This then reduces the
+temperature needed for the process and the energy requirements
+You learnt about atom economy in
+Topic 3.4, Reaction quantities.
+If a chemical process requires less energy, then less electricity or fossil
+fuel is used. Making the product faster and using less energy can cut costs
+and increase profitability. The economic advantages of using a catalyst
+outweigh any costs associated with developing a catalytic process.
+The modern focus on sustainability requires industry to operate processes
+with high atom economies and fewer pollutants. Using less fossil fuel will
+cut emissions of carbon dioxide, a gas linked to global warming.
+Autocatalysis
+A chemical reaction is said to have undergone autocatalysis if a reaction
+product acts as a catalyst for that reaction. Typically the reaction starts
+slowly and then speeds up as the products are formed.
+An example of autocatalysis is shown in the equation below
+2MnO4 + 16H* + 50,0,2- →2Mn2+ + 84,0 + 1000,
+This reaction is very slow in the absence of a catalyst. However Mn3+ ions can
+act as a catalyst because manganese easily changes between the oxidation
+states, Mn + and Mn+.
+In the first step of the autocatalysis, the Mn2+ formed reduces MnO, to Mn3+,
+as shown in the equation below.
+4Mn2+ + MnO4 + 8H* — 5Mn3+ + 44,0
+The Mn3+ then oxidises the C,042- to CO2, reforming Mn2+.
+1 What is the catalyst?
+2 Write an equation for the reforming of Mn2+.
+Summary questions
+1 State the difference between a homogeneous catalyst and a heterogeneous catalyst.
+(1 mark)
+2 Describe the effect of a catalyst on the activation energy of a chemical reaction and on the enthalpy
+change of reaction.
+(2 marks)
+3 Methanol can be manufactured by the reaction of carbon dioxide with hydrogen as shown in the equation:
+3H2(g) + CO2(g)=CH2OH(g) + H20(g) AH = -49 kJ mol-1
+The activation energy of the forward reaction is +225 kJ mol-1.
+a Draw an enthalpy profile diagram for this reaction.
+(2 marks)
+b Calculate the activation energy of the reverse reaction.
+(2 marks)
+151
+REACTION RATES AND EQUILIBRIUM
+10
+CH,(g) + H2O(g) = CO(g) + 3H2(g)
+AH = +210 kJ mol-!
+a The pressure of the equilibrium mixture is
+increased.
+Explain what happens to the position of
+the equilibrium.
+(2 marks)
+b The temperature of the equilibrium
+mixture is increased.
+Explain what happens to the position of
+the equilibrium.
+(2 marks)
+The reaction is actually carried out in the
+presence of a nickel catalyst at a pressure
+of 30 atmospheres.
+(i) Suggest why the manufacturer uses a
+pressure of 30 atmospheres. (1 mark)
+(ii) The nickel catalyst increases the rate.
+Use a labelled diagram of the
+Boltzmann distribution of molecular
+energies to explain why. (3 marks)
+OCR F322 Jun 2012 Q3 (a) (b) (c)
+In the chemical industry, methanol, CH,OH,
+is synthesised by reacting together carbon
+monoxide and hydrogen in the presence of
+copper, zinc oxide and alumina which act as a
+catalyst. This is a reversible reaction.
+CO(g) + 2H,(g) = CH,OH(g)
+AH = -91 kJ mol-1
+a High pressures and low temperatures
+would give the maximum equilibrium
+yield of methanol.
+Explain why.
+(2 marks)
+b Explain why the actual conditions used in
+the chemical industry might be different
+from those in (a) above. (2 marks)
+F322 June 2009 04
+6
+Calculate the equilibrium
+concentration of NO (g) in mol dm?
+(1 mark)
+b Nitrogen gas and hydrogen gas produce
+ammonia gas as shown below.
+N2(g) + 3H2(g) = 2NH3(g)
+(i) Write the expression for K for this
+equilibrium.
+(1 mark)
+(ii) At 200 °C, the equilibrium
+concentrations are
+N,(g): 9.35 mol dm-3,
+H, (g): 0.32 mol dm-;
+NH,(g) 1.54 mol dm-3.
+Calculate the numerical value of K.
+(2 marks)
+Hydrogen and iodine are mixed together in a
+sealed container at constant temperature and
+the mixture is allowed to reach equilibrium.
+H2(g) + 1,(g) = 2HI(g) AH = -9 kJ mol-1
+At a particular temperature the equilibrium
+constant Kis 35.0. At this temperature:
+the concentration of
+H, (g) = 2.10 x 10-4 moldm-3
+the concentration of
+HI(g) = 1.507 x 10-2 moldm-3.
+a (i) Write an expression for K. (1 mark)
+(ii) Calculate the equilibrium
+concentration of I (g). (2 mark)
+b A closed system is required for dynamic
+equilibrium to be established.
+State two other features of a dynamic
+equilibrium.
+(1 mark)
+C The equilibrium mixture is heated whilst
+keeping the volume constant.
+Predict how the composition of the
+equilibrium mixture changes.
+Explain your answer.
+(2 mark)
+d The equilibrium mixture is compressed at
+constant temperature.
+Predict the effect on the composition of
+the equilibrium mixture changes.
+Explain your answer.
+(2 mark)
+7
+This question looks at two systems in
+equilibrium.
+a The equilibrium system below is set up.
+N,O_(g) = 2NO, (g)
+K = 5.0 x 10-3 moldm-3
+(i) Write the expression for K. (1 mark)
+(ii) At equilibrium, the concentration
+of N, O, is 0.50 mol dm.
+163
+10.3 The Boltzmann distribution
+Specification reference: 3.2.2
+The energy of moving particles
+You learnt at GCSE that molecules in a gas move at high speed,
+colliding with each other and with the walls of the container they are
+held in. These collisions are said to be elastic; the molecules do not
+slow down as a result of a collision and no energy is lost.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the Boltzmann distribution
+the Boltzmann distribution
+and activation energy
+the Boltzmann distribution,
+temperature changes, and
+catalysts.
+-
+the
+In a gas, a liquid, or a solution, some molecules move slowly with
+low energy and some molecules move fast with high energy. Most
+molecules move close to the average speed and have close to the
+average energy. This spread of molecular energies in gases is known
+as the Boltzmann distribution (Figure 1). The graph is marked with a
+line, E, that represents the activation energy of a reaction. You can
+see from the shaded area that only a small proportion of the molecules
+have more energy than E, that is, enough energy to react.
+Synoptic link
+You learnt about activation energy
+in Topic 9.1, Enthalpy changes.
+Study tip
+number of molecules with a given
+energy
+When sketching the Boltzmann
+curve, make sure it starts at the
+origin and the curve never crosses
+the x-axis, even at high energy.
+energy
+A Figure 1 The Boltzmann distribution of molecular energies
+There are a number of features of the Boltzmann distribution:
+No molecules have zero energy - the curve starts at the origin.
+The area under the curve is equal to the total number of molecules.
+• There is no maximum energy for a molecule - the curve does
+not meet the x-axis at high energy. The curve would need to
+reach infinite energy to meet the x-axis.
+The Boltzmann distribution and temperature
+The effect of temperature on a Boltzmann distribution curve is shown
+in Figure 2. As the temperature increases, the average energy of the
+molecules also increases. A small proportion molecules will still have
+low energy, but more molecules have higher energy. The graph is
+now stretched over a greater range of energy values. The peak of the
+graph is lower on the y-axis and further along the x-axis - the peak is
+at a higher energy. The number of molecules is the same, so the area
+under the curve remains the same.
+152
+Chapter 10 Practice questions
+Practice questions
+1 The diagram below shows an energy profile
+diagram for an endothermic reaction.
+Include the
+• products
+enthalpy change of reaction, AH
+activation energy for the forward
+reaction, E.
+(3 marks)
+enthalpy
+12
+N.(g) + 3H (g)
+enthalpy
+-
+-
+-
+-
+-
+2
+progress of reaction
+a What physical quantities are shown by
+the labels 1 and 2?
+(2 marks)
+b Explain the effect of the presence of a
+catalyst on the two quantities. (2 marks)
+a Reaction rates can be increased or
+decreased by changing conditions of
+temperature and pressure.
+(i) Explain how increasing the
+temperature increases the rate
+of reaction.
+Include a labelled sketch of the
+Boltzmann distribution. Label
+the axes.
+(4 marks)
+Your answer needs to be clear and well
+organised using the correct terminology.
+(ii) Describe and explain the effect of
+decreasing the pressure on the rate
+of a reaction.
+(2 marks)
+OCR F322 June 2014 Q6 (a)
+progress of reaction
+(ii) What is the value of the enthalpy
+change of formation of ammonia?
+(1 mark)
+(iii) The reaction between nitrogen and
+hydrogen can be catalysed.
+Suggest a possible value for the
+activation energy of the catalysed
+forward reaction.
+(1 mark)
+(iv) What is the value of the activation
+energy for the uncatalysed reverse
+reaction (the decomposition
+of ammonia into nitrogen and
+hydrogen)?
+(1 mark)
+OCR June 2012 Q4 (a)
+4 State and explain the effect, if any, of the
+following changes to the position of the
+equilibrium system below.
+250,(g) + O2(g) = 250 (g) AH = -197 kJ mol-1
+a Increasing the concentration of So,
+(1 mark)
+b Increasing the pressure.
+(1 mark)
+c Increasing the temperature (1 mark)
+d Adding a suitable catalyst. (1 mark)
+5 Hydrogen has many industrial uses including
+making margarine and ammonia.
+Hydrogen can be made by the reaction
+between methane and steam.
+3
+The uses of catalysts have great economic
+and environmental importance. For example,
+catalysts are used in ammonia production and
+in catalytic converters.
+a Nitrogen and hydrogen react together in
+the production of ammonia, NH,.
+N,(g) + 3H, (g) = 2NH, (g)
+AH = -92 kJ mol-1
+The activation energy for the forward
+reaction, E, is +250 kJ mol-I.
+(i) Complete the enthalpy profile
+diagram for this reaction between
+nitrogen and hydrogen.
+162
+10
+REACTION RATES AND EQUILIBRIUM
+The equilibrium concentrations are:
+[H,(g)] = 8.00 x 10-4 mol dm-3
+Summary questions
+[1, (g)] = 1.20 x 10-4 mol dm-3
+• [HI(g)] = 2.28 x 10-mol dm3
+Step 1: Write the expression for K.
+K= [HI(g)]
+1 The reversible reaction below is
+allowed to reach equilibrium:
+[H,(g)] [L2(g)]
+Step 2: Calculate K.
+K = _
+(2.28 x 10-3,2
+= 54.2
+(8.00 x 10-4) x (1.20 x 10-4)
+CH,COOH() + C,H,OH() =
+CH,COOC2H5(1) + H20(1)
+At equilibrium, the
+concentrations of
+CH,COOC, H.(I) and H,O(1)
+are 0.25 mol dm 3. The
+concentration of CH,COOH (1)
+is 0.10 mol dm' and of
+C,H,OH() is 0.40 mol dm-3.
+a Write the expression
+for K for this equilibrium.
+(1 mark)
+b Calculate a value for K.
+1 mark)
+o Worked example 2: Writing and calculating K.
+In the manufacture of ammonia at 400°C, the equilibrium
+concentrations are N2(g): 18.6 moldm", H2(g): 0.900 moldm-,
+NH, (g): 1.50 moldm-3.
+N, (g) + 3H2(g) = 2NH2(g)
+Calculate the value for K, to three significant figures.
+Step 1: Write the expression for K
+- [NH,(g)12
+^
+[N, (g)] [H,(g)
+Step 2: Calculate K.
+(1.50)
+(18.6) (0.900)3 = 0.166 (dmºmol-2)
+2 The reversible reaction below is
+allowed to reach equilibrium at
+constant temperature.
+H2(g) +12(g) =2HI(g)
+The equilibrium concentrations
+are 0.40 mol dm-3H2(g),
+0.30 mol dm-31, (g),
+and 0.14 mol dm-3 HI(g). Write
+the expression for K and
+calculate a value for K.
+(2 marks)
+What does the value of K tell us?
+In the two examples above, the calculated K values were 54.2 and
+0.166. The magnitude of K indicates the relative proportions of
+reactants and products in the equilibrium system.
+As a rough guide,
+3 For the equilibrium system
+250,(g) + O2(g) =2503 (8)
+the equilibrium concentrations
+.
+a K value of 1 indicates a position of equilibrium that is halfway
+between reactants and products.
+are:
+a K value > 1 indicates a position of equilibrium that is towards
+the products, for example, 54.2 in worked example 1.
+a K value < 1 indicates a position of equilibrium that is towards
+the reactants, for example, 0.166 in worked example 2.
+[s0, (g)] = 0.23 mol dm-3,
+[0,(g)] = 1.37 moldm-3,
+(S0, (g)] = 0.92 mol dm?
+Write the expression for K
+and calculate the value of
+K at this temperature.
+(2 marks)
+So the larger the value of K, the further the position of equilibrium
+lies to the right-hand side and the greater the concentrations of the
+products compared to the reactants.
+161
+10
+REACTION RATES AND EQUILIBRIUM
+Making ammonia with the Haber process
+The equation for the Haber process is shown below.
+N, (g) + 3H, (g)=2NH2(g) AH =-92 kJ mol-1
+cheaply, and safely. The actual conditions vary depending
+on the process; however, temperatures of 350-500°C and
+pressures of 100-200 atm are usual. An iron catalyst is
+used to speed up the reaction so that lower temperatures
+can be used and operating costs are reduced. Only about
+15% of the nitrogen and hydrogen is converted to ammonia.
+le Chatelier's principle can be used to predict the best
+conditions of temperature and pressure to force the
+equilibrium to the right in order to produce the maximum
+yield of ammonia.
+A low temperature will push the equilibrium to the right.
+A high pressure will push the equilibrium to the right.
+Why not use these conditions?
+However, unreacted nitrogen and hydrogen are recycled
+repeatedly, so nearly all of the nitrogen and hydrogen used is
+eventually converted into ammonia.
+A low temperature would produce a high yield
+of product, but would do so very slowly. If the
+temperature is too low, the rate may be so slow that
+equilibrium may not even be established.
+A high pressure not only increases the yield but also
+forces the molecules closer together, increasing the
+concentration and increasing the rate of reaction.
+However, a very high pressure requires a very strong
+container and a large quantity of energy, increasing the
+cost of the process. Safety is also a concern, as a failure
+in the steelwork or seals of the plant could lead to hot
+gases, including toxic ammonia, leaking under pressure,
+endangering the workforce and the surrounding area.
+A typical ammonia plant operates under compromise
+conditions using a high enough temperature to give a
+reasonable rate without shifting the equilibrium position
+too far away from ammonia and back to the reactants. This
+ensures that a good yield of ammonia is achieved quickly,
+A Figure 8 Air-separating factory for producing industrial
+gases such as nitrogen for the Haber process
+Explain the two predictions made by le Chatelier's
+principle for producing the maximum yield of ammonia
+in the Haber process
+Summary questions
+1 State the result of an increase in pressure on the following equilibria.
+a N20,(g) = 2NO, (g)
+b CO(g) + 2H2(g) =CH,OH(g)
+c H2(g) + Brą (g)=2HBr(g)
+(1 mark)
+(1 mark)
+(1 mark)
+2 State the result of an increase in temperature on the following equilibria.
+AH = +180 kJ mol-1
+b 2502(g) + O2(g) = 250,(8) AH = -197 kJ mol-1
+(1 mark)
+(1 mark)
+3 State how you would alter the temperature and pressure to increase the yield of the products in the equilibria below.
+a CO(g) + 2H2(g)=CH,OH(g) AH = -92 kJ mol-1
+(2 marks)
+AH = +124 kJ mol-1
+(2 marks)
+159
+REACTION RATES AND EQUILIBRIUM
+10
+Figure 3 shows the formation of a product over the course of a
+chemical reaction. The slope of the curve is steepest at the start of the
+reaction, when the rate is greatest. The curve becomes less steep as the
+reaction proceeds. Eventually the curve becomes a straight line parallel
+to the x-axis when the reaction is complete and the rate is zero.
+Altering the rate of a chemical reaction
+You will remember from GCSE that a number of factors can change
+the rate of a chemical reaction:
+concentration (or pressure when reactants are gases)
+temperature
+use of a catalyst
+surface area of solid reactants.
+To understand why the rate changes, you need to think about
+reactions in terms of the particles involved. The collision theory
+states that two reacting particles must collide for a reaction to occur.
+Usually only a small proportion of collisions result in a chemical
+reaction. In most collisions, the molecules collide but then bounce off
+each other and remain chemically unchanged.
+Figure 4 You can think of the effect
+of concentration as like a crowded
+street. The greater the number of people
+in a crowd, the more chance there is of
+a collision taking place
+Why are some collisions effective and others ineffective?
+An effective collision is one that leads to a chemical reaction (Figure 5).
+A collision will be effective if two conditions have been met:
+Synoptic link
+You learnt about activation energy
+is in Topic 9.1, Enthalpy changes.
+We will look in more detail at
+activation energy and reaction rate
+in Topic 10.2, Catalysts.
+the particles collide with the correct orientation
+the particles have sufficient energy to overcome the activation
+energy barrier of the reaction.
+Ineffective collision
+No reaction - the two blue
+atoms must collide for a reaction to occur
+Effective collision
+Reaction takes place, as the two blue atoms
+collide to form a new product
+Figure 5 For a reaction to occur, collisions must take place with the correct
+orientation and with sufficient energy for a reaction to occur
+How does increasing the concentration affect the rate of reaction?
+When the concentration of a reactant is increased, the rate of reaction
+generally increases. An increase in concentration increases the number
+of particles in the same volume. The particles are closer together and
+collide more frequently. In a given period of time there will therefore
+be more effective collisions (correct orientation and sufficient energy)
+and an increased rate of reaction (Figure 6).
+Figure 6 Marble chips in different
+concentrations of acids - the highest
+concentration on the left and the
+lowest concentration on the right. The
+more concentrated the acid, the more
+frequent the collisions of H*(aq) ions
+with the marble chips and the faster
+hydrogen gas is produced
+145
+10.1 Reaction rates
+How does increasing the pressure of a gas affect the rate of reaction?
+When a gas is compressed into a smaller volume the pressure of a gas
+is increased and the rate of reaction increases. The concentration of the
+gas molecules increases as the same number of gas molecules occupy a
+smaller volume. The gas molecules are closer together and collide more
+frequently, leading to more effective collisions in the same time.
+Methods for following the progress of a reaction
+The progress of a chemical reaction can be followed by:
+Study tip
+When asked to identify a method
+for measuring the rate of a reaction,
+the equation may give you a clue.
+If a product has a (g) as its state
+symbol then the method could
+involve gas collection.
+• monitoring the removal (decrease in concentration) of a reactant
+following the formation increase in concentration) of a product.
+The method chosen will depend on the properties and physical states of
+the reactants and products in the reaction. In addition to concentration,
+measurable properties that might change as the reaction proceed
+include gas volume, mass of reactants or products, and colour.
+Synoptic link
+As part of the practical skills
+required for your course, you need
+to know how to measure mass,
+volumes of solutions, and volumes
+of gases.
+Reactions that produce gases
+If a reaction produces a gas, two methods that can be used to
+determine the rate of the reaction are:
+. monitoring the volume of gas produced at regular time intervals
+using gas collection
+. monitoring the loss of mass of reactants using a balance.
+This practical application box tells
+you how to measure volumes of
+gases.
+Volume of gas produced and mass loss are both proportional to the
+change in concentration of a reactant or product. So the change in
+volume with time or the mass loss with time both give a measure of
+the rate of reaction.
+Measuring mass, volumes of
+solutions, and volumes of gases
+are also covered in:
+Topic 3.2, Determination of
+formulae, for how to measure
+mass
+Topic 3.4, Reacting quantities,
+for how to measure the
+volumes of gases
+Topic 4.2, Acid-base titrations,
+for how to measure volumes of
+solutions
+Topic 9.2, Measuring enthalpy
+changes, for how to measure
+mass.
+Monitoring the production of a gas using gas collection
+The rate of reaction for the decomposition of hydrogen peroxide, can
+be measured using the apparatus shown in Figure 7.
+The equation for the reaction is shown below.
+2H2O2(aq)
+MnO, catalyst
+2H,0(1) + 0,()
+1 Hydrogen peroxide is added to the conical flask and the bung is replaced.
+2 The initial volume of gas in the measuring cylinder is recorded.
+clamp
+delivery tube
+measuring cylinder
+Study tip
+conical flask
+trough
+reactants
+water
+When setting up this experiment
+you should ensure the water level
+starts close to zero on the scale.
+A Figure 7 Apparatus to measure the rate of a reaction in which a gas is produced
+146
+10.5 The equilibrium constant K - part 1
+Specification reference: 3.2.3
+The position of equilibrium
+In Topic 10.4, you learnt that a dynamic equilibrium exists when the
+rate of the forward reaction is equal to the rate of the reverse reaction.
+You also learnt about how changing the concentration, temperature,
+and pressure can change the position of equilibrium.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ expressions for K
+→ calculation of K from
+equilibrium concentrations
+estimation of the position
+of equilibrium from the
+magnitude of K.
+In this topic you will learn how to calculate equilibrium constants.
+An equilibrium constant provides the actual position of equilibrium.
+The magnitude of an equilibrium constant indicates whether there
+are more reactants or more products in an equilibrium system.
+Synoptic link
+The equilibrium law
+The exact position of equilibrium is calculated using the equilibrium
+law. For any reaction at equilibrium it is possible to write an
+expression for the equilibrium constant K in terms of equilibrium
+concentrations.
+You will learn more about
+equilibrium constants, including
+where the units come from, in
+Chapter 19, Equilibrium.
+Consider a general reversible reaction:
+aA + bB = CC + dD
+Study tip
+The equilibrium law defines the equilibrium constant K in terms
+of concentrations.
+K
+- [C] [D]
+When writing equilibrium
+constants, remember that the
+concentrations of the products
+are always divided by the
+concentrations of the reactants.
+[A] [B]
+[products]
+[reactants]
+Square brackets, [ ], are shorthand for 'concentration of'.
+. a, b, c, d are the balancing numbers in the overall equation.
+[A], [B], [C], [D] are the equilibrium concentrations of the
+reactants and products of this equilibrium.
+For example, the expression for K for the equilibrium reaction
+N2(g) + O2(g) = 2NO(g) is:
+[NO(g)]
+K =
+[N,()] [O2(g)]
+Calculating K from equilibrium concentrations
+To calculate an equilibrium constant you need to know
+the equilibrium concentrations of the reactants and products.
+Study tip
+Don't forget that the balancing
+numbers in the equation are
+accounted for in the expression
+for K, so there's no need to
+multiply any concentrations by
+the balancing number. Here, for
+example, the concentration of
+hydrogen iodide is squared - you
+don't need to multiply it by two
+as well.
+6) Worked example 1: Writing and calculating K.
+Calculate the value of K for the following equilibrium:
+H2(g) + 1,(g) = 2HI(g).
+Give your answer to three significant figures.
+160
+REACTION RATES AND
+EQUILIBRIUM
+10.1 Reaction rates
+Specification reference: 3.2.2, 2.1.3
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the effect of concentration
+on reaction rate
+► the effect of pressure on
+reaction rate
+reaction rates from the
+gradients of graphs.
+How fast is a reaction?
+Some chemical reactions are complete within a fraction of a second,
+whereas others may take centuries. High explosives detonate immediately
+and fireworks shoot upwards producing amazing displays of colour the
+instant the fuse burns down (Figure 1), whereas iron rusts relatively
+slowly - good news if you want to cross the Forth Rail Bridge (Figure 2).
+What is meant by rate of reaction?
+The rate of a chemical reaction measures how fast a reactant is
+being used up or how fast a product is being formed. The rate of a
+reaction can be defined as the change in concentration of a reactant
+or a product in a given time.
+rate =
+change in concentration
+time
+te moldm-3
+-= moldm-35-1
+The rate of a reaction is fastest at the start of the reaction, as each
+reactant is at its highest concentration.
+The rate of reaction slows down as the reaction proceeds, because
+the reactants are being used up and their concentrations decrease.
+Once one of the reactants has been completely used up, the
+concentrations stops changing and the rate of reaction is zero.
+Figure 1 Firework display over Tower
+Bridge in London. Fireworks are an
+example of a fast reaction
+Concentration/mol dm-3
+Figure 2 The Forth Rail Bridge takes
+many years to paint but fortunately,
+longer to rust
+300
+0 50 100 150 200 250
+Time/s
+A Figure 3 Concentration-time graphs can be used to monitor the rate of
+a chemical reaction
+144
+10.4 Dynamic equilibrium and le Chatelier's principle
+Study tip
+The effect of temperature on the position of equilibrium for exothermic
+and endothermic reactions is summarised in Table 1.
+Table 1 The effect of temperature on the position of equilibrium
+Forward reaction
+Increase temperature
+Decrease temperature
+When discussing changes in
+temperature, always state whether
+the forward reaction is exothermic
+or endothermic. An exothermic
+change has a negative AH value,
+and an endothermic change has a
+positive AH value.
+exothermic
+Position of equilibrium
+shifts to the left.
+Position of equilibrium
+shifts to the right.
+(A His negative)
+More reactants are made.
+endothermic
+Position of equilibrium
+shifts to the right.
+More products are made.
+Position of equilibrium
+shifts to the left.
+(A His positive)
+More products are made.
+More reactants are made.
+The effect of pressure changes on equilibrium
+Changing the pressure of a system containing gases in equilibrium may
+result in the position of equilibrium changing, but only if there are
+more gaseous molecules on one side of the equation than the other.
+The gases nitrogen dioxide, NO,(g), and dinitrogen tetroxide, N, O,(g),
+have different colours. The gases form the equilibrium below.
+Study tip
+2NO(g)
+N20,(g)
+brown
+colourless
+2 mol
+1 mol
+The pressure of a gas is proportional to its concentration. In the same
+container, two moles of NO,(g) would have twice the concentration and
+twice the pressure as the same container holding one mole of N, O,(g)
+When discussing changes in
+pressure, always state whether
+there are more moles of gas on the
+left or right of the equation.
+Increasing the pressure of the system will shift the position of
+equilibrium to the side with the fewer molecules, reducing the
+pressure of the system.
+increase pressure
+shift towards fewer
+gaseous molecules
+As there are fewer gaseous moles on the right-hand side of
+the equilibrium, the position of equilibrium shifts to the right
+reducing the number of gaseous moles to minimise the increase
+in pressure.
+• More colourless N, O,(g) is formed and the brown colour fades.
+Decreasing the pressure shifts the position of equilibrium in the
+opposite direction, to the side with more gaseous moles on the left and
+making the brown colour deeper (Figure 7).
+2NO2(g) =
+brown
+N20 (8)
+colourless
+decrease pressure
+shift towards fewer
+gaseous molecules
+The effect of a catalyst on equilibrium
+A catalyst does not change the position of equilibrium; it merely
+speeds up the rates of the forward and reverse reactions equally.
+A catalyst will, however, increase the rate at which an equilibrium
+is established.
+Figure 7 Effect and increasing
+and decreasing the pressure on the
+equilibrium 2NO (9)=N20 (9)
+158
+10
+REACTION RATES AND EQUILIBRIUM
+Study tip
+Cobalt chloride, Cocl,, dissolves in water to form a pink solution.
+The dissolving process actually produces an equilibrium between two
+complexes of cobalt that are different colours:
+AH [Co(H20),12+(aq) + 4CH(aq) = C0C1,- (aq) + 6H2O(1) AH
+is negative
+is positive
+blue
+When discussing changes in
+temperature, always state whether
+the forward reaction is exothermic
+or endothermic.
+pink
+A Figure 5 The (Co(H20)]2+ (aq)/C0C1, ?- (aq) equilibrium
+This equilibrium is sensitive to changes in temperature and the
+different colours makes it easy to follow any change in equilibrium
+position. You can carry out a simple experiment to show this.
+Study tip
+1 Dissolve cobalt chloride in water in a boiling tube. Add a small
+quantity of hydrochloric acid. Place the boiling tube in some iced
+water. The solution is a pink colour.
+2 Set up a boiling water bath and transfer the boiling tube into the
+boiling water. The solution turns a blue colour.
+3 Transfer the boiling tube back to the iced water. The solution
+changes back to a pink colour.
+u can repeat steps 2 and 3 many times and the colour will change each
+time from pink to blue and back to pink again. So how does it work?
+A small amount of hydrochoric
+acid can be added to provide
+more CI-(aq) ions. This shifts the
+equilibrium slightly towards the
+right and helps to achieve the
+colour changes. (See effect of
+concentration above)
+In the boiling water, you are increasing the heat energy of the system.
+This causes the position of equilibrium to shift to minimise the change.
+•
+As the forward reaction is endothermic (AH is positive), the position
+of equilibrium shifts to the right in the endothermic direction, to take
+heat energy in and minimise the increase in temperature.
+The solution turns a blue colour.
+.
+Decreasing the temperature shifts the position of equilibrium in the
+opposite direction, in the direction that gives out energy, to the reverse
+exothermic side (AH is negative) on the left.
+Figure 6 summarises these changes.
+Increase temperature
+Shift in endothermic direction
+AH [Co(H20),12+(aq) + 4C1-(aq) = Coc1,- (aq) + 6H2O(1) AH
+is negative pink
+blue is positive
+decrease temperature
+Shift in exothermic direction
+A Figure 6 The effect of changing temperature on the Co(H20)]2+(aq) CoCl2-(aq)
+equilibrium
+157
+10
+REACTION RATES AND EQUILIBRIUM
+3 Manganese dioxide, MnO,, catalyst is then quickly
+added to the conical flask and the bung is replaced.
+A stop clock is started.
+4 The volume of gas produced in the measuring cylinder
+is recorded at regular intervals until the reaction is
+complete.
+5 The reaction is complete when no more gas is produced.
+Alternatively, a gas syringe can be used instead of a
+measuring cylinder.
+A graph is plotted of total volume of gas produced
+against time. To calculate the initial rate of the reaction,
+a tangent is drawn to the curve at t = 0 (Figure 9). The
+gradient of the tangent gives the reaction rate.
+A Figure 8 Apparatus for collecting a gas with a syringe
+120
+volume of gas produced/cm3
+) Worked example: Calculating
+reaction rates from gas produced
+Step 1: Plot a graph of volume of gas
+produced against time (Figure 8).
+Step 2: Draw a tangent at t = 0 (red line in
+Figure 8). This is the initial rate.
+Step 3: Calculate the rate from the gradient
+of the tangent.
+rate from the gradient = 4 =
+_y_120 - 40
+x 24 - 8
+= 80 = 5.0 cm's-1
+0 20 40 60 80
+Time/s
+Figure 9 Graph of volume of gas produced against time
+Calculate the rate after:
+a 24 s
+b 40 s
+Monitoring the loss of mass of reactants using a balance
+The rate of reaction between calcium carbonate and hydrochloric
+acid can also be determined by monitoring the loss in mass of the
+reactants over a period of time. The equation for the reaction is
+shown below.
+19:49
+194.19
+CaCO3(s) + 2HCl(aq) → CaCl2(aq) + CO2(g) + H20(1)
+The carbonate and the acid are added to a conical flask on a balance.
+The mass of the flask and contents is recorded initially and at
+regular time intervals. The reaction is complete when no more gas is
+produced so no more mass is then lost. A graph of mass lost against
+time is plotted.
+Figure 10 Monitoring mass loss
+using a balance. The two readings
+show that mass has been lost as gas is
+released
+147
+10
+REACTION RATES AND EQUILIBRIUM
+At higher temperature,
+T2, the peak is lower
+and shifted to the right
+Study tip
+number of molecules with a given
+energy
+At higher temperature,
+T2, a greater proportion
+of molecules can overcome
+the activation energy.
+You may be asked to explain how
+increasing the temperature or
+using a catalyst increases the rate
+of a chemical reaction. You will
+need to include ideas about the
+Boltzmann distribution.
+Es
+energy
+Figure 2 The effect of temperature on the Boltzmann distribution
+At higher temperature:
+• More molecules have an energy greater than or equal to the
+activation energy.
+Therefore a greater proportion of collisions will lead to a reaction,
+increasing the rate of reaction.
+Collisions will also be more frequent as the molecules are moving
+faster, but the increased energy of the molecules is much more
+important than the increased frequency of collisions.
+Summary questions
+The Boltzmann distribution and catalysts
+In Topic 10.2 you learnt that a catalyst lowers the activation energy of
+a reaction. The effect of a catalyst on activation energy is shown on a
+Boltzmann distribution curve in Figure 3.
+1 Explain what is meant
+by the term activation
+energy.
+(1 mark)
+In the presence of a catalyst a greater
+proportion of molecules exceeds the
+new lower activation energy.
+2 Describe and explain how
+the rate of reaction is
+affected by a decrease
+in temperature (2 marks)
+activation energy
+with catalyst
+number of molecules with a
+given energy
+activation energy
+without catalyst
+Ec
+energy
+activation energy reduced
+a Sketch a Boltzmann
+distribution curve for
+a volume of gas at
+temperature 1. Add a
+second curve for the
+distribution at a higher
+temperature, T. (2 marks)
+b Explain how raising the
+temperature increases
+the rate of reaction,
+using your answer
+to (a) above. (2 marks)
+c Using the Boltzmann
+distribution, explain how
+the presence of a catalyst
+increases the rate
+of reaction. (2 marks)
+Figure 3 The effect of a catalyst on the number of molecules with
+enough energy to react.
+A catalyst provides an alternative reaction route with a lower
+activation energy (E, on the graph). Compared to E a greater
+proportion of molecules now have an energy equal to, or greater than
+the lower activation energy, E. On collision, more molecules will react
+to form products. The result is an increase in the rate of reaction.
+153
+10.4 Dynamic equilibrium and
+le Chatelier's principle
+Specification reference: 3.2.3
+Introducing reversible reactions
+When ignited, hydrogen reacts with oxygen in the air to form water
+At the end of the reaction all the hydrogen has been used up. The
+reaction has gone to completion. The equation contains an arrow
+pointing from reactants to products.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of: :
+→ dynamic equilibrium
+→ le Chatelier's principle
+→ the effect of temperature,
+concentration, and pressure
+on the position of equilibrium
+→ catalysts and equilibrium.
+2H2(g) + O2(g) → 2H2O(1)
+reactants products
+In this topic, you will look at some reversible reactions, reactions
+that take place in both 'forward' and 'reverse' directions. Many of
+these reactions are important industrial processes, for example, the
+Haber process for manufacturing ammonia:
+N2(g) + 3H2(g) = 2NH3(g)
+The = symbol indicates that the reversible reaction is in equilibrium.
+Dynamic equilibrium
+In an equilibrium system:
+the rate of the forward reaction is equal to the rate of the reverse
+reaction
+the concentrations of reactants and products do not change.
+•
+Equilibrium systems are dynamic. At equilibrium both the forward
+and reverse reactions are taking place. As fast as the reactants are
+becoming products, the products are reacting to become reactants.
+Therefore in an equilibrium system the concentrations of the reactants
+and products remain unchanged even though the forward and reverse
+reactions are still taking place.
+Synoptic link
+See Topic 9.1, Enthalpy changes,
+for details of the chemical system
+and the surroundings.
+For a reaction to remain in equilibrium, the system must be closed.
+A closed system is isolated from its surroundings, so the temperature,
+pressure, and concentrations of reactants and products are unaffected
+by outside influences.
+le Chatelier's principle
+The position of equilibrium indicates the extent of the reaction.
+In a reversible reaction, if the temperature, pressure (for reactions
+involving gases), or concentration of the reactants or products is
+changed, then the position of equilibrium may change.
+le Chatelier's principle states that when a system in equilibrium
+is subjected to an external change the system readjusts itself to
+minimise the effect of that change.
+154
+10.1 Reaction rates
+B Worked example: Calculating reaction rates from
+mass loss
+Step 1: Plot a graph of mass lost against time (Figure 10).
+Step 2: Draw a tangent to the curve at t = 0 (red line in
+Figure 11). This is the initial rate.
+Step 3: Calculate the rate from the gradient of the tangent.
+rate from the gradient = 4 = 9,0 = 8.6 x 10-gs-!
+Step 4: To calculate the rate at a specific time, the same tangent
+method is used. In Figure 11, the orange tangent is used
+to find the rate of reaction after 100 s.
+gradient = * = 2,36 = 1.7 x 10-gs!
+mass lost/g
+0
+50
+100
+150 200
+time/s
+250
+300
+350
+Figure 11 Graph of mass loss against time
+Summary questions
+1 Changing the concentration of a reactant alters the rate of a reaction. State three other factors that can
+affect the rate of a chemical reaction. Explain how an increase in concentration increases the rate.
+(5 marks)
+2 State two possible methods for monitoring the rate of the following reaction:
+MgCO2 (s) + 2HCl(aq) — MgCl2(aq) + CO2(g) + H20(1)
+(2 marks)
+3 The reaction 2N20 (g) 4NO2(g) +0,(g) was carried out. The concentration of the N, O, was recorded every
+200 s and the following data obtained.
+[N,0.(g)]/mol dm-3 1.00 0.88 0.78 0.69 0.61 0.54 0.48 0.43 0.38 0.34
+Time/s 0 200400 600 800 1000 1200 1400 1600 1800
+a Plot a graph of (N,O(g)) on the y-axis against time on the x-axis.
+(2 marks)
+b Calculate the initial rate of reaction and the rate of reaction after 1000 S.
+(2 marks)
+148
+10.4 Dynamic equilibrium and le Chatelier's principle
+Looking to Figure 3, you would expect that the position of equilibrium
+could be changed by altering the concentrations of the reactants or
+products. You can carry out a simple experiment to show this.
+1 Add a solution of yellow potassium chromate, K,Croq, to a beaker.
+2 Add dilute sulfuric acid, H,SO, dropwise until there is no further
+change. The solution turns an orange colour.
+3 Add aqueous sodium hydroxide, NaOH(aq), until there is no
+further change. The solution changes back to a yellow colour.
+You can repeat steps 2 and 3 many times and the colour will change
+each time from yellow to orange and back to yellow again. So how
+does it work?
+When you add dilute sulfuric acid, H,SO, you are increasing the
+concentration of H+(aq) ions. This increases the rate of the forward
+reaction and so causes the position of equilibrium to shift to minimise
+the change in H+ (aq) concentration.
+1
+2
+This shift decreases the concentration of the added reactant, H+(aq).
+The position of equilibrium shifts to the right of the equation,
+making more products
+A new position of equilibrium is established towards the products.
+• The solution turns orange as Cr, 0,2- forms.
+3
+When you add aqueous sodium hydroxide, NaOH(aq), the added OH(aq)
+ions react with H+ (aq) ions, decreasing the concentration of H+ (aq) ions.
+H(aq) + OH(aq) → H2O(1)
+The decreased concentration of the reactant, H(aq) decreases the rate
+of the forward reaction and so causes the position of equilibrium to
+shift to minimise the change in concentration.
+add acid
+concentration of H+(aq) increases
+1.2-(aq) + 2H+(aq) — CO2-lag) HOM
+yellow
+orange
+1 The shift increases the concentration of the reactant that has been
+removed, H(aq).
+2 The position of equilibrium shifts to the left, making more of the
+H (aq) reactant.
+3 A new position of equilibrium is established.
+• The solution turns yellow as Cro -(aq) forms.
+Figure 4 summarises these changes.
+Investigating changes to the position of equilibrium with temperature
+Changing the temperature of a system in equilibrium will result in the
+position of equilibrium changing.
+add alkali
+concentration of H+ (aq) decreases
+A Figure 4 The effect of changing
+the concentration of H+ (aq) on the
+Cro, ?-(aq)/Cr,0,2-(aq) equilibrium
+The direction in which the equilibrium shifts depends on the sign of AH.
+Synoptic link
+Forward and reverse directions have the same value for the
+enthalpy change - but the signs are opposite.
+An increase in temperature shifts the equilibrium position in the
+endothermic direction (AH is positive)
+An decrease in temperature shifts the equilibrium position in the
+exothermic direction (AH is negative)
+You met AH in Topic 9.1, Enthalpy
+changes.
+156
+10.2 Catalysts
+2
+Synoptic link
+You will learn more about the
+catalytic breakdown of ozone
+in Topic 15.2, Organohalogen
+compounds in the environment,
+Ozone depletion (Cl• radicals as catalyst)
+The equation below shows the depletion of ozone, O2, in the
+presence of chlorine radicals, Cl, which act as a catalyst.
+CI(g)
+20,(g) 8) 30,(9)
+The reactant (0,) and the catalyst (Cl•) are both gases.
+Heterogeneous catalysts
+A heterogeneous catalyst has a different physical state from the
+reactants. Heterogeneous catalysts are usually solids in contact with
+gaseous reactants or reactants in solution. Reactant molecules are
+adsorbed (weakly bonded) onto the surface of the catalyst, where
+the reaction takes place. After reaction, the product molecules leave
+the surface of the catalyst by desorption.
+Some of the many common industrial processes that use heterogeneous
+catalysis are listed in Table 1.
+Table 1 Industrial processes involving heterogeneous catalysts
+Process
+making ammonia (Haber process)
+Catalyst
+Fe(s)
+Equation
+N, (g) + 3H2(g) = 2NH2(g)
+reforming
+Pt(s) or
+Rh(s)
+Ni(s)
+hydrogenation of alkenes
+making sulfur trioxide for sulfuric
+acid (contact process)
+CH24 (g) → CH2(g) + H2(g)
+C2H2(g) + H2(g) → CH()
+2502(g) + O2(g)=2503(e)
+V20(s)
+Heterogeneous catalysts and atmospheric pollution
+Since 1992 all petrol vehicles manufactured for road use in the UK must be
+fitted with a catalytic converter by law to pass the MOT test.
+Figure 3 Fumes from car exhaust
+pipes
+Catalytic converters contain a catalyst made of platinum, rhodium, and
+palladium supported on a honeycomb mesh that provides a large surface
+area on which the reactions can take place (Figure 4). The hot exhaust
+gases are passed over this heterogeneous catalyst, and harmful gases are
+converted into less harmful products.
+Combustion in a petrol engine forms the toxic gases carbon monoxide and
+nitrogen monoxide. In the catalytic converter, carbon monoxide is oxidised
+to carbon dioxide, and nitrogen monoxide is reduced to nitrogen gas.
+The carbon dioxide and nitrogen products are both non-toxic and can be
+released into the atmosphere. In addition, any unburnt hydrocarbons are
+oxidised to water and carbon dioxide.
+Figure 4 Catalytic converters have
+a large surface area for heterogeneous
+catalysis to convert harmful exhaust
+gases into less harmful gases that can
+be released into the atmosphere
+Write a balanced equation for the reaction of carbon monoxide and
+nitrogen monoxide in a catalytic converter.
+150
+10.2 Catalysts
+Specification reference: 3.2.2
+What does a catalyst do?
+A catalyst is a substance that changes the rate of a chemical reaction
+without undergoing any permanent change itself.
+•
+The catalyst is not used up in the chemical reaction.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the role of a catalyst
+► enthalpy profile diagrams
+→ homogeneous and
+heterogeneous catalysts.
+The catalyst may react with a reactant to form an intermediate
+or may provide a surface on which the reaction can take place.
+At the end of the reaction the catalyst is regenerated.
+A catalyst increases the rate of a chemical reaction by providing
+an alternative reaction pathway of lower activation energy. See the
+enthalpy profile diagrams in Figure 1 and Figure 2 for catalysis in
+exothermic and endothermic reactions (Figure 1).
+Exothermic
+Endothermic
+Es: without catalyst
+Ec: with catalyst
+reactants
+products
+enthalpy
+enthalpy
+Study tip
+When drawing enthalpy profile
+diagrams:
+Reactants and products should
+be shown at the correct levels
+with respect to each other
+AH should be shown with an
+arrow pointing in the correct
+direction
+• The activation energy should be
+shown with an upward arrow.
+AH
+AH
+reactants
+Y
+products
+_
+progress of reaction
+progress of reaction
+Figure 1 Exothermic reaction with and
+without a catalyst
+A Figure 2 Endothermic reaction, with
+and without a catalyst
+Types of catalyst
+Homogeneous catalysts
+A homogeneous catalyst has the same physical state as the reactants.
+The catalyst reacts with the reactants to form an intermediate. The
+intermediate then breaks down to give the product and regenerates
+the catalyst.
+Synoptic link
+You will learn more about esters
+and esterification in Topic 26.4,
+Carboxylic acid derivatives.
+Two examples of the many reactions of gases and liquids that use
+homogeneous catalysis are shown below:
+1 Making esters with sulfuric acid as a catalyst
+The equation below shows the preparation of the ester,
+CH,COOC,Hz, from ethanoic acid, CH,COOH, and ethanol,
+C,H,OH. Sulfuric acid, H,SO,, is the catalyst.
+H,SO (1)
+C,H,OH(1) + CH,COOH(l) = CH,COOC,Hz(1) + H20(1)
+Synoptic link
+You learnt about activation
+energies and endothermic and
+exothermic reactions in Chapter 9,
+Enthalpy.
+The reactants (ethanol and ethanoic acid) and the catalyst (sulfuric
+acid) are all liquids.
+149
+REACTION RATES AND EQUILIBRIUM
+10
+Figure 1 illustrates a system in which the equilibrium has been
+disrupted by adding more reactant molecules. The position of
+equilibrium shifts to the right of the equation. More products are
+made than reactants until a new equilibrium is established.
+system in equilibrium
+equilibrium disrupted
+by the addition of more reactants
+system readjusted
+A Figure 1 When an equilibrium system is subjected to a change the position of equilibrium moves in such
+a way as to minimise the change
+The effect of concentration changes on equilibrium
+Changing the concentration of a reactant or a product in an equilibrium
+system will change the rate of the forward or reverse reactions. The
+position of equilibrium will then change. Figure 2 shows the effect
+of changing the concentration of reactants or products.
+increase in concentration of A or B
+decrease in concentration of Cor D
+When an equilibrium system adjusts as a result of a change:
+A
++
+B
+=
+C
++
+D
+if there are more products formed, the position of the
+equilibrium has shifted to the right
+if there are more reactants formed, the position of the
+equilibrium has shifted to the left.
+increase in concentration of C or D
+decrease in concentration of A or B
+A Figure 2 The effect of concentration
+on the position of the equilibrium
+If you choose equilibria where the reactants and products have
+different colours, simple experiments can illustrate how the
+position of equilibrium changes with an external change.
+Investigating changes to the position of equilibrium with concentration
+The equilibrium between aqueous chromate ions, Cro 2-, and
+dichromate ions, Cr,0,2-, is sensitive to changes in acid concentration.
+Solutions of chromate and dichromate ions have different colours
+so it is easy to see any shift in the position of equilibrium (Figure 3).
+20r0,-(aq) + 2H+ (aq) = Cr,0,2-(aq) + H2O(1)
+yellow
+orange
+Figure 3 The chromate/dichromate equilibrium
+155

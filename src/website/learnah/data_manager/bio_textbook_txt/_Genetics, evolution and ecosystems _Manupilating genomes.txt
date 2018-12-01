@@ -1,0 +1,1706 @@
+21
+MANIPULATING GENOMES
+DNA, equivalent to the DNA from the nuclei of about
+10000 human cells. Now, using a technique called the
+polymerase chain reaction (PCR), the tiniest fragment of
+tissue can give scientists enough DNA to develop a profile.
+extraction
+DNA is extracted
+from the sample
+digestion
+restriction endo-
+nucleases cut the
+DNA into fragments
+2 Digesting the sample
+The strands of DNA are cut into small fragments using
+special enzymes called restriction endonucleases.
+Different restriction endonucleases cut DNA at a specific
+nucleotide sequence, known as a restriction site or
+recognition site. All restriction endonucleases make two
+cuts, once through each strand of the DNA double helix.
+There are many different restriction endonucleases -
+the recognition sequences and cut sites of three
+examples are given in Table 1.
+gel plate
+large
+fragments
+separation
+fragments are
+separated using
+gel electrophoresis
+direction of
+movement
+Restriction endonucleases give scientists the ability to cut small
+fragments
+the DNA strands at defined points in the introns. They use a
+mixture of restriction enzymes that leave the repeating units
+or satellites intact, so the fragments at the end of the process
+include a mixture of intact mini- and microsatellite regions. 4
+Table 1 Three restriction enzymes and the nucleotide sequences
+they recognise. The black triangles show where they cut
+nylon
+membrane
+separation (cont.)
+DNA fragments
+are transferred
+from the gel to
+nylon membrane
+in a process
+known as
+Southern blotting
+Enzyme
+plate
+Sau3A1
+Recognition sequence
+5'... 'GATC...3
+3'...CTAGA...5
+5'...GCYGGCCGC...3'
+3'... CGCCGG.CG...5
+5'...AG'CT...3
+3'...TC.GA...5
+Not1
+DNA
+probes
+hybridisation
+DNA probes are
+added to label
+the fragments.
+These radioactive
+probes attach to
+specific fragments
+Alu 1
+nylon sheet with
+radioactively labelled
+DNA strands
+3 Separating the DNA fragments
+To produce a DNA profile, the cut fragments of DNA
+need to be separated to form a clear and recognisable pattern.
+This is done using electrophoresis, a technique that utilises
+the way charged particles move through a gel medium under
+the influence of an electric current. The gel is then immersed
+in alkali in order to separate the DNA double strands into
+single strands. The single-stranded DNA fragments are then
+transferred onto a membrane by Southern blotting.
+(See the Application box for more detail).
+development
+membrane with
+radioactively
+labelled DNA
+fragments is
+placed onto an
+X-ray film
+X-ray film
+4
+Hybridisation
+development
+(cont.)
+development of
+the X-ray film
+reveals dark
+bands where the
+radioactive or
+fluorescent DNA
+probes have
+attached
+Radioactive or fluorescent DNA probes are now added in
+excess to the DNA fragments on the membrane. DNA probes
+are short DNA or RNA sequences complementary to a known
+DNA sequence. They bind to the complementary strands
+of DNA under particular conditions of pH and temperature.
+A Figure 2 Summary of DNA profiling
+This is called hybridisation. DNA probes identify the microsatellite
+551
+21
+MANIPULATING GENOMES
+a Hpal restriction endonuclease has a recognition
+site GTTAAC, which produces a straight cut
+and therefore blunt ends
+b Hindill restriction endonuclease has the recognition
+site AAGCTT, which produces a staggered cut and
+therefore 'sticky ends'
+line of cut (straight)
+line of cut (staggered)
+O
+A
+G
+C G AA
+recognition site
+recognition site
+A
+sticky end
+blunt
+ends_
+A
+"sticky end' A
+A Figure 2 Restriction endonucleases are used to isolate genes to be inserted into another organism
+The formation of recombinant DNA
+The DNA isolated by restriction endonucleases must be inserted into a
+vector that can carry it into the host cell.
+Synoptic link
+You learnt about bacterial plasmids
+in Topic 2.6, Prokaryotic and
+eukaryotic cells.
+Vectors
+The most commonly used vectors in genetic engineering are bacterial
+plasmids – small circular molecules of DNA separate from the
+chromosomal DNA that can replicate independently. Once a plasmid
+gets into a new host cell it can combine with the host DNA to form
+what is called recombinant DNA. Plasmids are particularly effective
+in the formation of genetically engineered bacteria used, for example,
+to make human proteins.
+The plasmids that are used as vectors are often chosen because they
+contain what is known as a marker gene. For example they may have
+been engineered to have a gene for antibiotic resistance. This gene
+enables scientists to determine that the bacteria have taken up the
+plasmid, by growing the bacteria in media containing the antibiotic.
+To insert a DNA fragment into a plasmid, first it must be cut open.
+The same restriction endonuclease as used to isolate the DNA
+fragment is used to cut the plasmid. This results in the plasmid having
+complementary sticky ends to the sticky ends of the DNA fragment.
+Once the complementary bases of the two sticky ends are lined up, the
+enzyme DNA ligase forms phosphodiester bonds between the sugar
+and the phosphate groups on the two strands of DNA, joining them
+together (Figure 2).
+The plasmids used as vectors are usually given a second marker gene,
+which is used to show that the plasmid contains the recombinant
+gene. This marker gene is itself often placed in the plasmid by
+genetic engineering methods. The plasmid is then cut by a restriction
+565
+21
+21.4 Genetic engineering
+gene producing
+fluorescence
+DNA from cell which
+manufactures the desired
+protein, e.g., insulin
+plasmid
+enzyme within this marker gene to insert the
+desired gene. If the DNA fragment is inserted
+successfully, the marker gene will not function.
+In the early days of genetic engineering,
+these marker genes were often for antibiotic
+resistance. There have, however, been
+many concerns about antibiotic resistance in
+genetically engineered organisms. As a result,
+genes producing fluorescence or an enzyme
+that causes a colour change in a particular
+medium are now more widely used as marker
+genes. If a bacterium does not fluoresce, or
+change the colour of the medium, then it has
+been engineered successfully and can be grown
+on (Figure 3).
+DNA and plasmid are both cut
+using the same restriction endonuclease.
+gene for
+antibiotic
+resistance, e.g.
+to ampicillin
+or penicillin
+plasmid
+cut open
+'sticky ends' of
+DNA fragment
+DNA fragments and
+Open plasmids are
+mixed together
+with DNA ligase
+Transferring the vector
+The plasmid with the recombinant DNA must
+be transferred into the host cell in a process
+called transformation.
+plasmid
+with new
+gene
+incorporated
+One method is to culture the bacterial cells
+and plasmids in a calcium-rich solution and
+increase the temperature. This causes the
+bacterial membrane to become permeable and
+the plasmids can enter.
+Figure 3 Engineering a desired gene into a plasmid vector
+Another method of transformation is electroporation. A small
+electrical current is applied to the bacteria. This makes the membranes
+very porous and so the plasmids move into the cells.
+Electroporation can also be used to get DNA fragments directly into
+eukaryotic cells. The new DNA will pass through the cell membrane
+and the nuclear membrane to fuse with the nuclear DNA. Although
+this technique is effective, the power of the electric current has to
+be carefully controlled or the membrane is permanently damaged or
+destroyed, which in turn destroys the whole cell. It is less useful in
+whole organisms.
+Synoptic link
+You learnt about antibodies in
+Topic 12.6, The specific immune
+system.
+Electrofusion
+Another way of producing genetically modified (GM) cells is
+electrofusion. In electrofusion, tiny electric currents are applied to
+the membranes of two different cells. This fuses the cell and nuclear
+membranes of the two different cells together to form a hybrid or
+polyploid cell, containing DNA from both. It is used successfully to
+produce GM plants.
+Electrofusion is used differently in animal cells, which do not
+fuse as easily and effectively as plant cells. Their membranes have
+different properties and polyploid animal cells - especially polyploid
+mammalian cells - do not usually survive in the body of a living
+organism. However, electrofusion is important in the production
+566
+21
+21.1 DNA profiling
+father
+child
+mother
+regions that are more varied than the larger minisatellite regions.
+The excess probes are washed off.
+|||||||||
+5 Seeing the evidence
+If radioactive labels were added to the DNA probes, X-ray images are
+taken of the paper/membrane. If fluorescent labels were added to the
+DNA probes, the paper/membrane is placed under UV light so the
+fluorescent tags glow. This is the method most commonly used today.
+The fragments give a pattern of bars - the DNA profile - which is
+unique to every individual except identical siblings.
+Separation of nucleic acid fragments by
+electrophoresis O o
+DNA fragments are put into wells in agarose gel strips (Figure 4 and 5),
+which also contain a buffering solution to maintain a constant pH. In one or
+more wells (usually the first and last), DNA fragments of known length are
+used to provide a reference for fragment sizing.
+Figure 3 DNA profile of a child and
+its parents. How many fragments were
+inherited from each parent?
+strip of
+gel
+mixture of DNA
+fragments is
+applied at point
+called the origin
+Wou
+anode
+cathode
+When an electric current is passed
+through the electrophoresis plate,
+the DNA fragments in the wells at the
+cathode end move through the gel
+A Figure 5 Preparing a gel plate for
+towards the positive anode at the other support to hold strip
+electrophoresis
+end. This is due to the negatively charged Figure 4 Gel electrophoresis apparatus
+phosphate groups in the DNA fragments.
+The rate of movement depends on the
+The single-stranded fragments of DNA are transferred
+mass or length of the DNA fragments - the gel has a mesh to the membrane, as they are unable to pass through
+like structure that resists the movement of molecules. it. They are transferred in precisely the same relative
+Smaller fragments can move through the gel mesh more positions as they had on the gel. They are then fixed in
+easily than larger fragments. Therefore, over a period of place using UV light or heated at 80°C.
+time, the smaller fragments move further than the larger
+fragments. When the faster smallest fragments reach the
+anode end of the gel, the electric current is switched off.
+The gel is then placed in an alkaline buffer solution to
+denature the DNA fragments. The two DNA strands of each
+fragment separate, exposing the bases.
+In a technique called Southern blotting (named after its
+inventor, Edwin Southern), these strands are transferred
+to a nitrocellulose paper or a nylon membrane, which
+is placed over the gel. The membrane is covered with
+several sheets of dry absorbent paper, drawing the
+alkaline solution containing the DNA through the
+membrane by capillary action (Figure 6).
+Figure 6 Southern blot apparatus
+Gel electrophoresis can also be used to separate
+proteins. Explain why.
+552
+21.4 Genetic engineering
+Specification reference: 6.1.3
+DNA sequencing and proteomics provide us with a detailed
+Learning outcomes
+understanding of an organism's genetic instructions. Advances in
+Demonstrate knowledge,
+these technologies and molecular biotechnology techniques means
+understanding, and application of:
+it is now possible to manipulate an organism's genome to achieve a
+desired outcome. This manipulation of the genome is called genetic
+→ the principles of genetic
+engineering. The basic principles of genetic engineering involve
+engineering
+isolating a gene for a desirable characteristic in one organism and
+► the techniques used in
+placing it into another organism, using a suitable vector. The two
+genetic engineering
+organisms between which the genes are transferred may be the same,
+similar, or very different species. An organism that carries a gene
+from another organism is termed 'transgenic' and is often called a
+bacterial cell
+genetically modified organism (GMO).
+plasmid
+mRNA extracted from
+human pancreatic cells
+Isolating the desired gene
+The first stage of successful genetic modification is to isolate the
+desirable gene.
+plasmid obtained
+from bacteria
+mRNA
+plasmid
+cut with
+restriction
+enzyme
+cDNA
+mRNA treated
+with reverse
+transcriptase
+to make
+complementary
+DNA (CDNA)
+plasmid and
+cDNA fused
+using DNA ligase
+The most common technique uses enzymes called restriction
+endonucleases to cut the required gene from the DNA of an
+organism. As you learnt in Topic 21.1, DNA profiling, each type of
+endonuclease is restricted to breaking the DNA strands at specific
+base sequences within the molecule. Some make a clean, blunt-
+ended cut in the DNA. However, many restriction endonucleases
+cut the two DNA strands unevenly, leaving one of the strands of the
+DNA fragment a few bases longer than the other strand (Figure 2).
+These regions with unpaired, exposed bases are called sticky ends.
+The sticky ends make it much easier to insert the desired gene into
+the DNA of a different organism.
+recombinant
+plasmid
+introduced into
+host cells
+bacteria
+multiply in
+a fermenter
+and produce
+insulin
+Another technique involves isolating the mRNA for the desired
+gene and using the enzyme reverse transcriptase to produce
+a single strand of complementary DNA. The advantage of this
+technique is that it makes it easier to identify the desired gene, as
+a particular cell will make some very specific types of mRNA. For
+example, B cells of the pancreas make insulin, so produce lots of
+insulin mRNA molecules.
+separation and
+purification of
+human insulin
+human insulin
+can be used
+by diabetic
+patients
+A Figure 1 The production of human insulin
+by genetically engineered bacteria was an
+early success
+564
+MANIPULATING GENOMES
+21.1 DNA profiling
+Specification reference: 6.1.3
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of: :
+→ DNA profiling and its uses
+→ polymerase chain reaction
+(PCR) and its application in
+DNA analysis
+► the principles and uses of
+electrophoresis.
+Every person has a unique combination of DNA in the chromosomes
+of their cells, unless they are an identical twin or triplet. Your DNA
+is more similar to your family members' than to other people's, and
+more similar to other people's than to a gorilla's, a butterfly's or a
+banana's. It is this combination of individual uniqueness yet similarity
+to other family or species members that makes DNA so useful in
+solving crimes, predicting disease, and classifying organisms.
+The human genome
+The genome of an organism is all of the genetic material it contains - for
+eukaryotes including ourselves, that is the DNA in the nucleus and the
+mitochondria combined. The chromosomes are made up of hundreds
+of millions of DNA base pairs, but your genes, the 20–25000 regions of
+the DNA that code for proteins, only make up about 2% of your total
+DNA. They are called exons. The large non-coding regions of DNA
+that are removed from messenger (m)RNA before it is translated into a
+polypeptide chain are known as introns. Scientists are still investigating
+the role of non-coding DNA.
+A Figure 1 All three of these girls have
+identical DNA because they were formed
+from a single fertilised egg - and this
+included both coding DNA and introns.
+However, the DNA of the great majority of
+human beings is unique to each individual
+Synoptic link
+You have learnt about the structure
+of DNA and RNA in in Topic 3.8,
+Nucleic acids. You learnt about mRNA
+and transcription in Topic 3.10,
+Protein synthesis. You learnt about
+introns in Chapter 19, Genetics of
+living systems.
+Within introns, telomeres, and centromeres there are short sequences
+of DNA that are repeated many times. This is known as satellite DNA.
+In a region known as a minisatellite, a sequence of 20-50 base pairs
+will be repeated from 50 to several hundred times. These occur at more
+than 1000 locations in the human genome and are also known as
+variable number tandem repeats (VNTRS). A microsatellite is a smaller
+region of just 2–4 bases repeated only 5–15 times. They are also known
+as short tandem repeats (STRS). These satellites always appear in the
+same positions on the chromosomes, but the number of repeats of each
+mini- or microsatellite varies between individuals, as different lengths of
+repeats are inherited from both parents. So just as in the coding DNA,
+only identical twins will have an identical satellite pattern, although the
+more closely related you are to someone, the more likely you are to have
+similar patterns. These patterns in the non-coding DNA were discovered
+by Professor Sir Alec Jeffreys and his team at Leicester University in
+1984. Producing an image of the patterns in the DNA of an individual is
+known as DNA profiling and is a technique employed by scientists to
+assist in the identification of individuals or familial relationships.
+Study tip
+DNA profiling is also sometimes
+referred to as genetic fingerprinting,
+since every individual's DNA profile
+is unique, just as a fingerprint is.
+Producing a DNA profile
+The process of producing a DNA profile has five main stages:
+Do not confuse DNA profiling
+with gene sequencing, which is
+discussed in the next topic.
+1 Extracting the DNA
+The DNA must be extracted from a tissue sample. When DNA profiling
+was first discovered, relatively large samples were needed - about lug of
+550
+21
+MANIPULATING GENOMES
+Infection outbreak - DNA sequencing and clinical intervention
+o
+This was the first time DNA sequencing has led to an
+immediate and successful clinical intervention - but it
+will certainly not be the last.
+In 2012, there was an outbreak of MRSA (methicillin-
+resistant Staphylococcus aureus) in the Special Care
+Baby Unit (SCBU) at a UK hospital. The hospital infection
+control team identified 12 patients carrying MRSA.
+Researchers at the Wellcome Trust Sanger Institute used
+DNA sequencing to show that all the bacteria were closely
+related and this was a hospital-based outbreak.
+The sequencing also showed that a number of people living
+in the community who developed MRSA at the same time
+all had the same strain as the hospital outbreak. In every
+case it was found they had a recent link to the hospital.
+Two months later, another baby developed MRSA in the
+same SCBU. Immediate DNA sequencing showed that
+it was the same strain as the previous outbreak. This
+suggested that someone working in the hospital was
+unknowingly carrying MRSA.
+A Figure 3 Babies born early or with health problems are
+very vulnerable to infection. Sequencing the genome of
+pathogens so that effective treatment can be introduced as
+fast as possible and outbreaks halted is a big step forward
+Over 150 healthcare workers were screened - and
+one staff member was found to be carrying MRSA. DNA
+sequencing confirmed that it was the strain linked to the
+outbreak. The healthcare worker went through a process
+to eradicate the MRSA- and the risk of any further
+infections was removed.
+Scientists predict that advances in science and
+technology may, in a few years, lead to every hospital
+having its own sequencing machines and hand held
+devices. These hand held devices would be capable of
+sequencing the genome, identifying a pathogen within
+a few minutes from just a drop of blood. Suggest some
+of the benefits of such developments, and some of the
+factors that will limit their arrival in our hospitals and
+local surgeries.
+The use of DNA sequencing was critical in identifying that
+the infections were connected and that a member of staff
+was a carrier. Without it, this would have been seen as a new
+outbreak, and many more people could have been infected.
+Summary questions oo
+1 Explain the impact of computational biology and bioinformatics on the
+usefulness of DNA sequencing to scientists.
+(4 marks)
+2 a Explain how the ability to sequence the genome can be
+used to identify the source of an outbreak of infectious disease
+and how this is helpful.
+(4 marks)
+b Discuss how DNA sequencing has changed the ways
+in which we identify species and our understanding of
+evolutionary relationships.
+(6 marks)
+3 'One-gene-one-polypeptide' is an outdated concept.
+Discuss how our model of the link between the genotype and
+phenotype is changing.
+(9 marks)
+563
+21.3 Using DNA sequencing
+Specification reference: 6.1.3
+The development of DNA profiling and DNA sequencing has led to
+the development of new areas of bioscience that help us analyse,
+understand, and make use of all the data generated.
+Computational biology and bioinformatics
+People often use the terms computational biology and
+bioinformatics interchangeably. In fact they describe different aspects
+of the application of computer technology to biology.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ how gene sequencing has
+allowed for:
+genome-wide comparisons
+between individuals and
+between species
+the sequences of amino
+acids in polypeptides to
+be predicted
+the development of
+synthetic biology.
+Bioinformatics is the development of the software and computing
+tools needed to organise and analyse raw biological data, including
+the development of algorithms, mathematical models, and statistical
+tests that help us to make sense of the enormous quantities of data
+being generated.
+Computational biology then uses this data to build theoretical models
+of biological systems, which can be used to predict what will happen in
+different circumstances. Computational biology is the study of biology
+using computational techniques, especially in the analysis of huge
+amounts of biodata. For example, it is important in the analysis of the
+data from sequencing the billions of base pairs in DNA, for working
+out the 3D structures of proteins, and for understanding molecular
+pathways such as gene regulation. It helps us to use the information
+from DNA sequencing - for example in identifying genes linked to
+specific diseases in populations and in determining the evolutionary
+relationships between organisms.
+Genome-wide comparisons
+As whole genome sequencing has become increasingly automated, it
+has become cheaper and faster, leading to some amazing advances in
+biology. The field of genetics that applies DNA sequencing methods
+and computational biology to analyse the structure and function of
+genomes is called genomics.
+A Figure 1 The impact of computers
+on the study of biology is growing all
+the time. This photo shows data from a
+gel electrophoresis experiment where a
+grapevine genome was sequenced
+Analysing the human genome
+Since the first complete draft of the human genome was published
+in 2003 (Topic 21.2, DNA sequencing and analysis), tens of
+thousands of human genomes have been sequenced as part of
+research projects such as the 10 000 Genomes Project UK10K, and
+most recently the 100 000 Genomes Project.
+Synoptic link
+Computers can analyse and compare the genomes of many
+individuals, revealing patterns in the DNA we inherit and the diseases
+to which we are vulnerable. This has enormous implications for
+health management and the field of medicine in the future. Genomics
+is changing the face of epidemiology. However, scientists increasingly
+You learnt about epidemiology in
+Topic 12.7, Preventing and treating
+disease.
+559
+MANIPULATING GENOMES
+Polymerase chain reaction (PCR)
+DNA profiling is often used in solving crimes and only very tiny
+amounts of DNA may be available. The PCR is a version of the natural
+process by which DNA is replicated, and allows scientists to produce a
+lot of DNA from the tiniest original sample.
+The DNA sample to be amplified, an excess of the four nucleotide
+bases A, T, C, and G (in the form of deoxynucleoside triphosphates),
+small primer DNA sequences, and the enzyme DNA polymerase
+are mixed in a vial that is placed in a PCR machine (also called
+a thermal cycler). The temperature within the PCR machine is
+carefully controlled and changes rapidly at programmed intervals,
+triggering different stages of the process (Figure 7). The reaction can
+be repeated many times by the PCR machine, which cycles through
+the programmed temperature settings. About 30 repeats gives
+around one billion copies of the original DNA sample- more than
+enough to carry out DNA profiling.
+DNA fragment
+two new DNA fragments
+DNA polymerase
+attaching nucleotides
+72°C
+95°C
+Step 1 Separating the strands:
+The temperature in the PCR
+machine is increased to 90-95°C
+for 30 seconds, this denatures
+the DNA by breaking the
+hydrogen bonds holding the
+DNA strands together so
+they separate.
+Step 2 Annealing of the primers:
+The temperature is decreased to
+55-60°C and the primers bind
+(anneal) to the ends of the DNA
+strands. They are needed for the
+replication of the strands to occur.
+Step 3 Synthesis of DNA:
+The temperature is increased
+again to 72-75°C for at least
+1 minute, this is the optimum
+temperature for DNA polymerase
+to work best. DNA polymerase
+adds bases to the primer, building
+up complementary strands of
+DNA and so producing double-
+stranded DNA identical to the
+original sequence. The enzyme
+Taq polymerase is used, which is
+obtained from thermophilic
+bacteria found in hot springs.
+step 3
+step 1
+nucleotides
+separated strands
+of DNA fragment
+step 2
+55°C
+DNA
+primer
+DNA
+primer
+DNA strand with primers attached
+A Figure 7 The main stages of the polymerase chain reaction
+553
+21
+21.1 DNA profiling
+Study tip
+Forensic science can simply be
+defined as the application of all
+sciences to the law.
+The uses of DNA profiling
+DNA profiling has many uses. Its best known use is in the field of
+forensic science, especially criminal investigations. PCR and DNA
+profiling is performed on traces of DNA left at the crime scene. These
+DNA traces can be obtained from blood, semen, saliva, hair roots, and
+skin cells. The DNA profile is compared to that of a sample taken from
+a suspect, or can be identified from a criminal DNA database. DNA
+profiling is an extremely useful tool in providing evidence for either
+the guilt or innocence of a suspect.
+Synoptic link
+You learnt about the use of DNA
+profiling in identifying species
+and demonstrating evolutionary
+relationships in Chapter 10,
+Classification and evolution.
+DNA profiling is also used to prove paternity of a child when it is in
+doubt. It is used in immigration cases to prove or disprove family
+relationships. Identifying the species to which an organism belongs
+can also now be done by DNA profiling, which is much more
+accurate than any of the older methods. It is also increasingly
+used to demonstrate the evolutionary relationships between
+different species.
+Pitfalls of profiling oo
+One of the earliest recorded cases of mistaken DNA identity
+occurred in the UK in 2000. Raymond Easton was in the
+advanced stages of Parkinson's disease - he could hardly
+dress himself yet he was arrested and charged with a
+burglary that happened over 200 miles from his home. The
+arrest was based solely on DNA evidence.
+Another valuable use of DNA profiling is
+in identifying individuals who are at risk
+of developing particular diseases. Certain
+non-coding microsatellites, or the repeating
+patterns they make, have been found to be
+associated with an increased risk/incidence
+of particular diseases, including various
+cancers and heart disease. These specific gene
+markers can be identified and observed in
+DNA profiles.
+Four years earlier, Raymond had been involved in a family
+dispute that had got out of hand. He received a police caution
+and his DNA was taken and kept on file. DNA from the 2000
+burglary scene appeared to match Raymond's profile.
+The information that scientists can obtain
+from DNA profiling is often used together
+with the more detailed information obtained
+from DNA sequencing (Topic 21.2) to make
+more confident risk assessments for different
+diseases.
+Raymond protested his innocence and had a strong alibi for
+the time of the burglary, so eventually a more rigorous DNA
+test, looking at satellites in 10 loci rather than the original
+six, was carried out. None of the additional satellites matched
+Raymond's DNA and so the charges were dropped. This mis-
+identification had been caused by an extremely improbable,
+but not impossible, coincidental DNA profile match.
+Summary questions
+1 What is an intron?
+(3 marks)
+1 In a UK court of law, until recently DNA was taken
+as evidence if 11 loci and a sex marker matched.
+Recently this was put up to 17 loci. Suggest reasons
+why 11 loci were acceptable and why the number has
+now risen to 17.
+DNA evidence at this level is not absolute. The
+probability that full siblings will have the same DNA
+profile for these 10 loci is quoted by the Forensic
+Science Service as 1 in 10 000, and of first cousins,
+1 in 100 million. Suggest explanations for these
+observations.
+2 State the purpose of the polymerase chain
+reaction and explain how it has advanced
+DNA profiling
+(4 marks)
+3 00 Discuss the benefits and
+limitations of DNA profiling. (6 marks)
+O
+4 Produce a flow diagram to show the
+main stages of the modern DNA profiling
+process.
+(6 marks)
+554
+21
+21.3 Using DNA sequencing
+recognise, with the exception of a few relatively rare genetic diseases
+caused by changes in a single gene, that our genes work together with
+the environment to affect our physical characteristics, our physiology,
+and our likelihood of developing certain diseases.
+Analysing the genomes of pathogens
+Sequencing the genomes of pathogens including bacteria, viruses, fungi,
+and protoctista has become fast and relatively cheap. This enables:
+•
+Doctors to find out the source of an infection, for example bird flu
+or MRSA in hospitals.
+Doctors to identify antibiotic-resistant strains of bacteria, ensuring
+antibiotics are only used when they will be effective and helping
+prevent the spread of antibiotic resistance. For example, the
+bacteria that cause tuberculosis (TB) are difficult to culture, slow
+growing, and some strains are resistant to most antibiotics. Whole
+genome analysis makes it easier to track the spread of transmission
+and to plan suitable treatment options. This has enormous
+implications for successful treatment of this potentially fatal
+disease, especially as TB is spreading fast around the world again,
+linked to the spread of HIV/AIDS.
+Scientists to track the progress of an outbreak of a potentially
+serious disease and monitor potential epidemics, for example flu
+each winter, Ebola virus in 2014/15.
+Scientists to identify regions in the genome of pathogens that may
+be useful targets in the development of new drugs and to identify
+genetic markers for use in vaccines.
+Synoptic link
+Identifying species (DNA barcoding)
+Using traditional methods of observation, it can be very difficult to
+determine which species an organism belongs to or if a new species
+has been discovered. Genome analysis provides scientists with another
+tool to aid in species identification, by comparison to a standard
+sequence for the species. The challenge for scientists is to produce
+stock sequences for all the different species.
+You learnt about how organisms
+are classified and grouped in
+Topic 10.1, Classification.
+One useful technique is to identify particular sections of the genome
+that are common to all species but vary between them, so comparisons
+can be made - this technique is referred to as DNA barcoding. In the
+International Barcode of Life (iBOL) project, scientists identify species
+using relatively short sections of DNA from a conserved region of the
+genome. For animals, the region chosen is a 648 base-pair section of
+the mitochondrial DNA in the gene cytochrome c oxidase, that codes
+for an enzyme involved in cellular respiration. This section is small
+enough to be sequenced quickly and cheaply, yet varies enough to
+give clear differences between species. In land plants, that region of
+the DNA does not evolve quickly enough to show clear differences
+between species, but two regions in the DNA of the chloroplasts have
+been identified that can be used in a similar way to identify species.
+560
+21
+21.2 DNA sequencing and analysis
+ready in 2000, and the first complete human genome sequence was
+published in 2003, two years ahead of schedule and under budget.
+Principles of DNA sequencing
+Sequencing the genome of an organism involves a number of
+different processes. The DNA is chopped into fragments and each
+fragment is sequenced. The process involves terminator bases,
+modified versions of the four nucleotide bases, adenine (A), thymine
+(T), cytosine (C), and guanine (G), which stop DNA synthesis when
+they are included. An A terminator will stop DNA synthesis at the
+location that an A base would be added, a C terminator where a
+C base would go, and so on. The terminator bases are also given
+coloured fluorescent tags - A is green, G is yellow, T is red and C is
+blue. The description of the sequencing process (capillary method)
+explained here is a simplified version of a technique, has largely
+been overtaken by much more complex methods - but the basic
+principles remain the same:
+A Figure 2 The contribution of
+Fred Sanger to our knowledge and
+understanding of genomes earned him
+his second Nobel Prize
+1
+Synoptic link
+You learnt about the structure of
+DNA in Topic 3.8, Nucleic acids.
+2
+The DNA for sequencing is mixed with a primer, DNA polymerase,
+an excess of normal nucleotides (containing bases A, T, C, and G)
+and terminator bases.
+The mixture is placed in a thermal cycler - a piece of equipment
+as used for PCR (Topic 21.1, DNA profiling) that rapidly changes
+temperature at programmed intervals in repeated cycles - at 96°C
+the double-stranded DNA separates into single strands, at 50°C the
+primers anneal to the DNA strand.
+At 60°C DNA polymerase starts to build up new DNA strands by
+adding nucleotides with the complementary base to the single-
+strand DNA template.
+Each time a terminator base is incorporated instead of a normal
+nucleotide, the synthesis of DNA is terminated as no more bases
+can be added. As the chain-terminating bases are present in lower
+amounts and are added at random, this results in many DNA
+fragments of different lengths depending on where the chain
+terminating bases have been added during the process. After many
+cycles, all of the possible DNA chains will be produced with the
+reaction stopped at every base. The DNA fragments are separated
+according to their length by capillary sequencing, which works
+like gel electrophoresis in minute capillary tubes. The fluorescent
+markers on the terminator bases are used to identify the final base
+on each fragment. Lasers detect the different colours and thus the
+order of the sequence.
+The order of bases in the capillary tubes shows the sequence of the
+new, complementary strand of DNA which has been made. This is
+used to build up the sequence of the original DNA strand.
+The data from the sequencing process is fed into a computer that
+reassembles the genomes by comparing all the fragments and
+finding the areas of overlap between them. Once a genome is
+556
+21
+21.3 Using DNA sequencing
+Synthetic biology
+The ability to sequence the genome of organisms and understand
+how each sequence is translated into amino acids, along with the
+ever-increasing ability of computers to store, manipulate, and
+analyse the data, has led to the development of the new field of
+science called synthetic biology. Synthetic biology is defined by
+the Royal Society as 'an emerging area of research that can broadly
+be described as the design and construction of novel artificial
+biological pathways, organisms or devices, or the redesign of
+existing natural biological systems.'
+Synthetic biology includes many different techniques. These include:
+Figure 2 Mycoplasma mycoides,
+the first organism to be controlled
+by synthetic DNA, was created at the
+University of California, USA in 2010.
+Scanning electron micrograph, *21 000
+magnification
+Synoptic link
+You will learn more about
+microorganisms in industrial
+contexts in Topic 22.4,
+Microorganisms and
+biotechnology, Topic 22.6,
+Culturing microorganisms in
+the laboratory, and Topic 22.7,
+Culturing microorganisms on an
+industrial scale.
+genetic engineering - this may involve a single change in a
+biological pathway or relatively major genetic modification of an
+entire organism (further detail is given in the next topic)
+use of biological systems or parts of biological systems in
+industrial contexts, for example, the use of fixed or immobilised
+enzymes and the production of drugs from microorganisms
+the synthesis of new genes to replace faulty genes, for example,
+in developing treatments for cystic fibrosis (CF), scientists have
+attempted to synthesise functional genes in the laboratory and use
+them to replace the faulty genes in the cells of people affected by CF
+the synthesis of an entire new organism. In 2010, scientists
+announced that they had created an artificial genome for a
+bacterium and successfully replaced the original genome with this
+new, functioning genome.
+Synthetic life
+Scientists have developed some new nucleotide bases (not adenine,
+thymine, cytosine, or guanine) which, in a test tube, can be incorporated
+into a strand of DNA by special enzymes. The bases fit together well-
+they are not held by hydrogen bonds like the natural bases.
+In 2014, scientists introduced a small section of DNA made with these
+synthetic bases into bacteria. They found that this unique DNA, including
+the synthetic nucleotide bases, was replicated time after time as long as
+they supplied the bacteria with the synthetic bases.
+If these bases can be incorporated into the main DNA of an organism,
+and then transcribed into RNA, synthetic biologists will have
+synthetically expanded the genetic code for the very first time.
+Suggest a possible practical application for the synthetic expansion
+of the genetic code.
+562
+MANIPULATING GENOMES
+The barcoding system is not perfect - so far scientists have not come
+up with suitable regions for fungi and bacteria, and they may not be
+able to do so - but DNA sequencing is nevertheless having a big impact
+on classification.
+Searching for evolutionary relationships
+Genome sequencing has given scientists a powerful tool to help them
+understand the evolutionary relationships between organisms. DNA
+sequences of different organisms can be compared - because the
+basic mutation rate of DNA can be calculated scientists can calculate
+how long ago two species diverged from a common ancestor. DNA
+sequencing enables scientists to build up evolutionary trees with an
+accuracy they have never had before.
+Genomics and proteomics
+Proteomics is the study and amino acid sequencing of an organism's
+entire protein complement. Traditionally, scientists thought that each
+gene codes for a particular protein, but we now know that there
+are 20–25000 coding genes in the human DNA but a very different
+number of unique proteins. Estimates range from somewhere between
+250000 and 1000000 different proteins to only 17-18 000 so there is
+still a lot of work to be done. More scientific evidence is emerging that
+highlights the complexity of the relationship between the genotype
+and the phenotype of an individual. The DNA sequence of the
+genome should, in theory, enable you to predict the sequence of the
+amino acids in all of the proteins it produces. The evidence is that the
+sequence of the amino acids is not always what would be predicted
+from the genome sequence alone. Some genes can code for many
+different proteins.
+Synoptic link
+You learnt about pre-mRNA in
+Topic 19.2, Control of gene
+expression
+Spliceosomes
+The mRNA transcribed from the DNA in the nucleus includes both
+the exons and introns. Before it lines up on the ribosomes to be
+translated, this 'pre-mRNA is modified in a number of ways. The
+introns are removed, and in some cases, some of the exons are
+removed as well. Then the exons to be translated are joined together
+by enzyme complexes known as spliceosomes to give the mature
+functional mRNA. The spliceosomes may join the same exons in
+a variety of ways. As a result, a single gene may produce several
+versions of functional mRNA, which in turn would code for different
+arrangements of amino acids, giving different proteins and resulting in
+several different phenotypes.
+Protein modification
+Some proteins are modified by other proteins after they are synthesised.
+A protein that is coded for by a gene may remain intact or it may be
+shortened or lengthened to give a variety of other proteins.
+The study of proteomics is constantly giving us increasing knowledge
+of the extremely complex relationship between the genotype and the
+phenotype.
+561
+21.2 DNA sequencing and analysis
+Specification reference: 6.1.3
+DNA sequencing is the process of determining the precise order of
+nucleotides within a DNA molecule. This knowledge is invaluable
+in various scientific applications, from diagnostics to biotechnology,
+and its uses are explored further in the next topic. In recent years,
+scientists have not only discovered how to read the information in the
+genome-they have developed ways of reading it fast.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the principles of DNA
+sequencing
+► the development of new DNA
+sequencing techniques.
+The beginning of DNA sequencing
+DNA sequencing was just an aspiration for scientists until Frederick
+Sanger and his team developed some techniques for sequencing nucleic
+acids from viruses and then bacteria. The technique involved radioactive
+labelling of bases and gel electrophoresis on a single gel. The processes
+were carried out manually, so it took a long time, but eventually, in
+the 1970s, the technique now known as Sanger sequencing enabled
+Sanger and his team to read sequences of 500–800 bases at a time. The
+first entire genome that they sequenced was just over 5000 bases long
+and belonged to phiX174, a virus that attacks bacteria. They went on
+to sequence many other genomes, including the 16000 base pairs of
+human mitochondrial DNA. In 1980, Frederick Sanger was awarded the
+Nobel Prize for his work on sequencing DNA - this was his second Nobel
+Prize, his first was in 1958 for determining the sequence of the amino
+acids in insulin. These DNA sequencing techniques are continually being
+refined. One such development was the swapping of radioactive labels
+for coloured fluorescent tags, which led to scaling up and automation of
+the process. This in turn led to the capillary sequencing version of the
+Sanger sequencing method that was used during the Human Genome
+Project (HGP), and similar techniques that are used today.
+Synoptic link
+You learnt about the structure
+of proteins and nucleic acids in
+Chapter 3, Biological molecules
+and about the ultrastructure
+of mitochondria in Topic 2.4,
+Eukaryotic cell structure.
+The human genome - pushing the boundaries
+In 1990, the HGP was established. It was a massive international project
+in which scientists from a number of countries worked to map the entire
+human genome, making the data freely available to scientists all over the
+world. The early work involved sequencing the DNA of smaller, simpler
+organisms to refine and develop the techniques. In 1995, after 18 months
+of work, scientists completed the 1.8 million base pair genome of the
+bacterium Haemophilus influenza. By 1998, the UK team at the Sanger
+Centre and a US team at Washington University had sequenced the
+genome of Caenorhabditis elegans (C. elegans), a nematode worm widely
+used in scientific experiments, before applying the technique to the three
+billion base pairs of the human genome itself.
+The aim was to complete the HGP in 15 years but the automation
+of sequencing techniques and the development of more powerful,
+faster computers meant that the first draft of the human genome was
+Figure 1 From C. elegans to a human
+being may seem a giant leap - but our
+genomes are surprisingly similar. Scanning
+electron micrograph, approximately *650
+magnification
+555
+21
+21.5 Gene technology and ethics
+mind, including the transfer of disease resistance from one animal to
+another, or to modify physiology in farmed animals.
+Some examples of GM animals:
+Swine fever-resistant pigs - in 2013 UK scientists successfully
+inserted a gene from wild African pigs into the early embryos of
+a European pig strain giving them immunity to otherwise fatal
+African swine fever.
+Faster-growing salmon - in the USA, GM Atlantic salmon have
+received genes from faster-growing Chinook salmon. The genes
+cause them to produce growth hormones all year round. They
+grow to full adult size in half the time of conventional salmon,
+making them a very efficient food source.
+Pharming
+One of the biggest uses of genetic engineering so far in animals is in
+the production of human medicines - known as pharming. There are
+two aspects to this field of gene technology:
+Creating animal models - the addition or removal of genes so
+that animals develop certain diseases, acting as models for the
+development of new therapies, for example, knockout mice have
+genes deleted so they are more likely to develop cancer.
+Creating human proteins - the introduction of a human
+gene coding for a medically required protein. Animals are
+sometimes used because bacteria cannot produce all of the
+complex proteins made by eukaryotic cells. The human gene
+can be introduced into the genetic material of a fertilised cow,
+sheep, or goat egg, along with a promoter sequence so the
+gene is expressed only in the mammary glands. The fertilised,
+transgenic female embryo is then returned to the mother.
+A transgenic animal is born and when it matures and gives
+birth, it produces milk. The milk will contain the desired human
+protein and can be harvested.
+Ethical issues
+There are many potential benefits to people and indeed to animal
+health of genetic engineering but the process also raises some ethical
+questions, which include:
+Figure 3 These transgenic sheep
+have a human gene in their DNA. This
+gene codes for the protein alpha-1-
+antitrypsin (AAT). Hereditary deficiency
+of AAT leads to emphysema. The gene
+activates AAT production in the sheep's
+milk which can be isolated and used for
+therapy
+Should animals be genetically engineered to act as models of
+human disease?
+Is it right to put human genes into animals?
+Is it acceptable to put genes from another species into an animal
+without being certain it will not cause harm?
+Does genetically modifying animals reduce them to commodities?
+Is welfare compromised during the production of genetically
+engineered animals?
+572
+MANIPULATING GENOMES
+Table 1 Continued
+Perceived pros of GM crops
+Perceived cons of GM crops
+Genetically engineered
+characteristic
+Extended shelf-life
+Extended shelf-life may reduce the
+commercial value and demand for the crop.
+Growing conditions
+The extended shelf-life of some GM crops
+reduces food waste.
+Crops can grow in a wider range of conditions/
+survive adverse conditions, e.g., flood
+resistance or drought resistance.
+Nutritional value of crops can be increased,
+e.g., enhanced levels of vitamins.
+Plants could be used to produce human
+medicines and vaccines.
+Nutritional value
+People may be allergic to the different proteins
+made in GM crops.
+Medical uses
+Patenting and technology transfer
+One of the major concerns about GM crops is that people in less
+economically developed countries will be prevented from using
+them by patents and issues of technology transfer. When someone
+discovers a new technique or invents something, they can apply
+for a legal patent, which means that no one else can use it without
+payment. The people who most need the benefits of, for instance,
+drought- or flood-resistant crops, high yields, and added nutritional
+value may therefore be unable to afford the GM seed. They also rely
+on harvesting seed from one year to plant the next - something that
+patenting may make impossible.
+These concerns are based on evidence. The company that
+developed the herbicide-resistant and pesticide-producing soya
+beans, have patented them so farmers can buy the beans from
+them and grow them to use or sell them for food or processing
+only in the year they are bought. They cannot save the seed to
+grow again the next year - and in 2013 this was upheld in the US
+Supreme Court.
+Some organisations, however, such as the International Rice Research
+Institute (IRRI), work to develop engineered rice specifically to
+support farmers in less economically developed countries with whom
+they share the technological developments without patent constraints
+on seed harvesting. For example, they have engineered flood-resistant
+'scuba' rice, which gives 70-80% of maximum potential yield even if
+submerged for 2–3 weeks by flooding.
+GM animals
+It is much harder to produce GM vertebrates, especially mammals, but
+scientists are researching the use of microinjections - tiny particles of
+gold covered in DNA – and modified viruses to carry new genes into
+animal DNA. Such techniques are used with a number of goals in
+571
+MANIPULATING GENOMES
+assembled, scientists want to identify the genes or parts of the
+genome that code for specific characteristics. Medical researchers
+want to identify regions that are linked with particular diseases.
+Many genomes are freely available online - anyone who chooses
+to can have a look at them.
+Stages 1-2: DNA strand chopped up, mixed with primer, bases,
+DNA polymerase + terminator bases
+©
+AGCO @
+primer
+TAC GG AT CA
+Stage 3: Each time a terminator base is added a strand terminates
+until all possible chains produced
+HA-0-6
+Stage 5: Computer analysis of all data
+to give original DNA sequence
+--0-@-©©
+H0-0-0-0-0-0
+H -0--©-©-0 A
+Hø-0-0-0-©-0-0-G
+H -0-0-0-0-0-0-0-0
+Stage 4: Readout from capillary tubes: DNA fragments separated
+by electrophasis in capillary tubes by mass and lasers
+detect the colours and the sequence
+A Figure 3 The main steps in the DNA sequencing process
+Next-generation sequencing
+Early on, working out the base sequence of even short strands
+of DNA was difficult and time-consuming for scientists using the
+original Sanger sequencing method. DNA sequencing technologies
+have become faster and more automated as they have been
+developed. Recently, technological developments have led to new,
+automated, high-throughput sequencing processes. Instead of
+using a gel or capillaries, the sequencing reaction takes place on a
+plastic slide known as a flow cell. Millions of fragments of DNA are
+attached to the slide and replicated in situ using PCR to form clusters
+of identical DNA fragments. The sequencing process still uses the
+principle of adding a coloured terminator base to stop the reaction
+so an image can be taken. As all of the clusters are being sequenced
+and imaged at the same time, the technique is known as 'massively
+parallel sequencing' and sometimes referred to as 'next-generation
+sequencing'.
+557
+21.5 Gene technology and ethics
+Specification reference: 6.1.3
+The rapid development of gene technology in recent years has made
+many amazing scientific advances in the fields of genetic engineering
+and biotechnology possible - but it has also raised a number of ethical
+issues.
+All scientists have a responsibility to consider the moral and social
+values, or ethics, of their work. These ethical considerations are
+important for many reasons including the protection of human
+rights, human health and safety, animal welfare, and the protection
+of the environment. Ethical lapses in scientific research can not only
+cause harm but can also damage the public's trust in scientists and
+their research. This in turn can have significant implications on the
+advancement of knowledge and understanding. Clear and open two-
+way communication between scientists and the public is vital for
+building trust and regulating research.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the ethical issues relating to
+the genetic modification of
+organisms
+→ the principles of, and potential
+for, gene therapy in medicine.
+Genetic manipulation of microorganisms
+Microorganisms, particularly bacteria, have been genetically modified
+or engineered to produce many different substances that are useful
+to people, including insulin and vaccines. These substances can be
+produced in very large quantities in this way.
+GM microorganisms are also used to store a living record of the DNA
+of another organism in DNA libraries. DNA sequencing projects,
+such as the HGP (Topic 21.2, DNA sequencing and analysis), enable
+scientists to build a collection of sequenced DNA fragments from one
+organism that is then stored (and propagated) in microorganisms
+(usually bacteria or yeast) through the process of genetic engineering
+(Topic 21.4, Genetic engineering). These libraries serve as a source
+of DNA fragments for further genetic engineering applications or for
+further study of their function.
+Figure 1 Microorganisms such as
+these gut bacteria (Escherichia coli) are
+widely used in scientific research into
+genetic modification. Scanning electron
+micrograph, 7500 magnification
+Synoptic link
+GM microorganisms are a widely used tool in research for developing
+novel medical treatments and industrial processes, as well as the
+development of gene technology itself. Genetically engineered
+pathogens, however, are not widely used in these applications for the
+obvious health and safety of the researchers and the wider public. In
+the few cases that genetic modification of pathogens is carried out, this
+is usually for the purposes of medical and epidemiological research
+and is strictly regulated. There is, of course, the concern that genetic
+engineering of pathogens could be used for the purposes of biological
+warfare. Attempts to modify the genomes of pathogens to be more
+virulent, or to be resistant to all known treatments, raises serious
+ethical concerns and is a largely prohibited area of research except in
+specialised military research facilities.
+You will learn more about the
+use of genetically modified
+microorganisms and the enzymes
+they produce in Chapter 22,
+Cloning and Biotechnology.
+569
+21
+21.5 Gene technology and ethics
+Ethical concerns
+Initially, some people were uncomfortable with inserting human genes
+into microorganisms but the pure human medicines, antibiotics, and
+enzymes produced are now seen as overwhelmingly beneficial. They
+have been used safely for many years now. As a result, there is relatively
+little ethical debate about the use of GM microorganisms except for the
+manipulation of pathogens in biological warfare.
+GM plants
+Some people think the genetic modification of plants will help feed the
+ever-growing human population, and overcome environmental issues
+including excess carbon dioxide production and pollution. Others have
+major concerns about the process.
+A Figure 2 Scientists are currently
+developing vaccines in transgenic plants
+to many different diseases such as
+malaria. Tomato, tobacco, and banana
+plants are among those used
+Insect resistance in GM soya beans
+Soya beans are a major world crop - around 250 million tonnes are
+produced each year and over half of the plants are from GM strains. In
+one such modification, scientists have inserted a gene into soya beans
+so that they produce the Bt protein. The Bt protein is toxic to many of
+the pest insects that attack the plant and is widely used as a pesticide
+by organic farmers. One increasingly widely used strain of soya beans
+has been engineered to be resistant to a common weed killer and to
+contain Bt protein. This means farmers can spray to get rid of weeds,
+making all the resources of light, water, and minerals available to the
+beans, and they do not need to use pesticides. These plants should
+enable farmers to grow a much higher-yield crop of soya beans with
+less labour and less expense.
+Benefits and risks of GM crops
+Some of the potential benefits and possible problems of GM plant
+crops are summarised in Table 1. Also note that whenever antibiotic
+resistance is used as a marker gene to create GM crops (Topic 21.4,
+Genetic engineering) there is a perceived risk that this resistance could
+spread to wild populations of plants and into bacteria.
+Table 1 Pros and cons of GM crops
+Perceived pros of GM crops
+Perceived cons of GM crops
+Genetically engineered
+characteristic
+Pest-resistant GM crop varieties reduce the
+amount of pesticide spraying, protecting the
+environment and helping poor farmers.
+Non-pest insects and insect-eating predators
+might be damaged by the toxins in the GM plants.
+Pest resistance
+Disease resistance
+Increased yield.
+Crop varieties resistant to common plant
+diseases can be produced, reducing crop
+losses/increasing yield.
+Herbicides can be used to reduce competing
+weeds and increase yield.
+Insect pests may become resistant to
+pesticides in GM crops.
+Transferred genes might spread to wild
+populations and cause problems, e.g.,
+superweeds.
+Biodiversity could be reduced if herbicides
+are overused to destroy weeds.
+Fear of superweeds.
+Herbicide resistance
+570
+21
+21.2 DNA sequencing and analysis
+The process of massively parallel sequencing is integrated with state-
+of-the-art computer technology and is constantly being refined and
+developed. These high-throughput methods are extremely efficient and
+very fast - the 3 billion base pairs of the human genome can be sequenced
+in days and those of a bacterium in less than 24 hours. High-throughput
+sequencing also means that the cost has fallen, so more genomes can
+be sequenced. These techniques are being used by projects such as the
+100000 Genomes Project. They open up the range of questions that
+scientists can ask and enable us to use the information from the genome
+in many new and different ways (21.3, Using DNA sequencing).
+A Figure 4 The Wellcome Trust Sanger Institute is the biggest DNA sequencing facility
+in Europe - on this site, the genomes of organisms from bacteria and viruses to humans
+and even human cancers are sequenced continuously in a highly automated process
+Study tip
+Summary questions
+Be very clear about the differences
+between DNA profiling, DNA
+sequencing, and the role of PCR in
+both processes.
+1 Produce a flow chart to summarise the main stages of
+DNA sequencing.
+(5 marks)
+What is the difference in the time it takes to sequence
+the genetic material of a bacterium today compared to
+the first complete bacterial genome in 1995?
+(1 mark)
+b Explain the reasons for the difference in these times. (2 marks)
+(1 mark)
+3 a What are terminator bases?
+b Explain why terminator bases are so important in both the
+Sanger method of sequencing and in the more modern
+high-throughput sequencing methods.
+(6 marks)
+558
+21
+Chapter 21 Practice questions
+Practice questions
+1 The diagram is a simplified representation of
+the apparatus used to separate fragments of
+DNA in genetic engineering.
+plastic gel box
+gel
+negative (-) electrode
+positive (+) electrode
+a (i) State the name of the process.
+(1 mark)
+(ii) Copy the diagram and indicate
+where the sample of DNA fragments
+would be placed and the direction
+the fragments would move when an
+electric field is turned on. (2 marks)
+(iii) State the reason why the fragments
+are placed in the position you have
+indicated.
+(1 mark)
+(iv) Explain the reason for using a gel in
+the separation process. (2 marks)
+b Outline how you could identify the
+position of a fragment you wanted to
+locate.
+(4 marks)
+The fragment obtained, which usually
+contains a particular gene under
+investigation, then undergoes another process
+called the polymerase chain reaction.
+c Outline the reason for carrying out the
+polymerase chain reaction. (2 marks)
+The diagram shows one step in the
+polymerase chain reaction.
+53
+e (i) Explain why fragments of DNA are
+denatured during the polymerase
+chain reaction.
+(3 marks)
+(ii) Compare the denaturation of DNA
+with protein denaturation. (5 marks)
+It has been discovered that genes make up only
+about 3% of the human genome and over 50%
+of the genome consists of repetitive nucleotide
+sequences. Only recently has it been possible
+to start to process the data produced from the
+sequencing of these repetitive DNA sequences.
+Bioinformatics is a field of study that has
+developed methods and software programs to
+handle the large quantities of data involved.
+Epigenetic refers to processes that alter the
+activity of genes without changing nucleotide
+sequences.
+a (i) State two techniques that might
+be used to supply the data used in
+bioinformatics.
+(2 marks)
+(ii) Discuss why the evidence for
+epigenetics has only been discovered
+as bioinformatics has developed as a
+field of study.
+(4 marks)
+Synthetic biology refers to the design and
+synthesis of biological components that
+do not exist in the natural world or the
+re-design of existing biological systems.
+The guiding principles of synthetic
+biologists have been stated as below:
+• public benefit
+responsible stewardship
+intellectual freedom and responsibility
+democratic deliberation
+• justice and fairness
+b Discuss what you believe to be the
+relative importance of each of these
+principles.
+(7 marks)
+3 DNA profiling is used to identify organisms
+on the basis of their nucleotide sequences.
+There are long sections of repetitive DNA,
+called satellite DNA, in the genomes of most
+organisms. Different individual have different
+numbers of repeating segments in their
+satellite DNA.
+...
+5' 31
+1
+in
+13 5
+d
+(i) Describe what is happening in the
+diagram.
+(2 marks)
+(ii) Explain the reason for the step you
+have described.
+(2 marks)
+574
+21
+21.4 Genetic engineering
+glyphosate
+resistance gene bacterial cell plant cell gene transfer
+DNA
+plasmid
+bacterial
+antibiotic resistance gene suspension
+dead cell
+callus
+antibiotic medium
+1 Cut leaf
+4 Allow callus to
+sprout shoots and
+roots
+2 Expose leaf to bacteria
+carrying a weedkiller-
+resistance gene and
+an antibiotic resistance
+gene. Allow bacteria to
+deliver the genes into
+the leaf cells
+3 Expose leaf to an
+antibiotic to kill cells
+that lack the new genes.
+Wait for surviving
+(gene-altered) cells to
+multiply and form a
+clump (callus)
+5 The plants
+are transferred
+to soil where they
+can develop into fully
+differentiated adult plants
+that are glyphosate resistant
+Figure 4 Top-genetic engineering in
+plants. Right - A clone of a genetically
+modified tobacco plant growing in
+nutrient agar in a petri dish
+Summary questions
+1 What is genetic engineering?
+(3 marks)
+2 Explain the difference between the way restriction endonucleases
+and reverse transcriptases produce genes ready for insertion into
+another organism.
+(6 marks)
+3 Describe how a gene is inserted into a bacterial plasmid, which is then
+taken up by bacteria, and how scientists ensure that they can identify
+bacteria that have been successfully transformed.
+(6 marks)
+4 Produce flow diagrams to show:
+a The process of genetic engineering a bacterium.
+b The process of engineering a plant.
+(6 marks)
+(6 marks)
+568
+MANIPULATING GENOMES
+of monoclonal antibodies. A monoclonal antibody is produced by a
+combination of a cell producing one single type of antibody with a
+tumour cell, which means it divides rapidly in culture. Monoclonal
+antibodies are now used to identify pathogens in both animals and
+plants, and in the treatment of a number of diseases including some
+forms of cancer.
+Engineering in different organisms
+The techniques of genetic engineering vary between different types of
+organisms but the principles are the same. It is much easier to carry
+out genetic modification of prokaryotes than eukaryotes, and among
+the eukaryotes, plants are easier to work with than animals.
+Engineering prokaryotes
+Bacteria and other microorganisms have been genetically modified to
+produce many different substances that are useful to people. These
+include hormones, for example insulin and human growth hormone,
+clotting factors for haemophiliacs, antibiotics, pure vaccines, and many
+of the enzymes used in industry.
+Engineering plants
+One method of genetically modifying plants uses Agrobacterium
+tumefaciens, a bacterium that causes tumours in healthy plants.
+A desired gene - for example, for pesticide production, herbicide-
+resistance, drought-resistance, or higher yield - is placed in the Ti
+plasmid of A. tumefaciens along with a marker gene, for example, for
+antibiotic resistance or fluorescence. This is then carried directly into
+the plant cell DNA. The transgenic plant cells form a callus, which
+is a mass of GM plant cells, each of which can be grown into a new
+transgenic plant.
+Transgenic plant cells can also be produced by electrofusion. The cells
+produced have chromosomes from both of the original cells and so
+are polyploid. The cells that are fused may be from similar species, or
+very different ones. The main stages in this process involve removal of
+the plant cell wall by cellulases, electrofusion to form a new polyploid
+cell, the use of plant hormones to stimulate the growth of a new cell
+wall, followed by callus formation and the production of many cloned,
+transgenic plants.
+Engineering animals
+It is much harder to engineer the DNA of eukaryotic animals,
+especially mammals, than it is to modify bacteria or plants. This is
+partly because animal cell membranes are less easy to manipulate than
+plant cell membranes. However, it is an important technique both to
+enable animals to produce some medically important proteins and
+to try and cure human genetic diseases such as CF and Huntington's
+disease.
+Synoptic link
+You will learn more about cloning
+plants in Topic 22.1, Natural
+cloning in plants.
+567
+MANIPULATING GENOMES
+Gene therapy in humans
+Some human diseases such as CF, haemophilia, and severe combined
+immunodeficiency (SCIDS) are the result of faulty (mutant) genes.
+Scientists are looking at different ways of replacing the faulty allele
+with a healthy one. They can remove the desired alleles from healthy
+cells or synthesise healthy alleles in the laboratory.
+Somatic cell gene therapy
+This involves replacing the mutant allele with a healthy allele in the
+affected somatic (body) cells. The potential for helping people with
+a wide range of diseases is enormous. Until recently there were few
+success stories as there are problems in getting the healthy alleles into
+the affected cells, getting the engineered plasmids into the nucleus of
+the cells, and finally difficulties in starting and maintaining expression
+of the healthy allele. Viral vectors are often used.
+In recent years, somatic cell gene therapy is beginning to
+show signs of fulfilling its potential. Successful treatments have
+been reported for diseases including retinal disease (people have
+regained some vision), immune diseases, leukaemias, myelomas,
+and haemophilia. The first gene therapy has recently (2012) been
+approved by the European Medicines Agency for lipoprotein lipase
+deficiency, which can cause severe pancreatitis. However, somatic cell
+gene therapy is only a temporary solution for the treated individual.
+The healthy allele will be passed on every time a cell divides by mitosis
+but somatic cells have a limited life, and are replaced from stem cells,
+which will have the faulty allele. In addition, a treated individual will
+still pass the faulty allele on to any children they have.
+Summary questions
+1 o Suggest why there is
+relatively little debate about
+the ethics of genetically
+engineering microorganisms.
+(3 marks)
+2 Draw a table to compare
+somatic cell gene therapy
+and germ line cell therapy.
+(6 marks)
+Germ line cell gene therapy
+The alternative to treating the somatic (body) cells of people already
+affected by a disease is to insert a healthy allele into the germ cells –
+usually the eggs - or into an embryo immediately after fertilisation (as
+part of in vitro fertilisation (IVF) treatment). The individual would be
+born healthy with the normal allele in place - and would pass it on to
+their own offspring. This is called germ line cell gene therapy.
+Such therapy has been successfully done with animal embryos but
+is illegal for human embryos in most countries as a result of various
+ethical and medical concerns. These concerns include the fact that the
+potential impact on an individual of an intervention on the germ cells
+is unknown. Also, the human rights of the unborn individual could be
+said to be violated because it is, of course, done without consent and
+once done the process is irrevocable. Another major ethical concern
+is that the technology might eventually be used to enable people to
+choose desirable or cosmetic characteristics of their offspring.
+3 a Suggest potential benefits
+of genetically engineering
+plants (6 marks)
+b Discuss the ethical issues
+(6 marks)
+4 O Describe the process of
+genetically modifying animals
+to produce human proteins
+and discuss some of the
+ethical issues this raises.
+(6 marks)
+573
+MANIPULATING GENOMES
+21
+A sample of DNA to be sequenced is first
+amplified, then fragmented and analysed
+using gel electrophoresis.
+a (i) Explain why gel electrophoresis is
+used to compare the DNA fragments
+in the samples.
+(2 marks)
+(ii) State the name of the process used to
+amplify a DNA sample. (1 mark)
+(iii) State the name of the enzymes used
+to produce the fragments of DNA and
+explain their specificity to certain
+sequences of nucleotides. (3 marks)
+(iv) Explain why the degree of match
+required differs for the samples of DNA
+being compared in paternity testing
+and forensic investigation. (3 marks)
+5
+a (i) Describe the changes in the areas of
+land used for growing GM crops in
+different parts of the world. (3 marks)
+(ii) Suggest the reason(s) for the different
+trends.
+(3 marks)
+b Discuss the ethical issues relevant to the
+genetic modification of plants. (6 marks)
+a Outline the differences between somatic
+and germ line gene therapy. (4 marks)
+Some diseases are a result of defective
+mitochondria such as diabetes, nerve
+degeneration, and some forms of blindness. It
+has been proposed that mitochondrial diseases
+could be cured during the process of IVF.
+b (i) Explain why tissues with a high
+metabolic demand such as muscle
+and nervous tissue are often affected
+by mitochondrial disease. (2 marks)
+(ii) Suggest how the process of IVF could
+be modified to cure mitochondrial
+disease.
+(3 marks)
+(iii) Discuss whether the manipulation of
+mitochondria to cure genetic disease
+overcomes the arguments against
+germline gene therapy. (5 marks)
+victim
+specimen
+MINI HII JILID 1]
+TIBULO TIL ILI ILI 12 suspects
+INDINII III III 3
+b (i) Using the information in the
+diagram, identify the most likely
+suspect.
+(1 mark)
+(ii) DNA profiles can also be used
+to determine if an organism is
+homozygous or heterozygous at
+particular loci.
+Suggest how this is possible. (3 marks)
+The graph shows the changes in the area of
+land growing genetically modified crops in
+different parts of the world.
+120
+4
+total
+industrialized
+countries
+million hectares
+developing
+countries
+2001
+2002
+2003)
+2004
+2005)
+1999
+2000
+S
+1996
+1997
+1998
+year
+2007
+2008
+575

@@ -1,0 +1,742 @@
+THINKING
+BIGGER
+END OF THE WORLD?
+The 1998 science fiction movie, Armageddon, starring Bruce Willis, was released within two months
+of the movie Deep Impact starring Robert Duvall, also science fiction.
+OCEANS RISE, CITIES FALL,
+HOPE SURVIVES.
+ARMAGEDDON
+DEEPIMPIAGT
+Deep Impact
+Leo Biederman (Elijah Wood) discovers a new comet at his
+school astronomy club. When the discovery is submitted to an
+astronomer, he races to warn people about it, but is killed in a car
+crash. A reporter, Jenny Lerner (Tea Leoni) is investigating an
+affair by a member of the government. He mysteriously resigned,
+claiming he wanted to spend time with his family. Jenny confronts
+him and discovers the secret of the comet - it is on a collision
+course with the Earth. She is summoned to see President Tom
+Beck, by black SUVs crashing into her car. The President (Morgan
+Freeman) asks her to keep the prospect of this Extinction Level
+Event a secret. Jenny insists that it must be made public, and she
+forces a press conference. There is confusion in Leo's family,
+and home town, as the President claims he was the discovering
+astronomer and that he died a year earlier. President Beck explains
+that there is now a mission called Messiah to intercept the comet
+and destroy it. The alternative, should the mission fail, is for a
+selection of one million people to be made, who will take cover
+underground and continue humanity in the future. People over
+50 years old will be excluded from the lottery for a place in the
+caves. Jenny has a number of family and personal travails to
+deal with alongside her reporting of the Messiah mission. As the
+astronauts, led by Captain Tanner (Robert Duvall) say farewells to
+their families and set off, many people wonder if the mission will
+succeed, and what their futures may hold.
+JULTIT
+fig A Armageddon, starring Bruce Willis, was a box office rival to Deep Impact
+with Robert Duvall.
+Armageddon
+A huge comet is headed for Earth. As it does not consist of one big
+piece, but of a cloud of rather small pieces plus a main rock the
+size of Texas, little impacts are recorded long before the big one is
+scheduled for collision with Earth. Harry S. Stamper and his team
+of misfit drillers are selected to land on the main comet as they
+are the only ones who can work the special drill Harry developed.
+Their mission is to drill 800 ft into the comet to place a nuclear
+explosive device. The explosion of the bomb will break the comet
+in two, and the two pieces will pass Earth on both sides. This task
+has to be accomplished before a certain 'dead line', or the comet
+parts will not fly by, but hit Earth.
+• Extract from the IMDb website, a user posted plot summary by Julian Reischl.
+From the notes of an anonymous movie reviewer.
+Where else will I encounter
+these themes?
+Book 1
+6.1
+YOU ARE 6.2
+7.1
+7.2
+7.3
+8.1
+HERE
+16
+Further momentum
+6.7
+Questions
+| (a) What is the impulse needed to stop a car that has a momentum of 22 000 kgms!?
+(b) If the car brakes could apply a force of 6800 N, how long would it take to bring the car to a stop?
+In a pool shot, the cue ball has a mass of 0.17 kg. It travels at 6.00 ms and hits the stationary black ball in
+the middle of one end of the table. The black ball, also of mass 0.17 kg, travels away at 45° and 4.24 ms
+ending up in the corner pocket.
+(a) By resolving the components of the black ball's momentum find out what happens to the cue ball.
+(b) Is this an elastic or inelastic collision?
+1.18 m
+0.59 m
+0.59 m
+fig H 2D momentum calculations can be very important in winning at pool.
+3
+Calculate how fast the impactor spacecraft in fig E would have to be travelling if it is to alter the Apophis
+asteroid's trajectory by one degree. Comment on the answer.
+For the experimental set up shown in fig G, suggest two improvements that could be made in order to
+improve the accuracy of the resolved vectors that would be observable on the video stills.
+Key definition
+The impulse is force acting for a certain time causing a change in an object's momentum.
+impulse = Fx At
+TOPIC 6
+Further mechanics
+6.1 Further momentum
+Introduction
+Acceleration, which can be considered as a change in momentum per unit mass, can often be more exciting than basic
+WP
+calculations such as calculating the changing speed of a car. Curling has become very much a mainstream sport in
+recent years, and in the UK it is particularly popular in Scotland, which is arguably the original home of the game.
+Curling, in a similar manner to snooker, pool and bowls, relies very heavily on the ideas of conservation of momentum and
+elastic collisions. Players deliberately collide the stones in order to knock their opponents' stones out of the way, and to ensure
+their own stone finishes in a winning position. More subtly, the friction with the ice causes a change in momentum to slow the
+stone to a stop.
+In this chapter, you will learn about the way forces can change the momentum of an object over time. The chapter will also
+cover how kinetic energy changes in different types of collisions, whilst momentum is conserved. All of this will be extended to
+events happening in two dimensions, so vector addition and the resolving of vectors will be revisited in order to make the
+necessary calculations.
+All the maths you need
+• Use of trigonometric functions (e.g. finding components of momentum vectors)
+• Use of Pythagoras' theorem (e.g. finding velocity as a vector sum)
+• Changing the subject of an equation (e.g. rearranging the impulse equation)
+Substituting numerical values into algebraic equations (e.g. finding the velocity after a collision)
+• Visualising and representing 2D forms (e.g. drawing a 2D momentum diagram for a collision between meteors)
+6.
+11
+Energy in collisions
+By the end of this section, you should be able to...
+explain the difference between elastic and inelastic collisions
+make calculations based on the conservation of linear
+momentum to determine energy changes in collisions
+Inelastic collisions
+In a crash between two dodgems at the fair, the total momentum
+after the collision must be identical to the total momentum prior
+to it. However, if we calculate the total kinetic energy before and
+after, we invariably find that the total is reduced by the collision.
+Some of the kinetic energy is transferred into other forms such
+as heat and sound. A collision in which total kinetic energy is not
+conserved is called an inelastic collision.
+derive and use the equation for the kinetic energy of a
+non-relativistic particle
+Inelastic collision example
+before
+We have seen in Book 1, Chapter 2.3 that linear momentum
+is always conserved in any collision between objects, and this is
+responsible for Newton's third law of motion. We also learned that
+Newton's second law of motion expresses the concept that a force is
+equivalent to the rate of change of momentum. Book 1, Chapter 2.1
+explained how forces can do work, as the means by which energy is
+transferred. So, does the kinetic energy change in a collision?
+m = 300kg
+u = 5mst
+m = 300 kg
+u = 1ms
+after
+m, = 300 kg
+V = 2 ms
+m = 300 kg
+V = 4ms
+fig A Damaging a car uses energy, so what can we say about the conservation
+of kinetic energy in a car crash?
+fig C The fun of inelastic collisions.
+Elastic collisions
+In a collision between one snooker ball and another, often the
+first one stops dead and the second then moves away from the
+collision. As both snooker balls have the same mass, the principle
+of conservation of momentum tells us that the velocity of the
+second ball must be identical to the initial velocity of the first.
+This means that the kinetic energy of this system of two balls
+before and after the collision must be the same. A collision in
+which kinetic energy is conserved is called an elastic collision.
+In general, these are rare. A Newton's cradle is an example that is
+nearly perfectly elastic (a tiny amount of energy is lost as sound).
+A collision caused by non-contact forces, such as alpha particles
+being scattered by a nucleus (see Section 10.1.1), is perfectly
+elastic.
+If you calculate the total momentum before and after the collision
+in fig C, you will see that it is conserved. However, what happens
+to the kinetic energy?
+Before collision:
+Ex1 = 1 m u 2 = < < (300) x 12 = 150J
+Ex2 = 3 m,uz? = = x (300) * 52 = 3750 J
+Total kinetic energy = 3900 J
+After collision:
+Ex1 = m, v,2 = * (300) X 42 = 2400J
+E2=5 m2v2 = x (300) X 22 = 600J
+Total kinetic energy = 3000 J
+Loss in kinetic energy = 900 J. This is an inelastic collision.
+This 'lost' energy will have been transferred into heat and sound
+energy
+GGGG
+Learning tip
+Remember that the idea of energy conservation, when considered in
+order to decide whether a collision is elastic or inelastic, only relates to
+the kinetic energy. Total energy in all forms must always be conserved.
+fig B Newton's cradle maintains kinetic energy, as well as conserving
+momentum in its collisions.
+10
+What have I studied before?
+• How to add forces as vectors
+How to resolve vectors
+• Newton's laws of motion
+• How to calculate kinetic energy
+Conservation of energy
+How to calculate the momentum of an object
+Conservation of linear momentum in collisions
+What will I study later?
+How electrical and magnetic fields affect the
+momentum of charged particles
+How the momentum affects the size of a circle in
+which a charged particle is trapped by a magnetic
+field
+The de Broglie wavelength for a particle and its
+connection with the momentum of the particle
+Large-angle alpha particle scattering indicating
+the structure of the atom, with the scattering
+dependent on momentum conservation
+How conservation of momentum affects the
+creation and detection of new particles
+How ideas of momentum conservation in gas-
+particle collisions lead to equations for use in the
+kinetic theory of gases
+What will I study in this chapter?
+The impulse equation and its connection with
+Newton's second law of motion
+The relationship between the force on an object
+and its change in momentum
+Conservation of linear momentum in two
+dimensions
+• How to analyse collisions in 2D
+The difference between an elastic and an inelastic
+collision
+The equation for the kinetic energy of a
+non-relativistic particle, in terms of its momentum
+Exam-style questions
+6.1
+(d) The student tests the result of the first experiment by firing
+a pellet into a pendulum with a bob made of modelling
+clay. They calculate the energy transferred.
+string
+(a) The maximum energy of a nitrogen atom was found to be
+1.2 MeV.
+Show that the maximum velocity of the atom is about
+4 x 106ms-1.
+mass of nitrogen atom = 14u, where u = 1.66 x 10-27 kg [3]
+(b) The mass of a neutron is Nu (where N is the relative mass
+of the neutron) and its initial velocity is x. The nitrogen
+atom, mass 14u, is initially stationary and is then knocked
+out of the target with a velocity, y, by a collision with a
+neutron.
+-modelling clay
+The student's data and calculations are shown:
+Data:
+mass of pellet = 0.84g
+mass of pendulum and pellet = 71.6 g
+change in vertical height of pendulum = 22.6 cm
+o**
+neutron
+stationary
+nitrogen atom
+[3]
+Calculations:
+change in gravitational potential energy of pendulum
+and pellet
+= 71.6 x 10-kg x 9.81 Nkg 1 x 0.226 m = 0.16J
+therefore kinetic energy of pendulum and pellet immediately
+after collision = 0.16 J
+therefore kinetic energy of pellet immediately before collision
+= 0.16 J
+therefore speed of pellet before collision = 19.5 ms!
+(i) Show that the velocity, z, of the neutron after the
+collision can be written as
+Nx - 14y
+Z=-
+N
+(ii) The collision between this neutron and the nitrogen
+atom is elastic. What is meant by an elastic
+collision?
+(iii) Explain why the kinetic energy Ex of the nitrogen
+atom is given by
+Nulx - z^)
+[1]
+Ek =
+2
+There are no mathematical errors but the student's answer
+for the speed is too small.
+Explain which of the statements in the calculations are
+correct and which are not.
+[Total: 16]
+(c) The two equations in (b) can be combined and z can be
+eliminated to give
+2Nx
+YEN + 14
+6 James Chadwick is credited with discovering the neutron in
+1932.
+Berylliurn was bombarded with alpha particles, knocking
+neutrons out of the beryllium atoms. Chadwick placed various
+targets between the beryllium and a detector Hydrogen and
+nitrogen atoms were knocked out of the targets by the neutrons
+and the kinetic energies of these atoms were measured by
+the detector
+(i) The maximum velocity of hydrogen atoms knocked
+out by neutrons in the same experiment was
+3.0 x 10 ms. The mass of a hydrogen atom is 1u.
+Show that the relative mass N of the neutron is 1. [3]
+(ii) This equation can not be applied to all collisions in
+this experiment. Explain why.
+[Total: 13]
+Further momentum
+6.7
+Collision vectors
+A spacecraft is moving through empty space at 8ms-l. A meteoroid, travelling at 15ms-l, comes
+from behind and at an angle of 45° to the line of movement of the rocket, crashes into the rocket
+and becomes embedded in it. The rocket has a mass of 350 kg and the meteorite mass is 20 kg.
+Calculate the velocity of the rocket after the collision.
+rocket
+8ms-i
+15 ms
+meteoroid
+fig B Acollision in two dimensions.
+Before collision:
+Parallel to rocket motion:
+Vmeteorite = 15 cos 45º = 10.6 ms-1
+Preteorite = 20 x 10.6 = 212 kg ms-1
+procket = 350 x 8 = 2800 kg ms-1
+Paralla = 2800 + 212 = 3012 kgms-1
+Perpendicular to rocket motion:
+V meteorite = 15 sin 45º = 10.6ms-1
+Poneteorite = 20 X 10.6 = 212 kg ms-1
+Procket = 350 x 0 = 0
+Perpendicular = 0 + 212 = 212 kg ms-1
+After collision:
+Vector sum of momenta (fig C):
+Pperpendicular = 212 kgms
+-
+-
+-
+-
+-
+-
+—
+—
+—
+—
+—
+—
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Protal
+-
+-
+-
+-
+-
+-
+-
+-
+Parallel = 3012 kgms
+fig C Vector sum of total momenta in two dimensions.
+Protal = (30122 + 2122) = 3019 kgms?
+Ptotal _ 3019
+m = 8.16 ms1
+(mracket + m.meteorite) (350 + 20)
+Angle of momentum (i.e. direction of velocity) after collision:
+4 = tan-(2012) = 40
+\3012
+So, the spacecraft with embedded meteorite carries on at 8.16ms-lat an angle of 4.0° off the
+original direction of motion.
+13
+6.1
+2
+Deep space collision
+The momentum of the combined object after the impactor
+embeds in the asteroid is the vector sum of the two initial
+momenta, which are at right angles to each other.
+After collision:
+Pafter = (past? + Pimp) = /((7.69 1014)2 + (2.4 x 10792)
+= 7.69 x 104kgms!
+Pafter 7.69 x 1014
+er Motal (6.1 x 1010 + 4 x 10%)
+= 12.6 kms (3 significant figures)
+There is no significant change in the magnitude of the asteroid's
+velocity - what about its direction?
+Angle of momentum after:
+a = tan-1 / 2.4 x 107 )
+-) = 1.79 x 10-60
+(7.69 x 1014)
+Although less than two microdegrees sounds like an insignificantly
+small angle, this would represent a change in position of nearly
+30 km as Apophis crosses the Earth's orbit from one side of the
+Sun to the other. This might be just enough to avert a collision
+with Earth that would have a hundred times more energy than all
+the explosives used in the Second World War.
+Investigation
+Investigating 2D collisions
+fig D The comet Tempel 1 was hit by NASAs Deep Impact probe.
+On 4 July 2005, NASA's Deep Impact mission succeeded in
+crashing a spacecraft into a comet called Tempel 1 (fig D). For
+that mission, the impactor spacecraft had a mass of 370 kg
+compared with the comet's mass of 7.2 x 1013 kg, so there would
+have been an insignificant change in the comet's trajectory. Deep
+Impact was purely intended to study the comet's composition.
+However, there is an asteroid named Apophis which has a small
+chance of colliding with Earth in 2035, 2036, or maybe 2037, and
+there have been some calls for a mission to crash a spacecraft into
+Apophis in order to deviate it out of harm's way. The mass of this
+asteroid is 6.1 x 1010kg and it is travelling at 12.6 kms-1. It has
+been claimed that a collision by a 4000 kg impactor craft travelling
+at 6 kms-1 could alter the path of this asteroid enough to ensure
+it would not hit Earth. If this impactor collided with Apophis at
+right angles, we can calculate the change in angle of the asteroid
+(fig E).
+before
+after
+u = 6.0 kms-i
+vkms-1
+LLLLLLLL
+u
+= 12.6 kms +
+fig E Could we hit an asteroid hard enough to save Earth from Asteroid Impact
+Hazards?
+Before collision:
+pt = m = 6.1 x 1010 X 12.6 x 103 = 7.69 x 1014 kg ms-
+P = mimum = 4 x 103 X 6 X 10% = 2.4 x 107kg ms-1
+fig G Video analysis of collisions in 2D.
+You can investigate two-dimensional collisions in the school
+laboratory. We saw in Book 1, Section 2.1.2 that by analysing video
+footage of an object's movement, frame by frame, we can calculate
+any changes in velocity. With measurement scales in two dimensions,
+the components of velocity in each dimension can be isolated. Thus,
+separate calculations can be made in each dimension, in order to
+verify the conservation of momentum in 2D. Make sure you have a
+good understanding of this practical as your understanding of the
+experimental method may be assessed in your examinations.
+total momentum p after impact
+Pite = 2.4 x 10
+-
+= 7.69 X 104kgms-
+P
+fig F The vector sum of momentum components after asteroid impact.
+14
+6.1
+More collisions
+By the end of this section, you should be able to...
+• apply the conservation of linear momentum to situations in
+two dimensions
+analyse collisions in two dimensions
+calculate impulses and changes in momentum
+Impulse
+The product of a force applied for a certain time (Fx Al) is known
+as the impulse, and this is equal to the change in momentum:
+impulse (Ns) = force (N) x time (s)
+= change in momentum (kgms-1)
+impulse = Fx Ar= Ap
+To stop something moving, we need to remove all of its
+momentum. This idea allows us to calculate the impulse needed
+to stop an object moving. If we know how long a force is applied,
+we could work out the size of that force.
+WORKED EXAMPLE
+We have so far only considered the conservation of linear
+momentum in one-dimensional collisions, where all objects move
+forwards and/or backwards along the same straight line. This is
+an unusual situation, and we need to be able to work with more
+complex movements. Helpfully, momentumn is conserved in each
+dimension separately. So, we resolve vector movements entering
+a collision into components in each dimension and then calculate
+following the conservation of momentum in each dimension.
+After this, we can recombine component vectors to give us an
+overall vector after a collision. A real world example, as in fig A,
+will illustrate this best.
+What is the impulse needed to accelerate a 1000 kg car from rest to
+25 ms-?
+p = mxv
+At the start, the car is at rest, so has no momentum. Therefore the
+change in momentum will equal its final momentum:
+Ap = 1000 x 25
+impulse = F x At = Ap
+I = 25000 kgms
+WP
+Investigation
+Investigating impulse
+motion sensor
+00
+If the car needed to stop in 3.8 seconds, what force would the
+brakes need to apply?
+At the end, the car is at rest, so has no momenturn. Therefore the
+change in momentum will equal its initial momentum:
+Ft = mav
+mAv = 25 000 kg ms -1
+laptop
+datalogger
+F-MÁV
+25000
+F3.8
+F = 6600 N to 2 significant figures
+fig A Measuring how impulse changes the momentum of a trolley
+In Book 1, Section 2.3.1 we saw how you can investigate the change
+in momentum over time for a trolley that is subject to a constant
+accelerating force. Using the same apparatus, you could again record
+how different forces acting over different time periods cause the
+trolley to accelerate to different velocities. From these results, you
+can calculate the impulse applied in each case. As I = FAt = Ap =
+Amv, a graph of impulse on the y-axis against change in velocity on
+the x-axis should give a straight best fit line through the origin. This
+straight line verifies the impulse equation, and the gradient of it will
+give the mass of the accelerating trolley and weights. Make sure you
+have a good understanding of this practical as your understanding of
+the experimental method may be assessed in your examinations.
+12
+6.1
+Exam-style questions
+(Note: In questions marked with an asterisk (*), marks will be awarded
+for your ability to structure your answer logically showing how the
+points that you make are related or follow on from each other.
+[2]
+5 (a) Explain what is meant by the principle of conservation
+of momentum
+(b) The picture shows a toy car initially at rest with a piece
+of modelling clay attached to it.
+1 An inelastic collision:
+A conserves momentum but not kinetic energy
+B conserves momentum and kinetic energy
+C need not conserve energy
+D need not conserve momentum.
+[1]
+[Total: 1]
+2 A tennis ball travelling with the momentum of 4.2 kgms-' is hit
+by a tennis racquet. The force of 56 N from the racquet causes
+the tennis ball to travel back in the opposite direction with
+5.8 kg ms-1. How long is the ball in contact with the racquet?
+A 0.029s
+B 0.10s
+C 0.18s
+D5.6s
+[Total: 1]
+[1]
+[1]
+A student carries out an experiment to find the speed of a
+pellet fired from an air rifle. The pellet is fired horizontally
+into the modelling clay. The pellet remains in the modelling
+clay as the car moves forward. The motion of the car is
+filmed for analysis.
+The car travels a distance of 69 cm before coming to rest
+after a time of 1.3 s.
+(i) Show that the speed of the car immediately after
+being struck by the pellet was about 1 ms!
+(ii) State an assumption you made in order to apply the
+equation you used.
+(iii) Show that the speed of the pellet just before it collides
+with the car is about 120ms!
+mass of car and modelling clay = 97.31 g
+mass of pellet = 0.84 g
+(c) The modelling clay is removed and is replaced by a metal
+plate of the same mass. The metal plate is fixed to the back
+of the car. The experiment is repeated but this time the
+pellet bounces backwards.
+*(i) Explain why the speed of the toy car will now be
+greater than in the original experiment.
+(ii) The film of this experiment shows that the pellet
+bounces back at an angle of 72° to the horizontal.
+Explain why the car would move even faster if the
+pellet bounced directly backwards at the same
+speed.
+[3]
+3 In order to calculate the kinetic energy of a non-relativistic
+particle, we would need to know its:
+A mass only
+B mass and momentum
+C acceleration and momentum
+D velocity and acceleration.
+[1]
+[Total: 1]
+[3]
+4 A spacecraft called Deep Space 1, mass 486 kg, uses an
+'ion-drive engine. This type of engine is designed to be used
+in deep space.
+The following statement appeared in a website.
+The ion propulsion system on Deep Space 1 expels 0.13 kg
+of xenon propellant each day. The xenon ions are expelled
+from the spacecraft at a speed of 30 kms-l. The speed of
+the spacecraft is predicted to initially increase by about
+8ms' each day.
+Use a calculation to comment on the prediction made in this
+statement.
+[Total: 4]
+18
+Thinking Bigger
+6.1
+Let us start by considering the nature of the writing in the two plot summaries,
+1. The extracts were written by members of the public.
+a. Discuss the tone, level of vocabulary and level of scientific detail that has been used -
+who is the intended audience?
+b. Discuss any differences in narrative approach between the two movies that are
+evident from the information given in each plot summary.
+2. Explain which of the two movies sounds the most appealing to you as a viewer, including
+what aspects of the movie appeal most to you, based solely on the plot summaries
+above.
+000
+Consider whether the
+storytelling in the movies
+focuses on technology and
+scientific points, human
+relationships, everyday
+events or high stakes plot
+points, everyday people or
+high level leaders.
+Now we will look at the physics in detail. Some of these questions will link to topics elsewhere in this
+book, so you may need to combine concepts from different areas of physics to work out the answers.
+Think about what would
+determine the motion of
+the broken pieces after
+the explosion – consider
+conservation of momentum.
+3. a. Explain the physics behind the plan in Armageddon to ensure the main rock does not
+collide with Earth.
+b. In Armaggedon, explain the existence of the dead line' after which parts of the comet
+would still hit the Earth even if it were broken up by the explosion.
+4. Texas is roughly 1000 km across. Armageddon's comet was depicted with an asteroid-like
+structure of iron and rock. The overall density of such asteroids is about 2000 kg m-3.
+a. Calculate the depth that the nuclear bomb is to be placed in this comet as a
+percentage of its size. Comment on the plan to break up the comet this way. (1 foot =
+30 cm)
+b. Estimate the volume of the comet in Armageddon, and in this way calculate your
+estimate for the comet's mass.
+c. The movie claims this comet is travelling at 10 000 m sl and the bomb must split the
+comet no less than four hours before impact. The Earth's radius is 6400 km. Calculate the
+force that the nuclear explosion, lasting for 2 seconds, would need to apply to send the
+two parts off course enough to save the Earth.
+5. An Extinction Level Event (Deep Impact plot summary) is one in which a significant
+quantity and diversity of the life on Earth becomes extinct. There have been several such
+events in history. Comets are typically tens of kilometres in diameter. Whilst a comet
+impact of this size would cause great destruction locally, it could not directly kill a
+significant amount of the life on Earth. Do some research and explain how a comet
+impact could lead to an Extinction Level Event
+UUUUUUUUUUUU
+Activity
+Write a plot summary for a movie you have seen which has a significant scientific or technological
+element to the plot or setting. Use the extracts to guide you in terms of the structure and length of your
+own summary.
+It is important to make
+sure that you include all
+aspects of the movie,
+not just the plot, the
+characters, or the setting.
+At the same time, make
+sure that your writing is
+as concise as possible
+>
+8.2
+8.3
+9.1
+10.1
+11.1
+12.
+1
+1 3.1
+Further momentum
+6.7
+before
+after
+WP
+Investigation
+Investigating elastic and inelastic collisions
+WP)
+umystery = 3.0 X 10'ms-
+Vrystery = -1.09 % 10% ms1
+u utrc = 0 ms
+V neutro = 3.4 X 10"ms!
+fig D Crash testing the elasticity of collisions.
+You can investigate elastic and inelastic collisions in the school
+laboratory. If you cause head-on collisions, and record the mass and
+velocity of each trolley before and after the collisions, you then
+calculate the momentum at each stage. This should be conserved. You
+can also then calculate kinetic energy before and after the collisions.
+Real cars are designed to absorb as much kinetic energy as possible
+when they crash. This reduces the energy available to cause injury to
+the passengers. What is the best design on your experimental trolleys
+for a crumple zone to fulfil this idea of kinetic energy absorption?
+fig E Discovering mystery particles from their momentum and collisions.
+Before collision:
+Pmystery = m mystery * 3 * 107 = Ptotal before (p. = zero)
+After collision:
+Ptotal after = (mmystery * Vimystery) + (m. X V.)
+= (m. mystery X -1.09 x 10>) + (1.67 x 10-27 x 3.4 x 106)
+Protal before = m ystery X 3 X 107
+Thus:
+(m. mystery X -1.09 x 10") + (1.67 x 10-27 x 3.4 x 106)
+= mystery X 3 X 107
+(1.67 x 10-27 x 3.4 x 10) = (
+m ystery x 3 x 10") –
+(minystery X -1.09 x 10)
+5.678 x 10-21 = (m mystery X 30 001 090)
+So:
+5.678 x 10-21
+Mystery – 30001 090
+Particle momentum
+We know that the formula for calculating kinetic energy is
+Ex = 1 mv2 and that the formula for momentum is p= mv. By
+combining these we can get an equation that gives kinetic energy
+in terms of the momentum and mass.
+Ex = mv2 and v=p
+= 1.89 x 10-22 kg
+This is approximately 207 times the mass of an electron, and so
+this can be identified as a particle called a muon, which is known
+to have this mass.
+Questions
+This formula is particularly useful for dealing with the kinetic
+energy of subatomic particles travelling at non-relativistic speeds
+- that is, much slower than the speed of light.
+| An alpha particle consists of two protons and two neutrons.
+Calculate the kinetic energy of an alpha particle which has a
+momentum of 1.08 x 10-19 kgms1:
+(a) in joules
+(b) in electron volts
+(c) in MeV.
+(mass of neutron = mass of proton = 1.67 x 10-27 kg)
+2 Abowling ball travelling at 5 ms strikes the only standing pin
+straight on. The pin flies backward at 7 msl. Calculate:
+(a) the velocity of the bowling ball after the collision
+(b) the loss of kinetic energy in this collision.
+(mass of bowling ball = 6.35 kg: mass of pin = 1 kg)
+Particle collisions
+In experiments to determine the nature of fundamental particles,
+physicists detect the movements of many unknown particles. The
+Large Hadron Collider experiment at CERN, underground near
+Geneva in Switzerland, produces 600 million particle interactions in
+its detector every second. The conservation of momentum allows
+the mass of these particles to be calculated, which helps towards
+their identification. This can be done by colliding the particles
+produced in the experiment with known particles in the detector.
+For example, if the detector registers an elastic collision with one
+of its neutrons, changing the neutron's velocity from stationary to
+3.4 x 106ms- in a head-on collision with an unknown particle,
+which was initially moving at 10% of the speed of light, and leaves
+the collision in the opposite direction at 1.09 x 10ms-l, what
+is the mass of the mystery particle? The mass of a neutron is
+1.67 x 10-27 kg.
+In a particle collision experiment, a mystery particle was detected
+to have collided with a stationary neutron and set the neutron into
+motion with a velocity of 1.5 x 107ms-1. If the mystery particle
+arrived at a velocity of 1% of the speed of light, and recoiled after
+collision with a velocity of 7.5 x 105 m s' in the opposite direction,
+calculate the mass of the mystery particle, and so identify it.
+Kev definitions
+An elastic collision is a collision in which total kinetic energy is conserved.
+An inelastic collision is a collision in which total kinetic energy is not
+conserved.

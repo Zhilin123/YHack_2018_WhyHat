@@ -1,0 +1,1089 @@
+28
+ORGANIC SYNTHESIS
+Using an oil bath or Thiele tube method
+1 Set up the Thiele tube or oil bath (Figure 8).
+2 Attach the capillary tube containing the sample to a thermometer
+using a rubber band.
+Insert the thermometer through a hole in the cork if using a Thiele
+tube or clamp the thermometer if using an oil bath. The end of the
+thermometer and the end of the capillary tube should dip into the
+oil (Figure 9).
+Using a micro-burner, slowly heat the side arm of the Thiele tube
+or the oil bath whilst observing the solid. When the solid starts
+to melt, remove the heat and record the temperature at which
+all of the solid has melted. It is important to heat the oil slowly
+when approaching the melting point, and it is advisable to repeat
+the melting point determination a second time to ensure that you
+obtain an accurate value.
+com
+www.
+Summary questions
+1 Why is it important to heat the sample slowly when carrying
+out a melting point determination?
+(1 mark)
+heat with microburner
+A Figure 8 The standard set-up of a
+Thiele tube melting point apparatus
+2 When carrying out recrystallisation it is important to allow the mixture
+to cool back to room temperature before re-filtering the sample. What
+effect would not cooling the mixture have on the final yield of product?
+Explain your reasoning.
+(2 marks)
+3 A student recrystallised a sample of an organic solid and took the
+melting point of the recrystallised product.
+The student's results are shown below.
+Sample 1 melting point before recrystallisation 126-130°C
+Sample 2 melting point after recrystallisation 134-136°C
+Why are the melting points of Sample 1 and 2 different?
+(2 marks)
+A Figure 9 The thermometer and melting
+point tube can be seen dipping into the oil
+at the top of the Thiele tube.
+497
+28.3 Further synthetic routes
+Specification reference: 6.2.5
+Identifying functional groups in organic molecules
+In this topic, you will revisit all of the functional groups you have
+studied, identify multiple functional groups in organic molecules, and
+solve multi-stage synthesis problems.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ identifying functional groups
+in organic molecules
+→ predicting the reactions of
+organic molecules
+multi-stage synthetic
+routes for preparing organic
+compounds.
+5 Worked example: Aspartame
+Aspartame (Figure 1) is used as an artificial sweetener. Identify
+the functional groups present in aspartame.
+ester
+amide
+carboxylic acid
+|HH
+-
+CN-CC-CC
+H2C—0
+CH, H
+-
+H
+NH, H
+amine
+Figure 1 The structure of aspartame
+Aspartame contains an ester functional group, an amide, an
+amine, and a carboxylic acid functional group (Figure 1).
+P Worked example: Capsaicin
+Capsaicin (Figure 3) is commonly used in food products to give
+them added spice. Identify the functional groups present in the
+structure.
+A Figure 2 Aspartame used as an
+artificial sweetener
+amide
+phenol
+alkene
+-
+I
+HO
+OCH3
+ether
+Figure 3 The structure of capsaicin
+Figure 4 Chillies owe their warming
+properties to capsaicin
+The molecule contains a phenol group, an amide, and an alkene
+(Figure 3). The molecule also contains an ether which is beyond
+the scope of the specification.
+498
+28
+Chapter 28 Practice questions
+3
+Practice questions
+1 Mesalazine is a drug that can be synthesised
+from salicylic acid in two steps.
+OH
+OH
+Benzaldehyde, C H CHO, is the simplest
+aromatic aldehyde and has a characteristic
+smell of almonds.
+a The aldehyde group takes part in
+condensation reactions with many
+compounds containing an amine group
+or a methyl group adjacent to a C=O.
+In these reactions, water is formed as a
+product. Two examples are shown below.
+COOH
+HON
+COOH
+H
+= 0 + H2N-
+C=
+-
++ H2O
+Suggest a two-step synthesis to prepare
+mesalazine from salicylic acid. For each step
+state the reagents used and write a chemical
+equation.
+(4 marks)
+OCR F324 June 2014 Q1(c)
+2 Oxandrolone is a type of synthetic drug called
+an anabolic steroid, prescribed to promote
+muscle growth. The structure of oxandrolone
+is shown below.
+=O+H3C-
+C
+-
++ H2O
+Predict the organic products formed in
+the following condensation reactions of
+benzaldehyde.
+In each reaction, an excess of
+benzaldehyde is used. Draw the structure
+of each organic product.
+NH OH
+CGH CHO
+Benzaldehyde
+Carti Chope
+CH2COOH
+CH.COOH
+CH3COCH3
+a What are the functional groups in
+oxandrolone?
+(2 marks)
+b Compound C below is an intermediate
+formed during the synthesis of
+oxandrolone.
+OH
+b
+HO
+(3 marks)
+Alkyllithium compounds, RLi, can be used
+to increase the number of carbon atoms
+in an organic compound. Different alkyl
+groups, R, add carbon chains with different
+chain lengths. RLi provides a source of R
+ions, which act as a nucleophile.
+(i) The diagram below shows an
+incomplete mechanism for the
+reaction of RLi with benzaldehyde,
+followed by reaction with aqueous
+acid.
+• Complete, using curly arrows and
+relevant dipoles, the mechanism
+for stage 1.
+• Give the structure of the
+intermediate and the organic
+product.
+Suggest a two-step synthesis of
+oxandrolone from compound C. For each
+step of the synthesis:
+• state the reagents and any conditions
+state the functional groups that would
+react and those that would form.
+(4 marks)
+F324 June 2012 Q3(C)
+504
+ORGANIC SYNTHESIS
+28.1 Carbon-carbon bond formation
+Specification reference: 6.2.4
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the use of C—C bond
+formation in synthesis to
+increase the length of a
+carbon chain
+► the formation and reaction
+of nitriles
+→ alkylation and acylation
+of benzene.
+Carbon-carbon bond formation in synthesis
+Reactions that form carbon-carbon bonds have a central importance
+to organic chemistry as they provide a means of synthesising new
+compounds containing more carbon atoms. In this topic you will be
+looking at reactions that can be used to lengthen a carbon chain, to
+add a side chain to a benzene ring and to introduce new functional
+groups which can then be reacted further.
+Formation of nitriles
+The nitrile group is the organic functional group -CN.
+Nitriles from haloalkanes
+Nitriles can be formed by reacting haloalkanes with sodium cyanide,
+NaCN, or potassium cyanide, KCN, in ethanol. In this reaction the
+length of the carbon chain is increased.
+CH,CH,CH,Cl + KCN → CH,CH,CH,CN + KCI
+1-chloropropane
+butanenitrile
+(3 carbon atoms) (4 carbon atoms)
+The reaction follows a nucleophilic substitution mechanism (Figure 1).
+Synoptic link
+C2H5
+H
+-
+N=
+C—C
++
+C-
+You should recall the mechanism
+of nucleophilic substitution from
+Topic 15.1, The chemistry of the
+haloalkanes.
+:CEN
+Figure 1 Formation of a nitrile by a nucleophilic substitution reaction of a haloalkane
+Nitriles from aldehydes and ketones
+Aldehydes and ketones will react with hydrogen cyanide in a
+nucleophilic addition reaction. The reaction forms a carbon-carbon
+bond, thus increasing the number of carbon atoms in the molecule.
+Synoptic link
+CH,COCH, + HCN – CH,C(OH)(CN)CH,
+The product is known as a hydroxynitrile (or cyanohydrin).
+Hydrogen cyanide is far too poisonous to use, and an increased
+reaction rate can be obtained in the presence of cyanide ions.
+A mixture of sodium cyanide and sulfuric acid is used, which improves
+safety and increases reaction rate. The reaction mechanism is shown in
+Figure 2.
+The reactions of aldehydes and
+ketones with hydrogen cyanide
+were discussed in Topic 26.1,
+Carbonyl compounds.
+490
+28
+ORGANIC SYNTHESIS
+Summary questions
+1 Identify the functional groups in the following molecules.
+COOH
+b
+Hac
+0
+HAC-
+-OH
+OS
+(2 marks)
+(2 marks)
+2 Outline the steps required to convert chloroethane into each of the
+following compounds. For each step state the reagents, conditions, and
+write an equation.
+a ethanoic acid
+(2 marks)
+b 2-hydroxypropanenitrile
+(2 marks)
+c propylamine
+(2 marks)
+3 Using flow charts giving the essential conditions for each step, show
+how the following organic syntheses can be carried out.
+a CH,CH,Br → CH,CH, NHCOCH,
+(4 marks)
+COCH2CH3
+CH=CHCH2
+NH2
+(3 marks)
+4 Two compounds that contribute to the flavour of foods are shown below
+OHHH HH
+HOC
+—
+(CH).—
+C—
+C—
+C—
+C—
+C—
+C.
+H
+HHH H
+compound A
+H OHH
+company
+H3C — (CH2)4—Ç=c-
+H
+H
+H
+H
+H
+compound B
+CH3
+a Name one functional group common to A and B.
+(1 mark)
+b Name a functional group present in A but not in B
+(1 mark)
+c Chose a chemical reagent for each of the following situations and
+state what you would expect to see.
+i A reagent that reacts with both A and B.
+ii A reagent that reacts with B but not with A.
+iii A reagent that reacts with A but not with B.
+(3 marks)
+d Acould be converted into B in the laboratory.
+State reagents and conditions for this reaction.
+(2 marks)
+503
+28
+ORGANIC SYNTHESIS
+gå
+18+
+H3C—C
+CH3 –
+H3C —C—CH3 -
+H3C—C—CH3 + OH-
+:CN
+Figure 2 Nucleophilic addition mechanism for the reaction of a carbonyl compound with HCN
+Hydroxynitriles in nature
+HO—
+C—
+CN
+enzyme catalyst
++ HCN
+A species of millipede, Apheloria corrugata,
+stores 2-hydroxy-2-phenylethanenitrile in one
+of its body segments. When the millipede is
+attacked, the 2-hydroxy-2-phenylethanenitrile
+is released from a storage chamber into a
+reaction chamber where it mixes with an
+enzyme. The reaction between the enzyme and
+the hydroxynitrile releases very toxic hydrogen
+cyanide, together with benzaldehyde
+(Figure 3). The millipede secretes this toxic
+mixture from glands located in its body
+segments. An adult millipede can produce
+0.6 mg of hydrogen cyanide, which is enough to
+kill ants and deter most of their other enemies.
+2-hydroxy-2-phenylethanenitrile
+benzaldehyde
+What mass of 2-hydroxy-2-phenylethanenitrile
+must the millipede break down to produce
+0.6 mg of HCN?
+A Figure 3 Apheloria corrugata uses an enzyme to break
+down a hydroxynitrile to form deadly hydrogen cyanide
+Nitriles are useful intermediates in the synthesis of other organic
+compounds such as amines and carboxylic acids. The reduction and
+hydrolysis reactions of nitriles are described below.
+Reduction of nitriles
+Nitriles can be reduced to amines by reacting with hydrogen in the
+presence of a nickel catalyst.
+Ni catalyst
+CH3CH2CEN + 2H2 -
+CH3CH2CH2NH2
+propanenitrile
+propylamine
+Hydrolysis of nitriles
+Nitriles undergo hydrolysis to form carboxylic acids by heating with
+dilute aqueous acid, for example, HCl(aq).
+U
+heat
+CH2CH2CH CEN + 2H20 + HCI - CH2CH2CH2COOH + NH4CI
+butanenitrile
+butanoic acid
+491
+28
+ORGANIC SYNTHESIS
+C6H5
+stage 1
+RLi
+stage 2
+H+/H,0
+organic
+product
+intermediate
+(4 marks)
+(ii) A chemist needs to prepare the
+organic compound below from
+benzaldehyde.
+OH
+CoH5 —¢—H
+CH CH3
+H3C CH2
+Draw the structure of the
+alkyllithium compound needed for
+this synthesis.
+(1 mark)
+OCR F324 June 2012 Q4(c)
+A food scientist synthesised the ester shown
+below, for possible use as a flavouring.
+filtration and recrystallised using hot water.
+After recrystallisation, the pure product is
+filtered again and washed with ice-cold water.
+A student carried out this experiment using
+0.120 g phenylamine and collected 0.142 g of
+the phenylethanamide product.
+a Calculate the percentage yield obtained.
+(3 marks)
+b What would you expect if the student
+added too much hot water during the
+preparation?
+(2 marks)
+How would the melting point of the crude
+product compare to that of the purified
+sample of phenylethanamide. (2 marks)
+During filtration, why is it important
+to only wash your solid with ice-cold
+solvent?
+(1 mark)
+Devise a series of steps to synthesise the
+ester, ethyl 4-nitrobenzaldehyde from
+4-nitrobenzene. For each step suggest
+reagents, conditions and provide an equation.
+4
+COOC2H5
+O-
+CSC
+HH
+The only organic compound available
+to the food scientist was phenylethanal,
+CH CH CHO.
+Explain how the food scientist was able to
+synthesise this ester using only phenylethanal
+and standard laboratory reagents. (7 marks)
+OCR F324 June 10 04 (C)
+A student carried out an experiment to
+prepare a sample of phenylethanamide
+by reacting phenylamine with ethanoic
+anhydride as shown in the equation below.
+UTKS)
+NO2
+NH2
+4-nitrobenzaldehyde ethyl 4-aminobenzoate (6 marks)
+Outline how you could prepare a sample of
+compound D starting with methylbenzene.
+Provide reagents and conditions for each
+step and show the structures of products for
+each step.
+5
+ON
+CH2CH2NH2
+NH
+HN
+CH3
+TL
+Compound D
+(8 marks)
+H C
+0
+CH
+HC
+OH
+phenylamine ethanoic anhdride
+ethanoic acid
+phenylethanamide
+In the reaction the two reagents are shaken
+together in a conical flask and impure solid
+is formed. The solid is filtered by vacuum
+505
+28
+28.1 Carbon-carbon bond formation
+Synoptic link
+Forming carbon-carbon bonds to benzene rings
+In Topic 25.2, Electrophilic
+substitution reactions of benzene,
+you have already met alkylation
+and acylation as methods for
+increasing the number of carbon
+atoms in an aromatic compound.
+Alkylation
+Alkylation is a reaction that transfers an alkyl group from a haloalkane
+to a benzene ring. The reaction takes place in the presence of a
+Friedel-Crafts catalyst such as aluminium chloride. The ethylation of
+benzene is shown in Figure 4.
+C2H5
+AICI:
++
+C2H5CL -
++ HCI
+ethylbenzene
+Figure 4 The ethylation of benzene
+Acylation
+When benzene reacts with an acyl chloride in the presence of an
+aluminium chloride catalyst, a ketone is formed. This reaction is
+known as acylation. This reaction is useful in synthesis as the organic
+product undergoes the typical reactions of a ketone. The acylation of
+benzene is shown in Figure 5.
+CyH5
+AICI
++ C2H5COCI
++ HCI
+.
+phenylpropanone
+A Figure 5 acylation of benzene to form phenylpropanone
++
+Organometallic compounds in carbon-carbon
+bond formation
+Compounds that contain a carbon-metal bond are known as organometallic
+compounds. Organometallic compounds are very important for forming
+carbon-carbon bonds in organic compounds to increase the length of a
+carbon chain. Organometallic compounds containing magnesium or lithium
+are often used for this purpose.
+• An organometallic compound provides a source of a nucleophile called a
+carbanion, which contain a carbon atom with a negative charge.
+The carbanion reacts with a positively charged or + carbon atom to form
+a new carbon-carbon bond.
+Grignard reagents
+Organometallic compounds called Grignard reagents are made by reacting
+magnesium with an alkyl or aryl haloalkane dissolved in an ether solvent
+CH,CH_Br + Mg - CH,CH, MgBr
+bromoethane
+ethylmagnesium bromide
+(Grignard reagent)
+This Grignard reagent reacts as the carbanion, CH, CH,
+492
+28
+28.2 Further practical techniques
+Melting point determination
+Chemists determine the melting point of solids to identify whether a
+solid compound is pure. A pure organic substance usually has a very
+sharp melting range of one or two degrees. The melting range is the
+difference between the temperature at which the sample starts to melt
+and the temperature at which melting is complete. If the compound
+contains impurities, the solid melts over a wide range of temperatures.
+An impure sample also has a lower melting point than a pure sample.
+A Figure 4 Closing the end of a
+capillary tube by heating in a Bunsen
+burner. The tube is rotated quickly in the
+hot Bunsen flame to seal one end of the
+tube. Only the edge of the flame is used
+so that only the tip of the capillary tube
+is heated. Otherwise the tube might bend
+as this tube has started to do
+1 Before taking the melting point of a solid you should ensure that
+the sample is completely dry and free flowing.
+2 Take a glass capillary tube or melting point tube. Hold one end of
+the capillary tube in the hot flame of a Bunsen burner. Rotate the
+tube in the flame until the end of the tube is sealed (Figure 4).
+The capillary tube is allowed to cool, and is then filled with crystals
+to about 3 mm depth. This is usually carried out by pushing the
+open end of the capillary into the solid sample to force some of the
+solid into the tube (Figure 5).
+4 Once you have prepared your sample you will need to take its
+melting point. In schools and colleges, one of two methods will be
+available depending on the apparatus available.
+Using electrically heated melting point apparatus
+1 Place the capillary tube containing the sample into a sample hole
+and a 0-300°C thermometer in the thermometer hole of the
+melting point apparatus (Figure 7).
+Using the rapid heating setting, start to heat up the sample whilst
+observing the sample through the magnifying window.
+A Figure 5 The sample is forced up the
+capillary tube by dipping the open end of
+the tube into the sample
+Figure 7 Electrically operated melting point apparatus
+Once the solid is seen to melt, record the melting point. Allow the
+melting point apparatus to cool.
+Prepare a second sample in a new capillary tube and place in the
+melting point apparatus and again heat up the sample.
+As the melting point is approached, set to low and raise the
+temperature slowly whilst observing the sample. An accurate
+determination of the melting point can then be obtained.
+Figure 6 Sample tube prepared and
+ready for insertion into melting point
+apparatus
+496
+28
+28.3 Further synthetic routes
+3) Worked example: Synthesis of 1-(3-aminophenyl)
+ethanol
+1-(3-aminophenyl)ethanol can be prepared from benzene as
+shown below. Complete a reaction scheme to show this synthesis.
+NH
+CH3
+STARTING MOLECULE
+benzene
+TARGET MOLECULE
+1-(3-aminophenylethanol OH
+Step 1: Identify the functional groups in the starting and target
+molecules.
+Starting material is benzene.
+Target molecule contains an amine group and a side
+chain added to the benzene ring.
+Step 2: Look back at Figure 6 to identify the reactions that take
+place:
+Nitration of benzene with nitric acid, then reduction
+of the No, to form the NH, group.
+A nitro-group directs other groups to carbon number 3.
+• Acylation of benzene to add a ketone group.
+The ketone group can then be reduced to an alcohol.
+Step 3: Draw out the reaction scheme.
+A Figure 7 Organic chemist carrying
+out a synthesis
+NO2
+HNO3
+H2SO4
+CH3COCI
+AlCl3
+Study tip
+Sn/HCI
+NH2
+NH2
+NaBH4
+In this synthesis, the ketone group
+must be attached to the benzene
+ring using a 3-directing group (the
+nitro group).
+Had the nitro group been reduced
+to an amine first, the ketone would
+have been substituted at the 2
+and 4-positions (-NH, is a 2- and
+4-directing group).
+I—075
+502
+28
+ORGANIC SYNTHESIS
+O Worked example: Synthesis of butanoic acid
+Devise a synthesis of butanoic acid starting from propanal. State the
+reagents and conditions and give suitable equations for each step.
+Stage 1: Identify the functional groups in the starting and target
+molecules
+H H
+H H H
+Study tip
+H
+-
+C-
+The target molecule contains one
+extra carbon atom - this is a good
+clue that you will have to use a
+synthetic route containing the
+reaction of a haloalkane with NaCN in
+ethanol to lengthen the carbon chain.
+OH
+H H
+STARTING MOLECULE
+aldehyde
+H H H
+TARGET MOLECULE
+carboxylic acid with
+extra carbon atomi
+Stage 2: Identify a sequence of chemical reactions that could
+convert the functional groups of the starting molecule
+into the functional groups of the target molecule.
+Study tip
+Nitriles can be used to form carboxylic acids.
+A carbon chain can be lengthened using NaCN/
+ethanol to form a nitrile.
+Haloalkanes can be prepared from alcohols.
+An aldehyde can be reduced to a primary alcohol.
+The steps are easier to work out
+by working back from the target
+molecule
+Stage 3: Write out the synthesis.
+Step 1: Reagents NaBH, in H,0
+HH
+HHH
+HC-C-
+-
++ 2[H] → HCC -C—
+C—OH
+H
+H
+H
+HHH
+Step 2: Reagents HBr (made from NaBr and H SO), heat
+HHH
+MH
+H—
+C—
+C—
+C—OH + NaBr + H2SO4
+→
+H—
+C—
+C—
+C—Br + NaHSO4
++ H2O
+HHH
+HHH
+Step 3: Sodium cyanide in ethanol
+HHH
+H
+H
+ISO
+H-
+C-
+—
+C—
+Br + NaCN -
+H—C—
+C—
+C—CEN
++ NaBr
+H
+H
+H
+HHH
+Step 4: Heat with dilute aqueous HCI
+H H H
+- Hi-.
+- HK
+H
+H
+ISO-
+H—
+C—
+C—
+C—CEN
++ 2H2O + HCI —
+H-
+C—
+C—
+C'
++ NHACI
+H
+H
+H
+H
+H
+H
+OH
+501
+28
+ORGANIC SYNTHESIS
+A Figure 2 The stages of filtering under reduced pressure
+Recrystallisation
+The solid product obtained after filtration will contain impurities
+which can be removed by carrying out recrystallisation. Purification by
+recrystallisation depends upon the desired product and the impurities
+having different solubilities in the chosen solvent.
+1
+Pour a quantity of the chosen solvent into a conical flask. If the
+solvent is flammable, warm the solvent over a water bath. If the
+solvent is water, place the conical flask on a tripod and gauze over
+a Bunsen and warm the solvent.
+Tip the impure sample into a second conical flask or beaker.
+Slowly add the solvent to the impure sample until it dissolves
+in the solvent. You should add the minimum volume of solvent
+needed to dissolve the solid.
+2
+3
+solvent added to sample
+sample dissolved
+crystals form on cooling
+Figure 3 The stages of recrystallisation. Minimum volume of hot solvent to crude
+sample (left), solid dissolved (centre), and fine crystals of the solid formed on
+cooling (right)
+4
+Once the solid has dissolved, allow the solution to cool. Crystals of
+the desired product should form in the conical flask or beaker.
+When no more crystals form, filter the crystals under reduced
+pressure to obtain the dry crystalline solid.
+495
+28
+ORGANIC SYNTHESIS
+The reactions of the main functional groups
+The flow chart in Figure 5 links together all of the functional groups
+that you have studied so far in your course.
+hydrogen halide
+NaCN
+Alkene
+Haloalkane
+Nitrile
+sodium halide/
+NH3/ethanol H2/Ni
+NaOH(aq)
+H2SO4
+H2SO4
+reduction
+hydration
+Primary Alcohol
+Amine
+H3PO4/H20
+NaBH4/H2O
+K Cr207/H2SO4
+carboxylic acid / H2SO4
+reduction oxidation
+NaCN/H+
+esterification
+Aldehyde
+Hydroxynitrile
+nucleophilic addition
+K2Cr207/H+
+Esterification
+oxidation
+alcohol/H2SO4
+HO/HCI
+Ester
+Carboxylic acid
+hydrolysis
+dilute acid
+NaOH(aq)
+hydrolysis
+Primary
+alkaline
+H20 SOCI2NH3 amide
+hydrolysis
+alcohol
+Sodium salt of
+Secondary
+amide
+carboxylic acid
+primary
+Acyl chloride
++ alcohol
+amine
+A Figure 5 The reactions of the main functional groups
+Synoptic link
+When attempting to solve
+synthesis problems, this
+flow chart should be used
+in conjunction with the
+flow chart in Topic 16.2,
+Synthetic routes.
+The reactions of benzene and its derivatives
+The flow chart in Figure 6 summarises the common reactions of
+benzene and its compounds.
+NO
+NH2
+NH)
+CH3
+Br2
+Sn/HCI
+reduction
+go=0-8
+CH3CH/
+AICI:
+alkylation
+HNO3/
+H2SO4
+nitration
+Bry/FeBr3
+bromination
+HO—C—CH3
+CH3
+CH3COCI/AICI
+acylation
+NaBHA
+reduction
+Cly/AICI:
+chlorination
+A Figure 6 The chemistry of benzene and its compounds
+499
+28
+ORGANIC SYNTHESIS
+Aldehydes and ketones can be reacted with Grignard reagents, followed by
+dilute aqueous acid, to form alcohols with a longer carbon chain. For example,
+butanal, CH, CH,CH,CHO, can form a secondary alcohol:
+OH carbon-carbon bond
+1. CH3CH2MgBr
+CH3CH2CH2 -
+→ CH3CH2CH2- C-CH2CH3
+2. H+/H,0
+aldehyde
+secondary alcohol
+The mechanism for this reaction can be shown using a carbanion. This is
+similar to nucleophilic addition of carbonyl compounds by hydride ions, H,
+or cyanide ions, CN.
+H+ intermediate
+is protonated
+OH
+CH3CH2CH2 —C8
+CH3CH2CH2 —
+C—
+H
+CH3CH2CH2 -C
+H
+CH2CH3
+CH2CH3
+intermediate forms
+CH_CH3
+CH,CH, carbanion attacks the 8+
+carbon atom and forms a C-C bond
+SANNEN
+1 A chemist needs to prepare
+OH H
+this organic compound from
+benzaldehyde, CH CHO.
+-CH2CH3
+Draw the structure of the
+Grignard reagents that could be
+H CHa
+used in this reaction.
+2 Outline the mechanism for the reaction above
+3 Grignard reagents also react with carbon dioxide. Predict the organic
+product formed when carbon dioxide reacts with the Grignard reagent,
+CH, --MgBr, followed by dilute aqueous acid.
+Synoptic link
+See Topic 26.1 for details of
+nucleophilic substitution by
+hydride and cyanide ions.
+Summary questions
+1 Write equations for the reaction of:
+a chloroethane with potassium cyanide
+bethanal with hydrogen cyanide.
+(1 mark)
+(1 mark)
+2 Outline the stages in the synthesis of CH, CH(OH)COOH from CH CHO.
+State the reagents, essential conditions and provide an equation
+for each step.
+(6 marks)
+CH,Br
+CH2CH2NH2
+3 Outline the stages in the
+synthesis to the right.
+The CH,Br group is 2,4-directing
+and you can assume that the
+main substitution is at the
+4-position. Write equations for each step.
+CH(3 marks)
+493
+28.2 Further practical techniques
+Specification reference: 6.2.5
+Preparing, purifying, and determining the melting point an organic
+solid are important practical skills. You have already seen how to use
+Quickfit apparatus for distilling and heating under reflux.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ organic preparation including
+use of Quickfit apparatus for
+distillation and heating under
+reflux
+purification of an organic
+solid including the use of
+filtration under reduced
+pressure, recrystallisation,
+and measurement of a
+melting point
+Preparation of an organic solid
+There are a number of experiments that you may carry out to prepare
+an organic solid. In the preparation of aspirin, you reflux salicylic
+acid, ethanoic anhydride, and glacial ethanoic acid using Quickfit
+apparatus. When preparing benzoic acid by alkaline hydrolysis, you
+use Quickfit apparatus to reflux methyl benzoate with aqueous
+sodium hydroxide, followed by acidification. In both preparations
+a solid forms which has to be separated from the reaction mixture
+before it can be purified.
+Synoptic link
+Distillation and heating under
+reflux were covered in Topic 16.1,
+Practical techniques in organic
+chemistry.
+Filtration under reduced pressure
+Filtration under reduced pressure is a technique for separating a solid
+product from a solvent or liquid reaction mixture. You will need the
+following apparatus to carry out this technique:
+Buchner flask
+Buchner funnel
+pressure tubing
+filter paper
+access to filter or vacuum pump.
+Connect one end of the pressure tubing to the vacuum outlet or to
+the filter pump whilst attaching the other end of the rubber tubing
+to the Buchner flask.
+Fit the Buchner funnel to the Buchner flask ensuring that there is
+a good tight fit. This is usually obtained using a Buchner ring or a
+rubber bung (Figure 1).
+3 Switch on the vacuum pump, or the tap, to which your filter
+pump is attached.
+4 Check for good suction by placing your hand across the top of the
+funnel.
+Place a piece of filter paper inside the Buchner funnel and wet this
+with the same solvent used in preparing your solid. You should see
+the paper being sucked down against the holes in the funnel.
+To filter your sample, slowly pour the reaction mixture from a
+beaker into the centre of the filter paper.
+Rinse out the beaker with the solvent so that all of the solid
+crystals collect in the Buchner funnel.
+8 Rinse the crystals in the Buchner funnel with more solvent and
+leave them under suction for a few minutes so that the crystals
+start to dry.
+A Figure 1 Buchner flask and funnel
+connected to filter pump on standard
+water tap
+494
+28
+28.3 Further synthetic routes
+The reactions of phenol and its derivatives
+The reactions of phenol are summarised in Figure 7.
+OH
+Br1 Br
+OH
+Br2
+NO2
+00=0
+and
+HNO3
+nitration
+bromination
+Br
+neutralisation O Na
+NaOH(aq)
+NO2
+Study tip
+You need to be able to suggest
+reagents, conditions, and
+equations for converting one
+compound into another in
+multi-stage syntheses.
+A Figure 7 The reactions of phenol
+Organic synthesis
+The term target molecule is used to indicate the molecule that you
+are trying to obtain. In order to devise an organic synthesis you will
+need to identify the functional groups in the target molecule and in
+the starting material. You then select a sequence of steps to convert
+the starting material into the target molecule. Sometimes it is easier to
+work backwards from the target molecule.
+Worked example: Synthesis of ethanamide
+Devise a flow chart to show how a sample of ethanamide could
+be prepared starting from chloroethane. Show the reagents you
+would use to carry out each step in your flow chart.
+Stage 1: Identify the functional groups in the starting and target
+molecules.
+HH
+Study tip
+Both molecules contain the same
+number of carbon atoms. The
+synthesis will involve changing
+functional groups only.
+H—
+C—
+C—
+OH
+-
+H—
+C—
+C
+H
+Study tip
+The steps are easier to work out
+by working back from the target
+molecule
+H H
+NH
+STARTING MOLECULE
+TARGET MOLECULE
+alcohol
+primary amide
+Stage 2: Identify a sequence of chemical reactions that could
+convert the functional groups in the starting molecule
+into the functional groups of the target molecule
+Primary amides can be prepared from acyl chlorides.
+• Acyl chlorides can be made from carboxylic acids.
+• An alcohol can be oxidised to a carboxylic acid.
+Stage 3: The complete flow chart is shown below showing the
+conversion of each functional group.
+HH
+H
+0
+//
+KoCr207
+SOCI
+NH3
+HKKK
+—
+C—
+C—
+OH
+H
+-
+C-
+H
+C
+-
+C.
+- H
+C
+-
+C
+H2SO4
+reflux
+OH
+HH
+alcohol
+NH2
+primary amide
+carboxylic acid
+acyl chloride
+500

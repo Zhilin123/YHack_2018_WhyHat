@@ -1,0 +1,588 @@
+Momentum
+2.3
+Newton's third law
+Conservation of momentum is directly responsible for Newton's third law. Remember, this told us
+that for every force, there is an equal and opposite force. If we think of a force as a means to change
+dp
+momentum
+increase
+down
+momentum (F= after all) then a force changing momentum in one direction must be countered
+by an equal and opposite one to ensure that overall momentum is conserved. For example, if the
+gravitational pull of the Earth causes an apple to fall from a tree, the apple gains momentum towards
+the Earth. To conserve overall momentum, the Earth must gain an equal and opposite momentum,
+This is then caused by an equal and opposite gravitational force on the Earth from the apple.
+The immense mass of the Earth means that its acceleration is imperceptible to us.
+momentum
+increase up
+Questions
+| A movie stuntman with a mass of 90 kg stands on a stationary 1 kg skateboard. An actor shoots the
+stuntman with a 9 mm pistol. The 8g bullet leaves the pistol at 358 ms' and embeds completely in the
+stuntman's bulletproof vest. How fast will the stuntman roll away?
+fig G Conservation of momentum
+causes equal and opposite
+forces, as Newton explained in
+his third law of motion.
+A girl in a stationary boat on a still pond has lost her oars in the water. In order to get the boat moving
+again, she throws her rucksack horizontally out of the boat with a speed of 4ms!
+Mass of boat = 60 kg; mass of girl = 40 kg; mass of rucksack = 5 kg
+(a) How fast will this action make the boat move?
+(b) If she throws the rucksack by exerting a force on it for 0.2 s, how much force does she exert?
+How can Newton's third law explain the problem suffered by the boy stepping out of the boat in fig D?
+In a stunt for an action movie, the 100 kg actor jumps from a train that is crossing a river bridge.
+On the river below, the heroine tied to a raft is drifting towards a waterfall at 3 ms. The raft and heroine
+have a total mass of 200 kg.
+(a) If the hero times his jumps perfectly so as to land on the raft, and his velocity is 12 ms at an angle
+of 80° to the river current, what will be the velocity of the raft immediately after his landing? Draw a
+vector diagram to show the momentum addition. (Ignore any vertical motion.)
+(b) If the waterfall is 100 m downstream, and the hero landed when the raft was 16 m from the bank,
+would they plummet over the fall? (Assume the velocity remains constant after the hero has landed.)
+(The raft and the waterfall are on the same side of the bridge as he jumps.)
+Kev definitions
+Conservation of linear momentum means the vector sum of the momenta of all objects in a
+system is the same before and after any interaction (collision) between the objects.
+An explosion is a situation in which a stationary object (or system of joined objects) separates into
+component parts, which move off at different velocities. Momentum must be conserved in explosions.
+BIGGER
+SAVING HOCKEY
+GOALKEEPERS
+OBO is a New Zealand based company that manufacture hockey goalkeeping equipment. The
+following extracts from their website explain some of their testing lab's capabilities, and report
+on a potential new material for use in leg guards.
+A PEEK INSIDE THE O LAB
+WHY OBO CHOSE NOT TO USE D30
+If we are to design and build the world's most protective and
+best performing goal keeper equipment we need the facts. The O Lab
+is packed full of the world's most advanced impact test equipment...
+and a few very clever dudes to test and help
+evaluate the results.
+A while ago, a radical new protection polymer called D30 was offered
+to OBO. Because we are always trying to improve our products we were
+excited by the potential of D30 so our designer made a special trip from
+New Zealand to England to meet with the D30 creators. He returned
+home with lots of information and some samples which we tested in the
+purpose-built OBO impact lab... The O lab.
+Our impact lab testing showed that while D30 weighed more than two
+and a half times the OBO polyethylene and EVA foams, it provided
+significantly less protection when dealing with the high speed and
+highly localised impact encountered with a hockey ball.
+Have a look at the results on the impact graph below (the horizontal axis
+is speed, the vertical axis is transferred force - the higher the transferred
+force, the less the protection).
+Protection comparison of D30 vs OBO foam
+for hockey ball impact August 2006
+450
+400
+D30 370/20mm, PE 30/5 mm
+LOBO foam PE 180/20 mm, PE 30/5mm
+300-
+fig A Anatomically
+correct crash test
+dummy head.
+350-
+Transferred force (g's)
+250-
+fig B Data capture software
+simultaneously showing video
+and concussion data.
+Every detail sorted by a small group of smart committed people.
+Video capture at speeds up to 2000 frames per second, skin contact
+analysis, and accurate concussion measurements.
+60 65
+70
+75
+100 105 110
+80 85 90 95
+Ball speed (kmh)
+fig D Protection comparison of D30 vs OBO foam for hockey ball impact.
+fig C Ball cannon capable of speeds
+in excess of 120 mph
+(200 km h).
+Where else will I encounter these themes?
+1.1
+2.1
+22
+2.2
+2.3
+YOU ARE
+HERE
+you
+3.1
+3.2
+60
+What have I studied before?
+Speed, distance, displacement, time, velocity,
+acceleration
+Resolving vectors
+Newton's laws of motion and the kinematics
+equations
+Ideas about stopping distances of cars, and the
+safety features in vehicles
+Calculations of momentum and momentum
+transfers
+What will I study later?
+Fluid movements and terminal velocity
+• Stress and strain and the deformation of solids
+The conservation of momentum in two
+dimensions (A level)
+Elastic and inelastic collisions (A level)
+• The relationship between momentum and the
+kinetic energy of a particle (A level)
+The importance of particle momentum in the
+design of accelerators (A level)
+What will I study in this chapter?
+Calculations of momentum
+What we mean by collisions and explosions, and
+how momentum is related to them
+The principle of conservation of linear
+momentum, and an understanding of how to
+apply this to problems in one dimension
+The relationship between Newton's laws and
+changing momentum
+53
+2.3
+1
+Momentum
+By the end of this section, you should be able to...
+calculate the momentum of an object
+explain how momentum is gained or lost
+Momentum
+Momentum is a measure of an object's motion. It is quite difficult to define momentum in words,
+but it gives an idea of what will be required to stop the object moving. The best definition is
+mathematical:
+momentum (kgms-') = mass (kg) * velocity (ms-')
+p = mx V
+As momentum is the product of mass (a scalar) and velocity (a vector), momentum is a vector. This
+means its direction is very important and must be kept in mind. The direction will be the same as
+that of its velocity.
+fig A Which object moves with the greatest momentum?
+WORKED EXAMPLE
+An athletics hammer has a mass of 7.26 kg (men's competition standard) and can be released at speeds
+in excess of 25 ms. Its momentum at 25.0ms would be:
+p = m XV
+p = 7.26 x 25.0
+p = 182 kg m s-
+A bullet can have a mass of 4.50 grams and can be fired at a speed of 925 msl. The momentum of this
+example bullet would be:
+p = m xv
+p = 4.5 x 10-3 925
+p = 4.16 kg ms-
+From these examples, it would be significantly more difficult to stop a well thrown athletics hammer
+than a bullet. So what exactly do we mean by 'more difficult?
+TOPIC 2
+Mechanics
+12.3 Momentum
+CHAPTER
+Introduction
+Collisions can be devastating Vehicle safety is a very important area for technological research,
+and much of the science is founded on the concept of momentum and momentum transfer.
+Momentum is a property of a moving object. It is larger if the mass is greater and if the object
+moves faster. To change the momentum of an object requires a force, and this is how car crashes can be so
+damaging. Larger forces cause more damage, whether to the vehicle or its passengers.
+Minimising the forces involved in transferring momentum will require knowledge of how momentum
+transfers and how to calculate the forces in light of the momentum transfer needed.
+Not all momentum changes are dangerous. Rocket science is generally based on maximising the forces
+imparted due to a transfer of momentum, by maximising that momentum transfer. This will create
+maximum acceleration in order to propel the rocket fast enough to gain enough gravitational potential
+energy to leave the Earth. This chapter will show you how the properties of a moving object can tell us its
+momentum, and how to calculate the transfer of momentum and thus the forces involved in changing the
+movement of an object.
+All the maths you need
+• Units of measurement (e.g. the unit for momentum, kg ms)
+• Changing the subject of an equation (e.g. finding the velocity of an object after collision)
+• Substituting numerical values into algebraic equations (e.g. calculating the momentum)
+• Plotting two variables from experimental data (e.g. observing changes in momentum over time)
+Using sin, cos and tan in physical problems, and making calculations using them (e.g. resolving a
+momentum vector)
+F043050202
+Thinking Bigger
+2.3
+Let us start by considering the nature of the writing in the article.
+151515800000000
+the physics involun. on the type of writinot a sports supply
+1. The website opposite was written to support the business activities of a sports supply
+company. Consider the article and comment on the type of writing being used. Think
+about for example how the physics involved is explained, and the degree of detail
+included. Try and answer the following questions:
+a. What range of people do you expect might read the OBO website? What would be
+the likely scientific background of their customers?
+b. On the actual OBO webpage, there are many more pictures, including brief videos,
+that we could not fit in this book. How has the ratio of text to images been chosen for
+the intended audience, and the website as a medium?
+c. Where units have been included, comment on the actual units chosen to measure
+the quantities involved.
+Command word
+When you are asked to
+comment on something,
+you need think about
+Several variables from the
+data or information you
+are given and form your
+own judgement.
+55000000000000
+Now we will look at the physics in, or connected to, these website extracts. Some of these questions
+will link to topics in much earlier sections of this book, so you may need to combine concepts from
+different areas of physics to work out the answers. Use the timeline at the bottom of the page to help
+you put this work in context with what you have already learned in your course.
+2. For the testing of the polymer D30, calculate the range of momenta for the test balls
+fired from the cannon. (A standard hockey ball has a mass of 160 grams.)
+3. Explain, with reference to Newton's laws,
+a. why the 'transferred force', i.e. the force felt through the foam by a goalkeeper
+wearing it would be the same as the force needed to decelerate the ball
+b. why the lines on the graph show a linear relationship with a positive gradient.
+4. In light of the principle of conservation of linear momentum, how can a goalkeeper
+remain stationary, whilst the ball's momentum is completely removed in collision with
+the leg pads?
+Scientific source
+As you read the articles,
+consider where they have
+come from, who wrote
+them and whom they were
+written for. Established
+scientific publications are
+good sources of reliable
+information, where as
+other resources might
+be less dependable for
+a number of reasons.
+Think about what makes a)
+source reliable and why,
+065503750000000
+Activity
+Imagine you work for OBO as their UK representative and you have to prepare a presentation to delegates
+at a trade show in England. Your presentation will need to explain in much greater scientific detail the
+testing that the equipment has undergone in The O Lab. Prepare a questionnaire, for OBO head office in
+New Zealand, of questions that will give you the details you need to prepare your presentation.
+You do not need to
+prepare the presentation
+for the trade show,
+just your questionnaire
+designed to get the
+information you need from
+OBO head office to be
+able to prepare such a
+presentation.
+Did you know?
+OBO use one unusual testing procedure they call the DTH test. This involves a real goalkeeper wearing the item
+under test. A ball is fired at the test subject and the lab researchers ask the question, 'Did That Hurt?'
+. From the website of OBO, www.obo.co.nz/the-o-lab
+4.1
+4.2
+5.1
+5.2
+5.3
+5.4
+61
+Momentum
+2.3
+WP
+Investigation
+Investigating momentum change
+motion sensor
+Newton's second law of motion
+If we consider trying to bring an object to rest or to accelerate
+it up to a certain velocity, the requirements will be different for
+different situations. A golf ball is accelerated in a very different
+way to a ferry. Think of the forces needed and the time for
+which they act. This brings us to another way of considering
+momentumn. It is a measure of the accelerating force, and the time
+it is applied for, that is needed to bring an object up to the speed
+it is moving at. Alternatively, it is the force required, and for how
+long, to bring a moving object to rest.
+laptop
+datalogger
+[
+]
+[y]
+AXIOMATA
+SIVE
+LEGES MOTUS
+w
+akim. Siquis lapide
+digits pels premier
+je
+fig C Measuring how a force changes the momentum of a trolley.
+You can investigate the rate of change of momentum in the school
+laboratory. If you record the movement of the trolley over time as a
+force makes it move from rest, you can find its velocity each second.
+If you then calculate the momentum each second, you will be able
+to plot a graph of momentum against time. It should be a straight
+line. As p = Ft, the gradient of this line will be equal to the
+accelerating force.
+tum promet paflim alert. Sicorpiquod in.cara
+demque cim in motu proprio and mustan
+lemons, (lilor in corristande impedire Mc
+e qualitet mutantur, funt corporibus reciproca proportion
+mens niet molt mal ab
+mandatur. Mom
+P
+orno
+Si cerpes dato tempore, viola M
+ferretur ab E, N, sh
+# ad
+c lear priklopa
+men DC, vi utrac lacur
+dem tempore ab . Nam
+Momentum
+Ferda fark. Ex like me
+arm in cam
+per plagam
+dan lempore ad eam
+live vs Nimi
+LE
+TIL
+Time
+fig B Newton's laws of motion as he originally wrote them.
+fig D Accelerating from rest, momentum will be proportional to time.
+Questions
+Newton's second law can be written mathematically as F= ma.
+In fact, that formula only holds true if the mass remains constant.
+When Newton originally wrote his second law in the 1687 book,
+Philosophiae naturalis principia mathematica, he actually wrote it as:
+The rate of change of momentum of a body is directly proportional
+to the resultant force applied to the body, and is in the same direction
+as the force.
+This can be written mathematically as:
+dp d(mv)
+Fdt dt
+dp
+Here, Fis the applied force, and is the rate of change of
+dt
+momentum in the direction of the force.
+The term is a mathematical expression meaning the rate of
+change of x, or how quickly x changes. However, if the quantities
+are not being measured over a very short timescale, we can
+express this using average changes:
+Calculate the momentum in each of these examples:
+(a) an ice skater with a mass of 64 kg glides at 3.75 m 5-1
+(b) a rugby player of mass 120 kg runs at a speed of 4.9 ms1
+(c) an ant of mass 5 milligrams moves at a speed of 5 centimetres
+per second.
+Estimate the momentum of the motorcyclist and the skateboarder
+shown in fig A.
+Using the ideas of Newton's second law, explain why hitting an
+airbag will cause less injury than if a passenger hits the dashboard.
+4 Estimate the force applied by a person throwing a Frisbee.
+At
+Kev definition
+Momentum (kgms ) = mass (kg) velocity (ms)
+p = mxv
+55
+2.3
+Conservation of linear momentum
+By the end of this section, you should be able to...
+explain the principle of conservation of linear momentum
+• make calculations based on the conservation of linear momentum
+Collisions
+When objects collide, we can use the laws of physics to calculate where the objects will go after the
+collision. We can use the principle of conservation of linear momentum to predict the motion
+of objects after a collision. This principle tells us that if we calculate the momentum of each object
+before they collide, the sum total of these momenta (accounting for their direction) will be the same
+as the sum total afterwards.
+Learning tip
+The word 'linear' appears here to remind us that this is all about objects moving in straight lines. There are
+similar physics principles about rotating objects, but they use different equations for the calculations. In
+this book we will only consider linear momentum.
+fig A Newton's cradle: each time
+the balls collide, momentum
+is transferred from one
+to another, but the total
+momentum remains constant.
+This principle is dependent on the condition that no external force acts on the objects in question.
+An external force would provide an additional acceleration, and the motion of the objects would not
+be dependent on the collision alone. As we saw in the previous section, a resultant force will cause a
+change in momentum, so it makes sense that momentum is only conserved if no external force acts.
+Imagine if a juggler's upward moving ball collided with one coming down. Momentum conservation
+would suggest that the one falling down would bounce back with an upward velocity after the
+collision. Common sense tells us that all balls will still end up back on the ground. The external force
+of gravity means that the principle of conservation of momentum alone cannot be used to predict
+the motions after the collision.
+19
+fig B David Porter of the TCU Horned Frogs feels the full force of the conservation of momentum.
+56
+2.3
+Exam-style questions
+1 Which of the following is the correct unit for momentum?
+(a) kgs-
+(b) kgms!
+(c) kgms?
+(d) kg m-5-1
+[1]
+[Total: 1]
+5 A student is using a 'Newton's Cradle'. This consists of a set of
+identical solid metal balls hanging by threads from a frame so
+that they are in contact with each other.
+She initially pulls one ball to the side as shown.
+2 A hockey ball of mass 158 g is hit with a force of 2000 N so
+that it travels at 28.1 ms 1. What is the ball's momentum?
+(a) 4.4kgms!
+(b) 62.4kgm s-2
+(c) 4440 kg m-15-1
+(d) 8880 kg msi
+[1]
+[Total: 1]
+[4]
+3 An ice dance couple begin their routine stationary and push
+apart from each other with a force of 75 N on the other. The
+female skater has a mass of 64 kg, whilst the male skater
+weighs 804N
+If the female moves off to the left with a speed of 3.6 msi,
+what is the velocity of the male skater?
+(a) 0.022 ms-l to the right
+(b) 2.8ms to the right
+(c) 3.1 ms to the left
+(d) 3.1ms to the right
+[Total: 1]
+She releases the ball, it collides with the nearest stationary ball
+and stops. The ball furthest to the right immediately moves
+away. The middle three balls remain stationary.
+(a) Explain what measurements the student would take and
+describe how she would use them to investigate whether
+momentum had been conserved in this event.
+(b) The student makes the following observations:
+• the ball on the right returns and collides with a similar
+result; this repeats itself a number of times
+• after a while, the middle balls are also moving
+• shortly afterwards, the balls all come to rest.
+Discuss these observations in terms of energy. [3]
+[Total: 7]
+[1]
+4 How tiny bacteria move is of interest in nanotechnology.
+Mycobacteria move by ejecting slime from nozzles in their
+bodies.
+Explain the physics principles behind this form of propulsion.
+[Total: 4]
+62
+2.3
+WORKED EXAMPLE
+If the boy has a mass of 55 kg and steps forward at a speed
+of 1.5 ms, what will happen to the boat which has a mass
+of 36 kg? (Ignore friction effects.)
+This situation is an explosion, so:
+total momentum before = total momentum after = zero
+:: Pboat + Pboy = 0
+- Pboat = -Pboy
+So when the two are added up, the total momentum is
+still zero.
+Pboat = -(55 x 1.5) = -82.5 kgm s-1
+mboat * Vboat = -82.5 kg m s -1
+-82.5 -82.5
+Vboat moat
+36
+Vboat = -2.3 ms-
+fig D Caution: explosions may make
+you wet!
+So the boat moves at 2.3 ms in the opposite direction to the boy.
+WP
+Investigation
+Investigating transfer of momentum
+fig E Verifying the principle of conservation of linear momentum.
+You can investigate the transfer of momentum in collisions in the school laboratory using trolleys, or
+sliders on an airtrack. By recording the movement of one trolley crashing into another, you can find the
+momentum of each one before and after the collision. The calculation of summing the total momenta
+before and after collision will allow you to verify the principle of conservation of linear momentum. Try
+different types of collision and trolleys with different masses. You could also try an explosion in which the
+trolleys spring apart from a stationary position.
+In experiments using trolleys, we often find that momentum is actually not conserved in the measurements
+we make. With air track collisions, the measurements match very closely or exactly with the conservation
+of momentum theory. What might be the reasons for this difference between the two types of experiment?
+fig F A trolley 'explosion'.
+58
+Exam-style questions
+2.3
+6 A student used a motion sensor and a datalogging computer
+to investigate the momentum changes when a trolley is
+accelerated by a falling weight connected to it. Assume the
+trolley suffers no friction on the desk, and there is also no
+friction in the pulley wheel.
+motion sensor
+7 Explain how the principle of conservation of momentum
+in collisions is a consequence of Newton's third law of
+motion.
+[6]
+[Total: 6]
+8 A hockey ball is travelling horizontally with a momentum of
+0.8 kgm s-) just before it hits a goalkeeper's leg pad. It
+rebounds horizontally from the leg pad with a momentum of
+-1.2 kg ms-1. The graph shows the variation in the momentum
+of the ball during this process.
+-
+laptop
+datalogger
+Momentumn/kgm si
+Time/ms
+(a) Explain how Newton's second law of motion predicts the
+momentum of this trolley will change when the weight is
+allowed to fall freely
+[2]
+(b) When the weight is released, trolley experiences a resultant
+accelerating force of 2.85 N and has a mass of 350 g.
+Calculate the rate of change of velocity of the trolley. [3]
+(c) The trolley reaches a velocity of 11.1ms-l, calculate its
+momentum at this velocity, including the correct unit. [2]
+Explain what is meant by the principle of conservation of
+momentum.
+[2]
+The student changes the experiment so that she can collide a
+moving trolley with an identical stationary one.
+(a) Describe how the ball's momentum changes over time from
+0 to 10 ms.
+[3]
+(b) Explain in terms of Newton's laws why the momentum
+changes from positive to negative during the ball's collision
+with the leg pad.
+[2]
+(c) What is the resultant force on the ball during the following
+time periods?
+(i) 0-4ms
+(ii) 4-8ms
+(iii) 8–12 ms
+[4]
+(d) Draw a new version of the graph for a collision in which the
+ball is initially travelling at half the speed, and for which the
+impact time is also halved, but the force provided by the leg
+pads is the same.
+[3]
+[Total: 12]
+(e) Explain the momentum and speed changes for each trolley
+if the moving trolley stops on collision, and the stationary
+one moves away.
+(f) Explain the momentum and speed changes involved if the
+trolleys join together on collision, and both move away
+together.
+(g) Explain how this experiment could be changed to
+investigate the momentum and speed changes in an
+explosion
+[Total: 20]
+[3]
+63
+Momentum
+2.3
+WORKED EXAMPLE
+In an American football match, the stationary quarterback is tackled by a defender who dives through
+the air at 4 ms and, in mid-air, grabs the quarterback and the two fly backwards together. Ignoring
+any friction effects, calculate how fast the two will fly back if the tackler has a mass of 140 kg and the
+stationary player has a mass of 95 kg. Consider the entire situation to be happening horizontally.
+Before:
+Quarterback stationary so zero momentum
+Ptackler = mv = 140 x 4 = 560
+momentum before = 560 kg ml
+After:
+momentum after = momentum before = 560 kg msl
+Pboth = m both * Vboth
+Pboth 560 560
+both moth (140 +95) 235
+Vboth = 2.4 ms
+Learning tip
+In a collision in which two objects join together to become one and move off together, they are often
+said to 'coalesce'
+Explosions
+fig C In this photo, these trapeze artists are stationary. If they let go of each other, they will 'explode' - they will fly apart
+with equal and opposite momenta.
+If a stationary object explodes, then the total momentum of all the shrapnel parts added up (taking
+account of the direction of their movements) must be zero. The object had zero momentum at the
+start, so the law of conservation of linear momentum tells us this must be the same total after the
+explosion. In physics terms, any such event is termed an explosion, although it may not be very
+dramatic. For example, if the two trapeze artists in fig C simply let go their hands and swing apart,
+they have zero total momentum before and will have equal and opposite momenta afterwards, which
+when added together will total zero again.

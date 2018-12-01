@@ -1,0 +1,1203 @@
+4.2 Factors affecting enzyme activity
+The student then investigated the effect of substrate concentration on enzyme activity.
+Suggest a hypothesis for this experiment.
+The results are shown below.
+Percentage of
+Volume of gas collected (cm) after ... (s)
+Hydrogen peroxide
+5 10 15 20 25 30 35 40 45 50 55 60
+Test 1
+100
+43 62 68 74 76 77777777777777
+30
+12 21 24 26 27 27 27 27 27 27 27 27
+10
+10 14 16 18 18 18 18 18 18 18 18 18
+Test 2
+100 42 62 70 65 76 77 77 77 77 77 77 77
+30
+1321 25 27 2828 28 28 28 28 28
+10
+8 15 17 19 19 19 19 19 19 19 19 19
+Test 3
+100
+43 63 68 74 75 76 77 7777777777
+30 12 20 24 26 27 27 27 27 27 27 27 27
+8 14 17 18 1 8 18 18 18 18 18 18
+10
+Mean of three tests
+100
+77.0
+770
+30
+762.
+368.
+771.
+0
+12.3 20.7 24.3 26.3
+8.7 14.3 16.7 18.3
+75.
+776.7
+273 273
+18.3 18.3
+770
+273
+18.3
+77.0
+273
+18.3
+770
+273
+18.3
+77.0
+27.3
+18.3
+27.3
+18.3
+| 27.3
+18.3
+10
+5 Describe how the student would have carried out the
+experiment at different temperatures.
+6 a Name the independent variable and the
+dependent variable in this experiment.
+b List the controlled variables.
+7 Explain the importance of keeping these variables
+(controlled) constant.
+8 a Explain the term anomaly.
+b Identify any anomalies in the results above.
+9 Explain why the student did the experiment three
+times and then calculated the means of the results.
+10 Plot a graph of the results.
+11 Explain the shape of the graph you have produced.
+12 Write an evaluation for this experiment.
+Serial dilutions 2
+Figure 5 shows how a serial dilution might be set up.
+Adding 1 ml of stock solution to 9 ml of distilled water
+gives 10 ml of dilute solution in which there is 1 ml
+stock/10 ml hence a 1/10 or 10 fold dilution. This step is
+repeated a number of times to give a serial dilution.
+A serial dilution is a repeated, stepwise dilution of a
+stock solution of known concentration. A serial dilution
+is usually done by factors of ten, to produce a range of
+concentrations. Serial dilutions are useful even if the
+concentration of the initial solution is unknown as they
+give us relative concentrations. Serial dilutions are used
+in many different ways-for example to investigate the
+effect of changing the concentration of an enzyme or a
+substrate in a reaction, and in determining the numbers
+of microorganisms in a culture.
+Catalase is an enzyme that catalyses the breakdown of
+hydrogen peroxide. To investigate the effect of different
+concentrations of catalase on the rate of breakdown of
+hydrogen peroxide, catalase-rich tissues such as liver
+92
+ENZYMES
+a higher collision rate with the active sites of enzymes and the
+formation of more enzyme-substrate complexes. The rate of reaction
+therefore increases.
+-
+-
+-
+-
+This is also true when the concentration of the enzyme increases. This
+will increase the number of available active sites in a particular area or
+volume, leading to the formation of enzyme-substrate complexes at a
+faster rate.
+rate of reaction
+The rate of reaction increases up to its maximum (max). At this point
+all of the active sites are occupied by substrate particles and no more
+enzyme-substrate complexes can be formed until products are released
+from active sites. The only way to increase the rate of reaction would
+be to add more enzyme or increase the temperature.
+concentration of substrate
+Figure 3 Effect of substrate
+concentration on the rate of an enzyme-
+controlled reaction. The rate of reaction
+increases as the substrate concentration
+increases up to a maximum rate, V
+Max
+If the concentration of the enzyme is increased more active sites are
+available so the reaction rate can rise towards a higher Vmay. The
+concentration of substrate becomes the limiting factor again and
+increasing this will once again allow the reaction rate to rise until the
+new Vmax is reached.
+Investigations into the effects of different factors on enzyme activity a
+Investigating the effects of different factors on enzyme
+activity provides an insight into how enzymes work.
+Catalase is an enzyme present in plant tissue and animal
+tissue, making it a good choice for use in investigations
+because it is readily available. Catalase catalyses the
+breakdown of hydrogen peroxide into water and oxygen.
+The volume of oxygen gas collected in a set length of time
+can be used as a measure of the rate of reaction.
+In the second experiment the liver was boiled for
+five minutes before being placed in the hydrogen
+peroxide solution.
+The graph below shows the results from the experiment.
+liver
+catalase
+syringe -
+oxygen released
+boiling tube
+conical flask
+bubbles
+of oxygen
+---------- boiled liver
+1
+NNNNNNNNNNNNNNNNN
+hydrogen peroxide
+0
+5
+20
+25
+10 15
+time (s)
+water
+-trough
+A Figure 4 Apparatus used to collect oxygen released when catalase reacts with
+hydrogen peroxide
+A student conducted a series of experiments to determine
+1 Explain why the student used liver tissue.
+the effect of temperature on enzymes.
+2 Show the chemical reaction that occurs resulting
+in the release of oxygen.
+In the first experiment, using apparatus similar to that
+3 Explain the shape of the graph.
+shown in the diagram above, liver tissue was put into
+4 Describe and explain what has happened in the
+hydrogen peroxide solution and the volume of oxygen
+second experiment.
+released every five seconds was measured.
+ENZYMES
+101
+4.4 Cofactors, coenzymes, and
+prosthetic groups
+Specification reference: 2.1.4
+The difference between cofactors and coenzymes
+Some enzymes need a non-protein 'helper' component in order to
+carry out their function as biological catalysts. They may transfer
+atoms or groups from one reaction to another in a multi-step pathway
+or they may actually form part of the active site of an enzyme. These
+components are called cofactors, or if the cofactor is an organic
+molecule it is called a coenzyme.
+Inorganic cofactors are obtained via the diet as minerals, including
+iron, calcium, chloride, and zinc ions. For example, the enzyme
+amylase, which catalyses the breakdown of starch (Topic 4.1, Enzyme
+action), contains a chloride ion that is necessary for the formation of a
+correctly shaped active site.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the need for coenzymes,
+cofactors, and prosthetic
+groups in some enzyme-
+controlled reactions.
+► the role of inactive precursors
+Many coenzymes are derived from vitamins, a class of organic molecule
+found in the diet. For example, vitamin B3 is used to synthesise NAD
+(nicotinamide adenine dinucleotide), a coenzyme responsible for the
+transfer of hydrogen atoms between molecules involved in respiration.
+NADP, which plays a similar role in photosynthesis, is also derived
+from vitamin B3.
+A Figure 1 A molecular model of the
+enzyme alpha amylase, which catalyses
+the breakdown of starch
+Another example is vitamin B5, which is used to make coenzyme A.
+Coenzyme A is essential in the breakdown of fatty acids and
+carbohydrates in respiration.
+alcohol
+dehydrogenase,
+NAD+
+ethanol
+Prosthetic groups
+You have previously met prosthetic groups when you learnt about
+the globular protein, haemoglobin, in which the prosthetic group is
+an iron (Fe) ion. Prosthetic groups also play a role in some enzymes.
+Prosthetic groups are similar to cofactors in that they are required by
+certain enzymes to carry out their catalytic function, but while cofactors
+bind loosely to proteins in order to activate them, prosthetic groups are
+tightly bound and form a permanent feature of the protein. For example
+zinc ions (Zn2+) form an important part of the structure of carbonic
+anhydrase, an enzyme necessary for the metabolism of carbon dioxide.
+NADH
+Precursor activation
+Many enzymes are produced in an inactive form, known as inactive
+precursor enzymes, particularly enzymes that can cause damage
+within the cells producing them or to tissues where they are released,
+or enzymes whose action needs to be controlled and only activated
+under certain conditions.
+éthanal
+Precursor enzymes often need to undergo a change in shape (tertiary
+structure), particularly to the active site, to be activated. This can be
+achieved by the addition of a cofactor. Before the cofactor is added,
+ethanal, H+, and NADH are
+released from the active site
+Figure 2 Alcohol dehydrogenase
+needs NAD+ to accept hydrogen produced
+when ethanal is formed from ethanol
+ENZYMES
+4.1 Enzyme action
+Specification reference: 2.1.4
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the role of enzymes in
+catalysing reactions that
+affect metabolism at a cellular
+and whole organism level
+► the role of enzymes in
+catalysing both intracellular
+and extracellular reactions
+► the mechanism of
+enzyme action.
+Why are enzymes important?
+Most of the processes necessary to life involve chemical reactions, and
+these reactions need to happen very fast. In the laboratory or in industry
+this would demand very high temperatures and pressures. These
+extreme conditions are not possible in living cells - they would damage
+the cell components. Instead, the reactions are catalysed by enzymes.
+Enzymes are biological catalysts. They are globular proteins that
+interact with substrate molecules causing them to react at much faster
+rates without the need for harsh environmental conditions. Without
+enzymes many of the processes necessary to life would not be possible.
+Synoptic link
+You learned about globular proteins
+in Topic 3.7, Types of proteins.
+Study tip
+Enzymes are often named for the
+reaction they are involved in, or
+the substrate that they act upon.
+Many enzyme names end in 'ase',
+but not all. Some enzyme names
+indicate both substrate and
+function. For example:
+The role of enzymes in reactions
+Living organisms need to be built and maintained. This involves the
+synthesis of large polymer-based components. For example, cellulose
+forms the walls of plants cells and long protein molecules form
+the contractile filaments of muscles in animals. The different cell
+components are synthesised and assembled into cells, which then form
+tissues, organs, and eventually the whole organism. The chemical
+reactions required for growth are anabolic (building up) reactions and
+they are all catalysed by enzymes.
+Energy is constantly required for the majority of living processes,
+including growth. Energy is released from large organic molecules, like
+glucose, in metabolic pathways consisting of many catabolic (breaking
+down) reactions. Catabolic reactions are also catalysed by enzymes.
+These large organic molecules are obtained from the digestion of food,
+made up of even larger organic molecules, like starch. Digestion is also
+catalysed by a range of enzymes.
+Reactions rarely happen in isolation but as part of multi-step pathways.
+Metabolism is the sum of all of the different reactions and reaction
+pathways happening in a cell or an organism, and it can only happen
+as a result of the control and order imposed by enzymes.
+Just like reactions in a laboratory, the speed at which different cellular
+reactions proceed varies considerably and is usually dependent on
+environmental conditions. The temperature, pressure, and pH may all
+have an effect on the rate of a chemical reaction. Enzymes can only
+increase the rates of reaction up to a certain point called the Vmax
+(maximum initial velocity or rate of the enzyme-catalysed reaction).
+Phosphorylases catalyse the
+addition of a phosphate groups
+to molecules.
+Lactate dehydrogenase
+catalyses the transfer
+of a hydrogen ion to and
+from lactate.
+Pepsins catalyse the
+breakdown of proteins
+(peptides) in the stomach.
+ATPase uses ATP as its substrate.
+Mechanism of enzyme action
+Molecules in a solution move and collide randomly. For a reaction to
+happen, molecules need to collide in the right orientation. When high
+temperatures and pressures are applied the speed of the molecules will
+84
+4.4 Cofactors, coenzymes, and prosthetic groups
+Synoptic link
+the precursor protein is called an apoenzyme. When the cofactor is
+added and the enzyme is activated, it is called a holoenzyme.
+substrate –
+You will learn about NAD and
+coenzyme Ain cellular respiration
+in more depth in Chapter 18,
+Respiration.
+coenzyme
+Synoptic link
+You learnt about prosthetic groups
+in proteins in Topic 3.6, Structure of
+proteins.
+apoenzyme
+inactive
+cofactor
+activator
+holoenzyme
+active
+A Figure 3 Coenzymes, or cofactors, are often needed to produce the specific shape of
+the active site
+Sometimes the change in tertiary structure is brought about by the
+action of another enzyme, such as a protease, which cleaves certain
+bonds in the molecule. In some cases a change in conditions, such
+as pH or temperature, results in a change in tertiary structure and
+activates a precursor enzyme. These types of precursor enzymes are
+called zymogens or proenzymes.
+When inactive pepsinogen is released into the stomach to digest
+proteins, the acid pH brings about the transformation into the active
+enzyme pepsin. This adaptation protects the body tissues against the
+digestive action of pepsin.
+Synoptic link
+You will learn more about blood
+clotting in Topic 12.5, Non-specific
+animal defences against pathogens.
+Enzyme activation and the blood-clotting
+mechanism
+Blood clotting, or coagulation, is an important biological response to tissue
+damage. The blood-clotting process only begins when platelets aggregate at
+the site of tissue damage. The aggregated platelets release clotting factors,
+including factor X.
+Summary questions
+1 Describe two ways in which
+cofactors are necessary
+for the catalytic role
+of some enzymes. (2 marks)
+Factor X is an important component in the blood-clotting mechanism.
+It is an enzyme that is dependent on the cofactor vitamin K for activation.
+Activated factor X catalyses the conversion of prothrombin into the enzyme
+thrombin by cleaving certain bonds in the molecule, thus altering its
+tertiary structure. Thrombin is a protease and catalyses the conversion
+of soluble fibrinogen to insoluble fibrin fibres. Fibrin molecules, together
+with platelets, form a blood clot.
+2 Explain, using an appropriate
+example of each, how
+prosthetic groups are different
+from coenzymes. (4 marks)
+This series of successive enzyme activations in blood clotting is called the
+coagulation cascade.
+3 Using blood clotting as
+your example, explain
+the different ways in
+which enzymes can
+be activated. (4 marks)
+1 Explain the importance of enzyme activation in controlling
+blood clotting
+98
+4
+4.1 Enzyme action
+and water quickly, therefore preventing its accumulation. It is found in
+both plant and animal tissues.
+Extracellular enzymes
+All of the reactions happening within cells need substrates (raw materials)
+to make products needed by the organism. These raw materials need to
+be constantly supplied to cells to keep up with the demand. Nutrients
+(components necessary for survival and growth) present in the diet or
+environment of the organism supply these materials.
+Nutrients are often in the form of polymers such as proteins and
+polysaccharides. These large molecules cannot enter cells directly
+through the cell-surface membrane. They need to be broken down
+into smaller components first.
+Enzymes are released from cells to break down these large nutrient
+molecules into smaller molecules in the process of digestion. These
+enzymes are called extracellular enzymes. They work outside the cell
+that made them. In some organisms, for example fungi, they work
+outside the body.
+hyphae
+Both single-celled and multicellular
+organisms rely on extracellular
+enzymes to make use of polymers for
+nutrition.
+Single-celled organisms, such as
+bacteria and yeast, release enzymes
+into their immediate environment.
+nuclei
+The enzymes break down larger
+enzymes
+molecules, such as proteins, and the
+soluble products
+secreted
+smaller molecules produced, such as
+absorbed
+digestion
+amino acids and glucose, are then
+absorbed by the cells.
+A Figure 2 Cells in fungal hyphae synthesise enzymes that are secreted
+Many multicellular organisms eat
+outside the cell. The enzymes breakdown organic matter, so it can be absorbed
+food to gain nutrients. Although
+and used for growth
+the nutrients are taken into the
+digestive system the large molecules still have to be digested so smaller
+molecules can be absorbed into the bloodstream. From there they
+are transported around the body to be used as substrates in cellular
+reactions. Examples of extracellular enzymes involved in digestion in
+humans are amylase and trypsin.
+Synoptic link
+You learnt about starch in
+Topic 3.3, Carbohydrates.
+Digestion of starch
+The digestion of starch begins in the mouth and continues in the
+small intestine. Starch is digested in two steps, involving two different
+enzymes. Different enzymes are needed because each enzyme only
+catalyses one specific reaction.
+1
+Starch polymers are partially broken down into maltose, which is
+a disaccharide. The enzyme involved in this stage is called amylase.
+Amylase is produced by the salivary glands and the pancreas. It is
+released in saliva into the mouth, and in pancreatic juice into the
+small intestine.
+86
+Chapter 4 Practice questions
+c
+5
+Identify which curve on the graph below
+demonstrates competitive inhibition
+giving the reasons for your choice.
+(1 mark)
+Figure 4 shows the results that the student
+obtained from a practical procedure in
+which the rate of formation of maltose was
+measured in the presence and absence of
+chloride ions.
+maximum rate
+of reaction
+chloride ions
+present
+rate of reaction
+substrate concentration
+concentration of maltose (%)
+chloride ions
+absent
+1
+2
+time (min)
+a
+d (i) Explain why end product inhibitors
+have to be both reversible and
+competitive
+(3 marks)
+(ii) Explain why end product enzyme
+inhibition is essential for the control
+of cellular activity.
+(3 marks)
+4 Amylase is an enzyme that hydrolyses
+amylose to maltose. Maltose, like glucose, is a
+reducing sugar.
+A student investigated the action of amylase
+on amylose. She mixed amylase with amylose
+and placed the mixture in a water bath.
+Describe how she could measure the change
+in concentration of maltose (reducing sugar)
+as the reaction proceeds.
+In you answer, you should ensure that the steps in
+the procedure are sequenced correctly (7 marks)
+OCR F212 2011
+Describe the effect of chloride ions on the
+rate of reaction.
+(2 marks)
+OCR F212 2011
+b
+State three variables that need to be
+controlled in this practical procedure in
+order to produce valid results.
+(3 marks)
+OCR F212 2011
+100
+ENZYMES
+Practice questions
+1 Compounds containing some metal ions
+such as lead, mercury, copper or silver are
+poisonous. This is because ions of these
+metals are non-competitive inhibitors of
+several enzymes.
+Other metal ions are required for enzymes to
+function. Magnesium ions, for example, are
+required by DNA polymerase.
+Which of the following statements correctly
+describes the nature and function of
+magnesium ions?
+Statement 1: minerals and coenzymes
+Statement 2: vitamins and cofactors
+Statement 3: minerals and cofactors
+Statement 4: vitamins and coenzymes
+(1 mark)
+2 a Describe what is happening at the points
+labelled on the graph below. You should
+use the terms active site, substrate and
+enzyme substrate complex in your
+answer.
+(5 marks)
+(iii) Explain why maltase, not amylase,
+hydrolyses maltose completing the
+digestion of starch.
+(3 marks)
+(iv) Explain why amylase stops working
+in the stomach.
+(4 marks)
+The acid stomach contents are neutralised
+by alkaline pancreatic juice in the small
+intestine.
+Suggest why this is necessary to ensure
+digestion of maltose.
+(3 marks)
+d Explain what is meant by the term Vmax
+with respect to enzymes. (3 marks)
+a State the type of monomers that make up
+proteins.
+(1 mark)
+Malonate inhibits cellular respiration.
+Hans Krebs added malonate to minced
+pigeon muscle tissue when trying to
+work out the different steps in Krebs
+cycle, a series of reactions that occur in
+respiration.
+3
+COO
+CH
+succinate
+O0C —C
+H
+CH2
+dehydrogenase
+H
+—
+C—
+C00
+succinate
+fumarate
+rate of reaction
+COO
+CH2
+succinate
+dehydrogenase
+no reaction
+C00
+malonate
+concentration of substrate
+In step 6 of Krebs cycle, succinate
+dehydrogenase catalyzes the oxidation of
+succinate to fumarate.
+Explain why malonate inhibits this
+reaction.
+(4 marks)
+Amylase catalyses the hydrolysis of
+starch to maltose in the mouth. Amylase
+stops working as the food passes into
+the stomach. Maltase then catalyses the
+hydrolysis of maltose into glucose in the
+small intestine.
+(i) State which group of biological
+molecules amylase and maltase
+belong to.
+(1 mark)
+(ii) Describe the meaning of the term
+hydrolysis.
+(2 marks)
+b
+ENZYMES
+increase, therefore so will the number of successful collisions and the
+overall rate of reaction.
+Many different enzymes are produced by living organisms, as each
+enzyme catalyses one biochemical reaction, of which there are thousands
+in any given cell. This is termed the specificity of the enzyme.
+Energy needs to be supplied for most reactions to start. This is called
+the activation energy. Sometimes, the amount of energy needed is so
+large it prevents the reaction from happening under normal conditions.
+Enzymes help the molecules collide successfully, and therefore reduce
+the activation energy required. There are two hypotheses for how
+enzymes do this.
+Lock and key hypothesis
+An area within the tertiary structure of the enzyme has a shape that is
+complementary to the shape of a specific substrate molecule. This area
+is called the active site.
+substrate
+molecule
+product
+molecules
+active
+In the same way that only the right key will fit into a lock, only a
+specific substrate will 'fit' the active site of an enzyme. This is the
+lock and key hypothesis.
+active site free
+to accept another
+substrate molecule
+site 7
+When the substrate is bound to the active site an enzyme-substrate
+complex is formed. The substrate or substrates then react and the
+product or products are formed in an enzyme-product complex.
+The product or products are then released, leaving the enzyme
+unchanged and able to take part in subsequent reactions.
+enzyme
+molecule
+enzyme
+molecule
+The substrate is held in such a way by the enzyme that the right
+atom-groups are close enough to react. The R-groups within the
+active site of the enzyme will also interact with the substrate, forming
+temporary bonds. These put strain on the bonds within the substrate,
+which also helps the reaction along.
+enzyme
+enzyme-
+enzyme
+substrate
+substrate complex
+products
+A Figure 1 The substrate fits into the
+active site of the enzyme forming
+the enzyme-substrate complex where
+the reaction takes place and the
+products are released
+Study tip
+The substrate should be described
+as having a complementary shape to
+its active site, not the same shape.
+Induced-fit hypothesis
+More recently, evidence from research into enzyme action suggests
+the active site of the enzyme actually changes shape slightly as the
+substrate enters. This is called the induced-fit hypothesis and is a
+modified version of the lock and key hypothesis. The initial interaction
+between the enzyme and substrate is relatively weak, but these weak
+interactions rapidly induce changes in the enzyme's tertiary structure
+that strengthen binding, putting strain on the substrate molecule. This
+can weaken a particular bond or bonds in the substrate, therefore
+lowering the activation energy for the reaction.
+Intracellular enzymes
+Enzymes have an essential role in both the structure and the function of
+cells and whole organisms. The synthesis of polymers from monomers,
+for example making polysaccharides from glucose, requires enzymes.
+Enzymes that act within cells are called intracellular enzymes.
+Hydrogen peroxide is a toxic product of many metabolic pathways. The
+enzyme catalase ensures hydrogen peroxide is broken down to oxygen
+ENZYMES
+change in shape of an active site for it to no longer be complementary to
+its substrate. This happens to all of the enzyme molecules at about the
+same temperature so the loss of activity is relatively abrupt. At this point
+in an enzyme-controlled reaction the temperature coefficient, Quo does not
+apply any more as the enzymes have denatured.
+The decrease in the rate of reaction below the optimum temperature
+is less rapid. This is because the enzymes have not denatured, they are
+just less active.
+Temperature extremes
+The majority of living organisms have evolved to cope with living within a
+certain temperature range. Some organisms can also cope with extremes.
+Examples of extremely cold environments are deep oceans, high
+altitudes, and polar regions. The enzymes controlling the metabolic
+activities of organisms living in these environments need to be adapted
+to the cold. Enzymes adapted to the cold tend to have more flexible
+structures, particularly at the active site, making them less stable than
+enzymes that work at higher temperatures. Smaller temperature
+changes will denature them.
+Thermophiles are organisms adapted to living in very hot environments
+such as hot springs and deep sea hydrothermal vents. The enzymes
+present in these organisms are more stable than other enzymes due to
+the increased number of bonds, particularly hydrogen bonds and sulfur
+bridges, in their tertiary structures. The shapes of these enzymes, and
+their active sites, are more resistant to change as the temperature rises.
+Enzymes in action
+Siamese cats provide visual evidence of the effect
+of temperature on enzyme activity. Tyrosinase
+is an enzyme responsible for catalysing the
+production of melanin, the pigment responsible for
+dark coloured fur. Due to a mutation, Siamese cats
+produce a form of the enzyme tyrosinase that is
+denatured and therefore inactive at normal body
+temperature meaning that their fur is primarily
+white or cream coloured. The extremities of these
+cats - the tails, ears, and limbs - are at a slightly
+lower temperature, too low to denature mutant
+tyrosinase. This leads to the distinctive point coloration of these cats as
+melanin is produced in these areas.
+Study tip
+1 Suggest why Siamese kittens are born completely white.
+Remember that enzymes are
+denatured not killed'.
+pH
+Proteins, and so enzymes, are also affected by changes in pH. Hydrogen
+bonds and ionic bonds between amino acid R-groups hold proteins
+in their precise three-dimensional shape. These bonds result from
+A denatured protein is still a
+protein - it just has a different
+shape and can no longer function
+as it normally would
+89
+ENZYMES
+there will be so much more substrate than inhibitor that the original
+Vmax can still be reached.
+Examples of competitive inhibition
+Statins are competitive inhibitors of an enzyme used in the synthesis
+of cholesterol. Statins are regularly prescribed to help people reduce
+blood cholesterol concentration. High blood cholesterol levels can
+result in heart disease.
+Aspirin irreversibly inhibits the active site of COX enzymes, preventing
+the synthesis of prostaglandins and thromboxane, the chemicals
+responsible for producing pain and fever.
+Non-competitive inhibition
+Non-competitive inhibition works in the following way:
+substrate
+•
+The inhibitor binds to the enzyme at a location other than the
+active site. This alternative site is called an allosteric site.
+The binding of the inhibitor causes the tertiary structure of the
+enzyme to change, meaning the active site changes shape.
+This results in the active site no longer having a complementary
+shape to the substrate so it is unable to bind to the enzyme.
+The enzyme cannot carry out its function and it is said to be inhibited.
+enzyme
+non-competitive inhibitor
+changes shape of enzyme
+so it cannot bind to substrate
+As the inhibitor does not compete with the substrate for the active site
+it is called a non-competitive inhibitor.
+Effect on rates of reaction
+Increasing the concentration of enzyme or substrate will not overcome
+the effect of a non-competitive inhibitor. Increasing the concentration
+of inhibitor, however, will decrease the rate of reaction further as
+more active sites become unavailable.
+A Figure 2 Non-competitive inhibition.
+The inhibitor binds to an allosteric site on
+the enzyme, changing the shape of the
+active site. This means the substrate can
+no longer bind the active site
+Vmax
+—
+—
+—
+Examples of irreversible non-competitive inhibitors
+As mentioned, the binding of the inhibitor may be reversible or
+non-reversible. Irreversible inhibitors cannot be removed from the
+part of the enzyme they are attached to. They are often very toxic,
+but not always. Organophosphates used as insecticides and herbicides
+irreversibly inhibit the enzyme acetyl cholinesterase, an enzyme
+necessary for nerve impulse transmission. This can lead to muscle
+cramps, paralysis, and even death if accidentally ingested.
+rate of reaction i.e. velocity (v)
+absence of fixed quantity
+inhibitor
+of competitive
+inhibitor
+fixed quantity of
+non-competitive
+inhibitor
+Proton pump inhibitors (PPIs) are used to treat long-term indigestion.
+They irreversibly block an enzyme system responsible for secreting
+hydrogen ions into the stomach. This makes PPIs very effective in
+reducing the production of excess acid which, if left untreated, can
+lead to formation of stomach ulcers.
+substrate concentration
+A Figure 3 Comparison of competitive
+and non-competitive inhibition of an
+enzyme-controlled reaction. With a
+competitive inhibitor, as the substrate
+concentration is increased the effect of
+the inhibitor is almost overcome. With a
+non-competitive inhibitor, as the substrate
+concentration is increased the effect of the
+inhibitor is not overcome
+End-product inhibition
+End-product inhibition is the term used for enzyme inhibition
+that occurs when the product of a reaction acts as an inhibitor
+to the enzyme that produces it. This serves as a negative feedback
+4.3 Enzyme inhibitors
+control mechanism for the reaction. Excess products are not made
+and resources are not wasted. It is an example of non-competitive
+reversible inhibition.
+Synoptic link
+You learnt about ATP in Topic 3.11,
+ATP and you will learn more about
+cellular respiration in Chapter 18,
+Respiration.
+Respiration is a metabolic pathway resulting in the production of ATP.
+Glucose is broken down in a number of steps. The first step involves
+the addition of two phosphate groups to the glucose molecule. The
+addition of the second phosphate group, which results in the initial
+breakdown of the glucose molecule, is catalysed by the enzyme
+phosphofructokinase (PFK). This enzyme is competitively inhibited by
+ATP. ATP therefore regulates its own production.
+When the levels of ATP are high, more ATP binds to the allosteric
+site on PFK, preventing the addition of the second phosphate
+group to glucose. Glucose is not broken down and ATP is not
+produced at the same rate.
+As ATP is used up, less binds to PFK and the enzyme is able to
+catalyse the addition of a second phosphate group to glucose.
+Respiration resumes, leading to the production of more ATP.
+Summary questions
+1 Explain why a non-competitive inhibitor does not need to
+have a similar shape to a substrate molecule.
+(3 marks)
+2 Explain why increasing the concentration of substrate will
+never produce the Vay of a reaction after the addition of
+a non-competitive inhibitor.
+max
+(2 marks)
+3 End-product inhibition is likely to be competitive rather
+than non-competitive. Suggest reasons for this, and give
+an example of end-product inhibition.
+(4 marks)
+Ethylene glycol present in antifreeze is poisonous when ingested.
+Ethylene glycol is oxidised using the same enzymes used to
+oxidise ethanol (alcohol). The products made during the
+breakdown of ethylene glycol, rather than ethylene glycol itself,
+are responsible for the toxic effects. Ethylene glycol is able to
+leave the body unchanged in urine.
+Suggest why ethanol is often used in emergency
+departments as an antidote to antifreeze poisoning.
+(6 marks)
+96
+4
+4.2 Factors affecting enzyme activity
+interactions between the polar and charged R-groups present on the
+amino acids forming the primary structure. A change in pH refers
+to a change in hydrogen ion concentration. More hydrogen ions are
+present in low pH (acid) environments and fewer hydrogen ions are
+present in high pH (alkaline) environments.
+Study tip
+Different enzymes in different
+organisms also have a whole range
+of optimum pHs from very acid to
+very alkaline.
+The active site will only be in the right shape at a certain hydrogen ion
+concentration. This is the optimum pH for any particular enzyme.
+When the pH changes from the optimum - becoming more acidic or
+alkaline - the structure of the enzyme, and therefore the active site, is
+altered. However, if the pH returns to the optimum then the protein
+will resume its normal shape and catalyse the reaction again. This is
+called renaturation.
+optimum pH
+rate of enzyme activity
+When the pH changes more significantly (beyond a certain
+pH) the structure of the enzyme is irreversibly altered and
+the active site will no longer be complementary to the
+substrate. The enzyme is now said to be denatured and
+substrates can no longer bind to the active sites. This will
+reduce the rate of reaction.
+Hydrogen ions interact with polar and charged R-groups.
+Changing the concentration of hydrogen ions therefore
+changes the degree of this interaction. The interaction of
+pH
+R-groups with hydrogen ions also affects the interaction
+Figure 2 Effect of pH on the rate of an enzyme-
+of R-groups with each other.
+controlled reaction. The rate of reaction decreases as the
+pH moves away from the optimum, becoming higher or
+The more hydrogen ions present (low pH), the less
+lower. Note how this graph is symmetrical, unlike the graph
+the R-groups are able to interact with each other. This
+showing rate of reaction against temperature. It shows leads to bonds breaking and the shape of the enzyme
+reversible reduction in enzyme activity as the pH moves changing. The reverse is true when fewer hydrogen
+away from the optimum
+ions (high pH) are present. This means the shape of
+an enzyme will change as the pH changes and therefore it will only
+function within a narrow pH range. Table 1 shows the pH conditions
+under which the various enzymes of the human digestive system
+function. These are the optimum pHs for these enzymes.
+Table 1 The action of different enzymes at various points in the digestive system
+Site of action
+Enzymes
+Function
+Saliva
+mouth/throat
+pH
+neutral (pH 7-8)
+acidic (pH 1-2)
+amylase
+starch
+maltose
+Gastric juice
+stomach
+pepsin
+proteins + polypeptides
+Pancreatic juice
+small intestine/
+duodenum
+slightly alkaline
+(pH 8)
+trypsin
+lipase
+amylase
+maltase
+proteins + polypeptides
+triglycerides glycerol + fatty acids
+starch + maltose
+maltose glucose
+Substrate and enzyme concentration
+When the concentration of substrate is increased the number of
+substrate molecules, atoms, or ions in a particular area or volume
+increases. The increased number of substrate particles leads to
+90
+4.3 Enzyme inhibitors
+Specification reference: 2.1.4
+As you have seen, it is important that cellular conditions such as pH
+and temperature are kept within narrow limits so that enzyme activity
+is not delayed. This ensures that reactions can happen at a rate fast
+enough to sustain living processes, for example, respiration.
+:
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the effects of inhibitors on
+the rate of enzyme-controlled
+reactions.
+It is also important that reactions do not happen too fast as this could
+lead to the build-up of excess products. Living processes rarely involve
+just one reaction but are complex, multi-step reaction pathways. These
+pathways need to be closely regulated to meet the needs of living
+organisms without wasting resources.
+Control of metabolic activity within cells
+The different steps in reaction pathways are controlled by different
+enzymes. Controlling the activity of enzymes at crucial points in these
+pathways regulates the rate and quantity of product formation.
+Enzymes can be activated with cofactors, (Topic 4.4 Cofactors,
+coenzymes, and prosthetic groups), or inactivated with inhibitors.
+Inhibitors are molecules that prevent enzymes from carrying out their
+normal function of catalysis (or slow them down). There are two types
+of enzyme inhibition - competitive and non-competitive.
+Competitive inhibition
+Competitive inhibition works in the following way:
+competitive inhibitor
+interferes with active
+site of enzyme so
+substrate cannot bind
+substrate
+enzyme
+A molecule or part of a molecule that has a similar shape to the
+substrate of an enzyme can fit into the active site of the enzyme.
+This blocks the substrate from entering the active site, preventing
+the enzyme from catalysing the reaction.
+The enzyme cannot carry out its function and is said to be inhibited.
+The non-substrate molecule that binds to the active site is a type of
+inhibitor. Substrate and inhibitor molecules present in a solution
+will compete with each other to bind to the active sites of the
+enzymes catalysing the reaction. This will reduce the number of
+substrate molecules binding to active sites in a given time and slows
+down the rate of reaction. For this reason such inhibitors are called
+competitive inhibitors and the degree of inhibition will depend
+on the relative concentrations of substrate, inhibitor, and enzyme.
+Figure 1 Competitive inhibition. The
+shape of the inhibitor is similar in shape
+to the part of the substrate that binds to
+the active site. This means the inhibitor
+can temporarily bind to the active site and
+block the substrate from binding
+Study tip
+Most competitive inhibitors only bind temporarily to the active site
+of the enzyme, so their effect is reversible. However there are some
+exceptions such as aspirin.
+When describing a competitive
+inhibitor, do not say that it has
+the same shape as the substrate.
+It has a similar shape to part of or
+all of the substrate.
+Effect on rates of reaction
+A competitive inhibitor reduces the rate of reaction for a given
+concentration of substrate, but it does not change the Vimax of the
+enzyme it inhibits. If the substrate concentration is increased enough
+94
+4.2 Factors affecting enzyme activity
+Specification reference: 2.1.4
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the effects of pH, temperature,
+enzyme concentration and
+substrate concentration on
+enzyme activity
+practical investigations
+into factors effecting
+enzyme activity.
+For enzymes to catalyse a reaction, they must come into contact
+with the substrate, and the enzyme must be the right shape
+(complementary) for the substrate. Enzymes are complex proteins and
+their structure can be affected by factors such as temperature and pH.
+These can cause changes in the shape of their active site. Enzymes are
+more likely to come into contact with the substrate if temperature and
+substrate concentration are increased.
+.
+.
+.
+Factors affecting enzyme action can be investigated by measuring the
+rate of the reactions they catalyse.
+-->>
+.
+.
+Temperature
+Increasing the temperature of a reaction environment increases the
+kinetic energy of the particles. As temperature increases, the particles
+move faster and collide more frequently. In an enzyme-controlled
+reaction an increase in temperature will result in more frequent
+successful collisions between substrate and enzyme. This leads to an
+increase in the rate of reaction.
+The temperature coefficient, Qo, of a reaction (or process) is a
+measure of how much the rate of a reaction increases with a 10°C rise
+in temperature. For enzyme-controlled reactions this is usually taken
+as two, which means that the rate of reaction doubles with a 10°C
+temperature increase.
+Denaturation from temperature
+As enzymes are proteins their structure is affected by temperature.
+At higher temperatures the bonds holding the protein together vibrate
+more. As the temperature increases the vibrations increase until the
+bonds strain and then break. The breaking of these bonds results in a
+change in the precise tertiary structure of the protein. The enzyme has
+changed shape and is said to have been denatured.
+When an enzyme is denatured the active site changes shape and is no
+longer complementary to the substrate. The substrate can no longer fit
+into the active sites and the enzyme will no longer function as a catalyst.
+rate of a reaction
+optimum
+temperature
+Optimum temperature
+The optimum temperature is the temperature at which the enzyme
+has the highest rate of activity. The optimum temperature of enzymes
+can vary significantly. Many enzymes in the human body have
+optimum temperatures of around 40°C, meanwhile thermophilic
+bacteria (found in hot springs) have enzymes with optimum
+temperatures of 70°C, and psychrophilic organisms (that live in areas
+that are cold such as the antarctic and arctic regions) have enzymes
+with optimum temperatures below 5 °C.
+temperature/°C
+A Figure 1 The rate of reaction increases
+up to the optimum temperature and then
+decreases rapidly
+Once the enzymes have denatured above the optimum temperature,
+the decrease in rate of reaction is rapid. There only needs to be a slight
+88
+ENZYMES
+2 Maltose is then broken down into glucose, which
+is a monosaccharide. The enzyme involved in this
+Stage is called maltase. Maltase is present in the small
+intestine.
+tongue
+salivary glands
+oesophagus
+Glucose is small enough to be absorbed by the cells lining
+the digestive system and subsequently absorbed into the
+bloodstream.
+lobe of liver
+transverse limb
+of the large
+intestine
+ascending limb-
+of large intestine
+(colon)
+Digestion of proteins
+Trypsin is a protease, a type of enzyme that catalyses
+the digestion of proteins into smaller peptides, which
+can then be broken down further into amino acids by
+other proteases. Trypsin is produced in the pancreas
+and released with the pancreatic juice into the small
+intestine, where it acts on proteins. The amino acids that
+are produced by the action of proteases are absorbed by
+the cells lining the digestive system and then absorbed
+into the bloodstream.
+stomach
+pancreas
+descending
+limb of the
+large intestine
+(colon)
+small intestine
+Cileum)
+rectum
+anus
+Figure 3 Human digestive system
+Summary questions
+1 a State the type of biological molecule used to form enzymes. (1 mark)
+b Name the monomers that form this biological molecule. (1 mark)
+c Describe how the structure(s) of this biological molecule
+determines enzyme activity.
+(4 marks)
+Synoptic link
+You learnt about the structure
+of proteins in Topic 3.6, Structure
+of proteins.
+2 Explain how catabolism and anabolism are related to metabolism. (3 marks)
+3 There are two theories explaining enzyme substrate interaction.
+The lock and key model and induced fit model of enzyme action.
+a Explain what is meant by the term model in the sentence
+above.
+(2 marks)
+b Explain how the following terms are relevant to each of the models.
+complementary, flexibility, R group interactions, bond strain (4 marks)
+energy
+The transition state model 1
+adds more detail to the
+reaction without
+enzyme
+activation energy
+induced fit model, in the
+activation without enzyme
+same way that the induced
+energy
+-------- ----with-----
+fit model was more detailed
+reaction
+enzyme
+than the original lock and Catalysed by
+key model.
+enzyme
+All reactions go through a
+time
+transition state as the different chemical components interact with each
+other. The formation of this transition sate determines the activation
+energy of the reaction.
+a Explain the meaning of the term activation energy. (2 marks)
+b Explain the energy changes occurring resulting in the
+transition state model (the red line).
+(4 marks)
+Discuss why the models of enzyme action have
+changed over time.
+(4 marks)
+ENZYMES
+ITU
++9ml
++9ml
++9ml
++9ml
+or potato can be ground down to make a solution. The
+solution will contain catalase released from cells. Serial
+dilution of this solution will produce a range of solutions
+with different relative concentrations of catalase. The
+effect of the different concentrations on the rate of
+reaction can be investigated by adding equal volumes
+of a given concentration of hydrogen peroxide to each
+solution.
+1 You are provided with a stock solution of enzyme
+X with a concentration of 20 mmol/dm . Explain
+how you would prepare a range of five solutions
+with different concentrations of enzyme X using
+the stock solution. Show your working and state
+the concentrations produced.
+full dilution 1/10 1/10 01/10 001/10
+strength of stock (1/100) (1/1000) (1/10000)
+stock solution
+A Figure 5 This figure shows how a serial dilution might
+be set up. Adding 1 ml of stock solution to 9 ml of distilled
+water gives 10 ml of dilute solution in which there is 1 ml
+stock/10 ml hence a 1/10 or 10 fold dilution. This step is
+repeated a number of times to give a serial dilution.
+Summary questions
+1 Explain the term 'denatured with reference to enzymes.
+(3 marks)
+2 The graph below shows the optimum pHs of three enzymes.
+rate of a reaction
+2
+4
+6
+8
+10
+12
+14
+pH
+Pepsin is an enzyme that, along with stomach acid, digests proteins
+in the stomach.
+State which of the curves, A,B or C, is likely to represent
+the activity of the enzyme pepsin over a range of pHs.
+Explain the reasons for your choice.
+(2 marks)
+3 Bacteria that colonise hydrothermal vents, where temperatures
+are very high, have enzymes with very high optimum temperatures.
+Suggest why these bacteria are unlikely to cause infections
+in humans.
+(3 marks)
+4 Enzymes with very low optimum temperatures tend to have
+quite flexible structures. Using your knowledge of collision
+theory, explain why this flexibility is necessary.
+(6 marks)

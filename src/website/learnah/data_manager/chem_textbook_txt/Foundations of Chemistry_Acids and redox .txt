@@ -1,0 +1,1017 @@
+ACIDS AND REDOX
+The mean titre
+When working out the mean titre, it is important to use only your
+closest accurate titres.
+Synoptic link
+As part of the practical skills
+required for your course, you need
+to know how to measure mass,
+volumes of solutions, and volumes
+of gases.
+• By repeating titres until two agree within 0.10 cm, you can reject
+inaccurate titres.
+• If you were to include all the titres in the mean, you have lost the
+accuracy of the titration technique.
+[ Call
+Titration calculations
+From the results of a titration, you will know the following:
+The practical application boxes in
+this topic tell you how to measure
+the volume of solutions.
+• both the concentration c, and the reacting volume V, of one of the
+solutions
+• only the reacting volume V2 of the other solution,
+The method for analysing the results follows a set pattern.
+Measuring mass, volumes of
+solutions, and volumes of gases
+are also covered in:
+Topic 3.2, Determination of
+formulae, for how to measure
+mass
+Step 1: Work out the amount, in mol, of the solute in the solution for
+which you know both the concentration c, and volume V.
+Step 2: Use the equation to work out the amount, in mol, of the
+solute in the other solution.
+Step 3: Work out the unknown information about the solute in the
+other solution.
+Topic 3.4, Reacting quantities,
+for how to measure the
+volumes of gases
+Topic 9.2, Measuring enthalpy
+changes, for how to measure
+mass
+Topic 10.1, Reaction rates, for
+how to measure volumes of
+gases.
+Study tip
+2 Worked example: Determination of an unknown
+concentration
+Pipette:
+25.00 cm of 0.100 moldm’ KOH(aq)
+Mean titre from burette: 25.70 cm of H,SO(aq)
+Unknown information: The concentration of H2SO4(aq)
+Step 1: From the titration results, calculate the amount of KOH.
+n(KOH) = 6 x 100 = 0.100 ~ 25.00 = 0.002 50 mol
+Step 2: From the equation and Step 1, determine the amount of
+H2SO4
+2 KOH(aq) + H,80, (aq) - K 50, (aq) + 2 H20(1)
+2 mol Imol (balancing numbers)
+This method is essentially the
+same as the one used to calculate
+unknown quantities using the mole
+in Topic 3.4, Reacting quantities.
+Study tip
+It's all done with the ratios of the
+balancing numbers and moles.
+0.002 50 mol 0.00125 mol
+Step 3: Work out the unknown information.
+n(H2S02) = cx V(cm)
+1000
+1000 x n _ 1000 x 0.00125_00m
+0125 = 0.0486 moldm-3
+V
+25.70
+concentration of H,SO,(aq) is 0.0486 mol dm-3
+ACIDS AND REDOX
+FeCl, contains positive and negative ions, Fe3+ and C.
+• Iron loses electrons and is oxidised
+2Fe 2Fe3+ + 6e
+• Chlorine gains electrons and is reduced 3C1, + 6 + 6C1-
+The electrons gained and lost balance:
+. 2 Fe in 2Fe
+• 6 Cl in 3C1,
+each Fe loses 3e
+each Cl gains le
+total of 6 electrons lost
+total of 6 electrons gained
+Redox in terms of oxidation number
+Reduction is a decrease in oxidation number.
+• Oxidation is an increase in oxidation number.
+A Figure 2 Iron reacts with chlorine gas
+in a gas jar, forming iron(III) chloride, FeCl,
+The reaction below shows oxidation and reduction in terms of
+oxidation number. Each atom is assigned an oxidation number using
+the oxidation number rules:
+Cu(s) + 2AgNO3(aq) + 2Ag (aq) + Cu(NO3)2(aq)
++2
+oxidation
++1
+→ 0
+reduction
+Study tip
+The changes in oxidation number apply to each atom and the total
+changes in oxidation number balance:
+The oxidation number applies
+to each atom of an element. In
+this example, each atom of Ag
+decreases from +1 to 0. The total
+change is -2 because there are 2
+Ag, each decreasing by -1.
+•
+.
+1 Cu in Cu
+2 Ag in 2AgNO,
+Cu increases by +2 total increase
+each Ag decreases by -1 total decrease
+= +2
+= -2
+Redox reactions of acids
+In Topic 4.1, you saw how acids produce salts in neutralisation
+reactions. Dilute acids also undergo redox reactions with some metals
+to produce salts and hydrogen gas.
+Summary questions
+metal + acid
+salt + hydrogen
+1 State the oxidation state of the
+species in the following:
+a Ag
+(1 mark)
+(1 mark)
+c Nacio,
+(1 mark)
+Reaction of zinc with dilute hydrochloric acid
+Zn(s) + 2HCl(aq) → ZnCl2(aq) + H2(g)
++2
+oxidation
+0 reduction
+b F2
++1
+1 Zn in Zn
+Zn increases by +2 total increase = +2
+• 2 H in 2HCI each H decreases by -1 total decrease = -2
+The overall decrease in oxidation number of 2H = 2 X-1 = -2
+balances the increase of Zn by +2.
+2 State the oxidation number of
+sulfur in the following:
+a H,S
+(1 mark)
+b 50,-
+(1 mark)
+c Na 520 (1 mark)
+Reaction of aluminium with dilute sulfuric acid
+2Al(s) + 3H2SO4(aq) → Al2(SO4)3(aq) + 6H2(g)
+→ +3
+oxidation
+3 The following reaction is a
+redox process:
+Mg + 2HCI — MgCl,+H,
+a Identify the changes in
+oxidation number. (2 marks)
+b Explain which species is
+being oxidised and which
+is being reduced. (2 marks)
++1
+=
+O
+reduction
+2 Al in 2Al each Al increases by +3 total increase = +6
+• 6 H in 3H,SO, each H decreases by -l total decrease = -6
+Chapter 4 Practice questions
+5
+Practice questions
+1 25.0 cm sample of an aqueous H,SO
+solution of unknown concentration is titrated
+with 0.125 mol dm-3 NaOH. 22.40 cm of
+NaOH are required to reach the end point.
+H2SO4 + 2NaOH → Na SO4 + 2H2O
+a Calculate the amount, in mol of
+NaOH used.
+(1 mark)
+b Calculate the amount, in mol of
+H2SO, used.
+(1 mark)
+c Calculate the concentration in
+mol dm of the H2SO4 (1 mark)
+2 The reaction below is a redox reaction.
+3CuO + 2NH, → 3Cu + 3H2O + N2
+Explain in terms of oxidation number,
+what has been oxidised and what has
+been reduced.
+(2 marks)
+This question looks at two redox reactions.
+a 3Mg + 2Fe(NO3)3 + 3Mg(NO3)2 + 2Fe
+(i) Explain in terms of electrons,
+what has been oxidised and what
+has been reduced.
+(2 marks)
+(ii) What is the systematic name
+for Fe(NO3)?
+(1 mark)
+b MnO2 + 4HCI — MnCl2 + Cl2 + 2H,0
+(i) Explain, in terms of oxidation
+numbers, what has been reduced.
+(2 marks)
+(ii) Use oxidation numbers to show
+that chlorine has only partly
+been oxidised.
+(2 marks)
+b A solution of calcium chloride can be also
+prepared by the redox reaction of dilute
+hydrochloric acid and calcium metal.
+(i) Explain reduction and oxidation in
+terms of electrons and oxidation
+numbers
+(2 marks)
+(ii) Write an equation, with state
+symbols, for this reaction. (2 marks)
+(iii) For this redox reaction, determine
+what had been oxidised and what has
+been reduced and identify the changes
+in oxidation numbers. (2 marks)
+Tungsten ore contains Wo. Tungsten can
+be extracted from WO, present in its ore
+in a redox reaction with hydrogen. The
+unbalanced equation is shown below.
+WO3 + H, W + H2O
+a Balance the equation.
+(1 mark)
+b What is meant by oxidation and
+reduction in terms of electrons? (1 mark)
+c Using oxidation numbers show that
+oxidation and reduction have
+taken place in this reaction. (3 marks)
+d Some ore contains 2% of wo, by
+mass. Calculate the maximum mass of
+tungsten that could be obtained from the
+processing of 100 tonnes of ore. (4 marks)
+4
+a
+A solution of calcium chloride can be
+prepared by neutralisation reactions of
+dilute hydrochloric acid with solid calcium
+carbonate, with solid calcium oxide and
+with aqueous calcium hydroxide.
+(i) Write equations, with state symbols,
+for these methods of preparing
+calcium chloride.
+(6 marks)
+(ii) Why are these reactions all
+neutralisation reactions? (1 mark)
+(iii) Write an ionic equation for the
+reaction of aqueous calcium
+hydroxide and hydrochloric acid.
+(1 mark)
+A household cleaner containing dissolved
+ammonia is analysed as follows.
+25.0 cm of the cleaner is diluted to 250.0 cm.
+25.0 cm of the resulting solution is titrated
+with 0.125 mol dm-' H,SO4 (aq) and
+24.40 cm were required to reach the end
+point. The equation is shown below.
+2NH3(aq) + H2SO,(aq) → (NH,),50,(aq)
+a Calculate the amount, in mol, of
+H,SO, used in the titration. (1 mark)
+b Calculate the amount, in mol, of
+NH, used in the titration. (1 mark)
+c Calculate the concentration of
+ammonia in the household cleaner
+(i) in mol dm3;
+(1 mark)
+(ii) in g dm .
+(1 mark)
+7 b The reaction between magnesium and
+sulfuric acid is a redox reaction.
+Mg(s) + H,90 (aq) – MgSO4 (aq) + H2(g)
+4.2 Acid-base titrations
+Identification of a carbonate
+You can use the titration technique to work out some unknown
+information about a substance, for example, you can identify an
+unknown carbonate, X_CO2.
+The key steps are shown below, together with results.
+1 Prepare a solution of an unknown carbonate, X,CO,, in a volumetric flask.
+2 Using a pipette, measure 25.00 cm of your prepared solution into a
+conical flask.
+3 Using a burette, titrate this solution using 0.100 mol dm3 hydrochloric acid.
+4 Analyse your results to identify the carbonate.
+Mass measurements
+11.41
+mass of weighing bottle/g
+mass of weighing bottle +X,CO2/8
+mass of X,C02/g
+12.60
+1.19
+Titration readings
+Trial
+1
+24.10
+22.35
+final burette reading/cm3
+initial burette reading/cm3
+titre/cm3
+mean titre/cm3
+1.00
+23.10
+0.00
+22.35
+2 3
+44.95 22.45
+22.35 0.00
+22.60 22.45
+22.40 2
+Study tip
+You might be given a structured
+calculation - you will be helped
+through the calculation with
+prompts similar to the bullet
+points in this example.
+But you might also be given an
+unstructured calculation with no
+help. You should practise both
+structured titration calculations
+and the harder unstructured
+problems.
+Analysis
+Step 1: Calculate the amount of HCl that reacted.
+Use the mean titre Vand the concentration of the hydrochloric acid c.
+n(HCI) = < xao = 0.100 x 47,90 = 0.002 24 mol
+Step 2: Determine the amount of X,Co, that reacted.
+Use the equation and n(HCI).
+X.CO2(aq) + 2 HCl(aq) - X,50, (aq) + H20(1) + CO2(g)
+1 mol 2 mol (balancing numbers)
+0.001 12 mol 0.002 24 mol HCI
+Step 3: Work out the unknown information. There are several stages.
+1 Scale up to find the amount of X,Co, in the 250 cm solution that you
+prepared.
+n(X.CO2) in 25.00 cm used in the titration = 0.001 12 mol
+n(X,C02) in 250.0 cm solution
+= 0.001 12 x 10 = 0.0112 mol
+2 Find the molar mass of X,CO..
+Use the amount, n(x,Co), in the 250 cm solution and the mass m of
+X.CO, used to prepare this solution.
+Study tip
+The scaling here is obvious
+because 250 is 10 times larger
+than 25. If you were scaling up a
+burette reading (say 29.55 cm),
+the process is the same, but you
+would need to find the scaling
+factor by dividing 250 by the titre.
+n(X.CO) = m
+My.com
+1.19-
+M(X_CO3) =
+3) = n = 0.042 = 106.25 g mol
+46
+4.3 Redox
+You have already seen that polyatomic ions containing oxygen,
+such as NO,- and NO,, are sometimes named using -ite and -ate.
+Although still in common usage, use of -ite and -ate in naming is
+old-fashioned and modern names use oxidation numbers shown as
+Roman numerals.
+Table 2 Naming of polyatomic ions
+lon
+Common
+name
+Oxidation
+number of
+nitrogen
+Modern
+name
+nitrite
++3
+NO,
+NO,
+nitrate(11)
+nitrate(V)
+nitrate
++5
+In common usage, the Roman numeral is often omitted for the common
+ion, usually with more oxygen atoms:
+• nitrate is assumed to be NO,
+• sulfate is assumed to be SO 2-
+Redox reactions
+Reduction and oxidation
+Originally the terms oxidation and reduction were used solely for
+reactions involving oxygen.
+Oxidation is addition of oxygen.
+Reduction is removal of oxygen.
+The reaction below shows oxidation and reduction:
+CuO(s) + H2(g) + Cu(s) + H2O(1)
+Figure 1 Reduction of copper(II)
+oxide with hydrogen - the green flame is
+excess hydrogen burning off
+Copper(II) oxide has lost oxygen and has been reduced.
+Hydrogen has gained oxygen and has been oxidised.
+Redox reactions involve reduction and oxidation. If one process
+happens, so must the other – if something is reduced, something else
+must be oxidised.
+The terms oxidation and reduction are now applied to many reactions
+that do not involve oxygen. The modern definitions are in terms of
+either electrons or oxidation number.
+Study tip
+Remember OILRIG:
+Redox in terms of electrons
+Reduction is the gain of electrons.
+• Oxidation is the loss of electrons.
+The redox reaction below does not involve oxygen but does involve
+gain and loss of electrons.
+2Fe(s) + 3Cl2(g) + 2FeCl (s)
+OIL Oxidation Is Loss of electrons
+RIG Reduction Is Gain of electrons.
+4.2 Acid-base titrations
+Acid-base titrations
+Apparatus
+In an acid-base titration, a solution of an acid is titrated against a
+solution of a base using a pipette and a burette, which are typically
+manufactured to the tolerances below:
+• a 10 cm pipette: +0.04 cm3
+. a 25 cm pipette: +0.06 cm
+a 50 cm burette: +0.10 cm.
+A burette reading is recorded to the nearest half division, with the
+bottom of the meniscus on a mark or between two marks. Each
+burette reading is measured to the nearest +0.05 cm so the reading
+always has two decimal places, the last place being either 0 or 5, for
+example, 25.40 cm or 26.25 cm'.
+A Figure 3 When filling a burette, run
+excess solution out through the tap to
+remove any air bubbles. If a bubble is left
+in the neck of the burette, the air could
+be released during the titration, leading
+to an error in the titre
+The acid-base titration procedure
+1 Add a measured volume of one solution to a conical flask using a pipette.
+2 Add the other solution to a burette, and record the initial burette reading
+to the nearest 0.05 cm
+3 Add a few drops of an indicator to the solution in the conical flask.
+Run the solution in the burette into the solution in the conical flask,
+swirling the conical flask throughout to mix the two solutions. Eventually
+the indicator changes colour at the end point of the titration. The end
+point is used to indicate the volume of one solution that exactly reacts
+with the volume of the second solution.
+Record the final burette reading. The volume of solution added from the
+burette is called the titre, which is calculated by subtracting the initial
+from the final burette reading.
+6 A quick, trial titration is carried out first to find the approximate titre.
+7 The titration is then repeated accurately, adding the solution dropwise as
+the end point is approached. Further titrations are carried out until two
+accurate titres are concordant - agreeing to within 0.10 cm.
+The readings from the titration are recorded in a table such as Table 1.
+Table 1 Table for recording titration results
+Trial 1 2 3
+final burette reading/cm3
+initial burette reading/cm3
+titre/cm3
+mean titre/cm3
+Figure 4 Take burette readings from
+the bottom of the meniscus, with your
+eye is at the level of meniscus. Read the
+burette to the nearest 0.05 cm. This
+burette reading is 25.55 cm
+Explain the effect on the titre of the following errors.
+1 The pipette has an air bubble inside.
+2 The burette readings are taken from the top, rather than the bottom,
+of the meniscus.
+44
+4.2 Acid-base titrations
+Specification reference: 2.1.4, 2.1.3
+Titrations
+A titration is a technique used to accurately measure the volume of
+one solution that reacts exactly with another solution. Titrations can
+be used for:
+finding the concentration of a solution
+• identification of unknown chemicals
+finding the purity of a substance.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ preparation of a standard
+solution
+→ carrying out a titration
+analysing titration results by
+calculation
+practical techniques for
+measuring the volume of
+solutions.
+Checking purity is an important aspect of quality control, especially
+for compounds manufactured for human use such as medicines, food,
+and cosmetics. It is essential that pharmaceuticals have a high level
+of purity - just a tiny amount of an impurity in a drug could cause
+a great deal of harm to a patient.
+Synoptic link
+Preparing a standard solution
+A standard solution is a solution of known concentration.
+A volumetric flask is used to make up a standard solution very
+accurately. Volumetric flasks are manufactured in various sizes and
+can measure volumes very precisely. The volumetric flasks that you
+will use are manufactured to the typical tolerances below:
+Standard solutions were
+introduced in Topic 3.3, Moles
+and volumes.
+a 100 cm
+a 250 cm
+volumetric flask: +0.20 cm
+volumetric flask: +0.30 cm?.
+Preparing standard solutions
+1
+2
+3
+A Figure 1 The volumetric flask is filled
+so that bottom of the meniscus just
+touches the graduation line
+4
+The solid is first weighed accurately.
+The solid is dissolved in a beaker using less distilled water than will be
+needed to fill the volumetric flask to the mark.
+This solution is transferred to a volumetric flask. The last traces of the
+solution are rinsed into the flask with distilled water.
+The flask is carefully filled to the graduation line by adding distilled water
+a drop at a time until the bottom of the meniscus lines up exactly with
+the mark (Figure 1). Care at this stage is essential - if too much water
+is added, the solution will be too dilute and must be prepared again. You
+should view the graduation mark and meniscus at eye level for accuracy.
+Finally, the volumetric flask is slowly inverted several times to mix the
+solution thoroughly. If this stage is omitted, titration results are unlikely to
+be consistent. You will be able to see the solution mixing when you invert
+the flask as the more dense original solution moves through the solution.
+5
+Explain the effect on the titre of the following errors.
+1 The flask is filled with water above the graduation line.
+2 The flask is not inverted.
+Figure 2 The volumetric flask is slowly
+inverted several times to ensure that the
+solution is mixed evenly
+43
+ACIDS AND REDOX
+Study tip
+3) Worked example: Oxidation number in compounds
+What is the oxidation number of sulfur in sulfuric acid, H,SO?
+Step 1: Assign any oxidation numbers from the rules.
+H2SO4
+Remember: the sum of the
+oxidation numbers must equal
+the overall charge.
+Total H = +1 x 2 = +2
++1
+-2
+Total 0 = -2 x 4 = -8
+Step 2: What is the sum of oxidation numbers?
+sum of oxidation numbers = total charge = 0
+Step 3: Work out the unknown oxidation numbers.
+sum of oxidation numbers = (+2) + (X) + (-8) = 0
+H 504
+Oxidation number of sulfur in H,SO, = +6
+6) Worked example: Oxidation numbers in ions
+What is the oxidation number of nitrogen in NO, ?
+Step 1: Assign any oxidation numbers from the rules.
+NO,
+Total 0 = -2 x3 = -6
+-2
+-2)
+Step 2: What is the sum of oxidation numbers?
+sum of oxidation numbers = total charge = -1
+Step 3: Work out the unknown oxidation numbers
+sum of oxidation numbers = (X) + (-6) = -1
+NO
+Oxidation number of nitrogen in NO, = +5
+Using Roman numerals in naming
+Roman numerals are used in the names of compounds of elements
+that form ions with different charges. The Roman numeral shows the
+oxidation state (oxidation number) of the element, without a sign. The
+sign of the oxidation state is obvious from the overall charge:
+iron (II) represents Fe2+ with oxidation number +2
+iron (III) represents Fe3+ with oxidation number +3.
+ACIDS AND REDOX
+C
+(i) Use oxidation numbers to identify
+which element has been oxidised.
+Explain your answer. (2 marks)
+(ii) Describe what you would see when
+magnesium reacts with an excess of
+sulfuric acid.
+(2 marks)
+Epsom salts can be used as bath salts
+to help relieve aches and pains. Epsom
+salts are crystals of hydrated magnesium
+sulfate, MgSO4XH,O.
+A sample of Epsom salts was heated
+to remove the water. 1.57 g of water
+was removed leaving behind 1.51 g of
+anhydrous MgSO4
+(i) Calculate the amount, in mol, of
+anhydrous MgSO4 formed. (2 marks)
+(ii) Calculate the amount, in mol,
+of H.O removed.
+(1 mark)
+(iii) Calculate the value of x in
+MgSO •xH,O.
+(1 mark)
+F321 June 2009 1(b) (c)
+9
+A student carries out experiments using acids
+bases and salts.
+a Calcium nitrate, Ca(NO3), is an example
+of a salt.
+The student prepares a solution of calcium
+nitrate by reacting dilute nitric acid,
+HNO,, with the base calcium hydroxide,
+Ca(OH)2:
+(i) Why is calcium nitrate an
+example of a salt?
+(1 mark)
+(ii) Write the equation for the reaction
+between dilute nitric acid and aqueous
+calcium hydroxide. Include
+state symbols.
+(2 marks)
+(iii) Explain how the hydroxide ion in
+aqueous calcium hydroxide acts
+as a base when it neutralises
+dilute nitric acid.
+(1 mark)
+b A student carries out a titration to find the
+concentration of some sulfuric acid.
+The student finds that 25.00 cm of
+0.0880 moldm- aqueous sodium
+hydroxide, NaOH, is neutralised by
+17.60 cm of dilute sulfuric acid, H,SO
+H,SO,(aq) + 2NaOH(aq) → Na2SO,(aq) +
+2H 0(1)
+(i) Calculate the amount, in moles,
+of NaOH used.
+(1 mark)
+(ii) Determine the amount, in
+moles, of H SO, used. (1 mark)
+(iii) Calculate the concentration, in
+mol dm, of the sulfuric acid. (1 mark)
+c After carrying out the titration in (b),
+the student left the resulting solution to
+crystallise. White crystals were formed,
+with a formula of Na,s0 •xH,0 and a
+molar mass of 322.1g mol-!.
+(i) What term is given to the '•xH, O'
+part of the formula? (1 mark)
+(ii) Using the molar mass of the crystals,
+calculate the value of x. (2 marks)
+F321 Jan 10 Q2
+Compound A is an organic acid containing C,
+Hand O only.
+A student analyses compound A to find its
+molar mass as follows.
+The student dissolves 2.6432 g of compound
+A in water and dilutes the solution to 250 cm
+in a volumetric flask. The student fills a
+burette with this solution.
+The student adds 25.0 cm of 0.224 mol dm-3
+KOH to a conical flask.
+31.25 cm of compound A was required for
+reach the end point.
+The formula of compound A can be simplified
+as H,X. The equation in the titration is:
+H X(aq) + 2KOH(aq) → K,X(aq) + 2H2O(l)
+a Calculate the amount, in mol, of compound
+A used in the titration.
+(2 marks)
+b Calculate the molar mass of
+compound A.
+(2 marks)
+The percentage composition by
+mass of compound A is C, 40.68%;
+H, 5.08%; 0, 54.24%
+Calculate the empirical and molecular
+formulae of compound A. (3 marks)
+d Write an equation for the reaction in
+the titration of compound A with KOH.
+(1 mark)
+ACIDS AND REDOX
+4.1 Acids, bases, and
+neutralisation
+Specification reference: 2.1.4
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of: :
+► acids and bases
+→ neutralisation.
+Acids
+All acids contain hydrogen in their formulae (Table 1). When dissolved
+in water, an acid releases hydrogen ions as protons, H+, into the solution.
+In the equation below, hydrogen chloride gas releases H+ ions as it
+dissolves in water.
+HCl(g) + aq
+H+(aq) + Cl (aq)
+Table 1 Common acids
+In this equation + aq has been included to show that an excess of
+water is present. The equation is essentially hydrogen chloride gas
+dissolving to form an aqueous solution.
+Formula
+HCI
+Acid
+hydrochloric acid
+sulfuric acid
+nitric acid
+ethanoic acid (vinegar)
+H2SO4
+HNO
+CH,COOH
+Strong and weak acids
+A strong acid, such as hydrochloric acid, HCl, releases all its
+hydrogen atoms into solution as Hions and completely dissociates
+in aqueous solution.
+HCl(aq) + H+ (aq) + Cl (aq)
+Synoptic link
+You will learn more and equilibrium
+and weak acids in Chapter 20, Acids,
+bases, and pH.
+A weak acid, such as ethanoic acid, CH,COOH, only releases a small
+proportion of its available hydrogen atoms into solution as H+ ions.
+A weak acid partially dissociates in aqueous solution.
+CH,COOH(aq) = H+ (aq) + CH,C00-(aq)
+The equilibrium sign = indicates that the forward reaction is incomplete.
+with bits
+It is important to realise that not all compounds that contain hydrogen
+atoms are acids. Each molecule of ethanoic acid contains four
+hydrogen atoms, but only the hydrogen atom on the COOH group is
+released as H+. Even then, only about one molecule in every hundred
+dissociates, so ethanoic acid is a weak acid. Most organic acids, like
+ethanoic acid, are weak acids.
+SON
+SANKS
+A DASH
+inno
+LEMON
+Bases and alkalis
+Metal oxides, metal hydroxides, metal carbonates, and ammonia, NH,
+are classified as bases. A base neutralises an acid to form a salt. Table 2
+and Figure 2 show some common bases.
+Figure 1 Some common acids -
+vinegar contains ethanoic acid, orange
+and lemon juice and even sink cleaner
+contains citric acid, and apples contain
+malic acid
+An alkali is a base that dissolves in water releasing hydroxide ions
+(OH-) into the solution. The equation below shows the alkali sodium
+hydroxide releasing hydroxide ions as it dissolves in water.
+NaOH(s) + aq — Nat(aq) + OH(aq)
+40
+4.1 Acids, bases, and neutralisation
+Study tip
+Neutralisation of acids with carbonates
+Like metal oxides, carbonates neutralise acids to form a salt and water.
+There is also a third product, carbon dioxide gas. The equations show
+neutralisation of two carbonates by sulfuric acid and hydrochloric acid.
+Remember the equation for the
+neutralisation of acids by metal
+carbonates.
+acid + metal carbonate
+salt + water + carbon dioxide(g)
+ZnCO3(s) + H2SO,(aq) ZnSO4(aq) + H2O(1) + CO2(g)
+MgCO3(s) + 2HCl(aq) – MgCl2 (aq) + H2O(1) + CO2(g)
+It will help you write the equation
+for any neutralisation of this type.
+Dissociation in sulfuric acid
+Sulfuric acid, H,50%, is a strong acid, but this is true only for one of the two
+hydrogen atoms. When sulfuric acid is mixed with water each H, SO, molecule
+dissociates, releasing just one of its two hydrogen atoms as an Htion:
+H,50, (aq) –H(aq) + HSO4 (aq)
+The resulting HSO4 (aq) ions then only partially dissociate:
+HS0, (aq) =H*(aq) + S0,2-(aq)
+• Sulfuric acid first behaves as a strong acid.
+The HSO, ions formed behave as a weak acid.
+Other strong acids containing more than one hydrogen atom behave similarly.
+Write equations to show the dissociation of the three hydrogen atoms in
+phosphoric acid, H2PO4
+Summary questions
+1 Explain what is meant by the following terms.
+a strong acid
+(1 mark)
+b weak acid
+(1 mark)
+2 Write equations to show the dissociation of the
+following acids when dissolved in water.
+a nitric acid, HNO, (a strong acid) (2 marks)
+b propanoic acid, CH,CH,COOH
+(a weak acid)
+(2 marks)
+3 Write equations for the following neutralisation
+reactions. For each reaction, name the salt formed.
+a The reaction of Mg0(s) with hydrochloric acid
+(2 marks)
+b The reaction of NaOH(aq) with sulfuric acid
+(2 marks)
+c The reaction of ZnCO (s) with nitric acid (2 marks)
+d The reaction of aqueous sodium hydroxide
+with ethanoic acid
+(2 marks)
+Baking powder usually contains an organic acid and
+sodium hydrogencarbonate, NaHCO,, also known as
+bicarbonate of soda. Sodium hydrogencarbonate is an
+acid salt, formed by partial neutralisation of carbonic
+acid, H,CO2, with sodium hydroxide.
+a Write equations for the partial and complete
+neutralisation reactions of carbonic acid
+with sodium hydroxide.
+(4 marks)
+b Why is sodium hydrogencarbonate called
+an acid salt?
+(1 mark)
+c Baking powder is used to make cakes. When it is
+mixed into a batter or dough containing water and
+heated, the sodium hydrogencarbonate reacts
+with the acid in the powder in the same way as a
+carbonate. The small quantity of baking powder
+does not affect the taste, so why is it used?
+(2 marks)
+42
+ACIDS AND REDOX
+Metal carbonates
+Alkalis
+Table 2 Common bases
+Metal oxides
+Mgo
+Cao
+Na CO2
+NaOH
+KOH
+Calcium
+Carbonate
+Copper
+Oxide
+Sodium
+Hydroxide
+Caco
+Cuco,
+CuO
+NH3
+Neutralisation
+In neutralisation of an acid, H+(aq) ions react with a base to form a salt
+and neutral water. The H+ ions from the acid are replaced by metal or
+ammonium ions from the base. Table 3 shows salts of common acids.
+Figure 2 Three bases - calcium
+carbonate, CaCO, copper oxide, Cuo, and
+sodium hydroxide, NaOH
+Notice the link between the name of the acid and the salt, in blue.
+To form the salt, the hydrogen (shown in purple) in the acid is
+replaced by a metal or ammonium ion to form the salt.
+Table 3 Acids and their salts
+Acid
+Salt
+Name
+Formula
+Type
+Name
+Formula
+hydrochloric acid
+HCI
+chloride
+sulfuric acid
+sulfate
+H2SO4
+HNO
+nitric acid
+nitrate
+sodium chloride Naci
+sodium sulfate Na,so,
+calcium nitrate Ca(NO3)2
+ammonium
+ethanoate
+CH,COONH
+Study tip
+The reactions for the neutralisation of
+an acid by a metal oxide or hydroxide
+are all essentially the same:
+ethanoic acid
+(vinegar)
+CH,COOH |
+ethanoate
+acid + metal oxide/hydroxide
+salt + water
+Neutralisation of acids with metal oxides and hydroxides
+An acid is neutralised by a metal oxide or metal hydroxide to form a
+salt and water only. The equations below show the neutralisation of
+sulfuric acid and hydrochloric acid by copper(II)oxide to form a salt
+and water only. Figure 3 shows solutions of the salts formed.
+CuO(s) + H,SO,(aq) + CuSO4(aq) + H2O(l)
+CuO (s) + 2HCl(aq) → CuCl(aq) + H20(1)
+Learn this to help you write the
+equation for any neutralisation by
+a metal oxide or hydroxide.
+Alkalis
+With alkalis, the reactants are in solution. As with metal oxides, the
+overall reaction forms a salt and water only:
+acid + alkali — salt + water
+The ionic equation, shown below, is much simpler than the overall
+equation: neutralisation of H(aq) ions by OH(aq) ions to form
+neutral water, H, O(l).
+Full equation: HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(1)
+Ionic equation: H(aq) + OH-(aq)
+H 0(1)
+Figure 3 Solutions of two copper salts
+prepared by neutralisation of two different
+acids with the base copper(l) oxide:
+• sulfuric acid has been neutralised to
+form blue copper(11) sulfate, Cuso, (left)
+• hydrochloric acid has been neutralised
+to form green copper(II) chloride, Cuci,
+(right)
+4.3 Redox
+Specification reference: 2.1.5
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ oxidation number
+→ oxidation and reduction
+→ redox reactions.
+Oxidation number
+Oxidation number is based on a set of rules that apply to atoms,
+and can be thought of as the number of electrons involved in bonding
+to a different element. Use of oxidation numbers helps when writing
+formulae and balancing electrons as a check that all electrons have
+been accounted for.
+Rules for elements
+The oxidation number is always zero for elements.
+Study tip
+•
+In a pure element, any bonding is to atoms of the same element.
+So in H, O, P, S,, Na, and Fe the oxidation number of each atom
+of the element is 0.
+It is a common mistake to confuse
+oxidation numbers of elements
+and ions. The oxidation number of
+oxygen in 0, is zero but in H,0 is -2.
+Rules for compounds and ions
+Each atom in a compound has an oxidation number.
+An oxidation number has a sign, which is placed before
+the number.
+Table 1 shows examples of oxidation numbers of atoms in compounds
+and ions, including some special cases. The oxidation number of an
+ion of an element is numerically the same as the ionic charge but the
+sign comes before the number.
+Table 1 Oxidation number rules in compounds and ions
+Combined element
+Oxidation number
+FO
+Examples
+o
+Study tip
+All oxidation numbers, except
+zero (O), have a sign, + or -
+I
+The sign of an oxidation number
+is placed before the number: the
+oxidation number of Ca in a Ca2+ ion
+is +2, not 2+.
+H20, Ca.
+NH3, H2S.
+HF
+NaCl, K20
+MgCl, Cao
+HCI, KBr, Cal
+Na+, K+
+Mg2+, Ca2+
+CI , Br,
+Special cases:
+Hin metal hydrides
+Nah, Cah
+O in peroxides
+O bonded to F
+NA A
+H,02
+F,0
+Working out oxidation numbers
+In addition to the rules in Table 1, there is a further rule for
+combined atoms:
+• sum of the oxidation numbers = total charge.
+48
+ACIDS AND REDOX
+3 Finally use M(XC02) to identify X in the formula X_C03.
+106.25 = M(x) x 2 + 12.0 + (16.0 x 3) = 2M(X) +60.0
+M(X) = 106.25 – 60.0 = 23.125 g mol-1
+From the periodic table, 23.125 most closely matches Na (4. = 23.0).
+Unknown carbonate is sodium carbonate, Na, Co.
+Use the results to determine the molar mass of an unknown acid HA.
+Mass readings: For preparation of a 250.0 cm solution of HA
+9.64
+mass of weighing bottle/g
+mass of weighing bottle + HA/g
+12.51
+Titration readings: Titration of 25.0 cm volumes of the solution of HA
+with 0.0600 mol dm-"Na,co,
+Trial 123
+final burette reading/cm3 27.40 25.05 29.55 24.65
+initial burette reading/cm 2.00 0.00 5.00 0.00
+Summary questions
+1 a 25.00 cm3 of 0.110 moldm-3 NaOH(aq) reacts exactly with
+23.30 cm of HNO, (aq).
+(5 marks)
+i Calculate the amount, in moles, of NaOH(aq) used.
+ii Write the equation for the reaction and calculate the amount of
+HNO,(aq) in the titre.
+iii Calculate the concentration of the HNO, (aq) solution.
+b 25.00 cm3 of 0.125 mol dm-3 KOH(aq) reacts exactly with
+26.60 cm of H2SO (aq). Write the equation and find the
+unknown concentration.
+(3 marks)
+2 1.96 g of an unknown hydroxide X(OH), was dissolved in water, and
+the solution was made up to 250.00 cm3 in a volumetric flask. In a
+titration, 25.00 cm of this solution of X(OH), required 21.20 cm of
+0.250 mol dm-3 HCl(aq) to reach the end point.
+Equation: 2HCl(aq) + X(OH)2(aq) → XCI_(aq) + 2H20 (1)
+Identify the unknown hydroxide (OH),
+(4 marks)
+3 1.654 g of a hydrated acid •xH 0 was dissolved in water and the
+solution was made up to 250.00 cm in a volumetric flask. 23.80 cm of
+this solution required 25.00 cm3 of 0.100 mol dm-NaOH(aq) to reach
+the end point
+Equation: H,C,0 (aq) + 2NaOH(aq) Na C20. (aq) + 2H20(1)
+Identify the value of x and hence the formula of the hydrated
+acid H,C,0, •xH_0.
+(4 marks)

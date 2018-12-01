@@ -1,0 +1,1421 @@
+17
+ENERGY FOR BIOLOGICAL PROCESSES
+Suggest what you think would be the basic components
+of an artificial photosynthetic process.
+Artificial photosynthesis is seen as a possible solution. By
+improving on the natural process of photosynthesis carried
+out by plants, more carbon dioxide could be removed from
+the atmosphere and more carbohydrate products could be
+produced which could help with fuel and food shortages.
+Different types of photosynthesis
+Most plants use the form of photosynthesis that you
+have learnt about in this chapter. This is referred to as
+C3 photosynthesis, and it is most efficient in cool, wet
+climates with average sunshine values.
+deeper inside the plant. These molecules are then
+decarboxylated, and the carbon dioxide is then fixed
+by RuBisCO and enters the Calvin cycle. As RuBisCO
+is shielded from atmospheric oxygen, the waste of
+resources by photorespiration is reduced. Corn is an
+example of a C4 plant.
+Plants that live in hot, arid climates like the desert which
+are exposed to intense sunlight use different types of
+photosynthesis. Plants which use C4 and crassulacean
+acid metabolism (CAM) types of photosynthesis use
+water more efficiently and can photosynthesise at
+faster rates at higher temperatures and light intensities.
+Plants are adapted to their different environments to
+photosynthesise as efficiently as possible.
+CAM photosynthesis
+Other plants use CAM photosynthesis and open their
+stomata at night, usually closing them during the day,
+again reducing water loss by transpiration. Carbon dioxide
+is converted to an acid and stored during the night.
+During the day the acid is broken back down releasing
+carbon dioxide to RuBisCO. During very dry spells stomata
+can remain closed night and day. The carbon dioxide
+released from respiration is used in photosynthesis
+and the oxygen released by photosynthesis is used for
+respiration. Cacti are CAM plants.
+C4 photosynthesis
+Plants that undergo C4 photosynthesis are adapted
+to high temperatures and limited water supply. They
+are able to fix carbon dioxide more efficiently and so
+do not need to have their stomata open for as long
+as C3 plants meaning there is less water lost by
+transpiration.
+PEP carboxylase present in mesophyll cells, which
+first fixes carbon dioxide, is not inhibited by oxygen
+(like RuBisCO), increasing the efficiency of fixation.
+The four-carbon molecules produced are transported
+to bundle sheaths, formed from tightly packed cells,
+1 Some plants drop their leaves and twigs and
+become dormant during dry spells. Describe the
+way in which a cactus survives dry spells and the
+advantages of this method.
+2 Suggest why CAM plants can only keep their
+stomata closed night and day for short periods.
+Summary questions
+1 Describe what is meant by a limiting factor.
+(3 marks)
+Study tip
+2 Suggest why the rate of oxygen production is only an estimate
+of the rate of photosynthesis.
+(2 marks)
+Always refer to light intensity'
+rather than 'level' or 'amount'. When
+referring to rate of photosynthesis
+it is often a good idea to refer to the
+rate of the Calvin cycle or carbon
+fixation as an example.
+© Discuss, using what you have learnt in this chapter, how an
+understanding of the effect of limiting factors on the rate of
+photosynthesis is used to design more efficient glasshouses. (5 marks)
+477
+17
+Chapter 17 Practice questions
+2
+It is known that C4-type plants carry out a
+much more efficient type of photosynthesis
+than C3 plants particularly under conditions
+of high light intensity and temperature.
+The graph shows the changes in rate of
+photosynthesis for a C3 and C4 plant at
+different light intensities.
+Practice questions
+1 Photosynthesis is dependent on a supply
+of water, light energy, and carbon dioxide.
+Restricting the supply of any one of these
+factors reduces the rate of photosynthesis
+regardless of the availability of the other
+factors. A lower rate of photosynthesis
+results in a lower rate of growth and this has
+important implications for commercial plant
+growers.
+a Outline the problems that commercial
+plant growers might have when using
+glasshouses.
+(3 marks)
+The graph shows the changes in
+photosynthesis and respiration rates over
+a range of temperatures for tomato plants
+grown in a glasshouse. Tomatoes need to
+have reached a certain size and sweetness
+before they can be sold.
+assimilates produced
+in photosynthesis
+orate of photosynthesis
+a
+light intensity level
+State which curve in the graph is the
+C3 plant.
+(1 mark)
+Plants are often adapted to grow in bright
+sunshine or shade, even leaves on the same
+tree can develop differently depending on
+the conditions they are exposed to.
+The graph shows the changes in rate of
+photosynthesis in sun and shade leaves at
+different light intensities.
+growth potential
+rate of photosynthesis/respiration
+assimilates
+used in respiration
+rate of photosynthesis
+40
+96
+b
+light intensity level
+temperature (°F)
+(i) Describe, and explain, the changes
+in rates of photosynthesis and
+respiration shown in the diagram.
+(5 marks)
+(ii) Discuss how these changes would
+affect the saleability of the tomatoes
+grown at different temperatures.
+(4 marks)
+(iii) Comment on why there might be a
+difference between maximum rate
+of photosynthesis and optimum
+economic rate of photosynthesis.
+(3 marks)
+(i) Suggest how leaves on the same plant
+can be exposed to different conditions
+that might affect leaf development.
+(2 marks)
+(ii) State which curve in the diagram is
+most adapted to photosynthesis in
+direct sunlight.
+(1 mark)
+(iii) Describe, making reference to cells,
+leaves and whole plants, how plants
+can be adapted to different light
+conditions.
+(5 marks)
+478
+17
+17.3 Photosynthesis
+The light harvesting system and reaction centre are collectively known
+as a photosystem.
+accessoryaccessory hiamant
+ccessory
+pigmont accessory
+antennae complex
+accessory Yaccessory Lessory
+accessd pi
+reaction centre 1/gment
+pigmenN!
+primary
+(accesso pigment bresso
+acce pigment pigment hent
+pigm
+Yaccessory
+accessol pigment /cessory
+pigment
+Icoa pigment
+pigment
+Figure 3 The reaction centre
+is surrounded by an antennae
+complex, maximising the
+absorption of light
+Plants use sunscreen as well
+pigments is pH-dependent, leading to a range of different
+colours from red to purple.
+Anthocyanins act as a sunscreen by absorbing blue-
+green and ultraviolet light, thereby inhibiting the
+destruction of chlorophyll.
+In their role as pigments they help trees maximise
+production towards the end of the growing season as the
+weather changes in autumn.
+The red/purple coloration of leaves is also thought
+to camouflage leaves from herbivores blind to red
+wavelengths.
+Plants need light to photosynthesise but if sunlight is too
+intense chlorophyll is destroyed. Chlorophyll has to be
+continuously synthesised during the summer to maintain
+the level needed to photosynthesise at the required
+rate. Chlorophyll is not produced when there is little or
+no sunlight - this is why areas of grass that have been
+covered turn yellow.
+Carotenoids are accessory pigments responsible for
+the yellow/orange colours seen in plant leaves. Orange
+carotene and yellow xanthophyll are two examples. These
+colours are not normally seen because they are masked
+by the green colour of chlorophyll. Carotenoids are not
+broken down, unlike chlorophyll, in strong sunlight and
+are present throughout the growing season.
+The shorter days and cooler nights of autumn cause
+changes in the pigment composition in leaves.
+Chlorophylla is no longer produced and leaves turn
+yellow/orange as we see the carotenoids.
+Anthocyanin is a red/purple pigment formed from a
+reaction between sugars and proteins present in cell
+sap. It is produced when the concentration of sugars is
+high. High light intensity also promotes the production of
+anthocyanins.
+Anthocyanin produces the red skin of apples and the
+purple of black grapes. The colour of the anthocyanin
+1 Suggest explanations for the following
+observations:
+a Apples are often red on one side and green on
+the other.
+b Leaves with more vibrant red colours are
+seen during years when there has been lots
+of sunlight and dry weather. When it has
+been raining and overcast there will not be as
+much red foliage present.
+2 Suggest why the production of anthocyanins is
+temperature-dependent.
+468
+ENERGY FOR BIOLOGICAL PROCESSES
+17
+ENERGY FOR BIOLOGICAL PROCESSES
+leaf blade
+upper
+epidermis
+SCOA
+transparent
+waterproof
+cuticle
+leaf stalk
+upper
+Umesophyll
+à leaf structure
+lower
+mesophyll
+xylem
+cellulose cell wall
+phloem
+lower
+epidermis
+chloroplast
+guard
+0,CO2 stomatal
+0
+mitochondrion
+cell
+pore air space
+b vertical section through a dicotyledonous leaf
+-outer membrane
+inner membrane
+_thylakoid
+vacuole
+NAN
+nucleus
+mes
+granum
+TE
+c mesophyll cell
+stroma
+d chloroplast structure
+chlorophyll absorption sepectrum of visible light
+thylakoid
+intergranal
+lamella
+granum
+100
+absorbance/%
+stroma
+e grana and thylakoids
+Figure 1 Leaf and chloroplast
+structure
+700
+0 -
+400 450 500 550 600 650
+wavelength/nm
+A Figure 2 Absorption spectra of chlorophyll showing that
+red and blue light is absorbed and green light is reflected
+Chlorophyll b, xanthophylls, and carotenoids are embedded in the
+thylakoid membrane of the chloroplast. These and other proteins
+and pigments form a light harvesting system (also known as an
+antennae complex). The role of the system is to absorb, or harvest,
+light energy of different wavelengths and transfer this energy
+quickly and efficiently to the reaction centre. Chlorophyll a is
+located in the reaction centre, which is where the reactions involved
+in photosynthesis take place.
+467
+17
+ENERGY FOR BIOLOGICAL PROCESSES
+The leaves of flowering plants have the
+ability to develop differently, depending on
+environmental conditions such as the amount
+of sun or shade a leaf receives.
+A student carried out an investigation into
+sun and shade leaves from different parts of
+the same plant. Their observations and results
+are shown in the table.
+Cuticle
+Type Number Mean no. of Mean
+of leaf of leaves stomata per mm thickness
+studied on lower surface of leaf (um)
+sun 55
+170
+208
+shade
+92
+93
+thick
+thin
+(i) State the factor limiting the rate of
+photosynthesis at A on the graph.
+(1 mark)
+(ii) Suggest one factor that may limit the
+rate of photosynthesis at B. (1 mark)
+(iii) Carbon dioxide is given off by the
+plant when the light intensity is
+lower than X.
+Name the process that produces
+carbon dioxide in the plant. (1 mark)
+(iv) With reference to the graph, explain
+the biochemical processes that are
+occurring in the plant:
+as light intensity increases from
+0 (zero) to X.
+at light intensity X.
+at light intensities greater than X.
+(3 marks)
+(i) Name the products of the light-
+dependent stage of photosynthesis.
+(3 marks)
+(ii) Paraquat is a weed killer. It binds
+with electrons in photosystem I.
+Suggest how paraquat results in the
+death of a plant.
+(2 marks)
+OCR F214 2012
+c
+a Calculate the percentage difference in
+the mean thickness of the sun leaves
+compared to the shade leaves.
+Show your working.
+(2 marks)
+Suggest and explain one benefit of the
+greater mean number of stomata per mm
+on the lower surface of the sun leaves.
+(2 marks)
+Describe two ways in which the student
+could improve her investigation. (2 marks)
+OCR F214 2011
+One way to determine the rate of
+photosynthesis is to measure the uptake of
+carbon dioxide.
+a Discuss why measuring carbon dioxide
+uptake may or may not give a better
+indication of photosynthetic activity than
+measuring oxygen production. (2 marks)
+The graph shows the relationship between
+light intensity and the relative carbon
+dioxide uptake and production in a plant.
+4
+b
+carbon dioxide
+uptake
+0 +
+0,1
+carbon dioxide' x
+produced
+light intensity
+479
+17
+ENERGY FOR BIOLOGICAL PROCESSES
+Oxygen gas is released as a by-product. The protons are released into
+the lumen of the thylakoids, increasing the proton concentration across
+the membrane. As they move back through the membrane down a
+concentration and electrochemical gradient, they drive the formation
+of more ATP. Once the hydrogen ions are returned to the stroma, they
+combine with NADP and an electron from PSI to form reduced NADP.
+This is used in the light-independent reactions of photosynthesis. This
+process removes hydrogen ions from the stroma so it helps to maintain
+the proton gradient across the thylakoid membranes.
+Sun
+Cyclic photophosphorylation
+The electrons leaving the electron transport chain after PSI can be
+returned to PSI, instead of being used to form reduced NADP, leading
+to cyclic photophosphorylation. This means PSI can still lead to
+the production of ATP without any electrons being supplied from PSII.
+Reduced NADP is not produced when this happens.
+electron
+transport
+chain
+PSI
+The light-independent stage of photosynthesis
+The light-independent stage of photosynthesis takes place in the
+stroma of chloroplasts and uses carbon dioxide as a raw material. The
+products from the light-dependent stage - ATP and reduced NADP, are
+also required. Organic molecules, like glucose, are produced in a series
+of reactions collectively known as the Calvin cycle.
+ATP
+Figure 9 Cyclic photophosphorylation
+CO2
+Calvin cycle
+Carbon dioxide enters the intercellular spaces
+within the spongy mesophyll of leaves by diffusion
+from the atmosphere through stomata. It diffuses
+into cells and into the stroma of chloroplasts where
+it is combined with a five-carbon molecule called
+ribulose bisphosphate (RuBP). The carbon in
+carbon dioxide is therefore fixed, meaning that it
+is incorporated into an organic molecule.
+RuBisCo
+unstable intermediate
+RuBP
+000 GP
+The enzyme ribulose bisphosphate carboxylase
+(RuBisCO) catalyses the reaction and an unstable
+six-carbon intermediate is produced. RuBisCO
+is the key enzyme in photosynthesis. It is a very
+inefficient enzyme as it is competitively inhibited by
+oxygen (see the Photorespiration application box)
+so a lot of it is needed to carry out photosynthesis
+successfully. Biologists estimate that it is probably
+the most abundant enzyme in the world.
+000 GP
+OTP
+ATP
+The unstable six-carbon compound formed
+immediately breaks down, forming two three-
+carbon glycerate 3-phosphate (GP) molecules.
+OTP
+reduced NADP
+lipids
+glucose
+amino acids
+Each GP molecule is converted to another three-
+carbon molecule, triose phosphate (TP), using
+a hydrogen atom from reduced NADP and energy
+supplied by ATP, both supplied from the light-
+dependent reactions of photosynthesis.
+Figure 10 The Calvin cycle
+471
+17
+ENERGY FOR BIOLOGICAL PROCESSES
+Synoptic link
+In photosynthesis, ATP is used to synthesise glucose and other organic
+molecules. The ATP produced in respiration provides the energy
+needed by metabolic processes and reactions essential to life.
+A simple way of modelling this process is to think of the flow of
+water through a hydroelectric power station causing turbines to spin,
+generating electricity. Both chemiosmosis and hydroelectric power
+generation result in energy in a very useable form.
+You learnt about diffusion and
+active transport across cell
+membranes in Chapter 5, Plasma
+membranes.
+The processes of oxidative phosphorylation (in respiration)
+and photophosphorylation (in photosynthesis) are also vital in
+chemiosmosis. You will learn about these in more detail in Topic
+18.4, Oxidative phosphorylation and Topic 17.3, Photosynthesis,
+respectively.
+Summary questions
+1 Explain the importance of ATP to living organisms.
+(3 marks)
+2 Describe the properties of cell membranes necessary for the
+formation of a proton gradient.
+(5 marks)
+3 Name the type of diffusion which enables protons to move through
+ATP synthase and explain the role of ATP synthase in the
+production of ATP.
+(4 marks)
+4 The synthesis and breakdown of ATP is an example of a reversible
+reaction:
+ADP+P = ATP
+ATPase is often the name given to the enzyme which hydrolyses
+ATP, producing ADP and P, ATPase and ATP synthase are, in fact,
+the same enzyme. Explain how this is possible.
+(5 marks)
+465
+17.3 Photosynthesis
+Specification reference: 5.2.1
+Photosynthesis is the process by which energy, in the form of light
+from the Sun, is used to build complex organic molecules, such as
+glucose. Light energy is transformed into chemical energy trapped
+in the bonds of the complex organic molecules produced. Organisms
+that can photosynthesise, like plants and algae, are said to be
+autotrophic.
++bo HAL
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the structure of a chloroplast
+and the sites of the two main
+stages of photosynthesis
+► the importance of
+photosynthetic pigments in
+photosynthesis
+the light-dependent stage of
+photosynthesis
+the fixation of carbon dioxide
+and the light-independent
+stage of photosynthesis
+→ the uses of triose
+phosphate (TP)
+→ practical investigations using
+thick layer chromatography
+to separate photosynthetic
+pigments.
+Heterotrophic organisms, like animals, obtain complex organic
+molecules by eating other (heterotrophic and/or autotrophic)
+organisms.
+Both autotrophic and heterotrophic organisms then break down complex
+organic molecules during the process of respiration to release the energy
+they need to drive metabolic processes.
+Photosynthesis can be summarised by the equation:
+6CO2 + 6H2O + CH,206 + 60,
+carbon dioxide + water → glucose + oxygen
+Structure and function of chloroplasts
+As you have learnt, photosynthesis takes place in chloroplasts. The
+network of membranes present within chloroplasts provides a large
+surface area to maximise the absorption of light essential in the first step
+of photosynthesis. The membranes form flattened sacs called thylakoids
+which are stacked to form grana (singular granum) (Figure 1). The
+grana are joined by membranous channels called lamellae.
+Synoptic link
+Light is absorbed by complexes of pigments, such as chlorophyll,
+which are embedded within the thylakoid membranes.
+You will learn more about how
+respiration releases energy in
+Chapter 18, Respiration.
+The fluid enclosed in the chloroplast is called the stroma and is the site
+of the many chemical reactions resulting in the formation of complex
+organic molecules.
+Synoptic link
+You learnt about endosymbiosis
+in Topic 2.6, Prokaryotic and
+eukaryotic cells.
+Chlorophyll
+Pigment molecules absorb specific wavelengths (colours) of light
+and reflect others. Different pigments absorb and reflect different
+wavelengths and this is why they have different colours. The primary
+pigment in photosynthesis is chlorophyll. Chlorophyll absorbs mainly
+red and blue light and reflects green light. The presence of large
+quantities of chlorophyll is the reason for the familiar green colour
+of plants.
+Although there are a number of different pigments that absorb
+light, the primary pigment is chlorophyll a. Other pigments, like
+chlorophyll b, xanthophylls, and carotenoids absorb different
+wavelengths of light than those absorbed by chlorophyll a. Different
+combinations of pigments are the reason for the different shades
+and colours of leaves.
+466
+17
+17.3 Photosynthesis
+Triose phosphate is a carbohydrate, a three-carbon sugar, the majority
+of which is recycled to regenerate RuBP so that the Calvin cycle can
+continue. It is the starting point for the synthesis of many complex
+biological molecules, including other carbohydrates, lipids, proteins,
+and nucleic acids.
+The Calvin cycle can be summarised in three steps:
+•
+Fixation - carbon dioxide is fixed (incorporated into an organic
+molecule) in the first step.
+Reduction - GP is reduced to TP by the addition of hydrogen from
+reduced NADP using energy supplied by ATP.
+Regeneration - RuBP is regenerated from the recycled TP.
+Study tip
+Reduced NADP must supply a
+hydrogen atom to GP in the Calvin
+cycle, not a hydrogen ion or proton.
+If there is no electron present a bond
+will not be formed with carbon.
+Regeneration of RuBP
+For one glucose molecule to be produced six carbon dioxide molecules
+have to enter the Calvin cycle, resulting in six full turns of the cycle.
+This will result in the production of 12 TP molecules, two of which
+will be removed to make the glucose molecule.
+This means that 10 TP molecules are recycled to regenerate six RuBP
+molecules (used in the six turns of the cycle).
+Synoptic link
+10 x three-carbon TP = 30 carbons 'shuffled' gives 6 x five-carbon
+RuBP = 30 carbons
+You learnt about transpiration in
+Topic 9.3, Transpiration.
+Energy is supplied by ATP for the reactions involved in the
+regeneration of RuBP.
+Photorespiration
+Oxygen is a competitive inhibitor of the enzyme
+RuBisCO, leading to the production of phosphoglycolate
+and reducing the production of GP. This only happens
+when the concentration of carbon dioxide becomes
+very low.
+Stomata need to be open for plants to obtain carbon
+dioxide for photosynthesis. Water vapour leaves plants
+through open stomata by the process of transpiration.
+When the temperature is high and humidity of the
+atmosphere is low plants can lose too much water. To
+prevent excess water loss, stomata close.
+This prevents the entry of carbon dioxide into the leaves of
+the plant. The plant will still be photosynthesising and so
+the carbon dioxide levels fall and the oxygen levels increase.
+3-phosphoglycolate
+2-phosphoglycolate
+Phosphoglycolate is a toxic two-carbon molecule that
+needs to be removed. It is converted by the plant into
+other organic molecules and energy from ATP is needed
+for the conversion.
+RuBisCO has a higher affinity for carbon dioxide than
+oxygen and approximately 25% of the products of the
+Calvin cycle are lost in photorespiration, reducing the
+efficiency of photosynthesis.
+RuBisCO
+ribulose-1,5-
+bienhagobate
+photosynthesis
+pndturespiratIuII
+www.
+1 Explain why photorespiration is not something
+commercial producers would want to encourage.
+2 Suggest why plants evolved with such an
+important enzyme as RuBisCO being
+inhibited by such a common molecule as oxygen.
+CO2
+A Figure 11 Photorespiration - RuBisCO and two substrates
+472
+17
+17.2 ATP synthesis
+Electron transport chain
+An electron transport chain is made up of a series of electron
+carriers, each with progressively lower energy levels. As high energy
+electrons move from one carrier in the chain to another, energy is
+released. This is used to pump protons across a membrane, creating
+a concentration difference across the membrane and therefore a
+proton gradient. The proton gradient is maintained as a result of the
+impermeability of the membrane to hydrogen ions.
+high proton concentration
+high energy
+electron
+electron
+carrier
+electron
+carrier
+membrane
+electron
+carrier
+electron
+carrier
+...
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+--
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+low energy
+7 electron
+low proton concentration
+Figure 2 The flow of electrons along an electron transport chain releases energy which is used to pump
+protons across a membrane, resulting in the formation of a proton gradient
+The only way the protons can move back through the membrane down
+their concentration gradient is through hydrophilic membrane channels
+linked to the enzyme ATP synthase (catalyses the formation of ATP).
+The flow of protons through these channels provides the energy used to
+synthesise ATP (from ADP and P:).
+high proton concentration
+membrane
+ADP
+ADP
+ATP
+low proton concentration
+A Figure 3 The role of ATP synthase in the synthesis of ATP from ADP and P
+464
+17
+17.3 Photosynthesis
+Synoptic link
+You learnt about coenzymes in
+Topic 4.4, Cofactors, coenzymes,
+and prosthetic groups.
+Study tip
+The coenzyme used in
+photosynthesis is NADP, this is not
+the same coenzyme as NAD, used
+in respiration.
+The light-dependent stage of photosynthesis
+Non-cyclic photophosphorylation
+Two photosystems are involved in non-cyclic photophosphorylation,
+photosystem II (PSII) followed by photosystem I (PSI). The reaction
+centre of PSI absorbs light at a higher wavelength (700 nm) than PSII
+(680 nm). The light absorbed excites electrons at the reaction centres of
+the photosystems.
+The excited electrons are released from the reaction centre of PSII
+and are passed to an electron transport chain. ATP is produced by the
+process of chemiosmosis (Topic 17.2, ATP synthesis).
+The electrons lost from the reaction centre at PSII are replaced from
+water molecules broken down using energy from the Sun (Topic 17.4,
+Factors affecting photosynthesis).
+Sun
+Excited electrons are released from the reaction centre at PSI, passed
+to another electron transport chain, and ATP is again produced by
+chemiosmosis. The electrons lost from this reaction centre are replaced
+by electrons that have just
+travelled along the first
+electron transport chain after
+being released from PSII.
+Sun
+electron
+electron
+transport
+The electrons leaving the
+transport
+chain
+electron transport chain
+chain
+following PSI are accepted,
+along with a hydrogen ion,
+PSI
+by the coenzyme NADP,
+PSII
+forming reduced NADP.
+reduced
+NADP
+Reduced NADP provides the
+hydrogen or reducing power
+ATP
+in the production of organic
+molecules, such as glucose, in
+A Figure 7 Diagram summarising the two electron transport chains involved in cyclic
+the light-independent stage
+and non-cyclic photophosphorylation, this is often referred to as the Z-scheme
+which follows.
+Photolysis
+Sun
+Water molecules are split into hydrogen ions, electrons,
+and oxygen molecules using energy from the Sun in a
+process called photolysis. The electrons released replace the
+electrons lost from the reaction centre of PSII. This is why
+water, along with light and carbon dioxide, is a raw material
+electron
+H20
+deficient
+of photosynthesis.
+PSIL
+The oxygen-evolving complex which forms part of PSII is
+an enzyme that catalyses the breakdown of water. Here
+water molecules are split into hydrogen ions, electrons,
+and oxygen molecules using energy from the Sun in a
+Figure 8 Photolysis which is catalysed by the process called photolysis. The electrons released replace
+oxygen-evolving complex present in PSII
+the electrons lost from the reaction centre of PSII. This is
+why water, along with light and carbon dioxide, is a raw material of
+photosynthesis. The photolysis reaction is summarised as:
+H,
+0 2H+ + 2e +10,
+470
+17
+ENERGY FOR BIOLOGICAL PROCESSES
+0 List the apparatus you would use and
+outline the procedure you would follow
+to separate a mixture of plant pigments.
+solvent front
+carotene
+Investigating photosynthetic pigments
+Chromatography can be used to separate the different
+pigments in a plant extract. The mobile phase would
+be the solution containing a mixture of pigments and
+the stationary phase a thin layer of silica gel applied
+to glass.
+The different solubilities of the pigments in the mobile
+phase, and their differing interactions with the stationary
+phase, lead to them moving at different rates. This results
+in the pigments being separated as they move through
+the silica gel.
+The retention value (R) for each pigment can be
+calculated using the formula:
+pheophytin
+chlorophyll A
+chlorophyll b
+R =
+distance travelled by component
+distance travelled by solvent
+carotenoids
+starting point
+Synoptic link
+You also learnt about
+chromatography and how it is used
+to separate amino acids in solution
+in Topic 3.6, Structure of proteins.
+Figure 4 Thin layer chromatogram (TLC) of an extract
+of thylakoid membranes from the leaf of annual meadow
+grass. A drop of extract was laid at the bottom of the
+sheet. The sheet was then placed in a beaker of solvent
+separating out the pigments. Five bands can be seen.
+2 Calculate the R value for each pigment.
+H.0
+The two stages of photosynthesis
+There are two stages in photosynthesis:
+reduced NADP
+Sun
+light-
+dependent
+reactions
+ATP
+Light-dependent stage - energy from sunlight
+is absorbed and used to form ATP (Figure 5).
+Hydrogen from water is used to reduce coenzyme
+NADP to reduced NADP.
+Light-independent stage - hydrogen from reduced
+NADP and carbon dioxide is used to build organic
+molecules, such as glucose. ATP supplies the
+required energy (Figure 6).
+02
+CO2
+light-dependent stage
+lipids
+Figure 5 Summary of the light-dependent stage of
+photosynthesis which occurs within and across the thylakoid
+membranes
+reduced NADP
+light-
+independent
+reactions
+glucose
+ATP
+amino acids
+light-independent stage
+Figure 6 Summary of the light-independent
+stage of photosynthesis which occurs in the stroma
+469
+17.2 ATP synthesis
+Specification reference: 5.2.2
+ATP production
+As you have already learnt, ATP is the universal energy currency in
+cells. The bond energy in the ATP molecule is used to drive essential
+metabolic processes. The production of ATP is therefore fundamental
+to all forms of life.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the chemiosmotic theory.
+In photosynthesis, light provides the energy needed to build organic
+molecules like glucose. This energy is used to form chemical bonds
+in ATP, which are then broken to release the energy needed to make
+bonds as glucose is formed.
+In respiration organic molecules, such as glucose, are broken down
+and the energy released is used to synthesise ATP. This ATP is then
+used to supply the energy needed to break bonds in the metabolic
+reactions of the cell.
+Synthesis of ATP is therefore a crucial step in both respiration and
+photosynthesis.
+energy
+(Sun)
+ATP
+large organic
+molecules
+(glucose)
+ATP
+energy-
+requiring
+reactions and
+processes
+(essential to life)
+photosynthesis
+respiration
+A Figure 1 The role of ATP in energy transfer
+Chemiosmosis
+The ATP produced in both photosynthesis and respiration
+is synthesised primarily by a process called chemiosmosis.
+Chemiosmosis involves the diffusion of protons from a region of high
+concentration to a region of low concentration through a partially
+permeable membrane. The movement of the protons as they flow
+down their concentration gradient releases energy that is used in the
+attachment of an inorganic phosphate (P) to ADP, forming ATP.
+Synoptic link
+You learnt about ATP-ADP in
+Topic 3.11, ATP.
+Chemiosmosis depends on the creation of a proton concentration
+gradient. The energy to do this comes from high-energy electrons
+(excited electrons).
+Excited electrons
+Electrons are raised to higher energy levels, or excited, in two ways:
+electrons present in pigment molecules (e.g., chlorophyll) are
+excited by absorbing light from the Sun
+high energy electrons are released when chemical bonds are
+broken in respiratory substrate molecules (e.g., glucose).
+The excited electrons pass into an electron transport chain and are
+used to generate a proton gradient.
+463
+17
+ENERGY FOR BIOLOGICAL PROCESSES
+Summary of photosynthesis
+The light-dependent stage, including photolysis, and the light-
+independent stage are summarised in Figure 12 showing how energy
+from the Sun in the form of light is used to build the chemical bonds
+in complex biological molecules.
+H2O
+CO2
+photolysis
+carbon fixation
+lipids
+reduced NADP
+light-
+dependent
+reactions
+light-
+independent
+reactions
+Sun
+triose phosphate
+glucose
+P
+ATP
+amino acids
+02
+light-dependent stage
+light-independent stage
+A Figure 12 Overview of the light-dependent and light-independent stages
+b
+carotenoid
+chlorophyll a
+relative absorption →
+chlorophyll b
+Summary questions
+1 Explain the meaning of the term photophosphorylation. (2 marks)
+2 Look at Figure 13. Explain why the absorption spectra
+of the pigments present in the thylakoid membranes of chloroplasts
+(top graph) follows the same pattern as the action spectrum (the rate of
+photosynthesis at different wavelengths of light, (bottom graph)).
+(4 marks)
+3 Explain why photosynthesis stops when plants are exposed to
+green light only.
+(3 marks)
+4 Explain what is meant by the term fixation.
+(2 marks)
+400
+violet
+500
+blue green
+600 700
+yellow orange red
+relative effectiveness
+in photosynthesis →
+400
+violet
+500 600 700
+blue green yellow orange red
+wavelength / nm
+A Figure 13
+5 a The Calvin cycle used to be called the 'dark reaction'.
+This term is now rarely used.
+Explain why this term is incorrect.
+(1 mark)
+b Explain why the alternate name of the Calvin cycle, the
+light-independent stage, is also not completely accurate. (3 marks)
+6 Suggest the possible benefits of cyclic photophosphorylation. (4 marks)
+7 Describe how RuBP is regenerated from TP in the
+Calvin cycle.
+(4 marks)
+8 The overall reaction for photosynthesis is summarised
+by the chemical equation:
+6CO2 +6H,0 → CH4206+60,
+Outline why this is an oversimplification.
+(6 marks)
+473
+17.4 Factors affecting photosynthesis
+Specification reference: 5.2.1
+Photosynthesis is a multi-step reaction pathway that takes place in
+plants. Like any other chemical reaction, it is affected by various
+environmental factors. Plants are affected by changes in temperature
+and the availability of raw materials required for photosynthesis.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ factors affecting
+photosynthesis and
+investigations of these
+factors.
+Plants obtain carbon dioxide through open stomata but this also
+involves the loss of water by transpiration. However, the loss of water
+vapour results in the transport of important ions and minerals from
+the soil to the leaves.
+A balance between these different processes has to be maintained and
+this can be upset by changes in the environment of the plant.
+Synoptic link
+You learnt about transport in plants Limiting factors
+and water loss by transpiration
+When one of the factors needed for a plant to photosynthesise is in
+in Chapter 9, Transport in plants.
+short supply, it reduces the rate of photosynthesis, and is therefore a
+In this chapter in Topic 9.5, Plant
+limiting factor.
+adaptations to water loss you learnt
+about the mechanism of stomatal The factors that affect the rate of photosynthesis are:
+opening and closing and plant
+Light intensity - light is needed as an energy source. As light intensity
+adaptations to dry environments
+increases, ATP and reduced NADP are produced at a higher rate.
+(xerophytes).
+Carbon dioxide concentration - carbon dioxide is needed as a source
+of carbon, so if all other conditions are met, increasing the carbon
+dioxide concentration increases the rate of carbon fixation in the
+Calvin cycle and, therefore, the rate of TP production.
+Temperature - affects the rate of enzyme-controlled reactions.
+As temperature increases, the rate of enzyme activity increases
+until the point at which the proteins denature. An increase
+in temperature increases the rates of the enzyme-controlled
+reactions in photosynthesis, such as carbon fixation. The rate of
+photorespiration, however, also increases above
+25°C meaning higher photosynthetic rates may not
+higher Co, concentration
+higher temperature.
+be seen at higher temperatures even if enzymes are
+not actually denatured.
+higher CO, concentration
+lower temperature. Stomata on plant leaves and other surfaces will
+lower CO2 concentration
+close to avoid water loss by transpiration during
+lower temperature. dry spells when plants undergo water stress. The
+closure of stomata stops the diffusion of carbon
+A intensity of light
+dioxide into the plant, reducing the rate of the
+light-independent reaction, and eventually
+A Figure 1 Following the blue line from A, rate of photosynthesis
+stopping photosynthesis.
+increases with increasing light intensity meaning light is the
+limiting factor. This happens until carbon dioxide concentration Although water is required for photosynthesis it
+becomes limiting. Increasing the light intensity will then no longer is never considered a limiting factor because for
+have an effect until carbon dioxide concentration is increased
+water potential to have become low enough to
+limit the rate of photosynthesis the plant will already have closed
+its stomata and ceased photosynthesis. Plants, except those with
+rate of photosynthesis
+474
+ENERGY FOR BIOLOGICAL
+PROCESSES
+17.1 Energy cycles
+Specification reference: 5.2.1 and 5.2.2
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the need for cellular respiration
+► the interrelationship
+between the processes
+of photosynthesis and
+respiration.
+The need for energy
+Living organisms have to be active to survive. Organisms grow,
+respond to changes in their environment, and deal with threats from
+other organisms. They have to find or make food, and reproduce.
+All of this activity depends on metabolic reactions and processes
+continually taking place in individual cells.
+A few examples of these metabolic activities amongst many include:
+Synoptic link
+You learnt about active transport in
+Topic 5.4, Active transport.
+active transport, which is essential for the uptake of nitrates by
+root hair cells, loading sucrose into sieve tube cells, the selective
+reabsorption of glucose and amino acids in the kidney, and the
+conduction of nerve impulses
+anabolic reactions, such as the building of polymers like proteins,
+polysaccharides, and nucleic acids essential for growth and repair
+movement brought about by cilia, flagella, or the contractile
+filaments in muscle cells.
+Synoptic link
+All of these metabolic activities require energy.
+You will learn more about the
+transfer of energy through
+ecosystems in Topic 23.2, Biomass
+transfer through an ecosystem.
+Energy flow through living organisms
+The total amount of energy in the universe hasn't changed from
+the time of the Big Bang, when the universe began, until now. The
+universe is gradually cooling as it expands because this energy is being
+dispersed over a larger area. This is inevitable and irreversible. Energy
+cannot be created or destroyed.
+Synoptic link
+producers
+decomposers
+You learnt about glucose as
+an energy store in Topic 3.3,
+Carbohydrates, and about ATP as a
+molecule of energy in Topic 3.11, ATP.
+consumers
+Sun
+high energy photosynthesis
+radiation
+respiration
+respiration
+respiration
+Study tip
+A glucose molecule contains more
+energy than the single metabolic
+reactions needed to break it down.
+The energy contained within
+a glucose molecule is used to
+synthesise many molecules of
+ATP, and it is molecules of ATP that
+drive metabolic reactions.
+heat
+low energy radiation
+A Figure 1 Transfer of energy through ecosystems
+460
+17
+17.4 Factors affecting photosynthesis
+concentration
+The effect of reducing light intensity
+on the Calvin cycle
+- GP
+Reducing light intensity will reduce the rate of the
+light-dependent stage of photosynthesis. This will
+reduce the quantity of ATP and reduced NADP
+- RuBP
+produced. ATP and reduced NADP are needed to
+convert GP to TP. The concentration of GP will
+therefore increase and the concentration of TP will
+decrease. As there will be less TP to regenerate
+high
+low
+high
+RuBP, the concentration of RuBP will also decrease.
+light intensity
+The reverse will happen when the light intensity is
+A Figure 4 The effect of light intensity on GP,
+increased (Figure 4).
+TP, and RuBP concentrations
+The effect of carbon dioxide concentration and
+temperature on the Calvin cycle
+All the reactions making up the Calvin cycle are catalysed by
+enzymes, for example, RuBisCO in carbon fixation. At lower
+temperatures enzyme and substrate molecules have less kinetic
+energy resulting in fewer successful collisions and a reduced rate
+of reaction. This means decreasing temperature results in lower
+concentrations of GP, TP, and RuBP.
+The same effect will be seen at high temperatures as enzymes will be
+denatured - this is irreversible.
+As carbon dioxide is an essential substrate of the Calvin cycle, low
+concentrations will lead to reduced concentrations of GP (as there is
+less carbon dioxide to be fixed) and TP. The concentration of RuBP will
+increase as it is still being formed from TP but not being used to fix
+carbon dioxide.
+Artificial photosynthesis, a win-win solution
+Photosynthesis would appear to offer a solution. It uses
+carbon dioxide and energy from the Sun to produce
+carbohydrates. Carbohydrates can be used as both food
+and fuel.
+The burning of fossil fuels, and respiration, is continually
+releasing huge quantities of carbon dioxide into the
+atmosphere. The overall concentration of carbon dioxide,
+a greenhouse gas, is increasingly leading to more heat
+from the Sun being trapped in the atmosphere. This is
+enhanced global warming and is causing the polar ice
+caps to melt, increasing sea levels, and changing the
+climate around the world.
+It is said that 'more energy hits Earth from the Sun in one
+hour than mankind uses in an entire year', so there is no
+shortage of energy. We already collect and use energy
+from the Sun in the form of solar power but the Sun doesn't
+always shine and at the moment there are no practical ways
+to store energy for a 'rainy day'. However, the carbohydrate
+fuel produced by plants can be stored for long periods.
+Fossil fuels have a limited supply and will eventually
+run out, leading to fuel shortages, and many parts of the
+world already suffer from food shortages.
+Therefore, we have a surplus of carbon dioxide, which needs
+removing, and a shortage of fuel and food, both of which are
+forms of biomass produced by plants using carbon dioxide.
+The problem is that the process of photosynthesis, which
+has taken millions of years to evolve, is still not particularly
+efficient, so relying on plants is not the answer.
+476
+17
+17.1 Energy cycles
+Organic molecules contain large numbers of carbon-hydrogen bonds,
+particularly lipids. Carbon and hydrogen share the electrons almost
+equally in bonds that form between them. This results in a non-polar
+bond which does not require a lot of energy to break. The carbon
+and hydrogen released then form strong bonds with oxygen atoms,
+forming carbon dioxide and water, resulting in the release of large
+quantities of energy. The reverse happens in photosynthesis when
+organic molecules are made from small inorganic molecules. The
+energy required to build these molecules comes from the Sun.
+Energy transfer
+1 Copy and complete the table.
+When thinking about energy transfer:
+Bond energy = energy required to break bond =
+energy required to form bond.
+Bond
+Number of
+bonds involved
+in reaction
+Bond
+energy
+(kJ/mol)
+Total
+(kJ/mol)
+The overall reaction that takes place in photosynthesis is:
+803
+6CO2 + 6H,0 CH206+60,
+The overall reaction that takes place in respiration is the
+reverse of this reaction.
+464
+0-H
+C-H
+C-C
+414
+347
+The structures of the molecules involved are shown in
+Figure 2.
+358
+H
+0–0
+495
+H-C-0-H
+O=
+0
+HC-OH
+I/
+0-HH
+H-OV_16-H
+2 Using information from the completed table,
+calculate how much energy is required to make one
+mole of glucose from six moles of carbon dioxide
+and six moles of water.
+3 State how much energy would be released when one
+mole of glucose is respired.
+The breakdown of one glucose molecule results
+in the production of 38 molecules of ATP. The
+formation of ATP requires 30.6 kJ/mol. Calculate the
+percentage of energy released when one mole of
+glucose is respired.
+H
+0-H
+Figure 2
+Summary questions
+1 Explain why it is incorrect to say that energy is produced.
+(2 marks)
+2 Explain why ATP is not a good energy storage molecule but
+why organic molecules, like lipids or carbohydrates, are.
+(4 marks)
+3 Explain the interrelationship between respiration and
+photosynthesis in organisms.
+(5 marks)
+462
+17
+ENERGY FOR BIOLOGICAL PROCESSES
+Radiation from the Sun is used to fuel the metabolic reactions and
+processes necessary to keep organisms alive before, eventually, being
+transferred back to the atmosphere as heat (Figure 1).
+Photosynthesis
+Organisms make use of the energy in the bonds of organic molecules,
+such as glucose. These bonds are formed during photosynthesis in
+plants and other photosynthetic organisms (Topic 17.3, Photosynthesis).
+Light is trapped by chlorophyll molecules. This energy is used to drive
+the synthesis of glucose from carbon dioxide and water.
+Synoptic link
+You will learn more about respiration
+in Chapter 18, Respiration.
+Table 1 Comparison of respiration
+and photosynthesis
+Respiration
+All organisms need to respire. Respiration is the process by which
+organic molecules, such as glucose, are broken down into smaller
+inorganic molecules, like carbon dioxide and water. The energy
+stored within the bonds of the organic molecules is used to synthesise
+adenosine triphosphate (ATP).
+Two of the most important chemical reactions in the living world are
+photosynthesis and respiration. Photosynthesis is the reaction behind
+the production of most of the biomass on the earth. Respiration is the
+process by which organisms break down biomass to provide the ATP
+needed to drive the metabolic reactions that take place in cells.
+The two reactions are intimately linked (Table 1). The raw materials for
+one are the products of the other so they are interrelated throughout
+the living world. The overall reactions for the two are as follows:
+Photosynthesis
+Respiration
+6CO2 + 6H,0 CH206 +602 CH206 +60, 600, +61,0
+Respiration Photosynthesis
+Reactants
+glucose water and
+and oxygen carbon dioxide
+water and
+glucose and
+carbon
+oxygen
+dioxide
+Products
+Purpose
+release
+energy
+trap energy
+The importance of carbon-hydrogen bonds
+A general rule in biochemistry is that energy is used to break bonds,
+and energy is released when bonds are formed. The same quantity
+of energy is involved whether a particular bond is being broken or
+formed. This is called the bond energy. Whether an overall reaction
+is exothermic (releases energy) or endothermic (takes in energy)
+depends on the total number and strength of bonds that are broken or
+formed during the reaction.
+Study tip
+It is important to remember that
+energy is not produced, created,
+made, or lost. Say instead that
+energy is released or absorbed, or
+transferred as heat.
+The atoms in small inorganic molecules like water and carbon dioxide
+are joined by strong bonds that release a lot of energy when they form
+but require a lot of energy to break. Organic molecules like glucose
+and amino acids contain many more bonds than small inorganic
+molecules. These are weaker bonds compared with those in inorganic
+molecules and, therefore, release less energy when they form and
+require less energy to be broken.
+In respiration large organic molecules are broken down forming small
+inorganic molecules. The total energy required to break all the bonds in
+a complex organic molecule is less than the total energy released in the
+formation of all the bonds in the smaller inorganic products. The excess
+energy released by the formation of the bonds is used to synthesise ATP.
+461
+17
+ENERGY FOR BIOLOGICAL PROCESSES
+adaptations to tolerate drought conditions, are unlikely to survive
+these conditions.
+The law of limiting factors states that the rate of a physiological process
+will be limited by the factor which is in shortest supply.
+Investigating the factors that affect the rate of photosynthesis
+dissolved oxygen/%
+Data loggers are electronic devices that
+record data over time using sensors. Physical
+interface
+properties are recorded such as light
+oxygen sensor
+intensity, temperature, pressure, pH (which
+can be used as a measure of carbon dioxide
+concentration), and humidity. Readings
+light sensor
+can be displayed in graphical form or on a
+spreadsheet.
+plant
+They are usually equipped with a
+computer
+microprocessor (which inputs digital data)
+and internal memory for data storage. Data A Figure 2 The plant is supplied with carbon dioxide from sodium
+loggers can usually interface with a computer hydrogen carbonate in the solution containing the pond weed
+using specialised software.
+Readings are taken with high degrees of
+accuracy and can be taken over long periods
+of time. They can be set to take many
+readings in a short period of time or used
+when there is a risk involved, for example,
+extreme cold or heat.
+The factors affecting rate of photosynthesis
+can be investigated using a live pond weed,
+such as Elodea. The rate of photosynthesis
+20 40 60 80 100 120 140
+can be estimated by calculating the rate of
+time/mins
+oxygen produced, carbon dioxide used, or
+Figure 3 Shows an example of a graph produced using the apparatus
+increase in dry mass of a plant.
+described
+Apparatus could be set up as shown in Figure 2.
+Sodium hydrogen carbonate would be used to provide
+1 Use the graph to calculate the rate of oxygen
+carbon dioxide. The pond weed should be kept illuminated
+production after point A.
+before use. The apparatus should be left to equilibrate for
+2 Suggest what happened at point A.
+10 minutes or so before readings are taken. The oxygen
+3 Outline how you could use the apparatus to
+sensor may also need to be calibrated using the oxygen
+investigate the effects of changing light intensity,
+concentration of air (21%).
+temperature, and carbon dioxide concentration
+on the rate of photosynthesis.
+The software can be set to take readings at desired
+Elodea will release bubbles of oxygen when
+intervals for the required length of time.
+photosynthesising which can be counted
+and used as an estimate of the rate of
+photosynthesis.
+Evaluate the advantages and disadvantages
+of this method and of using data loggers in
+estimating the rate of photosynthesis.
+475

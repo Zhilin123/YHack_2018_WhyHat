@@ -1,0 +1,785 @@
+SPECTROSCOPY
+17
+I-
+Infrared spectrum of an alcohol
+The IR spectrum of an alcohol has an absorbance peak within the
+range 3200–3600 cm-' caused by the 0-H bond in an alcohol.
+There is also a peak between 1000-1300 cm-l caused by the C-0
+bond, though this peak is often difficult to assign because of the many
+other peaks in the fingerprint region. The IR spectrum of propan-2-ol,
+CH, CHOHCH,, is shown in Figure 5.
+H
+-
+C
+H
+H
+H
+100
+0-H
+alcohols
+transmittance (%)
+3000
+1000
+500
+OHTI
+4000
+2000
+1500
+wavenumber/cm-1
+A Figure 5 The infrared spectrum of propan-2-ol
+HH OHH
+Infrared spectrum of an aldehyde or ketone
+The IR spectrum of an aldehyde or ketone has a key absorbance peak
+within the range 1630–1820 cm-l caused by the C=O bond. This peak
+typically absorbs close to 1700 cm-!. The IR spectrum of pentan-3-one
+is shown in Figure 6.
+—
+C
+—
+C
+I
+H
+H
+H
+H
+100T
+transmittance (%)
+4000
+3000
+2000
+1500
+wavenumber/cm-1
+1000
+500
+A Figure 6 The infrared spectrum of pentan-3-one showing the key absorption peak
+for the C=0 group in red between 1630 and 1820 cm-1
+259
+17.2 Infrared spectroscopy
+H
+H
+H
+-
+C-
+CC
+H
+H
+H
+0-
+H
+Infrared spectrum of a carboxylic acid
+The IR spectrum of carboxylic acid has a key absorbance peak within
+the range 1630-1820 cm-l caused by the CEO bond, and a broad peak
+at 2500-3330 cm-l caused by the 0-H group in the carboxylic acid.
+As with aldehydes and ketones, the CEO peak typically absorbs close
+to 1700 cm-!. There is also a peak at 1000-1300 cm-l that represents
+the C-0 bond. The C-0 peak is not always reliable, as it is in the
+fingerprint region. The IR spectrum of butanoic acid is shown in
+Figure 7.
+100
+C=0
+0 - Hin
+carboxylic
+acids
+transmittance %
+OH
+4000
+3000
+1000
+500
+2000
+1500
+wavenumber/cm-1
+A Figure 7 The infrared spectrum of butanoic acid, showing the key absorption peak for the C=0 group
+between 1630 and 1820 cm in red and the peak for the 0-H group in a carboxylic acid between 2500 and
+3300 cm+ in green
+A C=O peak at around 1700 cm-' together with a very broad
+0-H absorption within the range 2500–3000 cm- indicates
+for the presence of a carboxylic acid in an organic molecule.
+Applications of infrared spectroscopy
+Many pollutants can be identified by their IR spectral fingerprints.
+Remote sensors analyse the IR spectra of vehicle emissions to detect
+and measure carbon monoxide, carbon dioxide, and hydrocarbons in
+busy town centres or by motorways to monitor localised pollution.
+A Figure 8 Infrared spectroscopy is
+also used in roadside breathalysers to
+detect ethanol
+IR-based breathalysers pass a beam of IR radiation through the
+captured breath in the sample chamber and detect the IR absorbance
+of the compounds in the breath. The characteristic bonds present in
+ethanol are detected. The more IR radiation absorbed, the higher the
+reading, and the more ethanol in the breath.
+Putting it all together
+In this chapter, you have found out how organic chemists make use
+of infrared spectroscopy and mass spectrometry for obtaining different
+information about an organic compound.
+In practice, organic chemists interpret and information from a variety
+of sources when determining the structure of an organic molecule.
+260
+SPECTROSCOPY
+17
+Drug testing in sport
+During the London Olympics, a team of 150 scientists analysed more
+than 6000 samples in an attempt to ensure that the games were not tainted
+by disqualifications due to the use of prohibited drugs. The London anti-doping
+laboratory operated by GlaxoSmithKline and King's College London was
+operational for 24 hours a day throughout both the Olympics and Paralympics.
+Every medal winner was automatically tested, and many random tests
+were carried out both in Olympic venues and within the accommodation in
+the Olympic Village. The state-of-the-art laboratories employed a number of
+analytical techniques including mass spectrometry to test urine samples. This
+technique, along with many others, is used to ensure that every athlete is 'clean'.
+In the Athens Olympics of 2004, twenty-four doping violations were uncovered.
+Figure 5 Paralympic sprinters,
+London 2012: a place on the podium
+would mean a compulsory drugs test
+after the race
+OH H
+Clenbuterol is believed to increase the development of muscle. It is
+considered a performance-enhancing drug and is banned in athletic
+competitions. Athletes who test positive for clenbuterol often claim that
+they must have eaten contaminated meat, as clenbuterol has been used to
+increase yields in livestock production. However, clenbuterol is banned for
+use in cattle in both the USA and much of Europe.
+HN
+What is the m/z value of the molecular ion, M+, of clenbuterol?
+clenbuterol
+Figure 6 Clenbuterol is considered
+a performance-enhancing drug and is
+banned in most athletic competitions
+Summary questions
+1 Write equations to show how the following molecules are converted into their molecular ions, and predict
+the m/z value for their molecular ions.
+a nonane
+(2 marks)
+b butan-1-ol
+(2 marks)
+2 Explain why there sometimes a peak in the spectrum after the molecular ion peak.
+(2 marks)
+3 Use the spectra provided to identify the molecular ion peak and hence the molecular mass of
+compound A and compound B.
+compound A
+compound B
+(2 marks)
+Relative intensity
+Relative intensity
+TITUTE
+100
+10 15 20 25 30 35 40 45 50 55 60 65 70 75 10 20 30 40 50 6070 80 90
+m/Z
+4 Identify the fragments of m/z = 29 and m/z = 31 formed from the molecular ion of butan-1-ol.
+(2 marks)
+5 The mass spectrum of the ketone, hexan-2-one has a large fragment ion at m/z = 43.
+a Suggest two possible structures for this fragment ion.
+b Write an equation for the formation of each structure from the molecular ion.
+(2 marks)
+(4 marks)
+255
+SPECTROSCOPY
+17
+Synoptic link
+See Topic 3.2 Determination
+of formulae for calculations of
+empirical and molecular formulae
+A typical sequence for identification would include all of the following.
+• Elemental analysis - use of percentage composition data to
+determine the empirical formula
+Mass spectrometry - use of the molecular ion peak from a mass
+spectrum to determine the molecular mass; use of fragment ions to
+identify sections of a molecule.
+Infrared spectroscopy - use of absorption peaks from an
+infrared spectrum to identify bonds and functional groups present
+in the molecule.
+Once you have both the empirical formula and the molecular mass
+of a compound, you can determine the molecular formula of your
+unknown compound. By then using evidence from the infrared
+spectrum, it may be possible to identify an unknown compound.
+Study tip
+You may be provided with
+percentage compositions
+by mass, mass spectra, and
+infrared spectra. You might then
+have to combine evidence from
+these sources of information to
+determine an unknown structure.
+You will find out more about combining different techniques in the
+A level course.
+Summary questions
+1 Name two types of vibration caused by infrared radiation in molecules.
+(2 marks)
+2 State the approximate wavenumbers for the infrared absorption peaks for the functional groups -OH
+(alcohols),-C=0 (aldehydes and ketones), and -COOH (carboxylic acids) in the following molecules:
+a propan-2-ol
+b octanoic acid
+c 2-hydroxybutanal
+d 2-hydroxypropanoic acid
+(1 mark)
+(1 mark)
+(1 mark)
+(1 mark)
+3 Identify the bonds responsible for the labelled absorptions in the infrared spectra below.
+(9 marks)
+(a) 100
+0
+transmittance (%)
+transmittance (%)
+4000
+3000
+2000 1500
+wavenumber/cm-1
+1000
+500
+4000
+3000
+2000 1500
+wavenumber/cm-1
+1000
+500
+transmittance (%)
+transmittance (%) e
+0 tim
+4000
+3000
+1000
+500
+4000
+3000
+1000
+500
+2000 1500
+wavenumber/cm-1
+2000 1500
+wavenumber/cm-1
+261
+Chapter 17 Practice questions
+Practice questions
+1 Compound G is a branched-chain organic
+compound that does not have E and Z isomers.
+Elemental analysis of compound G gave the
+following percentage composition by mass:
+C, 55.8%; H, 7.0%; 0, 37.2%.
+The mass spectrum and infrared spectrum of
+compound G are shown below.
+transmittance (%)
+UTIITTITUTIITTTTTTT
+relative intensity
+3
+4000 3000 2000 1500 1000 500
+wavenumber/cm-1
+The analysis produces several possible organic
+structures.
+Suggest, with reasons, three possible
+structures for M.
+(6 marks)
+OCR F322 June 2013 Q6(d) adapted
+Compound X is a saturated compound that
+contains carbon, hydrogen and oxygen only.
+A scientist analyses a 1.00 g sample of
+compound X and finds it contains 0.133 g of
+hydrogen and 0.600 g of carbon.
+The scientist also analyses compound X using
+mass spectrometry and infrared spectroscopy.
+Mass spectrum of X
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+m/z
+transmittance (%)
+4000
+3000
+1000
+500
+2000 1500
+wavenumber/cm-1
+relative abundance (%)
+ot
+10
+20
+30 40 50
+IR spectrum of X
+60
+70
+Calculate the empirical and molecular
+formulae for compound G.
+Write the formulae for the particles
+responsible for peak X and peak Y in the
+mass spectrum.
+Draw the structure of compound G.
+Explain fully how you arrive at a
+structure for compound G using all
+the evidence provided.
+(7 marks)
+OCR F322 June 2014 Q8 (b)
+The solvent, M, is an organic compound used
+in paints. The solvent M was analysed.
+M has a relative molecular mass of 72.0.
+The percentage composition by mass of M is
+C, 66.7%; H, 11.1%; 0,22.2%.
+The infrared spectrum of M is shown below.
+transmittance(%)
+2
+4000 3500 3000 2500 2000 1500 1000 500
+wavenumber/cm
+Using all the information, show the structures
+of compound X.
+In your answer you should link the evidence
+with your explanation.
+(7 marks)
+OCR F322 Jan 2013 Q8
+262
+17.2 Infrared spectroscopy
+Specification reference: 4.2.4
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+absorption of infrared
+radiation by atmospheric
+gases
+infrared spectroscopy
+→ combining spectroscopic
+techniques.
+Infrared radiation and covalent bonds
+Atoms in molecules are joined by covalent bonds. These bonds possess
+energy and vibrate naturally about a central point, the amount of
+vibration increasing with increasing temperature. The atoms in
+molecules are therefore in constant motion. The bonds can absorb
+infrared (IR) radiation, which makes them bend or stretch more.
+One type of vibration, a stretch, is a rhythmic movement along the
+line between the atoms so that the distance between the two atomic
+centres increases and decreases (Figure 1). If you take A level physics,
+the vibration is similar to the simple harmonic motion of a spring.
+The second type of vibration, a bend, results in a change in bond
+angle, as shown in Figure 2.
+The amount that a bond stretches or bends depends on:
+the mass of the atoms in the bond - heavier atoms vibrate more
+slowly than lighter atoms
+• the strength of the bond - stronger bonds vibrate faster than
+weaker bonds.
+Figure 1 A bond in a molecule can
+stretch so that the distance between
+the atomic centres changes
+Any particular bond can only absorb radiation that has the same
+frequency as the natural frequency of the bond. The frequency
+values are very large, so chemists use a more convenient scale called
+wavenumber, which is proportional to frequency. The vibrations of
+most bonds are observed in the IR wavenumber range of 200 cm-1
+to 4000 cm-.
+bond angle decreases
+Infrared radiation and atmospheric gases
+Much of the Sun's visible and IR radiation is relatively unaffected by
+atmospheric gases. This radiation passes through the atmosphere
+to the Earth's surface, where most of it is absorbed. However, some
+is re-emitted from the Earth's surface in the form of longer-wavelength
+IR radiation.
+bond angle increases
+A Figure 2 Bonds in a molecule can
+bend, causing the bond angle to change
+Water vapour, carbon dioxide, and methane ('greenhouse gases')
+absorb this longer-wavelength IR radiation, because it has the same
+frequency as the natural frequency of their bonds. Eventually, the
+vibrating bonds in these molecules re-emit this energy as radiation
+that increases the temperature of the atmosphere close to the Earth's
+surface, leading to global warming.
+256
+17.2 Infrared spectroscopy
+The infrared spectra of common functional groups
+It is difficult to predict with certainty the identity of a functional group
+from a peak in the fingerprint region but, outside that region, peaks are
+clearer. Chemists have studied the IR spectra of thousands of organic
+molecules and have developed tables of data to help identify a particular
+functional group in an unknown molecule. The OCR data table for IR
+spectroscopy is shown in Table 1.
+Table 1 Characteristic IR absorptions for bonds within functional groups
+Bond
+Location
+Wavenumber/cm-1
+alkanes, alkyl chains
+750-1100
+haloalkanes (X = Cl, Br, I)
+500-800
+C-F
+fluoroalkanes
+1000-1350
+alcohols, esters, carboxylic acids
+1000-1300
+alkenes
+1620-1680
+aldehydes, ketones, carboxylic acids, esters, amides,
+acyl chlorides, and acid anhydrides
+1630-1820
+aromatic
+arenes
+Several peaks in range
+1450-1650 (variable)
+CEN
+nitriles
+2220-2260
+alkyl groups, alkenes, arenes
+2850-3100
+0—H
+carboxylic acids
+2500-3300 (broad)
+N-H
+amines, amides
+3300-3500
+04H
+alcohols, phenols
+3200-3600
+You should be able to identify the following functional groups in
+compounds from an IR spectrum.
+• 0-H group in alcohols
+C=O group in aldehydes, ketones, and carboxylic acids
+• COOH group in carboxylic acids.
+Study tip
+When interpreting IR spectra it is
+important to identify both the
+bond and the functional group to
+which it belongs. For example, the
+0-H bond in an alcohol.
+You should also be aware that all organic compounds produce a
+characteristic peak between 2850 and 3100 cm-l from the presence of
+C-H bonds. This is often confused with the 0-H peak in alcohols, so
+you will need to take care.
+258
+SPECTROSCOPY
+17
+Water vapour, carbon dioxide, and methane are the three most
+abundant greenhouse gases in the atmosphere. You have probably
+heard about the need to reduce emissions of carbon dioxide. Today
+many incentives are available to householders for reducing pollution
+and for converting to renewable sources of energy that do not emit
+carbon dioxide.
+Infrared spectroscopy and organic molecules
+Organic chemists use infrared spectroscopy as a means of identifying
+the functional groups present in organic molecules.
+1
+2
+Figure 3 The increasingly familiar
+sight of solar photovoltaic panels on a
+house. The cells in a solar panel contain
+a semi-conducting material that converts
+sunlight directly into electricity. Solar
+power is a renewable, inexhaustible
+source of energy and does not contribute
+to global warming
+3
+The sample under investigation is placed inside an IR spectrometer.
+A beam of IR radiation in the range 200-4000 cm-' is passed
+through the sample.
+The molecule absorbs some of the IR frequencies, and the
+emerging beam of radiation is analysed to identify the frequencies
+that have been absorbed by the sample.
+The IR spectrometer is usually connected to a computer that plots
+a graph of transmittance against wavenumber.
+A typical IR spectrum is shown in Figure 4. The dips in the graph are
+still called 'peaks'. Each peak is observed at a wavenumber that can be
+related to a particular bond in the molecule.
+100T
+fingerprint region
+00-
+fingerprint region
+transmittance (%)
+peaks
+transmittance (%)
+4000
+3000
+1000
+2000
+1500
+wavenumber/cm-1
+A Figure 4 An infrared spectrum of a molecule with a number of peaks that can be
+interpreted to identify the functional groups in the molecule
+1500
+500
+1000
+wavenumber/cm-1
+HO
+Below 1500 cm-1, there are a number of peaks in what is known as
+the fingerprint region of the spectrum. The fingerprint contains
+unique peaks which can be used to identify the particular molecule
+under investigation, either using computer software or by physically
+comparing the spectrum to booklets of published spectra.
+Figure 5 shows the fingerprint region in the IR spectrum of the
+naturally occurring compound, vanillin, responsible for vanilla
+flavouring.
+vanillin
+Figure 5 Fingerprint region for vanillin
+257
+17
+SPECTROSCOPY
+4
+An analytical chemist was provided with
+a compound J which has an unbranched
+carbon skeleton. After analysis, the chemist
+obtained the following results.
+Type of analysis
+Evidence
+infrared
+spectroscopy
+broad absorption at
+3350 cm-1
+percentage
+composition by mass
+C, 70.59%; H, 13.72%; 0,
+15.69%
+Name or draw the structures of the
+alcohol E and the organic product F.
+Write an equation for the reaction of
+alcohol E with acidified potassium
+dichromate(VI).
+Use [O] to represent the oxidising agent,
+acidified potassium dichromate(VI).
+In your answer, you should make clear how each
+structure fits with the information given above.
+(7 marks)
+OCR F322 Jan 10 Q6(9)
+Infrared spectroscopy and mass spectrometry
+are used in the search for organic molecules
+in outer space. Compound A has been
+analysed by infrared spectroscopy.
+mass spectrometry
+molecular ion peak at
+m/z= 102.0
+5
+Use this information to suggest all the
+possible structures for the unbranched
+compound J. In your answer you should
+make clear how your explanation is linked
+to the evidence.
+(8 marks)
+OCR F322 June 2009 Q7(b)
+Alcohol E is one of the following alcohols.
+Butan-2-ol, ethane-1,2-diol,
+2-methylpentan-3-ol, 2-methylpentan-3-ol,
+propan-1-ol, propan-2-ol
+A student oxidises alcohol E by heating
+under reflux with excess acidified potassium
+dichromate(VI). An organic product F is
+isolated. The mass spectrum of the alcohol E
+and the IR spectrum of F are shown below.
+transmittance (%)
+4000 3500 3000 2500 2000 1500 1000 500
+wavenumber/cm-1
+relative abundance (%)
+relative intensity
+ot
+10 15 20 25
+30 35 40 45 50 55 60
+m/z
+a
+10
+15 20 25 30 35 40 45 50 55 60
+m/z
+1007
+b
+transmittance %)
+A research chemist concludes that
+compound A is a hydrocarbon. What
+evidence is there to support this
+conclusion?
+(2 marks)
+How does the mass spectrum confirm
+that compound A has a molecular
+formula of C,H10?
+(1 mark)
+Identify the fragment ions that give rise
+to the peaks m/z 15, m/z 29 and m/z 43
+in the mass spectrum. (3 marks)
+Identify molecule A. Explain your
+answer
+(1 mark)
+OCR 1322 June 10 04 (b)
+4000
+3000
+2000 1500
+wavenumber/cm-1
+1000
+500
+d
+263
+17
+SPECTROSCOPY
+propan-1-ol has a molecular mass of 60, but a small proportion of
+the alcohol molecules will contain an atom of 13C and thus have a
+molecular mass of 61. This gives the small M+1 peak.
+Fragmentation
+In the mass spectrometer some molecular ions break down into
+smaller pieces known as fragments in a process called fragmentation.
+The other peaks in a mass spectrum are caused by fragment ions,
+formed from the breakdown of the molecular ion.
+The simplest fragmentation breaks a molecular ion into two species - a
+positively charged fragment ion and a radical. Any positive ions formed
+will be detected by the mass spectrometer, but the uncharged radicals are
+not detected. In the mass spectrum for propan-1-ol (Figure 2), the largest
+peak has an m/z value of 31. The equation below shows the possible
+identity of this fragment ion and its formation from the molecular ion.
+CH,CH,CH,OH+ + CH,OH+ + CH,CH
+molecular ion
+fragment ion
+radical
+m/z = 31
+You should be able to see how the molecular ion could break to form
+fragment ion and radical.
+Using fragmentation peaks to identify an organic molecule
+The mass spectrum of each compound is unique, as molecules will
+all fragment in slightly different ways depending on their structures.
+Mass spectra can therefore be used to help identify molecules. So even
+though two molecules may have the same molecular mass and the
+same molecular ion peak, the fragment ions found in the spectrum
+may be different.
+Figure 3 shows the different mass spectra of hexane and
+2-methylpentane - two isomers of C H 4. Both spectra have the
+molecular ion peak at 86, which is the molecular mass of both hexane
+and 2-methylpentane, but the fragmentation patterns are different.
+hexane
+CH3(CH2)2CH3
+2-methylpentane
+(CH3)2CH(CH2)2CH3
+relative intensity
+relative intensity
+10
+20
+30
+40
+60
+70
+80
+10 20 30 40 50 60 70 80
+m/z
+Figure 3 The mass spectra of hexane and 2-methylpentane
+50
+m/z
+In Figure 3, a number of peaks in the spectrum have m/z values lower
+than the molecular ion peak. These fragment peaks provide valuable
+information about the structure of the organic compound.
+253
+17.1 Mass spectrometry
+Table 1 shows some common fragment ions and their m/z values.
+Table 1 Some common fragment ions
+and their corresponding m/z values
+Fragment ion m/z
+The displayed formula and mass spectrum of ethanol is shown in
+Figure 4.
+CH
+15
+CH
+29
+ethanol
+H
+H
+43
+CH,
+CHAT
+57
+H-C
+C
+OH
+relative intensity
+HH
+40
+45
+10 15 20 25 30 35
+m/z
+A Figure 4 The mass spectrum of ethanol
+The main features of the spectrum are:
+molecular ion peak, M+ at m/z = 46
+small M+1 peak at m/z = 47
+a number of fragment ion peaks.
+You should be able to link fragments together to obtain an
+ethanol molecule:
+• peak at m/z= 15 for CH +
+• peak at m/z = 29 for CH,CH, (C,H,+)
+• peak at m/z = 31 for CH,OH+
+peak at m/z = 45 for
+It can also be useful to look at the differences between m/z for the
+molecular ion and fragments ion (Figure 4) although the peak for
+CH,+ at m/z = 15 is very small, there is a peak at m/z = 31, which is
+15 less than the value for M+.
+T
+Using the Mand M+1 peaks
+Number of carbon atoms =
+ZA X 100
+= 6.08
+The organic compound has six carbon atoms.
+You have already learnt why an M+1 peak appears in the
+mass spectrum of all organic compounds; however the
+M+1 peak can be used to identify the number of carbon
+atoms present in the molecules of an organic compound.
+height of M+ 1 peak
+Number of carbon atoms =-
+height of M peak
+A spectrum of an unknown compound has an M peak of
+height 74 mm and an M +1 peak of height 4.5 mm. How
+many carbon atoms are there in the organic compound?
+Calculate the number of carbon atoms in the
+compound which has a M peak of height 64 mm and a
+M+1 peak at 5.8 mm.
+— X 100
+254
+SPECTROSCOPY
+17.1 Mass spectrometry
+Specification reference: 4.2.4
+Mass spectra can be used to identify the molecular mass of an organic
+compound and to gain further information about its structure.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► mass spectra for
+identification
+→ fragmentation peaks.
+mass
+Molecular ions and fragmentions
+When an organic compound is placed in the mass spectrometer, it
+loses an electron and forms a positive ion, the molecular ion. The
+mass spectrometer detects the mass-to-charge ratio (m/z) of the
+molecular ion which gives the molecular mass of the compound.
+For propan-1-ol, the following equation shows the formation of the
+molecular ion.
+Synoptic link
+You have already met mass
+spectrometry in Topic 2.2,
+Relative mass.
+CH,CH,CH,OH → CH,CH,CH,OH+ + e
+molecular ion
+m/z = 60
+The molecular ion M+ is the positive ion formed when a
+molecule loses an electron.
+The mass spectrum of propan-1-ol is shown in Figure 2.
+100
+propan-1-ol
+CH3CH2CH2OH
+M+ peak at 60 indicates the
+molecular mass of the
+molecular ion and hence the
+original molecule.
+relative intensity
+Figure 1 A researcher examines the
+mass spectrum of a protein sample
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55 60
+m/z
+A Figure 2 The mass spectrum of propan-1-ol
+Molecular mass from a mass spectrum
+To find the molecular mass, the molecular ion peak (M+ peak) has
+to be located. The molecular ion peak is the clear peak at the highest
+m/z value on the right-hand side of the mass spectrum. In Figure 2,
+the molecular ion peak is located at m/z = 60. This shows that the
+molecular mass of propan-1-ol is 60.
+You will usually also see a very small peak one unit after the M+ peak.
+This is referred to as the M+1 peak. The M+1 peak exists because
+1.1% of carbon is present as the carbon-13 isotope. For example,
+252

@@ -1,0 +1,1156 @@
+Optics
+5.3
+Investigation
+WP
+Investigating refractive index
+Using the equation for refractive index with experimental
+measurements will allow us to measure the refractive index of a
+material, as long as we know n for the other material. We usually do
+these experiments with air as the known material. As the speed of
+light in air is virtually unchanged in comparison to a vacuum, we
+take the refractive index of air to be nair = 1.00.
+As the frequency stays constant throughout refraction, and the
+speed of light in a vacuum must be constant, if we keep the same
+angle of incidence then the sine of the angle of refraction will be
+proportional to the wavelength. Smaller wavelengths (violet) will
+be closer to the normal in the glass (compare this with fig E).
+Light bends towards
+the normal as it
+enters the glass.
+Light bends away
+from the normal as
+it leaves the glass.
+white light
+glass prism
+red
+orange
+yellow
+green
+blue
+indigo
+CE
+violet
+fig E Refraction affects different wavelengths (colours) differently.
+On emergence from the glass prism, take care to continue with a
+as the angle in air:
+fig D Measuring angles of incidence and refraction in order to find the
+refractive index of a material.
+sind, - csina,
+sind,
+FA
+Using a setup like that shown in fig D, we can take several different
+measurements of the angle of incidence (,) and the corresponding
+angle of refraction (02). The block used should be an exact semicircle,
+and we aim the ray to meet the glass at exactly the midpoint of the
+flat side. This means that the ray passing through the block will be
+travelling along a radius of the semicircle, and will leave the glass
+exactly along the normal to the circular edge. So the only change in
+direction occurs at the flat side of the block. Comparing the equation
+we have for refractive index with the equation for a straight line:
+nisino, = n2siniz
+n = 1.00
+sino, = n, sind
+sind
+The sine of the angle of refraction (d, on emergence) will now
+be inversely proportional to the wavelength. Smaller wavelengths
+(violet) will be further from the normal in the air (compare this
+with fig E). As the angles of incidence on emergence are not all
+the same, due to the dispersion when they first entered the glass,
+the colour spreading effect is amplified, creating the
+familiar rainbow, or spectrum, of colours.
+(WP
+Questions
+...
+sind, = n2
+What happens to each of the following when a ray of light travels
+from air into clear plastic?
+(a) speed (b) wavelength (c) frequency
+2 Why does the head of the giraffe in fig B appear to be disconnected
+from the body?
+y = mx + c
+A plot of sine, on the y-axis against sine, on the x-axis should
+produce a straight best-fit line that passes through the origin. The
+gradient, m, of this line will be equal to the reciprocal of the
+refractive index for glass.
+When light travels from air into glass (n class = 1.50) with an incident
+angle of 25®, what is the angle of refraction inside the glass?
+Dispersion
+One of the most well known phenomena in physics is the splitting
+of white light into a rainbow of colours by a prism, as shown in
+fig E.
+n sind, = n2sine
+Kev definitions
+Refraction is a change in wave speed when the wave moves
+from one medium to another. There is a corresponding change in
+wave direction, governed by Snell's law.
+Refractive index, n, can be defined in several ways, but it is
+fundamentally a result of the change in wave speed:
+refractive indeve speed of light in vacuum
+speed of light in the medium
+na VFX
+n=-
+If the ray enters a prism from air (n = 1.00) our equations
+become:
+csino
+sino, =-
+fasino,
+Snell's law:
+nsing, = nesina
+The values of n, and n are the refractive indices in each medium,
+and the values of 0, and , are the angles that the ray makes to the
+normal to the interface between the two media, at the point the ray
+meets that interface.
+sino2 =c
+173
+53
+Image formation
+By the end of this section, you should be able to...
+trace the paths of rays through lenses to form images
+understand the terms real image and virtual image
+use the lens formula to calculate image magnification
+What is an image?
+When rays of light coming from one site on an object are focused to meet at the same point, there
+will be an image of that site on the object at that point. In fig A, the rays travelling from the boy's feet
+are refracted by the lens and meet again at a point on the screen. The image of his feet will be at this
+point. Similarly, an image of his head is also produced by the lens. This process will happen for rays
+coming from all parts of an object, so a complete image of the object appears. The rays shown in
+fig A follow these rules:
+• a ray hitting the centre of the lens continues in a straight line
+• a ray parallel to the principal axis will pass through the focal point on the other side
+• a ray passing through the focus on its way to the lens will emerge parallel to the principal axis.
+convex
+lens
+piece of paper
+object
+real, inverted
+image
+fig A When light rays from an object meet again, an image will be formed.
+As the light rays forming the object in fig A actually meet at each point on the screen, the image
+appears on the screen. This is known as a real image, and is common with convex lenses. Diverging
+lenses always spread the rays apart, so that they will not meet at a point and so cannot illuminate
+a screen with a real image. Fig B shows a virtual image being produced, using variations on our
+standard image forming rays.
+diverging
+Learning tip
+Only two rays are needed to
+find the position of an image.
+The third can be used for
+confirmation
+lens
+object
+-
+-
+-
+-
+-
+-
+-
+-
+image
+fig B Formation of a virtual image by a concave lens.
+The orientation of the image is one of its properties. In fig A, the image is upside-down compared to
+the original object. We say it is inverted. However, in fig B, the image is upright.
+179
+5.3
+Image calculations
+There is an equation that links the positions of image and object
+with the focal length of a thin lens. This is the lens formula:
+For each w and v value, we need to calculate the reciprocal. This will
+then allow us to draw a graph of on the y-axis against on the
+X-axis, which should produce a straight best-fit line, as shown in fig E.
+1/14
+1/16
+object distance (m) image distance (m) focal length (m)
+1 1 1
+u v
+This equation uses a convention known as 'real is positive'. As
+shown in fig C, all the measurements made would be positive. If a
+diverging lens is used, it would have a negative focal length value.
+If a virtual image were formed, on the same side of the lens as a
+real object, the value of v would be negative.
+1/4
+-
+2.
+-
+-
+-
+www
+-
+fig E Lens formula experimental results graph.
+-
+-
+-
+-
+-
+-
+object
+By comparing the lens formula with that for a straight-line graph, we
+can find the focal length of the lens by reading the y-intercept from
+the graph.
+1 1 1
+ūt
+-
+himage
+-
+1
+1
+-
+1
+...
+-
+-
+-
+-
+-
+-
+-
+*
+vfu
+1 1 1
+-
+.
+-
+-
+-
+-
++
+-
+-
+fig C Typical lens formula measurements.
+and y = mx + C
+The y-intercept from the graph will be the value of the reciprocal of
+the focal length,
+Learning tip
+The SI units used in the lens formula should be metres.
+However, as long as all three variables have the same units, the
+equation will be consistent and correct. For example, if you measure
+u and vin centimetres, these values can be used in the equation to
+find the focal length, and the answer will also be in centimetres.
+Investigation
+Investigating the lens formula
+Using a setup like that shown in fig D, we can alter the position of
+the object and measure u. For each object distance, we move the
+screen back and forth until the clearest possible image is formed on
+the screen. We then measure the image distance, v.
+Magnification
+When an image is formed, we can compare its size to that of the
+original object. For example, an image of a tree formed on the
+retina of the eye must be smaller than the real tree, or it would not
+fit onto the retina. The magnification is a numerical value given
+to measure this size comparison. If an image is smaller than the
+original object, the image is said to be diminished.
+image size
+magnification =
+object size
+mh
+WP)
+Note that units have not been included in this equation.
+Magnification is a ratio: how many times bigger the image
+is than the object. As long as the units on top and bottom
+of the fraction are the same, it will be correct. Here, we
+have used the height as the size
+measurement to compare. Any size measurement will be valid, as
+long as it is the same dimension measurement on both image and
+object.
+Careful examination of the similar triangles in fig C will show you
+that the magnification can also be calculated from:
+m=
+fig D Lens formula experiment.
+180
+5.3
+Total internal reflection
+By the end of this section, you should be able to...
+understand that waves can be reflected and transmitted at an
+interface between media
+normal
+<o
+understand the term critical angle
+medium 1
+medium 2
+predict whether total internal reflection will occur at an
+interface
+i is less than critical angle
+normal
+0,= 0
+Refraction revisited
+When waves pass from one medium into another, some wave
+energy will pass through and some will be reflected. The
+proportions will depend on the amount of refraction and the angle
+of incidence.
+-
+-
+medium 1
+medium 2
+-
+i equals critical angle
+normal
+1
+10.>
+medium 1
+medium 2
+angle of incidence greater
+than critical angle
+fig B Moving from refraction to total internal reflection.
+Critical angle calculations
+From Snell's law, we could find the critical angle for a material:
+n sind, = nysine,
+If we take medium 1 to be the optically more dense material,
+then 8, must be 90° when the light is at the critical angle, .
+in medium 1.
+n sind, = n sine,
+nsin. = n sin 90°
+sin 90º = 1
+n sind. = n2
+fig A Partial transmission and partial reflection of light at a media interface.
+In the diagrams of fig B we can see a ray of light trying to leave
+an optically more dense medium. In these examples, the partial
+reflection is not drawn. The first diagram shows simple refraction,
+for which we could use Snell's law to make some calculations.
+The angle in the less dense medium is greater than the incident
+angle inside the more dense medium. In the second diagram, the
+incident angle has been increased. From Snell's law, we find that
+at this critical angle, the ray would emerge in the less dense
+medium at an angle of 90º – it would emerge right along the
+interface. If the angle within the more dense medium is increased
+further, the emergent angle should increase also, but this would
+then be greater than 90°, which means the ray emerges within
+the more dense medium. This is not refraction, as that requires a
+change in medium. This means that Snell's law cannot apply. In
+this case, what does happen is that all the wave energy is reflected
+inside the more dense medium, and the angles follow the law of
+reflection. This is total internal reflection (TIR).
+sin
+= m2
+If the situation involves a light ray emerging into air, then the
+equation becomes:
+sind = ni
+If we know the critical angle, then that will give us the refractive
+index for the material:
+sin.
+174
+5.3
+Polarisation
+polarisers
+By the end of this section, you should be able to...
+understand what is meant by plane polarisation
+describe how polarisation can be used with models to
+investigate stresses in structures
+no
+vibrations
+vertical
+vibrations
+vibrations in
+all directions
+fig B Polaroid filters transmit light waves if their plane of polarisation matches
+with the orientation of the filter.
+Plane polarisation
+Transverse waves have oscillations at right angles to the direction
+of motion. In many cases, the plane of these oscillations might
+be in one fixed orientation. Fig A shows the electric (red) and
+magnetic (blue) fields in an electromagnetic wave. In this example
+of, say, a light wave, the electric fields only oscillate in the vertical
+plane. The wave is said to be plane polarised or, more precisely,
+vertically plane polarised. For electromagnetic waves, the plane of
+the electric field's oscillations is the one that defines its plane
+of polarisation
+Fig B illustrates the effects of Polaroid filters on light from a bulb.
+It starts unpolarised, with vibrations in all directions. The first
+filter only permits vertical Vibrations, so they are selected, and the
+light is transmitted vertically plane polarised. The second filter
+is oriented in the same vertical direction, and the light will pass
+through this without change. The third Polaroid filter is oriented
+horizontally. This blocks vertically polarised light, and so no waves
+are transmitted beyond it. The second and third filters are referred
+to as 'crossed Polaroids', as their orientations are at right angles
+and, together, they will always block all light.
+Investigation
+Investigating structural stresses
+We can use crossed Polaroids to observe stress concentrations in
+clear plastic samples.
+fig A A polarised electromagnetic wave.
+Often, many waves travel together, with oscillations in a variety of
+planes. In this case, light from this source is said to be unpolarised.
+This is how light emerges from a light bulb, a candle and the Sun.
+Learning tip
+Polarisation is only possible with transverse waves. If a wave is
+polarised, it must be a transverse wave.
+Polaroid Amalyserl. A20-050
+fig C Stress analysis using crossed Polaroids.
+Polarising filters
+Unpolarised radiation can be passed through a filter that will
+transmit only those waves that are polarised in a particular
+plane. Waves on a string could be polarised simply by passing
+the string through a card with a slit in it, which will then only
+allow oscillations to pass through if they are in line with the slit.
+For light waves, the polariser is a piece of plastic impregnated
+with chemicals with long chain molecules, called a Polaroid sheet.
+The Polaroid filter will only allow light waves to pass if their
+electric field oscillations are orientated in one direction.
+The first Polaroid produces polarised light, which passes into the
+plastic sample. Stressed areas have their molecules in slightly
+different orientations, and this will affect the passage of the light
+through the plastic. This effect varies with the colour of the light.
+When the second Polaroid acts on the emerging light, some of the
+light will have travelled slightly more slowly through the plastic and
+will destructively interfere with other light waves of the same colour.
+Thus, depending on the degree of stress in the plastic, the colours
+that emerge will vary. Differently stressed areas appear as different
+182
+5.
+33
+Lenses
+By the end of this section, you should be able to...
+understand that lenses focus rays of light and be able to trace the paths of rays through lenses
+explain the terms focal length and power of a lens
+use the equations for the power of a lens, and combinations of twin lenses
+Refraction in a lens
+A lens is an object made of clear material that has curved faces so that it changes the direction of
+light rays. The two most common types of lenses have convex or concave profiles, as shown in fig A.
+The shape of the lens causes a particular effect on the rays of light. Convex lenses cause the rays
+to converge. Concave lenses cause the rays to diverge.
+focus
+focus
+concave lens
+convex lens
+fig A Aconverging (convex) lens and a diverging (concave) lens. Very carefully trace your finger along the top ray shown
+on each lens. Imagine the normal line, and think where the refraction will take the ray at entry and exit from the
+glass. The shapes of the lens profiles cause their effects.
+Rays of light from a distant object will arrive at the lens parallel to each other. A converging lens
+will bring these rays together at a point, called the focus, or focal point. A diverging lens will
+spread these rays apart so they will not meet at a point. By looking at where the rays emerge, we can
+imagine where they would have come from if they had always been travelling apart. Back tracing
+the rays shows that they appear to have all come from a focal point. In this case, it is referred to as a
+virtual focus. In each case, the distance from the lens to the focal point is called the focal length.
+The rays of light The rays of light appear
+converge at the
+to come from the focus.
+focus.
+parallel rays
+of light
+parallel rays
+of light
+converging
+lens
+focal length
+focal length
+-
+-
+-
+-
+-
+-
+-
+-
+diverging
+lens
+fig B Converging lenses focus light at the focal point. Diverging lenses have a virtual focus.
+176
+Optics
+5.3
+Investigation
+WP
+Investigating total internal reflection
+Using a setup like that shown in fig C, we can steadily increase the
+angle of incidence (0) within the more dense glass and observe the
+emerging angle of refraction (0) in the air. As the angle inside the
+glass increases, we shall see a partial reflection of the ray within the
+glass growing stronger in intensity, until the critical angle is reached
+inside the glass.
+but on a larger scale can be used to guide sunlight to the interior
+of large buildings. Alternatively, optical fibres can be used to carry
+information as light pulses (as in fibre broadband) or as actual
+images, (in uses such as a medical endoscope - see fig E).
+reflected light
+yeyepiece lens
+from object
+objective lens
+protective sheath
+optical fibres
+light from source
+light from light source
+image of
+WP
+object
+fig E A medical endoscope is used to view the body's internal organs without
+cutting the patient open. Light is sent in along one optic fibre, and the
+reflection is carried away along the other for viewing by medical staff.
+Questions
+| What is meant by the term critical angle?
+Explain how the reflections shown in fig D are possible.
+fig C Measuring angles of incidence and refraction in order to find the
+critical angle and refractive index for glass.
+The block used should be an exact semicircle, and we aim the ray to
+travel through the glass and hit exactly the midpoint of the flat side.
+This means that the ray passing through the glass will be travelling
+along a radius of the semicircle and will have entered the glass
+exactly along the normal to the circular edge. So the only change in
+direction occurs at the flat side of the block. By carefully recording
+the critical angle, when the light emerges, we can calculate the
+refractive index for the glass.
+3 Water has a refractive index of 1.33. What is the critical angle for
+this water?
+Explain why fish can observe predator birds in any part of the sky by
+only viewing a cone above them, as shown in fig F.
+Miglass
+sind
+Applications of TIR
+Fig D shows the movement of light through 45° prisms. The
+left-hand example is commonly used in periscopes, and the
+right-hand diagram is the fundamental basis for reflective signs.
+wwwwwww
+fig F Fish can easily see all of the world above the water.
+V
+w wwww
+Wwww
+***
+Key definitions
+The critical angle is the largest angle of incidence that a ray in a
+more optically dense medium can have and still emerge into less
+dense medium. Beyond this angle, the ray will be totally internally
+reflected.
+Total internal reflection (TIR) requires two conditions to be met:
+• the ray is attempting to emerge from the more dense medium
+• the angle between the ray and the normal to the interface is
+greater than the critical angle.
+fig D Total internal reflection helps us direct light usefully.
+A more complex use for TIR is in fibre optics. A thin glass fibre
+can guide light along its length by the repeated TIR at the internal
+edges. This may just be used for decorative lighting,
+175
+Optics
+5.3
+Learning tip
+Image properties can be:
+• real or virtual
+• magnified or diminished (or the same size)
+• upright or inverted.
+Questions
+A converging lens has a focal length of 6.0 cm. An object of height 2.0 cm is placed 12.0 cm from the lens.
+On graph paper, draw a ray diagram of this situation to scale. Draw rays to determine the location of
+the image.
+Describe three properties of the image in fig B.
+3
+Looking at the triangles formed by the rays, object and image in fig C, explain why the magnification can
+be calculated from the ratio of the image distance and object distance.
+Explain why the x-intercept on fig E will also give us the value of
+5
+Use a ruler to take measurements from the picture in fig Fand calculate the magnification of
+the virtual image shown in the lens.
+(WP)
+fig F Magnification
+Key definitions
+A real image:
+• can be projected onto a screen
+• is on the other side of the lens from the object.
+A virtual image:
+• cannot be projected onto a screen
+• is on the same side of the lens as the object.
+Magnification is a numerical value given to measure the size comparison between image and
+original object:
+image size
+magnification = obiect size
+181
+Thinking Bigger
+5.3
+Let us start by considering the nature of the writing in the extract.
+1. The extract opposite is from a paper in a peer-reviewed scientific journal on the forensic
+lab investigations that can be done on glass.
+a. The paper quoted is a type of scientific paper known as a 'review paper', in which the
+author does not present new research, but summarises other scientists' primary research
+in order to present a large body of current knowledge. How does the way the paper is
+written tell you that this is a review paper?
+b. Is there any bias present in the report? Explain how you have decided on your
+answer to this.
+1850000000000000
+Command word
+If the word explain is
+used in a question, your
+answer should clearly
+describe the thing you
+are explaining. You'll need
+to use your reasoning
+and maybe examples to
+support your point.
+UN
+0800300587080001
+Now we will look at the physics in detail. Some of these questions will link to topics earlier in
+this book, so you may need to combine concepts from different areas of physics to work out the
+answers. Use the timeline at the bottom of the page to help you put this work in context with what
+you have already learned in your course.
+2. Explain why a crystal in oil will become invisible if the two have identical refractive
+indices.
+3. Why will a change in the temperature of oil change its refractive index?
+4. Why does a refractometer need a powerful microscope system as part of its set up?
+5. Glass from different spectacle lenses from the same manufacturer can often have
+identical refractive indices. Suggest another method by which two large (>1 cm2) pieces
+of glass from different lenses could be identified to match up with their original owners.
+Writing Scientifically
+As you read these
+articles identify
+everything that
+contributes to writing
+a scientific article. For
+instance, the vocabulary,
+sources, the way
+information is presented.
+Make sure your own
+answers are written
+scientifically
+Activity
+Resistivity can be affected by the atomic impurities in a material. Prepare a set of experimental
+instructions for use by a forensic lab technician to identify the resistivity of a sample of glass in order to
+compare a sample found on a suspect with a sample from a broken window. Explain what quantities
+should be measured, how to analyse the measurements to determine the resistivity, and what level of
+accuracy should be expected in the comparisons. Include instructions for the preparation of the sample,
+including cutting to the correct size and shape.
+100000000000
+Glass is an insulator,
+so this may need very
+high voltages to create
+tiny currents. You will
+need to consider what
+scales of measurement
+any electrical devices
+would need, and also
+what safety precautions
+would be necessary.
+By Maureen Bottrell, from Forensic Science Communications, April 2009 - Volume 11 - Number 2, published by the
+Federal Bureau of Investigation, Quantico, Virginia, USA
+4.1
+4.2
+5.1
+5.2
+5.5
+YOU ARE
+HERE
+5.4
+185
+What have I studied before?
+• Definitions of the properties of waves, such as
+frequency, wavelength and speed
+Models of waves and wave processes
+Calculations of wave speed
+The transmission of waves
+Some considerations about telescopes used
+in astronomy
+What will I study later?
+• The focusing of a particle beam in a particle
+accelerator (A level)
+• The use of telescopes in astronomy (A level)
+Some of the optical ideas behind an electron
+microscope (A level)
+Interactions of light with its medium at an atomic
+level (A level)
+What will I study in this chapter?
+• The definition of refraction, and how to find and
+calculate the refractive index
+Effects on the properties and movement of a wave
+due to changes in its medium
+The phenomenon of total internal reflection
+The effects of lenses, and calculations using the
+lens formula
+How lenses can form images, and how to
+calculate the magnification of the images
+The phenomenon of polarisation, and some of its
+implications and applications
+171
+5.3
+Refraction
+By the end of this section, you should be able to...
+understand what is meant by refraction
+understand how to measure the refractive index of a solid
+material
+use the Snell's law equation relating to refraction
+fig B Refraction can alter your perspective.
+Refraction
+When waves pass from one medium into another, there is
+a change in speed. The frequency remains constant, so the
+change in speed causes a change in wavelength. If the waves are
+approaching the interface between the two media at an angle then
+the change in speed causes a change in direction as well. This is
+called refraction.
+This part of the
+The waves are
+wave slows down
+travelling in this
+first.
+direction
+glass or
+water
+The values of n, and n, are the refractive indices in each medium.
+The values of , and are the angles that the ray of light makes
+to the normal to the interface between the two media at the point
+the ray meets that interface, as shown in fig C.
+w
+medium 1
+WW
+air
+refractive
+index = n,
+medium 2
+The waves
+end up
+travelling
+in this
+direction
+The waves travel
+more slowly in
+this medium.
+refractive
+index = n,
+fig C Defining refraction.
+fig A Wave speed depends on the medium, and refraction is caused by a
+change in medium changing the wave speed.
+Any ray crossing an interface along the normal line does not change
+direction at all, as the wavefronts are parallel to the edge and so their
+wavelength is equally changed along the length of the wavefront. If
+the wavefront is at an angle to the interface, then the part that hits
+first will change speed first, and the wavefront becomes bent because
+different parts of it are travelling at different speeds.
+The changes in direction caused by refraction are the basis for the
+functioning of lenses, and can lead to optical illusions.
+A measure of the amount of refraction caused by different
+materials is called the refractive index, and its symbol is n. The
+refractive index, n, is equal to the ratio of the speed of light in a
+vacuum to the speed of light in the material:
+Learning tip
+In any optical system, light rays will follow exactly the same path if
+they are transmitted back from the end in the reverse direction. This
+means the angles involved in refraction are the same whether the light
+moves from the less dense medium into the more dense one, or vice
+versa. Remember though, apart from rays along the normal line, the
+angle to the normal will always be larger in the less dense medium.
+WORKED EXAMPLE
+What is the angle of refraction when a light ray passes from water
+(n = 1.33) into glass (n2 = 1.50), hitting the interface between the
+two at an angle of 48° to the normal?
+n sind, = nysin
+nsino
+sin 82 =
+12
+sind
+Whilst it is difficult to measure the underlying change in the speed,
+at least for light waves, the effect on direction can be measured
+easily. The relationship between direction and refractive index is
+given by Snell's law:
+nsin, = n2sin,
+172
+1.33 x sin 48°
+-= 0.659
+1.50
+Az = sin-1 0.659
+1. = 41.2°
+5.3 Exam-style questions
+1 Which of the following gives the correct values of the power of
+a lens which has a focal length of 25 cm?
+(a) P = 4D
+(b) P = 25D
+(c) P = 400D
+(d) P= 400 D-1
+[Total: 1]
+[1]
+(b) (i) The speed of blue light in the glass prism is
+1.96 x 108ms-1
+Calculate the refractive index of this glass for blue
+light.
+(ii) Calculate the critical angle for blue light in this glass
+prism.
+[2]
+(c) The refractive index of this glass for red light is less than
+for blue light. Add to the diagram to complete the path
+of the red light through the prism. Label this path Y. [2]
+[Total: 7]
+2 What is the critical angle for Perspex which has a refractive
+index of 1.48?
+(a) 0.026°
+(b) 0.74
+(c) 42.5°
+(d) 47.5°
+[1]
+[Total: 1)
+6
+3 Which of these is a correct expression of the lens formula?
++
+If you look into a fish pond on a bright sunny day, you
+sometimes cannot see the fish because of the glare of light
+reflected off the surface. When the sunlight is reflected off the
+surface of the water it is partially plane-polarised.
+(a) State the difference between plane-polarised and
+unpolarised light.
+[1]
+(b) Explain how Polaroid sunglasses can enable the fish to be
+seen.
+(c) State why sound waves cannot be polarised.
+[1]
+[Total: 5]
++
+(c) f= 4 + V
+(d) s=
+[3]
+[1]
+[Total: 1]
+4 Which of the following cannot be experimentally demonstrated
+rated
+with sound waves?
+(a) Diffraction
+(b) Polarisation
+(c) Two source interference
+(d) Ultrasound
+[Total: 1]
+(11
+7 A student has four lenses with a focal length of 15.0 cm.
+7
+(a) (1) What is the power of one of these lenses?
+[1]
+(ii) What is the power of all four of these lenses placed in
+combination so that light rays must pass through them
+all?
+[1]
+(b) The student uses just one of the lenses in an experiment
+to produce a real image on a screen from an illuminated
+object. If the object is placed at a distance of 38.0 cm from
+the lens, where must the screen be placed to observe a
+clearly focused image?
+[2]
+(c) What is the magnification of the image?
+[Total: 6]
+5 Two parallel rays of light, one blue, one red, are travelling in air
+and are incident on one side of a glass prism. The blue light
+passes into the prism and meets the second face at the critical
+angle as shown in the diagram.
+[2]
+red light
+8 A student carries out an experiment to measure the refractive
+index of glass. She does this by shining a ray of light through a
+semicircular glass block and into the air as shown.
+blue light
+x - 30°
+V – 48°
+(a) Add to the diagram the path of the blue light after it meets
+the second face. Label this path X.
+[1]
+186
+TOPIC 5
+Waves and the particle nature of light
+CHAPTER
+5.3 Optics
+Introduction
+Humans have long wondered at the appearance of rainbows and why fish appear to be larger underwater.
+The development of understanding of the physics behind such natural phenomena has led us to be able to
+develop more and more complex imaging techniques. A mobile telephone, lying on a desk, will soon be
+projecting a cinema screen onto your bedroom wall. In some instances, understanding the physics has led
+to immensely useful low-tech solutions. Spectacle lenses that can have their strength altered by filling a
+plastic pouch with different amounts of water mean that glass lens grinding facilities are not needed, which
+is very useful for remote or undeveloped societies.
+This chapter will explain the details of refraction in different materials and how this leads to the
+properties of different types of lenses. Lenses and combinations of lenses are used in many optical
+instruments, such as telescopes and microscopes, and you will also see how these can produce a
+clear image of an illuminated object.
+All the maths you need
+• Units of measurement (e.g. the dioptre)
+• Substituting numerical values into algebraic equations (e.g. finding the power of a lens)
+• Use of ratios and similar triangles (e.g. calculations with the magnification of an image)
+• Changing the subject of an equation (e.g. using the lens formula)
+Plotting two variables from experimental data (e.g. plotting a graph of experimental results of refraction
+in glass)
+• Determining the slope of a linear graph (e.g. using a graph of experimental results to find the refractive
+index of glass)
+• Identifying uncertainties in measurements and using simple techniques to determine uncertainty
+(e.g. considering the uncertainty of experimental results in finding the refractive index of glass)
+170
+BIGGER
+GLASS FORENSICS
+WP
+Refractive indices can be determined to several decimal places, and tiny variations can highlight very
+subtle and small differences in the compositions of materials like glass.
+In this activity, we will look at some ideas about identifying glass in crime scene investigations.
+FORENSIC GLASS COMPARISON
+Immersion methods are used to measure refractive index in some
+laboratories. These methods take advantage of the fact that when
+using monochromatic light, a particle immersed in a liquid of
+identical refractive index will become invisible (Bloss 1961).
+Introduction
+Glass can be found in most localities. It is produced in a wide
+variety of forms and compositions, and these affect the properties
+of this material. It can occur as evidence when it is broken during
+the commission of a crime. Broken glass fragments ranging in size
+from large pieces to tiny shards may be transferred to and retained
+by nearby persons or objects. The mere presence of fragments
+of glass on the clothing of an alleged burglar in a case involving
+entry through a broken window may be significant evidence if
+fragments are found. The significance of such evidence will be
+enhanced if the fragments are determined to be indistinguishable
+in all measured properties from the broken window. On the other
+hand, if the recovered fragments differ in their measured properties
+from the glass from the broken window, then that window can
+be eliminated as a possible source of the glass on the subject's
+clothing (Koons et al. 2002).
++ Negative relief — No relief
+- Positive relief
+In this method, a video camera captures the image of the particle
+edge, and a computer calculates the point of minimum contrast
+- the match point - across the particle edge while automatically
+varying the temperature. The temperature is adjusted so that
+the refractive index of the liquid is higher than that of the glass
+sample. The instrument lowers the temperature of the preparation
+through the match point for the glass. The contrast between the
+fragment and the liquid is monitored, and the match point is noted
+automatically. The refractive index of the sample is calculated
+automatically from temperature calibration data.
+Interpretations/Conclusions
+The variations of the properties of glass within a single source are
+usually small (Bottrell et al. 2007), typically below the resolving
+power of the techniques used to measure them. The variation
+among glass objects from different sources can be observed
+and measured (Hickman 1983; Koons et al. 1988; Koons and
+Buscaglia 1999; Koons and Buscaglia 2002) and are usually much
+greater than the variation within a single object.
+1-1.434 -1.52 12-154 -16 11.-1.7 -18 11-195
+fig A Crystals with differing refractive indices viewed within an oil bath with
+refractive index, n = 1.54. Those with higher or lower refractive index are
+easily visible, whereas the quartz with the same refractive index is virtually
+invisible.
+Optical Properties
+Refractive index is a function of chemical composition and atomic
+arrangement (Stoiber and Morse 1981). Refractive index is the
+most commonly measured property in the forensic examination of
+glass fragments (Koons et al. 2002), because:
+• Precise refractive indices can be measured rapidly on the small
+fragments typically found in casework.
+. It can aid in the characterization of glass.
+• It provides good discrimination potential. (Koons et al. 2002)
+fig B A forensic lab refractometer.
+Where else will I encounter these themes?
+1.1
+2.1
+2.2
+2.3
+3.1
+3.2
+184
+Optics
+5.3
+WP
+colours through the second Polaroid. Changing the stresses on the
+plastic will alter the internal stresses, and the interference pattern will
+change. Engineers use this to see stress concentrations in models of
+structures, and to observe how the stress concentrations change
+when the amount of stress changes. This allows them to alter the
+design to strengthen a structure in regions of highest stress.
+Polarisation by chemical solutions
+The analysis of stress concentrations investigated above
+works because different parts of the plastic model have
+different effects on polarised light. This is also the case with
+some chemicals, such as sugar solution. The amount of the
+concentration of the sugar solution varies the angle to which it
+rotates the polarisation of the light. We can use Polaroid filters to
+analyse the strength of the sugar solution, by measuring the angle
+at which the light polarisation emerges after passing through the
+solution.
+fig D Engineering stress analysis using crossed Polaroids.
+Polarisation by reflection and refraction
+When unpolarised light reflects from a surface, such as a road, the
+waves will become polarised. The degree of polarisation depends
+on the angle of incidence, but it is always tending towards
+horizontal plane polarisation, as shown in fig E.
+unpolarised incident light
+polarised reflected light
+fig G Sugar solutions can rotate the plane of polarisation. The degree of
+polarisation on a particular wavelength (colour) depends on the
+concentration of the solution, and how far the light has had to pass
+through it. This gives rise to the changing colours seen along the length
+of this tube of sugar solution.
+Questions
+Silbab said that he had a 'sound wave polariser' on his new music
+system. Explain why his claim is incorrect.
+2 What does it mean to say that a wave is unpolarised?
+3 Why do ski goggles often have Polaroid filters with a
+vertical orientation?
+WP
+Explain the benefits of being able to use polarisation to
+analyse stress concentrations in engineering models.
+fig E Reflection can polarise waves.
+Light waves incident on a surface into which they can refract (see
+Section 5.3.1), such as a pond, will reflect partially horizontally
+polarised light as in fig E, but will also transmit partially vertically
+polarised light into the new medium, as in fig F.
+unpolarised light
+partially polarised light
+Kev definition
+Polarisation refers to the orientation of the plane of
+oscillation of a transverse wave. If the wave is (plane) polarised,
+all its oscillations occur in one single plane.
+0.000
+perpendicular to
+plane of paper
+air
+glass
+partially
+polarised light
+fig F Refraction can polarise waves.
+183
+Exam-style questions
+5.3
+(a) Calculate the refractive index from air to glasse
+(b) (i) The student steadily increases the angle x in glass and
+finds that eventually the light does not pass into the air.
+Explain this observation.
+31
+(ii) Calculate the largest value of angle x that allows the
+light to pass out of the block into the air.
+[2]
+[Total: 71
+State what happens to this ray of light when it is incident
+on the core-cladding boundary as shown.
+[1]
+(c) The light source for these curtains is at the top.
+Suggest why the bottom of the curtain is much brighter
+than the rest of the curtain.
+[2]
+[Total: 6]
+9 Optical fibres have many uses in medicine and
+communications. They can also be incorporated into items
+such as the curtains shown in the photograph.
+10 Rainbows are seen when sunlight is dispersed by raindrops.
+The light is separated into different colours because they each
+take different paths through raindrops.
+A ray of white light is incident on a raindrop. The diagram
+shows the subsequent path of the red light.
+white
+light
+red light
+raindrop
+Some optical fibres are made from a central core of
+transparent material surrounded by a material of a different
+refractive index as a cladding.
+red light
+cladding
+-core
+core
+cladding
+cladding
+speed of light in the core = 1.96 x 10ms!
+speed of light in the cladding = 2.03 x 10ms-1
+(a) Calculate the critical angle for the core-cladding
+boundary.
+(b) The diagram below shows a ray of light inside the core of a
+fibre. The ray is incident on the core-cladding boundary at
+an angle of 809.
+(a) Name the effect that is experienced by the red light
+at A.
+[1]
+(b) (i) On the diagram label an angle of incidence with an i
+and an angle of refraction with an r.
+[2]
+(ii) On the diagram draw the path that a violet ray of
+light would take, through the raindrop and into
+the air.
+(c) (i) State what is meant by the critical angle.
+(ii) Calculate the critical angle for red light in the
+raindrop
+refractive index for red light in water = 1.3
+[2]
+(d) Red light has a frequency of 4.2 x 1014 Hz and travels at a
+speed of 2.2 x 10% ms-1 in the raindrop.
+Calculate the wavelength of the red light in the
+raindrop
+[Total: 10]
+31
+cladding
+11 Explain how infrared radiation can travel the length of
+an optical fibre, and describe and explain applications
+of this.
+[6]
+[Total: 6]
+core
+core
+cladding
+187
+Optics
+5.3
+As a diverging lens produces a virtual focus on the same side of the lens that the rays came from, the
+focal length is recorded as a negative value.
+For those lenses that are manufactured symmetrically in order to produce the focusing effect, the
+light could be shone either way through them and suffer the same effects. This means that there is
+a focal point on each side of the lens, both at the same focal length. You will see in Section 5.3.4
+that this is also useful in image formation. For example, with a convex lens, a ray that hits the lens
+parallel to the principal axis will change direction to pass through the focus. Alternatively, a ray hitting
+the lens coming from the focus will change direction to emerge parallel to the principal axis. The
+simplest ray journey is for a ray that hits the exact centre of a lens. Regardless of its approach angle,
+it will pass through the lens undeviated, i.e. it continues in a straight line as if the lens were not there.
+Power of a lens
+The distance from a lens to its focus is a measure of the strength of a lens. More powerful lenses
+bring the light rays together in a shorter distance - they have a shorter focal length. The power can
+be calculated if we know the focal length:
+Power (dioptres, D) =
+focal length (metres, m)
+P=
+As a diverging lens has a negative focal length, its power will be recorded as a negative value.
+WORKED EXAMPLES
+A lens for a telescope has a focal length of 46 cm. What is its power?
+Pal
+f = 46 cm = 0.46 m
+P0.46
+P-
+1
+P = 2.17 D
+A concave lens for spectacles has a virtual focus at a distance of 36.4 cm from the centre of the lens.
+What is its power?
+pun
+f = -36.4 cm = -0.364 m
+-0.364
+P = -2.75D
+F focal
+point
+focal length
+fig C Fatter convex lenses generally have a shorter focal length - they are more powerful.
+If twin lenses are placed one after the other in combination, the overall power of the combination is
+equal to the sum of the individual powers of the lenses:
+P= P + P + P + ...
+177
+5.
+33
+Investigation
+WP
+Investigating the power of lenses
+A distant object outside a window will provide parallel rays of light. If we focus an image of this object on
+a screen, we can easily measure the distance between lens and screen, the focal length.
+LIL
+fig D The 'window test provides a quick and easy method to measure the focal length of a converging lens.
+By carefully recording the focal length, f. of the lens, we can calculate its power:
+PE
+Questions
+What is meant by the term focal length?
+2 Measure the focal lengths of the two lenses as shown in fig A, and calculate the power of each.
+3
+Explain why the window test is not an appropriate way to find the power of a diverging lens.
+4
+You have a convex lens and a concave lens. Both have focal points 5 cm from the lens. They are placed in
+line exactly 10cm apart, as shown in fig E.
+-
+-
+-
+-
+-
+-
+-
+-
+- 10 cm
+fig E A pair of opposite effect lenses.
+On a copy of fig E, to scale, draw a ray diagram showing the path of parallel light rays that arrive from the
+left of the diagram hitting the convex lens.
+5
+If the two lenses in the worked example calculations on the previous page are used in combinations, what
+is their overall power?
+Key definitions
+Convex lenses converge parallel rays to a focus, at the focal length from the lens.
+Concave lenses diverge parallel rays to appear to have come from a virtual focus, at the focal length back
+from the lens.
+A converging lens will bring light rays closer together.
+The focus, or focal point, of a lens is the point where rays incident on the lens and parallel to the principal
+axis will be made to meet by the refraction of the lens.
+A diverging lens will spread light rays further apart.
+A virtual focus of a diverging lens is the point where rays incident on the lens and parallel to the principal
+axis will appear to have come from on emergence from the lens.
+The focal length is the distance from the centre of a lens to its focal point.
+178

@@ -1,0 +1,2700 @@
+10
+CLASSIFICATION AND EVOLUTION
+4
+Data for both species are provided in Table 2
+colour
+Adaptations are characteristics which
+increase an organism's chance of survival and
+reproduction in an environment.
+a State the difference between a behavioural
+and a physiological adaptation. (1 mark)
+b Marram grass is commonly found on sand
+dunes around the coast of Great Britain.
+species
+mean mean range of
+body wingspan echolocation
+mass (g) (m) (kHz)
+Common
+5.5 0.22 | 42-47
+pipistrelle
+Soprano
+5.5 0.21 52-60
+pipistrelle
+medium to
+dark brown
+medium to
+dark brown
+State and explain three anatomical
+adaptations which enable this plant to
+survive in an environment with little
+access to water.
+(3 marks)
+Anatomical adaptations provide evidence
+for convergent evolution. Explain what is
+meant by the term 'convergent evolution'.
+(2 marks)
+OCR F212/01 2013
+b (i) Name the genus to which the
+soprano pipistrelle belongs (1 mark)
+(ii) Using the data in Table 2, suggest
+why pipistrelles were originally
+classified as one species. (1 mark)
+(iv) Describe how it is possible to confirm,
+over a longer period of time, whether
+two organisms belong to different
+species or the same species. (2 marks)
+The soprano pipistrelle has an
+echolocation call that is 'high pitched'
+(between 52 and 60 kHz). The common
+pipistrelle has an echolocation call that is
+low pitched' (between 42 and 47 kHz).
+Variation within and between species can
+be a result of genetic or environmental
+factors. Whatever the causes of variation,
+the type of variation displayed can occur
+in two different forms.
+Using the pipistrelle as an example,
+describe the key features of both forms of
+variation.
+(7 marks)
+OCR F212/01 2012
+Bats are the only mammals that can truly
+fly. Many species of bat hunt flying insects
+at night. Bats are able to use sound waves
+(echolocation) in order to help them find
+their prey in the dark.
+a Suggest how the ability to use
+echolocation may have evolved from an
+ancestor that did not have that ability
+(4 marks)
+The pipistrelle is the most common species of
+bat in Europe. It was originally thought that
+all pipistrelles belonged to the same species,
+Pipistrellus pipistrellus. However, in the 1990s,
+it was decided that there were two species:
+the common pipistrelle, Pipistrellus pipistrellus
+and the soprano pipistrelle, Pipistrellus
+Pygmaeus.
+269
+10
+CLASSIFICATION AND EVOLUTION
+Physiological adaptations
+Some examples of physiological adaptations:
+Poison production - many reptiles produce venom to kill their
+prey and many plants produce poisons in their leaves to protect
+themselves from being eaten.
+Antibiotic production - some bacteria produce antibiotics to kill
+other species of bacteria in the surrounding area.
+Water holding - the water-holding frog (Cyclorana platycephala) can
+store water in its body. This allows it to survive in the desert for
+more than a year without access to water. Many cacti and other
+desert plants can hold large amounts of water in their tissues.
+Figure 5 Aestivation is the name
+given to a period of inactivity in hot, dry
+places. The land snails aestivate to cope
+with periods of extreme dry heat. This
+is a combination of physiological and
+behavioural adaptations
+Many other examples are less unusual, and include reflexes, blinking
+and temperature regulation.
+Synoptic link
+Anatomical adaptations provide evidence for
+convergent evolution
+Analogous structures
+Although the tail fins of a whale and a fish perform the same role,
+when you look at them in detail their structures are very different.
+These are known as analogous structures - they have adapted to
+perform the same function but have a different genetic origin.
+You will learn more about the
+adaptations of ectotherms and
+endotherms to temperature in
+Topics 15.2 and 15.3, respectively.
+Convergent evolution takes place when unrelated species begin to
+share similar traits. These similarities evolve because the organisms adapt
+to similar environments or other selection pressures (for an explanation
+of the term 'selection pressure', Topic 10.8, Changing population
+characteristics). The organisms live in a similar way to each other. Using
+our example of whales and fish, their similar characteristics have evolved
+over time to allow the organisms to move efficiently through water.
+Marsupials in Australia and placental mammals in the Americas are an
+example of convergent evolution. Species in each continent resemble
+each other because they have adapted to fill similar niches.
+In placental mammals, a placenta connects the embryo to its mother's
+circulatory system in the uterus. This nourishes the embryo, allowing
+it to reach a high level of maturity before birth. Marsupials also start
+life in the uterus, but then leave and enter the marsupium (pouch)
+while they are still embryos. They complete their development here
+by suckling milk.
+These two subclasses of mammals separated from a common
+ancestor more than 100 million years ago. Each lineage then
+evolved independently. Despite this large temporal and geographical
+separation, marsupials in Australia and placental mammals in
+North America have produced varieties of species that bear a strong
+resemblance in overall shape, type of locomotion and feeding
+techniques. This is because they have adapted to similar climates
+and food supplies. However, these organisms have very different
+methods of reproduction. This is the feature that accurately reflects
+their distinct evolutionary relationships.
+Figure 7 (top) Flying phalanger
+(Petaurus sp.) - a marsupial mammal
+and (bottom) flying squirrel (family
+Pteromyini) - a placental mammal
+261
+CLASSIFICATION AND EVOLUTION
+10
+Study tip
+Student's t test
+Student's t test is used to compare the mean values of two sets of
+data. To use this test the data collected must be normally distributed
+and enough data should be collected to calculate a reliable mean.
+Different sample sizes may be used.
+A full table of values of t is given in
+the appendix
+I=-
+40
+3 Worked example: Comparing mean petiole length in ivy grown in the light and shade
+Student's t test is is calculated using the following compared with those in the shade due to chance
+formula:
+variation in the sample.
+(Xi - X2)
+2 Subtract the mean petiole length of sample
+two from sample one:
+Xi - X2 = 38.9 - 52.8 = (-)13.9
+Note: ignore minus signs.
+1. Az = mean of populations 1 and 2
+For both populations, square the standard
+0,02, = standard deviation of populations 1 and 2 deviation and divide by the number in the
+n, n, = total number of values in samples 1 and 2 sample:
+A sample of ten ivy leaves was collected from
+Population 1: % -40 = 22.201
+10
+either side of a tall tree stump. Those collected
+from the south-facing side of the trunk were
+Population 2:02- 15.1 = 22.801
+n 10
+referred to as the 'light' leaves and those on the
+4 Sum these values:
+north-facing side of the stump, the 'shade' leaves.
+A group of students wanted to see if there was
+02 = 22.201 + 22.801 = 45.002
+a significant difference in the size of the leaf's
+12112
+petiole, depending on whether ivy is grown in 5 Square root this value
+the light or the shade.
+o
+Before calculating Student's 1 test, the students
+g = 45.002 = 6.71
+had to produce a null hypothesis. This is a
+prediction that there is no significant difference
+Calculate Student's i test
+between specified populations, and so any
+(x1 - x2)
+13.9
+observed difference would be due to chance
+variation in the sample.
+Vn ne
+The data the students collected is summarised
+To understand what this value means, you must
+below:
+look it up in the Student's t test significance tables
+Sample Number Mean petiole Standard (see appendix). First, calculate a quantity known
+taken in sample length/mm deviation/mm as the 'degrees of freedom' (df) using the formula:
+Light
+10
+14.9
+df = (n + n,) - 2 where n = population 1,
+n2 = population 2
+Shade
+10
+52.8
+15.1
+In this example: df = in, + n ) - 2
+The students then used the Student's t test
+= (10 + 10) - 2 = 18
+to determine if there is statistical significance
+Then look at the corresponding probability
+between the petiole length of ivy grown in the
+values. For the data to be considered significantly
+light, compared to those grown in the shade:
+different from chance alone, the probability (p)
+1 State the null hypothesis:
+must be 5% (0.05) or less.
+=
+=
+=
+6.71 = 2.07
+38.9
+There will be no difference in the length of ivy
+petiole length of leaves growing in the light,
+At df = 18, the value of 2.07 falls between 5%
+and 10%.
+255
+10
+10.6 Representing variation graphically
+The null hypothesis should be accepted, as we
+cannot be more that 95% confident that the
+results are not down to chance. We therefore
+cannot conclude that there is a significant
+difference between the petiole length of ivy
+grown in the light and in the shade.
+Correlation coefficient
+If two sets of data are related they are said to be correlated. Two sets
+of data can show:
+•
+no correlation - no relationship between the data (Figure 9)
+positive correlation - as one set of data increases in value, the
+other set of data also increases in value (Figure 7)
+negative correlation - as one set of data increases in value, the
+other set of data decreases in value (Figure 8).
+Study tip
+A significant difference at p = 0.05 means that if the null
+hypothesis were correct i.e., the samples or treatments do
+not differ) then we would expect to get a t value as great
+as this on less than 5% of occasions. You can therefore
+be reasonably confident that the samples do differ from
+one another, but there is still nearly a 5% chance of this
+conclusion being wrong
+If the calculated t value exceeds the tabulated value for
+p=0.01, then there is a 99% chance of the means being
+significantly different (and a 99.9% chance if the calculated
+t value exceeds the tabulated value for p = 0.001). By
+convention, a difference between means at the 95% level is
+significant', a difference at 99% level is 'highly significant
+and a difference at the 99.9% level is very highly significant'.
+x
+x
+positive correlation +1
+negative correlation +1
+no correlation +1
+Figure 7 Graph showing positive
+correlation
+A Figure 8 Graph showing negative
+correlation
+Figure 9 Graph showing no
+correlation
+Study tip
+The correlation test is used to see if two different variables are correlated in
+a linear fashion in the context of a scatter-graph. There are several different
+types of statistical test that can be used, the OCR GCE Biology specifications
+will only cover Spearman's rank correlation coefficient. You can find a full table
+of values in the appendix.
+256
+10
+10.7 Adaptations
+Examples include:
+marsupial and placental mice - both are small, agile climbers that
+live in dense ground cover and forage at night for small food items.
+The two mice are very similar in size and body shape
+flying phalangers and flying squirrels (Figure 7) - both are
+gliders that eat insects and plants. Their skin is stretched between
+their forelimbs and hind limbs to provide a large surface area for
+gliding from one tree to the next
+marsupial and placental moles (Figure 8) - both burrow
+through soft soil to find worms and grubs. They have a
+streamlined body shape and modified forelimbs for digging. They
+also have velvety fur, which allows smooth movement through
+the soil. However, they differ in fur colour – the marsupial mole
+ranges in colour from white to orange whereas the placental mole
+is grey.
+Convergent evolution can also been seen in some plant species.
+For example, aloe and agave appear very similar as they have both
+adapted to survive in the desert. However, these species developed
+entirely separately from each other. Aloe are sometimes referred
+to as 'old world', having evolved in sub-Saharan Africa. Agave, by
+comparison, are 'new world', having evolved in Mexico and the
+southern United States.
+aloe
+agave
+A FIGURE 8 (top) Marsuipal mole
+(family Notoryctidae) found in Australia
+and (bottom) placental mole (family
+Talpidae) found in North America
+Figure 9 Aloe Aloe spp.) and agave (Agave spp.) have a similar
+appearance. They provide an example of convergent evolution
+amongst plant species
+Classification of giant pandas
+Classification aims to place every organism into a
+particular taxonomical group. However, there are a number
+of organisms that do not fit easily into a group. An example
+of this is the giant panda (Ailuropoda melanoleuca -
+Figure 10, top).
+bottom). He gave it a name that included the word ursus
+(the Latin word for bear).
+Père Armand David, a catholic priest, was the first
+westerner to see a giant panda. He discovered the panda
+in 1869, and based on its appearance he concluded
+that it was related to a bear (family Ursidae - Figure 10,
+A few years later, Alphonse Milne-Edwards, a French
+scientist, inspected the remains of a giant panda. He
+concluded that its anatomical structure was closer to the
+red panda (Figure 10, middle), a member of the raccoon
+family. He renamed the giant panda, and classified it into
+its own category. Many people disagreed with Milne-
+Edwards' conclusion because of its size. Red pandas have
+262
+10
+10.6 Representing variation graphically
+4
+Measured value (x)- mean value (1)
+= 28 - 38.9 = -10.9 mm
+For the other measurements you would
+calculate: -8.9 mm, -21.9 mm, -7.9 mm,
+-3.9 mm, 6.1 mm, 7.1 mm, 28.1 mm,
+-5.9 mm, 18.1 mm
+Sum each of these values [ (x - 2)2
+118.8 + 79.2 + 479.6 + 62.4 + 15.2 + 37.2 +
+50.4 + 789.6 + 34.8 + 327.6 = 1994.8 mm
+5
+One
+3
+Square each of these values (x - x)2
+For example -10.92 = 118.81
+For the other measurements you would
+calculate: 79.2 mm, 479.6 mm, 62.4mm,
+15.2 mm, 37.2 mm, 50.4mm, 789.6 mm,
+34.8 mm, 327.6 mm
+Divide this value by the sample size minus
+(x-X)?
+one -
+(x - 1)_1194.8 – 1194.8 - 221.7
+n-1 10-
+19
+(x - x)
+Find the square root of this value
+n-1
+6
+o = /(x=* = V221.7 = 14.9
+-= V221.7 = 14.9
+11-1
+Flagella length variation in Salmonella
+o
+Salmonella bacteria have a number of flagella to enable them to move.
+Five bacteria were chosen at random, and their longest flagellum measured.
+This is the data that was collected:
+2
+3
+4
+5
+Bacterium
+Longest flagellum (um)
+1
+3.0
+2.5
+1.8
+2.0
+2.7
+A Figure 6 This is a Salmonella bacteria
+(Salmonella sp.). The length of their flagella
+shows continuous variation
+1 Calculate the mean value for the length of flagella in Salmonella
+bacteria.
+2 Using the formula given in the worked example, calculate the
+standard deviation for the length of flagella in Salmonella bacteria.
+State your answer to two decimal places.
+State the range of flagella lengths that 68% of the Salmonella
+population will have.
+State and explain what type of variation is shown by the length of
+flagella in Salmonella.
+Study tip
+You will not be expected to learn the
+formulae for statistical tests, but
+you should have an understanding
+of how these tests are calculated,
+of the circumstances in which to
+use them, and how to interpret
+the results.
+Other statistical tests
+Several statistical tests can be used by scientists to determine the
+significance of data collected. These tests can be used in a number of
+situations, for example when comparing variation within populations,
+or when comparing the effects of abiotic and biotic factors on
+organisms (Chapter 11, Biodiversity). These include:
+• Student's t test - this is used to compare the means of data values
+of two populations
+the correlation coefficient - this is used to consider the relationship
+of between two sets of data.
+254
+10
+10.7 Adaptations
+Synoptic link
+You learnt about transpiration in
+Topic 9.3, Transpiration and about
+plant adaptations to prevent water
+loss in Topic 9.5, Plant adaptations to
+water availability.
+Marram grass
+Marram grass (Ammophila spp.) is commonly found on sand dunes
+around the UK. It is a xerophyte, a plant that has adapted to live in
+an environment with little water. Its adaptations reduce the rate of
+transpiration and include:
+curled (or rolled) leaves to minimise the surface area of moist
+tissue exposed to the air, and protect the leaves from the wind
+• hairs on the inside surface of the leaves to trap moist air
+close to the leaf, reducing the diffusion gradient
+stomata sunk into pits, which make them less likely to
+open and lose water
+. a thick waxy cuticle on the leaves and stems, reducing
+water loss through evaporation.
+Behavioural adaptations
+Some examples of behavioural adaptations:
+Survival behaviours - for example, an opossum plays
+dead and a rabbit freezes when they think they have
+been seen.
+Courtship - many animals exhibit elaborate courtship
+behaviours to attract a mate. For example, scorpions
+perform a dance to attract a partner. This increases the
+organism's chance of reproducing.
+Figure 3 A light micrograph of a curled leaf of
+Seasonal behaviours - these adaptations enable
+marram grass plant (Ammophila arenaria). You
+can see the hairs on the inside surface of the leaf,
+organisms to cope with changes in their environment.
+slowing air movement and reducing water loss
+They include:
+from the leaf (* 10 magnification)
+I migration - animals move from one region to
+another, and then back again when environmental
+conditions are more favourable. This may be for a
+better climate or a source of food
+hibernation - a period of inactivity in which an
+animal's body temperature, heart rate and breathing
+rate slow down to conserve energy, reducing the
+animal's requirement for food. For example, brown
+bears hibernate during the winter.
+Generally, behavioural adaptations fall into two main categories:
+Innate (or instinctive) behaviour – the ability to do this is
+inherited through genes. For example, the behaviour of spiders to
+build webs and woodlice to avoid light is innate. This allows the
+organism to survive in the habitat in which it lives.
+Learned behaviour - these adaptations are learnt from
+experience or from observing other animals. An example of
+learned behaviour is the use of tools. For example, sea otters use
+stones to hammer shells off rocks, and then to crack the hard
+shells open.
+A Figure 4 This chimpanzee is using
+a twig/grass to get termites out of a
+termite mound
+However, many behavioural adaptations are a combination of both
+innate and learned behaviours.
+260
+10
+10.5 Types of variation
+Synoptic link
+You learnt about errors in
+DNA replication (mutations)
+in Topic 3.9, DNA replication and
+DNA replication and the genetic
+code in Topic 6.2, Mitosis.
+Genetic causes of variation
+Genetic variation is due to the genes (and alleles) an individual
+possesses. There are several causes for genetic variation being present
+within a population:
+1
+3
+Alleles (variants) - genes have different alleles (alternative
+forms). With a gene for a particular characteristic, different
+alleles produce different effects. For example, the gene for
+human blood groups has three different alleles (A, B and O).
+Depending on the parental combination of these alleles (see
+point 4) four different blood groups can be produced (A, B,
+AB and O). Individuals in a species population may inherit
+different alleles of a gene.
+Mutations - changes to the DNA sequence and therefore
+to genes can lead to changes in the proteins that are coded
+for. These protein changes can affect physical and metabolic
+characteristics. If a mutation occurs in somatic (body) cells, just
+the individual is affected. However, if a mutation occurs in the
+gametes it may be passed on to the organism's offspring. Both
+can result in variation.
+Meiosis - gametes (sex cells – ovum and sperm) are produced by
+the process of meiosis in organisms that reproduce sexually. Each
+gamete receives half the genetic content of a parent cell. Before
+the nucleus divides and chromatids of a chromosome separate, the
+genetic material inherited from the two parents is 'mixed up' by
+independent assortment and crossing over. This leads to the
+gametes of an individual showing variation.
+Sexual reproduction - the offspring produced from two
+individuals inherits genes (alleles) from each of the parents. Each
+individual produced therefore differs from the parents.
+Chance - many different gametes are produced from the parental
+genome. During sexual reproduction it is a result of chance as to
+which two combine (often referred to as random fertilisation).
+The individuals produced therefore also differ from their siblings
+as each contains a unique combination of genetic
+material.
+Synoptic link
+You learnt about independent
+assortment and crossing over
+during meiosis in Topic 6.3,
+Module.
+4
+5
+Points 3, 4 and 5 are all aspects of sexual
+reproduction. As a result there is much greater
+variation in organisms that reproduce sexually
+than asexually. Asexual reproduction results in
+the production of clones (individuals that are
+genetically identical to their parents). Genetic
+variation can only be increased in these organisms
+as a result of mutation.
+Figure 4 These scars on the manatee's back are caused
+by damage from a boat propeller. They are an example of
+environmental variation
+An example of a characteristic that is determined
+purely by genetic variation is your blood group.
+The genes passed onto you from your parents
+determine if your blood group will be type A, B,
+AB or 0.
+248
+10.5 Types of variation
+Specification reference: 4.2.2
+You can tell that a mouse and a bird are different organisms as they
+have many different characteristics. However, it is more difficult to
+tell the difference between two individual wood pigeons (Columba
+palumbus). This is because members of the same species share many
+characteristics.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ interspecific and intraspecific
+variation
+genetic and environmental
+causes of variation.
+The differences in characteristics between organisms are called variations.
+Types of variation
+The widest type of variation is between members of different species -
+these differences are known as interspecifc variation. For example,
+a mouse has four legs, teeth, and fur whereas a bird has two legs, two
+wings, a beak and feathers.
+Every organism in the world is different - even identical twins differ in
+some ways.
+Differences between organisms within a species are called
+intraspecific variation. For example, people vary in height, build,
+hair colour, and intelligence.
+A Figure 2 Dogs show immense
+variation within their species. For example,
+this Pug and Great Dane are both members
+of the species Canis familiaris. The
+differences between these individuals are
+examples of intraspecific variation. Due to
+humans selectively breeding dogs for their
+particular characteristics, the differences
+are more extreme than those that would
+occur naturally
+Figure 1 These organisms all belong to the Plantae kingdom but they are
+members of different species. The differences between them are examples of
+interspecific variation
+Causes of variation
+Two factors cause variation:
+An organism's genetic material - differences in the genetic
+material an organism inherits from its parents leads to genetic
+variation.
+The environment in which the organism lives - this causes
+environmental variation.
+A Figure 3 These are wingcases of
+several fourteen-spot ladybirds (Propylea
+14-punctata) collected from the same
+nettle plant. The variation in colouration
+patterns between the individuals is an
+example of intraspecific variation
+247
+10.7 Adaptations
+Specification reference: 4.2.2
+You should be familiar with the concept that organisms are adapted to
+the environment in which they live. Organisms can also be adapted to
+protect themselves from predators or attract a mate.
+What are adaptations?
+Adaptations are characteristics that increase an organism's chance
+of survival and reproduction in its environment. Adaptations can be
+divided into three groups:
+. anatomical adaptations - physical features (internal and
+external)
+behavioural adaptations - the way an organism acts. These can
+be inherited or learnt from their parents.
+physiological adaptations - processes that take place inside
+an organism.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+the different types of
+adaptations of organisms to
+their environment
+why organisms from different
+taxonomic groups may show
+similar anatomical features.
+Many adaptations fall into more than one category. For example, the
+courtship behaviour of a peacock requires it to lift its huge, colourful
+tail to attract the peahen. This is an example of both a behavioural and
+anatomical adaptation.
+Anatomical adaptations
+Some examples of anatomical adaptations:
+A Figure 1 Otters (Lutra spp.) have
+webbed paws. This allows them to
+swim as well as walk. This is an example
+of an anatomical adaptation. It increases
+their chance of survival as they can
+live and hunt on land and in the water
+(* 10 magnification)
+Body covering - animals have a number of different body
+coverings such as hair, scales, spines, feathers, and shells. These
+can: help the organism to fly, such as feathers on birds - help
+it to stay warm, such as the thick hair on polar bears - provide
+protection, such as a snail's shell. Thick waxy layers on plants
+prevent water loss and spikes can deter herbivores and protect the
+tissues from sun damage.
+Camouflage – the outer colour of an animal allows it to blend
+into its environment, making it harder for predators to spot it.
+For example, the snowshoe hare is white in winter to match the
+snow, and turns brown in summer to blend in with the soil and
+rock environment in which it lives.
+Teeth – the shape and type of teeth present in an animal's
+jaw are related to its diet. Herbivores, such as sheep, have
+continuously growing molars for chewing tough grass and
+plants. Carnivores, such as tigers, have sharp large canines to
+kill prey and tear meat.
+Mimicry - copying another animal's appearance or sounds allows
+a harmless organism to fool predators into thinking it is poisonous
+or dangerous. For example, the harmless hoverfly mimics the
+markings of a wasp to deter predators.
+Figure 2 The harmless milk snake
+(Lampropeltis triangulum, top) mimics
+the markings of the deadly coral snake
+(Micrurus alleni, bottom)
+259
+10
+CLASSIFICATION AND EVOLUTION
+68%
+68% of values are within
+1 standard deviation of the mean
+-3
+-2
+2
+3
+-
+standard deviation
+95%
+95% of values are within
+2 standard deviations of the mean
+-3
+-2
+2
+3
+-1
+1
+standard deviation
+99.7%
+99.7% of values are within
+3 standard deviations of the mean
+-3 -2 -1
+1 2 3
+standard deviation
+A Figure 4 Graphs showing spread of data on a normal distribution
+A Figure 5 The petiole (stalk)
+length of ivy (Hedera spp.) leaves
+show continuous variation
+Vn-1
+Worked example: Petiole length variation in ivy leaves
+Standard deviation (denoted with the Greek
+Sample
+letter o) is a measurement of the spread of data.
+1 2 3 4 5 6 7 8
+Number
+It is calculated using the following formula:
+Petiole
+28 30 17 31 35 45 46 67 | 33 57
+length/mm
+- (x - )
+1 Calculate the mean value x
+I= the sum (total) of
+sum of the individual measurements
+number in the sample
+x = value measured
+x = mean value
+10
+n = total number of values in the sample
+2 Subtract the mean value from each measured
+value: x-X
+Follow the worked example below to work out
+the standard deviation of the length of petioles
+For example, the first measurement was
+(the stalk attaching the leaf to the stem) of a
+28 mm.
+sample of 10 ivy leaves. The data collected was:
+= 389 = 38.9 mm
+253
+10
+CLASSIFICATION AND EVOLUTION
+• nutrients are acquired by ingestion - they are heterotrophic
+feeders
+food stored as glycogen.
+Recent changes to classification systems
+As scientists learn more about organisms, classification systems change.
+Originally classification systems were based on observable features.
+Through the study of genetics and other biological molecules, scientists
+are now able to study the evolutionary relationships between organisms.
+These links can then be used to classify organisms.
+When organisms evolve, their internal and external features change,
+as does their DNA. This is because their DNA determines the proteins
+that are made, which in turn determines the organism's characteristics.
+In order for their characteristics to have changed, their DNA must also
+have changed. By comparing the similarities in the DNA and proteins of
+different species, scientists can discover the evolutionary relationships
+between them. You will learn more about DNA sequencing and its
+use in studying evolutionary relationships in Topic 10.4, Evidence for
+evolution
+Synoptic link
+An example of a protein that has changed in structure is haemoglobin.
+Haemoglobin has four polypeptide chains, each made up of a fixed
+number of amino acids. The haemoglobin of humans differs from
+chimpanzees in only one amino acid, from gorillas in three amino acids
+and from gibbons in eight amino acids. As the structure of haemoglobin
+is remarkably similar, it indicates a common ancestry between the
+various primate groups.
+You learnt about haemoglobin
+in Topic 3.7, Types of protein ans
+Topic 8.4, Transport of oxygen and
+carbon dioxide in the blood.
+Are there now six kingdoms?
+The current classification system used by scientists is known as the
+"Three Domain System', and was proposed by Carl Woese, an American
+microbiologist in 1977, reusing the word 'Kingdom'. In 1990 it was
+renamed 'Domain'. Domains are a further level of classification at the
+top of the hierarchy.
+Synoptic link
+Woese's system groups organisms using differences in the sequences
+of nucleotides in the cells' ribosomal RNA (TRNA), as well as the
+cells' membrane lipid structure and their sensitivity to antibiotics
+Observation of these differences was made possible through advances
+in scientific techniques.
+You learnt about ribosomal RNA
+and nucleotides in Topic 3.8
+Nucleic acids.
+Under the Three Domain System, organisms are classified into three
+domains and six kingdoms. The three domains are Archaea, Bacteria,
+and Eukarya. The organisms in the different domains contain a unique
+form of rRNA and different ribosomes:
+• Eukarya - have 80s ribosomes
+1 RNA polymerase (responsible for most mRNA transcription)
+contains 12 proteins.
+237
+10
+CLASSIFICATION AND EVOLUTION
+Environmental causes of variation
+All organisms are affected by the environment in which they live,
+although plants may be affected to a greater degree than animals
+due to their lack of mobility. For example, two rose bushes are
+planted in different positions in a garden. The one that has greater
+access to the sun will generally grow larger than one in a shadier
+position. As the plant cannot move to gain sunlight, it is more
+affected by the environment than an animal, which could move to
+another area to look for food or shelter.
+An example of a characteristic that is determined purely by
+environmental variation is the presence (or absence) of any scars on
+your body. They will have occurred as a result of an accident or disease
+and have no genetic origin. Scars cannot be inherited from a parent.
+Figure 5 Hydrangeas (Hydrangea spp.) produce blue flowers in acidic soils and pink
+flowers in alkaline soils. This is an example of environmental variation
+Environmental and genetic causes
+In most cases variation is caused by a combination of both environmental
+and genetic factors.
+If you have very tall parents, you have most likely inherited the genes
+to also grow to a tall height. However, if you eat a very poor diet or
+suffer from disease you may only grow to below average height.
+Another example of a characteristic that shows both environmental and
+genetic causes is your skin colour. This is determined by how much of
+the pigment, melanin, it contains. The more melanin present in your
+skin, the darker your skin is. Your skin colour at birth is determined
+purely by genetics – however, when you expose your skin to sunlight
+you produce more melanin to protect your skin from harmful UV rays.
+This results in your skin turning darker.
+Study tip
+Examples of characteristics entirely
+due to the environment and without
+genetic influence are few.
+As many characteristics are caused by a combination of both genetic
+and environmental causes, it can be very difficult to investigate and
+draw conclusions about the causes of a variation in any particular
+case (however, see the Application on studying variation in identical
+twins). This is often referred to as the 'nature versus nurture'
+argument. For example, many studies have investigated the primary
+cause of variation in intelligence - genetics or environment? To date,
+no definitive conclusion has been reached.
+For example, scarring as
+discussed - some people have
+skin that forms cheloid scars that
+are very obvious, and others have
+skin that heals easily with minimal
+scarring. So even scarring has
+genetic aspects.
+However, the scars themselves
+cannot be inherited - so have only
+an environmental cause.
+249
+CLASSIFICATION AND EVOLUTION
+10
+a mass of between 3 and 7 kg - the largest raccoons
+have a mass of around 30 kg. By comparison, the giant
+pandas can exceed 100 kg body mass.
+1 Describe the adaptations of a giant panda.
+2 Explain how you would classify a giant panda.
+Give reasons for your classification.
+3 Suggest how recent biological techniques could be
+used to help classify the giant panda.
+The debate over the classification of the giant panda has
+continued for several decades.
+Similarities to a red panda:
+• Both eat bamboo and grip bamboo in the same manner.
+• Both have similar snouts, teeth and paws.
+Similarities to a bear:
+In the 1950s, the first molecular-level analysis
+of the giant panda occurred. Biologists used an
+immunological method to assess the closeness of
+bears to pandas. Through studying blood serum,
+they concluded that the 'serological affinities of the
+giant panda are with the bears rather than with the
+raccoons'. The giant panda is therefore a true bear and
+part of the Ursidae family, although it differentiated
+early in history from other bears.
+Both are a very similar shape and size.
+• Both have shaggy fur.
+. Both walk and climb in a similar manner.
+Giant pandas and red pandas may have developed
+similar ways of eating bamboo separately as a result of
+convergent evolution. Equally, convergent evolution could
+explain their resemblance to bears.
+Despite the shared name, habitat type, and diet, as well
+as a unique enlarged bone called the pseudo thumb
+(which helps them grip bamboo shoots), the giant panda
+and red panda are only distantly related. Molecular
+studies place the red panda in its own family - Ailuridae.
+Summary questions
+1 Classify the following adaptations into anatomical, behavioural or
+physiological adaptations:
+melanin production; camouflage; migration; sharp canine
+teeth; production of toxins; courtship dance
+(3 marks)
+2 State the difference between analogous and homologous
+structures.
+(1 mark)
+(1 mark)
+3 Which of the following is an example of convergent evolution?
+Explain your answer.
+a Insect wing and bird wing
+b Bat wing and human arm
+4 Select either a cactus or a hedgehog. For your chosen organism,
+state and explain how it is adapted to survive successfully in
+its habitat.
+(4 marks)
+5 State and explain how marsupial moles and placental moles
+provide evidence for convergent evolution.
+(4 marks)
+A Figure 10 The giant panda (Ailuropoda
+melanoleuca - top) shares characteristics
+with both the red panda (Ailurus fulgens
+- middle) and bears (family Ursidae - for
+example this brown bear Ursus arctos -
+bottom). As a result, scientists have argued
+about how to classify giant pandas
+263
+10.8 Changing population
+characteristics
+Specification reference: 4.2.2
+You have already learnt about the theory of evolution as a result of
+natural selection in Topic 10.4 Evidence for evolution. This process
+takes place over many, many generations; it generally takes several
+thousand years for a species to evolve. However, evolution is a dynamic
+process and is always occurring.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of: :
+► the mechanism by which
+natural selection can affect
+the characteristics of a
+population over time
+how evolution in some
+species has implications for
+human populations.
+Natural selection
+All organisms are exposed to selection pressures. These are factors that
+affect the organism's chances of survival or reproductive success (the
+ability to produce fertile offspring).
+Organisms that are best adapted to their environment are more
+likely to survive and reproduce. As a result of natural selection
+these adaptations will become more common in the population.
+Organisms that are poorly adapted are less likely to survive and
+reproduce. Therefore their characteristics are not passed on to the
+next generation. As a result, less of the population will display these
+characteristics.
+Natural selection follows a number of steps:
+1
+Study tip
+When asked to explain why a
+particular characteristic has
+increased in a population, you
+must first identify the adaptation.
+Then explain how it helps
+the organism to survive and
+reproduce so that the organism
+can pass on the allele coding
+for the characteristic to the next
+generation. Finally, state how this
+increases the allele's frequency in
+the population.
+Organisms within a species show variation in their characteristics
+that are caused by differences in their genes (genetic variation).
+For example, they may have different alleles of a gene for a
+particular characteristic. New alleles can arise by mutation.
+Organisms whose characteristics are best adapted to a selection
+pressure such as predation, competition (for mates and resources)
+or disease, have an increased chance of surviving and successfully
+reproducing. Less well-adapted organisms die or fail to reproduce.
+This process is known as 'survival of the fittest'.
+Successful organisms pass the allele encoding the advantageous
+characteristic onto their offspring. Conversely, organisms that
+possess the non-advantageous allele are less likely to successfully
+pass it on.
+This process is repeated for every generation. Over time, the
+proportion of individuals with the advantageous adaptation
+increases. Therefore the frequency of the allele that codes
+for this particular characteristic increases in the population's
+gene pool.
+Over very long periods of time, many, many generations and often
+involving multiple genes, this process can lead to the evolution of
+a new species.
+264
+10
+10.5 Types of variation
+riation in identical twins
+Many studies have been carried out on identical twins
+to determine how much of a characteristic is a result
+of genetic variation, and how much is a result of the
+environment in which a person lives.
+were fingernail biters
+suffered from migraine headaches.
+This is perhaps not too surprising. It was also discovered
+that the twins shared a number of other astonishing
+similarities. Both twins:
+Identical twins are produced when an egg splits
+after fertilisation. At this point each twin contains
+identical genetic material, therefore they show no
+genetic variation.
+had owned a dog named Toy
+. had been married twice (where both first wives were
+called Linda, and the second wives both called Betty)
+smoked the same brand of cigarettes
+had studied carpentry and mechanical drawing.
+If the twins are brought up in different environments,
+the results of environment on variation can clearly be
+seen. Even within the same environment, as the twins
+grow they will show some variation. The characteristics
+in which they show most variation must be influenced
+more greatly by the environment than by genes. Those in
+which they show least variation are controlled more by
+genes than environment.
+Of course, like other identical twins Jim Lewis and Jim
+Springer were not identical copies of each other. The
+two men styled their hair differently - one preferred
+the medium of speech to communicate, while the other
+preferred the written word.
+One of the most famous case studies on identical twins
+is the 'Minnesota Study of Twins Reared Apart'. This study
+looked at the lives of several pairs of identical twins. One
+pair was known as the 'Jim twins'. Identical twins Jim
+Lewis and Jim Springer were four weeks old when they
+were separated, and adopted into different families. They
+were later reunited, aged 39. At this point, the similarities
+the twins shared amazed researchers at the University
+of Minnesota. Many physical characteristics were shared;
+both twins:
+1 Why are identical twins used in variation studies?
+2 Why do differences between identical twins
+increase as they age?
+Look at these data. What can you determine
+about the genetic and environmental causes
+of these characteristics?
+08 LOOM
+Twin
+Height
+A
+B
+Eye Ear
+colour piercing
+brown yes
+brown no
+1.79 m
+1.81m
+• were 6 feet tall
+had a body mass of 82 kg (13 stone)
+Body
+mass
+100 kg
+85 kg
+Summary questions
+1 State the difference between interspecific and intraspecific
+variation.
+(1 mark)
+2 a Name two human characteristics with variation caused
+solely by the environment.
+b Name two human characteristics with variation caused
+solely by genetics.
+(1 mark)
+(1 mark)
+3 Explain some of the causes of variation of human hair.
+(3 marks)
+4 Explain why genetic variation is more common in organisms
+that reproduce sexually.
+(3 marks)
+250
+10
+10.2 The five kingdoms
+Archaea – have 70s ribosomes
+1 RNA polymerase of different organisms contains between eight
+and 10 proteins and is very similar to eukaryotic ribosome.
+• Bacteria - have 70s ribosomes
+I RNA polymerase contains five proteins.
+The organisation of this system is shown in Figure 4.
+common
+ancestor
+Bacteria
+Bacten
+Carenacea
+Archaea
+Eukarya
+Eukanya
+three domains
+three domains
+Eubacteria
+Archae-
+bacteria
+Protoctista
+Plantae
+Fungi
+Animalia
+six kingdoms
+A Figure 4 The three domain, six kingdom classification system
+In Woese's system the Prokaryotae kingdom becomes divided into two
+kingdoms - Archaebacteria and Eubacteria. The six kingdoms are therefore:
+Archaebacteria, Eubacteria, Protoctista, Fungi, Plantae and Animalia.
+Although both Archaebacteria and Eubacteria are single-celled
+prokaryotes, Eubacteria are classified in their own kingdom because
+their chemical makeup is different from Archaebacteria. For example,
+they contain peptidoglycan (a polymer of sugars and amino acids) in
+their cell wall whereas Archaebacteria do not.
+Archaebacteria
+Archaebacteria, also known as ancient bacteria, can live in extreme
+environments. These include hot thermal vents, anaerobic conditions, and
+highly acidic environments. For example, methanogens live in anaerobic
+environments such as sewage treatment plants and make methane.
+Eubacteria
+Eubacteria, also known as true bacteria, are found in all environments
+and are the ones you will be most familiar with. Most bacteria are of
+the Eubacteria kingdom.
+Some scientists still use the traditional five kingdom system, but
+since Archaebacteria have been found to be different chemically
+from Eubacteria, most scientists now use the three domain, six
+kingdom system.
+Figure 5 The hot springs of Yellow
+stone National Park, USA, were among
+the first places Archaebacteria were
+discovered. These types of bacteria are
+called thermophiles. They can survive
+in extreme heat
+238
+10
+10.8 Changing population characteristics
+Study tip
+The two different colour forms
+of peppered moths are due to
+different alleles - they are not
+different species. Dark and pale
+peppered moths can interbreed
+and produce fertile offspring. They
+are variations of the same species.
+the Australian National Insect Collection. Two Australian sheep
+blowflies were studied, Lucilia cuprina and the closely related
+Lucilia sericata. The researchers compared the blowflies' resistance
+genes before and after the introduction of the pesticide. Diazinon
+resistance was not found in the DNA of the 70-year-old flies,
+whereas it is present in the modern species. However, when
+they performed the same investigation with malathion (another
+organophosphate pesticide), they found resistance alleles in both
+the old and modern blowflies, showing there was pre-existing
+resistance to this chemical.
+The scientists concluded that pre-adaptation contributed to the
+development of diazinon-resistance. Pre-adaptation is when an
+organism's existing trait is advantageous for a new situation. The
+alteration in the DNA that caused the pre-existing resistance allowed
+the flies to rapidly develop resistance to organophosphate chemicals in
+general, and ultimately a specific diazinon-resistance allele.
+The existence of pre-adaptation in an organism may help researchers
+predict potential insecticide resistance in the future.
+Flavobacterium
+Most evolution occurs as a negative result of selection pressures.
+However, some organisms have evolved due to opportunities that
+have arisen in their environment. For example, scientists have
+found a new strain of Flavobacterium living in waste water from
+factories that produce nylon 6. Nylon 6 is used to make objects like
+toothbrushes and violin strings. This strain of bacteria has evolved
+to digest nylon and is therefore beneficial to humans as they help to
+clear up factory waste.
+A Figure 2 Scientists have discovered
+that sheep blowflies (Lucilia spp.) have
+an inbuilt natural resistance to some
+organophosphate insecticides. This
+allowed their rapid evolution to become
+resistant to the pesticide diazinon
+These bacteria use enzymes to digest the nylon known as nylonases.
+They are unlike any enzymes found in other strains of Flavobacterium,
+and they do not help the bacteria to digest any other known material.
+It is beneficial to the bacteria as it provides them with another source
+of nutrients.
+Synoptic link
+You learnt about genetic mutations
+in Topic 3.9, DNA replication and
+the genetic code.
+Most scientists believe that the gene mutation that occurred to produce
+these enzymes was a result of a gene duplication, combined with a
+frameshift mutation (an insertion or deletion of DNA bases that causes
+the genetic code to be read incorrectly).
+Anolis lizards
+When a few individuals of a species colonise a new
+area, their offspring initially experience a loss in genetic
+variation, often resulting in individuals that are physically
+and genetically different from their source population.
+This is known as the founder effect.
+A 14-year experiment (led by Kolbe, a biologist at the
+University of Rhode Island) was carried out to study
+evolution. Pairs of Anolis sagrei were released across
+14 small Caribbean islands that had no previous
+lizard populations. During the experiment, the lizard
+populations each became adapted to their respective
+environments through changes in their body shape
+driven by the flora in their environment. Several new
+species of lizards evolved.
+266
+10
+10.6 Representing variation graphically
+Table 1 Frequency of heights
+(measured to the nearest 2 cm)
+Height/cm
+Frequency
+140
+0
+144
+frequency (dependent variable)
+148
+23
+152
+90
+156
+261
+160
+393
+164
+458
+168
+413
+140 144 148 152 156 160 164 168 172 176 180 184 188 192
+height/cm (independent variable)
+A Figure 1 This graph shows the frequency against height for a sample of humans.
+The height of the human population ranges from the shortest person in the world to
+the tallest person. A person's height can take any value in between. This is an example
+of continuous variation
+172
+177
+176
+63
+180
+distribution curve (Figure 3). The data is said to be normally
+distributed
+184
+188
+Characteristics of a normal distribution:
+190
+192
+The mean, mode, and median are the same.
+The distribution has a characteristic 'bell shape', which is symmetrical
+about the mean.
+50% of values are less than the mean and 50% are greater than
+the mean.
+Most values lie close to the mean value - the number of individuals
+at the extremes are low.
+mean
+median
+mode
+symmetry
+Figure 2 The surface area of the
+leaves on this tree show continuous
+variation - depending on their position
+on the tree they have all grown to
+slightly different sizes
+50%
+50%
+Figure 3 A normal distribution curve
+Standard deviation
+The standard deviation is a measure of how spread out the data is.
+The greater the standard deviation is, the greater the spread of the
+data. In terms of variation, a characteristic which has a high standard
+deviation has a large amount of variation.
+When you calculate the standard deviation of data that display a
+normal distribution you will generally find that:
+252
+10.6 Representing variation
+graphically
+Specification reference: 4.2.2
+When studying variation, scientists take measurements of different
+characteristics within a species. To allow reliable conclusions to be
+formed, they need to collect measurements from large numbers of
+the population. In order to analyse and interpret this data it can be
+represented graphically. This allows any patterns to be seen clearly.
+Based on the data collected, characteristics can be sorted into
+those that show discontinuous variation and those that show
+continuous variation.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the differences between
+continuous and discontinuous
+variation using examples
+from plants, animals and
+microorganisms
+standard deviation as a
+measure of spread of data
+Student's t test to compare
+means of data values of two
+populations
+→ correlation coefficient.
+Discontinuous variation
+A characteristic that can only result in certain values is said to show
+discontinuous variation (or discrete variation). There can be no in-
+between values. Variation determined purely by genetic factors falls
+into this category. An animal's sex is an example of discontinuous
+variation as there are only two possible functional values – male
+or female.
+An example of discontinuous variation in microorganisms is the shape
+of bacteria. They can be spherical (cocci), rods (bacilli), spiral (spirilla),
+comma (vibrios) or corkscrew shaped (spirochaetes).
+Discontinuous variation is normally represented using a bar chart,
+but a pie chart may also be used. Human blood groups also show
+discontinuous variation. Like most other characteristics that show
+discontinuous variation, it is controlled by a single gene,
+the ABO gene.
+Continuous variation
+A characteristic that can take any value within a range is said to show
+continuous variation. There is a graduation in values from one extreme
+to the other of a characteristic - this is known as a continuum. The height
+and mass of plants and animals are examples of such characteristics.
+Characteristics that show continuous variation are not controlled by
+a single gene but a number of genes (polygenes). They are also often
+influenced by environmental factors.
+Data on characteristics that show continuous variation are collected
+in a frequency table (Table 1). These data are then plotted onto a
+histogram (Figure 1). Normally a curve is then drawn onto the graph
+to show the trend.
+Normal distribution curves
+When continuous variation data are plotted onto a graph, they usually
+result in the production of a bell-shaped curve known as a normal
+251
+10
+CLASSIFICATION AND EVOLUTION
+Modern examples of evolution
+Antibiotic-resistant bacteria
+Methicillin-resistant Staphylococcus aureus (MRSA) has developed
+resistance to many antibiotics. Bacteria reproduce very rapidly and
+so evolve in a relatively short time. When bacteria replicate, their
+DNA can be altered and this usually results in the bacteria dying.
+However, a mutation in some S. aureus arose that provided resistance
+to methicillin
+Synoptic link
+You will learn more about the
+development of drug resistance
+in microorganisms in Topic 12.7,
+Preventing and treating diseases.
+When the bacteria were exposed to this antibiotic, resistant individuals
+survived and reproduced, passing the allele for resistance on to their
+offspring. Non-resistant individuals died. Over time the number of
+resistant individuals in the population increased.
+Peppered moths
+Dramatic changes in the moth's environment in the 19th century
+caused changes in allele frequency in peppered moths (Biston
+betularia). Before the industrial revolution, most peppered moths
+in Britain were pale coloured. This provided camouflage against
+light-coloured tree bark, increasing their chance of survival. Those
+that were dark were easily spotted by birds and eaten. The different
+colourings are due to different alleles.
+During the industrial revolution many trees became darker - partly
+due to being covered in soot, and partly due to the loss of lichen cover
+caused by increased atmospheric pollutants. The dark moths were now
+better adapted, as they were more highly camouflaged. More dark
+peppered moths survived and reproduced, increasing the frequency of
+dark moths (and the 'dark' allele) in the population. After a few years
+the number of dark peppered moths close to industrial towns and
+cities became much higher than pale peppered moths.
+Since the Clean Air Act of 1956 steps have been taken to improve
+air quality in towns and cities, and to reduce the levels of pollution
+released from factories. The bark on the vast majority of trees in the
+UK is once again lighter coloured, and therefore the frequency of the
+pale allele in the moth gene pool has increased.
+Sheep blowflies
+Sheep blowflies (Lucilia cuprina) lay their eggs in faecal matter around
+a sheep's tail – the larvae then hatch and cause sores. This condition is
+known as 'flystrike', and if left untreated is normally fatal.
+In the 1950s in Australia, the pesticide diazinon (an organophosphate
+pesticide) was used to kill the blow flies and prevent the condition.
+Within six years, blowflies had developed a high level of resistance to
+diazinon. Individual insects with resistance survived exposure to the
+insecticide, and passed on this characteristic through their alleles,
+allowing a resistant population to evolve.
+Figure 1 Before the industrial
+revolution, pale peppered moths (Biston
+betularia) were better adapted to the
+environment. During the industrial
+revolution dark peppered moths were
+now better adapted - therefore the
+frequency of this characteristic increased
+in the population
+To investigate how this evolution occurred so quickly, scientists
+extracted DNA from a sample of 70-year-old blowflies kept at
+265
+10.4 Evidence for evolution
+Specification reference: 4.2.2
+You are probably aware that Charles Darwin is credited with
+formulating the theory of evolution. However, it was studying the
+work of a number of other scientists as well as his own observations
+that led him to develop his theory.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the evidence for the theory
+of evolution by natural
+selection, including fossils,
+DNA and molecular evidence
+the contribution of Darwin
+and Wallace in formulating
+the theory of evolution by
+natural selection.
+->
+Evolution is the theory that describes the way in which organisms
+evolve, or change, over many many years as a result of natural
+selection. Darwin realised that organisms best suited to their
+environment are more likely to survive and reproduce, passing
+on their characteristics to their offspring. Gradually, a species
+changes over time to have a more advantageous phenotype for the
+environment in which it lives. We now know that the advantageous
+characteristics are passed on from one generation to the next by genes
+in DNA molecules.
+Developing the theory of evolution
+When Charles Darwin was born in 1809, most people in Europe
+believed, in a literal sense, in the Christian Bible. They believed
+God directly created all life on Earth, including human beings. The
+Bible doesn't state how far in the past this occurred - in Darwin's day
+the common belief was that this creation had occurred only a few
+thousand years before.
+Figure 1 Charles Darwin, author of
+'On the Origin of Species'
+In 1831 aboard the HMS Beagle, Darwin read 'Principles of Geology'.
+This book was written by his friend Charles Lyell, a Scottish geologist.
+He suggested that fossils were actually evidence of animals that had
+lived millions of years ago. We now have scientific evidence that
+supports this.
+Synoptic link
+You learnt about DNA as the molecule
+of heredity in Topic 3.8, Nucleic acids
+and 3.9, DNA replication and the
+genetic code.
+In it Lyell also popularised the principle of uniformitarianism (the
+concept itself was originally proposed by another Scottish geologist,
+James Hutton). This is the idea that in the past, the Earth was shaped
+by forces that you can still see in action today, such as sedimentation
+in rivers, wind erosion, and deposition of ash and lava from volcanic
+eruptions. In emphasising these natural processes, he challenged
+the claims of earlier geologists who had tried to explain geological
+formations as a result of biblical events such as floods. This concept
+prompted Darwin to think of evolution as a slow process,
+one in which small changes gradually accumulate over very long
+periods of time.
+Darwin carried out some of his most famous observations on finches
+in the Galapagos Islands. He noticed that different islands had different
+finches. The birds were similar in many ways and thus must be closely
+related, but their beaks and claws were different shapes and sizes.
+1.
+pinnen
+teple oli
+Figure 2 Darwin 'noticed that
+the shape of the finches' beaks were
+adapted to the food available on the
+island
+Through these observations Darwin realised that the design of the
+finches' beaks was linked to the foods available on each island. He
+concluded that a bird born with a beak more suited to the food
+242
+10
+10.2 The five kingdoms
+some are sessile, but others move by cilia, flagella, or
+by amoeboid mechanisms
+• nutrients are acquired by photosynthesis (autotrophic feeders),
+ingestion of other organisms (heterotrophic feeders), or both -
+some are parasitic.
+Fungi
+General features:
+Examples include mushrooms, moulds, and
+yeast.
+Figure 2 This is an amoeba
+(Amoeba proteus), it is member of the
+Protoctista kingdom. Light micrograph
+100 magnification
+unicellular or multicellular
+a nucleus and other membrane-bound organelles and a cell wall
+mainly composed of chitin
+• no chloroplasts or chlorophyll
+• no mechanisms for locomotion
+most have a body or mycelium made of threads or hyphae
+nutrients are acquired by absorption - mainly from decaying
+material – they are saprophytic feeders - some are parasitic
+most store their food as glycogen.
+Plantae
+Examples include flowering plants such
+With over 250 000 species, as roses, trees such as oak, and grasses.
+the plant kingdom is the second largest of the kingdoms.
+A Figure 3 Two different types of fungi.
+Top: Scanning electron micrograph of
+microscopic yeast, Saccharomyces
+cerevisiae ~2000 magnification.
+Bottom: Large mushrooms
+General features:
+• multicellular
+a nucleus and other membrane-bound organelles including
+chloroplasts, and a cell wall mainly composed of cellulose
+all contain chlorophyll
+most do not move, although gametes of some plants move using
+cilia or flagella
+nutrients are acquired by photosynthesis - they are autotrophic
+feeders - organisms that make their own food
+• store food as starch.
+Animalia
+The animal kingdom is the largest kingdom with over 1 million
+known species.
+Examples include mammals such as cats,
+General features:
+reptiles such as lizards, birds, insects,
+• multicellular molluscs, worms, sponges, and anemones.
+a nucleus and other membrane-bound organelles (no cell walls)
+no chloroplasts
+move with the aid of cilia, flagella, or contractile proteins,
+sometimes in the form of muscular organs
+Study tip
+You will need to be able to explain
+how classification systems have
+changed over time as an example
+of advances in science.
+236
+10.2 The five kingdoms
+Specification reference: 4.2.2
+Originally living organisms were classified into just two kingdoms-
+animals and plants. Aristotle (384-322 BC) classified animal species in
+his text History of Animals, while his pupil Theophrastus (371-287 BC)
+wrote a parallel work, History of Plants. The animal kingdom included
+every living thing that moved, ate and grew to a certain size then
+stopped growing. The plant kingdom included every living thing that
+did not move or eat and that continued to grow throughout life.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the features used to
+classify organisms into the
+five kingdoms.
+evidence that has been used
+more recently in order to
+clarify relationships including
+evidence that has led to the
+classification of organisms
+into the three domains of life.
+As more was discovered about organisms and more species were
+discovered, it became increasingly difficult to divide living organisms
+into just two kingdoms. For example, the introduction of the
+microscope in the 16th to 17th century enabled scientists to study the
+cells of an organism and showed that bacteria have a very different
+cell structure to that of other organisms. From the 1960s, scientists
+classified organisms into five kingdoms. This classification system was
+introduced by Robert Whittaker, an American plant ecologist, based
+on the principles developed by Carl Linnaeus.
+What are the five kingdoms?
+Living organisms can be classified into five kingdoms:
+Prokaryotae (bacteria)
+the prokaryotes
+Protoctista (the unicellular eukaryotes)
+Fungi (e.g., yeasts, moulds, and mushrooms) the eukaryotes
+Plantae (the plants)
+Animalia (the animals)
+Synoptic link
+You learnt about the difference in
+the structure of prokaryotic cells
+and eukaryotic cells in Topic 2.4,
+Cell structure and Topic 2.6,
+Prokaryotic and eukaryotic cells.
+Organisms were originally classified into these kingdoms based on
+similarities in their observable features, as described below.
+Prokaryotae
+General features:
+Examples include the bacteria Escherichia coli,
+Staphylococcus aureus, and Bacillus anthracis.
+unicellular
+no nucleus or other membrane-bound organelles - a ring of 'naked'
+DNA - small ribosomes
+no visible feeding mechanism - nutrients are absorbed through the
+cell wall or produced internally by photosynthesis.
+Protoctista
+General features:
+Examples include species belonging to the
+genera Paramecium and Amoeba.
+(mainly) unicellular
+a nucleus and other membrane-bound organelles
+some have chloroplasts
+Figure 1 This is Streptococcus
+thermophilus, a type of bacteria used
+in yoghurt production. All bacteria
+belong to the Prokaryotae kingdom.
+Scanning electron micrograph,
+x 8000 magnification.
+235
+CLASSIFICATION AND EVOLUTION
+10
+Then look at the top of the tree. You will see that species
+A and B are sister groups as these share a common
+ancestor. Species E and Fare also sister groups that
+share their own common ancestor, which itself shared
+a common ancestor with species D further back in time.
+Further back in time again, C shared a common ancestor
+with D, E and F.
+1 Another species exists (species X) which shares
+a common ancestor with species D. Add a line
+onto Figure 1 to show the correct evolutionary
+relationships of species X.
+Species Y is now extinct but shared a common
+ancestor with species A and Species B. Add
+another line onto Figure 1 line to show where this
+species should be placed on the phylogenetic tree.
+Present
+O 100 W
+Advantages of phylogenetic classification
+Phylogeny can be done without reference to Linnaean
+classification. Classification uses knowledge of phylogeny in
+order to confirm the classification groups are correct or causes
+them to be changed. For example, a dolphin has many of the
+same characteristics as a fish, so in theory a dolphin could be
+classified as a fish. However, knowledge of the phylogeny of
+dolphins confirms its classification as a mammal.
+Pleistocano
+Pliocene
+Other advantages:
+Miacona
+euadobio
+Eocene
+Phylogeny produces a continuous tree whereas classification
+requires discrete taxonomical groups. Scientists are not forced
+to put organisms into a specific group that they do not quite fit.
+The hierarchal nature of Linnaean classification can be
+misleading as it implies different groups within the same
+rank are equivalent. For example, the cats (Felidae) and the
+orchids (Orchidaceae) are both families. However, the two
+groups are not comparable - one has a longer history than
+the other cats have existed for around 30 million years, but Figure 3 All species of elephant evolved from
+orchids have been in existence for over 100 million years). a palaeomastodon, which lived around 40 million
+The two families also have different levels of diversity (with years ago. Over time their appearance changed as
+approximately 35 cat species and 20000 orchid species) and the elephant adapted to the current environment.
+different degrees of biological differentiation (many orchids Today, only two species of elephant survive -- the
+of different genera are able to hybridise, but cats cannot). Indian and African elephant. The timeline stops for
+the other species of elephant as they are now extinct
+Summary questions
+1 State the main difference between early classification
+systems and systems based on phylogeny. (1 mark)
+C Explain how the diagram shows that birds are more
+closely related to crocodiles than turtles. (2 marks)
+turtles lizards snakes birds
+crocodiles present
+dinosaurs
+2 Describe the advantages of phylogenetic
+classification over the Linnaean system.
+(3 marks)
+0. Use the information in the phylogenetic
+V tree to answer the following questions:
+a State which group of organisms is most
+closely related to lizards.
+(1 mark)
+b Explain why dinosaurs are listed lower in
+the diagram than the other organisms. (2n
+common ancestor
+past
+241
+CLASSIFICATION AND EVOLUTION
+10
+Table 2 Classification of humans
+Classification of humans
+You belong to a species named Homo sapiens. This is the scientific name
+for humans. Humans are classified as shown in Table 2.
+Level of hierarchy
+Human
+Domain
+Eukarya
+Animalia
+Kingdom
+Phylum
+Chordata
+Naming organisms
+Before classification systems were widely used, many organisms were
+given names according to certain physical characteristics, behaviour
+or habitat. Examples are 'blackbirds' for their colour, 'song thrushes'
+for their song and 'fieldfares' for their habitat. These are called their
+'common names'.
+Class
+Mammalia
+Order
+Primates
+Hominidae
+Family
+Genus
+(plural - genera)
+Species
+Homo
+sapiens
+This was not a very useful system for scientists working internationally,
+as organisms may have more than one common name, and different
+names in different languages. Another problem is that common names
+do not provide information about relationships between organisms.
+For example, the blackbird, song thrush, and fieldfare all belong to the
+genus Turdus, meaning that they have all evolved from a common
+ancestor, but you wouldn't know this from their common names, nor
+necessarily from their observable characteristics.
+A Figure 3 The blackbird (Turdus merula), song thrush (Turdus philomelos) and
+fieldfare (Turdus pilaris) all belong to the genus Turdus
+To ensure scientists the world over are discussing the same organism
+we now use a system developed in the 18th century, also by Carl
+Linnaeus, a Swedish botanist. This system is known as binomial
+nomenclature.
+All species are given a scientific name consisting of two parts:
+The first word indicates the organism's genus. It is called the
+generic name; you can think of this as being equivalent to your
+surname or family name, as it is shared by close relatives.
+The second word indicates the organism's species. It is called the
+specific name.
+Unlike people, no two species have the same generic and specific
+name. Two different species could have the same specific name,
+however their genus would be different. An example of this is
+Anolis cuvieri (a lizard) and Oplurus cuvieri (a bird). The only link
+between them is that they are both named after the famous French
+naturalist and zoologist Georges Cuvier (1769-1832). Many of
+these scientific names derive from Latin.
+Study tip
+The abbreviation for species 'sp'
+is used after genus, when not
+identifying the species fully. For
+example, you may only know the
+willow tree in your garden to be
+Salix sp.
+When naming an organism using its scientific name the word should
+be presented in italics. As it is difficult to handwrite in italics, the
+The plural 'spp.' is used to refer to
+multiple species within a genus.
+233
+CLASSIFICATION AND EVOLUTION
+10
+The three-domain system
+Bacteria
+Archaea
+Eukarya
+The six-kingdom system
+Eubacteria
+Archaebacteria
+Protoctista
+Fungi
+Plantae
+Animalia
+The traditional five-kingdom system
+Prokaryotae
+Protoctista
+Fungi
+Plantae
+Animalia
+A Figure 6 This diagram shows how the three commonly used classification systems are related
+Summary questions
+1 State two differences between fungi and plants.
+(2 marks)
+2 Using the information in this topic, classify the following organisms
+into the correct kingdom using your knowledge of the Five kingdom
+system of classification:
+a Escherichia coli - an organism that lives in the human intestine.
+It is unicellular and has no nucleus.
+b Saccharomyces cerevisiae - an organism used in the manufacture of
+beer. It is unicellular and has a nucleus and a cell wall made of chitin.
+C Euglena - an organism that lives in fresh water.
+It is unicellular and contains chloroplasts.
+(3 marks)
+3 Explain why prokaryotes are now classified as two
+separate domains.
+(3 marks)
+4 Describe how and why classification systems have changed
+O over time.
+(6 marks)
+239
+CLASSIFICATION AND EVOLUTION
+10
+1 State what is meant by the founder effect.
+2 Explain why these particular islands were an ideal
+location for the experiment.
+Figure 3 A male Anolis lizard (Anolis sagrei) displaying its
+eye-catching dewlap. When enlarged it makes the lizard appear
+much bigger than it really is. This mechanism is used to ward
+off predators and to attract females during the mating season
+To determine how much of the evolution of the new
+species was due to the founder effect, and how much
+resulted from natural selection, Kolbe randomly selected
+pairs of Anolis lizards from the island of Iron Cay. He then
+released these organisms onto seven smaller islands that
+had no lizard population. Each island had the same types
+of insects, birds and short scrub vegetation but differed
+from Iron Cay, which is covered in forest.
+Forest Anolis lizards have long hind limbs, which
+allow them to move quickly across thick branches,
+whereas short limbs give scrub-living lizards stability
+to walk along narrow perches. The scientists therefore
+predicted that the lizards in their experiment would
+develop shorter hind limbs than those of the lizards
+on Iron Cay.
+After one year, the researchers noticed that the offspring
+of the experimental lizards had less genetic variability
+than the Iron Cay lizards - the founder effect. There were
+also significant differences in hind-limb length among
+the lizards on the islands. As the founder effect is a
+random process independent of the environment, there
+was no pattern to the length of the lizards' hind limbs.
+Over the next few years the lizards' hind limbs on all the
+experimental islands got shorter, making them better
+suited for their environment - natural selection.
+Kolbe concluded that both processes were evident during
+the experimental period.
+3 Explain why scientists thought the lizards would
+develop short hind limbs.
+4 Explain how the scientists showed whether the
+evolution was mainly a result of the founder effect
+or natural selection.
+5 Some scientists were surprised that all the new
+populations of species survived as the presence of
+only a few individuals leads to inbreeding. Explain
+why this is disadvantageous.
+Summary questions
+1 State three selection pressures that may be experienced
+by a plant species.
+2 Describe the process of natural selection.
+(1 mark)
+(3 marks)
+3 DDT is a chemical insecticide that was used to kill mosquitoes
+to prevent the spread of malaria. Several years after its introduction
+large populations of mosquitoes became DDT resistant.
+Explain how this occurred.
+(4 marks)
+4 Using examples, state and explain the positive and negative
+effects on humans of recent examples of evolution in
+some species.
+(6 marks)
+267
+10
+Chapter 10 Practice questions
+Practice questions
+1 As part of a sample collected from the Indian
+Ocean, scientists identified an organism as
+Hydrophis spiralis. Which of the following
+statements is/are correct about this organism?
+Statement 1: The organism belongs to the
+family Hydrophis
+Statement 2: The organism belongs to the
+species spiralis
+Statement 3: The organism belongs to the
+genus spiralis
+A 1, 2 and 3 are correct
+B 1 and 2 are correct
+C2 and 3 are correct
+D Only 1 is correct
+(1 mark)
+2 Figure 1 shows an electron micrograph of an
+invertebrate known as 'water bear'.
+called the Tardigrada. Tardigrades form
+part of the kingdom........ ........ Within
+the domain............
+(5 marks)
+State the meaning of the term phylogeny
+and explain how phylogeny is related to
+classification.
+(3 marks)
+Water bears are extremely common in
+many habitats, including household
+gardens. However, they were not
+discovered until approximately
+300 years ago.
+Suggest reasons why they were not
+known before this time.
+(2 marks)
+OCR June 2013 F212/01
+3
+Living organisms can be classified into five
+kingdoms, based on certain key characteristics.
+a Table 1 shows some of the characteristics
+of the five kingdoms.
+Copy and complete the table
+kingdom I membrane cell wall type(s) of
+bound organelles
+nutrition
+prokaryote absent present - made
+of peptidoglycan
+present
+sometimes heterotrophic
+present - and
+composition autotrophic
+varies
+A Figure 1
+a Complete the following passage about
+the classification of water bears using the
+most appropriate terms.
+The water bear, Eschiniscus trisetosus is a
+member of the genus................and the
+family Echiniscidae. This family belongs to
+the.....................Eschiniscoidea, which
+forms part of the class Heterotardigrada.
+Water bears, also known as tardigrades,
+are classified into a...... of their own
+Fungi
+present - made heterotrophic
+of chitin
+present
+autotrophic
+animal
+absent
+heterotrophic
+(6 marks)
+b An unknown species is discovered. Its
+cells contain many nuclei scattered
+throughout the cytoplasm of thread-like
+structures.
+Suggest the kingdom to which this species
+belongs
+(1 mark)
+c Living organisms can also be classified
+into three groups called domains.
+Outline the features of this system of
+classification compared with the five
+kingdom system.
+(3 marks)
+OCR F212/01 2012
+268
+10.3 Phylogeny
+Specification reference: 4.2.2
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the relationship between
+classification and phylogeny.
+In the last topic you studied how the current classification system is
+based on both shared physical characteristics between organisms and
+on evolutionary relationships. To discover the links between organisms
+and common ancestors, scientists study the organisms' DNA, proteins,
+and the fossil record.
+Phylogeny
+Phylogeny is the name given to the evolutionary relationships
+between organisms. The study of the evolutionary history of groups
+of organisms is known as phylogenetics. It reveals which group
+a particular organism is related to, and how closely related these
+organisms are. You will learn more about the evidence that scientists
+use to study evolutionary relationships in the next topic.
+Classification can occur without any knowledge of phylogeny, as
+occurred in the past. However, it is the objective of many scientists to
+develop a classification system that also correctly takes into account
+the phylogeny of an organism.
+camels pigs ruminants whales hippos
+Phylogenetic trees
+A phylogenetic tree (or evolutionary tree) is a diagram used to
+represent the evolutionary relationships between organisms. They are
+branched diagrams, which show that different species have evolved
+from a common ancestor.
+common ancestor
+The closer the branches, the closer the
+evolutionary relationship. Hippos and
+whales are more closely related than
+hippos and ruminants.
+The diagram is similar in structure to that of a branching tree - the
+earliest species is found at the base of the tree and the most recent
+species are found at the tips of the branches.
+A Figure 1 A phylogenetic tree showing
+the evolutionary relationships between
+certain mammals
+Phylogenetic trees are produced by looking at similarities and
+differences in species' physical characteristics and genetic makeup.
+Much of the evidence has been gained from fossils.
+TE
+B
+C
+D
+E
+F
+present
+How do you interpret phylogenetic trees? Oo
+The tips of the phylogenetic tree represent groups of
+A
+descendent organisms (often species). The nodes on the tree
+(the points where the new lines branch off) represent the
+common ancestors of those descendants. Two descendants
+that split from the same node are called sister groups. The
+closer the branches of the tree are, the closer the evolutionary
+relationship.
+Study Figure 2. Begin by looking at the base of the tree. The
+organism at this point is the common ancestor of all the
+organisms on the tree. The letters A-F represent six different
+species that have evolved from this ancestor.
+common ancestor
+past
+Figure 2 A phylogenetic tree structure
+240
+10
+10.1 Classification
+standard procedure in handwritten documents is to underline the
+name. The name should be written in lowercase, with the exception
+of the first letter of the genus name, which should be uppercase.
+Some examples of scientific names are included in Table 3. Split
+the name into two parts and you can easily work out which genus and
+species the organism belongs to.
+Table 3 Examples of scientific names
+Common name
+Scientific name
+Genus
+A Figure 4 This is a jungle cat (Felis
+chaus). It is closely related to the
+domestic cat (Felis catus) and both
+belong to the genus Felis
+Species
+familiaris
+dog
+Canis familiaris
+Canis
+lion
+Panthera leo
+Panthera
+leo
+Bellis perennis
+Bellis
+perennis
+daisy
+Christmas tree
+(Norway spruce)
+E.coli
+Picea abies
+Picea
+abies
+Escherichia coli
+Escherichia
+coli
+Summary questions
+1 State two reasons why classification is important.
+(2 marks)
+2 Ligers are the offspring of male lions (Panthera leo) and
+female tigers (Panthera tigris). Suggest two reasons why
+ligers are not classified as a species, but their parents are.
+3 Erithacus rubecula is the scientific name for the robin.
+Copy and complete the table to show its full classification
+(2 marks)
+(3 marks)
+Kingdom
+Animalia
+Figure 5 The domestic cat is also
+related to lions, tigers and leopards, but
+not as closely as the jungle cat. All these
+cats belong to the family Felidae
+Chordata
+Class
+Order
+Aves
+Passeriformes
+Muscicapidae
+Family
+Genus
+Species
+Study tip
+4 The loganberry (Rubus loganobaccus) is the fertile offspring
+of the blackberry (Rubus ursinus) and the raspberry (Rubus
+idaeus). Explain why the loganberry is difficult to classify into
+a taxonomic group.
+(3 marks)
+As an organism's scientific name
+may be long or difficult to pronounce,
+the genus name is often shortened to
+the first letter after the first mention
+in full. For example, baker's yeast,
+Saccharomyces cerevisiae is often
+shortened to S. cerevisiae and the
+bacterium Escherichia coli to E. coli.
+234
+10.6 Representing variation graphically
+To work out the statistical strength of the correlation, the value Synoptic link
+should be looked up in the correlation coefficient critical value
+You will learn how to calculate
+tables. Some tables refer to the number of data pairs (n); others ask
+degrees of freedom in Topic 20.4,
+you to calculate the degrees of freedom (df). The tables you will be
+Phenotypic ratios.
+using for your Spearman's rank correlation coefficient use n.
+Then look at the probability values for this number of data pairs. As before, for the data to be
+considered significantly different from chance alone, the probability must be 5% (0.05) or less - a
+certainty of 95% or more.
+1 - Tail
+test
+5%
+21%
+1%
+2 - Tail
+test
+10%
+5%
+1%
+p=0.1
+p = 0.05
+p=0.01
+4
+1.000
+...
+5
+0.900
+1.000
+6
+0.829
+0.886
+1.000
+7
+0.714
+0.786
+0.929
+8
+0.643
+0.738
+0.881
+9
+0.600
+0.700
+0.833
+10
+0.564
+0.648
+0.794
+11
+0.536
+0.618
+0.755
+12
+0.503
+0.587
+0.727
+In this case the value of 0.851 is far to the right of p = 0.01 - therefore, we can say that the correlation
+is >99% certain. As the correlation is positive, we can conclude that the greater the petiole length, the
+greater the leaf width.
+Summary questions
+1 Sort the following list into those characteristics which show continuous
+variation and those which show discontinuous variation: (2 marks)
+a the presence in humans of lobed or lobeless ears
+b the size of an E.coli bacterium
+c the height of a group of seedlings, planted for a germination experiment
+d the number of spots present on a ladybird.
+2 Describe the differences between the genetic and
+environmental control of characteristics that show
+discontinuous and continuous variation.
+(4 marks)
+3 Explain why a mean value should not normally be calculated
+for a characteristic showing discontinuous variation.
+(2 marks)
+Describe the pattern of variation that would be seen if the
+body mass of all wild rabbits was measured.
+(4 marks)
+The following data was collected from a student's
+e fieldwork study:
+Diameter of rose bush
+1 2 3 5 8
+stem/mm
+Number of thorns per unit
+8 11 9 12 12
+length
+10
+11
+14
+27
+23
+30
+a Calculate the Spearman's ranked correlation coefficient for
+this set of data
+(6 marks)
+b Evaluate the strength of the correlation calculated in part (a) (3 marks)
+258
+10
+CLASSIFICATION AND
+EVOLUTION
+10.1 Classification
+Specification reference: 4.2.2
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the taxonomic hierarchy
+of biological classification
+of species
+the binomial system of
+naming species and the
+advantage of such a system.
+No one knows how many different types of organism currently
+exist on the Earth. Through studying evolutionary relationships and
+performing mathematical calculations, in 2011 a team of scientists
+from the UK, USA, and Canada arrived at a widely accepted estimate
+of 8.7 million. However, the vast majority of these organisms have
+not been identified, and cataloguing them all could take more than
+1000 years. The team also warned that many species would become
+extinct before they were studied.
+Classification systems
+Classification is the name given to the process by which living
+organisms are sorted into groups. The organisms within each group
+share similar features.
+Kingdom
+phylum phylum phylum phylum phylum phylum phylum
+class
+class
+class
+class
+class
+A number of different classification systems exist. Until
+recently the most widely used system contained seven groups
+ordered in a hierarchy – these are referred to as taxonomic
+groups. The seven groups are: kingdom, phylum (plural
+phyla), class, order, family, genus (plural genera) and
+species (Figure 1). Kingdoms are the biggest and broadest
+taxonomic group, with species being the smallest and
+most specific classification. Similar or related groups at one
+hierarchical level are combined into more inclusive groups at
+the next higher level.
+order
+order
+order
+order
+order
+family
+family
+family
+family
+family
+genus
+genus genus
+species species species
+Hierarchical classification systems are often referred to as
+A Figure 1 This diagram shows how the seven
+Linnaean classification, after the 19th century Swedish
+taxonomic groups are arranged into a hierarchy. botanist, Carl Linnaeus who was the first to propose such
+An organism can only belong to one group at
+a system.
+each level of the hierarchy
+Based on recent studies of genetic material many scientists now add
+a further level of classification into the hierarchy. It is known as a
+domain (you will find out more about the three domain system
+of classification in Topic 10.2, The five kingdoms). This level of
+classification is placed at the top of the hierarchy. As new scientific
+discoveries are made (for example, through genome sequencing), the
+current system of classification may change again.
+230
+10
+10.4 Evidence for evolution
+Palaeontology
+Fossils are formed when animal and plant remains are preserved in
+rocks. Over long periods of time, sediment is deposited on the earth
+to form layers (strata) of rock. Different layers correspond to different
+geological eras, the most recent layer being found on the top. Within
+the different rock strata the fossils found are quite different, forming a
+sequence from oldest to youngest, which shows that organisms have
+gradually changed over time. This is known as the fossil record.
+Evidence provided by the fossil record:
+Fossils of the simplest organisms such as bacteria and simple
+algae are found in the oldest rocks, whilst fossils of more complex
+organisms such as vertebrates are found in more recent rocks. This
+supports the evolutionary theory that simple life forms gradually
+evolved over an extremely long time period into more complex ones.
+The sequence in which the organisms are found matches their
+ecological links to each other. For example, plant fossils appear
+before animal fossils. This is consistent with the fact that animals
+require plants to survive.
+By studying similarities in the anatomy of fossil organisms,
+scientists can show how closely related organisms have evolved
+from the same ancestor. For example zebras and horses, members
+of the genus Equus, are closely related to the rhinoceros of
+the family Rhinocerotidae. An extensive fossil record of these
+organisms exists, which spans over 60 million years and links
+them to the common ancestor Hyracotherium. This lineage has
+been based on structural similarities between their skull
+(including teeth) and skeleton, in particular the feet (Figure 4).
+Fossils allow relationships between extinct and living (extant)
+organisms to be investigated.
+A Figure 4 You may be surprised to
+learn that bacteria can become fossils.
+The cyanobacteria (blue-green algae)
+have left behind a fossil record. The
+oldest cyanobacteria-like fossils known
+are nearly 3.5 billion years old, among
+the oldest fossils currently known
+The fossil record is, however, not complete. For example, many
+organisms are soft-bodied and decompose quickly before they have a
+chance to fossilise. The conditions needed for fossils to form are not
+often present. Many other fossils have been destroyed by the Earth's
+movements, such as volcanoes, or still lie undiscovered.
+Hippomorpha
+one toe per foot
+Equidae
+Equus
+(includes horses
+and zebras)
+Perissodactyla
+mammals with hooves, odd
+number of toes on rear feet
+(inlcudes Hyracotherium)
+Tapirdae
+short prehensile
+tail
+Tapirus
+(includes mountain
+and Baird's tapirs )
+Ceratomorpha
+more than one
+toe per foot
+Rhinocerotidae
+large keratin
+horn(s)
+Rhinoceros
+(includes black
+and white rhinos)
+Figure 5 This evolutionary tree shows that zebras and horses are closely
+related to the rhinoceros
+244
+10
+CLASSIFICATION AND EVOLUTION
+available would survive longer than a bird whose beak was less suited.
+Therefore, it would have more offspring, passing on its characteristic
+beak. Over time the finch population on that island would all share
+this characteristic.
+Throughout his trip Darwin sent specimens of organisms back to the
+UK for other scientists to preserve and classify. This enabled scientists
+not only to see specimens first hand but also enabled them to spot
+characteristics and links between organisms that Darwin had not.
+For example, Darwin did not notice that the tortoises (which the
+Galapagos islands are named after) present on different islands were
+different subspecies. Before this was pointed out to him he had simply
+stacked their shells randomly in the hold.
+Upon his return to England, Darwin spent many years developing
+ideas. He also carried out experimental breeding of pigeons to gain
+direct evidence that his ideas might work.
+At the same time as Darwin was developing his ideas, another
+scientist, Alfred Wallace, was working on his own theory of evolution
+in Borneo. In 1858 he sent his ideas to Darwin for peer review before
+its publication. As Wallace's ideas were so similar to Darwin's, they
+proposed the theory of evolution through a joint presentation of two
+scientific papers to the Linnean Society of London on 1st July 1858.
+A year later in 1859, Darwin published 'On the Origin of Species'. It was in
+this book that he named the theory that he and Wallace had presented
+independently as the theory of evolution by natural selection (see
+Topic 10.7, Adaptations).
+The book was extremely controversial at the time. The theory of
+evolution conflicted with the religious view that God had created all
+of the animals and plants on Earth in their current form, and only
+about six thousand years ago. A further implication of Darwin's theory
+is that humans are simply a type of animal evolved from apes, which
+conflicted with the widely held Christian belief that God created 'man'
+in his own image.
+Darwin's theory split the scientific community before his idea became
+generally agreed. Darwin's theory of evolution is now widely accepted,
+however, even today, debate with religious groups continues.
+Evidence for evolution
+Scientists use a number of sources to study the process of evolution.
+These include:
+palaeontology - the study of fossils and the fossil record
+comparative anatomy - the study of similarities and differences
+between organisms' anatomy
+comparative biochemistry - similarities and differences between
+the chemical makeup of organisms.
+A Figure 3 One of the most common
+fossils found in the UK is an ammonite,
+an organism that lived in the sea.
+These organisms became extinct about
+65 million years ago. Radioisotope
+dating is used to determine the age of
+the rock strata and the fossils found
+within the layer
+243
+10
+CLASSIFICATION AND EVOLUTION
+(6) Worked example – Using Spearman's rank correlation coefficient to compare ivy
+leaves' petiole length and leaf width
+The correlation coefficient is calculated using the following formula:
+6502
+p=1-
+n(n? - 1)
+where:
+p = correlation coefficient
+E = the sum (total) of
+d= difference in ranks
+n = number of pairs of data
+The group of students next wanted to find out if the petiole length of the ivy was related to the width
+of an ivy leaf. They took a sample of 10 ivy leaves from the north facing side of the stump. The data
+they collected is shown below.
+Sample Number 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 10
+Petiole length/mm 28 58 57 59 27 59 44 54 79 63
+Leaf width/mm 38 66 64 66 30 65 48 54 78 62
+The data for the two variables should be rank ordered, from lowest to highest. Using a table can help
+to make manipulating the data more straightforward.
+Where identical values exist, the 'average rank' should be used. So, if two equal values appear at
+rank 5, both are assigned the rank 5.5 (between ranks 5 and 6).
+leaf
+width/mm
+Rank: leaf
+petiole
+length /mm
+28
+58
+Rank: petiole
+length
+2
+Rank
+differenced
+38
+2
+66
+o
+8.5
+-2.5
+6.25
+64
+u
+59
+66
+7.5
+27
+30
+1
+59
+65
+7.5
+0.25
+44
+48
+54
+54
+mto
+OO
+79
+78
+63
+62
+16
+d? = 24.5
+6202
+Substituting values from the table:
+LAS (6 x 24.5)
+n(112 – 1) 10 % (102 - 1)
+where:
+p=l_
+351
+1990)
+An r value of +1 shows a perfect positive correlation.
+An I value of -1 shows a perfect negative correlation
+An r value of O shows no correlation
+Therefore in this example, petiole length and leaf width show an excellent correlation.
+257
+CLASSIFICATION AND EVOLUTION
+NO EVOLUTION
+10
+Comparative anatomy
+As the fossil record is incomplete, scientists look for other sources
+of evidence to determine evolutionary relationships. Comparative
+anatomy is the study of similarities and differences in the anatomy
+of different living species.
+mole
+Homologous structures
+A homologous structure is a structure that appears superficially
+different (and may perform different functions) in different organisms,
+but has the same underlying structure. An example is the pentadactyl
+limb of vertebrates.
+horse
+Vertebrate limbs are used for a wide variety of functions such as running,
+jumping, and flying. You would expect the bone structure of these
+limbs in a flying vertebrate to be very different from that in a walking
+vertebrate or a swimming vertebrate. However, the basic structures of
+all vertebrate limbs are actually very similar (Figure 6) - the same bones
+are adapted to carry out the whole range of different functions. An
+explanation is that all vertebrates have evolved from a common ancestor,
+therefore vertebrate limbs have all evolved from the same structure.
+porpoise
+bat
+The presence of homologous structures provides evidence for
+divergent evolution. This describes how, from a common ancestor,
+different species have evolved, each with a different set of adaptive
+features. This type of evolution will occur when closely related
+species diversify to adapt to new habitats as a result of migration or
+loss of habitat.
+human
+Comparative biochemistry
+Comparative biochemistry is the study of similarities and differences
+in the proteins and other molecules that control life processes. Although
+these molecules can change over time, some important molecules are
+A Figure 6 These are the pentadactyl
+limbs from a number of organisms
+(not to scale). Scientists believe that
+their function has altered as a result of
+evolution from a common ancestor. The
+changes in bone structures of organisms
+living in the past can be studied through
+the fossil record
+Evolutionary embryology
+Evolu
+DOSSOS
+(1395993
+Embryology is the study of embryos. It is another source
+of evidence to show evolutionary relationships. An
+embryo is an unborn (or unhatched) animal in its earliest
+phases of development. Embryos of many different
+animals look very similar and it is often difficult to tell
+them apart. This shows that the animals develop in a
+similar way, implying that the processes of embryonic
+development have a common origin and the animals
+share common ancestry but have gradually evolved
+different traits.
+A Figure 7 Darwin used Haeckel's
+drawings of embryos as evidence
+for evolution
+Many traits of one type of animal appear in the embryo
+of another type of animal. For example, fish, and human
+embryos both have gill slits. In fish these develop into
+gills, but in humans they disappear before birth.
+Darwin considered the evidence from embryology to be
+'by far the strongest single class of facts in favour of
+his theory. He studied a series of drawings produced
+245
+CLASSIFICATION AND EVOLUTION
+10
+The development of classification systems oo
+1 Explain why the classification system we use
+today is different from the one originally proposed
+by Aristotle around the year 350 BC.
+The system of classification of living organisms
+provides a good example of how our scientific
+knowledge and understanding has developed over time,
+as new information is gathered or discovered. Advances
+in scientific techniques have provided more detailed
+information on the genetic and biological make up of
+organisms, which has led to several revisions in the
+way organisms are classified. Our current system of
+classification may well change in the future, as further
+discoveries are made.
+Some of the key steps in the development of the current
+system of classification are shown here:
+Konrad Gesner, a
+Swiss botanist,
+produces a four
+volume
+encyclopaedia
+of the then-known
+animal world,
+consisting of over
+4500 pages
+Ernst Haeckel, a
+German biologist
+and naturalist,
+proposes the third
+kingdom of
+protoctista,
+in addition to
+Linnaeus' animal
+and plant kingdoms
+Following genetic
+analysis, Carl Woese
+introduces the six
+kingdom
+classification model,
+sub-dividing the
+prokaryotes into
+archaebacteria and
+eubacteria
+1551
+1866
+1977
+350 BC
+1758
+1969
+Aristotle compiles
+his book 'A history
+of animals', the
+first comprehensive
+study of animals
+Carl Linnaeus
+publishes the tenth
+edition of his book
+Systema Naturae,
+now considered the
+starting point of
+binomial nomenclature
+A five kingdom
+classification system
+is proposed by Robert
+Whittaker, consisting
+of prokaryotae,
+protoctista, fungi,
+plantae, and animalia
+Why do scientists classify organisms?
+• To identify species - by using a clearly defined system of classification,
+the species an organism belongs to can be easily identified.
+To predict characteristics – if several members in a group have a
+specific characteristic, it is likely that another species in the group
+will have the same characteristic.
+To find evolutionary links - species in the same group probably share
+characteristics because they have evolved from a common ancestor.
+By using a single classification system, scientists worldwide can
+share their research. Links between different organisms can be seen,
+even if they live on different continents. Remember, though, that
+classification systems have been created to order observed organisms.
+This form of hierarchical organisation is not defined by 'nature'.
+231
+10
+10.1 Classification
+How are organisms classified?
+The classification system begins by separating organisms into the
+three domains - Archaea, Bacteria, and Eukarya (discussed further in
+Topic 10.2, The five kingdoms). These are the broadest groups. As you
+move down the hierarchy there are more groups at each level, but
+fewer organisms in each group. The organisms in each group become
+more similar and share more of the same characteristics.
+The system ends with organisms being classified as individual species.
+These are the smallest units of classification - each group contains only
+one type of organism. A species is defined as a group of organisms
+that are able to reproduce to produce fertile offspring. For example,
+donkeys can reproduce with other donkeys, the offspring of which can
+subsequently breed. Likewise, horses can breed with other horses to
+produce fertile offspring. However, when a horse is bred with a donkey,
+the offspring produced (a mule or a hinny) is infertile. Therefore,
+donkeys and horses are classified as belonging to different species.
+Mules or hinnies are not a species.
+Synoptic link
+You learnt about meiosis in Topic
+6.3, Meiosis.
+Mules and hinnies are infertile because their cells contain an odd number
+of chromosomes (63). This means that meiosis and gamete production
+cannot take place correctly as all chromosomes must pair up. This
+chromosome number is created because horses have 64 chromosomes
+(32 pairs) whereas donkeys have 62 chromosomes (31 pairs).
+Study tip
+Do not confuse viable offspring
+with fertile offspring. Viable means
+the organism produced survives,
+but does not mean that it is
+capable of producing offsping.
+Figure 2 Mules (left) are produced by crossing a horse (Equus caballus, middle) and a
+donkey (Equus asinus, right). Because a mule is infertile, it is not classified as a species.
+To show how the system works, the classification of three organisms is
+given in Table 1.
+Table 1 Classification of three organisms, you do not need to learn these examples
+Level of hierarchy
+European badger
+Brewer's yeast
+Eukaryote
+English oak tree
+Eukaryote
+Domain
+Eukaryote
+Kingdom
+Fungi
+Plantae
+Animalia
+Phylum
+Ascomycota
+Angiosperms
+Chordata
+Mammalia
+Class
+Saccharomycetes
+Eudicots
+Order
+Saccharomycetales
+Fagales
+Carnivora
+Family
+Saccharomycetaceae
+Fagaceae
+Mustelidae
+Genus
+Quercus
+Meles
+Saccharomyces
+cerevisiae
+Species
+robur
+meles
+232
+10
+10.4 Evidence for evolution
+by biologist Ernst Haeckel that depicted the growth
+of embryos from various classes of vertebrates. The
+pictures show that the embryos begin looking virtually
+identical (suggesting common ancestry), but as they
+develop, their appearances diverge to take the form of
+their particular group.
+As new organs or structures evolved, these features
+develop at the end of an organism's embryonic
+development. As a result, an organism's evolutionary
+history can be traced in the development of its embryos.
+1 Explain whether embryos could form part of the
+fossil record.
+Synoptic link
+You learnt about ribosomal RNA
+and its role in protein synthesis in
+Topic 3.10, Protein synthesis.
+highly conserved (remain almost unchanged) among species. Slight
+changes that occur in these molecules can help identify evolutionary
+links. Two of the most common molecules studied are cytochrome c, a
+protein involved in respiration, and ribosomal RNA.
+Synoptic link
+As well as using DNA to demonstrate
+evolutionary relationships it can
+also be used for other things. You
+will learn more examples of this in
+Topic 21.1, DNA profiling.
+The hypothesis of neutral evolution states that most of the variability in
+the structure of a molecule does not affect its function. This is because
+most of the variability occurs outside of the molecule's functional
+regions. Changes that do not affect a molecule's function are called
+'neutral'. Since they have no effect on function, their accumulation
+is not affected by natural selection. As a result, neutral substitutions
+occur at a fairly regular rate, although that rate is different for different
+molecules.
+To discover how closely two species are related, the molecular sequence
+of a particular molecule is compared. (Scientists do this by looking at
+the order of DNA bases, or at the order of amino acids in a protein.)
+The number of differences that exist are plotted against the rate the
+molecule undergoes neutral base pair substitutions (which has been
+determined through studies). From this information scientists can
+estimate the point at which the two species last shared a common
+ancestor. Species that are closely related have the more similar DNA
+and proteins, whereas those that are distantly related have far fewer
+similarities. Ribosomal RNA has a very slow rate of substitution, so
+it is commonly used together with fossil information to determine
+relationships between ancient species.
+Summary questions
+1 Describe what is shown on a phylogenetic tree.
+(2 marks)
+2 Describe two advantages and two disadvantages of using
+the fossil record as a source of evidence for evolution.
+Figure 8 Humans and chimpanzees
+have very similar DNA sequences. They
+have been found to share at least 98%
+of their DNA. This provides evidence that
+chimpanzees are humans' closest living
+relatives
+(4 marks)
+3 Describe how the work of three scientists was used
+in the development of the theory of evolution.
+(6 marks)
+4 Explain how comparative biochemistry provides evidence
+of evolution.
+(3 marks)
+246

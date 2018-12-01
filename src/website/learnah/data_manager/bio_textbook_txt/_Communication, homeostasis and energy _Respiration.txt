@@ -1,0 +1,1179 @@
+RESPIRATION
+18
+b
+The electron micrograph shows a
+mitochondrion from an animal cell
+(x31400 magnification).
+SA
+(i) Name the structure labelled A.
+(1 mark)
+(ii) Name the specific process that is
+carried out by structure A in the
+mitochondrion.
+(1 mark)
+Some animals conserve energy by
+entering a state of torpor (a short period
+of dormancy), in which they allow their
+body temperature to fall below normal for
+a number of hours.
+In an investigation into torpor in the
+Siberian hamster, Phodopus sungorus, the
+animal's respiratory quotient (RQ) was
+measured before and during the period
+of torpor.
+The respiratory quotient is determined by
+the following equation:
+po volume of carbon dioxide produced
+volume of oxygen consumed
+in the same time
+RQ values for different respiratory
+substrates have been determined and are
+shown in the table.
+substrate
+RO
+carbohydrate
+1.0
+lipid
+0.7
+protein
+0.9
+(i)
+Initially, the RQ value determined
+for the hamster was 0.95, but as the
+period of torpor progressed, its RQ
+value decreased to 0.75.
+What do these values suggest about
+the substrates being respired by
+the hamster during the period of
+investigation?
+(3 marks)
+OCR F214 2010
+497
+18
+RESPIRATION
+The phosphorylation of ADP to form ATP is dependent on electrons
+moving along electron transport chains. This requires the presence of
+oxygen and is known as oxidative phosphorylation.
+The hydrogens released from NAD and FAD could combine directly
+with oxygen, releasing energy from the formation of bonds during
+the production of water. However, this energy could not be used to
+synthesise ATP. Heat released in the exothermic reaction would simply
+raise the temperature of the cell.
+Substrate level phosphorylation
+Substrate level phosphorylation is the production of ATP involving
+the transfer of a phosphate group from a short-lived, highly
+reactive intermediate such as creatine phosphate. This is different
+from oxidative phosphorylation which couples the flow of protons
+down the electrochemical gradient through ATP synthase to the
+phosphorylation of ADP to produce ATP.
+Summary questions
+1 Explain why hydrogens have to be actively pumped across
+the membrane from the matrix and return to the matrix by
+diffusion through ATP synthase.
+Study tip
+Oxidative phosphorylation is a
+process that occurs along the
+electron transport chain, which
+involves a series of membrane-
+bound enzyme complexes.
+(4 marks)
+2 Explain why the electrons released from reduced FAD lead
+to the synthesis of less ATP than the electrons released
+from reduced NAD.
+(4 marks)
+3 Cyanide is a respiratory poison. It attaches to the iron in the
+haem group of cytochrome c oxidase in complex IV of the
+electron transport chain.
+Suggest an explanation for the toxicity of cyanide.
+(4 marks)
+Explain, with reasons, whether you agree
+with the following statements.
+(6 marks)
+ATP synthase is not actually part of the electron transport chain.
+Oxygen is required for the transfer of electrons along the electron
+transport chain.
+Hydrogen ions return to the matrix by facilitated diffusion.
+487
+18.5 Anaerobic respiration
+Specification reference: 5.2.2
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the process of anaerobic
+respiration in eukaryotes
+practical investigations into
+respiration rates in yeast,
+under aerobic and anaerobic
+conditions.
+Aerobic respiration was not possible when life began, as there was
+no oxygen present in the atmosphere of the Earth at that time. It
+is a relatively new process in evolutionary terms but as it is a far
+more efficient process than anaerobic respiration it was rapidly
+selected for. Aerobic respiration produces around 38 molecules of
+ATP per glucose molecule whereas fermentation (a form of anaerobic
+respiration) only produces two molecules of ATP (net).
+Anaerobic respiration in eukaryotic organisms
+Eukaryotic cells respire aerobically if enough oxygen is available.
+Anaerobic respiration, resulting in the synthesis of smaller quantities
+of ATP, occurs in the absence of oxygen and is also used when oxygen
+cannot be supplied fast enough to respiring cells. The use of this less
+efficient process to produce ATP is a temporary 'emergency' measure
+to keep vital processes functioning.
+Organisms fall into different categories determined by their dependence
+on oxygen or not:
+obligate anaerobes - cannot survive in the presence of oxygen.
+Almost all obligate anaerobes are prokaryotes, for example,
+Clostridium (bacteria that cause food poisoning), although there are
+some fungi as well.
+facultative anaerobes - synthesise ATP by aerobic respiration if
+oxygen is present, but can switch to anaerobic respiration in the
+absence of oxygen, for example, yeast.
+obligate aerobes - can only synthesise ATP in the presence of
+oxygen, for example, mammals. The individual cells of some
+organisms, such as muscle cells in mammals, can be described as
+facultative anaerobes because they can supplement ATP supplies by
+employing anaerobic respiration in addition to aerobic respiration
+when the oxygen concentration is low. However, this is only for short
+periods and oxygen is eventually required. The shortfall of oxygen
+during the period of anaerobic respiration produces compounds that
+have to be broken down when oxygen becomes available again, so
+the organism as a whole is an obligate aerobe.
+Fermentation
+Fermentation (a form of anaerobic respiration) is the process by
+which complex organic compounds are broken down into simpler
+inorganic compounds without the use of oxygen or the involvement
+of an electron transport chain. The organic compounds, such as
+glucose, are not fully broken down so fermentation produces much
+less ATP than aerobic respiration. The small quantity of ATP produced
+is synthesised by substrate-level phosphorylation alone.
+The end products of fermentation differ depending on the organism.
+Alcoholic fermentation occurs in yeast and some plant root cells.
+488
+18
+RESPIRATION
+In eukaryotic cells, pyruvate enters the mitochondrial matrix
+by active transport via specific carrier proteins. Pyruvate then
+undergoes oxidative decarboxylation - carbon dioxide is removed
+(decarboxylation) along with hydrogen (oxidation). The hydrogen
+atoms removed are accepted by NAD. NAD is reduced to form NADH
+(reduced NAD). The resulting two-carbon acetyl group is bound
+by coenzyme A forming acetylcoenzyme A (acetyl CoA). The
+International Union of Pure and Applied Chemistry (IUPAC) name
+for the acetyl group is the ethanoyl group, but the terms acetyl and
+acetylcoenzyme A are so widely known and used by biologists that
+the traditional names are retained.
+Acetyl CoA delivers the acetyl group to the next stage of aerobic
+respiration, known as the Krebs cycle. The reduced NAD is used in
+oxidative phosphorylation to synthesise ATP (Topic 18.4, Oxidative
+phosphorylation).
+Acetyl groups are now all that is left of the original glucose molecules.
+The carbon dioxide produced will either diffuse away and be removed
+from the organism as a metabolic waste or, in autotrophic organisms,
+it may be used as a raw material in photosynthesis.
+Summary questions
+1 Explain why the removal of carbon dioxide in the link
+reaction is called oxidative.
+Synoptic link
+You learnt about coenzymes in
+Topic 4.4, Cofactors, coenzymes,
+and prosthetic groups.
+(2 marks)
+2 Name one organic compound and one inorganic compound
+produced in the link reaction.
+(2 marks)
+(3 marks)
+Study tip
+3 Copy and complete the equation.
++ CoA + NAD → _ _ + C0, +.
+Remember that each glucose
+molecule produces two pyruvate
+molecules which both go through
+the subsequent stages.
+4 Suggest why glycolysis occurs in the cytoplasm but not
+the mitochondrial matrix.
+(4 marks)
+483
+18
+RESPIRATION
+Here the end products are ethanol (an alcohol) and carbon dioxide.
+Lactate fermentation results in the production of lactate and is
+carried out in animal cells.
+When there is no oxygen to act as the final electron acceptor at the
+end of the electron transport chain in oxidative phosphorylation,
+the flow of electrons stops. This means the synthesis of ATP by
+chemiosmosis also stops.
+As the flow of electrons along the electron transport chain has
+stopped, the reduced NAD and reduced FAD are no longer able to be
+oxidised because there is nowhere for the electrons to go. This means
+NAD and FAD cannot be regenerated and so the decarboxylation and
+oxidation of pyruvate and the Krebs cycle comes to a halt as there are
+no coenzymes available to accept the hydrogens being removed.
+Glycolysis would also come to halt due to the lack of NAD if it were
+not for the process of fermentation.
+Lactate fermentation in mammals
+In mammals, pyruvate can act as a hydrogen acceptor taking
+the hydrogen from reduced NAD, catalysed by the enzyme
+pyruvate
+lactate
+lactate dehydrogenase. The pyruvate is converted to
+lactate (lactic acid) and NAD is regenerated. This can be used
+to keep glycolysis going so a small quantity of ATP is still
+synthesised. In mammals in particular, anaerobic respiration
+in the muscles is often supported by ATP from aerobic
+respiration, which is still being produced as fast as oxygen
+reduced NAD
+NAD
+can be delivered in other parts of the body.
+Figure 1 Summary of lactate fermentation in mammals
+Lactic acid is converted back to glucose in the liver but
+oxygen is needed to complete this process. This is the reason for the
+oxygen debt (and the need to breathe heavily) after exercise.
+Lactate fermentation cannot occur indefinitely for two main reasons:
+the reduced quantity of ATP produced would not be enough to
+maintain vital processes for a long period of time
+the accumulation of lactic acid causes a fall in pH leading to
+proteins denaturing. Respiratory enzymes and muscle filaments
+are made from proteins and will cease to function at low pH.
+Lactic acid is removed from muscles and taken to the liver in the
+bloodstream. One of the main aims when improving physical fitness is
+to increase the blood supply and flow, through muscles. This increases
+the rate of lactic acid removal allowing the intensity and duration of
+exercise to be increased.
+OO
+ethanol
+pyruvate
+ethanal
+Alcoholic fermentation in yeast (and many plants)
+s
+Alcoholic fermentation is not a reversible process
+like lactate fermentation. Pyruvate is first converted
+to ethanal, catalysed by the enzyme pyruvate
+decarboxylase. Ethanal can then accept a hydrogen
+atom from reduced NAD, becoming ethanol. The
+regenerated NAD can then continue to act as a
+coenzyme and glycolysis can continue.
+reduced NAD
+NAD
+A Figure 2 Summary of alcoholic fermentation in yeast and plant cells
+489
+18
+18.5 Anaerobic respiration
+This is not a short-term process and can continue indefinitely in
+the absence of oxygen. Ethanol is a toxic waste product to yeast
+cells and they are unable survive iſ the ethanol accumulates above
+approximately 15%. This is allowed to happen during the production
+of alcohol in brewing or wine making.
+Investigation into respiration rates in yeast
+interface
+The apparatus shown could be used to measure the rate
+of carbon dioxide production of a yeast suspension. This
+will be equivalent to the rate of anaerobic respiration or
+alcoholic fermentation of the yeast cells.
+temperature sensor
+The glucose in solution provides a respiratory substrate.
+The flask is sealed during the experiment to ensure
+anaerobic conditions.
+vacuum
+flask
+computer
+Figure 4
+As the yeast respires carbon dioxide is released increasing
+the volume of gas in the flask. As the volume of gas in
+the tube increases the pressure will increase causing
+the coloured liquid to move along the capillary tube. The
+distance moved by the liquid together with diameter of the
+tube can be used to calculate the increase in volume of
+gas (carbon dioxide) in the flask over a certain time. This
+is a measure of the rate of respiration.
+stained
+water drop
+The student placed a solution containing yeast and
+glucose in the flask and inserted a carbon dioxide sensor.
+The solution was covered with a layer of liquid paraffin.
+The software was set up to record readings every
+50 seconds for 1600 seconds.
+The readings were displayed in graphical form shown in
+Figure 5.
+5000
+water
+brewer's yeast
+carbohydrates
+4000 -
+3000
+Figure 3 Diagram
+showing the apparatus
+used to measure the
+anaerobic respiration
+in yeast
+Š 2000
+1000
+0
+Data logging
+Respiration is not 100% efficient and energy is lost as
+heat when organisms respire.
+200 400 600 800 1000 1200 1400 1600
+time/s
+A Figure 5
+When yeast respires it produces heat which will increase
+the temperature of a solution containing yeast. Sensors
+can be used to measure changes in temperature.
+A student carried out an investigation into respiration in
+yeast using a data logger to measure the changes in carbon
+dioxide concentration as a measure of the rate of respiration.
+1 Explain why the student did the following:
+Carried out the investigation in a vacuum flask
+Covered the solution containing the yeast with
+liquid paraffin
+2 Calculate, using Figure 5, the fastest rate of
+respiration observed during the investigation.
+3 Suggest why the graph eventually reached a plateau.
+Describe how the apparatus could be adapted to
+investigate aerobic respiration.
+The student set up the apparatus to be used as shown in
+Figure 4.
+490
+18.3 The Krebs cycle
+Specification reference: 5.2.2
+The Krebs cycle also takes place in the mitochondrial matrix and each
+complete cycle results in the breakdown of an acetyl group. Acetyl
+groups are all that remain of the glucose that entered glycolysis. It is
+another complex multi-step pathway, summarised here.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the process and site of the
+Krebs cycle
+the importance of coenzymes
+in cellular respiration.
+As in the previous stages, the Krebs cycle involves decarboxylation,
+dehydrogenation, and substrate-level phosphorylation. The hydrogen
+atoms released are picked up by the coenzymes NAD and flavin
+adenine dinucleotide (FAD). Carbon dioxide is a by-product of
+these reactions and the ATP produced is available for use by energy-
+requiring processes within the cell.
+The reduced NAD and reduced FAD produced are used in the
+final, oxygen-requiring step of aerobic respiration (Topic 18.4,
+Oxidative phosphorylation) to produce large quantities of ATP by
+chemiosmosis.
+8 pyruvic acid
+NAD+
+CO2+ reduced NAD
+acetyl-CoA
+citric acid (6C)
+COA
+OAA (4C)
+reduced NAD
+NAD+
+reduced NAD
+NAD+ -
+- NAD+
+reduced NAD
+FADHO
+FAD
+ATR ADP+;P
+Figure 1 The Krebs cycle
+Acetyl CoA delivers an acetyl group to the Krebs cycle. The two-
+carbon acetyl group combines with four-carbon oxaloacetate to
+form six-carbon citrate.
+The citrate molecule undergoes decarboxylation and
+dehydrogenation producing one reduced NAD and carbon dioxide.
+A five-carbon compound is formed.
+The five-carbon compound undergoes further decarboxylation and
+dehydrogenation reactions, eventually regenerating oxaloacetate,
+3
+484
+18
+18.5 Anaerobic respiration
+Summary questions
+Synoptic link
+It may be useful to look back at
+Topic 3.11, ATP.
+1 Explain why yeast cells are described as facultative anaerobes.
+(2 marks)
+2 Describe why alcoholic fermentation can be described as having more in
+common with aerobic respiration than with fermentation. (3 marks)
+Study tip
+3 Explain why the build-up of lactic acid eventually stops
+muscle contraction which we experience as fatigue.
+(4 marks)
+Lactate fermentation is important
+because it regenerates NAD which
+allows glycolysis to continue.
+Lactate, or lactic acid, is not a waste
+product, it is recycled as glucose.
+4 Glycolysis, the anaerobic stage of respiration, is the only source
+of ATP in red blood cells. Cardiac muscle is adapted to reduce the
+chances of anaerobic respiration ever being needed.
+Outline the benefits to red blood cells and cardiac muscle of
+the different types of respiration they undertake.
+(6 marks)
+492
+18.4 Oxidative phosphorylation
+Specification reference: 5.2.2
+Oxidative phosphorylation
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the process and site of
+oxidative phosphorylation.
+The hydrogen atoms that have been collected by the coenzymes NAD
+and FAD are delivered to electron transport chains present in the
+membranes of the cristae of the mitochondria.
+The hydrogen atoms dissociate into hydrogen ions and electrons. The
+high energy electrons are used in the synthesis of ATP by chemiosmosis.
+Energy is released during redox reactions as the electrons reduce and
+oxidise electron carriers as they flow along the electron transport chain.
+This energy is used to create a proton gradient leading to the diffusion of
+protons through ATP synthase resulting in the synthesis of ATP.
+Synoptic link
+You learnt about chemiosmosis in
+Topic 17.2, ATP synthesis.
+At the end of the electron transport chain the electrons combine
+with hydrogen ions and oxygen to form water. Oxygen is the final
+electron acceptor and the electron chain cannot operate unless oxygen
+is present. Respiration which involves the complete breakdown of
+glucose is therefore an aerobic process.
+reduced NAD
+reduced FAD
+075
+complex
+complex II
+complex III
+complex IV
+e
+I(0
+)
++
+electron transport
+chain
+H20
+Figure 1 Electron transport chain in respiration
+Synoptic link
+You learnt about coenzymes in
+Topic 4.4, Cofactors, coenzymes.
+486
+18
+RESPIRATION
+and so the cycle continues. More carbon dioxide, two more
+reduced NADs, and one reduced FAD are produced. ATP is also
+produced by substrate-level phosphorylation.
+The importance of coenzymes in respiration
+Respiration is a complex multi-step reaction pathway. Coenzymes are
+required to transfer protons, electrons, and functional groups between
+many of these enzyme-catalysed reactions.
+Redox reactions have an important role in respiration and without
+coenzymes transferring electrons and protons between these reactions
+many respiratory enzymes would be unable to function.
+NAD and FAD are both coenzymes that accept protons and electrons
+released during the breakdown of glucose in respiration. The
+differences between these two enzymes are:
+• NAD takes part in all stages of cellular respiration but FAD only
+accepts hydrogens in the Krebs cycle
+NAD accepts one hydrogen and FAD accepts two hydrogens
+reduced NAD is oxidised at the start of the electron transport chain
+releasing protons and electrons while reduced FAD is oxidised
+further along the chain
+reduced NAD results in the synthesis of three ATP molecules but
+reduced FAD results in the synthesis of only two ATP molecules.
+You will see reduced NAD represented in a number of ways - for
+example, NADH, NADH + H+, or NADH,+. The reason for this is that
+NAD is actually charged so is more accurately represented as NAD+.
+When NAD+ is reduced it accepts two protons and an electron pair
+(from a C-H bond) forming NADH + H+. NADH, or reduced NAD, then
+transfers the proton and electron pair to a subsequent reaction.
+Study tip
+Oxaloacetate and citrate are
+the only names of Krebs cycle
+intermediate compounds that you
+need to remember.
+The number of ATP molecules
+produced as a result of reduced
+NAD and reduced FAD can vary.
+Coenzymes are usually derived from vitamins. This is why, although
+coenzymes are mostly recycled, vitamins are an essential micronutrient.
+Summary questions
+1 Compare the structures of ATP and NAD. (3 marks) 4 Calculate the number of ATP molecules produced by
+substrate-level phosphorylation after two rounds
+ATP can be described as a coenzyme.
+of the Krebs cycle.
+(2 marks)
+(2 marks)
+Explain why.
+The Krebs cycle does not use oxygen at any
+3 Draw a simple diagram summarising the breakdown
+point. Suggest why the Krebs cycle is termed
+of glucose to carbon dioxide and reduced
+aerobic.
+(4 marks)
+coenzymes.
+(4 marks)
+6 00 Suggest a reason for the involvement of FAD
+rather than NAD in only one specific step of the
+Krebs cycle.
+(6 marks)
+485
+18
+RESPIRATION
+Small-scale and large-scale adaptations to low oxygen environments
+Many animals live in or around water and spend time
+underwater to hunt for food. These animals are adapted
+in a variety of ways to survive periods of anaerobic
+respiration while they cannot breathe air. Many bacteria
+also live in low oxygen environments. There are many
+adaptations that have evolved in different organisms to
+overcome the problems of a temporary or permanent lack
+of oxygen:
+Figure 6 Sperm whale (Physeter
+macrocephalus) tail
+Bacterial adaptations
+Different groups of bacteria have evolved to use nitrate
+ions, sulphate ions, and carbon dioxide as final electron
+acceptors in anaerobic respiration. This enables them to
+live in very low, or zero, oxygen environments.
+Anaerobic bacteria present in the digestive systems of
+animals play an essential role in the breakdown of food
+and absorption of minerals. Methanogens are a type of
+bacteria found in the digestive system of ruminants,
+such as cows. They digest cellulose from grass cell walls
+into products that can be further digested, absorbed and
+used by the ruminants. The final electron acceptor in the
+respiratory pathway of these bacteria is carbon dioxide,
+and methane and water are produced. The methane
+builds up and eventually has to be released - it has
+been estimated that a cow produces around 500 L of
+methane per day.
+2 Physiological adaptations in many diving mammals
+include a modified circulatory system. When they
+dive they show peripheral vasoconstriction, so blood
+is shunted to the brain, heart, and muscles. The heart
+slows by up to 85% - this is known as bradycardia
+and reduces the energy demand of the heart muscle.
+Whales also exchange 80-95% of the air in the lungs
+when they breathe - in humans, that figure is around
+15%. In some species dives can last up to two hours,
+so the adaptations are very effective.
+Physical adaptations include streamlining to reduce
+drag due to friction from water while swimming,
+therefore reducing the energy demand during a dive.
+The limbs of marine mammals are 'fin-shaped' to
+maximise the efficient use of energy in propulsion.
+Mammalian adaptations
+Marine mammals that dive for long periods, such as seals
+and whales, have a range of different types of adaptations
+for surviving when they cannot take in more oxygen:
+1 Biochemical adaptations include greater
+concentrations of haemoglobin and myoglobin than
+land mammals, particularly in the muscles used
+in swimming. This maximises their oxygen stores,
+delaying the onset of anaerobic metabolism. Whales
+have a higher tolerance to lactic acid than human
+beings, so they can respire anaerobically much longer
+without suffering tissue damage. They also have a
+greater tolerance of high carbon dioxide levels - they
+have very effective blood buffering systems that
+prevent a catastrophic rise in pH.
+1 The lungs of whales are proportionally no larger
+than humans but some whales can stay under
+water for two hours. Suggest how the lungs
+might be adapted to enable these long dives and
+why larger lungs would be a disadvantage to a
+whale.
+2 Summarise the adaptations of whales for making
+long underwater dives.
+491
+18
+RESPIRATION
+T
+T
+15
+B
+T TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+Practical investigations into the factors affecting rate of respiration using respirometers
+A student carried out an
+Table 1
+experiment to investigate the
+- coloured fluid
+Temperature (°C) Respirometer Contents
+effect of temperature on the
+graduated tube
+30 soaked pea seeds
+rate of respiration in soaked
+glass beads + 30 dry
+(germinating) pea seeds and
+pea seeds
+dry (dormant) pea seeds.
+glass beads
+A 30 soaked pea seeds
+A respirometer was used,
+glass beads + 30 dry
+shown in Figure 2. The
+B
+pea seeds
+potassium hydroxide
+glass beads
+solution in this apparatus
+absorbs carbon dioxide. If
+At each temperature, respirometer C, which contained
+pea seed
+the apparatus is kept at a
+only glass beads, was a control. After the student had
+constant temperature, any
+mesh
+left each respirometer to equilibrate, a small volume of
+changes in the volume of air
+potassium
+coloured fluid was introduced into each graduated tube.
+hydroxide solution
+in the respirometer will be
+The respirometers were then left in the appropriate water
+due to oxygen uptake. The Figure 2
+baths for 20 minutes and maintained at the correct
+student set up three respirometers, A, B and C in water
+temperature. During this time, the coloured fluid in the
+baths at two different temperatures. The respirometers
+graduated tube moved. The level of the coloured fluid in each
+were left for 10 minutes to equilibrate.
+respirometer was recorded at the start of the experiment
+The contents of each respirometer are shown in Table 1. and after 20 minutes. The results are summarised in Table 2.
+Table 2
+Temperature Respirometer Reading at Reading after Difference Corrected Rate of oxygen
+start (cm) 20 minutes (cm) (cm) difference (cm) uptake (cmmin-1)
+0.93
+0.74
+0.19
+0.008
+0.93
+0.86
+0.07
+0.04
+0.002
+C
+0.91
+0.88
+0.03
+A
+0.94
+0.63
+0.31
+0.27
+B
+0.93
+0.84
+0.09
+0.05
+0.003
+C
+0.95
+0.91
+0.04
+0.16
+4
+Study tip
+1 Copy and complete the table.
+2 Suggest why, at each
+temperature, respirometer B
+contained some glass beads.
+Suggest how the student
+determined the quantity of glass
+beads to place in respirometer B
+at each temperature.
+Explain why there is an
+increased rate of respiration in
+soaked seeds at 25°C compared
+with soaked seeds at 15°C.
+Suggest a reason for the
+difference in the rate of
+respiration between soaked and
+dry pea seeds.
+A respirometer is not the same as a
+spirometer. A spirometer measures
+volume changes during breathing
+but a respirometer measures the
+change in volume of oxygen or
+carbon dioxide.
+(4 marks)
+(3 marks)
+Summary questions
+1 Outline the respiration pathway of a triglyceride.
+2 Describe the difference between a respirometer and a spirometer.
+3 Consider the three respiratory substrates A CH,OH
+shown here.
+Calculate the percentage of hydrogen in each
+molecule and use these to compare the
+relative energy values of the substrates.
+H OH
+B
+LA OH
+H
+CH3(CH2)16COOH
+0
+I-O-
+N
+ö-0I
+—
+C
+—
+C
+O-IO-
+OI
+I-O-O
+H
+(6 marks)
+495
+RESPIRATION
+ATP]
++ATP
+ATP
+The main steps in glycolysis are:
+ooooo
+glucose
+1 Phosphorylation - the first step of
+ATP
+glycolysis requires two molecules
+of ATP. Two phosphates, released
+Poooooo
+from the two ATP molecules, are
+hexose bisphosphate
+attached to a glucose molecule
+forming hexose bisphosphate.
+POO
+OOP
+Lysis - this destabilises the
+triose
+triose
+molecule causing it to split
+phosphate phosphate
+into two triose phosphate
+molecules.
+3 Phosphorylation - another
+POOP POO
+phosphate group is added to
+triose
+triose
+each triose phosphate forming
+bisphosphate bisphosphate
+two triose bisphosphate
+ATPⓇI
+ATP
+ATP
+molecules. These phosphate
+I
+groups come from free inorganic
+- ATP
+ATP
+phosphate (P:) ions present in reduced NAD
+V reduced NADI
+the cytoplasm.
+000
+4 Dehydrogenation and formation
+pyruvate
+Pyruvate
+of ATP - the two triose
+A Figure 2 Summary of glycolysis
+bisphosphate molecules are then
+oxidised by the removal of hydrogen atoms (dehydrogenation)
+to form two pyruvate molecules. NAD coenzymes accept the
+Synoptic link
+removed hydrogens - they are reduced, forming two reduced NAD
+It may be useful to look back to
+molecules.
+Topic 4.4, Cofactors, coenzymes,
+At the same time, four ATP molecules are produced using phosphates and prosthetic groups and
+from the triose bisphosphate molecules.
+Topic 3.11, ATP.
+IⓇ
+ATP
+ATP
+P
+This is an example of substrate level phosphorylation – the formation
+of ATP without the involvement of an electron transport chain. ATP
+is formed by the transfer of a phosphate group from a phosphorylated
+intermediate (in this case triose bisphosphate) to ADP.
+TWO ATP molecules are used to prime the process at the beginning,
+and four ATP molecules are produced, so the overall net ATP yield
+from glycolysis is two molecules of ATP.
+Study tip
+Hexose bisphosphate, triose
+phosphate, and pyruvate are the
+only compounds that you have to
+be able to recall.
+The reduced NAD is used in a later stage to synthesise more ATP.
+Summary questions
+1 Describe the processes of dehydrogenation, dehydration,
+and phosphorylation.
+(3 marks)
+2 Explain how NAD acts as a coenzyme in glycolysis.
+(3 marks)
+(3 marks)
+3 Explain the meaning of substrate-level phosphorylation.
+4 Oo Outline the importance of dehydrogenation
+and phosphorylation in glycolysis.
+(5 marks)
+481
+18.2 Linking glycolysis
+and the Krebs cycle
+Specification reference: 5.2.2
+As you have learnt, glycolysis takes place in the cytoplasm of the cell.
+In eukaryotic cells the remaining aerobic (oxygen-requiring) reactions
+of cellular respiration take place inside the mitochondria.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the link reaction and its site in
+the cell
+► the structure of the
+mitochondrion.
+outer mitochondrial membrane
+matrix
+separates the contents of the mitochondrion contains enzymes for the
+from the rest of the cell, creating a cellular Krebs cycle and the link reaction,
+compartment with ideal conditions for also contains mitochondrial DNA
+aerobic respiration
+intermembrane space
+Proteins are pumped
+inner mitochondrial
+into this space by the
+membrane contains
+electron transport chain.
+electron transport
+The space is small so the
+chains and ATP synthase
+concentration builds up
+quickly
+cristae are projections of the inner membrane
+which increase the surface area available for
+oxidative phosphorylation
+Figure 1 In the presence of oxygen, aerobic respiration occurs in the mitochondria
+of eukaryotic cells
+Synoptic link
+You learnt about mitochondria in
+Topic 2.4, Eukaryotic cell structure.
+Study tip
+Be careful to distinguish, and
+correctly use, the terms 'inner'
+(mitochondrial membrane) and
+'inter' (membrane space).
+Oxidative decarboxylation (the link reaction)
+The first step in aerobic respiration is oxidative decarboxylation. This
+is sometimes referred to as the link reaction, because it is the step that
+links anaerobic glycolysis, occurring in the cytoplasm, to the aerobic
+steps of respiration, occurring in the mitochondria.
+pyruvate
+reduced NAD
+00 +
+acetyl group
+coenzyme A
+coenzyme A
+acetylcoenzyme A
+Figure 2 Summary of oxidative decarboxylation, linking the
+anaerobic and aerobic stages of cellular respiration in eukaryotic cells
+482
+18
+Chapter 18 Practice questions
+b
+Practice questions
+1a (i) State the meaning of the term
+phosphorylation.
+(1 mark)
+(ii) Outline the similarities and differences
+between oxidative phosphorylation
+and substrate level phosphorylation.
+(3 marks)
+b NADH and FADH transfer electrons to the
+electron transport chain.
+10 protons are pumped due to the
+electrons from NADH
+6 protons are pumped due to the electrons
+from FADH
+4 protons are needed by ATP synthase to
+make one ATP molecule
+(i) Calculate the number of ATP
+molecules produced due to each
+reduced coenzyme. Show your
+working
+(3 marks)
+(ii) Calculate the total number of ATP
+molecules produced due to oxidative
+phosphorylation. Show your working
+in your answer.
+(3 marks)
+2 a The diagram represents the first stage of
+respiration.
+(i) Name the stage represented by the
+figure.
+(1 mark)
+(ii) State precisely where in the cell this
+stage takes place.
+(1 mark)
+(iii) Identify the compounds D, E, and F.
+(3 marks)
+In anaerobic conditions, compound F does
+not proceed to oxidative decarboxylation.
+Describe the fate of compound F during
+anaerobic respiration in an animal cell
+and explain the importance of this
+reaction.
+(5 marks)
+The diagram shows a common seal, Phoca
+vitulina, an aquatic mammal.
+The seal comes to the surface of the
+water to obtain air and it can then stay
+underwater for over 20 minutes.
+The figure shows a seal at the surface of
+the water and the following diagram shows
+the same animal when submerging again.
+glucose
+ATP
+hexose phosphate
+Suggest how the seal is adapted to respire
+for such a long time underwater. (3 marks)
+OCR F214 2010
+The diagram represents a molecule of ATP.
+hexose bisphosphate
+3
+base X<
+N
+2x triose phosphate
+2x E
+sugar Y
+2 x 2 ATP
+2x reduced E+
+2 x F
+(i) Name the parts of the ATP molecule
+labelled X, Y, and Z. (3 marks)
+(ii) With reference to the figure, describe
+and explain the role of ATP in
+the cell.
+(3 marks)
+496
+1:
+RESPIRATION
+18.1 Glycolysis
+Specification reference: 5.2.2
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the process and site of
+glycolysis.
+Cellular respiration
+Glucose is a hexose (six-carbon sugar) produced during photosynthesis.
+It is a complex molecule containing energy absorbed from sunlight
+'trapped' within its carbon hydrogen bonds. Respiration is essentially
+the reverse of photosynthesis.
+The carbon framework of glucose is broken down and the carbon-
+hydrogen bonds broken. The energy released is then used in the
+synthesis of ATP by chemiosmosis. ATP, the universal energy
+currency, is constantly synthesised and used in energy-requiring
+reactions and processes.
+Synoptic link
+You learnt about the need for cellular
+respiration and ATP formation by
+chemiosmosis in Topic 17.1, Energy
+cycles.
+Respiration is a complex multi-step reaction pathway (Figure 1). You
+will be considering respiration in eukaryotic cells. A similar process
+takes place in prokaryotic cells but they do not have mitochondria
+so many of the reactions take place on cell membranes. To make the
+biochemistry of respiration clearer to understand you will look at it in
+stages, but it is important to remember that in the cell the process is
+continuous. The first stage of respiration is glycolysis.
+fermentation
+lactate
+glycolysis
+anaerobic
+ethanol
++ CO2
+glucose —
+pyruvate
+link reaction
+Krebs cycle
+electron transport
+chain
+aerobic
+2H
+oxygen
+acetyl
+Coenzyme
+water
+A Figure 1 Summary of respiration
+Glycolysis
+Glycolysis occurs in the cytoplasm of the cell. It does not require
+oxygen - it is an anaerobic process. Glucose, a six-carbon sugar,
+is split into two smaller, three-carbon pyruvate molecules. ATP and
+reduced nicotinamide adenine dinucleotide (NAD) are also produced.
+Glycolysis, summarised here, actually involves 10 reaction steps
+involving many enzymes.
+480
+18
+18.6 Respiratory substrates
+During normal activity, the RQ is in the range of 0.8 to 0.9, showing
+that carbohydrates and lipids (and probably some proteins) are being
+use as respiratory substrates.
+During anaerobic respiration, the RQ increases above 1.0, although
+this not easy to measure as the point at which anaerobic respiration
+begins is not easy to pinpoint.
+Calculating the respiratory quotient
+The oxygen taken in and carbon dioxide produced by
+a desert locust was measured experimentally under
+different conditions:
+Conditions
+at rest in flight
+Oxygen absorbed/au 10.5 160.0
+Carbon dioxide produced/au 10.0 113.6
+1 Calculate the RQ of the insect at rest and
+in flight.
+2. What does this suggest about the substrate
+being respired at rest and in flight?
+T
+Low carbohydrate diets
+Many people choose low carbohydrate diets when they
+want to lose weight - and in particular to lose some
+body fat. The diets can work - but the science suggests
+that you need to think carefully before cutting out the
+molecules that are most commonly used as fuel in your
+body. Here are some of the facts about low carbohydrate
+diets for you to consider:
+1 Triglycerides are hydrolysed into fatty acids and glycerol.
+The fatty acids are broken down in the mitochondria to
+give many two-carbon acetyl groups that combine with
+coenzyme A molecules and enter the Krebs cycle.
+Triglycerides cannot act as the only respiratory
+substrate. Carbohydrates are needed to keep the Krebs
+cycle going so that acetyl groups from the breakdown
+of fatty acids can be 'fed in'. If carbohydrates are in
+short supply the body will make them using a process
+called gluconeogenesis. This process often uses
+glycerol, but it may also use pyruvate from glycolysis.
+3 Oxaloacetate from the Krebs cycle can be used to
+make glucose when carbohydrate levels are low.
+Reducing the number of oxaloacetate molecules in
+the Krebs cycle reduces the rate at which the acetyl
+groups produced during the breakdown of lipids can
+be fed into the cycle and produce ATP.
+4 Oxaloacetate can be replaced by the conversion
+of pyruvate from carbohydrate breakdown in the
+mitochondria. Pyruvate is also synthesised using
+glycerol from the breakdown of lipids. However, the
+breakdown of a lipid molecule provides a relatively
+small quantity of glycerol and so a relatively small
+amount of pyruvate. This means carbohydrates are
+still needed to ensure the continued respiration of fat.
+Proteins can be hydrolysed into amino acids which
+are then deaminated in the liver. The remaining keto
+acids can be converted into glucose molecules. Lean
+muscle is the protein of choice in this process, so
+a low carbohydrate diet can lead to the breakdown
+of muscle tissue. The liver and kidneys also have to
+remove the nitrogenous waste.
+If the level of acetyl CoA increases because it is not being
+taken into the Krebs cycle, the liver starts converting it
+into ketone bodies. Brain cells normally require glucose
+as an energy source. They cannot use fatty acids as a
+respiratory substrate but they can use ketone bodies.
+7 When the body is producing more ketone bodies
+than usual, it is said to be in ketosis. This can lead
+to a dangerous condition known as ketoacidosis.
+Ketoacidosis is the result of an accumulation of
+ketone bodies which cause the pH level of the blood to
+drop to dangerous, or even fatal, levels. This condition
+is often seen in alcoholics, untreated diabetes, and
+during starvation. It is often diagnosed by the fruity
+smell of propanone (acetone), a breakdown product
+of ketone bodies, on the breath of an affected person.
+1
+The term 'fats burn in the flame of carbohydrates'
+was coined more than a century ago. Discuss the
+accuracy of this statement.
+Evaluate the benefits and drawbacks of a low
+carbohydrate diet.
+2
+494
+18.6 Respiratory substrates
+Specification reference: 5.2.2
+Different respiratory substrates
+Learning outcomes
+Glucose is not the only organic molecule that is broken down
+to release energy for the synthesis of ATP. There are many other
+Demonstrate knowledge,
+respiratory substrates. Triglycerides are hydrolysed to fatty acids,
+understanding, and application of:
+which enter the Krebs cycle via acetyl COA and glycerol.
+→ the difference in relative energy
+Glycerol is first converted to pyruvate before undergoing oxidative
+values of carbohydrates, lipids,
+decarboxylation, producing an acetyl group which is picked up by
+and proteins as respiratory
+coenzyme A, forming acetyl CoA. The fatty acids in a triglyceride
+substrates
+molecule can lead to the formation of as many as 50 acetyl COA
+the use and interpretation of
+molecules, resulting in the synthesis of up to 500 ATP molecules.
+the respiratory quotient (RO)
+Gram for gram, lipids store and release about twice as much energy as
+practical investigations into
+carbohydrates. Alcohol contains more energy than carbohydrates but
+the effect of factors such
+less than lipids. Proteins are roughly equivalent to carbohydrates.
+as temperature, substrate
+Proteins first have to be hydrolysed to amino acids and then the
+concentration, and different
+amino acids have to be deaminated (removal of amine groups) before
+respiratory substrates on the
+they enter the respiratory pathway, usually via pyruvate. These steps
+rate of respiration.
+require ATP, reducing the net production of ATP.
+The respiratory quotient (RQ) of a substrate
+liver/muscle
+is calculated by dividing the volume of carbon
+glycogen
+dioxide released by the volume of oxygen
+taken in during respiration of that particular adipose tissue
+glucose
+substrate. This is measured using a simple piece triglyceride
+of apparatus called a respirometer (Figure 2).
+glycolysis
+CO, produced
+liver
+RQ =
+O, consumed
+amino acid
+glycerol
+pyruvate
+It takes six oxygen molecules to completely
+lactate
+respire one molecule of glucose and this results in
+oxidative
+the production of six molecules of carbon dioxide
+decarboxylation
+(and six molecules of water). This results in an
+RQ of 1.0.
+fatty acids
+acetyl group
+ketone bodies
+in acetyl COA
+Lipids contain a greater proportion of carbon-
+beta oxidation
+brain
+hydrogen bonds than carbohydrates which is why
+(Krebs
+they produce so much more ATP in respiration.
+cycle
+Due to the greater number of carbon-hydrogen
+oxidative phosphorylation
+bonds, lipids require relatively more oxygen to
+break them down and release relatively less carbon
+A Figure 1 The diagram shows how different biological molecules, and
+dioxide. This results in RQs of less than one for
+fragments of these molecules, can be 'fed into the respiratory pathway
+at different points. Some tissues, or organs, are better adapted to use
+lipids. The structure of amino acids leads to RQS
+certain substrates. For example, the brain is well adapted to use ketone
+somewhere between carbohydrates and lipids.
+bodies as a respiratory substrate
+carbohydrates = 1.0
+protein = 0.9
+lipids = 0.7
+So, by measuring the volume of oxygen taken in and carbon dioxide
+released, and calculating RQ, the type of substrate being used for
+respiration at that point can be roughly determined.
+493

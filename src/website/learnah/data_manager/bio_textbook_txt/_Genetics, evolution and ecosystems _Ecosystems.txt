@@ -1,0 +1,1731 @@
+23.4 Succession
+Specification reference: 6.3.1
+As you have learnt, ecosystems are dynamic - they are constantly
+changing. One process by which ecosystems change over time is called
+succession. Have you noticed how the types of plants present change
+as you move inland from a beach? In the sand very few species exist -
+the further you move away from the sea, the more biodiverse the
+ecosystem becomes. This is an example of succession.
+Succession occurs as a result of changes to the environment (the abiotic
+factors), causing the plant and animal species present to change.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+the process of primary
+succession in the development
+of an ecosystem.
+There are two types of succession:
+1 Primary succession - this occurs on an area of land that has been
+newly formed or exposed such as bare rock. There is no soil or
+organic material present to begin with.
+2 Secondary succession - this occurs on areas of land where soil is
+present, but it contains no plant or animal species. An example
+would be the bare earth that remains after a forest fire.
+Although much of the natural landscape has taken hundreds of years
+to reach its existing form, primary succession is still taking place.
+Primary succession occurs when:
+volcanoes erupt, depositing lava - when lava cools and solidifies
+igneous rock is created
+sand is blown by the wind or deposited by the sea to create new
+sand dunes
+silt and mud are deposited at river estuaries
+• glaciers retreat depositing rubble and exposing rock.
+Stages of succession
+Succession takes place in a number of steps, each one known as a
+seral stage (or sere). At each seral stage key species can be identified
+that change the abiotic factors, especially the soil, to make it more
+suitable for the subsequent existence of other species.
+The main seral stages are pioneer community, intermediate
+community, and climax community, these are summarised in Figure 1.
+hostile conditions, low species
+diversity, and instability
+less hostile conditions, high species
+diversity, and stability
+recolonisation
+barren
+land
+pioneer
+community
+colonisers
+e.g., lichen
+secondary
+colonisers
+e.g., mosses
+intermediate community
+tertiary
+colonisers
+e.g., grasses
+scrubland
+e.g., shrubs
+small trees
+climax
+community
+dominant
+species e.g.
+woodland
+key
+primary succession (slow process)
+secondary succession (rapid process)
+land altered, e.g.
+due to fire, disease,
+grazing, agriculture
+Figure 1 Summary of the main seral stages
+619
+23
+23.4 Succession
+Pioneer community
+Primary succession begins by the colonisation of an inhospitable
+environment, by organisms known as pioneer species (or pioneer
+colonisers). This represents the first seral stage. These species arrive
+as spores or seeds carried by the wind from nearby land masses or
+sometimes by the droppings of birds or animals passing through.
+Examples of pioneer species include algae and lichen.
+Pioneer species have a number of adaptations that enable them to
+colonise this bare environment, including:
+Figure 2 Lichens are an example of a
+pioneer species. A lichen is not a single
+organism - it is a stable symbiotic (and
+mutualistic) association between a
+fungus and algae and/or cyanobacteria.
+They are often the first organisms to
+colonise bare rock. They are able to
+survive without soil, taking up rainwater
+and mineral salts through the whole of
+their body surface
+the ability to produce large quantities of seeds or spores, which are
+blown by the wind and deposited on the 'new land'
+seeds that germinate rapidly
+the ability to photosynthesise to produce their own energy - light,
+rainfall, and air (and so carbon dioxide) are often the only abiotic
+factors present
+tolerance to extreme environments
+the ability to fix nitrogen from the atmosphere, so adding to the
+mineral content of the soil.
+Intermediate community
+Over time weathering of the bare rock produces particles that form the
+basis of a soil. On its own this cannot support other species. However,
+when organisms of the pioneer species die and decompose small
+organic products are released into the soil. This organic component
+of soil is known as humus. The soil becomes able to support the
+growth of new species of plant, known as secondary colonisers, as it
+contains minerals including nitrates and has an ability to retain some
+water. These secondary colonisers arrive as spores or seeds, Mosses are
+an example of a secondary coloniser species. In some cases, pioneer
+species also provide a food source for consumers, so some animal
+species will start to colonise the area.
+As the environmental conditions continue to improve, new species
+of plant arrive such as ferns. These are known as tertiary colonisers.
+These plants have a waxy cuticle that protects them from water loss.
+These species can survive in conditions without an abundance of
+water - however, they need to obtain most of their water and mineral
+salts from the soil.
+At each stage the rock continues to be eroded and the mass of organic
+matter increases. When organisms decompose they contribute to a
+deeper, more nutrient-rich soil, which retains more water. This makes
+the abiotic conditions more favourable initially for small flowering
+plants such as grasses, later shrubs, then finally small trees.
+This period of succession is known as the intermediate community
+and in many cases multiple seral stages evolve during this period until
+climax conditions are attained.
+620
+ECOSYSTEMS
+23.1 Ecosystems
+Specification reference: 6.3.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ ecosystems and the
+influence of biotic and abiotic
+factors.
+Ecology is the name given to the study of the relationships between
+organisms and their environment. It is essential that scientists study
+the natural world and the vast variety of life that exists, to help us
+understand the interdependence of living organisms and to help
+ensure the survival of as much of Earth's biodiversity as possible.
+Defining ecosystems
+An ecosystem is made up of all the living organisms that interact
+with one another in a defined area, and also the physical factors
+present in that region. Ecosystems can vary dramatically in size - from
+a tiny bacterial colony to the entire biosphere of Earth.
+Synoptic link
+Look back at Chapter 11,
+Biodiversity to remind yourself
+of the importance of maintaining
+biodiversity
+The boundaries of a particular ecosystem being studied are defined
+by the person or team carrying out the study. For example, individual
+habitats may be studied such as a rock pool or a large oak tree, or
+small areas of land such as a playing field or a particular stretch of
+a river.
+Factors that affect ecosystems
+All ecosystems are dynamic, meaning that they are constantly
+changing. This is a result of the living organisms present and the
+environmental conditions.
+A large number of factors affect an ecosystem. The factors can be
+divided into two groups:
+A Figure 1 A biome is a large naturally
+occurring community of flora (plants)
+and fauna (animals) occupying a major
+habitat such as a rainforest
+biotic factors - the living factors. For example, in a forest
+ecosystem, the presence of shrews and hedgehogs are biotic
+factors, as is the size of their populations - the competition
+between these two animal populations for a food source
+(e.g., insects) is also a biotic factor.
+abiotic factors – the non-living or physical factors. Within the
+forest ecosystem, abiotic factors include the amount of rainfall
+received and the yearly temperature range of the ecosystem.
+Synoptic link
+You will learn more about
+competition in Chapter 24,
+Populations and sustainability.
+Biotic factors
+Biotic factors often refer to the interactions between organisms
+that are living, or have once lived. These interactions often involve
+competition, either within a population or between different
+populations. Examples of things for which animals compete include
+food, space (territory), and breeding partners.
+606
+23
+23.4 Succession
+Conservation
+Deflected succession is an important conservation technique. To ensure
+the survival of certain species, it is important to preserve their habitat in
+its current form. This may require ecological land management to prevent
+further succession from occurring. An example of this is at the National
+Trust's Studland Heath nature reserve in Dorset, England.
+Studland Heath is home to a number of British reptiles, including the UK's
+rarest reptile, the smooth snake. This region is heathland - if succession
+were allowed to occur, woodland would develop as the climax community.
+Other animal species would then inhabit the area, ultimately leading to the
+replacement of the smooth snake by other animal species. This would risk the
+elimination of this reptile species from the UK. So the heathland is managed
+by the National Trust to ensure that the precious ecosystem is preserved.
+A range of conservation techniques are being used:
+A Figure 5 Britain's rarest native
+reptile, the smooth snake
+Physical removal of established bracken, and saplings such as birch and pine.
+Gorse, which is a legume, adds to the nutrient value of the soil. Heathlands
+are traditionally nutrient-poor areas of land, and so areas of gorse are also
+removed through physical means (cutting, crushing, and controlled burning).
+These techniques are used to restore the heathland to its former state.
+Mimicking the controlled grazing to limit the spread of bracken, gorse, and
+tree saplings. Livestock crush and nibble new growth, therefore limiting
+the spread of these species. This technique is used to maintain the
+heathland in its current state.
+Through using a combination of these techniques, low nutrient levels are
+maintained in the soil. This produces a varied vegetation structure, thus
+supporting a biodiverse heathland community.
+Synoptic link
+Look back at 11.8, Methods of
+maintaining biodiversity, to remind
+yourself of the various techniques
+scientists use to maintain
+biodiversity
+A herd of Red Devon cows are used to graze Studland Heath.
+Explain their role in maintaining the structure of the heathland.
+Succession on a sand dune
+One of the few examples where all the stages of
+succession can often be seen clearly in one place is when
+a series of sand dunes form on a beach. The youngest
+dunes will be found closest to the shore and the
+oldest furthest away. Figure 6 shows a simplified version
+of what occurs:
+forest, e.g., large oak trees
+shrubs, e.g., heather,
+bracken, and gorse
+dune grass,
+e.g. marram
+bare sand
+second dune
+hind dune
+fore dune
+dry beach
+wet beach
+Figure 6 Simplified diagram of
+succession
+622
+23.2 Biomass transfer through
+an ecosystem
+Specification reference: 6.3.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ biomass transfers through
+ecosystems.
+All organisms found within an ecosystem require a source of energy
+to perform the functions needed to survive. Ultimately, the Sun is the
+source of energy for almost all ecosystems on Earth. Through the process
+of photosynthesis, the Sun's light energy is converted into chemical
+energy in plants and other photosynthetic organisms. This chemical
+energy is then transferred to other non-photosynthetic organisms as food.
+sparrowhawk
+owl
+Synoptic link
+badger
+shrew
+blue tit
+You learnt about photosynthesis
+in Chapter 17, Energy for biological
+processes.
+caterpillar
+ladybird
+blackbird
+* aphid
+oak leaves
+dead oak leaves
+nettle leaves
+dead nettle leaves
+earthworm
+Figure 1 Part of a woodland food web. The arrows on the diagram show the
+direction of energy flow.
+Trophic levels
+You should be familiar with food chains and food webs (systems of
+interlinked food chains). These are diagrams that scientists use to show
+the transfer of biomass (mass of living material), and therefore energy,
+through the organisms in an ecosystem. Each stage in the chain is
+tertiary consumers known as a trophic level.
+secondary
+consumers
+The first trophic level is always a producer - an organism that converts
+light energy into chemical energy by the process of photosynthesis. The
+subsequent trophic levels are all consumers - organisms that obtain
+their energy by feeding on other organisms. The second trophic level is
+occupied by a primary consumer- an animal that eats a producer.
+primary consumers
+producers
+Figure 2 Food chains can be
+presented diagrammatically as a
+pyramid of numbers
+The following trophic levels are labelled successively - secondary
+consumer (an animal that eats a primary consumer), tertiary consumer
+(an animal that eats a secondary consumer), and a quaternary
+consumer (an animal that eats a tertiary consumer). Food chains rarely
+have more trophic levels than this as there is not sufficient biomass
+and stored energy left to support any further organisms.
+608
+23
+ECOSYSTEMS
+Abiotic factors
+Light
+Most plants are directly affected by light availability as light is required
+for photosynthesis. In general the greater the availability of light, the
+greater the success of a plant species.
+Plants develop strategies to cope with different light intensities. For
+example, in areas of low light they may have larger leaves. They
+may also develop photosynthetic pigments that require less light, or
+reproductive systems that operate only when light availability is at an
+optimum.
+Figure 2 Bromeliads, mosses, and
+small trees growing on the upper branches
+of a large tree in the cloud forest in Ecuador.
+This strategy allows small plants to receive
+sufficient light for photosynthesis
+Temperature
+The greatest effect of temperature is on the enzymes controlling
+metabolic reactions. Plants will develop more rapidly in warmer
+temperatures, as will ectothermic animals. (Endothermic animals
+control their internal temperature, and so are less affected by the
+external environment.) Changes in the temperature of an ecosystem,
+for example, due to the changing seasons, can trigger migration in
+some animal species, and hibernation in others. In plant species it can
+trigger leaf-fall, dormancy, and flowering.
+Synoptic link
+You learnt about xerophytes in
+Topic 9.5, Plant adaptations to
+water availability.
+Water availability
+In most plant and animal populations, a lack of water leads to water
+stress, which, if severe, will lead to death.
+A lack of water will cause most plants to wilt, as water is required to
+keep cells turgid and so keep the plant upright. It is also required for
+photosynthesis. Cacti are an example of xerophytes, plants that have
+developed successful strategies to cope with water stress.
+Oxygen availability
+In aquatic ecosystems, it is beneficial to have fast-flowing cold water as
+it contains high concentrations of oxygen. If water becomes too warm,
+or the flow rate too slow, the resulting drop in oxygen concentration
+can lead to the suffocation of aquatic organisms.
+A Figure 3 The scimitar Oryx
+(Oryx dammah) has adapted to survive
+for 9-10 months without water. Their
+kidneys are specially adapted to
+produce the barest minimum of urine.
+They also sweat very little and so lose
+hardly any of their overall water intake
+In waterlogged soil, the air spaces between the soil particles are filled
+with water. This reduces the oxygen available for plants.
+Summary questions
+Edaphic (soil) factors
+Different soil types have different particle sizes. This has an effect on
+the organisms that are able to survive in them. There are three main
+soil types:
+1 Explain what is meant by the
+term 'dynamic ecosystem'.
+To which ecosystems does the
+term apply? (2 marks)
+2 State two biotic and two
+abiotic factors in a pond
+ecosystem. (4 marks)
+clay - this has fine particles, is easily waterlogged, and forms
+clumps when wet
+loam - this has different-sized particles, it retains water but does
+not become waterlogged
+sandy - this has coarse, well-separated particles that allow free
+draining – sandy soil does not retain water and is easily eroded.
+3 Explain why abiotic factors often
+have a greater effect on plant
+species than on animal species
+in an ecosystem. (4 marks)
+607
+3
+ECOSYSTEMS
+At each seral stage different plant and animal species are better
+adapted to the current conditions in the ecosystem. These organisms
+outcompete many of the species that were previously present and
+become the dominant species. These are the most abundant species
+(by mass) present in the ecosystem at a given time.
+Climax community
+The final seral stage is called the climax community. The community
+is then in a stable state – it will show very little change over time. There
+are normally a few dominant plant and animal species. Which species
+make up the climax community depends on the climate. For example,
+in a temperate climate where the temperatures are mild and there is
+plenty of water, large trees will normally form the climax community.
+By comparison in a sub-arctic climate, herbs or shrubs make up the
+climax community as temperature and water availability are low.
+Although biodiversity generally increases as succession takes place, the
+climax community is often not the most biodiverse. Biodiversity tends
+to reach a peak in mid-succession. It then tends to decrease due to the
+dominant species out-competing pioneer and other species, resulting
+in their elimination. The more successful the dominant species, the
+less the biodiversity in a given ecosystem.
+Figure 3 Oak woodland is a common
+climax community in the UK
+Animal succession
+Alongside the succession of plant species, animal species undergo
+similar progression. Primary consumers such as insects and worms are
+first to colonise an area as they consume and shelter in the mosses and
+lichens present. They must move in from neighbouring areas so animal
+succession is usually much slower than plant succession, especially if the
+'new land' is geographically isolated, for example, a new volcanic island.
+Secondary consumers will arrive once a suitable food source has
+been established and the existing plant cover will provide them with
+suitable habitats. Again these species must move in from neighbouring
+areas. Eventually larger organisms such as mammals and reptiles will
+colonise the area when the biotic conditions are favourable.
+Synoptic link
+You learnt about the importance of
+maintaining biodiversity and the
+techniques involved in Topic 11.7,
+Reasons for maintaining biodiversity
+and Topic 11.8, Methods of
+maintaining biodiversity.
+Deflected succession
+Human activities can halt the natural flow of succession and prevent
+the ecosystem from reaching a climax community. When succession
+is stopped artificially, the final stage that is formed is known as a
+plagioclimax. Agriculture is one of the main reasons deflected
+succession occurs. For example:
+grazing and trampling of vegetation by domesticated animals - this
+results in large areas remaining as grassland
+removing existing vegetation (such as shrub land) to plant crops -
+the crop becomes the final community
+burning as a means of forest clearance - this often leads to an
+increase in biodiversity as it provides space and nutrient-rich ash
+for other species to grow, such as shrubs.
+Figure 4 Mowing your garden
+prevents succession occurring. The
+growing shoots of woody plants are
+cut off by the lawnmower, so larger
+plants cannot establish themselves.
+A grassland plagioclimax is formed
+621
+ECOSYSTEMS
+combustion
+Carbon dioxide in
+the atmosphere and
+dissolved in the seas
+and oceans provides
+the major source
+of inorganic carbon
+for plants.
+fossil
+fuels
+photosynthesis
+respiration
+feeding
+carbon-containing
+compounds in
+producers
+Carbon dioxide is converted into small
+carbon-containing organic molecules by
+photosynthesis in plants and other photosynthetic
+organisms. This carbon is then used in the
+production of macromolecules such as
+carbohydrates, proteins, and lipids in producers.
+carbon-containing
+compounds in
+consumers
+Carbon macromolecules are passed from
+producers into primary consumers when
+producers are eaten. They are subsequently
+passed up the food chain when a consumer itself
+is consumed.
+death
+decomposition
+prevented
+decomposition
+carbon-containing
+compounds in
+decomposers
+When living organisms die, the carbon compounds in their bodies are released
+through decomposition. The carbon is released into the atmosphere as carbon
+dioxide when the decomposers respire.
+If dead organic matter accumulates in areas where decomposers are not
+present, such as the bottom of the ocean or in bogs, the carbon they contain
+may become 'trapped'. Over millions of years these remains form fossil fuels.
+key
+living component
+non-living component
+A Figure 6 The carbon cycle
+Fluctuations in atmospheric carbon dioxide
+Carbon dioxide levels fluctuate throughout the day. Photosynthesis
+only takes place in the light, and so during the day photosynthesis
+removes carbon dioxide from the atmosphere. Respiration, however,
+is carried out by all living organisms throughout the day and night,
+releasing carbon dioxide at a relatively constant rate into the
+atmosphere. Therefore, atmospheric carbon dioxide levels are higher
+at night than during the day.
+Localised carbon dioxide levels also fluctuate seasonally. Carbon
+dioxide levels are lower on a summer's day than a winter's day, as
+photosynthesis rates are higher.
+Figure 7 This is limestone.
+Although the bodies of marine animals
+decompose quickly, their shells and
+bones sink to the ocean floor. Over
+millions of years these are turned
+into carbon-containing sedimentary
+rock such as limestone and chalk.
+Eventually this carbon is returned to the
+atmosphere as the rock is weathered
+617
+3
+ECOSYSTEMS
+Efficiency at consumer levels
+Consumers at each trophic level convert at most 10% of the biomass
+in their food to their own organic tissue. This is because:
+not all of the biomass of an organism is eaten, for example, plant
+roots or animal bones may not be consumed
+some energy is transferred to the environment as metabolic heat,
+as a result of movement and respiration
+some parts of an organism are eaten but are indigestible - these
+parts (and their energy content) are egested as faeces
+some energy is lost from the animal in excretory materials such
+as urine.
+Only around 0.001% of the total energy originally present in the incident
+sunlight is finally embodied as biomass in a tertiary consumer.
+You can use the following formula to calculate the efficiency of
+the energy transfer (approximately equivalent to biomass transfer)
+between each trophic level of a food chain:
+Ecological
+efficiency
+energy or biomass available after the transfer
+- x 100
+energy or biomass available before the transfer
+decomposers and detritivores
+(feeding on faeces, urine, and dead organisms)
+producers
+sun
+1-3%
+primary
+secondary
+tertiary
+5-10% consumers 15-20% consumers 15-20% consumers
+human
+quaternary: 50 kJ
+consumers m-2year!
+energy lost as
+energy lost as heat during respiration
+reflected light
+Figure 5 This diagram shows the energy flow through different levels of a food
+chain. The figures stated for percentage energy transfer are approximate - energy
+transfers vary considerably between different plants, animals, and ecosystems
+tertiary _ trout
+consumers 250 kJ m-2year!
+smelt
+secondary
+consumers 1250 kJ m-2year
+O Worked example: Calculating ecological efficiency
+Look at Figure 6. This diagram shows the energy available in a
+food chain in Cayuga Lake.
+small aquatic animals
+primary
+consumers
+6300 kJ m-2yearl
+algae
+producers
+42 000 kJ m 2yearl
+Calculate the ecological efficiency of the energy transfer between
+smelt and trout.
+Ecological energy or biomass available after the transfer
+- X 100
+efficiency energy or biomass available before the transfer
+= 2500 x 100 = 20%
+A Figure 6 This diagram shows the
+energy available at each trophic level
+in a food chain found in Cayuga Lake,
+New York State, USA
+611
+23
+23.2 Biomass transfer through an ecosystem
+Study tip
+Remember that energy cannot be
+created or destroyed. However, it
+can be transferred, including to less
+useful forms such as heat, which is
+dissipated to the environment. This
+energy cannot be used to create
+biomass, and is therefore not
+available to the next trophic level.
+3) Worked example: Efficiency of biomass transfer
+A region of grassland has a net production of 40gm 2 year!. A
+goat grazes an area of 20m x 20 m of this grassland. Assume that
+the goat consumes all of the biomass in this area.
+1
+Calculate the total biomass consumed by the goat each year:
+Biomass consumed = mass (per metre squared per year)
+x area of land
+= 40 x (20 x 20)
+= 16 000 g
+= 16 kg
+The mass of the goat increases in this time by 2.4kg. Calculate
+the efficiency of biomass transfer between the grass and the
+goat.
+biomass available after transfer
+Efficiency of transfer =
+x 100
+biomass available before transfer
+- 2.4 = 15%
+16
+2
+Figure 7 Intensively farmed
+animals are kept in a strictly-controlled
+environment. The conditions are chosen
+to ensure as much energy from their
+food as possible is turned into biomass.
+For example, small heated cages reduce
+energy loss through movement and
+maintaining body temperature
+Human activities can manipulate biomass
+through ecosystems
+Human civilisation depends on agriculture. Agriculture involves
+manipulating the environment to favour plant species that we can
+eat (crops) and to rear animals for food or their produce. Plants and
+animals are provided with the abiotic conditions they need to thrive
+such as adequate watering and warmth (e.g., greenhouse use, stabling
+of animals). Competition from other species is removed (e.g., the use of
+chemicals such as pesticides) as well as the threat of predators (e.g., by
+creating barriers such as fences to exclude wild herbivores or predators).
+Summary questions
+1 Describe how the
+biomass of a trophic level is
+measured. (3 marks)
+In a natural ecosystem, humans would occupy the second, third or
+even fourth trophic level. As you have learnt, at each trophic level
+there are considerable energy losses, therefore only a tiny proportion
+of the energy available at the start of the food chain is turned into
+biomass for consumption at these third and fourth levels.
+2 Explain how human activities
+can manipulate the transfer
+of biomass through
+ecosystems. (2 marks)
+3 Using Figure 6, calculate
+the ecological efficiency of
+energy transfer between
+algae and small aquatic
+animals.
+(2 marks)
+Agriculture creates very simple food chains. In farming animals or
+animal produce for human consumption, only three trophic levels
+are present - producers (animal feed), primary consumers (livestock),
+and secondary consumers (humans). In cultivating plants for human
+consumption, there are just two trophic levels - producers (crops) and
+primary consumers (humans). This means that the minimum energy
+is lost since there are fewer trophic levels present than in the natural
+ecosystem. This ensures that as much energy as possible is transferred
+into biomass that can be eaten by humans.
+Explain why biomass
+decreases at each level in a
+food chain. (4 marks)
+612
+23
+23.3 Recycling within ecosystems
+Over the past 200 years, global atmospheric carbon dioxide levels have
+increased significantly. This is mainly due to:
+Synoptic link
+You learnt about photosynthesis
+in Chapter 17, Energy for biological
+processes and about respiration in
+Chapter 18, Respiration.
+Synoptic link
+You learnt about climate change
+and global warming in Topic 11.6,
+Factors affecting biodiversity.
+the combustion of fossil fuels - which has released carbon dioxide
+back into the atmosphere from carbon that had previously been
+trapped for millions of years below the Earth's surface
+deforestation - which has removed significant quantities of
+photosynthesising biomass from Earth. As a result, less carbon
+dioxide is removed from the atmosphere. In many cases the
+cleared forest is burnt, therefore releasing more carbon dioxide
+into the atmosphere.
+Increased levels of atmospheric carbon dioxide trap more thermal energy
+(heat) in the atmosphere - it is called a greenhouse gas for this reason. Its
+production through human activities is contributing to global warming.
+CO2 concentration / ppm
+The amount of carbon dioxide dissolved in seas and oceans is affected
+by the temperature of the water (the higher the temperature, the less
+gas is dissolved). Therefore, global warming reduces the carbon bank
+in the oceans and releases more carbon dioxide into the atmosphere -
+further contributing to the process in a positive feedback loop.
+mm
+1960 1970 1980 1990
+year
+Figure 8 Atmospheric levels of
+carbon dioxide across a 30-year period
+measured at Mauna Loa, a volcanic
+mountain in Hawaii. The increase is a
+result of human activities - primarily
+burning fossil fuels, and through
+changed land usage
+Atmospheric carbon dioxide levels have varied significantly over
+million-year timescales. To gain information about how the atmosphere
+has changed over time, samples are taken from deep within a glacier.
+For example, at a depth of 3.6 km in the Antarctic glacier the ice is
+420000 years old. When the ice formed air bubbles were trapped
+within the ice - these bubbles reflect the composition of the atmosphere
+at this point in time. Analysis of the gases present within these
+bubbles therefore reveals the composition of the atmosphere at this
+point in history. The graphs in Figure 9 show the variations in carbon
+dioxide levels which have occurred over time. The temperature of the
+atmosphere is directly related to the level of carbon dioxide present.
+0
+2300+
+50 100 150 200
+Summary questions
+250
+Carbon dioxide concentration / ppm
+1 State the main differences between a decomposer and
+a detritivore.
+(2 marks)
+2 State and explain three ways in which atmospheric
+carbon dioxide levels increase.
+(3 marks)
+3 Describe what is meant by saprobiotic nutrition.
+(2 marks)
+temperature change /°C
+Explain how the scientific community have produced
+evidence that atmospheric carbon dioxide levels have
+varied naturally over time.
+(2 marks)
+5 Explain the role of microorganisms, giving named examples
+where possible, in the recycling of nitrogen in
+an ecosystem.
+(8 marks)
+0 50 100 150 200
+age/ thousands of years
+Figure 9 Comparison of changes
+in atmospheric carbon dioxide (from
+analysis of bubbles in glacial ice) and
+temperature changes from oxygen
+isotope studies)
+618
+23
+23.2 Biomass transfer through an ecosystem
+transferred. The efficiency with which biomass or energy is transferred
+from one trophic level to the next is called the ecological efficiency.
+The amount of biomass or energy converted to new biomass by each
+trophic level in a food chain can be represented by a pyramid of
+energy (Figure 4).
+Efficiency at producer level
+Producers only convert 1-3% of the sunlight (solar or light energy)
+they receive into chemical energy and hence biomass. This is because:
+not all of the solar energy available is used for photosynthesis –
+approximately 90% is reflected, some is transmitted through the
+leaf, and some is of unusable wavelength
+other factors may limit photosynthesis, such as water availability
+. a proportion of the energy is 'lost', as it is used for photosynthetic
+reactions.
+The total solar energy that plants convert to organic matter is called
+the gross production. However, plants use 20-50% of this energy in
+respiration. The remaining energy is converted into biomass. This is
+the energy available to the next trophic level and is known as the net
+production.
+The energy available to the next trophic level can be calculated using
+the following formula:
+Net production = gross production - respiratory losses
+Note that this calculation can be applied equally to the biomass or
+energy production within an organism. The generation of biomass in
+a producer is referred to as primary production - in a consumer, it is
+known as secondary production.
+e Worked example 1: Calculating net
+production (biomass)
+A group of scientists measured the
+gross production of a grassland area as
+60gm 2 year-1. If the respiration loss was
+20gm 2 year!, calculate the annual net
+production of this area of grassland.
+Worked example 2: Calculating net
+production (energy)
+Sheep in a grassland digest and absorb 15 000
+kJ m 2 yr-) from the biomass they take in. Of
+this, 8000 kJm-yr- is used in respiration.
+How much energy is available to humans, the
+next organism in the food chain?
+Net production = gross production -
+respiratory losses
+= 15000 - 8000
+= 7000 kJ m-yr-1
+Net production = gross production -
+respiratory losses
+= 60 - 20
+= 40 gm 2 year!
+This is an example of primary production.
+This is an example of secondary production.
+610
+23
+23.3 Recycling within ecosystems
+Nitrification is an oxidation reaction, and so only occurs in well-
+aerated soil. It takes place in two steps:
+1 Nitrifying bacteria (such as Nitrosomonas) oxidise ammonium
+compounds into nitrites (NO,-).
+2 Nitrobacter (another genus of nitrifying bacteria) oxidise nitrites into
+nitrates (NO,).
+Nitrate ions are highly soluble, and are therefore the form in which
+most nitrogen enters a plant.
+A Figure 4 Coloured transmission
+electron micrograph of Nitrobacter sp.
+They oxidise nitrogen-containing
+molecules for energy, converting nitrites
+into nitrates. Magnification 6000
+Denitrification
+In the absence of oxygen, for example, in waterlogged soils,
+denitrifying bacteria convert nitrates in the soil back to nitrogen gas.
+This process is known as denitrification - it only happens under
+anaerobic conditions. The bacteria use the nitrates as a source of
+energy for respiration and nitrogen gas is released.
+Ammonification
+Ammonification is the name given to the process by which
+decomposers convert nitrogen-containing molecules in dead
+organisms, faeces, and urine into ammonium compounds.
+Study tip
+Nitrogen cycle
+The processes of nitrogen fixation, nitrification, denitrification, and
+ammonification all form part of the nitrogen cycle. Their place in the
+cycle can be seen in Figure 5.
+You must learn the names of the
+bacteria involved in the recycling of
+nitrogen. Make sure you are clear
+on their role in nitrogen fixation,
+nitrification, denitrification, and
+ammonification.
+nitrogen gas in
+nitrogen fixation by living
+nitrogen fixation by
+the atmosphere
+non-living processes
+organisms
+denitrification e.g.
+e.g., lightning and
+by Pseudomonas
+uptake and
+the Haber process
+denitrificans
+assimilation
+nitrates
+by plants
+plant
+animal
+NOG
+(protein
+protein
+nitrification
+nitrogen in the food
+e.g., by nitrifying chain death and
+mutualistic free-living
+bacteria such as decomposition
+nitrogen-fixing nitrogen-fixing
+Nitrobacter
+bacteria in root bacteria in the soil,
+nodules, e.g. e.g., Azotobacter
+Rhizobium
+(nitrites
+ammonification (by
+NO,
+decomposers - mainly
+nitrification
+bacteria and fungi)
+e.g., by nitrifying
+bacteria such as
+Nitrosomonas
+ammonia
+Figure 5 The nitrogen cycle. This
+shows how nitrogen is converted
+into a useable form and then passed
+on between organisms and the
+environment. Artificial processes, such
+as the Haber process used to make
+ammonia for fertiliser, have an effect on
+this natural cycle
+NH3
+Recycling carbon
+Carbon is a component of all the major organic molecules present
+in living organisms such as fats, carbohydrates, and proteins. The
+main source of carbon for land-living organisms is the atmosphere.
+Although carbon dioxide (CO) only makes up 0.04% of the
+atmosphere, there is a constant cycling of carbon between the
+atmosphere, the land, and living organisms. Figure 6 summarises the
+key points of the carbon cycle.
+616
+23
+ECOSYSTEMS
+Study tip
+Nitrogen is abundant in the atmosphere, 78% of air is nitrogen gas
+(N,). However, in this form nitrogen cannot be taken up by plants.
+To be used by living organisms, nitrogen needs to be combined with
+other elements such as oxygen or hydrogen. Bacteria play a very
+important role in converting nitrogen into a form useable by plants.
+Without bacteria, nitrogen would quickly become a limiting factor in
+ecosystems.
+Take care to use the correct
+terminology when referring to
+the various nitrogen compounds
+involved in the nitrogen cycle.
+Nitrogen (N, ) is present in the
+atmosphere as a gas, but cannot
+be used directly by plants,
+Nitrogen fixation
+Nitrogen-fixing bacteria such as Azotobacter and Rhizobium contain
+the enzyme nitrogenase, which combines atmospheric nitrogen (N)
+with hydrogen (H,) to produce ammonia (NH) - a form of nitrogen
+that can be absorbed and used by plants. This process is known as
+nitrogen fixation.
+Ammonia (NH2), or ammonium
+ions (NH,+), are produced by
+nitrogen-fixing bacteria and by
+decomposers.
+Azotobacter is an example of a free-living soil bacterium. However,
+many nitrogen-fixing bacteria such as Rhizobium live inside root
+nodules. These are growths on the roots of leguminous plants such
+as peas, beans, and clover. The bacteria have a symbiotic mutualistic
+relationship with the plant, as both organisms benefit:
+Nitrites (NO,-) are formed by
+nitrifying bacteria from ammonia.
+These cannot be absorbed by
+plants.
+Nitrates (NO, ) are produced from
+nitrites by other nitrifying bacteria.
+Plants are able to absorb nitrates.
+the plant gains amino acids from Rhizobium, which are produced
+by fixing nitrogen gas in the air into ammonia in the bacteria
+the bacteria gain carbohydrates produced by the plant during
+photosynthesis, which they use as an energy source.
+Other bacteria then convert the ammonia that is produced by nitrogen
+fixation into other organic compounds that can be absorbed by plants.
+Any reference to ammonia, nitrates,
+or nitrites should not be written
+as 'nitrogen' - rather, use the term
+'nitrogen-containing molecules'.
+Reward and punishment
+Recent work suggests that legumes 'select' the Rhizobium colonies
+which provide them with the most nitrates. Careful measurements show
+that the plants reward the nodules which make lots of nitrates with
+extra carbohydrates - but the punishment for nodules containing
+less-productive bacteria is swift and unforgiving. The plant cuts off the
+supply of carbohydrates and starves the nodule to death. This is a form of
+natural selection which maximises the benefit to the plant and to those
+bacteria which deliver the goods.
+A Figure 3 Pink nodules of the
+nitrogen-fixing bacteria Rhizobium
+leguminosarum on the roots of a pea
+plant. The nodules are the sites where
+the bacteria fix atmospheric nitrogen,
+approx x1.5 magnification
+Discuss the nitrogen-fixation/carbon-fixation mutualism of legumes and
+Rhizobium, including the pattern of the relationship and its importance to
+living organisms.
+Nitrification
+Nitrification is the process by which ammonium compounds in the
+soil are converted into nitrogen-containing molecules that can be
+used by plants. Free-living bacteria in the soil called nitrifying bacteria
+are involved.
+615
+3
+ECOSYSTEMS
+Decomposers are also important components of food webs - they
+break down dead organisms releasing nutrients back into the
+ecosystem. You will learn more about decomposers in Topic 23.3,
+Recycling within ecosystems.
+Food chains can be presented diagrammatically as a pyramid of
+numbers, with each level representing the number of organisms at each
+trophic level (Figure 2). In a pyramid the producers are always placed at
+the bottom of the diagram with subsequent trophic levels added above.
+foxes
+rabbits
+Measuring biomass
+Biomass is the mass of living material present in a particular place or
+in particular organisms. It is an important measure in the study of food
+chains and food webs as it can be equated to energy content.
+grass
+large fish
+To calculate biomass at each trophic level, you multiply the biomass
+present in each organism by the total number of organisms in that trophic
+level. This information can be presented diagrammatically as a pyramid
+of biomass (Figure 3). This represents the biomass present at a particular
+moment in time - it does not take into account seasonal changes.
+small fish
+zooplankton
+phytoplankton
+The easiest way to measure biomass is to measure the mass of fresh
+material present. However, water content must be discounted and the
+presence of varying amounts of water in different organisms makes
+this technique unreliable unless very large samples are used. Scientists
+therefore usually calculate the 'dry mass' of organisms present. This
+is not without problems. Organisms have to be killed in order to be
+dried. The organisms are placed in an oven at 80°C until all water
+has evaporated - this point is indicated by at least two identical mass
+readings. To minimise the destruction of organisms (particularly
+animals) only a small sample is taken. However, this sample may not
+be representative of the population as a whole.
+A Figure 3 Pyramids of biomass are
+virtually always a pyramid shape (top).
+An exception is a pyramid of biomass
+for a marine ecosystem (bottom).
+Phytoplankton are microorganisms
+that can photosynthesise. The mass of
+phytoplankton at any given time is often
+quite small, but they reproduce very
+quickly so over a period of time there
+is always more phytoplankton than
+zooplankton
+Biomass is measured in grams per square metre (gm-2) for areas of
+land, or grams per cubic metre (gm ?) for areas of water.
+Efficiency of biomass and energy transfer between
+trophic levels
+The biomass in each trophic level is nearly always less than the trophic
+level below. This is because biomass consists of all the cells and tissues
+of the organisms present, including the carbohydrates and other carbon
+compounds the organisms contain. As carbon compounds are a store of
+energy, biomass can be equated to energy content. When animals eat,
+only a small proportion of the food they ingest is converted into new
+tissue. It is only this part of the biomass (and hence energy)
+which is available for the next trophic level to eat.
+secondary consumer
+(3000 MJ m-2 yr-)
+primary consumer
+(7000 MJ m-2 yr-l)
+The energy available at each trophic level is measured in
+kilojoules per metre squared per year (kJm-yr-'), to allow
+for changes in photosynthetic production and consumer
+feeding patterns throughout the year. As biomass is
+transferred between trophic levels, so the energy contained is
+producers
+(50 000 MJ m-2 yr-l)
+Figure 4 A pyramid of energy for grassland
+609
+23
+23.5 Measuring the distribution and abundance of organisms
+6 Worked example: Capture-mark-release-recapture
+technique
+In a random sample of a school playing field, students captured
+12 snails. They marked the underside of each snail's shell with a
+dot of non-toxic paint.
+The students then released the snails back onto the field. A week
+later, another sample of snails from the same location was taken.
+This time 15 snails were collected, of which three were found to
+have a paint dot.
+Estimate the total snail population.
+Step 1: Sum the total the number of individuals in the first
+sample = 12
+Step 2: Sum the total number of individuals in the second
+sample = 15
+Step 3: Estimate the population size by calculating the Lincoln
+index:
+Estimated population size =
+number of individuals in first sample x
+number of individuals in second sample 12 x 15
+number of recaptured marked individuals 3
+The estimated total snail population of the playing field is 60 snails.
+2= 60
+Once the abundance of all the organisms present in a habitat has
+been determined, scientists will often mathematically calculate the
+biodiversity present in a habitat. This can be done using Simpson's
+Index of Diversity (D):
+D = diversity index
+N = total number of organisms in the ecosystem
+Synoptic Link
+n = number of individuals of each species
+To remind yourself how to calculate
+Simpson's Index of Diversity, look
+back at Topic 11.4, Calculating
+biodiversity.
+N(N − 1)
+In(n-1)
+Simpson's Index of Diversity always results in a value between 0 and
+1, where 0 represents no diversity and a value of l represents infinite
+diversity. The higher the value of Simpson's Index of Diversity, the
+more diverse the habitat.
+626
+23.3 Recycling within ecosystems
+Specification reference: 6.3.1
+:
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the role of decomposers in
+ecosystems
+the recycling of carbon and
+nitrogen within ecosystems.
+Energy has a linear flow through an ecosystem. It enters the
+ecosystem from the Sun, and is ultimately transferred to the
+atmosphere as heat. As long as the Sun continues to supply Earth with
+energy, life will continue. In contrast, nutrients constantly have to
+be recycled throughout ecosystems in order for plants and animals to
+grow. This is because they are used up by living organisms and there is
+no large external source constantly replenishing nutrients in the way
+the Sun supplies energy.
+Decomposition
+Decomposition is a chemical process in which a compound is broken
+down into smaller molecules, or its constituent elements. Often an
+essential element, such as nitrogen or carbon, cannot be used directly
+by an organism in the organic form it is in, in dead or waste matter.
+This organic material must be processed into inorganic elements
+and compounds, which are a more usable form, and returned to the
+environment.
+A decomposer is an organism that feeds on and breaks down
+dead plant or animal matter, thus turning organic compounds into
+inorganic ones nutrients) available to photosynthetic producers in the
+ecosystem. Decomposers are primarily microscopic fungi and bacteria,
+but also include larger fungi such as toadstools and bracket fungi.
+Figure 1 Oyster mushrooms. Fungi
+are the main decomposers in forests.
+Only wood-decay fungi have evolved
+the enzymes necessary to decompose
+lignin, a chemically complex substance
+found in wood
+Decomposers are saprotrophs because they obtain their energy from
+dead or waste organic material (saprobiotic nutrition). They digest
+their food externally by secreting enzymes onto dead organisms or
+organic waste matter. The enzymes break down complex organic
+molecules into simpler soluble molecules - the decomposers
+then absorb these molecules. Through this process, decomposers
+release stored inorganic compounds and elements back into the
+environment.
+Detritivores are another class of organism involved in decomposition.
+They help to speed up the decay process by feeding on detritus - dead
+and decaying material. They break it down into smaller pieces of
+organic material, which increases the surface area for the decomposers
+to work on. Examples of detritivores include woodlice that break
+down wood, and earthworms that help break down dead leaves.
+Detritivores perform internal digestion.
+A Figure 2 Maggots are an example of
+a detritivore that helps to break down
+animal tissue
+Recycling nitrogen
+Nitrogen is an essential element for making amino acids (and
+consequently proteins) and nucleic acids in both plants and animals.
+Animals obtain the nitrogen they need from the food they eat, but
+plants have to take in nitrogen from their environment.
+614
+23
+ECOSYSTEMS
+Monitoring biomass during conservation 0
+Amchitka Island
+Ourchin number
+I urchin biomass
+Sea urchins (Strongylocentrotus spp) are marine
+invertebrates that feed on kelp (a type of seaweed). In
+regions where sea urchins are abundant, kelp forest
+ecosystems can be disrupted. The urchins eat the kelps'
+holdfasts, these are strong structures which anchor the
+kelp to the sea bed. The remainder of the plant floats away
+resulting in an ecosystem known as an 'urchin barren
+ecosystem, which contains so little biomass of seaweeds
+that few species are able to live in this region. The
+presence or absence of kelp beds therefore has a major
+influence on the structure of the marine community.
+density of sea urchins/number 0.25 m2
+sea urchin biomass/g 0.25 m2
+10 20 30 40 50 60 70 80 90
+diameter of sea urchin/mm
+Shemya Island
+urchin number - 400
+I urchin biomass
+density of sea urchins/number 0.25 m2
+5
+wo
+sea urchin biomass/g 0.25 m2
+A Figure 8 Forests of kelp are felled by sea urchins which
+eat the kelp's holdfasts using their five self-sharpening teeth
+1-
+10 20 30 40 50 60 70 80 90
+diameter of sea urchin/mm
+A Figure 9
+In many areas, sea otters (Enhydra lutris) feed on
+urchins, keeping their levels low and therefore the kelp
+forests intact. During the 19th century, this ecological
+balance was destroyed when populations of sea otters
+were virtually wiped out by excessive hunting for otter fur.
+As a result, urchin numbers grew rapidly and kelp forests
+were destroyed. This balance has since been restored by
+the cessation of the hunting of sea otters, allowing them
+to again control the abundance of the urchins. In turn, the
+productive kelp forests have been able to redevelop.
+1 State which trophic level of this marine community
+sea otters belong to.
+2 a State the diameter of the largest sea urchin
+studied on Sheyma Island.
+b State the diameter of sea urchins with the most
+frequent biomass on Amchitka Island.
+c Suggest with reasons which island has the
+oldest sea urchins.
+3 Oil spills can result in the death of sea urchins.
+Explain how scientists can use the presence
+of kelp biomass to determine how an area is
+recovering from oil damage.
+As part of a conservation management project,
+scientists studied sea urchin populations around two
+of the Aleutian Islands off the coast of Alaska. Data on
+sea urchin size, density, and biomass were recorded per
+0.25 m² from samples collected from Amchitka Island
+(which has sea otters) and Sheyma Island (which has
+no sea otters) The results are shown in Figure 9.
+613
+23
+ECOSYSTEMS
+to count all members of a population, or the counting process could
+damage the environment. Populations are therefore estimated using
+sampling techniques.
+A sample, however, is never entirely representative of the organisms
+present in a habitat. To increase its accuracy you should use as large a
+sample size as possible. The greater the number of individuals studied,
+the lower the probability that chance will influence the result. You
+should also use random sampling to reduce the effects of sampling bias.
+Measuring plant abundance
+To measure the abundance of plants, quadrats are placed randomly
+in an area. The abundance of the organisms in that area is measured
+by counting the number of individual plants contained within the
+quadrat. Using the following formula, the abundance can be estimated:
+A Figure 1 This student is conducting
+a survey using a quadrat. A quadrat is a
+frame of standard size, often a square
+divided into equal sections by string,
+which is used to isolate an area from
+which a sample is to be taken. Quadrats
+are often used for measuring the
+abundance of different species within a
+given area
+Estimated number
+in population (m-2
+Number of individuals in sample
+Area of sample (m²)
+2 Worked example: Estimating plant abundance
+A sample was taken using five quadrats with a combined area
+of 5 m². If the quadrats contained a total of 40 buttercup plants,
+what is the estimated abundance of buttercups?
+Study tip
+Step 1: Identify the equation needed
+Estimated number Number of individuals in sample
+in population (
+m2) Area of sample (m²)
+Individual plants in a quadrat
+can sometimes be difficult to
+count so scientists also make
+estimates using frequency or
+percentage cover. Look back at
+Topic 11.3, Sampling techniques to
+remind yourself of these different
+techniques.
+Step 2: Substitute the values into the equation and calculate
+the answer ? = 8 m-2
+Meaning eight buttercups per square metre.
+Measuring animal abundance
+Quadrats cannot be used to measure the abundance of animals (unless
+they are very slow moving, such as barnacles and mussels on a sea
+shore) so the capture-mark-release-recapture technique is often used
+to estimate population size.
+The technique can be carried out as follows:
+1 Capture as many individuals as possible in a sample area.
+2 Mark or tag each individual.
+3 Release the marked animals back into the sample area and allow
+time for them to redistribute themselves throughout the habitat.
+4 Recapture as many individuals as possible in the original sample area.
+5 Record the number of marked and unmarked individuals present
+in the sample. (Release all individuals back into their habitat.)
+6 Use the Lincoln index to estimate the population size:
+A Figure 2 The animals sampled can be
+collected in a number of ways including
+using pooters, sweep nets, and pitfall
+traps. (Topic 11.3, Sampling techniques).
+This student is collecting crawling
+animals off a tree using a pooter
+number of individuals in first sample x
+number of individuals in second sample
+Estimated population size ==
+number of recaptured marked individuals
+625
+23
+ECOSYSTEMS
+@ Monitoring biodiversity in the Sonoran desert Oo
+The Sonoran desert is a region of desert in the
+1 Suggest how the data could have been
+south-western part of the United States, including parts
+collected
+of Arizona and California. The environment is harsh -
+2 Explain how you can tell that the figures stated
+summer temperatures regularly exceed 40 °C. Rainfall is
+for animal abundance were a mean of several
+rare, often taking the form of intense, violent storms.
+observations
+A student carried out a study to test the following
+3 Plot the data as a scatter diagram.
+hypothesis - 'the greater the abundance of plant species in 4 Using your diagram from Q3, state the correlation
+the Sonoran desert, the greater the abundance of animals'. between the variables, if any.
+A selection of the data collected is shown in Table 1.
+65d2
+5 Using the formula p=1 --
+Table 1
+the Spearman's rank correlation coefficient for
+Mean plant
+Mean animal
+abundance/50 m-2 abundance/ 50 m-2
+this data.
+Use the Spearman's ranked correlation
+0.05
+coefficient critical values in the appendix to
+0.06
+determine the statistical significance of the
+0.20
+correlation, and hence form a conclusion
+0.19
+from the data.
+0.11
+0.44
+nin2_
+calculate
+0.92
+1.19
+1.44
+1.45
+11
+12
+1.78
+2.00
+2.06
+2.33
+2.78
+13
+14
+Synoptic link
+Remind yourself how to calculate
+the Spearman's rank correlation
+coefficient by looking back to
+Topic 10.6, Representing variation
+graphically.
+Summary questions
+Study tip
+1 State the difference between the abundance and distribution
+of organisms.
+(1 mark)
+2 Twenty woodlice were captured in a sample area and marked then
+released back into the sample area. A week later, 15 woodlice were
+found in the sample area, of which only two were marked.
+a Suggest which piece of apparatus should be used to collect
+woodlice.
+(1 mark)
+b Oo Use the Lincoln index to estimate the woodlouse
+population.
+(2 marks)
+The correlation test is used to
+see if two different variables are
+correlated in a linear fashion in the
+context of a scatter-graph. There are
+several different types of statistical
+test that can be used, the OCR GCE
+Biology specifications will only
+cover Spearman's rank correlation
+coefficient. You can find a full table
+of values in the appendix.
+3 State and explain one advantage of the following techniques used
+to measure the distribution of organisms in an ecosystem. (2 marks)
+a random sampling
+b non-random sampling
+4 Discuss the limitations of using the capture-mark-release-
+recapture technique to estimate population size.
+(6 marks)
+627
+23
+Chapter 23 Practice questions
+Practice questions
+1 Ecological succession describes the change in
+species within a community over time.
+time
+agricultural land after land is
+is kept in an abandoned wild
+artificial seral stage grasses start to grow
+from wind blown over
+over time shrubs
+start to colonise
+the grassland
+trees become
+established and
+climax community
+develops
+(i) Describe the changes in carbon content
+of the components of the ecosystem
+shown in the diagram. (4 marks)
+(ii) Suggest how these changes would
+differ if the succession started without
+the presence of any soil. (4 marks)
+As succession progresses the net primary
+productivity changes as shown in the graph,
+this is the net rate at which an ecosystem
+accumulates energy.
+a (i) State, giving your reasons, the type of
+succession shown in the diagram.
+(1 mark)
+(ii) Describe the ecological role of the
+different species involved in the early
+stages of succession. (2 marks)
+The graph shows the changing mass of species
+in a standard example of succession.
+net productivity per year
+pine
+shrubs
+trees
+pioneer
+climax
+community community
+d (i) Describe the change in net primary
+productivity shown in the graph.
+(3 marks)
+(ii) Suggest the reasons for the changes
+you have described in d (ii). (3 marks)
+Ecological pyramids summarise the feeding
+relationships within an ecosystem in terms of
+number, biomass or energy.
+oak
+mass of plants
+trees
+grasses
+2
+Mosses
+time
+b (i) State the name given to mosses
+describing their role in this example
+of succession.
+(ii) Explain why mosses, grasses, and
+shrubs all eventually decrease in
+mass.
+(iii) State the name given to the
+community composed primarily of
+Pine and Oak trees.
+(1 mark)
+The quantity of carbon sink changes
+throughout a period of succession. The graph
+summarises these changes.
+a
+-
+carbon stores (gha-' x 10)
+live
+detritus
+total
+average
+soil
+3 160.00
+x 140.00
+T 120.00
+100.00 -
+80.00
+60.00
+40.00
+20.00 -
+0.00 +
+0
+(i) State the definition of the term
+trophic level.
+(1 mark)
+(ii) Identify which of the lists below
+represents each of the ecological
+pyramids shown in the diagram.
+(2 marks)
+1 lettuce plant, snail, thrush,
+sparrowhawk
+2 tree, aphid, caterpillar, parasite
+(iii) Suggest, giving your reason(s), whether
+the ecological pyramids in the diagram
+represent number or biomass. (2 marks)
+(iv) Describe how you would represent
+decomposers on pyramid A, or B.
+(2 marks)
+50
+100
+150
+time (years)
+200
+250
+300
+628
+23
+ECOSYSTEMS
+colonise the dunes, the sand disappears and the dunes
+change colour - from yellow to grey.
+Seeds are blown onto the dunes or washed onto the
+sand by the sea. At this stage the rooting conditions
+are poor due to drought, strong winds, and salty sea-
+water immersion. The presence of a large number of
+sea shells also makes the environment very alkaline.
+As the wind blows across the dunes it moves the sand,
+constantly changing the profile of the dunes and
+allowing rainwater to soak through rapidly. However,
+some species such as sea couch grass are able to
+survive these harsh conditions.
+Finally taller plants, such as sea buckthorn, or more
+complex plant species like moorland heathers can grow.
+Plants from earlier stages are no longer present.
+When the water table reaches or nearly reaches the
+surface, dune slacks can occur. Plants that are specially
+adapted to be water-tolerant grow here adding to the
+biodiversity of the sand dunes.
+Marram grass becomes the next dominant species. As
+these plants grow sand is trapped between the roots
+helping to stabilise the dunes, and the formation of soil
+begins. Minerals released from decaying pioneer plants
+create more fertile growing conditions, and the soil
+becomes less alkaline as pioneer plants grow and trap
+rainwater. The grasses also reduce salt spray into the
+hind dunes, and act as a partial wind barrier. Less hardy
+plants can now grow - over time, these species start
+to shade out the pioneers. As more species of plants
+1 State what type of succession occurs on a sand
+dune.
+2 a Name an example of a pioneer species.
+b Suggest and explain two features of the
+species you named in question 2a.
+3 Describe the role marram grass plays in
+succession.
+4 Describe how the abiotic conditions on a sand
+dune change over time.
+5 Explain why fewer pioneer species are present in a
+climax community of trees or heathers.
+Summary questions
+Synoptic link
+1 State the difference between a climax community and a
+plagioclimax community.
+(1 mark)
+You learnt about the adaptations
+of marram grass in Topic 9.5, Plant
+adaptations to water availability
+and Topic 10.7, Adaptations.
+2 Describe the difference between primary and secondary
+succession.
+(1 mark)
+3 State and explain the common developments that occur
+in succession in any ecosystem.
+(6 marks)
+Evaluate the use of deflected succession as a conservation
+technique to help maintain the population of an endangered
+animal species.
+(6 marks)
+623
+ECOSYSTEMS
+23
+3
+a
+Discuss possible reasons for the differences
+in net primary production in these
+ecosystems.
+(4 marks)
+To calculate the net primary production
+figures in the table in k Jm-2 yearl, it is
+necessary to measure the energy content
+of the primary producers. Outline how
+the energy content, in KJ, of a primary
+producer such as grass can be measured in
+the laboratory.
+(2 marks)
+The efficiency with which consumers
+convert the food they eat into their
+own biomass is generally low. The table
+compares the energy egested, absorbed,
+and respired in four types of animal.
+IL
+animal
+Percentage of energy consumed that is:
+egested absorbed respired converted
+to biomass
+63
+3?
+24
+13
+a Outline the factors that can affect primary
+productivity.
+(5 marks)
+It is usually impossible to count all of the
+members of a population in a particular
+habitat so animal populations often have
+to be estimated.
+One method to estimate population size
+uses the Lincoln Index.
+b (i) Outline the principles that underlie
+the Lincoln Index.
+(3 marks)
+(ii) Discuss the limitations of using
+the Lincoln Index to estimate
+population size.
+(5 marks)
+In different locations of Utah Lake in the
+US, 24064 carp were captured, tagged,
+and released over a 15 day period.
+After the tagging was finished, another
+10357 carp at random locations of the
+lake were caught and the number of
+tagged fish counted. Only 208 of the
+recaptured carp had tags.
+c Calculate, using the formula, the
+estimated population number of carp
+in the lake.
+(2 marks)
+Number marked Number marked
+in second sample in first sample
+Total caught in Size of whole
+second sample population (N)
+State, giving your reason(s), if the
+estimate become more accurate if more
+individuals are captured and marked.
+(2 marks)
+State one adjustment you would have
+to make to the investigation if you were
+estimating a population of snails rather
+than fish.
+(1 mark)
+Total plant growth within an ecosystem
+depends on the light intensity, temperature,
+and the supply of water and inorganic
+minerals to the ecosystem.
+The table shows the net primary production
+by plants in four different ecosystems.
+grasshopper
+(herbivorous insect)
+perch (carnivorous
+fish)
+160
+cow (herbivorous
+mammal)
+60
+40
+77
+bobcat (carnivorous 17
+mammal)
+4
+(i) Copy and complete the table to show
+the percentage of energy consumed
+that is converted into biomass in the
+perch and the cow. (2 marks)
+(ii) Describe and explain, using the data
+from the table, how the trophic level
+of a mammal affects the percentage
+of its food energy that it is able to
+convert to biomass. (3 marks)
+(iii) Using the data from the table and
+your knowledge of energy flow
+through food chains, suggest which
+of these four animals could be farmed
+to provide the maximum amount
+of food energy in kJ m-2 year-l for
+humans. Explain the reason for
+your choice.
+(4 marks)
+OCR F215 2011
+Ecosystem
+Net primary production
+(k Jm-2 year-1)
+temperate grassland | 9 240
+temperate woodland | 11 340
+tropical grassland 13 340
+tropical rainforest 36 160
+629
+23.5 Measuring the distribution
+and abundance of organisms
+Specification reference: 6.3.1
+Scientists use a number of techniques to study the distribution
+and abundance of organisms within an ecosystem. This is a way of
+measuring and observing the biodiversity present within an ecosystem.
+These techniques can also be used to study how the organisms present
+change during succession. Many of these techniques you met in
+Chapter 11, Biodiversity.
+be
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+how the distribution and
+abundance of organisms
+in an ecosystem can be
+measured
+the use of sampling and
+recording methods to
+determine the distribution
+and abundance of organisms
+in a variety of ecosystems.
+Distribution of organisms
+The distribution of organisms refers to where individual organisms are
+found within an ecosystem. The distribution of organisms is usually
+uneven throughout an ecosystem. Organisms are generally found
+where abiotic and biotic factors favour them, therefore their survival
+rate is high as all the resources they need to live are available and
+predation/pressure from consumers is low.
+Synoptic link
+You learnt about sampling
+techniques in Topic 11.2, Sampling
+and Topic 11.3, Sampling
+techniques. This topic reminds you
+briefly of the techniques, but you
+should refer to those topics also.
+Measuring distribution
+To measure the distribution of organisms within an ecosystem, a
+line or belt transect is normally used. A line transect involves laying
+a line or surveyor's tape along the ground and taking samples at
+regular intervals. A belt transect provides more information - two
+parallel lines are marked, and samples are taken of the area between
+these specified points. Belt and line transects are forms of systematic
+sampling, a type of non-random sampling.
+In systematic sampling different areas within an overall habitat
+are identified, which are then sampled separately. This can have
+advantages over random sampling as it allows scientists to study how
+the differing abiotic factors in different areas of the habitat affect the
+distribution of a species. For example, systematic sampling may be
+used to study how plant species change as you move inland from the
+sea. This would therefore be used to study the successional changes
+that take place along a series of sand dunes.
+Study tip
+Remember that two other types
+of non-random sampling could
+also be used - opportunistic and
+stratified sampling. See Topic 11.2,
+Sampling
+Abundance of organisms
+The abundance of organisms refers to the number of individuals of
+a species present in an area at any given time. This number may
+fluctuate daily:
+Immigration and births will increase the numbers of individuals.
+Emigration and deaths will decrease the number of individuals.
+Synoptic link
+You will learn more about how
+population size changes in Topic
+24.1, Population size.
+Measuring abundance
+A population is a group of similar organisms living in a given area
+at a given time. Populations can rarely be counted accurately - for
+example, some animals elude capture, it may be too time-consuming
+624

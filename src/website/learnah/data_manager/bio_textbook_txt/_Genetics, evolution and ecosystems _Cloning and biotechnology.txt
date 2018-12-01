@@ -1,0 +1,1926 @@
+22
+22.4 Microorganisms and biotechnology
+Bacteria - feed
+on lactose in milk,
+changing the texture
+and taste, and inhibiting
+the growth of bacteria
+which make milk go off.
+Cheese-
+making
+The milk is pasteurised (heated to 95 °C for 20 seconds to kill off most natural
+bacteria) and homogenised (the fat droplets evenly distributed through the milk).
+It is mixed with bacterial cultures and sometimes chymosin enzyme and kept
+until the milk separates into solid curds and liquid whey.
+• For cottage cheese, the curds are separated from the whey, packaged, and sold.
+• For most cheese, the curds are cut and cooked in the whey then strained
+through draining moulds or cheesecloth. The whey is used for animal feeds.
+The curds are put into steel or wooden drums and may be pressed. They are
+left to dry, mature, and ripen before eating as the bacteria continue to act for
+anything from a few weeks to several years.
+Bacteria - often
+Lactobacillus bulgaricus
+(forms ethanal)
+and Streptococcus
+thermophilus (forms
+lactic acid). Both
+produce extracellular
+polymers that give
+yoghurt its smooth,
+thick texture.
+Skimmed milk powder is added to milk and the mixture is pasteurised,
+homogenised, and cooled to about 47 °C.
+• The milk is mixed with a 1:1 ratio of Lactobacillus bulgaricus and Streptococcus
+thermophilus and incubated at around 45 °C for 4-5 hours.
+• At the end of the fermentation, the yoghurt may be put into cartons at a temperature
+of around 10 °C as plain yoghurt or mixed with previously sterilised fruit.
+• Thick-set yoghurts are mixed and ferment in the pot.
+• Yoghurt has a shelf-life of about 19 days if stored at 2-3 °C.
+Yoghurt-
+making
+Direct food production
+People have eaten fungi for thousands of years in the form of a
+wide variety of mushrooms. In recent times, facing potential protein
+shortages around the world, scientists are developing more ways of
+using microorganisms to directly produce protein you can eat. It is
+known as single-cell protein or SCP.
+The best known SCP is Quorn TM This is made of the fungus
+Fusarium venetatum, a single celled fungus that is grown in large
+fermenters using glucose syrup as a food source (You will learn
+more about fermenters in Topic 22.7. Culturing microorganisms
+on an industrial scale). The microorganisms are combined with
+albumen (egg white) and then compressed and formed into meat
+substitutes. QuornTM is not only suitable for vegetarians, it is also
+a healthy choice as it is high in protein and low in fat. People are
+very conservative in their food choices and when the new food was
+launched, no mention was made of the fungi used to produce it.
+Using the term mycoprotein meant most people did not recognise
+what it was made of. However a combination of good marketing
+and a good product meant that people tried Quorn TM and liked it,
+and it has been internationally successful as a novel protein food.
+Other attempts to make proteins from microorganisms have not yet
+been as successful. Yeasts, algae, and bacteria can be used to grow
+proteins that match animal proteins found in meat as well as plant
+proteins. They can be grown on almost anything, are relatively cheap
+and low in fat, yet none of the alternative protein sources has proved
+successful so far. People have many reservations about eating food
+grown on waste. Increasingly single celled proteins are being used to
+588
+22
+22.3 Cloning in animals
+Artificial twinning
+After an egg is fertilised, it divides to form a ball of cells. Each of these
+individual cells is totipotent - it has the potential to form an entire new
+animal. As the cells continue to divide, the embryo becomes a hollow
+ball of cells. Soon after this the embryo can no longer divide successfully.
+In natural twinning, an early embryo splits and two foetuses go on
+to develop from the two halves of the divided embryo. In artificial
+twinning the same thing happens, but the split in the early embryo
+is produced manually. In fact, the early embryo may be split into
+more than two pieces and results in a number of identical offspring.
+Artificial twinning, like embryo transfer which preceded it, is used
+by the farming community to produce the maximum offspring from
+particularly good dairy or beef cattle or sheep.
+The stages of artificial twinning in cattle can be summarised as follows:
+• A cow with desirable traits is treated with hormones so she super-
+ovulates, releasing more mature ova than normal.
+The ova may be fertilised naturally, or by artificial insemination, by
+a bull with particularly good traits. The early embryos are gently
+flushed out of the uterus.
+Alternatively, the mature eggs are removed and fertilised by top-
+quality bull semen in the lab.
+Usually before or around day six, when the cells are still totipotent,
+the cells of the early embryo are split to produce several smaller
+embryos, each capable of growing on to form a healthy full-term calf.
+Each of the split embryos is grown in the lab for a few days to
+ensure all is well before it is implanted into a surrogate mother.
+Each embryo is implanted into a different mother as single
+pregnancies carry fewer risks than twin pregnancies.
+The embryos develop into foetuses and are born normally, so a
+number of identical cloned animals are produced by different mothers.
+20 early embryo from cow
+In pigs, a number of cloned embryos
+od and bull with desirable traits
+must be introduced into each mother
+pig. This is because they naturally
+embryo split into
+produce a litter of piglets, and the
+totipotent cells
+body may reject and reabsorb a
+single foetus.
+each totipotent cell
+develops into an embryo
+This technology makes it possible
+to greatly increase the numbers of
+embryos transferred offspring produced by the animals
+to surrogate mothers
+with the best genetic stock. Some
+of the embryos may be frozen. This
+allows the success of a particular
+animal to be assessed and, if the stock
+identical cloned
+is good, remaining identical embryos
+offspring
+can be implanted and brought to term.
+A Figure 2 Artificial twinning in cows
+it i
+582
+22.3 Cloning in animals
+Specification reference: 6.2.1
+Cloning is a natural part of the reproductive cycle in many plants.
+Perhaps surprisingly, it is not uncommon in many animal species and
+even occurs in human beings.
+Natural animal cloning
+Natural cloning is common in invertebrate animals. Although it is less
+common in vertebrates, it still occurs in the form of twinning.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ natural clones in animal
+species
+how artificial clones in
+animals can be produced by
+artificial embryo twinning or
+by enucleation and somatic
+cell nuclear transfer (SCNT)
+→ the arguments for and against
+artificial cloning in animals.
+Cloning in invertebrates
+Natural cloning in invertebrates can take several forms. Some animals,
+such as starfish, can regenerate entire animals from fragments of
+the original if they are damaged. Flatworms and sponges fragment
+and form new identical animals as part of their normal reproductive
+process, all clones of the original. Hydra produce small 'buds' on the
+side of their body which develop into genetically identical clones.
+In some insects, females can produce offspring without mating.
+Scientists are increasingly finding differences between the mother and
+daughters, however, suggesting that as a result of high mutation rates
+the offspring are not true clones.
+Cloning in vertebrates
+The main form of vertebrate cloning is the formation of monozygotic
+twins (identical twins). The early embryo splits to form two
+separate embryos. No one is sure of the trigger which causes this to
+happen. The frequency at which identical twins occur varies between
+species. For example, domestic cattle rarely if ever produce identical
+twins naturally, while the incidence in natural human pregnancies
+is around 3 per 1000. When monozygotic twins are born, although
+genetically identical, they may look different as a result of differences
+in their position and nutrition in the uterus.
+Figure 1 The small Hydra is a
+clone of the parent and will eventually
+separate and live independently
+Some female amphibians and reptiles will produce offspring when no
+male is available. The offspring are often male rather than female, so
+they are not clones of their mother, yet all of their genetic material
+arises from her.
+Artificial clones in animals
+It is relatively easy to produce artificial clones of some invertebrates -
+liquidise a sponge or chop up a starfish and new animals will
+regenerate from most of the fragments. It is much more difficult to
+produce artificial clones of vertebrates, especially mammals. However,
+two methods are now used widely in the production of high-quality
+farm animals and in the development of genetically engineered
+animals for pharming.
+Synoptic link
+You learnt about pharming in
+Topic 21.5, Gene technology and
+ethics.
+581
+CLONING AND BIOTECHNOLOGY
+22
+T
+Extra microorganisms
+The conditions which most microorganisms need to grow include
+a relatively low temperature, a supply of oxygen and food, and
+the removal of waste gases. They provide their own catalysts in
+the form of enzymes. This makes bioprocesses relatively cheap
+compared to the high temperatures and pressures and expensive
+catalysts often needed in non-biological industrial processes.
+Indirect food production
+Microorganisms are widely used in biotechnological processes to make
+food such as bread, yogurt, and cheese. The microorganisms have
+an indirect effect - it is their actions on other food that is important,.
+When you eat bread you are mainly eating flour, when you eat
+yoghurt or cheese it is mainly milk.
+Sometimes microorganisms are used
+in the same biotechnological process
+in more than one way. Traditionally
+bacteria are used in cheesemaking
+(Table 1) and proteolytic enzymes
+are also added to the milk to help
+form curds and whey. Originally
+these came from rennet, a substance
+extracted from the stomachs of
+calves, cows, and pigs containing
+the enzyme chymosin. In modern
+cheesemaking, the chymosin used
+comes mainly from microorganisms
+- either from fungal sources or GM
+bacteria.
+The advantages of using microorganisms in this way are all of the
+ones listed previously as advantages of using microorganisms in
+biotechnology generally. There are few disadvantages to using
+microorganisms indirectly in the production of human foods. If the
+conditions are not ideal (e.g., too hot or too cold) the microorganisms do
+not grow properly and so they do not work efficiently. Conditions that
+are ideal for the microorganisms can also be ideal for microorganisms
+that cause the food to go off or cause disease and so the processes have
+to be sterile. Increasingly the microorganisms used in food production
+have been genetically engineered, and some people have ethical issues
+with the use of GM organisms, although this is generally much less the
+case with microorganisms than with animals and plants.
+Suggest three different
+advantages of using modern
+sources of chymosin.
+There are around 900 different types of cheese made around the world.
+Some are still made by very small-scale, traditional methods and others
+are produced commercially on a very large scale.
+Figure 2 Different types of cheeses
+Table 1 Examples of microorganisms involved in commercial processes
+Process
+Baking
+Microorganism involved
+Yeast - mixed with sugar
+and water to respire
+aerobically. Carbon
+dioxide produced makes
+bread rise.
+Yeast - respires
+anaerobically to
+produce ethanol.
+Traditional yeasts
+ferment at 20-28°C.
+GM yeasts ferment at
+lower, and therefore
+cheaper, temperatures,
+and clump together
+(flocculate) and sink at
+the end of the process
+leaving the beer very
+clear.
+Steps in commercial process
+. The active yeast mixture is added to flour and other ingredients. Mixed and left in
+warm environment to rise.
+• Dough is knocked back (excess air removed), kneaded, shaped, and left to rise again,
+• Cooked in a hot oven - the carbon dioxide bubbles expand, so the bread rises more.
+Yeast cells are killed during cooking.
+Malting - barley germinates producing enzymes that break starch molecules
+down to sugars which yeast can use. Seeds then killed by slow heating but
+enzyme activity retained to produce malt.
+Mashing - the malt is mixed with hot water (55-65 °C) and enzymes break
+down starches to produce wort. Hops are added for flavour and antiseptic
+qualities. The wort is sterilised and cooled.
+Fermentation - wort is inoculated with yeast. Temperature maintained for
+optimum anaerobic respiration (fermentation). Eventually yeast is inhibited by
+falling pH, build up of ethanol, and lack of oxygen.
+• Maturation - the beer is conditioned for 4-29 days at temperatures of 2-6°C in tanks
+Finishing - the beer is filtered, pasteurised, and then bottled or canned with the
+addition of carbon dioxide
+• The alcohol content varies between about 4% and 9%.
+Brewing
+587
+CLONING AND BIOTECHNOLOGY
+22
+The callus is divided up and individual cells or clumps from the
+callus are transferred to a new culture medium containing a
+different mixture of hormones and nutrients which stimulates the
+development of tiny, genetically identical plantlets.
+• The plantlets are potted into compost where they grow into
+small plants.
+The young plants are planted out to grow and produce a crop.
+The scale of micropropagation is increasing. It now takes place in
+bioreactors, effectively making artificial embryo plants to be packaged
+in artificial seeds.
+A Figure 1 Micropropagation
+Advantages and disadvantages of micropropagation
+The number of common plants that are largely produced by
+micropropagation is growing constantly and includes potatoes, sugar
+cane, bananas, cassava, strawberries, grapes, chrysanthemums,
+Douglas firs, and orchids. Here are some of the points both for and
+against this process
+Arguments for micropropagation
+A Figure 2 Micropropagation of orchids
+means they are no longer only available
+to very wealthy people
+Micropropagation allows for the rapid production of large
+numbers of plants with known genetic make-up which will
+yield good crops.
+Culturing meristem tissue produces disease-free plants.
+It makes it possible to produce viable numbers of plants after
+genetic modification of plant cells.
+It provides a way of producing very large numbers of new plants
+which are seedless and therefore sterile to meet consumer tastes
+(e.g., bananas and grapes).
+It provides a way of growing plants which are naturally relatively
+infertile or difficult to grow from seed (e.g., orchids).
+It provides a way of reliably increasing the numbers of rare or
+endangered plants.
+Arguments against micropropagation
+SPECIALE
+BANANA
+59 LB.
+It produces a monoculture - many plants which are genetically
+identical - so they are all susceptible to the same diseases or
+changes in growing conditions.
+It is a relatively expensive process and requires skilled workers.
+The explants and plantlets are vulnerable to infection by moulds
+and other diseases during the production process.
+If the source material is infected with a virus, all of the clones will
+also be infected.
+In some cases, large numbers of new plants are lost during the
+process.
+Figure 3 Bananas are the fourth
+most important food worldwide - and
+the ones we eat are all clones
+579
+22
+CLONING AND BIOTECHNOLOGY
+SCNT has been relatively unsuccessful so far in increasing the
+populations of rare organisms or allowing extinct species to be brought
+back to life. For example, scientists have attempted to clone the gaur
+and the banteng-both extremely rare breeds of wild cattle. One gaur
+calf was born in 2001 and died within a couple of days. Two banteng
+calves were born in 2003 - one was deformed and euthanised, the
+other grew normally but its natural lifespan was halved. The idea of
+restoring extinct organisms is exciting but scientists are increasingly
+unconvinced that it will be possible by this method.
+Cloning humans
+Synoptic link
+You learnt about spindle formation
+during cell division in Topic 6.1,
+Cell cycle.
+Scientists have reproduced clones of primates by
+artificial twinning but it is proving very difficult to
+produce a SCNT clone of a primate.
+Part of the problem seems to be that the spindle proteins
+needed for cell division in primate cells are sited very
+close to the nucleus, so the removal of the nucleus to
+produce the enucleated primate ovum also destroys
+the mechanism by which the cell divides. This is not a
+problem in the ova of many other mammals because the
+spindle proteins are more dispersed in the cytoplasm.
+In addition, the synchronisation of the stage of the
+embryo and the state of the reproductive organs of the
+mother have to be exactly attuned in primates - there
+seems to be more flexibility in some other mammals.
+In recent years scientists have finally produced
+embryonic primate stem cell lines by SCNT. This means it
+may eventually be possible to develop these potentially
+important therapeutic cells from human beings.
+In most countries there is strict legislation to prevent
+reproductive cloning of human beings, even if the
+technical problems of primate cloning are overcome.
+A modified version of SCNT has the potential, however,
+to produce human embryonic stem cells from an
+adult which could produce cells to be used to grow
+new tissues for that individual patient. Research in
+this process is strictly controlled so it cannot be used
+for reproductive cloning - it is known as therapeutic
+cloning to make it clear that the end result is not to
+reproduce a person. However, this form of SCNT can
+potentially make it possible to grow replacement
+organs which will not trigger an immune response
+in a patient and which will enable us to cure many
+currently life-threatening conditions.
+Some people claim to have produced a cloned
+human baby, although they have never produced
+the child and the adult it was cloned from.
+1 Explain how this could easily be proved if
+scientists were given access to the individuals
+2 Suggest why these claims seem very unlikely
+to be true.
+Summary questions
+1 How is artificial twinning different from natural
+twinning?
+(6 m
+3 Primate clones have been produced by artificial
+twinning but not, in 2014, by SCNT.
+a Explain the similarities in the two processes.
+(3 marks)
+b Explain the differences between the two
+processes.
+(6 marks)
+2 The evidence suggests that monozygotic twins do not
+occur naturally in cattle. Suggest ways in which this
+might be investigated.
+(2 marks)
+Should funding continue for projects attempting
+to recreate extinct animals by SCNT? Include an
+evaluation of the process in your answer. (6 marks)
+585
+22.4 Microorganisms and
+biotechnology
+Specification reference: 6.2.1
+The earliest recorded use of microorganisms by people was around
+6000 BC when the Sumerians and Babylonians were using yeast to
+make beer. By 4000 BC the Egyptians were using yeast to make their
+bread rise. These are all examples of the development and use of
+biotechnology over several millennia.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the use of microorganisms in
+biotechnological processes.
+the advantages and
+disadvantages of using
+microorganisms to make food
+for human consumption.
+Defining biotechnology
+Biotechnology involves applying biological organisms or enzymes to the
+synthesis, breakdown, or transformation of materials in the service of
+people. It describes a range of processes, from the traditional production
+of cheese, yoghurt, wine, bread, and beer to the latest molecular
+technologies using DNA manipulation to produce genetically engineered
+microorganisms synthesising drugs such as insulin and antibiotics, and the
+use of biological systems to remove soil and water pollution in processes
+known as bioremediation (Topic 22.5, Microorganisms, medicines, and
+bioremediation).
+The most commonly used organisms in biotechnology processes
+(bioprocesses) are fungi, particularly the yeasts, and bacteria, which
+are particularly useful in the newer technologies based around genetic
+manipulation.
+Figure 1 Yeasts were probably the first
+microorganism to be used in biotechnology,
+and they are still of immense importance
+worldwide today, scanning electron
+micrograph approx x3250 magnification
+The use of microorganisms
+Most biotechnology involves using biological catalysts (enzymes) in a
+manufacturing process and the most stable, convenient, and effective
+form of the enzymes is often a whole microorganism. Microorganisms
+are ideal for a variety of reasons.
+There are no welfare issues to consider - all that is needed is the
+optimum conditions for growth.
+There is an enormous range of microorganisms capable of carrying out
+many different chemical syntheses or degradations that can be used.
+Genetic engineering allows us to artificially manipulate
+microorganisms to carry out synthesis reactions that they would
+not do naturally, for example, to produce human insulin.
+Microorganisms have a very short life cycle and rapid growth
+rate. As a result, given the right conditions of food, oxygen, and
+temperature, huge quantities of microorganisms can be produced
+in short periods of time.
+The nutrient requirements of microorganisms are often very
+simple and relatively cheap. Genetic manipulation means we can
+modify them so that the microorganisms can utilise materials
+which would otherwise be wasted, making the raw materials for
+microorganism-controlled syntheses much cheaper than the raw
+materials needed for most other industrial processes.
+586
+22
+22.2 Artificial cloning in plants
+COS Yes, we have no bananas...
+Bananas are now thought to be one of the oldest crops - and possibly
+the first to be cloned. A wild banana is full of hard seeds and it is virtually
+inedible. A mutation made them parthenocarpic which means they produce
+fruit without fertile seeds - which made them good to eat but also made
+them sterile. Scientists therefore think that since the dawn of agriculture,
+people cloned bananas using natural asexual reproduction to propagate
+the plants producing the seedless, tasty fruit. Sweet bananas are widely
+eaten in more economically developed countries, whilst plantains (cooking
+bananas) are a staple food in many less economically developed countries.
+Synoptic link
+You learnt about Black Sigatoka
+in Topic 12.2, Animal and plant
+diseases.
+In the early 20th century almost all of the sweet bananas eaten were the
+cultivar Gros Michel. Then fungal Panama disease wiped them out in the
+major banana growing countries - none of the clones had any resistance
+and a new cultivar took over. Cavendish bananas, while apparently not
+as tasty as Gros Michel bananas, are resistant to Panama disease. But
+Cavendish bananas are also clones. Now another banana disease, Black
+Sigatoka, is destroying Cavendish plantations, and is also spreading to other
+cooking varieties of bananas.
+New biotechnologies for example genetic engineering and micropropagation
+offer hope for the future. Genetically engineered strains of bananas with
+resistance genes from the original wild fruit could be micropropagated and
+used to restock banana plantains across the whole growing region.
+1 Gros Michel bananas have been almost entirely lost. Why?
+2 How might new technology enable us to retain the Cavendish strain?
+3 Discuss how banana culture has changed over the centuries.
+Summary questions
+1 Make a flow chart to show the main stages in the micropropagation
+of plants.
+(7 marks)
+2 What do you consider the two main advantages of micropropagation
+of crop plants? Explain your choices.
+(6 marks)
+3 a What is the potential of natural cloning for saving important crops
+such as the banana against disease? Give arguments for and
+against the technique.
+(6 marks)
+b What is the potential of micropropagation for saving important
+crops against disease in contrast to natural cloning? Give
+arguments for and against the technique.
+(6 marks)
+580
+22
+CLONING AND BIOTECHNOLOGY
+22.1 Natural cloning in plants
+Specification reference: 6.2.1
+Asexual reproduction is a form of cloning and it results in offspring
+produced by mitosis and known as clones. Clones are usually
+genetically identical to both the parent organism and to each other.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ natural clones in plants and
+the production of natural
+clones for use in horticulture
+how to take plant cuttings
+as an example of a simple
+cloning technique.
+Natural cloning
+Vegetative propagation, or natural cloning, occurs in many species
+of flowering plants. A structure forms which develops into a fully
+differentiated new plant, which is genetically identical to the parent.
+The new plant may be propagated from the stem, leaf, bud, or root of
+the parent, depending on the type of plant, and it eventually becomes
+independent from its parent, for example, strawberries and spider plants.
+Synoptic link
+You learnt about mitosis in
+Topic 6.2, Mitosis.
+Vegetative propagation often involves perennating organs, which
+enables plants to survive adverse conditions. These contain stored
+food from photosynthesis and can remain dormant in the soil. They
+are often not only a means of asexual reproduction, but also a way
+of surviving from one growing season to the next. Natural plant
+cloning occurs in:
+• bulbs, for example, daffodil. The leaf bases swell with stored food
+from photosynthesis. Buds form internally which develop into
+new shoots and new plants in the next growing season.
+Runners, for example, a strawberry or spider plant. A lateral stem
+grows away from the parent plant and roots develop where the
+runner touches the ground. A new plant develops - the runner
+eventually withers away leaving the new individual independent.
+Rhizomes, for example, marram grass. A rhizome is a specialised
+horizontal stem running underground, often swollen with stored
+food. Buds develop and form new vertical shoots which become
+independent plants.
+Stem tubers, for example, potato. The tip of an underground
+stem becomes swollen with stored food to form a tuber or storage
+organ. Buds on the storage organ develop to produce new shoots
+(e.g., the 'eyes' on a potato).
+A Figure 1 Blueberries grow on low
+bushes - a single clone of plants may
+stretch for around half a mile
+Using natural clones in horticulture
+Natural plant cloning is exploited in horticulture by farmers and
+gardeners to produce new plants. Splitting up bulbs, removing young
+plants from runners, and cutting up rhizomes all increase plant
+numbers cheaply, and the new plants have exactly the same genetic
+characteristics as their parents.
+It is also possible to take cuttings of many plants - short sections of stems
+are taken and planted either directly in the ground (e.g., sugar cane) or
+in pots, for example, pelargoniums. Rooting hormone is often applied to
+A Figure 2 Each baby spider plant is a
+natural clone
+576
+22.5 Microorganisms, medicines,
+and bioremediation
+Specification reference: 6.2.1
+Since the discovery of penicillin in the 1920s, biotechnology has
+played a key role in the development of medicines.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the use of microorganisms in
+biotechnological processes to
+include penicillin production,
+insulin production, and
+bioremediation.
+:
+Producing penicillin
+The first effective antibiotic was penicillin, produced by a mould
+called Penicillium notatum. The yield of penicillin from this mould
+was very small. Commercial production of the drug in the quantities
+needed to treat everyone who needed it did not begin until the
+discovery of Penicillium chrysogenum by Mary Hunt on a melon from a
+market stall.
+OOOOHHUSUS
+Synoptic link
+In Topic 12.7, Preventing and
+treating disease, you learnt about
+antibiotics and their importance in
+the treatment of bacterial diseases.
+In Topic 14.4, Diabetes and its
+control, you learnt about the
+importance of insulin to diabetics.
+P. chrysogenum needs relatively high oxygen levels and a rich nutrient
+medium to grow well. It is sensitive to pH and temperature. This
+affects the way it is produced commercially. A semi-continuous batch
+process is used (Topic 22.7, Culturing microorganisms on an industrial
+scale). In the first stage of the production process the fungus grows.
+In the second stage it produces penicillin. Finally the drug is extracted
+from the medium and purified.
+• The process uses relatively small fermenters (40–200 dm) because
+it is very difficult to maintain high levels of oxygenation in very
+large bioreactors.
+The mixture is continuously stirred to keep it oxygenated.
+There is a rich nutrient medium.
+The growth medium contains a buffer to maintain pH at around 6.5.
+• The bioreactors are maintained at about 25-27°C.
+Making insulin
+As you learnt in Topic 21.4, Genetic engineering, biotechnology in
+the form of genetic engineering is important in the production of
+human medicines - for example, the production of human insulin.
+People with type 1 diabetes, and some people with type 2 diabetes,
+need regular injections of insulin to control their blood sugar levels. In
+the past, insulin was extracted from the pancreas of animals, usually
+pigs or cattle, slaughtered for meat. This meant the supply was erratic
+because it depended on the demand for meat - when fewer animals
+were killed, less insulin was available but the number of people with
+diabetes stayed the same. There were a number of other problems.
+Some people were allergic to the animal insulin as it was often
+impure, although eventually very pure forms were developed which
+overcame this problem. The peak activity of animal insulin is several
+hours after it is injected, which made calculating when to eat meals
+difficult. For some faith groups, using pig products is not permitted.
+The development of genetically engineered bacteria which can make
+A Figure 1 Penicillin is produced by
+the large-scale cultivation of Penicillium
+mould followed by processing and
+purification of the drug
+590
+22
+Chapter 22 Practice questions
+4
+c Discuss the advantages and disadvantages
+of this type of fermentation. (4 marks)
+The cloning of animals is a controversial
+subject due to the shortened life expectancies
+and health problems of cloned animals.
+The graph shows the data collected from an
+investigation into the health problems faced
+by cloned and conventional cows.
+100%
+conventional animals
+cow clones
+Practice questions
+1 a Outline the differences between
+reproductive and therapeutic cloning.
+(3 marks)
+b Evaluate the ethical concerns regarding
+the reproductive cloning of human
+beings.
+(4 marks)
+c (i) Describe what is meant by the term
+somatic cell nuclear transfer (SCNT).
+(3 marks)
+(ii) Suggest why clones produced by
+SCNT are not exact genetic clones.
+(2 marks)
+d Describe the reasons for embryo splitting.
+(3 marks)
+2 Micropropagation is the name of a process
+used to produce artificially cloned plants.
+a Explain the meaning of the following
+terms and outline their roles in the
+micropropagation.
+(4 marks)
+• Explant
+• Callus
+b Describe how plant hormones are used
+to stimulate the development of cells
+obtained from the callus. (5 marks)
+3 The diagram shows a type of fermentation.
+agitator
+frequency of occurence
+hydrops
+Overall mortality
+late-term
+pregnancy loss
+large offspring
+syndrome
+neonatal
+mortality
+Calves with large offspring syndrome
+usually have breathing and cardiovascular
+problems as well difficult births. Hydrops is
+an abnormal build-up of fluid in new-born
+calves and is an indication of more serious
+health problems.
+A survey carried out by the European
+Commission investigating European Attitudes
+Towards Animal Cloning in October 2008
+produced the results shown in the graph.
+feed valve
+always justifiable, without any constraints
+never justifiable
+NAONAL
+justifiable under certain circumstances
+o not applicable/no opinion
+acidic
+reagent
+alkali
+reagent
+temperature
+sensor
+pH sensor
+percentage
+heater band
+different countries
+X
+harvest valve
+a
+State, giving your reasons, the type of
+fermentation being conducted using the
+equipment shown in the diagram
+(3 marks)
+Outline the roles of the valves and sensors
+shown in the diagram.
+(4 marks)
+Discuss, using information from both graphs,
+the arguments for and against the cloning of
+animals in the production of food. (6 marks)
+5 Microorganisms, such as the fungus
+Fusarium, can be grown and then purified to
+produce mycoprotein, This mycoprotein can
+be used as a food source for humans.
+The table compares mycoprotein with beef.
+b
+604
+22
+CLONING AND BIOTECHNOLOGY
+needed are extreme and therefore expensive. Furthermore,
+unwanted by-products form and the yield is poor. Using
+immobilised nitrile hydratase the conversion takes place under
+moderate conditions so the process is cheaper and it also gives a
+99% yield and no unwanted by-products.
+T
+Immobilised enzymes in medicine
+Immobilised enzymes and microbial cells are increasingly
+important both as diagnostic tools in medicine - the
+manufacture of drugs - for example, the fungus Rhizopus
+arrhizus is immobilised and used in the production of the
+steroid drug cortisone.
+are detected by the sensor. Because the size of the
+response is related to the concentration of the substrate,
+these sensors can be very sensitive and accurate in
+their measurements and so can be used, for example, by
+people with diabetes to determine their blood glucose
+levels and therefore judge the insulin dose they need.
+Biosensors are used in accurate monitoring of blood
+and urine levels of substances such as glucose, urea,
+amino acids, ethanol, and lactic acid, as well as in the
+monitoring of waste treatment, water analysis, and the
+control of complex chemical processes. They are based
+on an electrochemical sensor in close proximity to an
+immobilised enzyme membrane. The enzymes react
+with a specific substrate and the chemicals produced
+1 Give one clear advantage of using immobilised
+enzymes in biosensors for medical use and one
+possible disadvantage, both linked to what you
+know of the properties of enzymes.
+Suggest how immobilising the enzyme might help
+overcome your suggested disadvantage.
+Summary questions
+(2 marks)
+1 a What is meant by an immobilised enzyme?
+b What are the main advantages of immobilised enzymes
+over whole microorganisms?
+c What are the main advantages of immobilised enzymes
+over free enzymes?
+(4 marks)
+(4 marks)
+2 Summarise the main ways in which enzymes are immobilised. (4 marks)
+3 How can immobilisation:
+a increase the effectiveness of an enzyme
+b decrease the effectiveness of an enzyme?
+(3 marks)
+(4 marks)
+Investigate one reaction catalysed by immobilised enzymes.
+Give the reaction catalysed, the way the enzyme is immobilised,
+the importance of the process, and the advantages of using
+immobilised enzymes over any other way of catalysing
+the reaction.
+(6 marks)
+603
+22
+CLONING AND BIOTECHNOLOGY
+feed animals that we prefer to eat - from fish to cattle. If the world
+protein shortage continues, however, people may yet turn to eating
+foods made directly from microorganisms. Table 2 shows some of the
+advantages and disadvantages of using microorganisms directly to
+make food for human consumption.
+Table 2
+Advantages of using microorganisms
+to produce human food
+microorganisms reproduce fast and
+produce protein faster than animals
+and plants
+microorganisms have a high protein
+content with little fat
+Disadvantages of using
+microorganisms to produce
+human food
+some microorganisms can also
+produce toxins if the conditions are
+not maintained at the optimum
+the microorganisms have to be
+separated from the nutrient broth and
+processed to make the food
+need sterile conditions that are
+carefully controlled adding to costs
+microorganisms can use a wide
+variety of waste materials including
+human and animal waste, reducing
+costs
+microorganisms can be genetically
+modified to produce the protein
+required
+production of microorganisms is
+not dependant on weather, breeding
+cycles etc - it takes place constantly
+and can be increased or decreased to
+match demand
+no welfare issues when growing
+microorganisms
+often involve GM organisms and many
+people have concerns about eating
+GM food
+the protein has to be purified to
+ensure it contains no toxin or
+contaminants
+many people dislike the thought of
+eating microorganisms grown on
+waste
+has little natural flavour - needs
+additives
+can be made to taste like anything
+Summary questions
+1 What are the main advantages of using microorganisms in biotechnological
+processes?
+(6 marks)
+2 Compare the way yeast is used in the process of baking and
+brewing
+(6 marks)
+(2 marks)
+3 a Why is milk pasteurised before being used commercially
+to make cheese and yoghurt?
+b Why is milk homogenised before being used commercially
+to make cheese and yoghurt?
+c Give two important differences between the production
+processes of cheese and yogurt.
+(2 marks)
+(2 marks)
+589
+22
+CLONING AND BIOTECHNOLOGY
+Synoptic link
+human insulin revolutionised the supply from the 1970s onwards.
+The bacteria are grown in a fermenter and downstream processing
+results in a constant supply of pure human insulin. You will learn
+about the bioreactors used to produce human insulin in Topic 22.7,
+Culturing microorganisms on an industrial scale.
+You learnt about genetic engineering
+and the production of insulin in
+Topic 21.4, Genetic engineering.
+Bioremediation
+In bioremediation, microorganisms are used to break down pollutants
+and contaminants in the soil or in water. There are different
+approaches to bioremediation:
+1 Using natural organisms - many microorganisms naturally break
+down organic material producing carbon dioxide and water. Soil
+and water pollutants are often biological, for example, sewage
+and crude oil. If these naturally occurring microorganisms
+are supported, they will break down and neutralise many
+contaminants. For example, in an oil spill, nutrients can be added
+to the water to encourage microbial growth, and the oil can be
+dispersed into smaller particles to give the maximum surface area
+for microbial action.
+Figure 2 When huge areas of water are
+contaminated with oil, as in the Deepwater
+Horizon spill in 2010, bioremediation by
+microorganisms is the best hope for the
+environment
+GM organisms -scientists are trying to develop GM bacteria
+which can break down or accumulate contaminants which they
+would not naturally encounter, for example, bacteria have been
+engineered that can remove mercury contamination from water.
+Mercury is very toxic and accumulates in food chains. The aim
+is to develop filters containing these bacteria to remove mercury
+from contaminated sites.
+Often, bioremediation takes place on the site of the contamination.
+Sometimes material is removed for decontamination. In most cases,
+natural microorganisms outperform GM ones - but as our ability
+to change the genetic material of microorganisms increases, it may
+be possible to use bioremediation even more effectively than it is
+used now.
+Summary questions
+1 What is the main difference
+between the use of fungi to
+produce penicillin and the use
+of bacteria to produce human
+insulin?
+(2 marks)
+Plants and bioremediation
+2 What is bioremediation? Why it
+is often carried out on the site
+of contamination? (6 marks)
+There are some pollutants which microorganisms cannot, at the moment,
+remove from the soil. In a number of cases, special plants can be used
+instead. In the early 1970s, a tree was discovered which produced a blue
+sap that turned out to contain 26% nickel in its dry mass. Plants which
+can take up large quantities of metals from the ground are known as
+hyperaccumulators. The process by which hyperaccumulators take up
+metals from the ground is known as bioleaching.
+3 With your knowledge of genetic
+engineering and biotechnology
+so far, produce a flow diagram
+to show the stages in the
+production of human
+insulin.
+(6 marks)
+Suggest why plants can be used as bioremediators for heavy metal
+contamination but microorganisms cannot.
+591
+22
+CLONING AND BIOTECHNOLOGY
+the base of a cutting to encourage the growth of new roots. Propagation
+from cuttings has several advantages over using seeds. It is much faster -
+the time from planting to cropping is much reduced. It also guarantees
+the quality of the plants. By taking cuttings from good stock, the offspring
+will be genetically identical and will therefore crop well. The main
+disadvantage is the lack of genetic variation in the offspring should any
+new disease or pest appear or if climate change occurs.
+Many of the world's most important food crops are propagated by
+cloning. Bananas, sugar cane, sweet potatoes, and cassava are all
+propagated from stem cuttings or rhizomes. Coffee and tea bushes are
+also propagated from stem cuttings.
+Synoptic link
+Cloning sugar cane
+Sugar cane is an internationally important crop used to make sugar
+and manufacture biofuels. It is one of the fastest growing crop
+plants in the world - the stems can grow 4-5 metres in 11 months if
+conditions are good - and it is usually propagated by cloning. Short
+lengths of cane about 30 cm long, with three nodes, are cut and
+buried in a clear field in shallow trenches, covered with a thin layer
+of soil. Per hectare, 10–25 000 lengths of stem are planted.
+You learnt about the use of
+hormonal rooting powders in
+Topic 16.5, The commercial use of
+plant hormones.
+Practical clon
+Many popular houseplants are propagated by taking cuttings. There are a
+number of points which increase the success rate of most cuttings:
+Study tip
+• Use a non-flowering stem
+• Make an oblique cut in the stem
+Use hormone rooting powder
+• Reduce leaves to two or four
+Keep cutting well watered
+Cover the cutting with a plastic bag for a few days.
+Make sure you use terms such as
+cloning, propagation, and taking
+cuttings correctly.
+Summary questions
+1 What are perennating organs
+and how are they involved in
+cloning and survival? (5 marks)
+2 Explain the advantages and
+disadvantages of propagating
+crop plants by cuttings over
+using seeds. (4 marks)
+A Figure 3 Taking cuttings on a commercial scale
+1 How does each of the above points increase the likelihood that a
+cutting will succeed?
+2 Why are cuttings useful for investigating the effect of growing
+conditions on plants?
+3 Suggest why it is important to
+describe clones as genetically
+identical to their parent rather
+than simply identical - and
+why even this may not
+always be true. (5 marks)
+577
+22.2 Artificial cloning in plants
+Specification reference: 6.2.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the production of artificial
+clones of plants by
+micropropagation and
+tissue culture
+► the arguments for and against
+artificial cloning in plants.
+People have propagated plants by cloning for centuries, but there is
+a limit to how many 'natural' clones you can make from one plant.
+Many plant cells are totipotent - they can differentiate into all of the
+different types of cells in the plant. Scientists have developed ways of
+using this property to produce huge numbers of identical clones from
+one desirable plant.
+Micropropagation using tissue culture
+Micropropagation is the process of making large numbers of genetically
+identical offspring from a single parent plant using tissue culture
+techniques. This is used to produce plants when a desirable plant:
+does not readily produce seeds
+doesn't respond well to natural cloning
+is very rare
+has been genetically modified or selectively bred with difficulty
+is required to be 'pathogen-free' by growers, for example,
+strawberries, bananas, and potatoes.
+There are a number of ways in which plants can be micropropagated.
+One protocol, based on work done at the Royal Botanic Garden
+at Kew, uses sodium dichloroisocyanurate, the sterilising tablets
+used to make emergency drinking water and babies' bottles safe.
+This keeps the plant tissues sterile without being in a sterile lab so
+it is extremely useful for scientists in the field working with rare
+and endangered plant material - and also for use in schools. Other
+protocols are more suited to industrial micropropagation where large
+sterilising units are available.
+The basic principles of micropropagation and tissue culture are as follows:
+•
+Take a small sample of tissue from the plant you want to clone -
+the meristem tissue from shoot tips and axial buds is often dissected
+out in sterile conditions to avoid contamination by fungi and
+bacteria. This tissue is usually virus-free.
+The sample is sterilised, usually by immersing it in sterilising
+agents such as bleach, ethanol, or sodium dichloroisocyanurate.
+The latter does not need to be rinsed off which means the tissue is
+more likely to remain sterile. The material removed from the plant
+is called the explant.
+The explant is placed in a sterile culture medium containing a
+balance of plant hormones (including auxins and cytokinins)
+which stimulate mitosis. The cells proliferate, forming a mass of
+identical cells known as a callus.
+578
+22.6 Culturing microorganisms
+in the laboratory
+Specification reference: 6.2.1
+To investigate microorganisms for the medical diagnosis of disease
+or for scientific experiments you need to culture them. This often
+involves growing large enough numbers of the microorganisms for us
+to see them clearly with the naked eye.
+Whenever microorganisms are cultured in the laboratory the correct
+health and safety procedures must be followed because even when the
+microorganisms are expected to be completely harmless:
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ how to culture microorganisms
+effectively, using aseptic
+techniques
+► the standard growth curve of
+microorganisms in a closed
+culture
+practical investigations into
+the factors affecting the
+growth of microorganisms.
+there is always the risk of a mutation taking place making the
+strain pathogenic
+there may be contamination with pathogenic microorganisms from
+the environment.
+Culturing microorganisms
+The microorganisms to be cultured need food as well as the right
+conditions of temperature, oxygen, and pH. The food provided for
+microorganisms is known as the nutrient medium. It can be either in
+liquid form (broth) or in solid form (agar). Nutrients are often added to
+the agar or the broth to provide a better medium for microbial growth.
+Some microorganisms need a precise balance of nutrients but often the
+medium is simply enriched with good protein sources such as blood, yeast
+extract, or meat. Enriched nutrient media allow samples containing a
+very small number of organisms to multiply rapidly. The nutrient medium
+must be kept sterile (free from contamination by microorganisms) until it
+is ready for use. Aseptic techniques are important.
+A Figure 1 Culturing microorganisms
+like these different types of bacteria
+allows us to see what we are working with
+Once the agar or nutrient broth is prepared the bacteria must be added
+in a process called inoculation.
+Inoculating broth
+1 Make a suspension of the bacteria to be grown.
+2 Mix a known volume with the sterile nutrient broth in the flask.
+3 Stopper the flask with cotton wool to prevent contamination from
+the air.
+4 Incubate at a suitable temperature, shaking regularly to aerate the
+broth providing oxygen for the growing bacteria.
+A Figure 2 Cultures grown in broth are
+usually prepared in flasks or test tubes
+whilst agar-based cultures are prepared
+in Petri dishes. The hot sterile liquid
+agar is poured onto the plates which are
+immediately resealed and cooled so that
+they set ready for use
+Inoculating agar
+This also involves a suspension of bacteria but the process is slightly
+more complicated.
+1
+The wire inoculating loop must be sterilised by holding it in a
+Bunsen flame until it glows red hot. It must not be allowed to
+touch any surfaces as it cools to avoid contamination.
+592
+22
+CLONING AND BIOTECHNOLOGY
+Higher initial costs of bioreactor - the system needed to use
+immobilised enzymes is different from traditional fermenters so
+there is an initial investment cost.
+More technical issues - reactors which use immobilised enzymes
+are more complex than simple fermenters - they have more things
+which can go wrong.
+How are enzymes immobilised?
+Enzymes can be immobilised in a number of ways. They may be bound
+to the surface of insoluble supporting materials either by adsorption
+onto the surface or by covalent or ionic bonds. They may be entrapped
+in a matrix, encapsulated in a microcapsule (like proteases for
+detergent use), or behind a semi-permeable membrane. Each of these
+methods has advantages and disadvantages as summarised in Table 1.
+C= enzyme
+covalent or ionic
+bonds to inorganic
+carrier
+adsorption to
+inorganic carrier
+entrapment in a matrix
+encapsulation
+Figure 2 Four commonly used ways of immobilising enzymes
+Table 1
+Method of immobilising the enzymes
+Advantages
+Disadvantages
+simple and cheap to do
+enzymes can be lost from matrix
+relatively easily
+surface immobilisation - adsorption
+to inorganic carriers, e.g., cellulose,
+silica, carbon nanotubes, and
+polyacrylamide gel
+can be used with many different processes
+enzymes very accessible to substrate
+and their activity is virtually unchanged
+cost varies
+cost varies
+surface immobilisation - covalent or
+ionic bonding to inorganic carriers
+enzymes strongly bound and therefore
+unlikely to be lost
+covalent bonding, e.g., carriers with
+amino, hydroxyl, carboxyl groups
+active site of the enzyme may be
+modified in process, making it less
+effective
+enzymes very accessible to substrate
+ionic bonding, e.g., polysaccharides
+such as cellulose, synthetic polymers
+pH and substrate concentration often
+have little effect on enzyme activity
+widely applicable to different processes
+may be expensive
+entrapment - in matrix, e.g.,
+polysaccharides, gelatin, activated
+carbon
+can be difficult to entrap
+diffusion of the substrate to and
+product from the active site can be
+slow and hold up the reaction
+effect of entrapment on enzyme activity
+very variable, depending on matrix
+601
+22
+22.8 Using immobilised enzymes
+relatively simple to do
+relatively expensive
+relatively small effect on enzyme activity
+entrapment - membrane entrapment
+in microcapsules (encapsulation) or
+behind a semi-permeable membrane,
+e.g., polymer-based semi-permeable
+membranes
+widely applicable to different processes
+diffusion of the substrate to and
+product from the active site can be
+slow and hold up the reaction
+In some cases whole microorganisms rather than just the enzymes are
+immobilised. This has many of the same advantages but avoids the
+time-consuming and expensive process of extracting the pure enzyme
+and immobilising it before the process starts. On the other hand, the
+organisms need food, oxygen, and a carefully controlled environment
+to work at their optimum rate.
+Using immobilised enzymes
+Immobilised enzymes are very useful when large quantities of product are
+wanted, because they allow continuous production. Examples include:
+Immobilised penicillin acylase used to make semi-synthetic
+penicillins from naturally produced penicillins. Many types
+of bacteria have developed resistance to naturally occurring
+penicillins so they are no longer very effective drugs. Fortunately,
+many bacteria are still vulnerable to the semi-synthetic penicillins
+produced by penicillin acylase so they are very important in
+treating infections caused by bacteria resistant to the original
+penicillin. Hundreds of tonnes of these medicines are made every
+year by immobilised penicillin acylase.
+Immobilised glucose isomerase used to produce fructose from
+glucose. Fructose is much sweeter than sucrose or glucose and
+is widely used as a sweetener in the food industries. Glucose is
+produced from cheap, starch-rich plant material. Glucose isomerise
+is then used to turn the cheap glucose into very marketable fructose.
+Immobilised lactase used to produce lactose-free milk. Some
+people, and cats, are intolerant of lactose (milk sugar). Immobilised
+lactase hydrolyses lactose to glucose and galactose, giving lactose-
+free milk.
+Immobilised aminoacylase used to produce pure samples of
+L-amino acids used in the production of pharmaceuticals, organic
+chemicals, cosmetics, and food.
+Immobilised glucoamylase, which can be used to complete the
+breakdown of starch to glucose syrup. Amylase enzymes break
+starch down into short chain polymers called dextrins. The final
+breakdown of dextrins to glucose is catalysed by immobilised
+glucoamylase.
+Immobilised nitrile hydratase, an enzyme which is playing an
+increasing role in the plastics industry. Acrylamide is a very
+important compound which is used in the production of many
+plastics. It is made by the hydration of acrylonitrile. Traditionally
+the hydration of acrylonitrile to acrylamide was done using
+sulphuric acid with a reduced copper catalyst, but the conditions
+Study tip
+Nitrile hydratase is the enzyme
+which catalyses the conversion
+of acrylonitrile to acrylamide in a
+hydration reaction.
+Nitrilases are a group of enzymes
+that catalyse the hydrolysis of
+nitriles, for example, acrylonitrile
+to carboxylic acids and ammonia.
+602
+22
+22.6 Culturing microorganisms in the laboratory
+There are several limiting factors which prevent exponential growth in
+a culture of bacteria. These include:
+Nutrients available - initially there is plenty of food, but as the
+numbers of microorganisms multiply exponentially it is used up.
+The nutrient level will become insufficient to support further
+growth and reproduction unless more nutrients are added.
+Oxygen levels - as the population rises, so does the demand for
+respiratory oxygen so oxygen levels can become limiting.
+Temperature - the enzyme-controlled reactions within
+microorganisms are affected by the temperature of the culture
+medium. For most bacteria, a low temperature slows down
+growth and reproduction, and a higher temperature speeds it up.
+If the temperature gets too high it will denature the enzymes,
+killing the microorganisms - even thermophiles have a maximum
+temperature they can withstand.
+Build-up of waste - as bacterial numbers rise, the build-up of toxic
+material may inhibit further growth and can even poison and kill
+the culture.
+Change in pH - as carbon dioxide produced by the respiration of the
+bacterial cells increases, the pH of the culture falls until a point where
+the low pH affects enzyme activity and inhibits population growth.
+Investigating factors which affect the growth of microorganisms -
+serial dilutions and bacterial counting A
+You can investigate the factors which affect the growth of
+bacterial colonies in a number of ways. For example, you can:
+set up identical colonies in different conditions of
+temperature
+set up serial dilutions of nutrients or pH, at a set
+temperature.
+It is essential when carrying out these experiments
+that precautions are taken to ensure aseptic conditions
+(free from contamination). For example, using sterile
+equipment and a fresh pipette after each dilution.
+is overcome by carrying out a serial dilution of the original
+culture broth until, when you culture a given volume of
+the broth on an agar plate, you can count the number of
+colonies. Multiply the number of colonies by the dilution
+factor to give you a total viable cell count per volume for
+the original colony. As long as you can count the number
+of colonies on two or more plates, you can calculate the
+mean of the number of organisms in a particular culture.
+To see the effect of the conditions you need to be able to
+measure the number of microorganisms at the beginning
+and end of your investigations. One method is to use
+another application of serial dilutions (Figure 5). The
+assumption is made that each of the colonies on an
+agar plate grows from a single, viable microorganism. If
+two bacterial colonies can be seen after culturing, then
+there were two living bacteria on the plate, and if 50
+patches form there were 50 bacteria on the plate when it
+was inoculated. However, in most cases when a plate is
+inoculated a solid mass of microbial growth is present after
+culturing – you cannot count the individual colonies. This
+A student made up serial dilutions of a bacterial
+culture from 10-1 to 10-10 A 0.1cm sample was
+cultured from each of these dilutions. From the
+original dilutions the numbers of bacterial colonies
+counted were:
+A Original dilution 10-5--500 colonies
+B Original dilution 10-6-52 colonies
+C Original dilution 10-? – 4 colonies
+Calculate (a) the actual dilution of each sample
+grown on the plate
+(b) the number of bacteria cm in the original
+sample as shown on each plate
+(c) the mean number of bacteria cm-3 in the
+original sample.
+594
+22
+22.8 Using immobilised enzymes
+very specific intracellular enzyme outweigh the disadvantages of the
+more expensive extraction and isolation process and the need for
+more tightly controlled conditions. Examples of intracellular enzymes
+used as isolated enzymes in industry include glucose oxidase for
+food preservation, asparaginase for cancer treatment, and penicillin
+acylase for converting natural penicillin into semi-synthetic drugs
+which are more effective.
+Immobilised enzymes
+Isolated enzymes are more efficient than whole organisms, but
+using free enzymes is often very wasteful. Enzymes are not cheap
+to produce, but at the end of the process they cannot usually be
+recovered and so they are simply lost.
+Increasingly enzymes used in industrial processes are immobilised -
+attached to an inert support system over which the substrate passes and
+is converted to product. This is a case of technology mimicking nature -
+enzymes in cells are usually bound to membranes to carry out their
+repeated cycles of catalysis. Because immobilised enzymes are held
+stationary during the catalytic process, they can be recovered from
+the reaction mixture and reused time after time. The enzymes do not
+contaminate the end product, so less downstream processing is needed.
+These things all make the process more economical.
+Advantages of using immobilised enzymes
+• Immobilised enzymes can be reused - which is cheaper.
+Easily separated from the reactants and products of the reaction they
+are catalysing so reduced downstream processing - which is cheaper.
+More reliable - there is a high degree of control over the process as
+the insoluble support provides a stable microenvironment for the
+immobilised enzymes.
+Greater temperature tolerance - immobilised enzymes are less
+easily denatured by heat and work at optimum levels over a much
+wider range of temperatures, making the bioreactor less expensive
+to run.
+Ease of manipulation - the catalytic properties of immobilised enzymes
+can be altered to fit a particular process more easily than those of
+free enzymes - for example, immobilised glucose isomerase can be
+used continuously for over 1000 hours at temperatures of 60-65°C.
+The ability to keep bioreactors running continuously for long periods
+without emptying and cleaning helps to keep running costs low.
+Disadvantages of using immobilised enzymes
+• Reduced efficiency - the process of immobilising an enzyme may
+reduce its activity rate.
+Higher initial costs of materials - immobilised enzymes are more
+expensive than free enzymes or microorganisms. However, the
+immobilised enzymes, unlike free enzymes, do not need to be
+replaced frequently.
+600
+22
+CLONING AND BIOTECHNOLOGY
+Food
+Content per 100g
+mycoprotein
+Energy Protein Carbohydrate
+(kJ) (g) (g)
+357 12 9
+1163 26
+Total
+fat (g)
+2.9
+18.2
+Saturated
+fat
+0.6
+7.0
+Iron
+(mg)
+0.1
+2.6
+1ml
+beef
+1ml
+1ml 1ml
+1ml
+1ml
+sample of
+E. coli
+9ml
+9ml
+9ml
+9ml 9ml 9ml
+0.1 ml) 0.1 ml) 0.1m
+6
+443 63 13
+colonies colonies colonies)
+Use the data in the table to describe and
+explain the advantages and disadvantages of
+using microorganisms to produce food for
+human consumption.
+(7 marks)
+OCR F212 2010
+A number of different methods can be used to
+determine the number of bacteria in a sample.
+a (i) Outline the differences between using
+a graticule and dilution plating to
+count bacteria.
+(4 marks)
+(ii) State the name of another, more
+simple technique that uses the same
+principle as graticule counts. (1 mark)
+b Suggest why it is necessary to maintain
+aseptic conditions when working with
+bacteria.
+(3 mark)
+A l ml sample containing bacteria was mixed
+with an equal volume of the dye methylene
+blue. A drop the resulting mixture was
+placed on a graticule and observed under a
+microscope.
+7
+d Calculate the number of bacteria in the
+original sample.
+(3 marks)
+Starch phosphorylase catalyses the
+conversion of starch and inorganic phosphate
+into glucose-1-phosphate. It has an important
+role in the metabolism of starch in plants. It
+has been used in the production of glucose-
+1-phosphate for use in the treatment of some
+heart conditions.
+When used for the production of glucose- 1 -
+phosphate starch phosphorylase is normally
+immobilized.
+a Outline the different ways that enzymes
+are immobilized.
+(4 marks)
+The diagram shows the changing activities of
+free and immobilized starch phosphorylase at
+different temperatures.
+0.20
+→ 1.25 x 10 ml
+immobilised enzyme
+0.16
+0.14
+0.12
+soluble enzyme
+enzyme activity/arbitrary units
+0.10+
+The graticule held 1.25 x 10-6 ml of sample.
+C Calculate the number of bacteria per ml in
+the original sample.
+(3 marks)
+A serial dilution was carried out on a sample
+containing E. coli. Samples from the last three
+dilutions were plated and incubated. The
+number of colonies that grew on each plate is
+shown in the diagram.
+0.02
+10
+20
+30 40
+temperature/°C
+50
+60
+b
+Explain the reasons for the differences
+in optimum temperature and maximum
+activity of the free and immobilized
+enzymes.
+(5 marks)
+605
+22.8 Using immobilised enzymes
+Specification reference: 6.2.1
+Enzymes, mainly from microorganisms, have been used indirectly for
+thousands of years in biotechnologies including brewing, baking, and
+making cheese and yoghurt. Many biotechnological processes still use
+whole microorganisms as their enzyme source. More recently they are
+also being used in isolation.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the uses of immobilised
+enzymes in biotechnology
+and the different methods of
+immobilisation.
+Isolated enzymes
+Using isolated enzymes instead of whole organisms has some clear
+advantages.
+Less wasteful - whole microorganisms use up substrate growing
+and reproducing, producing biomass rather than product. Isolated
+enzymes do not.
+More efficient - isolated enzymes work at much higher
+concentrations than is possible when they are part of the whole
+microorganism.
+More specific - no unwanted enzymes present, so no wasteful side
+reactions take place.
+Maximise efficiency - isolated enzymes can be given ideal
+conditions for maximum product formation, which may differ
+from those needed for the growth of the whole microorganism.
+Less downstream processing - pure product is produced by isolated
+enzymes. Whole microorganisms give a variety of products in the
+final broth, making isolation of the desired product more difficult
+and therefore expensive.
+Most of the isolated enzymes used in industrial processes are extracellular
+enzymes produced by microorganisms. They are generally easier and
+therefore cheaper to use than intracellular enzymes.
+active site
+A Figure 1 The shape of the active
+site gives an enzyme great specificity
+and makes it an invaluable tool to the
+biotechnologist
+Synoptic link
+You learnt about extracellular and
+intracellular enzymes in Topic 4.1,
+Enzyme action.
+• Extracellular enzymes are secreted, making them easy to isolate
+and use.
+Each microorganism produces relatively few extracellular
+enzymes, making it easy to identify and isolate the required
+enzyme. In comparison, each microorganism produces hundreds
+of intracellular enzymes which would need extracting from the
+cell and separating.
+Extracellular enzymes tend to be much more robust than
+intracellular enzymes. Conditions outside a cell are less tightly
+controlled than conditions in the cytoplasm, so extracellular
+enzymes are adapted to cope with greater variations in
+temperature and pH than intracellular enzymes.
+However, in spite of the advantages of using extracellular enzymes,
+intracellular enzymes are still sometimes used as isolated enzymes
+in manufacturing processes. This is because there is a bigger range
+of intracellular enzymes (bullet 2) so in some cases they provide the
+ideal enzyme for a process. In these cases, the benefits of using a
+599
+CLONING AND BIOTECHNOLOGY
+22
+3
+R.
+theoretical
+growth
+Dip the sterilised loop in the bacterial suspension. Remove the lid
+of the Petri dish and make a zig-zag streak across the surface of
+the agar. Avoid the loop digging into the agar by holding it almost
+horizontal. However many streaks are applied, the surface of the
+agar must be kept intact.
+Replace the lid of the Petri dish. It should be held down
+with tape but not sealed completely so oxygen can get in,
+preventing the growth of anaerobic bacteria. Incubate at
+a suitable temperature.
+Figure 3 Inoculating an agar plate
+with bacteria
+The growth of bacterial colonies
+Bacteria can reproduce very rapidly, undergoing asexual
+reproduction every 20 minutes in optimum conditions. If a single
+bacterium had unlimited space and
+A lag exponential stationary
+death phase
+nutrients, and if all its offspring
+phase phase phase
+continued to divide at the same rate,
+then at the end of 48 hours there
+would be 2.2 x 1043 bacteria, weighing
+4000 times the weight of the Earth.
+Fortunately, in a closed system limited
+nutrients and a build-up of waste
+products always acts as a brake on
+reproduction and growth. Logarithmic
+numbers (logs) are mainly used to
+represent the bacterial population
+because the difference in numbers
+from the initial organism to the
+billions of descendants is sometimes
+too great to represent using standard
+numbers.
+time
+There are four stages to this growth
+A Figure 4 The exponential growth theoretically possible for a bacterial
+population (red dashed line) is prevented by a variety of limiting factors which,
+curve:
+fortunately, result in the typical growth curve of a bacterial population in a
+closed system
+the lag phase when bacteria are adapting to their new
+environment. They are growing, synthesising the enzymes they
+need, and are not yet reproducing at their maximum rate.
+the log or exponential phase is when the rate of bacterial
+reproduction is close to or at its theoretical maximum.
+the stationary phase occurs when the total growth rate is zero -
+the number of new cells formed by binary fission is cancelled out
+by the number of cells dying.
+the decline or death stage comes when reproduction has almost
+ceased and the death rate of cells is increasing.
+log of numbers of bacteria
+593
+CLONING AND BIOTECHNOLOGY
+22
+lmlImImlm
+1ml
+original
+Inoculum
+Synoptic link
+9 cm
+9cm
+9 cm
+9 cm3
+0.1 ml
+You learnt how to carry out serial
+dilutions in Topic 4.2, Factors
+affecting enzyme activity.
+1:100
+1:1000
+1:10000
+1:100 000
+1:1000000
+Number of bacteria/ml = number of colonies x dilution of sample
+Figure 5 Using serial dilutions and agar plates to calculate the number of bacteria
+in a culture
+Summary questions
+1 Compare the processes of culturing bacteria in broth and on agar. (6 marks)
+2 Why are there such clear differences between the theoretical
+growth curve of a bacterial colony and the actual growth curve
+in a closed culture?
+(5 marks)
+3 Explain the following statements in terms of factors affecting
+bacterial growth:
+a Vinegar is a very good preservative.
+(2 marks)
+b Food eventually goes bad in a fridge.
+(2 marks)
+c In the Northern hemisphere, material placed in a compost heap
+rots down much faster in August than it does in December. (2 marks)
+4 Make a flow chart to show how you would calculate the affect
+of a factor on bacterial growth using serial dilutions and agar
+plating
+(6 marks)
+595
+22
+CLONING AND BIOTECHNOLOGY
+Somatic cell nuclear transfer
+Artificial twinning clones an embryo. However, it is now possible to
+clone an adult animal, by taking the nucleus from an adult somatic
+(body) cell and transferring it to an enucleated egg cell (an oocyte
+which has had the nucleus removed). A tiny electric shock is used
+to fuse the egg and nucleus, stimulate the combined cell to divide,
+and form an embryo that is a clone of the original adult. This process
+is known as somatic cell nuclear transfer (SCNT). The first adult
+mammal to be cloned in this way was Dolly the sheep in 1996. Since
+then scientists have cloned a wide range of species including mice,
+Cows, horses, rabbits, cats, and dogs. SCNT is simple in theory, although
+in practice there are many difficulties so the technique is still not
+widely used. As you can see in Figure 3, animals of different breeds are
+often used as the cell donor, the egg donor, and the surrogate mother
+to make it easier to identify the original animal at each stage.
+1
+2
+3
+The nucleus is removed from a somatic cell of an adult animal.
+The nucleus is removed from a mature ovum harvested from a
+different female animal of the same species (it is enucleated).
+The nucleus from the adult somatic cell is placed into the
+enucleated ovum and given a mild electric shock so it fuses and
+begins to divide. In some cases, the nucleus from the adult cell is
+not removed - it is simply placed next to the enucleated ovum and
+the two cells fuse (electrofusion) and begin to divide under the
+influence of the electric current.
+The embryo that develops is transferred into the uterus of a third
+animal, where it develops to term.
+The new animal is a clone of the animal from which the original
+somatic cell is derived, although the mitochondrial DNA will come
+from the egg cell.
+5
+6
+TL
+egg without a
+nucleus fused
+with donor cell
+using a pulse of
+electricity
+cell taken from udder of
+donor adult and cultured
+in laboratory for six days
+embryo resulting from
+fusion of udder cell and
+egg transfered to the
+Surrogate mother
+uterus of a third sheep gives birth to lamb.
+which acts as the
+Dolly is genetically
+Surrogate mother
+identical with the
+sheep that donated
+the udder cell
+(the donor)
+unfertilised egg taken from another
+sheep. Nucleus removed from the egg
+A Figure 3 Somatic cell nuclear transfer (SCNT)
+This process is also known as reproductive cloning, because live
+animals are the end result. The cloned embryo can then be split to
+produce several identical clones.
+Synoptic link
+You learnt about electrofusion in
+Topic 21.4, Genetic engineering.
+There have been some problems with the animals produced by SCNT –
+Dolly the sheep had to be put down when she was only six years old
+583
+22
+22.3 Cloning in animals
+because she suffered from arthritis and lung disease, usually seen in
+much older sheep. However, scientists have improved the technique and
+whilst concerns about premature ageing in clones produced by SCNT
+persist, researchers in Japan have produced 581 clones from one original
+donor mouse, through 25 generations. The mice in each generation were
+cloned to produce the next generation. Furthermore, they all had babies
+naturally to prove they functioned normally. All of the mice had normal
+lifespans. The same team has also produced SCNT clones from the bodies
+of mice which had been frozen for 16 years.
+SCNT can be used in a number of ways. It is used in pharming - the
+production of animals which have been genetically engineered to
+produce therapeutic human proteins in their milk. It can also be used
+to produce genetically modified (GM) animals which grow organs that
+have the potential to be used in human transplants.
+Pros and cons of animal cloning
+Animal cloning is still not widespread, although it is increasingly used in
+agriculture and the world of animal breeding and medicine. A number
+of arguments are put forward both for and against the process.
+Arguments for animal cloning
+Artificial twinning enables high-yielding farm animals to produce
+many more offspring than normal reproduction.
+Artificial twinning enables the success of a sire (the male animal) at
+passing on desirable genes to be determined. If the first cloned embryo
+results in a successful breeding animal, more identical animals can
+be reared from the remaining frozen clones. The use of meat from
+animals born to a cloned parent is now permitted in the US.
+SCNT enables GM embryos to be replicated and to develop, giving many
+embryos from one engineering procedure. It is an important process in
+pharming - the production of therapeutic human proteins in the milk of
+genetically engineered farm animals, such as sheep and goats.
+SCNT enables scientists to clone specific animals, for example,
+replacing specific pets or cloning top-class race horses. Pet cats and
+dogs have been cloned in the US at great expense.
+SCNT has the potential to enable rare, endangered, or even extinct
+animals to be reproduced. In theory, the nucleus from dried or frozen
+tissue could be transferred to the egg of a similar living species and
+used to produce clones of species that have been dead for a long time.
+Arguments against animal cloning
+SCNT is a very inefficient process - in most animals it takes many eggs
+to produce a single cloned offspring.
+Many cloned animal embryos fail to develop and miscarry or produce
+malformed offspring.
+Many animals produced by cloning have shortened lifespans, although
+cloned mice have now been developed which live a normal two years.
+584
+22.7 Culturing microorganisms on
+an industrial scale
+Specification reference: 6.2.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the importance of manipulating
+the growing conditions in batch
+and continuous fermentation
+in order to maximise the yield
+of product required.
+In any bioprocess the microorganism involved must be able to
+synthesise or break down the chemical required, work reasonably fast,
+give a good yield of the product, use relatively cheap nutrients, and
+not require extreme (and therefore expensive) conditions. It must not
+produce any poisons that contaminate the product or mutate easily
+into non-functioning forms.
+Primary and secondary metabolites
+What is wanted from the microorganisms varies from one bioprocess
+to another.
+Sometimes, you would want as much microorganism as possible,
+because the microorganism itself is the product to be sold, for example,
+single-celled protein such as Quorn, or baker's yeast.
+glucose
+used up
+penicillin
+(secondary
+metabolite)
+Sometimes, substances are wanted which
+are formed as an essential part of the normal
+functioning of a microorganism, for example,
+ethanol (a product of anaerobic respiration in
+yeast), ethanoic acid, and a range of amino
+acids and enzymes. They are known as primary
+metabolites.
+concentration
+biomass
+time
+In some circumstances, organisms produce
+substances which are not essential for normal
+growth, but are still used by the cells. Examples
+include many pigments, and the toxic
+chemicals plants produce to protect themselves
+against attack by herbivores. The organism
+would not suffer, at least in the short term,
+without them. These chemicals are known as
+secondary metabolites, and they are often the
+required product in a bioprocess, for example,
+penicillin and many other antibiotics.
+A Figure 1 Primary metabolites are usually formed in the period of
+active growth, whilst secondary metabolites tend to be formed during
+the stationary phase of the life of the culture once the cell mass has
+reached its maximum. The time at which the culture is harvested will
+depend on what we actually want from the microorganisms
+Types of bioprocess
+Once a microorganism has been chosen, and the ideal size and
+shape of the bioreactor (reaction vessel) decided, the organisation
+of the commercial production has to be decided. Two of the main
+ways of growing microorganisms are batch fermentation and
+continuous fermentation.
+Batch fermentation
+The microorganisms are inoculated into a fixed volume of medium.
+As growth takes place, nutrients are used up and both new
+biomass and waste products build up.
+596
+22
+22.7 Culturing microorganisms on an industrial scale
+Mixing things up
+Inside a bioreactor there are large volumes of liquid, which may be
+quite thick and viscous due to the growth of microorganisms. Simple
+diffusion is not enough to ensure that all the microorganisms receive
+enough food and oxygen or that the whole mixture is kept at the right
+temperature, so most bioreactors have a mixing mechanism and many
+are stirred continuously.
+Asepsis
+If a bioprocess is contaminated by microorganisms from the air, or from
+workers, it can seriously affect the yield. To solve this problem most
+bioreactors are sealed, aseptic units. If the process involves genetically
+engineered organisms, it is a legal requirement that they should be
+contained within the bioreactor and not be released into the environment.
+antifoam
+acid/base
+motor
+steam
+nutrient or inoculant-=
+pressure guage
+sterile nutrient medium
+filtered waste gases
+cold-water outlet
+impeller -
+oxygen concentration probe
+-pH probe
+temperature probe
+cooling jacket
+cold-water inlet -
+0.0.0
+sparger
+=
+compressed air
+steam
+harvest pipe
+A Figure 3 The design of bioreactors is moving forward all the time as new and
+more sensitive ways of controlling conditions during fermentation processes become
+available, making it easier to get the maximum yield from any process
+Summary questions
+1 Bioreactors may run batch or continuous processes. What is the
+difference?
+(6 marks)
+2 Choose three factors which need to be controlled in a bioreactor to
+give the maximum yield of product and for each explain why it is
+important and how it might be controlled.
+(6 marks)
+3 Look at Figure 1.
+a What is the desired end product of this reaction?
+(1 mark)
+b What tells you that this bioreactor is not producing food? (3 marks)
+c Sketch a graph to show what you would expect to see if this process
+was producing a food material rather than a drug.
+(3 marks)
+598
+22
+CLONING AND BIOTECHNOLOGY
+As the culture reaches the stationary phase, overall growth
+ceases but during this phase the microorganisms often carry out
+biochemical changes to form the desired end products (such as
+antibiotics and enzymes).
+The process is stopped before the death phase and the products
+harvested. The whole system is then cleaned and sterilised and a
+new batch culture started up.
+Continuous culture
+• Microorganisms are inoculated into sterile nutrient medium and
+start to grow.
+Sterile nutrient medium is added continually to the culture once it
+reaches the exponential point of growth.
+Culture broth is continually removed - the medium, waste
+products, microorganisms, and product - keeping the culture
+volume in the bioreactor constant.
+Continuous culture enables continuous balanced growth, with levels
+of nutrients, pH, and metabolic products kept more or less constant.
+Both methods of operating a bioreactor can be adjusted to ensure
+either the maximum production of biomass or the maximum
+production of the primary or secondary metabolites. Most systems are
+adapted for maximum yield of metabolites. The majority of industrial
+processes use batch or semi-continuous cultivation. Continuous
+cultivation is largely used for the production of single-celled protein
+and in some waste water treatment processes.
+All bioreactors produce a mixture of unused nutrient broth,
+microorganisms, primary metabolites, possibly secondary metabolites,
+and waste products. The useful part of the mixture has to be separated
+out by downstream processing. This is one of the most difficult and
+expensive parts of the whole bioprocess – the percentage of the total
+cost of a product which is due to downstream processing costs varies
+from 15-40%.
+Controlling bioreactors
+Whether a bioreactor is simply a container containing microbial broth
+or a complex aseptic fermenter, it is very important to control and
+manipulate the growing conditions to maximise the yield of product
+required. Factors which need to be controlled include:
+A Figure 2 Bioreactors range from
+around a 10 litre capacity to hundreds
+of litres and are widely used in the
+pharmaceutical industry
+Temperature
+Iſ the temperature is too low the microorganisms will not grow quickly
+enough. If the temperature gets too high, enzymes start to denature
+and the microorganisms are inhibited or destroyed. Bioreactors often
+have a heating and/or a cooling system linked to temperature sensors
+and a negative feedback system to maintain optimum conditions.
+Nutrients and oxygen
+Oxygen and nutrient medium can be added in controlled amounts to
+the broth when probes or sample tests indicate that levels are dropping.
+597

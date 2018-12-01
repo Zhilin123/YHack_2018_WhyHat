@@ -1,0 +1,1713 @@
+14.4 Diabetes and its control
+Specification reference: 5.1.4
+To keep blood glucose concentration constant the body relies on
+the interaction between glucagon and insulin. However, for over
+300 million people in the world this system of regulation does not
+work properly. They suffer from the chronic disease, diabetes mellitus
+(usually referred to as diabetes). This means they are unable to
+metabolise carbohydrates properly, in particular glucose.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the differences between type
+1 and type 2 diabetes mellitus
+→ the potential treatments for
+diabetes mellitus.
+Types of diabetes
+If you suffer from diabetes your pancreas either does not produce
+enough insulin, or your body cannot effectively respond to the insulin
+produced. This means that blood glucose concentration remains
+high. Hyperglycaemia, or raised blood sugar, is a common effect
+of uncontrolled diabetes. Over time this can lead to serious damage
+of many body systems, especially the nerves and blood vessels.
+Table 1 Symptoms of diabetes
+Common symptoms of diabetes
+There are two main types of diabetes:
+High blood glucose
+concentration
+Glucose present in urine
+Excessive need to urinate
+(polyuria)
+Excessive thirst (polydipsia)
+Constant hunger
+Weight loss
+Blurred vision
+Tiredness
+Type 1 diabetes. Patients with type 1 diabetes are unable to
+produce insulin. The B cells in the islets of Langerhans do not
+produce insulin. The cause of type 1 diabetes is not known and
+so, at the moment, the disease cannot be prevented or cured. It is
+possible, however, to treat the symptoms. Evidence suggests that
+in many cases the condition arises as a result of an autoimmune
+response where the body's own immune system attacks the B cells.
+This condition normally begins in childhood, and people develop
+symptoms of the disease quickly.
+Type 2 diabetes. Patients with type 2 diabetes cannot effectively
+use insulin and control their blood sugar levels. This is either
+because the person's B cells do not produce enough insulin
+or the person's body cells do not respond properly to insulin.
+This is often because the glycoprotein insulin receptor on the
+cell membrane does not work properly. The cells lose their
+responsiveness to insulin, and therefore do not take up enough
+glucose, leaving it in the bloodstream. Globally, approximately
+90% of people with diabetes have type 2 diabetes. This is
+largely as a result of excess body weight, physical inactivity,
+and habitual, excessive overeating of (refined) carbohydrates.
+Symptoms are similar to those of type 1 diabetes, but are often
+less severe and develop slowly. As a result, the disease is often
+only diagnosed after complications have already arisen. Risk of
+type 2 diabetes increases with age. Until recently, this type of
+diabetes was seen only in adults (normally over the age of 40),
+but it is now also occurring in children.
+Figure 1 People with diabetes have
+to measure their blood glucose levels
+regularly. This is normally done using
+a finger prick test
+393
+HORMONAL COMMUNICATION
+14
+Histology of the pancreas
+When viewed under a microscope, you can clearly see the differences
+between endocrine and exocrine pancreatic tissue. The main
+differences are summarised in Table 1.
+Table 1
+Structure
+Appearance
+Shape
+Type of tissue
+Function
+islets of Langerhans
+lightly stained
+large, spherical
+clusters
+endocrine
+pancreas
+produce and secrete
+hormones
+pancreatic acini
+(singular - acinus)
+small, berry.
+like clusters
+exocrine
+pancreas
+produce and secrete
+digestive enzymes
+Islets of Langerhans
+Within the islets of Langerhans are
+different types of cell. They are classified
+according to the hormone they secrete:
+a (alpha) cells - these produce and
+secrete glucagon
+B (beta) cells - these produce and
+secrete insulin
+Alpha cells are larger and more numerous
+than beta cells within an islet.
+Using standard staining techniques,
+it is often very difficult to distinguish
+between the cell types within an islet of
+Langerhans. In Figure 2, a differential
+stain has been used. The B cells of the
+islets that produce insulin are stained
+blue, and the a cells that produce
+glucagon are stained pink.
+Figure 2 Light micrograph of a section through the pancreas. The islet of
+Langerhans (centre right) is composed of groups of secretory cells. The main
+secretions from these cells are the hormones insulin and glucagon, which
+control blood sugar. These cells are endocrine - their secretions go straight
+into the bloodstream. The cells surrounding the islet are packed into secretory
+acini (pink) which secrete digestive enzymes. This part of the pancreas is
+exocrine - the enzymes pass straight out into the gut, via ducts. The structure
+on the left is a branch of the pancreatic duct, 195 magnification
+A Figure 3 Islet of Langerhan cell in human pancreas, *300 magnification
+387
+14
+14.2 Structure and function of the pancreas
+Histology of the pancreas
+The following activity will allow you to view the structures within the pancreas.
+blood vessel
+- connective tissue
+acinus
+(plural - acini)
+www
+A Figure 4 A colour transmission electron
+micrograph of a pancreatic alpha cell.
+Alpha cells make up 15-20% of the cells
+in the islets of Langerhans. They produce
+glucagon, a hormone that regulates blood
+sugar levels by increasing the amount
+of glucose available. The glucagon is
+carried into the bloodstream by granules
+(dark red). The nucleus (round, blue) and
+mitochondria (brown) can also be seen,
+*5000 magnification
+duct which leads
+to pancreatic duct
+islet of Langerhans
+capillaries into which
+hormones are secreted
+-cells (secrete insulin)
+cells (secrete glucagon)
+Figure 5 Cross-section of pancreatic material, as viewed through a light
+microscope
+Summary questions
+1 State the difference between
+endocrine and exocrine
+glandular tissue. (1 mark)
+2 State two features which would
+enable you to identify the
+islets of Langerhans through
+a cross-section of pancreatic
+material, when viewed under a
+light microscope.
+Place a stained slide of pancreatic tissue on the stage of a light microscope.
+Begin by viewing under low power. Compare this with Figure 5 - can you
+identify the following structures?
+a Exocrine tissue, which secretes digestive enzymes
+b Blood vessels
+c Branches of the pancreatic duct.
+Select one of the groups of exocrine cells and view under high power. You will
+be viewing an acinus - can you identify the following features?
+d Small group of cells formed in a cluster
+e Clearly visible nuclei within these cells
+f Central duct (which leads to the pancreatic duct).
+Make a scientific drawing of an acinus. Remember to include a scale on your
+drawing and label all of the key features.
+Return to low power and look for small groups of cells which look different to
+the rest of the material. These are the islets of Langerhans. These groups of
+cells are likely to appear lighter than the surrounding material.
+View an islet of Langerhans under high power. Can you spot the following?
+g Capillaries, which transport the secreted hormones
+h a cells, which secrete glucagon
+i B cells, which secrete insulin.
+You may find that your slide has been prepared using a differential stain,
+which colours the a and B cells differently to enable you to identify these
+structures more readily.
+3 00 Figure 6 shows
+pancreatic tissue which
+has been stained for insulin.
+Areas which contain insulin
+appear brown. Describe the
+structure and function of the
+pancreatic tissue shown on
+this slide.
+(6 marks)
+Make a drawing of an islet of Langerhans. Remember to include a scale
+on your drawing and label all of the key features.
+Figure 6
+388
+14
+14.4 Diabetes and its control
++
+Type 2 diabetes me
+scientific evidence has been used to inform decision-
+making at a national level.
+There has been a significant increase in the number
+of cases of diabetes diagnosed in the UK, rising from
+1.4 million in 1996 to around 3 million in 2014. It is
+estimated that there may be as many as 5 million
+sufferers of diabetes by 2025, with around 85% having
+type 2 diabetes.
+Discussion
+A clear causal link has been established between obesity
+and the onset of type 2 diabetes. This information has
+been used to launch initiatives to promote healthy
+eating and exercise. These include, for example, the
+Change4Life campaign. This is an example of where
+1 To what extent is a government responsible for the
+health of its citizens?
+2 What steps would you take to minimise the risk of
+diabetes amongst the UK population?
+3 Should universal benefits - for example, free
+healthcare - be available to those whose lifestyle
+choices cause the onset of a medical condition?
+Study tip
+Diabetes treatment
+Diabetes is not a curable disease, but it can be controlled successfully,
+allowing sufferers to lead a normal life. Treatment differs for both
+types of diabetes.
+Most of the symptoms of diabetes
+are logical. Think about what would
+happen if your blood glucose
+concentration remained high, but
+the level of glucose in your cells
+was low.
+Type 1 diabetes
+Type 1 diabetes is controlled by regular injections of insulin and is
+therefore said to be insulin-dependent.
+People with the condition have to regularly test their blood glucose
+concentration, normally by pricking their finger. The drop of blood is
+then analysed by a machine, which tells the person their blood glucose
+concentration. Based on this concentration, the person can work out the
+dose of insulin they need to inject. The insulin administered increases
+the amount of glucose absorbed by cells and causes glycogenesis to occur,
+resulting in a reduction of blood glucose concentration.
+If a person with diabetes injects himself or herself with too much
+insulin, they may experience hypoglycaemia (very low blood glucose
+concentrations) that can result in unconsciousness. However, too low
+an insulin dose results in hyperglycaemia, which can also result in
+unconsciousness and death if left untreated. Careful monitoring and
+dose regulation is therefore required.
+Figure 2 People with type 1 diabetes
+need regular insulin injections. As insulin
+is a protein, it cannot be taken by mouth
+because it will be digested
+Figure 3 shows how blood glucose concentration and insulin levels
+vary in a person with type 1 diabetes, and a person without diabetes.
+If the person with diabetes injects himself or herself with insulin, there
+will be a surge of insulin in their blood which will cause their blood
+glucose level to drop quickly.
+Type 2 diabetes
+The first line of control in type 2 diabetes is to regulate the person's
+carbohydrate intake through their diet and matching this to their
+exercise levels. This often involves increasing exercise levels.
+Overweight people are also encouraged to lose weight.
+394
+14.2 Structure and function
+of the pancreas
+Specification reference: 5.1.4
+The pancreas is found in the upper abdomen, behind the stomach
+(Figure 1). It plays a major role in controlling blood glucose
+concentration, and in digestion. It is a glandular organ - its role is to
+produce and secrete hormones and digestive enzymes.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the histology of the pancreas
+► the examination and drawing
+of stained sections of the
+pancreas to show the histology
+of the endocrine tissues.
+Function of the pancreas
+The pancreas has two main functions in the body, as an:
+exocrine gland - to produce enzymes and release them via a duct
+into the duodenum
+endocrine gland - to produce hormones and release them into the
+blood.
+Role as an exocrine gland
+Most of the pancreas is made
+stomach
+up of exocrine glandular tissue.
+This tissue is responsible for
+bile ducts
+liver
+producing digestive enzymes
+spleen
+and an alkaline fluid known as
+pancreatic juice. The enzymes and
+juice are secreted into ducts which
+pancreas
+eventually lead to the pancreatic
+gallbladder
+small
+duct. From here they are released
+colon
+intestine
+into the duodenum, the top part of
+the small intestine. The pancreas
+body
+produces three important types of
+bile
+A pancreatic
+duct head
+duct
+digestive enzymes:
+Amylases – break down
+A Figure 1 Position of the pancreas in the body
+starch into simple sugars. For
+example, pancreatic amylase.
+• Proteases - break down proteins into amino acids. For example,
+trypsin.
+Lipases - break down lipids into fatty acids and glycerol. For
+example, pancreatic lipase.
+tail
+Role as an endocrine gland
+The pancreas is responsible for producing insulin and glucagon. These
+two hormones play an essential role in controlling blood glucose
+concentration, which you will read about in Topic 14.3, Regulation of
+blood glucose concentration. Within the exocrine tissue there are small
+regions of endocrine tissue called islets of Langerhans. The cells of the
+islets of Langerhans are responsible for producing insulin and glucagon,
+and secreting these hormones directly into the bloodstream.
+386
+14
+14.3 Regulation of blood glucose concentration
+Control of insulin secretion
+When blood glucose concentration rises above the set level, this
+is detected by the B cells in the islets of Langerhans and insulin is
+released. The mechanism by which this occurs is as follows:
+1
+2
+3
+At normal blood glucose concentration levels, potassium channels in
+the plasma membrane of B cells are open and potassium ions diffuse
+out of the cell. The inside of the cell is at a potential of – 70mV with
+respect to the outside of the cell.
+When blood glucose concentration rises, glucose enters the cell by
+a glucose transporter.
+The glucose is metabolised inside the mitochondria, resulting in
+the production of ATP.
+The ATP binds to potassium channels and causes them to close.
+They are known as ATP-sensitive potassium channels.
+As potassium ions can no longer diffuse out of the cell, the potential
+difference reduces to around -30mV and depolarisation occurs.
+Depolarisation causes the voltage-gated calcium channels to open.
+Calcium ions enter the cell and cause secretory vesicles to release
+the insulin they contain by exocytosis.
+4
+5
+6
+7
+resting state
+glucose-stimulated state
+voltage-gated
+Ca2+ channel closed
+voltage-gated
+ca2+ channel open
+no secretory
+vesicles containing
+insulin
+membrane Ca2+
+alog
+membrane
+hyperpolarised
+Kup channel
+open
+secretory vesicles
+containing insulin
+depolarised
+Kalp Channel
+closed
+insulin
+granules
+ATP.
+ADP
+ATP:
+ADP:
+metabolism
+low
+:
+glucose
+transporter
+high glucose
+glucose
+transporter
+glucose
+43 of
+mitochondria
+Figure 5 Changes which occur in B cells in the islets of Langerhans in the pancreas when stimulated by a high blood
+glucose concentration
+Summary questions
+1 Describe what is meant by negative feedback.
+(1 mark)
+2 Describe the role glucagon plays in the control of blood glucose
+concentration.
+(3 marks)
+3 Describe the changes which take place inside a B cell to cause the release
+of insulin in the presence of high blood glucose concentration. (4 marks)
+4 Explain how hormones return blood glucose concentration to normal
+after a meal.
+(6 marks)
+392
+HORMONAL COMMUNICATION
+14
+As blood glucose concentration returns to normal, this is detected by
+the a cells of the pancreas. When it rises above a set level, the a cells
+reduce their secretion of glucagon. This is another example of negative
+feedback. The feedback causes the corrective measures to be switched
+off, returning the system to its original (normal) level.
+blood containing
+glucagon
+fall in
+blood
+glucose
+concentration
+a cells in
+the pancreas
+liver
+glycogen-glucose
+gluconeogenesis
+normal
+blood
+glucose
+concentration
+blood at normal glucose concentration turns off
+corrective measure = negative feedback
+Figure 3 Negative feedback in control of blood glucose concentration
+Interaction of insulin and glucagon
+Figure 4 shows how insulin and glucagon work together to maintain
+a constant blood glucose concentration. Insulin and glucagon are
+antagonistic hormones, that is, they work against each other.
+to increase
+blood glucose
+level
+detected by a cells of
+pancreas, which
+produce glucagon
+detected by B cells of
+pancreas, which
+produce insulin
+to decrease
+blood glucose
+level
+blood
+glucose
+level falls
+blood
+glucose
+level rises
+glucagon
+insulin
+conversion of glycogen to glucose
+increased cellular respiration
+conversion of amino acids to glucose
+conversion of glucose to glycogen
+normal blood
+glucose level
+90 mg 100cm-3 blood
+conversion of glucose to fat
+uncontrolled quantity
+of glucose enters
+from intestines
+absorption of glucose into cells
+blood
+glucose
+level rises
+negative
+feedback
+blood
+glucose
+level falls
+A Figure 4 Summary of blood glucose concentration regulation
+The system of maintaining blood glucose concentration is said to be
+self-regulating, as it is the level of glucose in the blood that determines
+the quantity of insulin and glucagon that is released. Blood glucose
+concentration is not constant, but fluctuates around a set point as the
+result of negative feedback. In times of stress adrenaline is released
+by the body. One of the effects of this hormone is to raise the blood
+glucose concentration to allow more respiration to occur. You will
+find out more about the fight and flight response in Topic 14.5,
+Coordinated responses.
+391
+HORMONAL COMMUNICATION
+14
+Adrenal cortex
+The production of hormones by the adrenal cortex is itself controlled
+by hormones released from the pituitary gland in the brain. There are
+three main types of hormones produced by the adrenal cortex:
+Glucocorticoids. These include cortisol which helps regulate
+metabolism by controlling how the body converts fats, proteins, and
+carbohydrates to energy. It also helps regulate blood pressure and
+cardiovascular function in response to stress. Another glucocorticoid
+hormone released is corticosterone. This works with cortisol to
+regulate immune response and suppress inflammatory reactions.
+The release of these hormones is controlled by the hypothalamus.
+Mineralocorticoids. The main one produced is aldosterone which
+helps control blood pressure by maintaining the balance between
+salt and water concentrations in the blood and body fluids. Its
+release is mediated by signals triggered by the kidney.
+Androgens. Small amounts of male and female sex hormones
+are released - their impact is relatively small compared with the
+larger amounts of hormones, such as oestrogen and testosterone,
+released by the ovaries or testes after puberty, but they are still
+important, especially in women after the menopause.
+Adrenal medulla
+The hormones of the adrenal medulla are released when the sympathetic
+nervous system is stimulated. This occurs when the body is stressed.
+You can find out more about the fight or flight response in Topic 14.5,
+Coordinated responses.
+The hormones secreted by the adrenal medulla are:
+Adrenaline. This increases the heart rate sending blood quickly
+to the muscles and brain. It also rapidly raises blood glucose
+concentration levels by converting glycogen to glucose in the liver.
+Noradrenaline. This hormone works with adrenaline in response to
+stress, producing effects such as increased heart rate, widening of
+pupils, widening of air passages in the lungs, and the narrowing
+of blood vessels in non-essential organs (resulting in higher blood
+pressure).
+Summary questions
+1 Using a named example, explain the function of an endocrine gland.
+(2 marks)
+2 Describe the pathway triggered by a stimulus in hormonal
+communication.
+(2 marks)
+3 Bright light causes the iris muscles in your eyes to contract, constricting the
+pupil and preventing damage to the eye. State and explain whether hormonal
+or neuronal communication would be used in this response. (2 marks)
+A person falls into a fast-flowing river. State and explain the changes
+that may occur in the body and increase the person's chances
+of survival in this situation.
+(6 marks)
+385
+14
+HORMONAL COMMUNICATION
+glucose swallowed
+In some cases, diet and exercise are not
+enough to control blood glucose concentration
+so drugs also have to be used. These
+can include drugs that stimulate insulin
+production, drugs that slow down the rate
+at which the body absorbs glucose from
+the intestine, and ultimately even insulin
+injections.
+insulin
+level
+non-diabetic
+B cells in pancreas
+release insulin in
+response to increase
+in blood glucose level
+Relative concentration of insulin in the blood
+diabetic - type i
+there is no insulin
+response to raised
+blood glucose level
+Medically produced insulin
+Originally, insulin was obtained from the
+pancreas of cows and pigs which had been
+slaughtered for food. This process was difficult
+and expensive. The insulin extracted could also
+cause allergic reactions as it differed slightly
+from human insulin.
+C 0.20
+blood
+glucose
+level
+0.15
+In 1955, the structure of human insulin was
+identified and it is now made by genetically
+modified bacteria. This has a number of
+advantages:
+concentration of glucose in the blood/gdm-3
+diabetic - type i
+blood glucose level is
+slow to return to normal
+as it is used up by cells
+0-
+non-diabetic
+insulin rapidly reduces blood
+glucose level to normal
+50.05+
+0
+time/h
+Human insulin is produced in a pure form
+– this means it is less likely to cause allergic
+reactions.
+Insulin can be produced in much higher
+quantities.
+Production costs are much cheaper.
+People's concerns over using animal
+products in humans, which may be
+religious or ethical, are overcome.
+Figure 3 Comparison of blood glucose and insulin levels in a
+person with type 1 diabetes and a person without diabetes after each
+has swallowed a glucose tablet
+Synoptic link
+Potential use of stem cells in diabetes treatment
+For decades, diabetes researchers have been searching for ways to
+replace the faulty B cells in the pancreatic islets of diabetic sufferers.
+Each year, over 1000 people with type 2 diabetes receive a pancreas
+transplant. After a year, over 80% of these patients have no symptoms
+of diabetes and do not have to take insulin. However, the demand for
+transplantable pancreases far outweighs their availability. The risk
+of having a transplant can also be a greater health risk than the
+diabetes itself - immunosuppressant drugs are required to ensure
+the body accepts the transplanted pancreas, which can leave a person
+susceptible to infection.
+You will find out how bacteria are
+genetically engineered to produce
+human insulin in Topic 21.4,
+Genetic engineering, and about
+the industrial production of
+insulin in 22.5, Microorganisms,
+medicines, and bioremediation.
+Doctors have attempted to cure diabetes by injecting patients
+with pancreatic B islet cells, but fewer than 8% of cell transplants
+performed have been successful. The immunosuppressant drugs used
+to prevent rejection of these cells increases the metabolic demand
+on insulin-producing cells. Eventually this exhausts their capacity to
+produce insulin.
+395
+14
+14.4 Diabetes and its control
+Synoptic link
+Look back at Topic 6.5, Stem cells
+to remind yourself of the different
+types of stem cell that exist and
+the sources of stem cells.
+As type 1 diabetes results from the loss of a single cell type, and there
+is evidence that a relatively small number of islet cells can restore
+insulin production, the disease is a perfect candidate for stem cell
+therapy. Totipotent stem cells have the potential to grow into any of
+the body's cell types. Scientists have been researching the best type of
+stem cells and the signals required to promote their differentiation into
+B cells, either directly in the patient or in the laboratory before being
+transplanted. It is likely that the stem cells used in diabetes treatment
+would be taken from embryos. To obtain the stem cells, the early
+embryo has to be destroyed. This means destroying a potential human
+life. However, the embryos used as a source for these stem cells would
+usually be destroyed anyway - they are 'spare' embryos from infertility
+treatments or from terminated pregnancies.
+Stem cells lines formed from a small number of embryos can be used
+to treat many patients – each treatment does not require a separate
+embryo. An alternative to using embryonic matter is that of using
+preserved umbilical stem cells.
+Stem cells offer many advantages over current therapies:
+. donor availability would not be an issue - stem cells could produce
+an unlimited source of new ß cells
+reduced likelihood of rejection problems as embryonic stem cells
+are generally not rejected by the body (although some evidence
+contradicts this). Stem cells can also be made by somatic cell
+nuclear transfer (SCNT)
+• people no longer have to inject themselves with insulin.
+However, because our ability to control growth and differentiation
+in stem cells is still limited, a major consideration is whether any
+precursor or stem-like cells transplanted into the body might induce
+the formation of tumours as a result of unlimited cell growth.
+A Figure 4 A human embryo. Embryonic
+stem cells could lead to the discovery
+of new medical treatments (such as
+the replacement of B cells in diabetes
+patients) that would alleviate the
+suffering of many people. However, many
+people argue against using the cells, as
+an embryo has to be destroyed, approx
+x600 magnification
+Summary questions
+1 Copy and complete the table to compare and contrast the differences
+between the causes of type 1 and type 2 diabetes. (3 marks)
+Type 1
+Type 2
+Cause
+When does it develop
+Period of development
+2 Explain why people with type 1 have to constantly monitor their blood
+glucose concentration.
+(3 marks)
+3 Explain why some who suffer from diabetes mellitus who can produce
+insulin cannot control their blood glucose concentration. (3 marks)
+4
+Discuss the advantages and disadvantages of the different
+treatments for diabetes.
+(6 marks)
+396
+HORMONAL COMMUNICATION
+14.1 Hormonal communication
+Specification reference: 5.1.4
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ endocrine communication
+by hormones
+► the structure and functions of
+the adrenal glands.
+In the previous chapter you looked in detail at how the nervous
+system detects and responds to changes in the internal and external
+environment. The body has a second system, the endocrine system,
+which works alongside the neuronal system to react to changes. The
+endocrine system uses hormones to send information about changes in
+the environment around the body to bring about a designated response.
+The endocrine system
+Endocrine glands
+The endocrine system is made up of endocrine glands. An endocrine
+gland is a group of cells which are specialised to secrete chemicals –
+these chemicals are known as hormones, and are secreted directly into
+the bloodstream. Examples of endocrine glands include the pancreas
+and adrenal glands.
+Figure 1 shows the positions of the major endocrine glands in the
+body and the hormones they secrete. The pituitary gland at the base of
+the brain makes several hormones, which in turn control the release
+of other hormones. The close proximity of the pituitary gland to the
+hypothalamus ensures that the nervous and hormonal responses of
+the body are closely linked and coordinated.
+Pituitary gland - produces growth
+hormone, which controls growth of
+bones and muscles; anti-diuretic
+hormone, which increases
+reabsorption of water in kidneys;
+and gonadotrophins, which control
+development of ovaries and testes.
+Male
+Female
+Pineal gland - produces melatonin
+which affects reproductive
+development and daily cycles.
+Thyroid gland - produces thyroxine
+which controls rate of metabolism
+and rate that glucose is used up in
+respiration, and promotes growth.
+Thymus - produces thymosin which
+promotes production and maturation
+of white blood cells.
+Adrenal gland - produces adrenaline
+which increases heart and breathing
+rate and raises blood sugar level.
+Pancreas - produces insulin which
+converts excess glucose into
+glycogen in the liver; and glucagon,
+which converts glycogen back to
+glucose in the liver.
+Testis - produces testosterone
+which controls sperm production and
+secondary sexual characteristics.
+Ovary - produces oestrogen, which
+controls ovulation and secondary
+sexual characteristics; and
+progesterone, oestrogen, which
+controls ovulation and secondary
+sexual characteristics; and
+progesterone, which prepares the
+uterus lining for receiving an embryo.
+Figure 1 Position of the major endocrine glands in the body, hormones
+are highlighted in green, white boxes are features common to both sexes
+382
+14
+14.5 Coordinated responses
+Table 1 Fight or flight physiological responses
+Phu
+Physical response
+Purpose
+heart rate increases
+to pump more oxygenated blood around the body
+pupils dilate
+to take in as much light as possible for better vision
+arterioles in skin constrict
+more blood to major muscle groups, brain, heart, and
+muscles of ventilation
+blood glucose level increases
+increase respiration to provide energy for muscle
+contraction
+smooth muscle of airways relaxes
+to allow more oxygen into lungs
+non-essential systems (like digestion) shut down
+to focus resources on emergency functions
+difficulty focusing on small tasks
+brain solely focused only on where threat is coming from
+Study tip
+Action of adrenaline
+One of adrenaline's main functions during the fight and flight
+response is to trigger the liver cells to undergo glycogenolysis so that
+glucose is released into the bloodstream. This allows respiration to
+increase so more energy is available for muscle contraction.
+Even though the fight or flight
+response is automatic it is normally
+triggered as a false alarm, such
+as the panic you may feel when
+sitting an exam – there is no threat
+to your survival. The amygdala
+(part of the brain that initiates
+the fight or flight response) can't
+distinguish between a real threat
+and a perceived threat.
+Adrenaline is a hormone. It is hydrophilic therefore cannot pass
+through cell membranes. Adrenaline binds with receptors on the
+surface of a liver cell membrane and triggers a chain reaction inside
+the cell:
+When adrenaline binds to its receptor, the enzyme adenylyl cyclase
+(which is also present in the cell membrane) is activated.
+receptor
+adrenaline
+(= first messenger)
+1 The hormone adrenaline
+approaches receptor site.
+site
+cell surface
+membrane
+adenylyl cyclase
+(inactive)
+adrenaline-receptor
+complex
+2 Adrenaline fuses to receptor site,
+and in doing so activates an
+enzyme inside the membrane.
+adenylyl cyclase
+(active)
+adrenaline-receptor
+complex
+3 The activated enzyme converts
+ATP to cyclic AMP, which
+acts as a second messenger that
+activates other enzymes that, in
+turn, convert glycogen to glucose.
+ATP
+cyclic (second
+AMP messenger)
+activates enzymes
+glycogen - glucose
+A Figure 2 Second messenger model of hormone action
+398
+14
+14.1 Hormonal communication
+glucagon are responsible for controlling blood glucose concentration.
+A number of organs are involved in this response.
+Table 1 summarises the main differences between the actions of the
+hormonal and nervous systems.
+Table 1 Comparison of the hormonal and nervous systems
+Hormonal system
+Nervous system
+communication is by nerve impulses
+communication is by chemicals called
+hormones
+transmission is by the blood system
+transmission is by neurones
+transmission is very rapid
+transmission is usually relatively slow
+hormones travel to all parts of the
+body, but only target organs respond
+response is widespread
+nerve impulses travel to specific
+parts of the body
+response is localised
+response is slow
+response is rapid
+response is often long-lasting
+response is short-lived
+effect may be permanent and
+irreversible
+effect is temporary and reversible
+Adrenal glands
+The adrenal glands are two small glands that measure approximately
+3 cm in height and 5 cm in length. They are located on top of each
+kidney and are made up of two distinct parts surrounded by a capsule:
+The adrenal cortex - the outer region of the glands. This produces
+hormones that are vital to life, such as cortisol and aldosterone.
+The adrenal medulla - the inner region of the glands. This produces
+non-essential hormones, such as adrenaline which helps the body
+react to stress.
+capsule
+adrenal cortex
+medulla
+kidney
+A Figure 3 Structure of adrenal glands
+384
+HORMONAL COMMUNICATION
+(Remember that, by contrast, exocrine glands, such as those in the
+digestive system, secrete chemicals through ducts into organs, or to the
+surface of the body.)
+Hormones
+Hormones are often referred to as chemical messengers because they carry
+information from one part of the body to another. They can be steroids,
+proteins, glycoproteins, polypeptides, amines, or tyrosine derivatives.
+Although they are chemically different, they share many characteristics.
+Hormones are secreted directly into the blood when a gland is
+stimulated. This can occur as a result of a change in concentration of
+a particular substance, such as blood glucose concentration. It can also
+occur as the result of another hormone or a nerve impulse.
+Once secreted, the hormones are transported in the blood plasma all
+over the body. The hormones diffuse out of the blood and bind to specific
+receptors for that hormone, found on the membranes, or in the cytoplasm
+of cells in the target organs. These are known as target cells. Once bound
+to their receptors the hormones stimulate the target cells to produce a
+response. You will find out more about how blood glucose concentration
+is maintained in Topic 14.3, Regulation of blood glucose concentration.
+The type of hormone determines the way it causes its effect on a target
+cell. For example:
+nucleus
+lipid-soluble
+steroid hormone
+passes through
+membrane receptor
+protein
+in cytoplasm
+hormone-receptor
+complex attaches
+to DNA
+DNA Y
+Steroid hormones are lipid-soluble. They pass
+through the lipid component of the cell
+membrane and bind to steroid hormone
+receptors to form a hormone-receptor
+complex. The receptors may be present in the
+cytoplasm or the nucleus depending on the
+hormone. The hormone-receptor complex
+formed acts as a transcription factor which in
+turn facilitates or inhibits the transcription of
+a specific gene. Oestrogen is an example of a
+hormone which works in this way.
+Non-steroid hormones are hydrophilic so cannot
+pass directly through the cell membrane.
+Instead they bind to specific receptors on
+the cell surface membrane of the target cell.
+This triggers a cascade reaction mediated
+by chemicals called second messengers.
+Adrenaline is an example of a hormone which
+works in this way.
+instructions for synthesis
+of a polypeptide
+membrane of a
+target cell
+cytoplasm
+polypeptide synthesised by
+ribosomes and mRNA
+A Figure 2 Mechanism of action of steroid hormones
+Hormonal versus neuronal communication
+As hormones are not released directly onto their target cells, this
+results in a slower and less specific form of communication than
+neuronal communication. However, as hormones are not broken
+down as quickly as neurotransmitters, it can result in a much longer
+lasting and widespread effect. For example, the hormones insulin and
+Synoptic link
+You will find out how the second
+messenger model works in
+Topic 15.6, The kidney and
+osmoregulation.
+383
+14.5 Coordinated responses
+Specification reference: 5.1.5
+On many occasions the body responds to changes in its internal
+and external environment through a coordinated response. The
+nervous and endocrine systems work together to detect and respond
+appropriately to stimuli. One example of coordination between these
+two systems is the mammalian 'fight or flight' response.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the coordination of responses
+by the nervous and endocrine
+systems.
+hypothalamus
+Fight or flight response
+The fight or flight response is an instinct
+that all mammals possess. When a
+potentially dangerous situation is
+detected, the body automatically triggers
+a series of physical responses. These are
+intended to help mammals survive by
+preparing the body to either run or fight
+for life, hence the name of the response.
+activates
+sympathetic
+nervous
+system
+activates
+adrenal-cortical
+system by releasing
+CRF
+Once a threat is detected by the
+activates
+pituitary gland
+autonomic nervous system, the
+secretes hormone
+adrenal
+hypothalamus communicates with the
+ACTH
+medulla
+sympathetic nervous system and the
+releases
+adrenal-cortical system. The sympathetic
+impulses
+releases
+activate noradrenaline adrenaline ACTH arrives at
+nervous system uses neuronal pathways
+glands
+adrenal cortex
+to initiate body reactions whereas the
+and
+and releases
+adrenal-cortical system uses hormones
+smooth
+approximately
+muscles
+bloodstream
+30 hormones
+in the bloodstream. The combined effects
+of these two systems results in the fight
+or flight response. The overall process is
+combination of neuronal and hormonal activity results in "fight or flight' response
+summarised in Figure 1.
+The sympathetic nervous system sends
+Figure 1 Summary of coordination of fight or flight' response
+out impulses to glands and smooth muscles and tells the adrenal
+medulla to release adrenaline and noradrenaline into the bloodstream.
+These 'stress hormones' cause several changes in the body, including
+an increased heart rate.
+The release of other stress hormones which have a longer-term action
+from the adrenal cortex is controlled by hormones produced by the
+pituitary gland in the brain. The hypothalamus stimulates the pituitary
+gland to secrete adrenocorticotropic hormone (ACTH). This travels in
+the bloodstream to the adrenal cortex, where it activates the release
+of many hormones that prepare the body to deal with a threat. Look
+back at Topic 14.1, Hormonal communication to remind yourself of
+the structure and function of the adrenal glands.
+The physiological responses which occur as part of the fight or flight
+response are summarised in Table 1.
+397
+14
+HORMONAL COMMUNICATION
+Caffeine
+1
+2
+3
+|
+0.50%
+392
+380
+360
+400
+1%
+401
+400
+380
+404
+360
+428
+440
+368
+398
+| 0.25% 0.10%
+308 232
+276 228
+284204
+268 232
+292 248
+260 256
+280 240
+308
+216
+285 232
+5
+332
+1
+368
+340
+320
+362
+8
+|
+Average
+|
+4
+a (i) State the name given to a group cells
+that work together to carry out a
+function.
+(1 mark)
+(ii) State the name of the structure that
+contains the alpha and beta cells in
+the pancreas.
+(1 mark)
+(iii) Outline the roles of the alpha and
+beta cells.
+(4 marks)
+b Describe the role of the red blood cells
+with regard to the function of the alpha
+and beta cells.
+(3 marks)
+c (i) State the name of the cell labelled A.
+(1 mark)
+(ii) State the function of cell A. (1 mark)
+(iii) Explain why cells, of which cell A is
+an example, are arranged in a different
+way to the alpha and beta cells.
+(5 marks)
+A student carried out an investigation to
+study the effect of caffeine on daphnia heart
+rate. The following procedure was followed:
+1 Daphnia, transparent aquatic organisms, of
+the same species and size were placed on ice for
+20 minutes before the experiment.
+A single daphnia was then placed in a
+beaker containing the solution under
+investigation for 5 minutes.
+3 A small quantity of cotton wool was placed
+on a microscope slide.
+4 A few drops of pond water were placed on the
+cotton wool on the microscope slide.
+5 The daphnia was then placed on a
+microscope slide using a piece of filter
+paper. A cover slip was not used.
+6 A cavity slide containing cold water was
+put under the microscope slide.
+7 The daphnia was viewed under a low
+power lens of light microscope focused on
+the heart.
+The number of heart beats every
+30 seconds was then recorded.
+9 This was repeated seven times for each
+concentration of caffeine.
+10 The same procedure was repeated for
+solutions with different concentrations of
+caffeine.
+The table shows the results that the student
+obtained.
+a Describe the significance of the terms in
+italics at each step in the procedure with
+regard to the following:
+(i) Reliability
+(3 marks)
+(ii) Experimental errors (3 marks)
+(iii) Ethics
+(2 marks)
+b Plot a graph using the results in the table
+(3 marks)
+c Describe the trends shown in the
+graph you have drawn for the different
+concentrations of caffeine. (3 marks)
+The standard deviation, calculated as the
+square root of the variance, is used in the
+t-test calculation to compare two sets of data.
+d Describe what standard deviation shows.
+(1 mark)
+The variance is calculated in the following way:
+Subtract the mean from each number in a
+column and square the difference. Add all of
+these squared differences together for each
+column and divide by n - 1 (one less than the
+number of results obtained). t is calculated
+using the following formula:
+x1 - x2 Where:
+X, is the mean of the first data set
+X, is the mean of the second
+data set
+S, is the standard deviation of the first data set
+S, is the standard deviation of the second
+data set
+N, is the number of elements in the first data set
+N, is the number of elements in the second
+data set
+e Calculate t for the 1% and 0.5% solutions
+of caffeine and state whether there is a
+significant difference between these two
+sets of results.
+(4 marks)
+1
+=-
+405
+HORMONAL COMMUNICATION
+14
+AUDITI.
+Adenylyl cyclase triggers the conversion of ATP into cyclic adenosine
+mono-phosphate (CAMP) on the inner surface of the cell membrane
+in the cytoplasm.
+The increase in CAMP levels activates specific enzymes called
+protein kinases which phosphorylate, and hence activate, other
+enzymes. In this example, enzymes are activated which trigger the
+conversion of glycogen into glucose.
+This model of hormone action is known as the second messenger model.
+The hormone is known as the first messenger (in this example,
+adrenaline) and CAMP is the second messenger. One hormone
+molecule can cause many CAMP molecules to be formed. At each
+stage, the number of molecules involved increases so the process is
+said to have a cascade effect (Figure 3).
+enzymes
+(8 molecules)
+CAMP
+(2 molecules)
+hormone
+(1 molecule)
+A Figure 3 Cascade effect
+Summary questions
+1 State and explain two physical responses which occur as a result of the
+'fight and flight' response.
+(2 marks)
+12 md
+2 Explain why people often feel cold in times of stress.
+3 Explain how the nervous and endocrine systems work together to
+enable the body to respond to danger.
+(6 marks)
+399
+14.6 Controlling heart rate
+Specification reference: 5.1.5
+The human heart beats at approximately 70 beats per minute at rest.
+However, when you exercise, or in times of danger, it is essential
+that the heart rate increases to provide the extra oxygen required for
+increased respiration.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the effects of hormones and
+nervous mechanisms on
+heart rate.
+Controlling heart rate
+Heart rate is involuntary and controlled by the autonomic nervous
+system.
+Synoptic link
+Look back at Topic 8.5, The heart
+to remind yourself of the heart's
+structure and the intrinsic
+rhythmicity of the heart.
+The medulla oblongata in the brain is responsible for controlling heart
+rate and making any necessary changes. There are two centres within
+the medulla oblongata, linked to the sinoatrial node (SAN) in the
+heart by motor neurones:
+one centre increases heart rate by sending impulses through the
+sympathetic nervous system, these impulses are transmitted by the
+accelerator nerve
+one centre decreases heart rate by sending impulses through the
+parasympathetic nervous system, these impulses are transmitted
+by the vagus nerve.
+Synoptic link
+Look back at Topic 13.6,
+Organisation of the nervous
+system to remind yourself of the
+two different functional systems
+of the autonomic nervous system
+- the parasympathetic and
+sympathetic nervous system.
+Which centre is stimulated depends on the information received by
+receptors in the blood vessels. There are two types of receptors which
+provide information that affects heart rate:
+• baroreceptors (pressure receptors) – these receptors detect changes
+in blood pressure. For example, if a person's blood pressure is low,
+the heart rate needs to increase to prevent fainting. Baroreceptors
+are present in the aorta, vena cava, and carotid arteries.
+chemoreceptors (chemical receptors) - these receptors detect
+changes in the level of particular chemicals in the blood such
+as carbon dioxide. Chemoreceptors are located in the aorta, the
+carotid artery (a major artery in the neck that supplies the brain
+with blood), and the medulla.
+Synoptic link
+Look back at Topic 7.4, Ventilation and
+gas exchange in other organisms
+to remind yourself of transport of
+carbon dioxide in the blood.
+Chemoreceptors
+Chemoreceptors are sensitive to changes in the pH level of the blood.
+If the carbon dioxide level in the blood increases, the pH of the blood
+decreases because carbonic acid is formed when the carbon dioxide
+interacts with water in the blood. If the chemoreceptors detect a
+decrease in blood pH, a response is triggered to increase heart rate -
+blood therefore flows more quickly to the lungs so the carbon dioxide
+can be exhaled.
+This process is summarised in Figure 2
+400
+14
+14.3 Regulation of blood glucose concentration
+B cells detect this rise in blood glucose concentration and respond by
+secreting insulin directly into the bloodstream.
+Virtually all body cells have insulin receptors on their cell surface
+membrane (an exception being red blood cells). When insulin binds
+to its glycoprotein receptor, it causes a change in the tertiary structure
+of the glucose transport protein channels. This causes the channels
+to open allowing more glucose to enter the cell. Insulin also activates
+enzymes within some cells to convert glucose to glycogen and fat.
+Insulin therefore lowers blood glucose concentration by:
+A Figure 1 Computer model showing
+the structure of a molecule of the
+hormone insulin. Insulin is a globular
+protein made up of 51 amino acids
+which are arranged into two chains
+increasing the rate of absorption of glucose by cells, in particular
+skeletal muscle cells
+increasing the respiratory rate of cells - this increases their need
+for glucose and causes a higher uptake of glucose from the blood
+increasing the rate of glycogenesis - insulin stimulates the liver
+to remove glucose from the blood by turning the glucose into
+glycogen and storing it in the liver and muscle cells
+increasing the rate of glucose to fat conversion
+inhibiting the release of glucagon from the a cells of the islets of
+Langerhans.
+Insulin is broken down by enzymes in the cells of the liver. Therefore,
+to maintain its effect it has to be constantly secreted. Depending on
+the food eaten, insulin secretion can begin within minutes of the food
+entering the body and may continue for several hours after eating.
+Synoptic link
+You will find out more about the
+structure and function of the
+liver in Topic 15.4, Excretion,
+homeostasis, and the liver.
+As blood glucose concentration returns to normal, this is detected by
+the B cells of the pancreas. When it falls below a set level, the B cells
+reduce their secretion of insulin. This is an example of negative feedback.
+Negative feedback ensures that, in any control system, changes are
+reversed and returned back to the set level.
+Role of glucagon
+Glucagon is produced by the a. cells of the islets of Langerhans in the
+pancreas. If the blood glucose concentration is too low, the a cells
+detect this fall in blood glucose concentration and respond by secreting
+glucagon directly into the bloodstream.
+Unlike insulin, the only cells in the body which have glucagon
+receptors are the liver cells and fat cells - therefore these are the only
+cells that can respond to glucagon.
+Glucagon raises blood glucose concentration by:
+Figure 2 Computer model showing
+the structure of glucagon. The secondary
+structure of the hormone as a coiled
+ribbon can be seen and the atoms it
+is made up of. Atoms are colour-coded
+spheres (carbon: grey, nitrogen: blue,
+and oxygen: red)
+glycogenolysis – the liver breaks down its glycogen store into
+glucose and releases it back into the bloodstream
+reducing the amount of glucose absorbed by the liver cells
+increasing gluconeogenesis - increasing the conversion of amino
+acids and glycerol into glucose in the liver.
+390
+14
+14.6 Controlling heart rate
+If blood pressure is too low, impulses are sent to the medulla oblongata
+centre which increases heart rate. The medulla oblongata sends impulses
+along sympathetic neurones to the SAN which increases the rate at
+which the heart beats. This increases blood pressure back to normal.
+Hormonal control
+Heart rate is also influenced by the presence of hormones. For
+example, in times of stress adrenaline and noradrenaline are released.
+These hormones affect the pacemaker region of the heart itself - they
+speed up your heart rate by increasing the frequency of impulses
+produced by the SAN. Look back at Topic 14.1, Hormonal control and
+Topic 14.5, Coordinated responses to remind yourself how adrenaline
+is released and its importance in the 'fight or flight' response.
+Monitoring heart rate O
+Heart rate can be determined by taking a pulse. Each time the heart beats a
+surge of blood travels around the body, which can be felt as a pulse in your
+blood vessels. The most common places to take a pulse are at the wrist
+(radial artery) or in the neck (carotid artery). The number of pulses felt per
+minute is equivalent to the number of times your heart beats per minute
+(bpm). Many people who exercise regularly and have a keen interest in
+monitoring their fitness levels wear a pulse monitor.
+A group of students wanted to investigate how their heart rate was affected
+by exercise (Table 1).
+1 Devise a practical procedure to collect these data.
+The following were collected from a sample of 10 students. The students'
+pulse rates were measured at rest, during exercise, and two minutes after
+completing exercise.
+Study tip
+You can find a full table of values
+of Spearman's rank correlation
+coefficient in the appendix.
+2 State why it was important for the students to know the resting pulse
+rates.
+3 a Calculate the mean resting heart rate of the students.
+b Calculate the standard deviation of the students' heart rate during
+exercise.
+02. Elx-x}
+Vn-1
+4
+Study tip
+Look back at Topic 10.6,
+Representing variation graphically,
+to see a worked example of how to
+calculate the standard deviation of
+a set of data, and how to calculate
+a Spearman's rank correlation
+coefficient.
+a Calculate the percentage increase in the average heart rate two
+minutes after exercise, compared with the resting heart rate.
+b Calculate the Spearman's rank correlation coefficient between
+the students' resting pulse rates, and their pulse rates
+during exercise.
+(6 marks)
+c Evaluate the strength of the correlation between the two
+sets of data.
+(2 marks)
+402
+HORMONAL COMMUNICATION
+14
+brain
+centre that increases
+heart rate
+centre that decreases
+heart rate
+medulla oblongata
+spinal cord
+pressure and chemoreceptors
+in wall of carotid artery
+- carotid arteries
+sympathetic nerve from
+centre that increases
+heart rate
+pressure and chemo
+receptors in aorta
+parasympathetic nerve
+from centre that decreases
+heart rate
+sinoatrial-
+node
+atrioventricular
+node
+aorta
+left atrium
+bundle of His
+right atrium-
+left ventricle
+right ventricle
+A Figure 1 Control of heart rate
+increased
+muscular/metabolic –
+activity
+more
+carbon
+dioxide
+produced
+by tissues
+from
+increased
+respiration
+blood pH
+is lowered
+centre in
+medulla
+oblongata that
+speeds heart
+rate,
+increases
+frequency of
+impulses
+to SAN
+via the
+sympathetic
+nervous system
+SAN
+increases
+heart rate
+increased
+blood
+flow removes
+carbon
+dioxide faster
+carbon
+dioxide
+level
+returns to
+normal
+Figure 2 Effects of exercise on cardiac output
+When the carbon dioxide level in the blood decreases, the pH of the blood
+rises. This is detected by the chemoreceptors in the wall of the carotid
+arteries and the aorta. This results in a reduction in the frequency of the
+nerve impulses being sent to the medulla oblongata. In turn, this reduces
+the frequency of impulses being sent to the SAN via the sympathetic
+nervous system, and thus heart rate decreases back to its normal level.
+Baroreceptors
+Baroreceptors present in the aorta and carotid artery wall detect changes
+in pressure. If blood pressure is too high, impulses are sent to the medulla
+oblongata centre which decreases heart rate. The medulla oblongata sends
+impulses along parasympathetic neurones to the SAN which decreases the
+rate at which the heart beats. This reduces blood pressure back to normal.
+401
+14.3 Regulation of blood glucose
+concentration
+Specification reference: 5.1.4
+During respiration the body uses glucose to produce ATP. To remain
+healthy it is important that the concentration of glucose in your blood
+is kept constant. Without control, blood glucose concentration would
+range from very high levels after a meal, to very low levels several
+hours later. At these very low levels cells would not have enough
+glucose for respiration. Blood glucose concentration is kept constant
+by the action of the two hormones - insulin and glucagon.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ how blood glucose
+concentration is regulated.
+Increasing blood glucose concentration
+Glucose is a small, soluble molecule that is carried in the blood
+plasma. Blood glucose is normally maintained at a concentration of
+around 90 mg cm- of blood. Blood glucose concentration can increase
+as a result of:
+Diet - when you eat carbohydrate-rich foods such as pasta and
+rice (which are rich in starch) and sweet foods such as cakes and
+fruit (which contain high levels of sucrose), the carbohydrates
+they contain are broken down in the digestive system to release
+glucose. The glucose released is absorbed into the bloodstream,
+and the blood glucose concentration rises.
+Glycogenolysis - glycogen stored in the liver and muscle cells is
+broken down into glucose which is released into the bloodstream
+increasing blood glucose concentration.
+Gluconeogenesis - the production of glucose from non-carbohydrate
+sources. For example, the liver is able to make glucose from glycerol
+(from lipids) and amino acids. This glucose is released into the
+bloodstream and causes an increase in blood glucose concentration.
+Decreasing blood glucose concentration
+Blood glucose concentration can be decreased by:
+Respiration - some of the glucose in the blood is used by cells to
+release energy. This is required to perform normal body functions.
+However, during exercise, more glucose is needed as the body
+needs to generate more energy in order for muscle cells to contract.
+The higher the level of physical activity, the higher the demand for
+glucose and the greater the decrease of blood glucose concentration.
+Glycogenesis - the production of glycogen. When blood glucose
+concentration is too high, excess glucose taken in through the diet
+is converted into glycogen which is stored in the liver.
+Study tip
+There are a lot of new terms in
+this topic - if you remember the
+root of the words it will help you
+remember the chemical process
+they are referring to:
+• lysis - means splitting
+neo - means new
+genesis - means birth/origin
+Therefore, glycogenolysis
+means the splitting of glycogen
+(to produce glucose) and
+gluconeogenesis means the
+formation of new glucose.
+Role of insulin
+Insulin is produced by the B cells of the islets of Langerhans in
+the pancreas. If the blood glucose concentration is too high, the
+389
+14
+HORMONAL COMMUNICATION
+Table 1
+Student
+Resting
+pulse/bpm
+Pulse rate during
+exercise / bpm
+Pulse rate after
+exercise / bpm
+62
+Synoptic link
+Look back at Topic 10.6,
+Representing variation graphically
+to see a worked example of how to
+calculate the standard deviation of
+a set of data.
+84
+57
+64
+89
+66
+AWNA
+84
+58
+101
+80
+74
+98
+75
+92
+72
+90
+600 V
+68
+65
+60
+64
+86
+68
+66
+67
+95
+94
+10
+75
+Summary questions
+1 Copy and complete the table to summarise the control of heart rate:
+Stimulus
+Nervous system
+involved
+vycin
+Receptor
+Effect on
+heart rate
+high blood pressure
+low blood pressure
+low blood CO,
+concentration
+high blood CO2
+concentration
+(4 marks)
+2 Explain why an athlete's heart rate may increase just before a race
+has begun.
+(2 marks)
+3 a Explain why blood pH values vary during exercise. (2 marks)
+b Explain why an increase in the pH of blood leads to a decrease
+in heart rate.
+(3 marks)
+403
+14
+Chapter 14 Practice questions
+7.57
+mean body mass
+prevalence (%)
+70-
+6.5
+6.0-
+5.5-
+mean body mass/Kg
+5.04
+diabetes
+4.5 -
+4.0 +
+1990
+1992
+1994 1996
+year
+1998
+2000
+Practice questions
+1 Insulin-dependent diabetes most often
+appears during childhood. It is caused by
+the autoimmune destruction of B cells in
+the pancreas. In this autoimmune response,
+specific white blood cells respond to proteins
+on the surface of the B cells.
+a (i) Name the hormone that will become
+deficient due to the autoimmune
+destruction of the B cells. (1 mark)
+(ii) Suggest what happens to the proteins
+on the cell surface membrane of the
+B cells to stimulate the autoimmune
+response.
+(1 mark)
+b In individuals with insulin-dependent
+diabetes, there is excessive secretion
+of glucagon. Increased glucagon
+concentration in the blood results in
+additional metabolic changes to those
+cause by damaged B cells. Describe
+the effects of increased glucagon
+concentration on the liver.
+ration on the liver.
+(3 marks)
+The graph shows the changes in blood
+glucose concentration following a meal
+in a diabetic individual and in a healthy
+individual.
+16.0
+a Explain why the data in the graph indicates
+a correlation and does not prove that
+obesity is a risk factor in diabetes. (2 marks)
+b Describe how the change in prevalence of
+diabetes changes with mean body mass in
+the graph.
+(3 marks)
+C Explain why the following symptoms may
+be seen in diabetics.
+(5 marks)
+sudden weight loss, increased need to urinate,
+dehydration
+d It is believed by some scientists that
+insulin resistance, the loss of sensitivity
+of receptors to insulin, is a result of an
+'energy surplus' within cells.
+Some drugs used in the treatment of type
+2 diabetes have been found to be inhibitors
+of ATP synthase of protein complexes in
+the electron transport chains.
+Suggest why this activity would lead to an
+increase in receptor sensitivity to insulin.
+(3 marks)
+The pancreas acts as both an endocrine and
+exocrine gland. The diagram shows the
+arrangement of some of the different types of
+cells present in the pancreas.
+diabetic
+individual
+blood glucose concentration/
+mmoldm-3
+3
+Fhealthy
+Eindividual
+0 30 60 90 120
+time after meal/min
+(i) Describe the changes in blood
+glucose concentration in the diabetic
+individual for the 120 minutes
+following the meal. (3 marks)
+(ii) Explain the changes in blood
+glucose concentration in the healthy
+individual for the 120 minutes
+following the meal. (3 marks)
+OCR Jan 2010
+One risk factor that increases the risk of
+developing Type 2 diabetes is obesity.
+The graph shows how prevalence of diabetes
+and mean body mass changed in one
+population from 1990 to 2000.
+alpha cell-
+2
+.
+red blood cells
+2
+beta cell
+404

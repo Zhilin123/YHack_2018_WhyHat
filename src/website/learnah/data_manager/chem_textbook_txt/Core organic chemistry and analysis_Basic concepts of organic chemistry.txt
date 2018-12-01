@@ -1,0 +1,1486 @@
+11.3 Representing the formulae of organic compounds
+Displayed formula
+A displayed formula shows the relative positioning of all of the atoms
+in a molecule and the bonds between them.
+Study tip
+When using the general formula for
+an alcohol you have to be careful-
+the general formula is C H2OH,
+but the molecular formula is
+CH2n+20.
+1-Bromobutane has the molecular formula C,H,Br. Its displayed
+formula is shown in Figure 2. Butanoic acid has the molecular
+formula C,H,0,. Its displayed formula is shown in Figure 3.
+HHHH
+—C—
+C—
+Br
+H-
+C-
+H
+H
+H
+O—
+H
+H H H H
+Figure 2 The displayed formula of
+1-bromobutane
+Figure 3 The displayed formula of
+butanoic acid
+Structural formula
+The structural formula uses the smallest amount of detail necessary
+to show the arrangement of the atoms in a molecule. It shows clearly
+which groups are bonded together. For example, the structural
+formula of butane, is CH CH CH CH, or CH (CH2)2CHz.
+Figure 4 shows three molecules that have the molecular formula
+C-H,, but have different structural formulae.
+H
+H
+H
+H
+H
+H CH3 HH
+4
+CH3 H
+—
+C
+—
+C
+—
+C
+—
+C
+—
+C
+—
+H
+H
+—
+C—
+C
+—
+C
+—
+C C
+- —
+H
+H—
+C
+—
+C
+—
+C
+—
+H
+H H H H H
+H H H H
+H CH3 H
+CH3CH2CH2CH2CH3
+(CH3)2CHCH2CH3
+C(CH3)4
+Figure 4 The displayed structures (top) and structural formulae (bottom) of three different molecules
+with molecular formula CH 12
+Skeletal formula
+A skeletal formula is a simplified organic formula. You remove:
+all of the carbon and hydrogen labels from carbon chains
+any bonds to hydrogen atoms.
+This leaves just a carbon skeleton and any functional groups.
+In skeletal formulae:
+a line represents a single bond
+an intersection of two lines represents a carbon atom
+the end of a line represents a -CH, group.
+180
+11.3 Representing the formulae
+of organic compounds
+Specification reference: 4.1.1
+Chemical formulae
+Different types of formula are used in organic chemistry. For
+example, in the previous topic some molecules were drawn as
+displayed formulae, with every atom and every bond shown, to give
+a clear picture of how the atoms are bonded together in a molecule.
+You already know about molecular and empirical formulae. In
+this topic you will learn how to show the structural, displayed, and
+skeletal formulae of molecules.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ general formula
+displayed formula
+structural formula
+→ skeletal formula.
+Molecular formula
+The molecular formula shows the number and type of atoms of each
+element present in a molecule. The molecular formula does not show
+how the atoms are joined together and different molecules can have
+the same molecular formula.
+Synoptic link
+You learnt how to calculate
+empirical and molecular formulae
+in Topic 3.2, Determination of
+formulae.
+A molecule of ethanol is shown in Figure 1. It contains two carbon
+atoms, six hydrogen atoms, and one oxygen atom. The molecular
+formula of ethanol is C
+HH
+Empirical formula
+The empirical formula is the simplest whole-number ratio of the atoms
+of each element present in a compound.
+H—
+C—
+C—
+0
+HH
+For example, the alkenes all have the same empirical formula CH,
+and so there will always be twice as many hydrogen atoms as carbon
+atoms in an alkene. Glucose has the molecular formula C,H,O, and
+therefore the empirical formula CH,O.
+A Figure 1 The displayed formula
+of ethanol
+General formula
+The general formula is the simplest algebraic formula for any
+member of a homologous series. You can use the general formula to
+generate the molecular formula for any member of that homologous
+series. Table 1 shows the general formulae of some homologous series.
+Table 1 The general formulae for
+some homologous series
+Homologous
+series
+General
+formula
+alkanes
+C H2n+2
+2 Worked example: General and molecular formulae
+Find the molecular formula of the carboxylic acid that contains
+six carbon atoms.
+Step 1: The general formula of carboxylic acids is C, H,,,
+(Table 1)
+Step 2: There are six carbon atoms so n = 6
+Step 3: Molecular formula = CH 02
+alkenes
+alcohols
+carboxylic acids
+C, H2n2OH
+C,H,O,
+C,H20
+ketones
+179
+BASIC CONCEPTS OF ORGANIC CHEMISTRY
+CH.CI
+CH3
+19 The skeletal formulae of some saturated
+hydrocarbons are shown below, labelled A-F.
+A
+CI
+isomer 1
+isomer 2
+(i) Draw skeletal formulae of three other
+structural isomers of C,H,Cl, that
+are chloroalkenes.
+(3 marks)
+(ii) Name isomer 1.
+(1 mark)
+15 a
+With the aid of examples, explain each
+of the following terms used in organic
+chemistry.
+(1) Electrophile;
+(ii) Nucleophile;
+(iii) Radical
+(3 marks)
+Write balanced equations to illustrate
+(i) addition;
+(ii) substitution
+(iii) elimination
+(iv) homolytic fission
+(4 marks)
+b
+a Some of the compounds A-F are alkanes.
+(i) What is the general formula of the
+alkanes?
+(1 mark)
+(ii) Which of the formulae, A-F, has a
+formula that does not fit the general
+formula of the alkanes? (1 mark)
+(iii) What is the molecular formula of an
+alkane with 16 carbon atoms??
+(1 mark)
+b Some of the structures are structural
+isomers of one another
+(i) What is meant by the term structural
+isomer?
+(1 mark)
+(ii) Which compounds are structural
+isomers of one another? (1 mark)
+20 The structure below is a naturally occurring
+alcohols.
+OH
+16 An organic compound of bromine, x, has
+a molecular mass of 136.9 and the following
+percentage composition by mass: C, 35.0%;
+H, 6.60%; Br, 58.4%
+a Calculate the empirical
+formula of X
+(2 marks)
+Show that the molecular formula
+of X is the same as the empirical
+formula of X.
+(1 mark)
+Draw all possible isomers of X, and
+name each one of them. (4 marks)
+17 Butan-1-ol C,H,OH has the structural
+formula CH,CH,CH,CH,OH. Give the
+following formulae for butan-1-ol.
+a empirical formula
+b general formula
+c displayed formula
+d skeletal formula
+(4 marks)
+18 A saturated hydrocarbon contains
+82.8% carbon and has a relative
+molecular mass of 58.
+Calculate the empirical and molecular
+formula of the hydrocarbon. (3 marks)
+a What is meant by the term unsaturated?
+(1 mark)
+b What is the molecular formula of these
+alcohols?
+(2 marks)
+189
+BASIC CONCEPTS OF ORGANIC CHEMISTRY
+77
+T
+Curly arrows and homolytic fission
+You now know that the movement of a pair of electrons is shown using an
+arrow with a full arrowhead. However, in some text books and on the Internet,
+you may see fish-hook arrows - arrows with half of an arrow head.
+A fish-hook arrow represents the movement of a single, unpaired electron
+in mechanisms involving radicals. In Figure 2, a single covalent bond in
+bromine is broken homolytically. Each atom takes one electron.
+Brº
++
+Brº
+Figure 2 In homolytic fission, fish-hook arrows can be
+used to represent the movement of an unpaired electron
+Draw the reaction mechanism for the homolytic fission of a
+carbon-hydrogen bond in methane.
+Types of reaction
+Addition
+In an addition reaction, two reactants join together to form one
+product.
+Synoptic link
+In the addition reaction shown in Figure 3, a molecule is added to
+the unsaturated alkene, breaking the double bond, to form a single
+saturated compound. In this reaction, but-2-ene and water add
+together to form a single product, butan-2-ol.
+You will meet important addition
+reactions when you study the
+chemistry of the alkenes in
+Chapter 13, Alkene, and the
+chemistry of the aldehydes and
+ketones in topic 26.1, Carbonyl
+compounds.
+H30
+CH3
+CH3 CH3
+C=C
++
+H20
+-
+H—
+C—
+C—
+H
+Synoptic link
+but-2-ene
+H OH
+butan-2-ol
+A Figure 3 An addition reaction of but-2-ene
+Substitution
+In a substitution reaction, an atom or group of atoms is replaced
+by a different atom or group of atoms. Figure 4 shows a substitution
+reaction of the haloalkane 1-bromopropane.
+Substitution reactions occur in
+the chemistry of the haloalkane
+functional group and in the
+reactions of benzene. You will meet
+these reactions later in your course,
+in Chapters 15, Haloalkanes, and
+chapter 25, Aromatic chemistry.
+H
+H
+H
+HH
+H—
+H
+C—
+C—
+C—Br
++
+.-H
+OH
+-
+H—
+C—
+C—C—OH
++
+.
+Br
+H
+H
+H
+H
+H
+1-bromopropane
+propan-1-ol
+A Figure 4 A substitution reaction of a haloalkane
+185
+BASIC CONCEPTS OF ORGANIC
+CHEMISTRY
+11.1 Organic chemistry
+Specification reference: 4.1.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ saturated and unsaturated
+hydrocarbons
+→ homologous series
+→ functional groups.
+What is organic chemistry?
+Organic chemistry was originally defined by the Swedish chemist Jöns
+Jacob Berzelius as the chemistry of compounds derived from living
+systems. Today about sixteen million organic compounds are known,
+which is surprising since organic chemistry is only about 200 years old.
+Before 1828, scientists did not believe it was possible to make organic
+compounds from inorganic compounds. Many experiments were carried
+out in attempts to synthesise organic compounds but all ended in failure.
+In 1828, the German chemist Friedrich Wöhler accidentally synthesised
+urea (Figure 1) whilst attempting to prepare ammonium cyanate from
+silver cyanide and ammonium chloride. This was the first organic
+synthesis carried out from inorganic compounds dispelling the myth
+that only living organisms could produce organic compounds.
+C-NH2
+H2N
+A Figure 1 The chemical structure
+of urea, a compound found in living
+organisms. It is a common fertiliser
+that was the first organic material
+synthesised in the laboratory
+Modern organic chemistry studies the structure, properties, composition,
+reactions, and preparation of carbon-containing compounds. Organic
+compounds are vital in every area of modern life: pharmaceuticals,
+detergents, dyes and pigments, cosmetics, plastics, and agricultural
+chemicals are all organic compounds - they all contain the element
+carbon. Today, the vast majority of the organic materials used are
+produced from fractions of crude oil as fuels in domestic central heating
+systems, for electrical generation, and to power many forms of transport.
+Synoptic link
+You have met the idea of a covalent
+bond as a shared pair of electrons
+in Topic 5.3, Covalent bonding.
+Why is carbon so special?
+Carbon is in Group 14(4) of the periodic table, with four electrons
+in its outer shell. Each carbon atom can form four covalent bonds
+to other atoms. These can be single, double, and even triple bonds.
+Carbon atoms can bond to other carbon atoms to form long chains.
+Hydrocarbons
+A hydrocarbon is a compound containing carbon and hydrogen
+only. The hydrocarbons methane, but-2-ene, and propyne are shown
+in Figure 3.
+H3CH
+H—
+C—
+H
+=
+C
+H
+-CEC—C—H
+CH3
+H
+A Figure 2 Organic molecules are
+responsible for many of the vivid colours
+found in dyes and pigments
+methane
+but-2-ene
+propyne
+A Figure 3 The structures of the hydrocarbons methane, but-2-ene, and propyne
+172
+11.5 Introduction to reaction mechanisms
+Synoptic link
+You will meet this elimination
+reaction when you study the
+chemistry of alcohols in Topic 14.2,
+Reactions of alcohols.
+Elimination
+An elimination reaction involves the removal of a small molecule
+from a larger one. In an elimination reaction, one reactant molecule
+forms two products. An example of an elimination reaction is shown
+in Figure 5.
+HHH
+H3CH
+acid catalyst
+H—
+C—
+C—
+C—OH
+H20
+HHH
+propan-1-ol
+propene
+Figure 5 The elimination of a water molecule from an alcohol
+Summary questions
+1 Define the term heterolytic fission.
+(1 mark)
+2 Define the terms radical and homolytic fission. Illustrate your
+answer by showing the homolytic fission of the chlorine-chlorine
+bond in a chlorine molecule.
+(3 marks)
+3 Classify each of the following reactions as addition, substitution, or
+elimination.
+HHH
+H
+H
+H
+H—
+th-
+C—
+C—
+C-
+- 1
++ OH-
+H—
+C—
+C—
+C—
+OH
++
+F
+HH
+HH
+(1 mark)
+HH
+C=
+C—
+C-
+H
++
+HBr
+-
+H—C—C—
+H
+H
+H
+Br
+H
+(1 mark)
+I-
+H
+H2C
+H2SO4
+-
+C-
+=
+H
+C
++ H2O
+H
+OH
+H
+H -X-
+tot.-t
+(1 mark)
+HCN H
+HC-
+—H
++
+HCN
+H—
+C—
+C—
+C-
+HÖH
+HOH H
+(1 mark)
+186
+11.2 Nomenclature of organic
+compounds
+Specification reference: 4.1.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the terms alkyl, aliphatic,
+alicyclic, and aromatic
+► the general formula of a
+homologous series
+→ IUPAC rules of nomenclature
+for organic compounds.
+Naming hydrocarbons
+As there are so many organic compounds a universal system of
+naming organic molecules is needed to keep track of them all. IUPAC
+is an organisation that was founded in 1919 by chemists from industry
+and education who recognised the need for standardisation of the
+names of compounds. This means that chemists across the globe can
+communicate clearly.
+Hydrocarbons can be classified as:
+aliphatic - carbon atoms are joined to each other in unbranched
+(straight) or branched chains
+alicyclic - carbon atoms are joined to each other in ring (cyclic)
+structures
+aromatic - some or all of the carbon atoms are found in a
+benzene ring.
+H CHa HHH
+—C—CH
+H
+H
+H
+H
+H
+There are three homologous series of aliphatic hydrocarbons that
+you should be aware of.
+aliphatic
+alkanes - containing single carbon-to-carbon bonds
+alkenes - containing at least one double carbon-to-carbon bond
+alkynes - containing at least one triple carbon-to-carbon bond
+I
+I
+HH
+alicyclic
+Stem, prefix, and suffix
+The stem of the name indicates the number of carbon atoms in the
+longest continuous chain in the molecule.
+A prefix can be added before the stem, often to indicate the
+presence of side chains or a functional groups.
+• A suffix is added after the stem to indicate functional groups.
+aromatic
+A Figure 1 An example of an aliphatic,
+alicyclic, and aromatic hydrocarbon
+Naming aliphatic alkanes
+Follow these steps when naming alkanes:
+1 All alkanes have the suffix -ane.
+2 Identify the longest continuous chain of carbon atoms (the parent'
+chain) and name it from Table 1.
+Identify any side chains attached to the parent chain. These
+side chains are known as alkyl groups. An alkyl group has a
+hydrogen atom removed from an alkane parent chain. The name
+of the alkyl group (from Table 1) is added as a prefix to the name
+of the parent chain.
+4 Add numbers before any alkyl groups to show the position of the
+alkyl groups on the parent chain.
+Synoptic link
+The chemistry of benzene and
+other aromatic compounds will be
+covered in Chapter 25, Aromatic
+chemistry.
+174
+Chapter 11 Practice questions
+H
+C
+H
+CH CI
+CSC
+C=
+C
+isomer 1
+isomer 2
+a Answer the following questions by
+referring to the compounds A-F.
+(i) What is the molecular formula
+of compound D?
+(1 mark)
+(ii) What is the empirical formula
+of compound C?
+(1 mark)
+(iii) What is the name of
+compound E?
+(1 mark)
+(iv) Which two compounds are structural
+isomers of each other?
+(v) Draw the skeletal formula
+for compounds C and F. (1 mark)
+10 This question is about cyclic organic
+compounds. The table shows some
+information about cycloalkanes.
+(ii) Draw the other three structural
+isomers of C,H,C1, that are
+alkenes.
+(3 marks)
+(iii) Name isomer 1
+(1 mark)
+(iv) Draw one structural isomer of
+C,H,Cl that is not an alkene. (1 mark)
+2812 June 2009 Q2
+Cycloalkane
+Skeletal
+formula
+Boiling
+point/°C
+cyclopropane
+-33
+12 Compound X is a hydrocarbon containing
+85.7% C by mass.
+a (i) Calculate the empirical formula
+of compound X.
+(2 marks)
+(ii) The relative molecular mass
+of compound X is 56.
+Find the molecular formula. (1 mark)
+13 Decane has the formula, CH,
+State what is meant by each of the following
+terms. Use decane to illustrate your answers.
+a empirical formula;
+b structural formula
+c displayed formula
+d skeletal formula
+(8 marks)
+cyclopentane
+49
+cyclohexane
+81
+a These cycloalkanes are members of the
+same homologous series and have the
+same general formula.
+(i) What is meant by the term
+homologous series? (2 marks)
+(ii) State the general formula for
+these cycloalkanes.
+(1 mark)
+OCR F322 June 2014 Q1(a)(i)(ii)
+11 The chlorinated alkene, C,H,C1,, has five
+structural isomers that are alkenes and two
+other structural isomers that are not alkenes.
+a (i) What is meant by the term
+structural isomers?
+(1 mark)
+Two of the structural isomers of
+CH,Cl, are drawn below.
+14 Compound G is a chloroalkane with the
+percentage composition by mass: C, 24.7%;
+H, 2.1%; CI, 73.2%.
+a (i) Calculate the empirical formula
+of compound G. Show your
+working
+(2 marks)
+(ii) The relative molecular mass of
+compound G is 145.5.
+Show that the molecular formula
+is C,H,CI.
+(1 mark)
+Compound G is one of six possible
+structural isomers of C,H,Cl, that
+are chloroalkenes.
+Two of these isomers are shown below as
+isomer 1 and isomer 2.
+188
+11
+BASIC CONCEPTS OF ORGANIC CHEMISTRY
+Practice questions
+1 Draw the displayed formula of:
+a 2-bromobutane
+b 2,3-dimethylhexane
+c octane-2,5-diol
+d 2,2-dichloro-3-methylhexane
+e 2-methylbut-2-ene
+2 Name each of the following
+molecules.
+a H H H H
+(1 mark)
+(1 mark)
+(1 mark)
+(1 mark)
+(1 mark)
+6 State the molecular formula of the following.
+a methane b hex-l-ene
+c ethane d heptan-1-ol (4 marks)
+7 Describe the difference between homolytic
+and heterolytic fission, using suitable
+examples.
+(4 marks)
+What is the molecular formula of the
+following?
+a nonane;
+b octan-4-ol
+c 3-methylhexan-2-ol
+(3 marks)
+9 This question is about the compounds
+A-F below:
+A H
+B H H H H
+LH
+—C— C— OH
+(4 marks)
+HC-CC-
+—C—
+CI
+H
+H
+b
+H
+H
+H
+H
+H—
+C—
+C—
+C—
+C—
+C—
+H
+H
+H
+C
+—
+C
+À
+H.
+HHHH
+OH
+HHH
+H
+—
+C—
+C—
+C—
+OH
+CH3 H
+C
+H
+H
+H
+H
+CICI
+HO—
+C
+-C-
+OH
+H—
+C—
+C—
+H.
+H
+H
+H
+H
+D
+H
+H
+H
+H
+H—
+C—
+C—
+C—
+C—
+H
+H
+H
+H
+H
+F
+H
+H
+H
+H
+H —
+C—
+C—
+C—
+C—
+H
+CICI
+3 Define each of the following terms and give
+an example to illustrate your answer.
+a Hydrocarbon
+(1 mark)
+b Functional group
+(1 mark)
+C Homologous series
+(2 marks)
+4 Draw all the structural isomers of
+formula C H 4:
+(5 marks)
+5 Name the following straight-chain molecules.
+a CH, CH,CH,OH
+b CH,CH,CH OH
+C CH,CHOHCH,CH
+d CH CH CH=CH,
+e CH-CH2CH=CHCH,
+f CH CH CHCICH OH
+(6 marks)
+HH OHH
+'
+'H
+H
+187
+BASIC CONCEPTS OF ORGANIC CHEMISTRY
+17
+Saturated and unsaturated
+Hydrocarbons can be saturated or unsaturated.
+A saturated hydrocarbon has single bonds only, as shown in the
+structure of methane.
+An unsaturated hydrocarbon contains carbon-to-carbon multiple
+bonds, as shown in the structures but-2-ene and propyne.
+Homologous series
+Carbon compounds are so numerous that it is convenient to organise
+them into families of compounds with similar chemical structures
+and properties. A homologous series is a family of compounds with
+similar chemical properties whose successive members differ by the
+addition of a -CH2-group.
+The simplest homologous series is the alkanes. Alkanes contain
+single carbon-to-carbon bonds. The first three members of the
+homologous series of the alkanes are shown in Figure 4.
+HH
+I
+HHH
+H—C—
++
+H
+H
+H
+C—C—H
+H
+—
+HH
+C—
+C-
+-C-
+H
+Study tip
+H
+H
+H
+H
+H
+methane
+ethane
++ CH2
++ CH2
+propane
+C3H8
+Remember that the bond angles
+around carbon in an alkane is
+109.5° not 90° as suggested by
+displayed formula.
+CH4
+C2H6
+A Figure 4 The first three members of the alkanes homologous series - methane,
+ethane, and propane
+Functional groups
+A functional group is the part of the organic molecule that is largely
+responsible for the molecule's chemical properties. In addition to
+hydrogen, carbon can bond to other elements, including oxygen,
+nitrogen, and halogens. This results in the formation of molecules
+containing different functional groups, such as alcohol and amine
+groups (Figure 5).
+Summary questions
+1 Explain what is meant by the
+term functional group.
+(1 mark)
+HHH
+H
+H
+H
+H-
+11 HR
+C-
+-C-
+-
+C-
+H
+OH
+H
+H
+H
+H
+2 Define the term hydrocarbon.
+(1 mark)
+3 C,H,OH, C,H,OH, and C,H,OH
+are all members of the same
+homologous series. Deduce the
+formula of the next member of
+the homologous series.
+(1 mark)
+alcohol -OH functional group
+amine -NH2 functional group
+A Figure 5 Carbon can form bonds to oxygen in alcohols and to nitrogen in amines
+4 Give three reasons why carbon
+forms a large number of
+compounds. (3 marks)
+173
+11
+BASIC CONCEPTS OF ORGANIC CHEMISTRY
+Naming compounds containing functional groups
+The same basic principles apply as for naming alkanes.
+1 Identify the longest unbranched chain of carbon atoms. The stem
+is now the name of the corresponding alkane.
+2 Identify any functional groups and any alkyl side chains, and select
+the appropriate prefixes or suffixes for them.
+3 Number any alkyl groups and functional groups to indicate their
+position on the longest unbranched chain.
+Table 2 lists some common functional groups.
+Table 2 Common functional groups
+Type of
+compound
+Functional group
+Prefix
+Suffix
+alkene
+-ene
+Study tip
+Remove the final letter -e from the
+alkane stem when the suffix starts
+with a vowel, propane-1-ol becomes
+propan-1-ol and hexane-2-one
+becomes hexan-2-one.
+alcohol
+-OH
+-o/
+hydroxy-
+chloro-bromo-jodo-
+haloalkane
+-CI -Br-
+aldehyde
+- CHO
+Keep the final letter -e of the
+alkane stem when the suffix starts
+with a consonant-ethanenitrile.
+ketone
+-C(CO)C-
+-one
+carboxylic
+acid
+-COOH
+-oic acid
+ester
+-COOC-
+-oate
+acyl chloride
+-COCI
+-oyl chloride
+amine
+-NH,
+amino
+-amine
+nitrile
+-CN
+-nitrile
+O Worked example: Naming alcohols
+What is the IUPAC name or the compound in figure 6?
+H
+ISO
+Step 1: Identify the functional group and suffix.
+H
+-
+C-
+Alcohol functional group present, the suffix is-ol.
+OH
+H
+H
+Step 2: Identify the longest chain of carbon atoms.
+A Figure 6
+The longest chain contains four carbon atoms, the stem is butan-.
+177
+BASIC CONCEPTS OF ORGANIC CHEMISTRY
+77
+Isomers with different functional groups
+Sometimes two molecules containing different functional groups
+have the same molecular formula. Aldehydes and ketones with the
+same number of carbon atoms have the same molecular formulae.
+The molecular formula C H O could represent either the aldehyde,
+propanal, or the ketone, propanone (Figure 4).
+H OH
+H-
+H—
+C—
+C—
+C—
+H
+propanal, CH3CH2CHO
+propanone, CH3COCH3
+A Figure 4 Propanal and propanone are structural isomers of C H20
+Detecting isomerism by smell
+Two of the structural isomers of C, H, O are linalool
+and geraniol. Both isomers are unsaturated alcohols.
+They have similar chemical properties and are both used
+in perfumes. Linalool has the characteristic smell of
+lavender, whereas geraniol smells of roses (Figure 5).
+The systematic names for linalool and geraniol are shown
+below.
+linalool 3,7-dimethylocta-1,6-dien-3-ol
+Figure 5 Linalool has the characteristic smell of lavender,
+whereas geraniol smells of roses
+geraniol 3,7-dimethylocta-2,6-dien-1-ol
+You can see how adapted your scent buds in your
+nose are to detecting small differences in chemical
+compounds.
+Draw out the skeletal formula of these two isomeric
+alcohols.
+Summary questions
+1 Write the structural formulae for the structural isomers of following:
+a CH UH
+(1 mark)
+b CHCI
+2 Draw the three branched structural isomers with the molecular
+formula CH10
+(3 marks)
+3 Draw the two possible structural isomers of a molecule with molecular
+formula C,H,O, that contains a carboxylic acid group. Name both
+of the isomers.
+(4 marks)
+4 A compound with a molar mass of 72.0 g mol-1 is composed of 66.63%
+C, 11.18% H, and 22.19% O. This information leads to three possible
+structural isomers that contain a carbon to oxygen double bond.
+Draw the skeletal formula of these three isomers.
+(5 marks)
+183
+11.5 Introduction to reaction
+mechanisms
+Specification reference: 4.1.1
+Types of bond fission
+A covalent bond is defined as a shared pair of electrons between two
+atoms. When a chemical reaction takes place, bonds in the reactants
+break and new bonds are formed in the products. Covalent bonds
+can be broken by either homolytic fission or heterolytic fission.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ homolytic and heterolytic
+bond fission
+→ curly arrows and reaction
+mechanisms
+addition, substitution, and
+elimination reactions.
+Homolytic fission
+When a covalent bond breaks by homolytic fission, each of the bonded
+atoms takes one of the shared pair of electrons from the bond.
+•
+Each atom now has a single unpaired electron.
+An atom or groups of atoms with an unpaired electron is called a
+radical.
+Synoptic link
+You will study homolytic fission
+reactions and radicals in more
+depth in Chapter 12.
+The homolytic fission of the carbon-carbon bond in ethane is shown
+in the equation below:
+H,C-CH, H,C• + .CH,
+radicals
+Heterolytic fission
+When a covalent bond breaks by heterolytic fission, one of the bonded
+atoms takes both of the electrons from the bond.
+The atom that takes both electrons becomes a negative ion.
+The atom that does not take the electrons becomes a positive ion.
+The heterolytic fission of the carbon-chlorine bond in chloromethane,
+CH,CI, is shown in the equation below.
+H,C-Cl → H,C+ + Cl-
+ions
+Organic reaction mechanisms
+An equation tells you about the reactants, products, and stoichiometry
+of a reaction, but it does not provide any information about how
+the reaction takes place. This process is known as the reaction
+mechanism.
+heterolytic fission
+Curly arrows
+In a reaction mechanism, curly arrows are used to show the
+movement of electron pairs when bonds are being broken or made.
+The heterolytic fission of a carbon-chlorine bond in a haloalkane is
+shown in Figure 1. Both the bonded electrons go to the chlorine atom
+to form a positive ion and a negative ion.
+A Figure 1 Curly arrow showing the
+movement of a pair of electrons in
+heterolytic bond fission
+184
+11.2 Nomenclature of organic compounds
+Step 3: Identify which carbon atom the functional group is on.
+The-OH group is on carbon 2
+Step 4: Combine the suffix, and stem to name the compound.
+The name of the compound is butan-2-ol.
+3) Worked example: Naming aldehydes
+HHH
+What is the IUPAC name of the compound in Figure 7?
+H— C— C— C
+Step 1: Identify the functional group and suffix.
+Aldehyde functional group present, the suffix is -al.
+HH
+Step 2: Identify the longest chain of carbon atoms.
+A Figure 7 Propanal
+The longest chain contains 3 carbon atoms, the stem is propan-.
+Step 3: Combine the suffix and stem to name the compound. Aldehydes do not need numbers
+to show the position of the carbonyl group. It is always on position 1.
+The name of the compound is propanal.
+H CH3 H H
+O Worked example: Naming multiple functional groups
+H C- C- C- Ć - H
+What is the IUPAC name of the compound in Figure 8?
+Step 1: Identify the longest chain of carbons.
+H CIHH
+The longest chain contains 4 carbon atoms, the stem is butan- A Figure 8 2-chloro-2-methylbutane
+Step 2: Identify the functional groups present, which carbon atom they are on, and the prefixes.
+Halogen present on carbon 2, the prefix is 2-chloro
+Methyl group on carbon 2, the prefix is 2-methyl
+Step 3: Combine the stem and the prefixes to name the compound. Remember side chains are named
+in alphabetical order.
+The name of the compound is 2-chloro-2-methylbutane.
+Summary questions
+1 State the functional group in each of the following molecules.
+CH CH3 HH
+H
+Br
+H
+I-
+H
+H
+C
+—
+C—
+CI
+H—
+C—
+C—
+C—
+H
+H—
+C—
+C—
+C—
+C—
+H
+H-C
+C
+-
+C—
+C—
+H
+(1 mark)
+(1 mark) HH
+CHH
+mark)
+Br
+(1
+2 Name each of the molecules in 1
+(4 marks)
+3 Draw the structures of each of the following molecules:
+a 2,2-dimethylpentane
+(1 mark)
+C 4-hydroxypentan-2-one
+(1 mark)
+e 1-chloro-2-methylcyclohexane (1 mark)
+b
+d
+f
+2-chloro-3-methylpent-1-ene
+3-chloropentanoic acid
+2-chloro-3-methylbutanal
+(1 mark)
+(1 mark)
+(1 mark)
+178
+11.4 Isomerism
+Specification reference: 4.1.1
+The same molecular formula can often apply to different compounds.
+Different compounds with the same molecular formula are known
+as isomers. There are several types of isomers. This topic looks at
+structural isomerism.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+structural isomerism
+► determination of possible
+structural formulae from a
+molecular formula.
+Structural isomerism
+Structural isomers are compounds with the same molecular
+formula but different structural formulae.
+Many examples of structural isomerism occur in the alkane
+homologous series. Different structures of C,H,, were shown in
+Figure 4 in Topic 11.3. Similarly, the molecular formula C,H, does not
+unambiguously identify the structure of the molecule. There are two
+possible structural isomers that can be drawn for C H (Figure 1).
+H
+HHH
+HHH
+"11 1111111
+-C—
+C
+—
+C
+—
+H
+H-CC-CC -
+H
+H—
+C—
+C
+—
+C
+-
+H
+CIH
+H
+1-chloropropane
+H H H H
+CH3 H
+CH3CH2CH2CH3
+CH3CH(CH3)CH3
+Figure 1 Butane and 2-methylpropane are structural isomers and have the same
+molecular formula, C4H10
+HHH
+H—
+C—
+C
+—
+C—
+H
+H
+CI
+H
+2-chloropropane
+A Figure 2 The two structural isomers
+of CzH_CI
+Isomers with the same functional group
+In compounds containing a functional group, the functional group
+can be at different positions along the carbon chain. The two possible
+structural isomers of C,H,Cl are shown in Figure 2.
+B Worked example: Branching alcohols
+Draw the skeletal formulae of the four structural isomers that are
+alcohols and have the molecular formula C,H,0.
+Remember that structural isomers can be formed by changing
+both the position of the functional group and the branching of
+the carbon chain.
+Step 1: Draw out the different ways that four carbons can be
+connected in aliphatic chains.
+Step 2: Add the -OH group in different positions to create all the
+possible isomers that are alcohols (Figure 3).
+OH
+Synoptic link
+The four isomers of C,H,O will be
+important later in your study of
+organic chemistry when you come
+to look at the classification of the
+alcohols (Topic 14.1, Properties
+of alcohols) and their oxidation
+reactions (Topic 14.2, Reactions
+of alcohols).
+VOH
+L
+on
+Xose
+Figure 3 The structural
+isomers of molecular formula
+CH 0 that are alcohols
+to the
+promise
+OH
+182
+11.2 Nomenclature of organic compounds
+The longest chain contains six carbons so the stem is hex-.
+Hu 1+2
+H
+CH3 C2H5 H
+H
+H
+There are three side chains, methyl groups on carbon 2 and carbon
+4 and an ethyl group on carbon 3. The side chains are ordered
+alphabetically so ethyl comes before methyl
+H
+H
+H
+CH3 H
+H
+The compound is called 3-ethyl-2,4-dimethylhexane.
+H
+CH3 C2H5 H
+H
+H
+Naming alicylic alkanes
+For cyclic alkanes, the same rules apply as when naming aliphatic
+alkanes. The prefix cyclo- in front of the stem is used to show that
+the carbon atoms are arranged in a ring structure.
+H H H CH3 # #
+A Figure 3 3-ethyl-2,4-dimethylhexane
+O Worked example: Naming alicyclic alkanes
+How do you work out the IUPAC name of the compound in
+Figure 4?
+Step 1: Identify the longest continuous chain of carbon atoms.
+There are five carbon atoms in the ring structure; the stem is pent-.
+HH
+Figure 4 Cyclopentane
+Step 2: Add the prefix cyclo-.
+The compound is called cyclopentane.
+Study tip
+As you get used to naming
+molecules, you won't need to go
+follow a step-by-step procedure.
+Naming alkenes
+Alkenes are named using the same rules as for alkanes, except the
+suffix is -ene. The position of the C=C bond in the chain must be
+stated for alkenes that have four or more carbon atoms in the longest
+chain.
+I
+—
+O Worked example: Naming alkenes
+How do you work out the IUPAC name of the compound in
+Figure 5?
+HH
+24C
+Step 1: Identify which suffix to use.
+HHH
+The compound is an alkene and the suffix is -ene.
+A Figure 5 Pent-2-ene
+Step 2: Identify the longest continuous chain of carbon atoms.
+There are five carbon atoms in the chain so the stem is pent-.
+Step 3: Identify where the double bond is.
+The double bond is between carbons 2 and 3. Only the smaller
+number is needed to indicate the position of the double bond, so
+we use 2- only.
+Step 4: Combine the suffix, stem, and position of the double
+bond to name the compound.
+The compound is called pent-2-ene.
+176
+BASIC CONCEPTS OF ORGANIC CHEMISTRY
+77
+CHA
+Table 1 The names of the first ten alkanes and their alkyl groups
+Number of
+Stem Suffix Parent alkane Alkyl group
+carbon atoms
+meth-
+-ane
+methane
+methyl CH
+eth -ane ethane CHE ethyl CH
+prop -ane propane CHE propyl CH2
+but -ane butane
+butyl CH
+pent -ane pentane C5H12 pentyl
+hex -ane hexane CHA hexyl CHIE
+hept -ane heptane CHE heptyl C,HS
+-ane
+octane C.H octyl CH,7
+non -ane nonane C,H20 nonyl C,H,9
+10 dec- ane decane CH22 decyl CH2
+CAH 10
+C.H11
+oct-
+Study tip
+You should be able to name the
+first ten alkanes and alkenes.
+H CH3 HH
+C
+H CH3 HH
+Figure 2 2,2-dimethylbutane
+O Worked example: Naming branched alkanes
+How do you work out the IUPAC name of the compound in Figure 2?
+Step 1: Identify which suffix to use.
+The compound is an alkane so the suffix is -ane.
+Step 2: Identify the longest continuous chain of carbon atoms
+The longest continuous chain contains four carbon atoms so the
+stem name is but-.
+Step 3: Identify any side chains and which number carbon the side
+chains are on.
+There are two side chains - each is a methyl group.
+The side chain can be considered to be on carbon 2 or carbon 3,
+depending on which end the counting starts from (Figure 2). When
+naming compounds, always use the lowest combination of numbers
+possible, so use 2- instead of 3-.
+Step 4: Combine the suffix, stem, and side chains to name the
+compound.
+When two or more side chains are the same, the prefixes di-, tri-, or
+tetra- are used, corresponding to two, three, or four of the same side
+chain respectively.
+The compound is 2,2-dimethylbutane.
+Sometimes it is difficult to identify the longest chain. When there are
+two or more possible chains of the same length in a molecule,
+the chain with most branches is considered the longest chain.
+Figure 3 shows a molecule that seems to have two different chains
+containing six carbon atoms, coloured pink and blue. The pink chain
+has three branches but the blue chain only has two. So, the pink chain
+is the parent chain.
+175
+BASIC CONCEPTS OF ORGANIC CHEMISTRY
+The displayed and skeletal formulae of 2-methylhexane are shown
+in Figure 6.
+I
+I
+H
+CH3 H
+H
+H
+H
+I
+I
+H—
+C—
+C—
+C—
+C—
+C—
+C—
+H
+I
+H
+H
+H
+H
+H
+H
+A Figure 6 The displayed (left) and skeletal (right) formulae of 2-methylhexane
+I
+I
+Cyclic and aromatic compounds
+One of the most common uses of skeletal formulae is in representing
+alicyclic and aromatic compounds, such as cyclohexane, cyclohexene,
+and benzene (Figures 7 and 8). The skeletal formula
+of benzene, C H, can be represented in two different ways.
+H
+HH
+Figure 7 The displayed and skeletal
+formulae of cyclohexane (top) and
+cyclohexene (bottom)
+Molecules containing functional groups
+When functional groups are present in a molecule, they must be
+included in the skeletal formula.
+In Figure 9 the skeletal formula for 2-chlorobut-l-ene is shown on the
+left. The double bond between carbon atoms 1 and 2 is represented by
+two parallel lines. The chlorine atom is shown on carbon 2, and the
+carbon and hydrogen atoms in the carbon skeleton are unlabelled.
+In Figure 9 the skeletal formula on the right is 2-methylpentan-3-one.
+Notice how the ketone functional group and the methyl group are
+represented in a skeletal formula.
+A Figure 8 Skeletal formulae showing
+the two representations of benzene
+Synoptic link
+You will learn the reasons behind
+these two representations of
+benzene when you study the
+physical properties and chemical
+reactions of aromatic compounds
+in Chapter 25, Aromatic chemistry.
+A Figure 9 The skeletal formulae of 2-chlorobut-1-ene (left) and
+2-methylpentan-3-one (right)
+Summary questions
+1 Deduce the empirical and molecular formulae of the
+following molecules:
+a hexanoic acid
+(1 mark)
+b benzene
+(1 mark)
+C HOCH,CH, OH
+(1 mark)
+d 2,3-dichlorobutane
+(1 mark)
+2 Draw the two possible displayed formulae for
+the molecules with the molecular formula C H :
+Write out structural formulae for these two molecules.
+(4 marks)
+3 Draw the skeletal formulae of the following molecules:
+a the molecule with molecular formula C,H, that
+contains only two branches, methyl groups on
+carbon 2 and 3
+(1 mark)
+b a branched-chain alcohol with molecular formula
+C,H,O where the alcohol group is not on an
+end carbon
+(1 mark)
+c a molecule with empirical formula C, Hcontaining
+one side chain and a benzene ring (1 mark)
+11
+181

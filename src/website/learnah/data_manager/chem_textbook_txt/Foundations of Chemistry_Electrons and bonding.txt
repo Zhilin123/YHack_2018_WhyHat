@@ -1,0 +1,1157 @@
+5.3 Covalent bonding
+Specification reference: 2.2.2
+Covalent bonding
+Covalent compounds and molecules
+Covalent bonding is the strong electrostatic attraction between a
+shared pair of electrons and the nuclei of the bonded atoms. Covalent
+bonding occurs between atoms in:
+non-metallic elements, for example, H,
+• compounds of non-metallic elements, for example, H,0 and CO2
+polyatomic ions, for example, NH,*.
+For covalent bonding, the key feature is the sharing of a pair of electrons
+between the two atoms. The atoms are bonded together in a single
+unit - a small molecule (e.g., H,), a giant covalent structure (e.g., SiO,),
+or a charged polyatomic ion (e.g., NH,+). This is very different from the
+model of electron transfer to form separate ions in ionic bonding.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ single covalent bonding
+→ multiple covalent bonding
+→ dative covalent (coordinate)
+bonding
+average bond enthalpy.
+The covalent bond
+Orbital overlap
+A covalent bond is the overlap of atomic orbitals, each containing one
+electron, to give a shared pair of electrons (Figure 1).
+Hig)
++
+H(g)
+→
+H2(g)
+A Figure 1 Overlap of the two 1s orbitals of two hydrogen atoms to form a hydrogen molecule
+The shared pair of electrons is attracted to the nuclei of both the
+bonding atoms.
+The bonded atoms often have outer shells with the same electron
+structure as the nearest noble gas.
+ionic
+Na+ ion attracts in all
+directions in three
+dimensions
+(Na
+A covalent bond is localised
+In Topic 5.2, you saw that an ion attracts oppositely charged ions in
+all directions, resulting in a giant ionic lattice structure containing
+many billions of ions.
+Na+)
+A covalent bond is very different. The attraction is localised, acting
+solely between the shared pair of electrons and the nuclei of the two
+bonded atoms. The result can be a small unit called a molecule,
+consisting of two or more atoms, such as H, and H,O. A molecule
+is the smallest part of a covalent compound that can exist whilst
+retaining the chemical properties of the compound.
+covalent
+In H2, the attraction is solely
+H-
+OH
+between the shared pair of
+electrons in the covalent bond
+and the nuclei of the bonding atoms attraction
+A Figure 2 Comparison of attraction from
+an ion and in a covalent bond
+ELECTRONS AND BONDING
+Study tip
+Electron configuration
+Electron configuration of atoms
+For A Level, you are expected to be able to work out the electron
+configuration of atoms up to atomic number Z = 36 (krypton, Kr.) at
+the end of Period 4 in the periodic table). The electron configuration of
+an atom shows how sub-shells are occupied by electrons.
+Electron configurations should be
+shown in shell order rather than
+the order of filling. So the electron
+configuration of krypton should
+show the 3d sub-shell before the 4s:
+An atom of krypton, Z = 36, contains 36 electrons. In Figure 4, you
+can see the energy levels of the sub-shells in the first four shells. Table
+3 shows how the 36 electrons in a krypton atom fill the sub-shells
+from the lowest energy level upwards.
+1s 2s 2p 3s 3p63d104s24p6
+instead of
+1s 2s 2p 3s 3p64523d 104p6
+electrons
+Table 3 Filling the sub-shells of a krypton atom (Z = 36)
+sub-shell 1s 2s 2p 3s 3p
+36 electrons 2 2 6 2 6
+— 4s + 3d + 4p
+2 10 6
+1s22s22p3
+The 4s sub-shell fills before the 3d sub-shell because 4s has a lower
+energy level.
+sub-shells
+Figure 7 Electron configuration for
+the seven electrons in a nitrogen atom
+The electron configuration of krypton is therefore written as
+1s 2s 2p 3s 3p 4s%3d104p.
+Synoptic link
+Figure 7 shows the meaning of the numbers in an electron
+configuration, using nitrogen as an example.
+Table 4 shows the electron configurations of the elements across
+Period 2 of the periodic table, together with the much simpler electron
+structures from GCSE showing shells only.
+You will learn more about the link
+between electron configurations
+and the periodic table in Topic 7.1,
+The periodic table.
+Table 4 Electron configurations across Period 2
+A level
+GCSE
+1s 2s1
+2,1
+Be
+152252
+2,2
+B
+| 1s 2s 2p
+2,3
+C
+1s 2s 2p
+2,4
+N
+O F Ne
+1s 2s²2p3 | 1s 2s 2p4 | 1s22s22ps | 1s 2s²2p6
+2,5 2,6 2,7 2,8
+Shorthand electron configurations
+Electron configurations can be expressed more simply in terms
+of the previous noble gas in the periodic table plus the outer
+electron sub-shells. Table 5 shows this shorthand notation for elements
+in Group 1 of the periodic table. This notation is useful for emphasising
+similarities in the electron configurations of the outer shell.
+Table 5 Shorthand notation for electron configuration
+Electron configuration
+1s22s1
+[.
+Shorthand notation
+[He]2s1
+[Ne]3s1
+[Ar]4s
+1s22s22p63s1
+Z
+1s22s22p63s 3p6451
+5.1 Electron structure
+Synoptic link
+You will find out more about blocks
+in Topic 71, The periodic table
+Electron configuration of ions
+Positive ions or cations are formed when atoms lose electrons.
+Negative ions or anions are formed when atoms gain electrons.
+Blocks and the periodic table
+The periodic table can be divided into blocks corresponding to their
+highest energy sub-shell.
+Synoptic link
+You will learn more about
+the electron configuration of
+d-bock elements in Topic 24.1,
+d-block elements.
+s-block
+highest energy electrons in the s-sub-shell (left block of two groups)
+p-block
+highest energy electrons in the p-sub-shell (right block of six groups)
+d-block
+highest energy electrons in the d-sub-shell (centre block of 10 groups)
+Study tip
+With the 4s and 3d sub-shells, it is
+a case of first in, first out.
+The 4s electrons are first in.
+The 4s electrons are first out.
+lons of s-block and p-block elements
+When forming ions, the highest energy sub-shells lose or gain
+electrons. Table 6 compares the electron configurations of calcium and
+oxygen atoms and their common ions.
+Table 6 Electron configurations of calcium and oxygen atoms and ions
+Summary questions
+Number of
+electrons
+20
+2
+U
+Electron
+_ configuration
+1s22s22p63s23p6452
+1s 2s 2p 3s 3p6
+1s22s22p63s 3p4
+1s22s22p63s²3p6
+TT
+1 State how many electrons the
+following can hold.
+a 3s orbital (1 mark)
+b4p sub-shell
+(1 mark)
+cn = 4 shell (1 mark)
+d 4d orbital (1 mark)
+2 electrons lost from 4s sub-shell
+8
+10
+2 electrons gained by 3p sub-shell
+2 Write the electron configuration
+for the following atoms:
+a C
+(1 mark)
+bs
+(1 mark)
+CK
+(1 mark)
+d Co
+(1 mark)
+e As
+(1 mark)
+lons of d-block elements
+For atoms of d-block elements, the 4s sub-shell is at a lower energy
+than the 3d sub-shell, so is filled first. The energies of the 4s and
+3d sub-shells are very close together and, once filled, the 3d energy
+level falls below the 4s energy level. The consequence is that:
+the 4s sub-shell fills before the 3d sub-shell
+the 4s sub-shell also empties before the 3d sub-shell.
+The d-block element nickel, Z = 28, forms the ion Ni2+.
+b p3-
+For a nickel atom, the electron configuration of the 28 electrons is
+1s 2s 2p 3s 3p 3d8452
+To form the nickel ion, Ni2+, two electrons are lost from the
+4s sub-shell: 1s 2s 2p 3s 3p63d8
+3 Write the electron configuration
+for the following ions:
+a Mg2+
+(1 mark)
+(1 mark)
+c Br
+(1 mark)
+d Fe2+
+(1 mark)
+4 Write the shorthand electron
+configurations for
+a Si
+(1 mark)
+b CI
+(1 mark)
+(1 mark)
+d Ga
+(1 mark)
+C Mn2+
+58
+5.3 Covalent bonding
+Single covalent bonds
+Dot-and-cross diagrams
+As with ionic bonding, dot-and-cross diagrams are used to account for
+electrons in covalent bonding.
+•
+.
+In covalent bonding electrons are shared.
+In ionic bonding electrons are transferred.
+Figure 3 shows dot-and-cross diagrams for some simple molecules.
+Use of dots and crosses allows the origin of each electron to be shown
+clearly. Each bonding atom now has the electron structure of the
+nearest noble gas.
+Figure 3 also shows a second structure for each molecule called a
+displayed formula.
+A displayed formula shows the relative positioning of atoms and the
+bonds between them as lines.
+Paired electrons that are not shared are called lone pairs. These
+can also be added to displayed formulae, as in water, H,O, and
+ammonia, NHz, in Figure 3.
+H20
+NH
+CHA
+H—
+H
+H-
+N-
+H
+-
+-C-
+I
+Figure 3 Dot-and-cross diagrams and displayed formulae for hydrogen, H,, water, H.0, ammonia, NH,, and
+methane, CHA
+Number of covalent bonds
+Most of the covalent compounds that you will meet during the course
+are compounds of hydrogen, carbon, nitrogen, and oxygen. You can
+see in Figure 3 the number of covalent bonds usually formed by atoms
+of these elements:
+Study tip
+You will meet covalent compounds
+of carbon, nitrogen, oxygen, and
+hydrogen frequently throughout
+the course, particularly in organic
+chemistry.
+carbon forms 4 bonds
+nitrogen forms 3 bonds
+oxygen forms 2 bonds
+hydrogen forms 1 bond.
+64
+5.2 lonic bonding and structure
+Example - magnesium chloride, MgCl,
+Figure 2 shows electron transfer of the two outer-shell electrons in a
+magnesium atom to two chlorine atoms to form an Mg2+ ion and two
+Cl-ions. The electron structures of the Mg2+ and Cl-ions are the same
+as the nearest noble gas.
+transfer of 2 electrons
+owo -- O ©*
+CF ion
+Mg2+ ion
+Cion
+Cl atom
+17 p+, 17 e
+Mg atom
+12 p+, 12 e
+Clatom
+17p, 17 e
+2,8,7
+2,8,2
+2,8,7
+electron
+structure
+charge
+17 pt, 18 e
+2,8,8
+(argon)
+1-
+12 p+, 10 e
+2,8
+(argon)
+2+
+17p+, 18 e
+2,8,8
+(argon)
+1-
+neutral
+neutral
+neutral
+Figure 2 Dot-and-cross diagram of magnesium chloride, MgCl,
+Structure of ionic compounds
+Although it is convenient to look at ionic bonding acting between a small
+number of ions, each ion attracts oppositely charged ions in all directions.
+The result is a giant ionic lattice structure containing billions of
+billions of ions, the actual number only determined by the size of the
+crystal. The giant ionic lattice of sodium chloride is shown in Figure 4.
+A giant lattice is a key structural feature of all ionic compounds.
+•
+Each Nation is surrounded by 6 Cl-ions.
+Each Cl ion is surrounded by 6 Nations.
+Each ion is surrounded by oppositely charged ions, forming a giant
+ionic lattice.
+chloride ion CF sodium ion Na+
+x
+x
+x
+x
+Figure 4 Part of the sodium
+chloride lattice - the regular
+cubic arrangement of Na* and
+CF ions in the giant ionic lattice
+structure gives the crystal its
+cubic shape
+Figure 3 Crystals of rock salt
+(sodium chloride) with a cubic shape
+Properties of ionic compounds
+The physical properties of ionic compounds can be explained in terms
+of the giant ionic lattice structure and ionic bonding.
+5.3 Covalent bonding
+Figure 6 shows the dot-and-cross diagram of sulfur hexafluoride, SF
+In SF, six unpaired electrons from sulfur are paired.
+The outer shell of sulfur now contains 12 electrons, far more than
+the nearest noble gas, argon, Ar.
+This is called expansion of the octet and is possible only from the
+n = 3 shell, when a d-sub-shell becomes available for the expansion.
+Figure 6 Dot-and-cross diagram
+of sulfur hexafluoride, SF, showing how
+the six sulfur electrons all paired forming
+six covalent bonds
+Multiple covalent bonds
+A multiple covalent bond exist when two atoms share more than one
+pair of electrons.
+Synoptic link
+You will learn more about the
+nature of a single and double
+covalent bond when you study
+organic chemistry in Chapter 12,
+Alkanes, and Chapter 13, Alkenes.
+Double covalent bonds
+In a double bond, the electrostatic attraction is between two shared
+pairs of electrons and the nuclei of the bonding atoms.
+Figure 7 shows dot-and-cross diagrams of double bonds in
+molecules of oxygen (O=O) and carbon dioxide (O=C=O).
+All atoms have eight electrons in their outer shell and the electron
+structure of the nearest noble gas.
+C=C and C=O double bonds are very important in organic chemistry.
+0
+00
+O= 0
+O= C= 0
+A Figure 7 Double covalent bonds in oxygen, 0,, and in carbon dioxide, CO,
+Triple covalent bonds
+In a triple bond, the electrostatic attraction is between three shared
+pairs of electrons and the nuclei of the bonding atoms.
+Figure 8 shows dot-and-cross diagrams of triple bonds in molecules
+of nitrogen (N=N) and hydrogen cyanide (H-C=N).
+Again, all atoms have the electron structure of the nearest noble gas.
+NI XIN
+NEN
+H-CEN
+A Figure 8 Triple covalent bonds in nitrogen, N., and in hydrogen cyanide, HCN
+Dative covalent bonds
+A dative covalent or coordinate bond is a covalent bond in which
+the shared pair of electrons has been supplied by one of the bonding
+atoms only. In a dative covalent bond the shared electron pair was
+66
+ELECTRONS AND BONDING
+What about other elements?
+Boron
+Boron, in Period 2 of the periodic table, has the electron configuration
+1s 2s22p', so only three outer-shell electrons can be paired. Boron
+forms covalent compounds, such as boron trifluoride, BF (Figure 4),
+in which its three outer-shell electrons are paired. So a molecule of
+BF, only has six electrons around the boron atom.
+A Figure 4 Dot-and-cross diagram of
+boron trifluoride, BF, showing how the
+three boron electrons are paired
+BF, shows that predictions for bonding cannot be based solely on the
+noble gas electron structure.
+Phosphorus, sulfur, and chlorine
+Table 1 shows the formulae of the fluorides of the non-metals
+phosphorus, sulfur, and chlorine in Period 3 of the periodic table.
+Table 1 Number of covalent bonds formed by phosphorus, sulfur, and chlorine
+Element
+Synoptic link
+phosphorus sulfur
+chlorine
+[Ne]3s 3p3 | (Ne]3s23p4 [Ne]3s 3p5
+Electron structure
+Outer-shell electrons
+You can use Table 1 to work out the
+oxidation numbers of phosphorus,
+sulfur, and chlorine in each
+fluoride. You studied oxidation
+numbers in Topic 4.3, Redox.
+Formula of fluoride
+Phosphorus trifluoride, PFz, sulfur difluoride, SF, and chlorine
+monofluoride, CIF, follow the expected pattern of formulae, with the
+bonded atoms having a noble gas electron structure. But how can
+atoms of phosphorus, sulfur, and chlorine bond with more fluorine
+atoms to give the other fluorides in Table 1?
+For the elements in Period 2, the n = 2 outer shell can hold just
+eight electrons. But for phosphorus, sulfur, and fluorine, the n= 3
+outer shell can hold 18 electrons, so more electrons are available
+for bonding. Figure 5 shows how different arrangements for the
+six outer-shell electrons of sulfur and the different numbers of bonds
+possible to bond with fluorine.
+two unpaired electrons | four unpaired electrons six unpaired electrons
+two bonds possible four bonds possible six bonds possible
+SF,
+SF4
+SF
+Figure 5 Different numbers of
+unpaired electrons lead to different
+possibilities for covalent compounds
+of sulfur
+5.2 lonic bonding and structure
+Specification reference: 2.2.2
+Ionic bonding
+Ionic bonding is the electrostatic attraction between positive and
+negative ions. It holds together cations (positive ions) and anions
+(negative ions) in ionic compounds.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ ionic bonding
+→ giant ionic lattice structures
+→ properties of ionic
+compounds.
+Common cations include:
+• metal ions (e.g., Na+, Ca2+, Al3+)
+• ammonium ions (NH4+).
+Common anions include:
+• non-metal ions (e.g., C1, 02-)
+• polyatomic ions (e.g., NO3-, SO42-).
+Synoptic link
+In Topic 2.3, Formulae and
+equations, you looked at how ionic
+charges are used for writing the
+formulae of ionic compounds.
+Ionic compounds
+Dot-and-cross diagrams
+The simplest ionic compounds contain metal ions and non-metal ions.
+At GCSE, you used a model for ionic bonding based on electron transfer.
+• Outer-shell electrons from a metal atom are transferred to the
+outer shell of a non-metal atom.
+Positive and negative ions are formed.
+The ions formed often have outer shells with the same electron
+configuration as the nearest noble gas.
+In dot-and-cross diagrams, the electrons in the original atoms are
+shown as either dots or crosses. It is then easy to work out the charge
+on each ion and to account for all electrons.
+Example - potassium fluoride, KF
+Figure 1 shows electron transfer of the one outer-shell electron in a
+potassium atom, K, to the outer shell of a fluorine atom, F, forming
+a K+ ion and an F-ion. The square brackets show that the charge is
+spread over each ion and that the ions are separate entities. Only the
+outer-shell electrons are shown because the inner shells are full and
+not involved in bonding. The electron structures of the K+ and F-ions
+formed are now the same as the nearest noble gas.
+transfer of 1 electron
+lo
+Study tip
+Dot-and-cross diagrams often
+show the outer-shell electrons
+only. In the examples, each cation
+has been shown with an empty
+shell. This circle can be omitted for
+even greater clarity.
+Electron
+structure
+Katom
+Fatom
+19 pt, 19 e
+9p7,9 e
+K+ ion
+19 p+, 18 e
+2,8,8
+(argon)
+1+
+F-ion
+9 pt, 10 e
+2,8
+(neon)
+1-
+2,8,8,1
+2,7
+Charge
+neutral
+neutral
+Figure 1 Dot-and-cross diagram
+of potassium fluoride, KF
+ELECTRONS AND BONDING
+S-orbitals
+In an s-orbital the electron cloud is within the shape of a sphere (Figure 2).
+As with all orbitals, an s-orbital can hold one or two electrons.
+Each shell from n = l contains one s-orbital.
+The greater the shell number n, the greater the radius of its s-orbital.
+A Figure 2 Shape of an s-orbital
+p-orbitals
+In a p-orbital, the electron cloud is within the shape of a dumb-bell. As
+with an s-orbital, one orbital can contain one or two electrons. There
+are three separate p-orbitals at right angles to one another (Figure 3).
+These orbitals are referred to as Px Py, and pz.
+Each shell from n = 2 contains three p-orbitals.
+The greater the shell number n, the further the p-orbital is from
+the nucleus.
+d-orbitals and f-orbitals
+The next orbitals, d- and f-orbitals, are more complex.
+Each shell from n = 3 contains five d-orbitals.
+Each shell from n = 4 contains seven f-orbitals.
+4
+•
+Sub-shells
+You may have noticed that a new type of orbital is added for each
+additional shell. Within a shell, orbitals of the same type are grouped
+together as sub-shells. The orbitals and sub-shells in the first four
+shells are shown in Table 2.
+A Figure 3 Shapes of the three
+p-orbitals in a shell
+Table 2 Shells, sub-shells, and orbitals
+Study tip
+Shell
+Number of
+electrons
+in sub-shells
+Number of
+electrons
+in shell
+You need to know about the
+existence of each type of orbital, but
+you only need to know the shapes of
+S-and p-orbitals.
+2
+| 1
+2
+Number of orbitals Sub-shells
+present
+S pdf
+1
+1s
+1 3
+2s + 2p2
+3s + 3p + 3d
+1 3 5 7 4s + 4p + 40 + 4f
+3
++b
+2 + 6 + 10
+2 +6 + 10 + 14
+18
+4
+32
+Each new shell gains a new type of orbital.
+The number of orbitals increases with each new type of orbital
+s,
+l p , 3 d, 5 f,7
+two electrons fit into each orbital, so the number of electrons in
+each sub-shell also increases
+s, 2 p. 6 d. 10 f, 14
+55
+ELECTRONS AND BONDING
+6
+(iii) State the formulae of two main ions
+present in this solution. (2 marks)
+This question look at bonding involving
+carbon with other atoms.
+a Draw a dot-and-cross diagram for a
+carbon dioxide molecule.
+One representation of the bonding in a
+carbon monoxide shows a triple bond, as
+shown in the dot and cross diagram below.
+b
+Draw a dot-and-cross diagram to show
+the bonding in PF, Show outer electrons
+only.
+(1 mark)
+b BF, reacts with NH, to form F BNH,
+which contains a dative covalent bond.
+(i) Explain how a dative covalent bond
+is different from a normal covalent
+bond.
+(1 mark)
+(ii) Draw a dot-and-cross diagram and
+a displayed formula for F, BNH,
+showing the dative covalent bond.
+(2 marks)
+c The nitrate(V) ion, NO,, is a polyatomic
+ion, bonded by covalent bonds. The three
+oxygen atoms are bonded by one single
+covalent bond, one double covalent bond
+and one dative covalent bond.
+(i) Draw a displayed formula for the
+NO,-ion.
+(1 mark)
+(ii) Draw a dot-and-cross diagram to
+show the bonding on NO, Show
+outer electrons only. (2 marks)
+d An ionic compound has the empirical
+formula H.N,0,. Suggest the formulae of
+the ions present in this compound.
+(2 marks)
+5 When magnesium is heated in air, it reacts
+with oxygen to form magnesium oxide.
+2Mg(s) + O2(s) — 2MgO(s)
+a Magnesium oxide is an ionic compound.
+Draw a dot-and-cross diagram for Mgo.
+Show outer electrons only. (2 marks)
+Magnesium oxide has an extremely high
+melting point which makes it suitable as a
+lining for furnaces.
+Explain, in terms of its structure and
+bonding, why magnesium oxide has this
+property.
+(3 marks)
+c When magnesium oxide is added to warm
+dilute nitric acid, a reaction takes place
+forming a solution containing ions. Solid
+Mgo does not conduct electricity but the
+solution formed does.
+(i) Explain the different conductivities of
+solid MgO and the solution. (2 marks)
+(ii) Write an equation for the reaction
+between magnesium oxide and dilute
+nitric acid. Include state symbols.
+(2 marks)
+(i) State the number of lone pairs and
+dative covalent bonds in a
+CO molecule.
+(1 mark)
+(ii) State what is meant by a covalent
+bond.
+(1 mark)
+(iii) State what is meant by dative
+covalent bond.
+(1 mark)
+© Ethyne, C,H, also contains a triple bond.
+Draw a dot-and-cross diagram of an
+ethyne molecule.
+(1 mark)
+| A dot-and-cross diagram for a carbon
+monoxide molecule can also be drawn
+with a double bond between the carbon
+and oxygen atoms.
+(i) Draw this dot-and-cross diagram.
+(ii) What is unusual about this
+dot-and-cross diagram?
+e The cyanide ion, CN-, has a triple
+bond and is isoelectronic with carbon
+monoxide.
+(i) Draw a dot-and-cross diagram for a
+CN-ion.
+(ii) Suggest what is meant by the term
+isoelectronic.
+(1 mark)
+f The displayed formula for a carbonate ion,
+00,-, is shown below.
+2-
+Draw a dot-and-cross diagram for a
+carbonate ion.
+(1 mark)
+69
+5.1 Electron structure
+Filling of orbitals
+There is a set of rules for how orbitals are occupied by electrons.
+Orbitals fill in order of increasing energy
+The sub-shells that make up shells have slightly different energy
+levels. Within each shell, the new type of sub-shell added has a
+higher energy. For example, in the second shell, the 2p sub-shell is
+the new type, and is at a higher energy than the 2s sub-shell.
+n
+=
+4
+.
+in the n = 2 shell, the order of filling is 2s, 2p.
+in the n = 3 shell, the order of filling is 3s, 3p, 3d.
+in the n = 4 shell, the order of filling is 4s, 4p, 40, 4f.
+energy
+Figure 4 shows the relative energy levels of the sub-shells making up
+the first four shells. The highest energy level in the third shell overlaps
+with the lowest energy level in the fourth shell.
+n=1 - Is
+Figure 4 Energy levels of the sub-shells
+The 3d sub-shell is at a higher energy level than the 4s sub-shell.
+The 4s sub-shell therefore fills before the 3d sub-shell.
+The order of filling is therefore 3p, 4s, 3d.
+Electrons pair with opposite spins
+Each orbital can hold up to two electrons. Rather than drawing different
+orbital shapes, it is convenient to use an electrons-in-box model.
+opposite spins
+•
+Electrons are negatively charged and repel one another.
+Electrons have a property called spin - either up or down.
+An electron is shown as an arrow indicating its spin, either | or .
+The two electrons in an orbital must have opposite spins, as shown
+in Figure 5. The opposite spins help to counteract the repulsion
+between the negative charges of the two electrons.
+same spins
+•
+Figure 5 'Electrons-in-box' model
+showing allowed and unallowed spins
+Orbitals with the same energy are occupied singly first
+Within a sub-shell, the orbitals have the same energy. One electron
+occupies each orbital before pairing starts. This prevents any repulsion
+between paired electrons until there is no further orbital available at
+the same energy level.
+Figure 6 shows how four electrons occupy the p-orbitals of a p-sub-shell.
+• With four electrons, one electron occupies
+each p-orbital.
+. Only then can pairing take place.
+The paired electrons have opposite spins,
+Aand.
+. Not allowed.
+• One p-orbital has been left empty and
+a second p-orbital has been paired.
+A Figure 6 Allowed spins when filling p-orbitals
+56
+Chapter 5 Practice questions
+Practice questions
+1 Using the periodic table, or the Roman
+numerals in the chemical name, predict the
+ionic charges and write formulae for the
+following:
+a lithium phosphide
+b lithium phosphate
+c chromium(III) hydroxide
+d iron (III) selenide
+e titanium(III) nitride
+f barium sulfate
+g barium sulfite
+h nickel(II) manganate(VII) (8 marks)
+This question looks at shells, sub-shells and
+orbitals.
+a What is meant by the term orbital?
+(1 mark)
+b How many electrons completely fill
+(i) a 3p orbital
+(1 mark)
+(ii) the 3d sub-shell
+(1 mark)
+(iii) The n= 4 shell.
+(1 mark)
+c Write the electron configuration for the
+following atoms:
+(i) S
+(1 mark)
+(ii) Co
+(1 mark)
+d Electrons are arranged in energy levels.
+The incomplete diagram below for the
+seven electrons in a nitrogen atom shows
+just the two electrons in the ls level
+f Answer the parts below with a number.
+(i) The number of unpaired electrons
+in a sulfur atom.
+(1 mark)
+(ii) The number of electrons occupying
+p-orbitals in a germanium atom.
+(1 mark)
+(iii) The number of full shells in a
+krypton atom.
+(1 mark)
+Magnesium fluoride and potassium chloride
+are examples of compounds with ionic
+bonding.
+a Explain how ionic bonding holds together
+the particles in an ionic compound.
+(1 mark)
+b Draw a dot-and-cross diagram to show
+the bonding in MgF2. Show outer
+electrons only.
+(2 marks)
+c The diagram represents the incomplete
+structure of potassium chloride.
+d
+(i) What name is given to this type
+of structure?
+(1 mark)
+(ii) Complete the diagram by adding
+labels to each circle in the diagram for
+the particles present in the structure.
+(2 marks)
+A student found that MgF, has different
+electrical conductivities when solid and
+when dissolved in water.
+Explain these observations. (2 marks)
+The table below shows the melting points
+of four compounds with ionic bonding.
+lonic compound Naf Na, MgF2 Mgo
+Melting point/"c_993 1275 | 1263 2852
+energy
+Complete the diagram by
+(i) adding arrows to the boxes (1 mark)
+(ii) adding labels for the other
+sub-shell levels.
+(1 mark)
+e Write the electron configuration
+for the following ions:
+(i) Br
+(1 mark)
+(ii) Ga3+
+(1 mark)
+Identify the pattern in melting points and
+suggest reasons for the differences.
+(3 marks)
+This question looks at compounds and ions
+that have covalent bonding.
+a PF, has covalent bonding.
+4
+68
+ELECTRONS AND BONDING
+5.1 Electron structure
+Specification reference: 2.2.1
+Electrons and shells
+You already know that the nuclear atom contains electrons in shells
+surrounding the nucleus. In this topic you will learn more about
+how electrons are arranged within shells.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of: :
+→ electrons and shells
+→ atomic orbitals
+→ filling of orbitals
+→ electron configurations.
+Shells
+For GCSE, you learnt the 2,8,8 rule for the number of electrons that
+can fill each shell.
+For A Level, you need to know the number of electrons that fill the
+first four shells (n=1 to n = 4) shown in Table 1.
+Table 1 Maximum number of
+electrons in the first four shells
+Shell
+number n
+Number of
+electrons
+What are shells?
+In an atom, electron shells make up a model that helps us to visualise
+something that cannot be seen.
+Shells are regarded as energy levels.
+The energy increases as the shell number increases.
+The shell number or energy level number is called the principal
+quantum number n.
+28
+3
+18
+32
+Electrons in shells
+The current model for an electron is based the idea that an
+electron has properties both of a wave and a particle -
+wave-particle duality. If you take A level physics, you will
+learn more about wave-particle duality.
+Around an atom, electrons can only fit into energy levels
+defined by the wave nature of an electron.
+The maximum number of electrons in a shell n is given by
+the formula:
+• number of electrons = 2n2
+1 Use the 2nd formula to check the number of
+electrons in Table 1.
+2 Find out the maximum number electrons for the
+energy levels n = 5, 6, and 7.
+Atomic orbitals
+Shells are made up of atomic orbitals. An atomic orbital is a region
+around the nucleus that can hold up to two electrons, with opposite spins.
+Models visualise an atomic orbital as a region in space where there is
+a high probability of finding an electron (Figure 1). An electron can
+be thought of as a negative-charge cloud with the shape of the orbital,
+referred to as an electron cloud.
+An orbital can hold one or two electrons, but no more.
+There are different types of orbitals: S-, P-, d- and f-orbitals.
+• Each type of orbital has a different shape.
+This may seem bewildering, but you will soon see patterns emerge.
+A Figure 1 An atomic orbital shown
+as a cluster of dots for the probability of
+finding an electron in a given space
+54
+ELECTRONS AND BONDING
+originally a lone pair of electrons on one of the bonded atoms. For
+example, Figure 9 shows formation of an ammonium ion, NH +, by
+reaction of ammonia, NH,, and a H+ ion.
+.
+An ammonia molecule donates its lone pair of electrons to a H+ ion.
+The dative covalent bond in NH,+ is shown by a bond with an
+arrowhead, to show that the nitrogen atom provides both
+electrons to the covalent bond.
+In an NH + ion, all four bonds are equivalent and you cannot tell
+which is the dative covalent bond. The arrow for the dative covalent
+bond (Figure 10) just helps with accounting for all electrons.
+7+
+I-
+H+
+H-NH
+-
+I
+A Figure 9 Formation of a dative covalent bond in NHA
+Figure 10 Displayed formula of the
+NH, ion
+Average bond enthalpy
+Average bond enthalpy serves as a measurement of covalent bond
+strength. The larger the value of the average bond enthalpy, the stronger
+the covalent bond. Table 2 shows some average bond enthalpies.
+Table 2 Average bond enthalpies
+Bond
+Average
+bond
+enthalpy
+/kJ mol-1
+Relative
+strength
+Summary questions
+Br-Br
+193
+C-Br
+290
+Increasing
+bond
+strength
+C-0
+1 State what is meant by the term covalent bond.
+(1 mark)
+2 Draw dot-and-cross diagrams and displayed formula for the following.
+a F20
+(2 marks)
+b PH
+(2 marks)
+CCS,
+(2 marks)
+358
+0-H
+464
+Synoptic link
+3 Draw dot-and-cross diagrams and displayed formulae for the following:
+a CHA
+(1 mark)
+b H,CO (carbon is the central atom)
+(1 mark)
+C H20+ (dative bond)
+(1 mark)
+d CO (triple bond, one dative)
+(1 mark)
+Average bond enthalpies and
+related calculations are covered in
+detail in Topic 9.3, Bond enthalpies.
+In Topic 15.1 Chemistry of the
+haloalkanes, you will see how
+average bond enthalpies can
+explain different rates of reaction.
+b CIF,
+4 Draw dot-and-cross diagrams and displayed formulae for the following:
+a PF
+(1 mark)
+(1 mark)
+C SO, (two double bonds)
+(1 mark)
+d So, (three double bonds)
+(1 mark)
+5 Draw displayed formulae for:
+a HNO, (nitrogen is bonded to three oxygens only) (2 marks)
+b H,SO, (sulfur is bonded to four oxygens only)
+(2 marks)
+ELECTRONS AND BONDING
+Table 1 Melting points of ionic
+compounds
+Melting and boiling points
+Almost all ionic compounds are solids at room temperature. At room
+temperature, there is insufficient energy to overcome the strong
+electrostatic forces of attraction between the oppositely charged ions
+in the giant ionic lattice. High temperatures are needed to provide the
+large quantity of energy needed to overcome the strong electrostatic
+attraction between the ions. Therefore most ionic compounds have
+high melting and boiling points.
+Ionic
+compound
+lons
+Melting
+point/°C
+NaF
+993
+Nat and F
+Ca2+ and F-
+1423
+CaF,
+Na, 0
+Cal
+Natand 02-
+Ca2+ and 02-
+1275
+2614
+Table 1 compares the melting points of several ionic compounds.
+The melting points are higher for lattices containing ions with greater
+ionic charges, as there is stronger attraction between ions. Ionic
+attraction also depends on the size of the ions, but in this example the
+Na+ and Ca2+ ions are similar sizes so this is not a factor here.
+Solubility
+Many ionic compounds dissolve in polar solvents, such as water.
+Polar water molecules break down the lattice and surround each ion
+in solution.
+In a compound made of ions with large charges, the ionic attraction
+may be too strong for water to be able to break down the lattice
+structure. The compound will not then be very soluble. Table 2
+compares the solubility in water of several ionic compounds. The most
+soluble compound.
+Table 2 Solubility of ionic compounds in water
+Synoptic link
+You will find out more
+about polarity in Topic 6.2,
+Electronegativity and polarity.
+Ionic compound
+lons
+Solubility at 20°C
+/mol dm3
+Naci
+6.1
+Na and CI
+Ca2+ and CH
+CaCl2
+0.67
+Na CO2
+Nat and CO2-
+Ca²+ and C0,2-
+2.0
+1.3 x 10-4
+Caco,
+A word of caution
+Solubility requires two main processes:
+the ionic lattice must be broken down
+• water molecules must attract and surround the ions.
+The solubility of an ionic compound in water therefore depends on
+the relative strengths of the attractions within the giant ionic lattice
+and the attractions between ions and water molecules. For the ionic
+compounds in Table 2, the attractions in the giant ionic lattice have
+the greater effect, and solubility decreases as ionic charge increases.
+But predictions of solubility should be treated with caution.
+Electrical conductivity
+In the solid state, an ionic compound does not conduct electricity. But
+once melted or dissolved in water, the ionic compound does conduct
+electricity (Figure 5).
+5.2 lonic bonding and structure
+solid state
+In the solid state:
+•
+Y+X-Y+X-)
+(+X-X+X-X+
+the ions are in a fixed position in the giant ionic lattice
+there are no mobile charge carriers.
+1 +
+electrode
+electrode
+An ionic compound is a non-conductor of electricity in the solid state.
+jons fixed in position in the lattice
+. ions cannot move
+• no conductivity
+When liquid or dissolved in water:
+liquid or aqueous states
+• the solid ionic lattice breaks down
+the ions are now free to move as mobile charge carriers.
+(+
+An ionic compound is a conductor of electricity in liquid and
+aqueous states.
+)relec
+electrode
++
++
+electrode
+.ions are not fixed in a lattice
+. ions are now free to move
+• electricity is conducted
+Summary of properties
+Most ionic compounds:
+A Figure 5 Electrical conductivity of
+an ionic compound in solid, liquid, and
+aqueous states
+have high melting and boiling points
+tend to dissolve in polar solvents such as water
+conduct electricity only in the liquid state or in aqueous solution.
+C
+lonic bones and teeth
+FLUORIDE
+You rely on ionic compounds for the skeleton framework
+of your body and for your teeth. So what are bones and
+teeth made out of? The chemistry is complex but the
+main ionic compound is calcium hydroxyapatite, which
+can be represented with the formula Ca (PO),OH. This
+compound is also the main constituent in tooth enamel.
+Unfortunately ions in tooth enamel are removed in acid
+conditions. Once broken down, gaps in enamel can allow
+tooth decay to develop beneath. Saliva helps to neutralise
+acidic food and also to replace ions but this may not
+be enough. Fluoride ions help to replace lost ions by
+forming fluoropatite, Ca(PO.),F, which is stronger than
+hydroxyapatite and more resistant to acid conditions.
+Contains:
+Sodium Fluoride (1450 ppm F)
+Ingredients:
+Aqua, Glycerin, Hydrated Silica,
+PVM/MA Copolymer, Sodium
+Lauryl Sulfate, Cellulose Gum,
+Aroma, Sodium Hydroxide,
+Carrageenan, Sodium Fluoride,
+Triclosan, Sodium Saccharin,
+Limonene, CI 77891.
+with
+CALCIUM
+Figure 6 Fluoride toothpaste
+1 Show that the ionic charges of the ions in
+Ca (POA),OH and Ca (PO),F balance.
+2 Suggest why Ca (PO),OH is very insoluble in water.
+3 Many people confuse fluoride with fluorine. What is
+the difference and why would it be very strange to
+find fluorine in your toothpaste?
+Most toothpastes contain fluoride as sodium fluoride.
+Your water supply may also contain fluoride depending on
+where you live.
+Summary questions
+1 Draw dot-and-cross diagrams, with outer shells only, for the following:
+a Na 0 (1 mark) b MgS (1 mark) CAIF, (1 mark)
+2 Explain why ionic compounds have high melting and boiling points.
+(2 marks)
+3 Explain why ionic compounds dissolve in water.
+(2 marks)

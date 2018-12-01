@@ -1,0 +1,2026 @@
+11
+11.7 Reasons for maintaining biodiversity
+Continuous monoculture results in soil depletion - a reduction
+in the diversity of soil nutrients. It happens because the crop
+takes the same nutrients out of the soil year after year and is then
+harvested, not left for the nutrients to be recycled. This depletion
+of soil nutrients makes the ecosystem more fragile. The crops it can
+support will be weaker, increasing vulnerability to opportunistic
+insects, plant competitors, and microorganisms. The farmer will
+become increasingly dependent on expensive pesticides, herbicides,
+and fertilisers in order to maintain productivity.
+High biodiversity provides protection against abiotic stresses
+(including extreme weather and natural disasters) and disease.
+When biodiversity is not maintained, a change in conditions or
+a disease can destroy entire crops. The Irish potato famine of
+the 1840s was a direct consequence of the reliance on only two
+varieties of potato. When a new disease spread to the area (the
+oomycete Phytophthora infestans), neither species contained alleles
+for genetic resistance, so the entire crop was destroyed. This led
+to widespread famine and the deaths of around 1 million people.
+Areas rich in biodiversity provide a pleasing, attractive environment
+that people can enjoy. Highly biodiverse areas can promote tourism
+in the region, with its associated economic advantages.
+The greater the diversity in an ecosystem, the greater the potential
+for the manufacture of different products in the future. These
+products may be beneficial to humans. For example, it may
+make food production more financially viable or provide cures or
+treatment for disease.
+Plant varieties are needed for cross breeding, which can lead to better
+characteristics such as disease resistance or increased yield. The wild
+relatives of cultivated crop plants provide an invaluable reservoir of
+genetic material to aid the production of new varieties of crops. Also,
+through genetic engineering, scientists aim to use genes from wild
+plants and animals to make crop plants and animals more efficient,
+thus reducing the land required to feed more people. If these wild
+varieties are lost, the crop plants may themselves also become more
+vulnerable to extinction. This is also important ecologically.
+Ecological reasons
+All organisms are interdependent on others for their survival.
+The removal of one species may have a significant effect on
+others, for example a food source or a place to live may be lost.
+For example, decomposers break down dead plant and animal
+remains, releasing nutrients into the soil, which plants later use
+for healthy growth. Plants rely on bees for pollination - this is
+important for both wild plant species and commercially produced
+crops. Fruit farmers use bees to pollinate their crops; a decrease in
+the wild bee population would decrease crop yields.
+Some species play a key role in maintaining the structure of an
+ecological community. These are known as keystone species.
+They have a disproportionately large effect on their environment
+292
+11.7 Reasons for maintaining
+biodiversity
+Specification reference: 4.2.1
+Can you imagine what it would be like to live in a world where
+all the landscapes looked the same? Not only would it be visually
+(aesthetically) unappealing, but biodiversity levels would be low as
+only a small number of organisms would be supported by the habitats.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+the ecological, economic
+and aesthetic reasons for
+maintaining biodiversity.
+Reasons for maintaining biodiversity
+It is important to maintain biodiversity for a number of reasons. These
+reasons can be broadly arranged into three groups - aesthetic, economic
+and ecological, although some reasons fall across more than one category.
+Aesthetic reasons
+The presence of different plants and animals in our environment
+enriches our lives. For example, you might like to relax on a
+beach, walk in your local woodland or park or visit a rainforest.
+The natural world provides inspiration for people such as
+musicians and writers, who in turn provide pleasure for many
+others through music and books.
+Studies have shown that patients recover more rapidly from stress
+and injury when they are supported by plants and a relatively
+natural environment.
+Economic reasons
+If biodiversity in an ecosystem is maintained, levels of long-term
+productivity are higher.
+Soil erosion and desertification may occur as a result of
+deforestation. These reduce a country's ability to grow crops
+and feed its people, which can lead to resource- and economic-
+dependence on other nations.
+It is important to conserve all organisms that we use to make
+things. Non-sustainable removal of resources, such as hardwood
+timber, will eventually lead to the collapse of industry in an area.
+Once all or enough of the raw material has been lost, it does
+not become economically viable to continue the industry. Note
+that even when 'sustainable' methods are used - for example
+replanting forest areas - the new areas will not be as biodiverse as
+the established habitats they replace.
+Large-scale habitat and biodiversity losses mean that species with
+potential economic importance may become extinct before they
+are even discovered. For example, undiscovered species in tropical
+rainforests may be chemically or medically useful. A number of
+marine species use a chemical-based defence mechanism. These are
+rich potential sources of new and economically important medicines.
+A Figure 1 Most people would agree
+that natural, biodiverse areas are more
+attractive than acres of cultivated
+crops and concrete. Visiting these
+areas provides space for relaxation and
+exercise, both essential for a healthy life.
+Protecting these landscapes is therefore
+essential for human well-being
+291
+BIODIVERSITY
+77
+The species evenness in an area can then be calculated by comparing
+the total number of each organism present. Populations of plants
+or animals that are similar in size or density represent an even
+community and hence a high species evenness. Species evenness
+can also be expressed as a ratio between the numbers of each
+organism present.
+Measuring abiotic factors
+Abiotic factors are the non-living conditions in a habitat. They have
+a direct effect on the living organisms that reside there. Examples
+are the amount of light and water available. To enable them to draw
+conclusions about the organisms present and the conditions they need
+for survival, scientists normally measure these conditions at every
+sampling point.
+Table 1 summarises the ways in which common abiotic factors
+can be measured.
+Table 1
+Abiotic factor
+Sensor used
+Example unit of
+measurement
+wind speed
+anemometer
+ms-1
+light intensity
+relative humidity
+mg dm-3
+pH
+light meter
+humidity sensor
+pH probe
+temperature probe
+dissolved oxygen probe
+pH
+temperature
+°C
+oxygen content in water
+mg dm-
+Many abiotic factors can be measured quickly and accurately using a
+range of sensors, which are advantageous for a number of reasons:
+Rapid changes can be detected.
+• Human error in taking a reading is reduced.
+A high degree of precision can often be achieved.
+Data can be stored and tracked on a computer.
+Belt transect in a National Park 00
+A group of students was asked to investigate the impact of human land
+use in a National Park on the species of plants which were found there. The
+students decided to carry out a belt transect of open countryside, across a
+main walking path, in mid-Dartmoor.
+Part of the data the students collected is shown. Data was collected
+on the percentage cover of six species, and the maximum height of
+vegetation at each position was noted.
+277
+BIODIVERSITY
+countries or continents today, as well as far-reaching global
+implications for the future.
+The need to produce reliable data for issues of this scale is paramount.
+Despite the weight of evidence for climate change, some scientists still
+believe that a causal link between human activity and climate change
+is yet to be established.
+Global warming refers to a rise in the Earth's mean surface
+temperature. The Earth's climate has shown fluctuations in
+temperature throughout its history, so it is not possible to say for
+certain that humans are directly causing global warming. However,
+carbon dioxide levels in the atmosphere have significantly increased
+since the industrial revolution, trapping more thermal energy in the
+atmosphere. Therefore most scientists believe that human activities are
+contributing to global warming.
+A Figure 5 These Joshua trees
+(Yucca brevifolia) are an example of a
+xerophyte. A xerophyte is a species of
+plant that has adapted to survive in an
+environment with little water, such as a
+desert or an ice-or snow-covered region
+in the Alps or the Arctic
+If global warming continues biodiversity will be affected. For example:
+•
+Synoptic link
+You learned about xerophyte
+adaptations in Topic 9.5, Plant
+adaptations to water availability.
+The melting of the polar ice caps could lead to the extinction of
+the few plant and animal species living in these regions. Some
+species of animals present in the Arctic are migrating further and
+further north to find favourable conditions as their habitat shrinks.
+Increasing global temperatures would allow temperate plant and
+animal species to live further north than currently.
+Rising sea levels from melting ice caps and the thermal expansion
+of oceans could flood low-lying land, reducing the available
+terrestrial habitats. Saltwater would flow further up rivers,
+reducing the habitats of freshwater plants and animals living in the
+river and surrounding areas.
+Higher temperatures and less rainfall would result in some plant
+species failing to survive, leading to drought-resistant species
+(xerophytes, Figure 5) becoming more dominant. The loss
+of non-drought-resistant species of plants would lead to the
+loss of some animal species dependent on them as a food
+source. These would be replaced by other species that feed
+on the xerophytes.
+Insect life cycles and populations will change as they adapt to
+climate change. Insects are key pollinators of many plants, so
+if the range of an insect changes, it could affect the lives of the
+plants it leaves behind, causing extinction. And as insects carry
+many plant and animal pathogens, if tropical insects spread, this
+in turn could lead to the spread of tropical diseases towards
+the poles.
+If climate change is slow, species may have time to adapt (for example
+by eating a different food source) or to migrate to new areas. This will
+lead to a loss of native species, but in turn other species may move
+into the area - so biodiversity would not necessarily be lost. The
+species mix would simply change.
+Figure 6 The small red-eyed
+damselfly (Erythromma viridulum).
+Changing species distribution provides
+evidence for climate change. Since
+1980, 34 of the 37 British species of
+dragonfly and damselfly have expanded
+their range northwards by an average
+of 74 km. This is evidence that the UK's
+climate is growing warmer
+289
+11
+11.6 Factors affecting biodiversity
+Loss of biodiversity in the UK 00
+the result of the increase in the world human population.
+This has resulted in large areas of land being cleared
+worldwide, to meet the demand for food. Twelve to fifteen
+million hectares of forest are lost worldwide each year -
+the equivalent of 36 football fields per minute. These
+highly diverse habitats are replaced with agricultural land,
+which has far lower levels of biodiversity.
+Conservation agencies have estimated the percentage of
+various habitats that have been lost in the UK since 1900.
+Their findings are summarised in Table 1.
+A Figure 7 Heathland
+3
+1 State the key reason why the habitats stated in
+Table 1 have been lost over the past century.
+Compare the proportion of chalk grassland
+OC
+that has been lost since 1900 with lowland
+mixed woodland.
+0 There are approximately 1500 hectares
+of hay meadow in the UK. What was the
+equivalent figure in 1900?
+Farmers can receive financial subsidies for
+farming areas of land in a traditional, sustainable
+manner. State and explain how this may affect
+species diversity in these areas.
+A Figure 8 Woodland
+Scientists have estimated that the present worldwide rate
+of extinction is between 100 and 1000 times greater than
+at any other point in evolutionary history. This is primarily
+Table 1
+Habitat
+Main reason for habitat loss
+Habitat loss
+since 1900 (%)
+95
+80
+Hay meadow
+Chalk grassland
+Lowland fens and wetlands
+Limestone pavements in England
+Lowland heaths on acid soils
+Lowland mixed woodland
+Hedgerows
+50
+45
+Conversion to highly productive grass and silage
+Conversion to highly productive grass and silage
+Drainage and reclamation of land for agriculture
+Removal for sale as rockery stone
+Conversion to grasslands and commercial forests
+Conversion to commercial conifer plantations and farmland
+40
+40
+30
+To make larger fields to accommodate farm machinery
+Summary questions
+1 State and explain how the following factors reduce 2 Explain why there is a reduction in species diversity
+species diversity:
+when an area of forest is cleared to create additional
+a monoculture
+(2 marks) land for the grazing of cattle.
+(2 marks)
+b building of roads
+(2 marks)
+C use of pesticides.
+(2 marks) 3 Suggest and explain ways in which climate change
+can affect the biodiversity in an area. (3 marks)
+290
+11
+11.3 Sampling techniques
+Species
+present
+Grasses
+Heathers
+Quadrat position along line, from starting point/m
+0 1 2 3 4 5 6 7 8 9
+25 5 10 85 85 80 75 40 450
+10 15 0 0 0 0 0 10 10 35
+5 0 0 0 0 0 0 0
+90 10 0 0 0 30 25
+30 0 0 0 0 0 0 0
+5 0 0 5 15 20 25 20 5
+Mosses
+10
+Gorse
+20
+0
+Bracken
+Bare ground
+Maximum
+vegetation
+height / cm
+70
+65
+45
+10
+10
+5
+5
+30
+70
+65
+The students produced the following graph of this data:
+grasses
+heathers
+percentage cover
+mosses
+* gorse
+* bracken
+-- bare ground
+Summary questions
+0
+1
+8
+9
+2 3 4 5 6 7
+distance along belt transect/m
+Questions
+1 State which piece of equipment
+you would use to collect
+sample data on the following:
+a number of beetles on an
+oak tree trunk
+b number of moths in an area
+of woodland
+cpH of soil along a line
+transect
+d number of plant species
+present on a school
+playing field. (4 marks)
+1 Describe how you would use a transect to obtain the data which the
+students collected.
+2 Explain why random sampling would not be appropriate to develop
+this data.
+3 Plot a graph showing how the maximum vegetation height varied with
+distance along the belt transect.
+4 Using the data gathered by the students, suggest how land use in this
+region affects the vegetation present.
+5 A range of abiotic factors may also affect the species in the region
+studied. Suggest and explain how you would investigate the effect of
+one of these factors on the vegetation present.
+6 Evaluate the quality of the data collected by the students.
+2 Describe the advantages of
+using a temperature probe
+over a thermometer. (2 marks)
+3 Discuss the advantages and
+disadvantages of the different
+ways to measure species
+evenness. (4 marks)
+278
+11
+Chapter 11 Practice questions
+Practice questions
+1 Which of the following can be used to
+measure the biodiversity of an area?
+A Student's t-test
+B Simpson's Index
+C Correlation coefficient
+D Standard deviation
+(1 mark)
+2 Which of the following statements are true
+with respect to what you would expect to
+find in an area of high biodiversity?
+Statement 1: A large number of successful
+species
+Statement 2: Complex food chains
+Statement 3: An extreme environment
+A 1, 2 and 3 are correct
+B Only 1 and 2 are correct
+C Only 2 and 3 are correct
+D Only 1 is correct
+(1 mark)
+3 The table below contains a number of terms
+ecologists use when studying biodiversity.
+Complete the table using the appropriate
+term or description.
+(5 marks)
+Term
+Description
+The variety of living organisms present in an
+area.
+Genetic biodiversity b.
+A sample produced without bias; each
+individual has an equal likelihood of selection.
+Abiotic factor
+A sampling technique where different areas
+within a habitat are identified and sampled
+separately; for example, by using a line
+transect.
+Britain. Its numbers have decreased
+by 94% since 1942 and it is in danger
+of becoming extinct in the wild. There
+are thought to be approximately 2500
+black poplars surviving in Britain today.
+Use the information above to calculate
+the original number of black poplar trees
+in 1942. Show your working. (2 marks)
+Species such as the black poplar
+contribute to biodiversity in the UK.
+Suggest three reasons why the
+conservation of the black poplar is
+important.
+(3 marks)
+Botanic gardens are important in the
+conservation of plant species.
+(i) State why the conservation of
+a species in a botanic garden is
+described as ex situ. (1 mark)
+(ii) Many botanic gardens use seed banks
+as a method of plant conservation.
+Outline the advantages of using a
+seed bank, as opposed to adult plants,
+in order to conserve an endangered
+plant species.
+(4 marks)
+(iii) Suggest why it is important to ensure
+that, for each species, the seeds in a
+seed bank have been collected from
+several different sites in the wild.
+(3 marks) OCR F212 2012
+On a biology field trip, a pair of students
+collected some data about plant species in an
+area of ash woodland. Their results are shown
+in the table.
+species Number of n/N (n/N]?
+individuals (n)
+Dog's mercury 40
+Wild strawberry 13 0.13 0.0169
+Common avens 43
+Wood sorrel 4
+N=
+(n/N)2 =
+1- ((n/N)2) =
+6
+4
+When studying biodiversity, scientists often
+take samples of a habitat.
+a (i) State what is meant by the term
+sampling.
+(1 mark)
+(ii) State two reasons why sampling is
+carried out.
+(1 mark)
+b Describe the difference between random
+and non-random sampling, stating one
+advantage of each technique. (3 marks)
+Explain how you could sample an area of
+grassland, to study the organisms present.
+(6 marks)
+a The black poplar tree was once a
+common tree throughout southern
+a
+(i) Use the information in the table to
+work out Simpson's index of diversity
+(D) for the area of woodland sampled
+using the formula: D = 1- (E(n/N)2)
+Copy and complete the table.
+5
+300
+11
+11.7 Reasons for maintaining biodiversity
+Alligators make burrows for nesting and to stay warm.
+When they abandon their burrow, fresh water fills
+the space, which is used by other species during the
+dry season for breeding and drinking. Alligators are
+predators, which also contributes to the maintenance
+of biodiversity in these habitats.
+It is estimated that up to 200 species rely on
+prairie-dog colonies, primarily due to their tunnelling
+activities. Prairie colonies provide a food source and
+burrows for other animals such as snakes. Their
+tunnelling aerates the soil, which, combined with
+their droppings, leads to a redistribution of nutrients.
+It also channels rainwater into the water table. These
+processes help to maintain a biodiverse range of
+plant life in the region. So essential is the prairie dog
+to its habitat that its loss would lead to a change in
+the ecosystem itself.
+A Figure 3 American alligators (Aligator mississippiensis)
+are keystone species in the Everglade wetlands
+1 Define the term 'keystone species'.
+2 Explain why keystone species are often predators.
+3 The purple coneflower is a plant species found
+on the North American prairies. Extracts from
+the plant have anti-bacterial properties, which
+have been used for centuries to treat fevers
+and infections. Explain how a reduction in the
+population of prairie dogs could affect the number
+of purple coneflowers in this habitat.
+A Figure 4 Prairie dogs (Cynomys spp.) are a keystone
+species for the prairies - their existence adds to a
+diversity of life
+Summary questions
+1 State the differences between aesthetic, economic, and ecological
+arguments for maintaining biodiversity.
+(1 mark)
+2
+Suggest two ethical reasons why we should
+maintain biodiversity.
+(3 marks)
+3 The Irish potato famine of the 1840s had a devastating effect
+on the population.
+a Explain how a lack of agricultural biodiversity led
+to this disaster.
+b Suggest and explain how a similar famine could be
+prevented from occurring in the future.
+(2 marks)
+(2 marks)
+294
+11
+11.6 Factors affecting biodiversity
+water. By destroying weeds, plant diversity is reduced directly,
+and animal diversity may also be reduced by the removal of an
+important food source.
+Monoculture - many farms specialise in the production of only
+one crop, with many acres of land being used for the growth
+of one species. This has an enormous local effect in lowering
+biodiversity as only one species of plant is present. As relatively
+few animal species will be supported by only one type of plant,
+this results in low overall biodiversity levels. The growth of vast
+oil palm plantations is one of the leading causes of rainforest
+deforestation, leading to a loss of habitat for critically endangered
+species like the rhino.
+La
+Figure 4 This rice field covers a
+huge area of land. It is an example of
+monoculture - only rice is being grown
+Climate change
+In 2007, the Intergovernmental Panel on Climate Change (IPCC)
+released a report summarising scientists' current understanding of
+climate change. The report took six years to produce and involved over
+2500 scientific personnel in its production. Some of the key findings
+include the following:
+The warming trend over the last 50 years (about 0.13°C per
+decade) is nearly twice that for the previous 100 years.
+The average amount of water vapour in the atmosphere has
+increased since the 1980s over land and ocean. The increase is
+broadly consistent with the extra water vapour that warmer air
+can hold.
+Since 1961, the average temperature of the global ocean down
+to depths of 3 km has increased. The ocean has been absorbing
+more than 80% of the heat added to the climate system, causing
+seawater to expand and contributing to sea-level rise.
+The global average sea level rose by an average of 1.8 mm per
+year from 1961 to 2003. There is high confidence that the
+rate of observed sea level rise increased from the 19th to the
+20th century.
+Average Arctic temperatures have increased at almost twice the
+global average rate in the past 100 years.
+Mountain glaciers and snow cover have declined on average in
+both hemispheres. Widespread decreases in glaciers and ice caps
+have contributed to sea-level rise.
+• Long-term upward trends in the amount of precipitation have
+been observed over many regions from 1900 to 2005.
+To enable our understanding of climate change to develop,
+significant quantities of data have been developed charting changes
+to the Earth's climate over time. This has required an enormous
+international co-operative effort over many years. It is only on
+the basis of reliable, irrefutable evidence that decisions of an
+international significance can take place. Decisions made now may
+have far-reaching consequences for the populations of individual
+288
+11
+BIODIVERSITY
+Deforestation affects biodiversity in a number of ways. For example:
+It directly reduces the number of trees present in an area.
+If only a specific type of tree is felled, the species diversity is
+reduced. For example, rosewood is often extracted from rainforests
+(it is used in the manufacture of furniture and guitars), but less
+useable trees may be left intact.
+It reduces the number of animal species present in an area as it
+destroys their habitat, including their food source and home. This
+in turn reduces the number of other animal species that are
+present, by reducing or removing their food source.
+Animals are forced to migrate to other areas to ensure their survival.
+This may result in the biodiversity of neighbouring areas increasing.
+A Figure 2 This land is being cleared
+to make space for housing. As well as
+reducing biodiversity, burning the trees
+increases carbon dioxide levels in
+the atmosphere
+In some areas forests are now being replaced. Although this helps to
+restore biodiversity, generally only a few commercially viable tree
+species are planted. Therefore, biodiversity is still significantly reduced
+from its original level.
+Agriculture
+In general, farmers will only grow a few different species of crop
+plants, or rear just a few species of animals. Farmers often select the
+species based on characteristics that give a high yield (high levels of
+production), for example, wheat that produces the most grain or dairy
+cows that produce the most milk. The selection of only a few species
+greatly reduces the biodiversity of the area.
+In order to be economically viable, once the farmers have selected
+their desired species, a number of techniques are used to produce as
+many of the desired species as possible, maximising food production.
+Unfortunately many of these techniques lead to a reduction in
+biodiversity, for example:
+Figure 3 This hedgerow supports
+a large diversity of species. As well
+as destroying the habitats of many
+organisms, removing hedges or trees
+causes soil erosion. Hedges act as
+natural windbreaks. Once they are
+removed, when the fields are left bare
+during winter the soil can be blown or
+washed away
+Deforestation - to increase the area of land available for growing
+crops or rearing animals.
+Removal of hedgerows - as a result of mechanisation, farmers
+remove hedgerows to enable them to use large machinery to help
+them plant, fertilise, and harvest crops. It also frees up extra land
+for crop growing. This reduces the number of plant species present
+in an area and destroys the habitat of animals such as blackbirds,
+hedgehogs, mice and many invertebrates.
+Use of chemicals such as pesticides and herbicides. Pesticides are
+used to kill pests that would eat the crops or live on the animals.
+This reduces species diversity directly as it destroys the pest species
+(normally insects), and indirectly by destroying the food source of
+other organisms.
+Herbicides are used to kill weeds. A weed is any plant growing
+in an area where it is not wanted. Weeds are destroyed as
+they compete with the cultivated plants for light, minerals, and
+287
+BIODIVERSITY
+77
+relative to their abundance in terms of their biomass or
+productivity). They affect many other organisms in an ecosystem
+and help to determine the species richness and evenness in the
+community. When a keystone species is removed the habitat is
+drastically changed. All other species are affected and some may
+disappear altogether. It is therefore essential to protect keystone
+species to maintain biodiversity. (See the Application for
+examples of keystone species.)
+Human activity versus biodiversity
+We have discussed the negative impact humans have on biodiversity,
+such as deforestation and clearing land for monoculture. However,
+human activity also plays an important role in increasing biodiversity.
+In many countries, including the UK, the natural habitat is created
+by human intervention and the management of land. For example,
+farming, grazing, planting of hedges, meadows, and forest management
+have changed the landscapes, the habitats and the ecology over
+thousands of years. Even the wildest of habitats, such as Dartmoor
+and the Scottish mountains, are a result of farmers and landowners
+managing the ecosystems.
+One example is sheep grazing on downlands. This enables rare species
+like the Glanville fritillary (an orange patterned butterfly) to survive.
+By maintaining the grass at low levels it allows the plantains that the
+caterpillars feed on to thrive and therefore maintains biodiversity.
+Research has also shown that after annual controlled burning of
+gorse and heather in the New Forest (an area of lowland heath),
+biodiversity soars. If left to its own devices, bracken and pioneer tree
+species such as pine and silver birch would start to dominate. Areas of
+lowland heath worldwide are now rarer than rainforest and provide
+habitats for rare UK bird and reptile species such as the nightjar and
+sand lizard.
+Keystone species
+Sea stars, American alligators and prairie dogs are all
+examples of key stone species:
+Like many keystone species, sea stars are predators.
+They maintain a balanced ecosystem by limiting the
+population of other species. Sea stars eat mussels and
+sea urchins, which have no other natural predators.
+If the sea star is removed from the ecosystem, the
+mussels undergo a population explosion, reducing the
+number of other species present in an area (such as
+barnacles and limpets) as they compete for space and
+other resources. Similarly, if sea urchins are not eaten,
+their growing population crowds coral reefs, preventing
+other species from occupying the same area.
+A Figure 2 Sea stars (Pisaster ochraceus) feeding on
+mussels. Sea stars are keystone species in the intertidal
+zones of the Pacific ocean
+293
+BIODIVERSITY
+11
+The IUCN was also involved in the establishment of the Convention
+on International Trade in Endangered Species (CITES). This treaty
+regulates the international trade of wild plant and animal specimens and
+their products. As the trade in wild animals and plants crosses borders
+between countries, the effort to regulate it requires international
+cooperation to safeguard certain species from over-exploitation. Today,
+more than 35 000 species of animals and plants are protected by this
+treaty.
+The Rio Convention
+In 1992, an historic meeting of 172 nations was held in Rio de Janeiro,
+which became known as the Earth Summit. The summit resulted in
+some new agreements between nations in the Rio Convention:
+WWF
+The Convention on Biological Diversity (CBD) requires countries
+to develop national strategies for sustainable development, thus
+ensuring the maintenance of biodiversity.
+The United Nations Framework Convention on Climate Change
+(UNFCCC) is an agreement between nations to take steps to
+stabilise greenhouse gas concentrations within the atmosphere.
+The United Nations Convention to Combat Desertification
+(UNCCD) aims to prevent the transformation of fertile land into
+desert and reduce the effects of drought through programmes of
+international cooperation.
+Figure 7 A number of non-
+governmental organisations exist whose
+aim is to promote conservation and
+sustainability. One example is the World
+Wide Fund for Nature (WWF)
+Each convention contributes to maintaining biodiversity. They are
+intrinsically linked, operating in many ecosystems and addressing
+interdependent issues.
+Countryside stewardship scheme
+Many conservation schemes are set up at a more local level. An
+example is the Countryside Stewardship Scheme in England.
+The scheme, which operated from 1991-2014, offered governmental
+payments to farmers and other land managers to enhance and
+conserve the English landscape. Its general aim was to make
+conservation a part of normal farming and land management practice.
+Specific aims of the scheme included:
+Summary questions
+1 Describe three methods of ex
+situ conservation. (3 marks)
+• sustaining the beauty and diversity of the landscape
+improving, extending and creating wildlife habitats
+restoring neglected land and conserving archaeological and historic
+features
+. improving opportunities for countryside enjoyment.
+This scheme has now been replaced by the Environmental
+Stewardship Scheme, which operates similarly.
+2 Discuss the advantages and
+disadvantages of captive
+breeding programmes.
+(4 marks)
+3 State and explain four
+techniques used in the active
+management of wildlife
+reserves. (4 marks)
+Explain why local and
+international agreements can
+help to preserve biodiversity.
+(4 marks)
+299
+11.8 Methods of maintaining
+biodiversity
+Specification reference: 4.2.1
+In the previous topics you have looked at the reasons why it is
+important to maintain biodiversity, but how can this be achieved?
+The obvious way is to stop converting wild land into agricultural
+or building land. However, to cope with population growth this
+conversion is sometimes unavoidable. It is also important that
+scientists try to repair damage that has already been done, and
+increase biodiversity.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ in situ and ex situ methods of
+maintaining biodiversity
+→ international and local
+conservation agreements
+made to protect species and
+habitats.
+Maintaining biodiversity
+Conservation is the name given to the preservation and careful
+management of the environment and of natural resources. By
+conserving the natural habitat in an area, organisms' chances
+of survival are maintained, allowing them to reproduce. As a
+consequence species and genetic diversity can be safeguarded.
+There are many different ways in which scientists try to conserve
+biodiversity. They can be divided into two main categories:
+•
+in situ conservation - within the natural habitat
+ex situ conservation - out of the natural habitat.
+Scientists are currently trying to conserve a number of species to
+prevent their extinction. Species are classified, for the purposes of
+conservation, according to their abundance in the wild:
+• extinct - no organisms of the species exist anywhere in the world
+extinct in the wild - organisms of the species only exist in captivity
+endangered - a species that is in danger of extinction
+vulnerable -a species that is considered likely to become
+endangered in the near future.
+A Figure 1 The giant panda (Ailuropoda
+melanoleuca) is an example of an
+endangered species. Its numbers have
+been severely reduced by loss of habitat
+and poaching. Current estimates suggest
+there are less than 2000 giant pandas
+living in the wild
+Non-threatened and categories of least concern follow below. Many
+conservation techniques focus on increasing the numbers of organisms
+from species that are classified as endangered.
+Scientists also promote the practice of sustainable development -
+economic development that meets the needs of people today, without
+limiting the ability of future generations to meet their needs.
+Synoptic link
+In situ conservation
+In situ conservation takes place inside an organism's natural habitat.
+This maintains not only the genetic diversity of species, but also the
+evolutionary adaptations that enable a species to adapt continually to
+changing environmental conditions, such as changes in pest populations
+or climate. By allowing the endangered species to interact with other
+species, it also preserves the interdependent relationships present in
+You will find more about sustainable
+development in Topic 24.5,
+Sustainability and about the ecology
+of environmentally sensitive regions
+in Topic 24.9, Environmentally
+sensitive ecosystems.
+295
+11
+BIODIVERSITY
+60000
+KEV:
+55000
+— total species assessed
+--- total species threatened
+total number of species
+50000
+45000
+840000
+35000
+§ 30000
+25000
+20000
+15000
+10000
+5000
+2000
+2002
+2004 2006
+year
+2008
+2010
+Simpson's index of diversity takes
+into account both species richness
+and species evenness. In a school
+exercise book a student wrote the
+following definitions:
+Species richness is a measure of
+the amount of species in an area
+Species evenness shows how
+many individuals there are of a
+species in an area.
+The teacher did not award a mark
+for either of these statements.
+Suggest how each statement could be
+improved.
+(2 marks)
+(iii) if the value for Simpson's Index of
+Diversity is high, this indicates that
+the biodiversity of the habitat is high.
+Outline the implications for a
+habitat if the Simpson's Index
+of Diversity is low. (2 marks)
+when collecting data on the field trip, the
+students placed quadrats in 15 locations
+and calculated a mean number of plants
+for each species.
+Suggest two other steps they could
+have taken to ensure that their value
+for Simpson's Index of Diversity was as
+accurate as possible.
+(2 marks)
+OCR F212/01 2013
+b
+7
+(i) Using the graph, compare the
+changes in the total number of
+species assessed with the changes in
+the total number of threatened species
+over the 10 year period. (3 marks)
+(ii) Using the graph, calculate the
+percentage of species assessed that
+were threatened with extinction
+in 2010. Show your working. Give
+your answer to the nearest whole
+number.
+(2 marks)
+(iii) Suggest explanations for the shape
+of the two curves between 2005
+and 2010.
+(2 marks)
+C A study of the biodiversity of an area
+considers not only the total number
+of species but also the relative number
+of individuals within each species.
+State one relative factor that could be
+taken into account when describing the
+biodiversity of an area.
+(1 mark)
+d In any attempt to protect global diversity,
+cooperation between countries is
+important.
+Two examples of such international
+cooperation are:
+Convention on International trade
+in Endangered Species (CITES)
+Rio Convention on Biological Diversity.
+Other than the conservation of
+biodiversity, state two aims for each
+of these conventions.
+(4 marks)
+OCR F212/01 2013
+Scientists have identified approximately
+1.8 million different species. The number
+of species that actually exist is likely to be
+significantly higher than 1.8 million.
+a Suggest two reasons why the number of
+species identified is likely to be lower than
+the actual number of species present on
+Earth.
+(2 marks)
+Many organisations, such as the
+International Union for the Conservation
+of Nature (IUCN), gather annual data
+about the number of species that are
+known to exist and to what extent they
+are considered to be endangered.
+Figure I shows the total number of
+species assessed by the IUCN over a
+10 year period and the number of those
+species assessed that are considered to
+be threatened with extinction.
+b
+301
+11
+11.8 Methods of maintaining biodiversity
+a habitat, therefore interlinked species may also be preserved. In situ
+conservation is generally cheaper than ex situ conservation.
+Marine (saltwater), aquatic (freshwater) and terrestrial (land) nature
+reserves are examples of areas that have been specifically designated
+for the conservation of wildlife.
+Wildlife reserves
+Once an area has been designated as a wildlife reserve, active
+management is required. Active management techniques may include:
+Figure 2 This is Wistman's Wood on
+Dartmoor. It is a SSSI-a Site of Special
+Scientific Interest. The UK has over 4000
+conservation areas where habitats are
+protected, covering around 8% of the
+nation's land
+controlled grazing - only allowing livestock to graze a particular
+area of land for a certain period of time to allow species time to
+recover, or keeping a controlled number of animals in a habitat to
+maintain it (see below)
+restricting human access – for example, not allowing people to
+visit a beach during the seal reproductive season, or by providing
+paths which must be followed to prevent plants being trampled
+controlling poaching - this includes creating defences to prevent
+access, issuing fines, or more drastic steps such as the removal of
+rhino horns
+. feeding animals - this technique can help to ensure more
+organisms survive to reproductive age
+• reintroduction of species - adding species to areas that have
+become locally extinct, or whose numbers have decreased
+significantly
+culling or removal of invasive species - an invasive species
+is an organism that is not native to an area and has negative
+effects on the economy, environment, or health. These organisms
+compete with native species for resources
+halting succession - succession is a natural process in which
+early colonising species are replaced over time until a stable
+mature population is achieved. For example, as a result of natural
+succession any piece of land left alone for long enough in the UK
+will develop into woodland. The only way to protect some habitats
+such as heath-, down- or moorland from becoming woodland
+is through controlled grazing. In different parts of the country
+ponies, deer, sheep, and cows eat tree seedlings as they appear,
+preventing succession from heathland to scrubland to woodland.
+This is an important role played by humans in maintaining some
+of our most beautiful habitats for future generations.
+Figure 3 This white rhinoceros is
+having its horn removed in Umhlametsi
+Private Nature Reserve, South Africa as
+an anti-poaching measure. The horn is
+highly desirable for its use in ornaments
+and some traditional medicines
+Marine conservation zones
+Marine conservation zones are less well established than terrestrial
+ones. Lundy Island is currently the only statutory marine reserve in
+England, but there are many other protected areas.
+A Figure 4 In Britain, the rhododendron
+has taken over large areas, virtually
+eliminating some native plants. Invasive
+plants and animals are the second
+greatest threat to biodiversity after
+habitat loss
+Marine reserves are vital in preserving species-rich areas such as coral
+reefs, which are being devastated by non-sustainable fishing methods.
+The purpose of the marine reserve is not to prevent fisherman from
+visiting the entire area, but to create areas of refuge within which
+296
+BIODIVERSITY
+11
+Habitat biodiversity
+Habitat biodiversity refers to the number of different habitats found
+within an area. Each habitat can support a number of different species.
+Therefore in general, the greater the habitat biodiversity, the greater
+the species biodiversity will be within that area.
+The UK is home to large number of habitat types, including meadow,
+woodland, streams, and sand dunes. It has a large habitat biodiversity.
+By contrast Antarctica, covered almost entirely by an ice sheet, has a
+very low habitat biodiversity and very few species live in this region.
+On a smaller scale, countryside that is habitat rich, perhaps with a
+river, woodland, hedgerows and wild grassland, will be more species
+rich than farmed countryside with large ploughed fields making up a
+single uniform habitat.
+Species biodiversity
+Species biodiversity has two different components:
+species richness - the number of different species living in a
+particular area, and
+species evenness - a comparison of the numbers of individuals
+of each species living in a community. (The community is all the
+populations of living organisms in a particular habitat.)
+A Figure 3 These two butterflies
+appear to belong to different species;
+however, both are examples of the
+Gaudy Commodore butterfly (Precis
+octavia). Genetic biodiversity within
+this species leads to different wing
+patterns and colours. The actual colours
+displayed depend on the season in
+which the butterflies are born
+Therefore an area can differ in its species biodiversity even if it has the
+same number of species. For example, a cornfield and a grass meadow
+may both contain 20 species. However, in the cornfield, corn will
+make up 95% of the community with the remaining 5% made up of
+other organisms including weed plants, insects, mice, and birds. In the
+grass meadow the species will be more balanced in their populations.
+Study tip
+There are many key terms in this
+topic - make sure you are clear
+on their meaning. Why don't you
+try making your own biodiversity
+glossary?
+Summary questions
+Genetic biodiversity
+Genetic biodiversity refers to the variety of genes that make up
+a species. Humans have about 25000 genes, but some species of
+flowering plants have as many as 400 000 genes. Many of these
+genes are the same for all individuals within a species. However, for
+many genes, different versions (alleles) exist. This leads to genetic
+biodiversity within a species (you will learn more about genetic
+biodiversity in Topic 11.5, Calculating genetic biodiversity).
+Genetic biodiversity within a species can lead to quite different
+characteristics being exhibited. For example, some genes are the same
+for all breeds of dog - these genes define the organism as a dog. Some
+of the genes have many alleles - they code for the wide variation in
+characteristics seen between different breeds of dog, for example coat
+colour and length.
+1 State the difference between
+species richness and
+species evenness. (2 marks)
+2 Compare the biodiversity of an
+arid desert and a temperate
+coastline.
+(3 marks)
+Greater genetic biodiversity within a species allows for better
+adaptation to a changing environment, and is more likely to result in
+individuals who are resistant to disease.
+3 Suggest why greater genetic
+biodiversity increases a
+species' chances of long-term
+survival.
+(4 marks)
+271
+11.
+BIODIVERSITY
+From this sample, the scientist could tell that:
+Loci W Y and Z were polymorphic
+Loci V and X were not polymorphic
+Calculate the proportion of polymorphic gene loci for this mountain ibex population.
+1
+2
+3
+Count the number of polymorphic gene loci: 3 (W, Y and Z)
+Count the total number of loci: 5 (V, W, X, Y and Z)
+Calculate the proportion of polymorphic gene loci:
+proportion of polymorphic gene loci
+number of polymorphic gene loci
+total number of loci
+Uw
+= 0.6
+4
+The proportion of polymorphic gene loci is often expressed
+as a percentage:
+percentage of polymorphic gene loci
+= proportion of polymorphic gene loci x 100
+= 0.6 x 100
+= 60%
+285
+11.6 Factors affecting
+biodiversity
+Specification reference: 4.2.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the factors affecting
+biodiversity, including human
+population growth, agriculture
+and climate change.
+Maintaining biodiversity is essential for preserving a balanced
+ecosystem for all organisms. As species are interconnected within an
+ecosystem, the removal of one species can have a profound effect on
+others. For example, it could lead to a loss of another species' food
+source or shelter.
+As part of the human population you rely on biodiversity for many
+of the materials you need to survive, such as food, wood, and oxygen.
+However, humans are the leading cause of loss of biodiversity.
+Human influence on biodiversity
+The human population is growing at a dramatic rate. There are
+now over seven billion people living in the world, over double the
+number alive in the 1960s and over seven times more than in 1800.
+This increasing growth rate is linked to improvements in medicine,
+hygiene, housing, and infrastructure, which enable people to live for
+longer.
+To create enough space for housing, industry, and farming to support
+the increasing population, humans are severely disrupting the ecology
+of many areas. The main problems are occurring as a result of:
+Figure 1 This photo shows a
+remnant of rainforest surrounded by
+farmland near Iguacu National Park in
+Brazil. Rainforests are being destroyed
+at a rapid pace. Almost 90% of West
+Africa's rainforest has been destroyed
+and the island of Madagascar has
+lost two thirds of its original rainforest
+since humans arrived 2000 years ago.
+Removal of tropical rainforests causes
+the greatest loss of global biodiversity -
+even though rainforests cover less
+than 10% of the Earth's surface, they
+contain approximately 80% of the world's
+documented species
+. deforestation - the permanent removal of large areas of forest
+to provide wood for building and fuel (known as logging), and to
+create space for roads, building and agriculture.
+agriculture - an increasing amount of land has to be farmed in
+order to feed the growing population. This has resulted in large
+amounts of land being cleared and in many cases planted with a
+single crop (monoculture).
+climate change – there is much evidence that the release of
+carbon dioxide and other pollutants into the atmosphere from the
+burning of fossil fuels is increasing global temperatures.
+Other forms of pollution result from industry and agriculture, such as
+the chemical pollution of waterways. The improper disposal of waste
+and packaging is a form of environmental pollution called littering.
+Deforestation
+Deforestation can occur naturally, for example as a result of forest fires
+caused by lightning or extreme heat and dry weather. However, most
+deforestation now occurs deliberately as a result of human action.
+Some areas of forest have also been destroyed indirectly by humans
+through acid rain, which forms as a result of pollutants being released
+into the atmosphere.
+286
+11.2 Types of sampling
+Specification reference: 4.2.1
+You can use a variety of techniques to measure and compare the
+biodiversity of different habitats. However, it is often impossible to
+count or measure all of the organisms present in an area, so sampling
+techniques are used.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ how sampling is used in
+measuring the biodiversity of
+a habitat and the importance
+of sampling
+→ random and non-random
+sampling
+the importance of sampling
+the range of organisms in a
+habitat.
+What is sampling?
+Sampling means taking measurements of a limited number of
+individual organisms present in a particular area.
+Sampling can be used to estimate the number of organisms in an area
+without having to count them all. The number of individuals of a
+species present in an area is known as the abundance of the organism.
+->
+Sampling can also be used to measure a particular characteristic of an
+organism. For example, you cannot reliably determine the height of
+wheat by measuring one wheat plant in a farmer's field. However, if you
+measure the height of a number of plants and then calculate an average,
+your result is likely to be close to the average height of the entire crop.
+After measuring a sample, you can use the results of the sample to make
+generalisations or estimates about the number of organisms, distribution
+of species or measured characteristic throughout the entire habitat.
+Sampling can be done in two ways - random and non-random.
+Random sampling
+Random sampling means selecting individuals by chance. In a
+random sample, each individual in the population has an equal
+likelihood of selection, rather like picking names out of a hat.
+To decide which organisms to study, random number tables or
+computers can be used. You have no involvement in deciding which
+organisms to investigate. For example, to take a random sample at a
+grass verge you could follow these steps:
+1 Mark out a grid on the grass using two tape measures laid at
+right angles.
+Use random numbers to determine the x coordinate and the
+y coordinate on your grid.
+3 Take a sample at each of the coordinate pairs generated.
+Non-random sampling
+Non-random sampling is an alternative sampling method where
+the sample is not chosen at random. It can be divided into three main
+techniques:
+A Figure 1 This scientist is taking
+random soil samples in a field
+Opportunistic - this is the weakest form of sampling as it may
+not be representative of the population. Opportunistic sampling
+uses organisms that are conveniently available.
+272
+11
+11.8 Methods of maintaining biodiversity
+Captive breeding programmes provide the animals with shelter, an
+abundant supply of nutritious food, an absence of predators and
+veterinary treatment. Suitable breeding partners or semen (which can
+be used to artificially inseminate females) can be imported from other
+zoos iſ not available within the zoo's own population.
+A Figure 6 These critically endangered
+Western lowland gorillas (Gorilla gorilla
+gorilla) are part of a New York Zoo
+captive breeding programme. Although
+far more invertebrates than vertebrates
+face extinction, most captive breeding
+programmes focus on vertebrates
+as people find it easier to relate to,
+and have sympathy with vertebrates.
+This generates financial support for
+their conservation and extends public
+education to wider issues
+Maintaining genetic diversity within a captive breeding population
+can be difficult. As only a small number of breeding partners are
+available, problems related to inbreeding can occur. To overcome this,
+an international catalogue is maintained, detailing genealogical data
+on individuals. Mating can thus be arranged to ensure that genetic
+diversity is maximised. Techniques such as artificial insemination,
+embryo transfer and long-term cryogenic storage of embryos allow
+new genetic lines to be introduced without having to transport the
+adults to new locations, and do not require the animals' cooperation.
+Some organisms born in captivity may not be suitable for release in
+the wild. These are some of the reasons:
+• Diseases - there may be a loss of resistance to local diseases in
+captive-bred populations. Also, new diseases might exist in the
+wild, to which captive animals have yet to develop resistance.
+Behaviour - some behaviour is innate, but much has to be
+learned through copying or experience. In an early case of
+reintroduction, a number of monkeys starved because they
+had no concept of having to search for food - they had become
+domesticated. Now food is hidden in cages, rather than just
+supplied, so that the animals learn to look for it.
+Genetic races - the genetic make-up of captive animals can
+become so different from the original population that the two
+populations cannot interbreed.
+Habitat - in many cases the natural habitat must first be restored
+to allow captive populations to be reintroduced. If only a small
+suitable habitat exists it is likely that there are already as many
+individuals as the habitat can support. The introduction of new
+individuals can lead to stress and tension as individuals fight for
+limited territory and resources such as food.
+Conservation agreements
+To conserve biodiversity successfully, local, and international
+cooperation is required to ensure habitats and individual species are
+preserved. Animals do not respect a country's boundaries. Therefore,
+to increase the chances of a species' survival, cross-border protections
+should be offered.
+International Union for the Conservation of Nature
+Intergovernmental organisations, such as the International Union
+for the Conservation of Nature (IUCN), assist in securing agreements
+between nations. At least once a year the IUCN publishes the Red
+List, detailing the current conservation status of threatened animals.
+Countries can then work together to conserve these species.
+298
+11
+11.5 Calculating genetic biodiversity
+Summary questions
+allele. For example, different alleles exist for the immunoglobulin
+gene, which plays a role in determining human blood type - this is
+therefore defined as a polymorphic gene. The three alleles are:
+1 Describe how genetic
+biodiversity in a population
+can increase. (2 marks)
+2 Explain why it is advantageous
+for a species to be genetically
+biodiverse.
+orks)
+• 14 – resulting in the production of antigen A
+IP – resulting in the production of antigen B
+• 1° – resulting in the production of neither antigen
+Most genes are not polymorphic. These genes are said to be
+monomorphic - a single allele exists for this gene. This ensures that
+the basic structure of individuals within a species remains consistent.
+The proportion of genes that are polymorphic can be measured using
+the formula:
+: number of polymorphic gene loci
+proportion of polymorphic gene loci =
+total number of loci
+(The locus (plural - loci) of a gene refers to the position of the gene on
+a chromosome.)
+A scientist was
+V studying two species of
+Drosophila (flies).
+DNA was extracted from each
+species and 25 gene loci
+compared.
+For species A, 12 of the loci
+studied were polymorphic.
+For species B, 15 loci were
+polymorphic.
+Use the data collected to
+explain which of the species
+was more genetically diverse.
+(4 marks)
+The greater the proportion of polymorphic gene loci, the greater the
+genetic biodiversity within the population.
+9 Worked example: Measuring genetic biodiversity
+Gel electrophoresis is a technique used to separate fragments of DNA,
+DNA samples
+based on their size. In this technique restriction enzymes are used
+negative electrode - I
+to cut DNA into smaller pieces, which are then placed in a gel. The
+sample well in gel is placed between positive and negative electrodes, which cause
+the negatively charged DNA to move towards the positive side. The
+gel-
+smaller the fragment of DNA, the further the movement through the
+gel. The pattern produced, known as a banding pattern, can be used
+to compare DNA samples from different individuals.
+The following section of data was collected from the gel
+electrophoresis of five genetic loci within 20 individuals in an ibex
+positive electrode
+(mountain goat) population. The five loci studied were labelled V, W,
+large fragments
+X, Y, and Z.
+direction of
+migration
+All IL TIL
+TILL III IC
+gel
+-U
+1
+2
+3
+4
+individuals
+5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+DDDDDDDDDDDDDDD
+20
+small fragments
+locus V
+I
+locus W
+—
+locus X -> DDDDDDDDD
+DDDDD00
+locus Y -
+IIIII
+DODOO
+JOOOOOOOOOOOOOOOOOOO
+locus Z ->Lagoog
+O
+284
+BIODIVERSITY
+11.1 Biodiversity
+Specification reference: 4.2.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ how biodiversity may be
+considered at different levels.
+You may be familiar with the term biodiversity - the variety of living
+organisms present in an area. Biodiversity includes plants, animals,
+fungi, and other living things. In fact, it includes everything from
+gigantic redwood trees to single-celled algae.
+The importance of biodiversity
+Biodiversity is essential in maintaining a balanced ecosystem for all
+organisms. All species are interconnected - they depend on one another.
+For example, trees provide homes for animals. Animals eat plants,
+which in turn need fertile soil to grow. Fungi and other microorganisms
+help decompose dead plants and animals, returning nutrients to the
+soil. In regions of reduced biodiversity, these connections may not all be
+present, which eventually harms all species in the ecosystem.
+We rely on balanced ecosystems as they provide us with the food,
+oxygen and other materials we need to survive. Unfortunately, many
+human activities, such as farming and clearing land for housing, can
+lead to a reduction in biodiversity.
+A Figure 1 Coral reefs are amongst
+the most biodiverse ecosystems on
+the planet
+Measuring biodiversity
+Tropical, moist regions (that are warm all year round) have the most
+biodiversity. The UK's temperate climate (warm summers and cold
+winters) has less biodiversity. Very cold areas such as the Arctic, or
+very dry areas such as deserts, have the least biodiversity. Generally,
+the closer a region is to the Equator (the line of latitude of the Earth,
+halfway between the North Pole and South Pole), the greater the
+biodiversity. For example, over 40 000 plant species live in the Amazon
+rainforest, whereas less than 3000 live in Northern Canada.
+A Figure 2 There is very little
+biodiversity at the top of a high mountain
+Measuring biodiversity plays an important role in conservation. It
+informs scientists of the species that are present, thus providing a
+baseline for the level of biodiversity in an area. From this information,
+the effect of any changes to an environment can be measured. These
+may include the effect of human activity, disease or climate change,
+for example.
+Before a major project is undertaken, such as building a new road or the
+creation of a new nature reserve, an Environmental Impact Assessment
+(EIA) is undertaken. This assessment attempts to predict the positive
+and negative effects of a project on the biodiversity in that area.
+Biodiversity can be studied at different levels:
+habitat biodiversity
+• species biodiversity
+genetic biodiversity.
+270
+BIODIVERSITY
+11.
+A Figure 1 Gloucester Old Spot pig
+advantageous characteristics and bred. For example, the breeding
+of pedigree animals or of human food crops
+captive breeding programmes in zoos and conservation centres,
+where only a small number of captive individuals of a species are
+available for breeding. Often the wild population is endangered
+or extinct
+rare breeds, where selective breeding has been used historically
+to produce a breed of domestic animal or plant with characteristics
+which then become less popular or unfashionable, so the numbers
+of the breed fall catastrophically. When only a small number
+of individuals of a breed remain and are available for breeding,
+and all of these animals will have been selected for the specific
+breed traits, the genetic diversity of the remaining population
+will be low. This can cause serious problems when trying to
+restore numbers yet maintain breed characteristics, for example, a
+Gloucester Old Spot pig must have at least one spot on the body to
+be accepted into the registry of this rare breed
+artificial cloning (asexual reproduction), for example using
+cuttings to clone a farmed plant
+natural selection. As a result, species will evolve to contain
+primarily the alleles which code for advantageous characteristics.
+Over time, alleles coding for less advantageous characteristics will
+be lost from a population, or only remain in a few individuals.
+genetic bottlenecks, where few individuals within a population
+survive an event or change (e.g., disease, environmental change or
+habitat destruction), thus reducing the 'gene pool'. Only the alleles
+of the surviving members of the population are available to be
+passed on to offspring
+the founder effect, where a small number of individuals create
+a new colony, geographically isolated from the original. The gene
+pool for this new population is small.
+genetic drift, due to the random nature of alleles being passed on
+from parents to their offspring, the frequency of occurrence of an
+allele will vary. In some cases, the existence of a particular allele
+can disappear from a population altogether. Genetic drift is more
+pronounced in populations with a low genetic biodiversity.
+Synoptic link
+An example of the founder effect
+is given in Topic 10.8, Changing
+population characteristics. You
+will learn more about genetic
+bottlenecks and the founder
+effect in Chapter 20, Patterns of
+inheritance and variation.
+Synoptic link
+You will find out about how
+polymorphic genes, and in
+particular your blood type, are
+inherited in Chapter 20, Patterns of
+inheritance and variation.
+0000
+Measuring genetic biodiversity
+One way in which scientists quantify genetic biodiversity is by
+measuring polymorphism. Polymorphic genes have more than one
+Figure 2 The effect of genetic drift on
+genetic biodiversity can be shown using
+the 'marbles in a jar' analogy. At each
+generation, the random nature of alleles
+being passed on leads to a change in
+the frequency of the alleles present in
+the population. In this case, by the fifth
+generation the purple allele is removed
+from the population altogether
+283
+BIODIVERSITY
+17
+populations can build up and repopulate adjacent areas. Large areas of
+sea are required for marine reserves as the target species often move
+large distances, or breed in geographically different areas.
+Synoptic link
+You will find more about succession
+in Topic 23.4, Succession.
+Ex situ conservation
+Ex situ conservation involves the removal of organisms from their
+natural habitat. It is normally used in addition to in situ measures,
+ensuring the survival of a species.
+Botanic gardens
+Plant species can be grown successfully in botanic gardens. Here the
+species are actively managed to provide them with the best resources
+to grow, such as the provision of soil nutrients, sufficient watering, and
+the removal or prevention of pests.
+There are roughly 1500 botanic gardens worldwide, holding 35 000
+plant species. Although this is a significant number (more than 10%
+of the world's flora), the majority of species are not conserved. Many
+wild relatives of selectively bred crop species are under-represented
+amongst the conserved species. These wild species are a potential
+source of genes, conferring resistance to diseases, pests, and parasites.
+Seed banks
+A seed bank is an example of a gene bank - a store of genetic material.
+Seeds are carefully stored so that new plants may be grown in the
+future. They are dried and stored at temperatures of -20°C to maintain
+their viability, by slowing down the rate at which they lose their ability
+to germinate. Almost all temperate seeds, and many tropical seeds, can
+be stored in this way. Scientists expect that they will remain viable for
+centuries, providing a back-up against the extinction of wild plants. The
+Svalbard 'Doomsday Vault' in Norway stores seeds in the permafrost and
+already houses around 800 000 species. It will eventually have 3 million
+different types of seeds and aims to provide a back-up against the
+extinction of plants in the wild by storing seeds for future reintroduction
+and research, for breeding and for genetic engineering in the future.
+Seed banks don't work for all plants. Some seeds die when dried and
+frozen, and sadly the seeds of most tropical rainforest trees fall into
+this category.
+Captive breeding programmes
+Captive breeding programmes produce offspring of species in a
+human-controlled environment. These are often run and managed
+by zoos and aquatic centres. For example, The National Marine
+Aquarium in South West England is playing an important role in
+the conservation of sea horse species. Several species are now solely
+represented by animals in captivity.
+Scientists working on captive breeding programmes aim to create a
+stable, healthy population of a species, and then gradually reintroduce
+the species back into its natural habitat. The Arabian Oryx is an example
+of a species that was extinct in the wild before its reintroduction.
+Figure 5 The Millennium Seed Bank
+Project at Kew Gardens contains over a
+billion seeds from over 34 000 species
+in underground frozen vaults. It is the
+world's largest collection of seeds and
+aims to provide a back-up against the
+extinction of plants in the wild by storing
+seeds for future use
+297
+11.4 Calculating biodiversity
+Specification reference: 4.2.1
+Ecologists, such as those working for the Environment Agency,
+often perform calculations using specific formulae to determine the
+biodiversity of an area. One such calculation is a measure of the
+species diversity. The diversity of the organisms present in an area
+is normally proportional to the stability of the ecosystem, so the
+greater the species diversity the greater the stability. The most stable
+communities have large numbers of fairly evenly distributed species,
+in good-sized populations.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the use and interpretation
+of Simpson's Index of
+Diversity (D) to calculate the
+biodiversity of a habitat.
+Pollution often reduces biodiversity. As a result of harsh conditions, a
+few species tend to dominate. If corrective steps are taken to improve
+environmental conditions, biodiversity levels usually increase.
+Monitoring biodiversity is therefore a useful tool in successful
+conservation and environmental management.
+How to calculate biodiversity
+The simplest way to measure biodiversity is to count up the number of
+species present - the species richness. However, this measure does not
+take into account the number of individuals present. Therefore in a
+meadow containing two daisies and 1000 buttercups, the daisies have
+as much influence on the richness of the area as 1000 buttercups. A
+community dominated by one or two species is considered to be less
+diverse than one in which several different species have a similar
+abundance.
+Synoptic link
+You learnt about species richness
+and species evenness in Topic 11.1,
+Biodiversity.
+Simpson's Index of Diversity (D) is a better measure of biodiversity
+as it takes into account both species richness, and species evenness.
+It is calculated using the formula:
+D=1-
+where:
+0)
+= sum of (total)
+N = the total number of organisms of all species and
+n= the total number of organisms of a particular species.
+When using a technique such as Simpson's Index of Diversity,
+scientists normally have to estimate population size using a variety
+of sampling techniques, such as using a quadrat to estimate the
+population of a plant species in an area.
+Simpson's Index of Diversity always results in a value between 0
+and 1, where 0 represents no diversity and a value of 1 represents
+infinite diversity. The higher the value of Simpson's Index of Diversity,
+the more diverse the habitat.
+Study tip
+Be careful not to confuse species
+diversity with species richness.
+Species diversity takes into
+account both the number of
+different species present (species
+richness) and the number of
+individuals of each species.
+279
+BIODIVERSITY
+77
+Stratified - some populations can be divided into a number
+of strata (sub-groups) based on a particular characteristic.
+For instance, the population might be separated into males
+and females. A random sample is then taken from each of these
+strata proportional to its size.
+Systematic – in systematic sampling different areas within an
+overall habitat are identified, which are then sampled separately.
+For example, systematic sampling may be used to study how
+plant species change as you move inland from the sea. Systematic
+sampling is often carried out using a line or a belt transect. A
+line transect involves marking a line along the ground between
+two poles and taking samples at specified points, this can include
+describing all of the organisms which touch the line or distances of
+samples from the line. A belt transect provides more information;
+two parallel lines are marked, and samples are taken of the area
+between the two lines.
+A Figure 2 These students are carrying
+out sampling by combining two different
+methods. The quadrat seen here is being
+used along a line transect. This is known
+as an interrupted belt transect. This is
+an example of systematic sampling
+Reliability
+A sample is never entirely representative of the organisms present in a
+habitat. This may be due to the following:
+Sampling bias - the selection process may be biased. This may
+be by accident, or may occur deliberately. For example, you may
+choose to sample a particular area that has more flowers because it
+looks interesting. The effects of sampling bias can be reduced using
+random sampling, where human involvement in choosing the
+samples is removed.
+Chance - the organisms selected may, by chance, not be
+representative of the whole population. For example, a sample
+of five worms collected in a trap may be the five longest in the
+habitat. Chance can never be completely removed from the
+process, but its effect can be minimised by using a large sample
+size. The greater the number of individuals studied, the lower the
+probability that chance will influence the result. Therefore the
+larger the sample size, the more reliable the result.
+Summary questions &
+1 State the difference between random and non-random
+sampling.
+(1 mark)
+Describe how you can increase the likelihood of a
+sample being a reliable representation of the population
+as a whole.
+(4 marks)
+3 State and explain which type of sampling you would
+use to study:
+a how organisms differ throughout the length of a stream
+b the distribution of organisms on a school field.
+(2 marks)
+(2 marks)
+273
+11.3 Sampling techniques
+Specification reference: 4.2.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ practical investigations
+collecting random and non-
+random samples in the field
+how to measure species
+richness and species
+evenness in a habitat.
+You can use many different techniques to sample the living organisms
+present in a habitat and the environment in which they live, as you
+saw in the previous topic. The technique you choose is dependent
+on the information you require. At each sampling point you would
+normally use more than one technique, so that a range of data can
+be collected.
+Sampling animals
+The following techniques can be used to collect living animals for
+study later. Remember, all living organisms must be handled carefully
+and for as short a time period as possible. As soon as any sample
+animals have been identified, counted and measured if required, they
+must be released back into the habitat at the point they were collected.
+A pooter is used to catch small insects. By sucking on a
+mouthpiece, insects are drawn into the holding chamber via the
+inlet tube. A filter before the mouthpiece prevents them from
+being sucked into the mouth.
+Sweep nets are used to catch insects in areas of long grass.
+Pitfall traps are used to catch small, crawling invertebrates such
+A Figure 1 This student is using a
+as beetles, spiders and slugs. A hole is dug in the ground, which
+pooter to collect insects from a tree
+insects fall into. It must be deep enough that they
+cannot crawl out and covered with a rool-structure
+propped above so that the trap does not fill with
+rainwater. The traps are normally left overnight, so
+that nocturnal species are also sampled.
+Tree beating is used to take samples of the
+invertebrates living in a tree or bush. A large
+white cloth is stretched out under the tree.
+The tree is shaken or beaten to dislodge the
+invertebrates. The animals will fall onto the sheet
+where they can be collected and studied.
+Kick sampling is used to study the organisms
+living in a river. The river bank and bed is kicked'
+for a period of time to disturb the substrate. A net
+is held just downstream for a set period of time in
+A Figure 2 This is a pitfall trap. The glass perspex cover
+prevents rain entering the trap and potentially causing any
+order to capture any organisms released into the
+trapped insects to drown
+flowing water.
+Sampling plants
+Plants are normally sampled using a quadrat, which can also be used
+to pinpoint an area in which the sample of plants should be collected.
+Quadrats can also be used to sample slow-moving animals such as
+limpets, barnacles, mussels, and sea anemones.
+274
+11
+11.4 Calculating biodiversity
+Biodiversity values
+What do low and high biodiversity values tell us about a habitat?
+Table 1 Typical habitat features for environments with low and high biodiversity
+Habitat features
+High biodiversity
+Low biodiversity
+relatively few
+number of successful species
+nature of the environment
+a large number
+relatively benign/not stressful, with
+more ecological niches
+many species live in the habitat, often
+with few specific adaptations to the
+environment
+stressful and/or extreme with
+relatively few ecological niches
+relatively few species live in the
+habitat, often with very specific
+adaptations for the environment
+adaptation of species to environment
+type of food webs
+relatively simple
+complex
+major effects on the ecosystem
+often relatively small effect
+effect of a change to the environment
+on ecosystem as a whole
+Although some habitats of low biodiversity are unable to support a
+large species diversity, those organisms that are present in the habitat
+can be highly adapted to the extreme environment of the habitat.
+These organisms may not survive elsewhere. It is therefore important
+to conserve some habitats with low biodiversity, as well as those with
+high biodiversity, in order to conserve rare species that may be too
+specialised to survive elsewhere.
+Figure 1 A habitat with a low
+biodiversity value
+0 0 Worked example: Calculating Simpson's Index
+of Diversity
+Individuals of the species living in a pond habitat were identified
+and counted (Table 2). They were sampled by sweeping a net
+through the pond.
+Table 2 Species identified in a pond
+Species
+Number
+water boatman
+water strider
+dragonfly larvae
+mayfly larvae
+caddisfly larvae
+2
+Calculate Simpson's Index of Diversity for this habitat.
+Use the following formula:
+D=1- ()
+280
+11
+11.3 Sampling techniques
+a decaying log. Of these, 20 are woodlice, 15 are spiders, and 15 are
+centipedes – the community is quite evenly distributed between
+species. However, if the 50 insects comprised just 45 woodlice and
+5 spiders, the community would be described as uneven.
+Synoptic link
+Using frame quadrats
+A frame quadrat is used to sample the population of plants living in a
+habitat. There are three main ways of doing this:
+You will learn how to use the
+Lincoln index to estimate
+population size in Topic 23.5,
+Measuring the distribution and
+abundance of organisms.
+Density – if individual large plants can be seen clearly, count the
+number of them in a lm by Im square quadrat. This will give you
+the density per square metre. This is an absolute measure, not an
+estimate as the following two methods.
+Frequency - this is used where individual members of a species
+are hard to count, like grass or moss. Using the small grids within a
+quadrat, count the number of squares a particular species is present
+in. For example, if clover is present in 65 out of 100 squares, the
+frequency of its occurrence is 65%. (Each square represents 1%.)
+Another commonly used quadrat contains 25 squares - in this case,
+each square represents 4% of the study area. Therefore if, during a
+sampling of grassland, eight quadrat squares contained buttercups,
+the frequency of occurrence would be 32%.
+Percentage cover - this is used for speed as lots of data can be
+collected quickly. It is useful when a particular species is abundant
+or difficult to count. It is an estimate by eye of the area within a
+quadrat that a particular plant species covers.
+For each approach, samples should be taken at a number of different
+points. The larger the number of samples taken, the more reliable
+your results. You should then calculate the mean of the individual
+quadrat results to get an average value for a particular organism per m²
+(To calculate the mean value, sum the individual quadrat results,
+then divide by the number of samples taken). To work out the total
+population of an organism in an area that has been sampled, multiply
+the mean value per m2 by the total area.
+Estimating animal population size
+As animals are constantly moving through a habitat
+and others may be hidden, it can be difficult to
+accurately determine their population size. A technique
+known as capture-mark-release-recapture is often used
+to estimate a population size. This involves capturing
+as many individuals of a species in an area as possible.
+The organisms are marked and then released back into
+the community. Time is allowed for the organisms to
+redistribute themselves throughout the habitat before
+another sample of animals is collected. By comparing
+the number of marked individuals with the number of
+unmarked individuals in the second sample, scientists
+can estimate population size. The greater the number
+of marked individuals recaptured, the smaller the
+population.
+A Figure 5 An electronic tag is being fitted to this green
+sea turtle (Chelonia mydas). This is as part of a study to
+estimate population size
+276
+11.5 Calculating genetic
+biodiversity
+Specification reference: 4.2.1
+Maintaining genetic biodiversity is essential to the survival of a
+species. In isolated populations, such as those present within a captive
+breeding programme, genetic biodiversity is often reduced. This means
+that the individuals may suffer from a range of problems associated
+with in-breeding.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ how genetic biodiversity may
+be assessed, for example
+by the calculation of the
+percentage of gene variants
+(alleles) in a genome
+factors affecting genetic
+biodiversity in isolated
+populations.
+Scientists can calculate the genetic biodiversity of a population of a
+species (sometimes referred to as the gene pool) to monitor the health
+of the population and ensure its long-term survival.
+The importance of genetic biodiversity
+Within a species, individuals have very little variation within their DNA.
+All members of the species share the same genes. However, they
+may have different versions of some of these genes. The different
+'versions' of genes are called alleles. The differences in the alleles
+among individuals of a species creates genetic biodiversity within
+the species, or within a population of the species. The more alleles
+present in a population, the more genetically biodiverse the
+population.
+Synoptic link
+You learnt about alleles of genes
+in Topics 6.3, Meiosis and 10.5,
+Types of variation.
+Species that contain greater genetic biodiversity are likely to be
+able to adapt to changes in their environment, and hence are less
+likely to become extinct. This is because there are likely to be
+some organisms within the population that carry an advantageous
+allele, which enables them to survive in the altered conditions.
+For example, when a potentially fatal new disease is introduced to
+a population, all organisms will be killed unless individuals carry
+resistance to the disease. Those organisms are likely to survive the
+disease, and therefore be able to reproduce - leading to the survival
+of the species.
+Factors that affect genetic biodiversity
+For genetic biodiversity to increase, the number of possible alleles in a
+population must also increase. This can occur through:
+• mutation(s) in the DNA of an organism, creating a new allele.
+• interbreeding between different populations. When an individual
+migrates from one population and breeds with a member of
+another population, alleles are transferred between the two
+populations. This is known as gene flow.
+In order for genetic biodiversity to decrease, the number of possible
+alleles in a population must also decrease. This can occur through:
+Synoptic link
+You learnt about how genetic
+diversity can lead to the evolution
+of a species in Topic 10.8, Changing
+population characteristics.
+selective breeding (also known as artificial selection), where
+only a few individuals within a population are selected for their
+282
+BIODIVERSITY
+11.
+1
+Calculate total number of organisms (N)
+N = 4 + 6 + 3 + 8 + 2 = 23
+2
+Calculate () for each organism. For example, for the water
+boatman:
+n = number of organisms = 4
+N = total number of organisms = 23
+6) = 6) = 0.03
+3 Sum () for all organisms
+4
+6) = 0.03 +0.07 +0.02 + 0.12 + 0.01 = 0.25
+Calculate Simpson's Index of Diversity
+D=1- EC) = 1 - 0.25 = 0.75
+A Figure 2 Ecologist studying
+biodiversity in a pond habitat
+This indicates that the pond habitat has a relatively
+high biodiversity.
+Summary questions
+1 Describe the conditions likely to be found in an area of
+high biodiversity.
+(3 marks)
+Figure 3 Pollution reduces
+biodiversity in a habitat. These trees
+have been killed by acid rain
+The organisms present in two pond habitats were sampled. The
+following values of Simpson's Index of Diversity were calculated:
+Pond A: D = 0.27
+Pond B:D=0.63
+a Which pond habitat is the more biodiverse?
+(1 mark)
+b Which pond habitat is most likely to be polluted?
+Explain your answer.
+(3 marks)
+3
+A sample was taken of wildflowers growing in a meadow.
+Calculate Simpson's Index of Diversity for this habitat. (4 marks)
+Species
+Number
+Bird's-foot trefoil
+Crested dog's-tail
+Meadow buttercup
+Oxeye daisy
+Rough hawkbit
+Smaller cat's-tail
+7
+2
+281
+BIODIVERSITY
+There are two main types of quadrat:
+Point quadrat - this consists of a frame containing a horizontal
+bar. At set intervals along the bar, long pins can be pushed through
+the bar to reach the ground. Each species of plant the pin touches
+is recorded (Figure 3).
++0.5 metre (internal dimension) +
+pin - placed through
+hole in the horizontal bar -
+through
+wing nut -
+$2
+vertical leg
+wire or string metal or wooden
+frame
+Figure 4 A frame quadrat
+1:
+00:00.0
+surface view of horizontal bar
+RooOQQOOOOO
+holes through which the pin
+wing nut
+is successively dropped
+Figure 3 A point quadrat
+Frame quadrat - this consists of a square frame divided into a grid
+of equal sections. The type and number of species within each section
+of the quadrat is recorded (Figure 4). Further details are given below.
+To collect the most valid representative sample of an area, quadrats
+should be used following a random sampling technique (as discussed
+in Topic 11.2, Types of sampling). To study how the presence and
+distribution of organisms across an area of land varies, the quadrats
+can be placed systematically along a line or belt transect.
+Measuring species richness
+As you learnt in Topic 11.1, Biodiversity species richness is a
+measure of the number of different species living in a specific area.
+You should use a combination of the techniques described above to
+try to identify all the species present in a habitat. A list should be
+compiled of each species identified. The total number of species can
+then be calculated.
+To enable scientists to accurately identify organisms, identification
+keys are often used. These may contain images to identify the
+organism, or a series of questions, which classify an organism into a
+particular species based on the presence of a number of identifiable
+characteristics.
+Synoptic link
+Measuring species evenness
+As you learnt in Topic 11.1, Biodiversity, species evenness refers
+to how close in numbers the populations of each species in an
+environment are. For example, 50 organisms are found living under
+You learned about how organisms
+are classified in Topic 10.1,
+Classification and 10.2, The five
+kingdoms.
+275

@@ -1,0 +1,1355 @@
+EXCHANGE SURFACES
+AND BREATHING
+7.1 Specialised exchange surfaces
+Specification reference: 3.1.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the need for specialised
+exchange surfaces
+► the features of an efficient
+exchange surface.
+Imagine a microscopic single-celled organism such as Amoeba
+drifting in the ocean currents. Now think of a dolphin, swimming
+at high speeds, hunting fish or playing with other dolphins. They
+both need glucose and oxygen for cellular respiration and produce
+waste carbon dioxide, which must be removed. However, the
+quantities involved and the distances the substances need to travel,
+are very different.
+The need for specialised exchange surfaces
+In microscopic organisms such as Amoeba all of the oxygen needed
+by the organism, and the waste carbon dioxide produced, can be
+exchanged with the external environment by diffusion through the
+cell surface. The distances the substances have to travel are very small.
+There are two main reasons why diffusion alone is enough to supply
+the needs of single-celled organisms:
+The metabolic activity of a single-celled organism is usually low, so
+the oxygen demands and carbon dioxide production of the cell are
+relatively low.
+The surface area to volume (SA:V) ratio of the organism is
+large (see below).
+A Figure 1 Getting oxygen into the
+muscle cells of a dolphin isn't as easy as
+getting it into an Amoeba
+As organisms get larger they can be made up of millions or even
+billions of cells arranged in tissues, organs, and organ systems. Their
+metabolic activity is usually much higher than most single-celled
+organisms. Think of the dolphin in Figure 1. The amount of energy
+used in moving through the water means the oxygen demands of
+the muscle cells deep in the body will be high and they will produce
+lots of carbon dioxide. The distance between the cells where the
+oxygen is needed and the supply of oxygen is too far for effective
+diffusion to take place. What's more, the bigger the organism, the
+smaller the SA: V ratio. So gases can't be exchanged fast enough or
+in large enough amounts for the organism to survive.
+Surface area : volume ratio - modelling an organism
+The SA:V ratio is important in many areas of biology. A sphere is
+a useful shape for modelling cells or organisms. A series of simple
+calculations shows clearly how the SA:V ratio changes as the
+organism gets bigger, and why size matters so much.
+Synoptic link
+You have already learnt about
+diffusion in Topic 5.3, Diffusion.
+154
+7.4 Ventilation and gas exchange in other organisms
+diffusion would not be enough to supply their inner cells with the
+oxygen they need, and their scaly outer covering does not allow
+gaseous exchange. However, bony fish have evolved a ventilatory
+system adapted to take oxygen from the water and get rid of carbon
+dioxide into the water. They maintain a flow of water in one
+direction over the gills, which are their organs of gaseous exchange.
+Gills have the large surface area, good blood supply, and thin layers
+needed for successful gaseous exchange. In bony fish they are
+contained in a gill cavity and covered by a protective operculum
+(a bony flap), which is also active in maintaining a flow of water
+over the gills (Figure 4).
+water with high
+oxygen content
+operculum
+(flap that covers gills)
+eye
+gill lamellae, with their
+rich blood supply and
+large surface area, are
+the main site of gaseous
+exchange in the fish
+nostril
+first gill arch
+%%%%
+mouth-
+gill filaments occur in large
+stacks (gill plates) and need
+a flow of water to keep them
+apart, exposing the large
+surface area needed for
+gaseous exchange
+bony gill arch supports the structure of the gills
+arrangement of
+the gill stacks
+efferent blood vessel carries the blood leaving the gills
+in the opposite direction to the incoming water,
+maintaining a steep concentration gradient
+afferent blood vessel brings
+blood into the system
+Figure 4 The gills are the
+site of gaseous exchange in
+bony fish and have a number
+of adaptations for their role
+in supplying oxygen and
+removing carbon dioxide
+The gills make up the gaseous exchange surface of the fish. They
+have many features in common with both mammalian and insect
+gaseous exchange surfaces. However, they also have particular
+challenges. To allow efficient gas exchange at all times, fish need to
+maintain a continuous flow of water over the gills, even when they
+are not moving. They also need to carry out gaseous exchange as
+effectively as possible in water, a medium where diffusion is slower
+than in air.
+Water flow over the gills
+When fish are swimming they can keep a current of water flowing
+over their gills simply by opening their mouth and operculum.
+However, when the fish stops moving, the flow of water also stops.
+The more primitive cartilaginous fish such as the sharks and rays
+often rely on continual movement to ventilate the gills. This is
+known as ram ventilation - they just ram the water past the
+gills. However, most bony fish do not rely on movement-generated
+water flow over the gills. They have evolved a sophisticated system
+involving the operculum, which allows them to move water over
+their gills all the time (Figure 5).
+168
+EXCHANGE SURFACES AND BREATHING
+Discontinuous gas exchange cycles in insects
+Discontinuous gas exchange cycles (DGC) have been found to be relatively
+common in many species of insects. In DCG spiracles have three states -
+closed, open, and fluttering.
+• When the spiracles are closed no gases move in or out of the insect.
+Oxygen moves into the cells by diffusion from the tracheae and carbon
+dioxide diffuses into the body fluids of the insect where it is held in a
+process called buffering.
+When the spiracles flutter, they open and close rapidly. This moves
+fresh air into the tracheae to renew the supply of oxygen, while
+minimising water loss.
+When carbon dioxide levels build up really high in the body fluids of the
+insect, the spiracles open widely and carbon dioxide diffuses out rapidly.
+There may also be pumping movements of the thorax and abdomen
+when the spiracles are open to maximise gaseous exchange.
+Originally scientists thought discontinuous gas exchange was an adaptation
+for water conservation in insects. Now the evidence suggests this is not
+the case and there are a number of conflicting theories about the adaptive
+advantages of discontinuous gas exchange for insects, which include
+helping gaseous exchange in insects that spend at least part of their lives
+in enclosed spaces such as burrows, or reducing the entry of fungal spores,
+which can parasitise an insect. This is still an area of very active research
+and argument.
+1 Suggest one way in which each of the given theories on the value of
+DGC as an adaptation might be investigated.
+Respiratory systems in bony fish
+Animals that get their oxygen from water do not need to try and
+prevent water loss from their gaseous exchange surfaces as land
+animals do, but there are other difficulties to overcome.
+Water is 1000 times denser than air. It is 100 times more viscous (thick)
+and has a much lower oxygen content. To cope with the viscosity
+of water and the slow rate of oxygen diffusion, fish have evolved
+very specialised respiratory systems that are different from those of
+land-dwelling animals. It would use up far too much energy to move
+dense, viscous water in and out of lung-like respiratory organs. Moving
+water in one direction only is much simpler and more economical in
+energy terms.
+Gills
+Bony fish such as trout and cod are relatively big, active animals
+that live almost exclusively in water. Because they are very active,
+their cells have a high oxygen demand. Their SA:V ratio means that
+167
+EXCHANGE SURFACES AND BREATHING
+opercular valve closed
+top view
+buccal cavity
+gills
+gill arches
+ww
+-- mouth open-
+operculum
+buccal cavity
+expanding
+The mouth is opened and the floor of the buccal cavity (mouth) is lowered. This
+increases the volume of the buccal cavity. As a result the pressure in the cavity
+drops and water moves into the buccal cavity. At the same time the opercular
+valve is shut and the opercular cavity containing the gills expands. This lowers the
+pressure in the opercular cavity containing the gills. The floor of the buccal cavity
+starts to move up, increasing the pressure there so water moves from the buccal
+cavity over the gills.
+opercular
+valve open
+top view
+mouth closed
+buccal cavity constricting
+The mouth closes, the operculum opens and the sides of the opercular cavity
+move inwards. All of these actions increase the pressure in the opercular cavity
+and force water over the gills and out of the operculum. The floor of the buccal
+cavity is steadily moved up, maintaining a flow of water over the gills.
+A Figure 5 Although this diagram shows the ventilation of the gills in stages, this
+is actually a continuous process, which ensures that water is constantly flowing
+over the gills
+Effective gaseous exchange in water
+Gills have a large surface area for diffusion, a rich blood supply to
+maintain steep concentration gradients for diffusion, and thin layers so
+that diffusing substances have only short distances to travel. Gills have
+two extra adaptations that help to ensure the most effective possible
+gaseous exchange occurs in the water:
+The tips of adjacent gill filaments overlap. This increases the
+resistance to the flow of water over the gill surfaces and slows
+down the movement of the water. As a result there is more time
+for gaseous exchange to take place.
+The water moving over the gills and the blood in the gill
+filaments flow in different directions. A steep concentration
+gradient is needed for fast, efficient diffusion to take place.
+Because the blood and water flow in opposite directions, a
+countercurrent exchange system is set up. This adaptation
+ensures that steeper concentration gradients are maintained
+than if blood and water flowed in the same direction (known as
+a parallel system). As a result, more gaseous exchange can take
+place. The bony fish, with their countercurrent systems, remove
+about 80% of the oxygen from the water flowing over them.
+The cartilaginous fish have parallel systems and can only extract
+about 50% of the oxygen from the water flowing over them
+(Figure 6).
+A Figure 6 Careful dissection of a
+trout (genera Onchorhynchus). The
+operculum (top) helps to protect the
+gills. Removal of the operculum shows
+thin feathery gills which have a large
+surface area (middle). Here you can
+see that the water flows in through the
+mouth over the gills and out (bottom)
+169
+EXCHANGE SURFACES AND BREATHING
+B Worked example: SA:V ratios
+Compare the SA:V ratios of organisms with a radius of 1, 3 and
+10 arbitrary units (au) and explain how this affects their ability to
+exchange materials with the environment.
+The surface area of a sphere is calculated using the formula 4^r2
+The volume of a sphere is calculated using the equation
+radius )
+A Figure 2 The radius of a sphere
+To do these calculations you use 3.14 as the value of it.
+Example 1: Radius = lau
+Surface area is 4nr2 so: 4 x 3.14 x 1x1 = 12.6 (1dp)
+(4 x 3.14 xl xl xl)
+Volume is ar’ so: 64
+= 4.2 (dp)
+SA:V ratio is 2,6 = 3:1
+Example 2: Radius = 3 au
+Surface area is 4rrºso: 4 x 3.14 x 3 x 3 = 113.0 (1dp)
+(4 x 3.14 x 3 x 3 x 3) = 113.0 (1dp)
+Volume is nr? so: 64
+SA:V ratio is 113.0 = 1:1
+113.0
+Example 3: Radius = 10 au
+Surface area is 4ar? so: 4 x 3.14 x 10 x 10 = 1256.0 (10p)
+(4 x 3.14 x 10 x 10 x 10) = 4186.7 (1dp)
+Volume is arº so: 14
+1256
+SA:V ratio is
+4186
+3 (to the nearest whole number)
+The bigger the organism, the smaller the surface area to volume
+ratio becomes, and the distances that substances need to travel
+from the outside to reach the cells at the centre of the body get
+longer. This makes it harder and ultimately impossible to absorb
+enough oxygen through the available surface area to meet the
+needs of the body.
+Synoptic link
+You will apply the same principles
+of SA:Vratio when you consider
+how nutrients are supplied to the
+cells of multicellular organisms
+in Chapter 8, Transport in animals
+and Chapter 9, Transport in plants.
+You will also consider SA:V ratio
+when looking at adaptations
+to reduce or increase heat
+loss in Topics 15.2 and 15.3,
+Thermoregulation in ectotherms
+and endotherms, respectively.
+155
+7.1 Specialised exchange surfaces
+e
+e
+Specialised exchange surfaces
+Large, multicellular organisms have evolved specialised systems for
+the exchange of the substances they need and the substances they
+must remove.
+All effective exchange surfaces have certain features in common.
+You will be looking at many of them in detail in this chapter. Here is a
+summary of the characteristic features of effective exchange surfaces,
+along with some examples:
+Figure 3 This scanning electron
+micrograph shows the large surface area
+of the gills of a fish, x 200 magnification
+Increased surface area - provides the area needed for exchange
+and overcomes the limitations of the SA:V ratio of larger organisms.
+Examples include root hair cells in plants and the villi in the small
+intestine of mammals.
+Thin layers - these mean the distances that substances have to
+diffuse are short, making the process fast and efficient. Examples
+include the alveoli in the lungs (see next topic) and the villi of the
+small intestine.
+Good blood supply - the steeper the concentration gradient, the
+faster diffusion takes place. Having a good blood supply ensures
+substances are constantly delivered to and removed from the
+exchange surface. This maintains a steep concentration gradient
+for diffusion. For example the alveoli of the lungs, the gills of a
+fish and the villi of the small intestine.
+Ventilation to maintain diffusion gradient - for gases, a
+ventilation system also helps maintain concentration gradients
+and makes the process more efficient, for example the alveoli and
+the gills of a fish where ventilation means a flow of water carrying
+dissolved gases (see Topic 7.4, Ventilation and gas exchange in
+other organisms).
+Synoptic link
+You will learn more about
+specialised exchange surfaces in
+many other topics. More detail on
+the increased surface area of root
+hair cells in plants and the villi in
+the small intestine can be found
+in Topic 9.2, Water transport in
+multicellular animals and Topic
+8.3, Blood, tissue fluid, and lymph
+respectively.
+Summary questions
+1 Explain why single-celled organisms do not need specialised
+exchange surfaces.
+(4 marks)
+2 Describe the main features of any efficient exchange surface
+and explain how the structures relate to their functions.
+(6 marks)
+3 One roughly spherical organism has a radius of 2 au. Another
+has a radius of 6 au. Compare the SA:V ratios of the organisms
+and use these to explain why the larger organisms need
+specialised exchange surfaces.
+(6 marks)
+156
+7.4 Ventilation and gas exchange in other organisms
+flow of blood in gills
+blood leaving gills
+-
+therefore no
+further net diffusion
+diffusion
+equilibrium
+• arbitrary unit
+of oxygen
+direction of water flow
+parallel system: blood in the gills and water flowing over the gills travel in the same direction, which
+gives an initial steep oxygen concentration gradient between blood and water. Diffusion takes place
+until the oxygen concentration of the blood and water are in equilibrium, then no net movement of
+oxygen into the blood occurs,
+► flow of blood in gills
+blood leaving gills
+diffusion
+diffusion
+diffusion
+- direction of water flow
+countercurrent system: blood and water flow in opposite directions so an oxygen concentration
+gradient between the water and the blood is maintained all along the gill. Oxygen continues to diffuse
+down the concentration gradient so a much higher level of oxygen saturation of the blood is achieved.
+A Figure 7 The advantages of a countercurrent exchange system are clear to see. The system also
+enables bony fish to remove more carbon dioxide from the blood than a parallel system
+9 Dissecting, examining, and drawing gaseous exchange systems
+Dissecting an animal gives you a unique insight into the observe and display the relevant features of an organism
+complexity of a multicellular living organism. The process to the best of your ability, and then record what you
+of evolution over millions of years has resulted in internal have seen in a clear and well-labelled diagram. It may
+systems of great efficiency and elegance.
+be useful to take a photograph of your dissection and
+When you dissect an animal it can be confusing. You will be
+so preserve what it actually looked like alongside your
+labelled diagram. In Figure 3 and Figure 6 you can see
+looking at one particular body system but they do not exist
+in isolation. You cannot see the gas exchange system, for
+examples of dissections of the gas exchange system of
+an insect and the gas exchange system of a bony fish.
+example, without getting through the body wall.
+You will need specialist equipment including boards and
+pins with which to display your dissection. The tools
+needed for successful dissections include sharp scissors
+and scalpels along with tweezers and mounted needles
+to lift and tease out tissues.
+When you carry out a dissection the aim is to be as
+precise and clean in your work as possible. You should
+1 Drawings from dissections are always done in
+pencil - suggest why.
+2 Make careful labelled drawings of the dissections
+shown in Figure 3 and Figure 6.
+The histology of exchange surfaces
+adaptations of these surfaces for their role in gaseous
+exchange.
+Some of the key features of exchange surfaces - the
+large surface area, the short diffusion distances, and the
+proximity of the blood supply often cannot be seen when
+you look at the whole organ system.
+Example 1 - The network of tiny air sacs with walls that
+are a single cell thick that make up the surface area
+of the alveoli can clearly be seen in light micrographs of
+lung tissue , x 40 magnification.
+However using prepared slides with the light
+microscope can give you an insight into the detailed
+170
+7.4 Ventilation and gas exchange in other organisms
+body of the insect. The tubes are lined by
+spirals of chitin, which keep them open
+if they are bent or pressed. Chitin is the
+material that makes up the cuticle. It is
+relatively impermeable to gases and so little
+gaseous exchange takes place in the trachea.
+The tracheae branch to form narrower
+tubes until they divide into the tracheoles,
+minute tubes of diameter 0.6-0.8 um. Each
+tracheole is a single, greatly elongated cell
+with no chitin lining so they are freely
+permeable to gases. Because of their very
+small size they spread throughout the tissues
+of the insect, running between individual
+cells. This is where most of the gaseous
+Figure 3 Careful dissection of an insect such as this immature
+exchange takes place between the air and
+desert locust (Schistocerca gregaria) can show the network of tracheae
+the respiring cells.
+which spread out from the spiracles. Here the locust dissection has
+been submerged in water to help show the tracheae which are filled with In most insects, for most of the time, air
+air and appear a pearly white. Very fine tracheae can be seen floating up moves along the tracheae and tracheoles
+into the water
+by diffusion alone, reaching all the tissues.
+The vast numbers of tiny tracheoles give a very large surface area for
+gaseous exchange. Oxygen dissolves in moisture on the walls of the
+tracheoles and diffuses into the surrounding cells. Towards the end of
+the tracheoles there is tracheal fluid, which limits the penetration
+of air for diffusion. However, when oxygen demands build up - when
+the insect is flying, for example - a lactic acid build up in the tissues
+results in water moving out of the tracheoles by osmosis. This exposes
+more surface area for gaseous exchange.
+All of the oxygen needed by the cells of an insect is supplied to them
+by the tracheal system.
+The extent of gas exchange in most insects is controlled by the
+opening and closing of the spiracles.
+Some insects, for example larger beetles, locusts and grasshoppers,
+bees, wasps and flies, have very high energy demands. To supply the
+extra oxygen they need, these insects have alternative methods of
+increasing the level of gaseous exchange. These include:
+mechanical ventilation of the tracheal system - air is actively
+pumped into the system by muscular pumping movements of the
+thorax and/or the abdomen. These movements change the volume
+of the body and this changes the pressure in the tracheae and
+tracheoles. Air is drawn into the tracheae and tracheoles, or forced
+out, as the pressure changes
+collapsible enlarged tracheae or air sacs, which act as air
+reservoirs - these are used to increase the amount of air moved
+through the gas exchange system. They are usually inflated and
+deflated by the ventilating movements of the thorax and abdomen.
+166
+7
+7.2 The mammalian gaseous exchange system
+house in the UK is only 67m2. If the lungs were simple, balloon-like
+structures, the surface area would not be big enough for the amount
+of oxygen needed to diffuse into the body. This demonstrates again
+the importance of the SA:V ratio (Topic 7.1, Specialised exchange
+surfaces).
+Thin layers - both the alveoli and the capillaries that surround
+them have walls that are only a single epithelial cell thick, so the
+diffusion distances between the air in the alveolus and the blood in
+the capillaries are very short.
+Good blood supply - the millions of alveoli in cach lung are
+supplied by a network of around 280 million capillaries. The
+constant flow of blood through these capillaries brings carbon
+dioxide and carries off oxygen, maintaining a steep concentration
+gradient for both carbon dioxide and oxygen between the air in
+the alveoli and the blood in the capillaries.
+Good ventilation - breathing moves air in and out of the alveoli,
+helping maintain steep diffusion gradients for oxygen and carbon
+dioxide between the blood and the air in the lungs.
+The inner surface of the alveoli is covered in a thin layer of a solution
+of water, salts and lung surfactant. It is this surfactant that makes
+it possible for the alveoli to remain inflated. Oxygen dissolves in the
+water before diffusing into the blood, but water can also evaporate
+into the air in the alveoli. Several of the adaptations of the human gas
+exchange system are to reduce this loss of water.
+Ventilating the lungs
+Air is moved in and out of the lungs as a result of pressure changes in
+the thorax (chest cavity) brought about by the breathing movements.
+This movement of air is called ventilation.
+trachea
+lung
+MICOS
+rib
+The rib cage provides a semi-rigid case
+within which pressure can be lowered
+with respect to the air outside it. The
+diaphragm is a broad, domed sheet
+of muscle, which forms the floor of
+the thorax. The external intercostal
+muscles and the internal intercostal
+muscles are found between the ribs.
+internal intercostal
+muscles (towards The thorax is lined by the pleural
+the inside)
+membranes, which surround the lungs.
+The space between them, the pleural
+cavity, is usually filled with a thin layer
+external intercostal of lubricating fluid so the membranes
+muscles (towards slide easily over each other as you
+the outside)
+breathe.
+heart
+diaphragm
+Inspiration
+Inspiration (taking air in or inhalation)
+is an energy-using process.
+A Figure 5 The arrangement of the rib cage, diaphragm, and intercostal muscles
+160
+EXCHANGE SURFACES AND BREATHING
+Bronchus
+In the chest cavity the trachea divides to form the left bronchus
+(plural bronchi), leading to the left lung, and the right bronchus
+leading to the right lung. They are similar in structure to the trachea,
+with the same supporting rings of cartilage, but they are smaller.
+Synoptic link
+You learnt about specialised
+epithelial cells in Topic 6.4, The
+organisation and specialisation
+of cells.
+Synoptic link
+Bronchioles
+In the lungs the bronchi divide to form many small bronchioles.
+The smaller bronchioles (diameter 1 mm or less) have no cartilage
+rings. The walls of the bronchioles contain smooth muscle. When
+the smooth muscle contracts, the bronchioles constrict (close up).
+When it relaxes, the bronchioles dilate (open up). This changes the
+amount of air reaching the lungs. Bronchioles are lined with a thin
+layer of flattened epithelium, making some gaseous exchange possible.
+You learnt about collagen and
+elastin in Topic 3.6, Structure of
+proteins.
+Alveoli
+The alveoli (singular alveolus) are tiny air sacs, which are the main gas
+exchange surfaces of the body. Alveoli are unique to mammalian lungs.
+Each alveolus has a diameter of around 200–300 um and consists of a
+layer of thin, flattened epithelial cells, along with some collagen and
+elastic fibres (composed of elastin). These elastic tissues allow the alveoli
+to stretch as air is drawn in. When they return to their resting size, they
+help squeeze the air out. This is known as the elastic recoil of the lungs.
+exhaled air
+inhaled air
+cavity of alveolus
+high carbon dioxide concentration
+low oxygen concentration
+alveolar
+duct
+epithelial cell
+of alveolus
+moist alveolar
+surface
++low CO2 concentration
+high O2 concentration
+endothelial
+cell of
+capillary
+red blood cell
+compressed against
+capillary wall
+blood plasma
+pulmonary
+capillary
+Figure 4 The single cell walls of the alveoli and the
+capillaries (containing red blood cells) that make up
+the structure of the lung can be seen clearly in this light
+micrograph, x60 magnification
+Figure 3 Gaseous exchange in an alveolus
+The main adaptations of the alveoli for effective gaseous
+exchange include:
+Large surface area - there are 300-500 million alveoli per adult
+lung. The alveolar surface area for gaseous exchange in the two lungs
+combined is around 50-75m². The average floor area of a 4-bedroom
+Synoptic link
+You learnt about cell membranes
+and how they are freely permeable
+to gases such as oxygen and carbon
+dioxide in Topic 5.3, Diffusion.
+159
+7.4 Ventilation and gas
+exchange in other organisms
+Specification reference: 3.1.1
+Internal gas-exchange systems such as the lungs in mammals are not
+the only way for multicellular organisms to get the oxygen needed
+by the cells. The gaseous exchange systems of insects are effective
+but very different, yet they have many key features in common with
+mammalian systems.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the mechanisms of ventilation
+and gas exchange in insects
+→ the mechanisms of ventilation
+and gas exchange in bony fish
+the dissection, examination
+and drawing of a bony fish
+and insect trachea
+the examination of microscope
+slides to show histology of
+exchange surfaces.
+Gaseous exchange systems in insects
+Many insects are very active during parts of their life cycles.
+They are mainly land-dwelling animals with relatively high oxygen
+requirements. However, they
+have a tough exoskeleton
+through which little or no gaseous
+exchange can take place. They do
+not usually have blood pigments
+that can carry oxygen. They need
+a different way of exchanging
+gases. The gaseous exchange
+muscle
+system of insects has evolved
+to deliver the oxygen directly to
+the cells and to remove the
+carbon dioxide in the same way
+(Figure 1).
+tracheoles
+water in the
+How does gas exchange take
+tracheoles
+tracheae
+place in insects?
+Along the thorax and abdomen
+spiracle
+of most insects are small openings
+known as spiracles. Air enters
+and leaves the system through the figure 1 The gaseous exchange
+spiracles, but water is also lost. system in an insect
+Just like mammals, insects need
+to maximise the efficiency of gaseous exchange, but minimise the
+loss of water. In many insects the spiracles can be opened or closed by
+sphincters. The spiracle sphincters are kept closed as much as possible
+to minimise water loss.
+loss of mass / mg day-1
+When an insect is inactive and oxygen demands are very low,
+the spiracles will all be closed most of the time. When the oxygen
+demand is raised or the carbon dioxide levels build up, more of the
+spiracles open.
+i'2'3'4'5'6'
+day
+A Figure 2 The effect of spiracle
+opening on water loss in the blood-
+sucking bug Rhodnius (top). The insect
+was kept in dry air for 6 days. It was
+not fed, to keep it relatively inactive. On
+day 3 carbon dioxide levels were raised,
+which resulted in the spiracles opening.
+The air was returned to normal on day 4
+Leading away from the spiracles are the tracheae. These are the
+largest tubes of the insect respiratory system, up to 1mm in diameter,
+and they carry air into the body. They run both into and along the
+165
+7.2 The mammalian gaseous
+exchange system
+Specification reference: 3.1.1
+Animals that live on the land face a continual conflict between
+the need for gaseous exchange and the need for water. Gaseous
+exchange surfaces are moist, so oxygen dissolves in the water before
+diffusing into the body tissues. As a result the conditions needed
+to take in oxygen successfully are also ideal for the evaporation of
+water. Mammals have evolved complex systems that allow them
+to exchange gases efficiently but minimise the amount of water
+lost from the body. You are going to look at the human gaseous
+exchange system as an example of the specialised systems common
+to all mammals.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the structures and functions
+of the components of
+mammalian gaseous
+exchange system
+→ the mechanism of ventilation
+in mammals.
+The human gaseous exchange system
+Mammals are relatively big - they have a small SA:V ratio and a very
+large volume of cells. They also have a high metabolic rate because
+they are active and maintain their body temperature independent
+of the environment. As a result they need lots of oxygen for cellular
+respiration and they produce carbon dioxide, which needs to be
+removed. This exchange of gases takes place in the lungs.
+nasal cavity
+deoxygenated blood
+oxygenated blood
+nostril
+mouth
+larynx
+trachea
+intercostal
+muscles
+bronchus
+– bronchiole
+pleural
+membrane
+bronchioles
+>
+ribs
+alveoli
+diaphragm
+abdominal cavity
+Figure 1 The structure of the human gaseous exchange system
+157
+7.3 Measuring the process
+Specification reference: 3.1.1
+The amount of gaseous exchange that needs to take place in your lungs
+will vary a lot depending on your size and level of activity. The gaseous
+exchange system has to be able to respond to the differing demands of
+your body.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the relationship between
+vital capacity, tidal volume,
+breathing rate and
+oxygen uptake.
+Measuring the capacity of the lungs
+The volume of air that is drawn in and out of the lungs can be measured
+in a variety of different ways:
+A peak flow meter (Figure 1) is a simple device that measures the
+rate at which air can be expelled from the lungs. People who have
+asthma often use these to monitor how well their lungs are working.
+Vitalographs are more sophisticated versions of the peak flow
+meter. The patient being tested breathes out as quickly as they can
+through a mouthpiece, and the instrument produces a graph of the
+amount of air they breathe out and how quickly it is breathed out.
+This volume of air is called the forced expiratory volume in
+1 second.
+A spirometer is commonly used to measure different aspects
+of the lung volume, or to investigate breathing patterns. There
+are many different forms of the spirometer but they all use the
+principle shown in Figure 2.
+Components of the lung volume
+There are several different aspects of the lung volume that can be
+measured.
+A Figure 1 Peak flow meters give a
+useful quick measure of how much air
+can be moved out of (and therefore into)
+the lungs
+airtight chamber
+filled with oxygen
+trace drawn on
+revolving drum
+as lid moves up
+and down
+counterpoise
+canister of soda lime
+to remove carbon
+dioxide produced
+nose clip
+Tidal volume is the volume of air that
+moves into and out of the lungs with
+each resting breath. It is around 500 cm
+in most adults at rest, which uses about
+15% of the vital capacity of the lungs.
+Vital capacity is the volume of air that
+can be breathed in when the strongest
+possible exhalation is followed by the
+deepest possible intake of breath.
+Inspiratory reserve volume is the
+maximum volume of air you can breathe
+in over and above a normal inhalation.
+Expiratory reserve volume is the extra
+amount of air you can force out of your
+lungs over and above the normal tidal
+volume of air you breathe out.
+Residual volume is the volume of air
+that is left in your lungs when you have
+exhaled as hard as possible. This cannot be
+measured directly.
+water level
+subject breathes
+in and out until
+oxygen used up
+Figure 2 Spirometers can be used to measured the volumes of gas
+breathed in and out under different conditions
+163
+7.3 Measuring the process
+Total lung capacity is the
+sum of the vital capacity and
+the residual volume.
+inspiratory
+reserve
+volume
+inspiratory
+capacity
+vital
+capacity
+Recordings from a spirometer
+show the different volumes of air
+moved in and out of the lungs.
+volume/dm3
+-
+-
+- - - -
+tidal volume
+VAINEN
+expiratory
+reserve volume
+tidal
+volume increases
+during exercise
+Breathing rhythms
+The pattern and volume of
+breathing changes as the
+demands of the body change.
+The breathing rate is the number
+of breaths taken per minute.
+The ventilation rate is the
+total volume of air inhaled in
+one minute.
+total
+lung
+capacity
+residual
+volume
+0
++
+ventilation rate = tidal volume x
+A Figure 3 These volumes are averages taken from many individuals of different
+breathing rate (per minute)
+sexes, sizes, and levels of fitness
+When the oxygen demands of the body increase, for example during
+Worked example:
+exercise, the tidal volume of air moved in and out of the lungs
+with each breath can increase from 15% to as much as 50% of the
+Breathing calculations
+vital capacity. The breathing rate can also increase. In this way the
+The normal tidal volume ventilation of the lungs and so the oxygen uptake during gaseous
+of a male is 500 cm. His exchange can be increased to meet the demands of the tissues.
+ventilation rate is 6 dm3
+per minute. What is his
+resting breathing rate?
+ventilation rate = tidal
+Summary questions
+volume x breathing rate
+(per minute)
+1 Describe how you could investigate breathing rates in a
+6 dm = 6000 cm
+school laboratory.
+(3 marks)
+6000 = 500 x breathing rate
+2 Describe the relationships between tidal volume, breathing
+Breathing rate =
+rate, and oxygen uptake.
+(4 marks)
+500
+= 12 breaths
+3 A dog is under stress during a visit to the vet and pants but the
+per minute
+ventilation rate remains steady. Suggest a possible explanation
+• During physical exertion,
+for these observations.
+(2 marks)
+his breathing rate goes up
+to 20 breaths per minute
+The normal breathing rate of a healthy 50 year old woman is 18 breaths
+and the ventilation
+per minute and her tidal volume is 500 cm".
+rate to 15 dm'. What is
+a During strenuous exercise her ventilation rate goes up to 45 000 cm
+the new tidal volume?
+per minute and she is breathing 30 times a minute. What is her tidal
+volume during exercise and what increase is this over her normal
+15 dm3 = 15000 cm
+tidal volume?
+(6 marks)
+15 000 = tidal volume x 20
+b She develops a chest infection and her breathing rate increases to
+tidal volume =
+- 15000
+25 breaths per minute, but her tidal volume falls to 300. By what
+20
+percentage does her ventilation rate fall compared wirh her normal
+= 750 cm
+resting rate as a result of the infection?
+(6 marks)
+164
+7
+7.2 The mammalian gaseous exchange system
+Key structures
+Nasal cavity
+The nasal cavity has a number of important features:
+a large surface area with a good blood supply, which warms the air
+to body temperature
+a hairy lining, which secretes mucus to trap dust and bacteria,
+protecting delicate lung tissue from irritation and infection
+moist surfaces, which increase the humidity of the incoming air,
+reducing evaporation from the exchange surfaces.
+After passing through the nasal cavity, the air entering the lungs is a
+similar temperature and humidity to the air already there.
+Trachea
+The trachea is the main airway carrying clean, warm, moist air
+from the nose down into the chest. It is a wide tube supported by
+incomplete rings of strong, flexible cartilage, which stop the trachea
+from collapsing. The rings are incomplete so that food can move easily
+down the oesophagus behind the trachea.
+Synoptic link
+You learnt about cilia in Topic 2.4,
+Eukaryotic cell structure.
+The trachea and its branches are lined with a ciliated epithelium,
+with goblet cells between and below the epithelial cells (Figure 2).
+Goblet cells secrete mucus onto the lining of the trachea, to trap
+dust and microorganisms that have escaped the nose lining. The
+cilia beat and move the mucus, along with any trapped dirt and
+microorganisms, away from the lungs. Most of it goes into the
+throat and is swallowed and digested. One of the effects of cigarette
+smoke is that it stops these cilia beating.
+goblet
+cells
+cilia
+goblet cells
+ciliated
+epithelium
+mucus
+cilia
+lo Doble
+doel
+ciliated
+epithelial
+cells
+A Figure 2 Left: A light micrograph and. Right: a diagrammatic representation of a
+section through the lining of a trachea. The lining consists of mucus-secreting goblet
+cells and ciliated epithelial cells, x 300 magnification
+158
+EXCHANGE SURFACES AND BREATHING
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+--
+-
+-
+-
+-
+-
+-
+-
+-
+-
+--
+-
+-
+-
+-
+-
+-
+-
+--
+-
+-
+-
+-
+-
+The diagram below shows the lung volumes
+at different phases of the respiratory cycle.
+6000
+5500
+5000
+4500
+34000
+3500
+3000
+lung volume (ml)
+-------------
+2500-WWW WWW
+2000
+1500-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+=
+=
+=
+=
+=
+=
+=
+=
+=
+-
+1000
+500
+OL
+a Calculate, using the diagram, the
+inspiratory reserve volume and tidal
+volume of the lungs.
+(2 marks)
+b Copy the diagram and indicate the
+residual volume and expiratory reserve
+volume.
+(2 marks)
+c The diagram below compares the lung
+volumes of a woman before and during
+pregnancy.
+4200
+4200
+4000-
+4000-
+3800
+3800
+3600
+3600
+3400 -
+3400
+3200 -
+3200 -
+3000-
+3000 -
+2800
+2800 -
+3 2600
+2600 -
+2400
+E 2400
+2200
+2 2200
+2000
+1800
+20 1800
+1600
+1600-
+1400
+1400-
+1200
+1200
+1000
+1000
+800-
+800-
+600
+600-
+400-
+400 -
+200
+200+
+lung volume (ml)
+2000
+lung volume (ml)
+0
+before pregnancy
+full term pregnancy
+Describe the changes in lung volumes that
+occur during pregnancy and explain the
+reasons for these changes. (6 marks)
+173
+EXCHANGE SURFACES AND BREATHING
+The dome-shaped diaphragm contracts, flattening, and lowering.
+The external intercostal muscles contract, moving the ribs upwards
+and outwards. The volume of the thorax increases so the pressure
+in the thorax is reduced. It is now lower than the pressure of the
+atmospheric air, so air is drawn through the nasal passages, trachea,
+bronchi, and bronchioles into the lungs. This equalises the pressures
+inside and outside the chest.
+Expiration
+Normal expiration (breathing out or
+exhalation) is a passive process.
+inspiration
+vertebral
+column
+ribs
+ribs
+diaphragm
+The muscles of the diaphragm relax so it
+moves up into its resting domed shape.
+The external intercostal muscles relax so
+the ribs move down and inwards under
+gravity. The elastic fibres in the alveoli of
+the lungs return to their normal length.
+The effect of all these changes is to decrease
+the volume of the thorax. Now the
+pressure inside the thorax is greater than
+the pressure of the atmospheric air, so air
+moves out of the lungs until the pressure
+inside and out is equal again.
+expiration
+You can exhale forcibly using energy.
+The internal intercostal muscles contract,
+pulling the ribs down hard and fast, and
+the abdominal muscles contract forcing the
+diaphragm up to increase the pressure in
+the lungs rapidly.
+air movement
+►ribcage movement
+► diaphragm movement
+A Figure 6 Ventilation of the lungs
+There are two main ways of treating asthma:
+Attacking asthma
+5.4 million people in the UK are currently being treated
+for asthma. They have airways that are sensitive to
+everyday triggers including house dust mites, cigarette
+smoke, pollen, and stress.
+Relievers give immediate relief from the symptoms.
+They are chemicals similar to the hormone adrenaline.
+They attach to active sites on the surface membranes
+of smooth muscle cells in the bronchioles, making them
+relax and dilating the airways.
+During an asthma attack, the cells lining the bronchioles
+release histamines, chemicals that make the epithelial
+cells become inflamed and swollen. Histamines
+stimulate the goblet cells to make excess mucus, and
+the smooth muscle in the bronchiole walls to contract.
+As a result, the airways narrow and fill with mucus,
+making it difficult to breathe.
+Preventers are often steroids, which are taken every day
+to reduce the sensitivity of the lining of the airways.
+Asthma medicines have been developed to reduce the
+symptoms and even prevent attacks. The drugs are
+delivered straight into the breathing system using
+an inhaler.
+1 Explain how reliever medicines would overcome
+the symptoms of an asthma attack.
+2 Explain how steroids could reduce the likelihood of
+an asthma attack.
+161
+7.2 The mammalian gaseous exchange system
+The first breath
+1 Discuss why the first breath taken is so much
+harder than any subsequent breaths and outline
+how artificial lung surfactants have improved
+survival rates for premature babies.
+The first breath a newborn baby takes needs a force
+15-20 times greater than any normal inhalation to
+inflate the lungs. The lungs are enormously stretched as
+the air flows in, and the elastic tissue never returns to
+its original length. This intake of breath is only possible
+because of special chemicals called lung surfactants
+containing phospholipids and both hydrophilic and
+hydrophobic proteins. The surfactant stops the alveoli
+collapsing and sticking together as the baby exhales.
+Without it, the second breath would be as difficult as the
+first, and continued breathing impossible.
+Babies born at full term have alveoli coated in lung
+surfactant all ready for breathing. However, the cells
+of the alveoli do not produce enough surfactant for the
+lungs to work properly until around the 30th week of
+pregnancy. This is one reason why premature babies can
+struggle to breathe and may die. In recent years artificial
+lung surfactants have been produced. A tiny amount
+sprayed into the lungs of a premature baby coats the
+alveoli just like the natural surfactant, making breathing
+easier, helping to prevent lung damage and enabling
+many more babies to survive.
+A Figure 7 The first breath a newborn takes is the hardest -
+and without lung surfactant it would be impossible
+Synoptic link
+You learnt about phospholipids and proteins in
+Chapter 2, Basic components of living systems.
+Summary questions
+1 Explain how the structures below are adapted to make gaseous
+exchange as effective as possible.
+à nose
+(3 marks)
+b trachea
+(3 marks)
+c bronchioles
+(3 marks)
+2 a Explain how the alveoli are adapted for gaseous exchange. (4 marks)
+b In some diseases, the structure of the alveoli breaks down
+to give much bigger air sacs. Explain (with example calculations)
+how this reduces their effectiveness for gaseous exchange. (5 marks)
+3 Smokers get more infections of the breathing system than
+non-smokers. Suggest why.
+(6 marks)
+162
+7
+Chapter 7 Practice questions
+Draw another line on the graph for a
+man who had untreated asthma from
+birth. Explain the reasons for the position
+of your line and state why it would be
+unlikely to see someone produce this line.
+(3 marks)
+d Explain why inhalation is an active
+process but normal exhalation is a passive
+process.
+(3 marks)
+Fick's law states that:
+3
+Practice questions
+1 There are several different aspects of the lung
+volume that can be measured.
+Which of the following statements is/are
+correct with respect to lung volumes?
+Statement 1: tidal volume is the volume of
+air which moves into and out of the lungs
+with each resting breath
+Statement 2: vital capacity is the maximum
+amount of air you can breathe in over and
+above a normal inhalation
+Statement 3: inspiratory reserve volume is
+the volume of air which can be breathed out
+by the strongest possible exhalation followed
+by the deepest possible intake of breath
+A 1, 2 and 3 are correct
+B Only 1 and 2 are correct
+C Only 2 and 3 are correct
+D Only 1 is correct
+(1 mark)
+2 a State what a peak flow meter is used to
+measure
+(2 marks)
+b The chart below shows the range of
+normal peak flow for both men and
+women of different ages.
+Area of diffusion Difference in
+surface concentration
+Rate of diffusion = -
+Thickness of surface over which
+diffusion takes place
+4
+height
+700
+190
+men
+women
+a Explain how the human respiratory
+system is designed to obey this law.
+(3 marks)
+b The gaseous exchange surfaces in fish and
+mammals are designed to perform the
+same function: the uptake of oxygen and
+removal of carbon dioxide.
+Discuss how they are each adapted
+to carry out this function in different
+environments; fish in water and
+mammals in air.
+(3 marks)
+Insects have an exoskeleton.
+a State the main component of this
+exoskeleton.
+(1 mark)
+b The component named in a is a long-chain
+polymer of a N-acetylglucosamine, a
+derivative of glucose.
+Explain what is meant by the term
+polymer, with reference to this
+component.
+(2 marks)
+Although relatively small, insects have a
+high oxygen demand. The exoskeleton is
+impermeable to oxygen.
+Describe how insects are adapted to
+ensure their tissues receive oxygen at a
+sufficient rate.
+(4 marks)
+d Describe one similarity and one difference
+between the trachea of a mammal and the
+trachea of an insect.
+(2 marks)
+peak flow (litres/min)
+175
+160
+69
+63
+60
+152
+cm
+350+
+20
+30
+40
+70
+80
+50 60
+age (yrs)
+Using the graph, describe how lung
+function varies with both age and gender.
+(4 marks)
+172
+EXCHANGE SURFACES AND BREATHING
+Example 3 - The structure of the gills in a bony fish
+show clearly in a light micrograph, showing the delicate
+structures and large surface area as well as the major
+blood vessels , 278 magnification.
+Example 2 - The delicate rings of chitin which
+support the trachea in insects, holding them open
+so that air can diffuse through them to the tracheoles
+and the tissues themselves are revealed in this light
+micrograph, x 37 magnification.
+1 Make carefully labelled drawings of each of these
+micrographs, using the skills you learned in
+Chapter 2.
+2 What are the advantages of using the light
+microscope to look at these tissues?
+OR
+Summary questions
+1 Suggest why a fish will die when it is left out of water for
+too long
+(2 marks)
+Study tip
+Make sure you are clear about
+the key features of a successful
+gaseous exchange surface and can
+recognise those common features
+in the gaseous exchange systems
+of a variety of organisms.
+2 Compile a table to compare the gaseous exchange systems of
+a human, an insect and a bony fish.
+(5 marks)
+3 Explain how insects that have particularly high energy
+requirements can increase the amount of gaseous exchange
+taking place in their bodies.
+(6 marks)
+Explain how the structure of the gas exchange system of
+a bony fish maximises the amount of oxygen that can be
+taken from the water.
+(6 marks)
+171

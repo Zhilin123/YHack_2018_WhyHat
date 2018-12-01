@@ -1,0 +1,1884 @@
+Motion
+2.1
+WP
+Investigation
+Newton's second law investigation
+data logger
+laptop
+Acceleration/ms-2
+card
+light
+gate
+light
+gate
+0.8
+1.0
+1.8
+2.0
+1.2 1.4 1.6
+1/mass/kg-
+trolley in motion
+fig E Graph of results from the second investigation into Newton's second law.
+The x-axis represents the derived data of 1/mass', so the straight best-fit line
+shows that acceleration is inversely proportional to mass. Note that there
+is no need for a graph to start at the origin: choose axes scales that will best
+show the pattern in the data by making the points fill the graph paper.
+fig C Experimental set-up for investigating the relationship between F, m and a
+Experimental verification of Newton's second law is well
+established. The investigation shown in fig C demonstrates that:
+a-m
+You can use the set-up shown in fig C, or a similar experiment on an
+air track, to measure the acceleration for various values of the
+resultant force acting on the trolley whilst you keep its mass constant
+(table A). By plotting a graph of acceleration against resultant force,
+a straight line will show that acceleration is proportional to the
+resultant force. You could also plot a graph for varying masses of
+trolley whilst you keep the resultant force constant (table B).
+Force/N Acceleration/ms-2
+0.1
+0.20
+0.2
+|
+0.40
+0.3
+L 0.60
+0.4
+L
+0.80
+0.5
+1.00
+1.20
+table A Values of acceleration for different forces acting on a trolley.
+0.6
+Learning tip
+Straight-line graphs
+Physicists are always trying to arrange their experimental data into
+graphs that produce a straight best-fit line. This proves a linear
+relationship between the experimental variables, and can also give
+us numerical information about the quantities involved.
+The equation for a straight line is:
+y = mx + c
+'m' in the equation is the gradient of the straight line, and '' is the
+value on the y-axis where the line crosses it, known as the y-intercept.
+If we plot experimental data on a graph and get a straight best-fit
+line, then this proves the quantities we plotted on x and y have a
+linear relationship. It is referred to as 'directly proportional' (or
+simply 'proportional') only if the line also passes through the origin,
+meaning that c = 0.
+The graphs in fig D and fig E demonstrate experimental verification
+of Newton's second law. In each case, the third variable in the
+equation was kept constant as a control variable. For example, in
+fig D the straight best-fit line, showing that yox, proves that a F.
+and the gradient of the best-fit line would represent the reciprocal of
+the mass that was accelerated and was kept constant throughout, as
+a control variable. In this example c = 0, which means that the
+proportional relationships are simple:
+y = mx
+Mass/kg
+0.5
+0.6
+0.7
+0.8
+0.9
+Acceleration/m 5-2
+1.00
+0.83
+0.71
+0.63
+0.55
+0.50
+1.0
+table B Values of acceleration resulting from an applied force of 0.5 N
+when the mass of the trolley is varied.
+Acceleration/ms-2
+As both the above equations represent the graph in fig D, it follows
+that the gradient, m, equals the reciprocal of the mass, 1/m. It is just
+coincidence that the symbol 'm' for gradient, and 'm' for mass are the
+same letter in this example.
+Note that graphs in physics are causal relationships. In fig D, the
+acceleration is caused by the force. It is very rare in physics that a graph
+would represent a statistical correlation, and so phrases such as 'positive
+correlation' do not correctly describe graphs of physics experiments.
+Similarly, it is very rare that a graph of a physics experiment would
+be correctly drawn if the points are joined 'dot-to-dot'. In most cases
+a best-fit line should be drawn, as has been done in fig E.
+0 01 02 03 04 05 0.6
+Force/N
+fig D Graph of results from the first investigation into Newton's
+second law. Acceleration is directly proportional to force.
+2.1
+Newton's third law of motion
+"When an object A causes a force on another object B, then object B causes an equal force in the
+opposite direction to act upon object A'. For example, when a skateboarder pushes off from a
+wall, they exert a force on the wall with their hand. At the same time, the wall exerts a force on the
+skateboarder's hand. This equal and opposite reaction force is what they can feel with the sense of
+touch, and as the skateboard has very low friction, the wall's push on them causes acceleration away
+from the wall. As the wall is connected to the Earth, the Earth and wall combination will accelerate in
+the opposite direction. The Earth has such a large mass that its acceleration is imperceptible. That's
+Newton's second law again: acceleration is inversely proportional to mass; huge mass means tiny
+acceleration
+Learning tip
+Identifying Newton's third law of force pairs can confuse people. To find the two forces, remember they
+must always act on different objects, and must always have the same cause. In fig F, it is the mutual
+repulsion of electrons in the atoms of the football and the boot that cause the action and reaction.
+Questions
+fig F When the boot puts a force on
+the football, the football causes
+an equal and opposite force
+on the boot. The footballer can
+feel the kick because they feel
+the reaction force from the ball
+on their toe.
+In terms of Newton's laws of motion:
+(a) Explain why this book will sit stationary on a table.
+(b) Describe and explain what will happen if your hands then put an upwards force on the book that is
+greater than its weight.
+(c) Explain why you feel the book when your hands put that upwards force on it.
+2
+(a) Calculate the gradient of the best-fit line on the graph in fig D and thus work out the mass of the
+trolley that was accelerated in the first investigation.
+(b) State what quantity the gradient of the line on the graph in fig E represents. Calculate the value of that
+quantity
+3
+Calculate the acceleration in each of the following cases:
+(a) A mass of 12.0 kg experiences a resultant force of 785 N.
+(b) A force of 22.2 N acts on a 3.1 kg mass.
+(c) A 2.0 kg bunch of bananas is dropped. The bunch weighs 19.6 N.
+(d) During a tackle, two footballers kick a stationary ball at the same time, with forces acting in
+opposite directions. One kick has a force of 210 N, the other has a force of 287 N. The mass of the
+football is 430 g.
+Key definitions
+Newton's first law of motion:
+An object will remain at rest, or in a state of uniform motion, until acted upon by a resultant force.
+Newton's second law of motion:
+If an object's mass is constant, the resultant force needed to cause an acceleration is given by the equation:
+EF = ma
+Newton's third law of motion:
+For every action, there is an equal and opposite reaction.
+28
+TOPIC 2
+Mechanics
+12.1 Motion
+CHAPTER
+Introduction
+How could we calculate how fast a plane is flying, in what direction it is going and how long it will
+take to reach a certain destination? If you were a pilot, how would you know what force to make
+the engines produce and where to direct that force so your plane moves to your destination?
+There is an amazing number of calculations that need to be done to enable a successful flight, but the basis
+on which all of it is worked out is simple mechanics.
+This chapter explains the multiple movements of objects. It looks at how movement can be described and
+recorded, and then moves on to explaining why movement happens. It covers velocity and acceleration,
+including how to calculate these in different situations.
+We only consider objects moving at speeds that could be encountered in everyday life. At these speeds
+(much less than the speed of light) Sir Isaac Newton succinctly described three laws of motion. With
+knowledge of basic geometry, we can identify aspects of movement in each dimension.
+Newton's laws of motion have been constantly under test by scientists ever since he published them in
+1687. Within the constraints established by Einstein in the early twentieth century, Newton's laws have
+always correctly described the relationships between data collected. You may have a chance to confirm
+Newton's laws in experiments of your own. With modern ICT recording of data, the reliability of such
+experiments is now much improved over traditional methods.
+All the maths you need
+• Units of measurement (e.g. the newton, N)
+• Using Pythagoras' theorem, and the angle sum of a triangle (e.g. finding a resultant vector)
+• Using sin, cos and tan in physical problems (e.g. resolving vectors)
+• Using angles in regular 2D structures (e.g. interpreting force diagrams to solve problems)
+• Changing the subject of an equation (e.g. re-arranging the SUVAT equations)
+• Substituting numerical values into algebraic equations (e.g. calculating the acceleration)
+Plotting two variables from experimental or other data, understanding that y = mx + c represents a
+linear relationship and determining the slope of a linear graph (e.g. verifying Newton's second law
+experimentally)
+Estimating, by graphical methods as appropriate, the area between a curve and the x-axis and realising
+the physical significance of the area that has been determined (e.g. using a speed-time graph)
+14.
+2.1
+Combining equations
+We can combine the equations
+V = u + at
+and
+(u + V) .
+2
+By substituting the first of these equations into the second, we get the combination equation:
+(u + (u + at)) (2ut + ata)
+so 2
+s = ut + at?
+We can use this equation to check again how high the stone was dropped from:
+• falling under gravity, so a = g = 9.81 ms-2
+• starts at rest, so u=0ms-1
+• time to fall r = 3s
+S = ut + at = (0 x 3) + ( x 9.81 x 32) = 44.1
+S = 44.1 m
+Notice that the answer must come out the same, as we are calculating for the same cliff. This highlights
+the fact that we can use whichever equation is most appropriate for the information given.
+Combining equations another way
+fig B Calculations about falling
+objects are very common.
+S=
+2
+t=
+2s
+(u + v)
+and v= u + at
+By substituting the first of these equations into the second, we get the combination equation:
+(u + v)
+. v(u + v) = u(u + v) + 2as
+i vu + v2 = x2 + UV + 2as vu = uv so subtract from each side
+v=u2 + 2as
+Check again what the stone's final velocity would be:
+• falling under gravity, so a = g = 9.81 ms-2
+• starts at rest, so u = Oms-1
+• height to fall s = 44.1 m
+v2 = u? + 2as = 02 + (2 x 9.81 x 44.1) = 865
+V = 865 = 29.4
+V = 29.4 ms -1
+Notice that the answer must come out the same as previously calculated, and this again highlights
+that there are many routes to reach the answer.
+SUVAT equation
+V = u + at
+(u + V)
+Quantity not used
+distance
+S=
+2
+acceleration
+S = ut + -at
+final velocity
+v2 = u2 + 2as
+time
+table A Each of the SUVAT equations is useful, depending on the information we are given. If you know three
+quantities, you can always find a fourth by identifying which equation links those four quantities and re-
+arranging that equation to find the unknown.
+30
+2.1
+Velocity and acceleration
+By the end of this section, you should be able to...
+explain the distinction between scalar and vector quantities
+distinguish between speed and velocity and define acceleration
+calculate values using equations for velocity and acceleration
+Movement is fundamental to the functioning of our universe. Whether you are running to catch a
+bus or want to calculate the speed needed for a rocket to travel to Mars or the kinetic energy of an
+electron in an X-ray machine, you need to be able to work out how fast things are moving.
+ILottery
+THOMAS
+Rate of movement
+One of the simplest things we can measure is how fast an object is moving. You can calculate an
+object's speed if you know the amount of time taken to move a certain distance:
+speed (m 5-1) - distance (m)
+time (s)
+V
+fig A Charlene Thomas has
+accelerated to a high speed.
+However, the calculation for speed will only tell you how fast an object is moving. Often it is also
+vitally important to know in what direction this movement is taking the object. When you include
+the direction in the information about the rate of movement of an object, this is then known as the
+velocity. So, the velocity is the rate of change of displacement, where the distance in a particular
+direction is called the 'displacement'.
+displacement (m)
+velocity (ms) =
+time (s)
+V = ?
+OR
+1
+300 m
+Learning tip
+The upper case symbol for the
+Greek letter delta, 4, is used
+mathematically to mean a
+change in a quantity. For
+example, As means the change
+in the displacement of an
+object, to be used here to
+calculate its velocity.
+75m
+fig B The displacement due north is only 75 m, whilst the actual distance this athlete has run is 300 m.
+So the velocity due north is much less than the actual speed.
+Scalars and vectors
+A quantity for which the direction must be stated is known as a vector. If direction is not important,
+the measurement is referred to as a scalar quantity. Therefore, velocity is a vector and speed is a
+scalar, distance is a scalar and displacement is a vector.
+Scalar and vector quantities are not limited to measurements related to movement. Every measured
+quantity can be classified as needing to include the direction (vector, e.g. force) or as being
+sufficiently stated by its magnitude only (scalar, e.g. mass).
+16
+What have I studied before?
+• Using a stopwatch to measure times
+Measuring and calculating the speed of objects
+Gravity making things fall down, and giving
+them weight
+• Measuring forces, calculating resultant forces
+The motion of objects as a result of forces acting
+on them
+What will I study later?
+• Kinetic energy and gravitational potential energy
+Interconverting gravitational potential and kinetic
+energy
+Work and power
+Momentum and the principle of conservation
+of momentum
+• Wave movements
+• Fluid movements and terminal velocity
+The meaning and calculation of impulse (A level)
+What will I study in this chapter?
+• The definitions of and equations for speed,
+distance, displacement, time, velocity.
+acceleration
+Graphs of motion over time
+• The classification of scalars and vectors
+Adding and resolving vectors
+• Newton's laws of motion
+Kinematics equations
+. Moments (turning forces)
+15
+2.1
+Kinematics equations
+Each equation uses four of the variables, which means that if we
+know the values of any three variables, we can find out the other two.
+By the end of this section, you should be able to...
+• recall the simple kinematics equations
+• calculate unknown variables using the kinematics equations
+Kinematics is the study of the movement of objects. We can use
+equations, commonly known as the SUVAT equations, to find out
+details about the motion of objects accelerating in one dimension.
+Acceleration redefined
+By re-arranging the equation that defined acceleration, we come
+to the usual expression of the first SUVAT equation:
+v=u + at
+For example, if a stone is dropped off a cliff (see fig B) and takes
+three seconds to hit the ground, what is its speed when it does hit
+the ground?
+Identify the three things we know:
+• falling under gravity, so a = g = 9.81 ms 2
+(constant acceleration, so SUVAT can be used)
+starts at rest, so u= Oms-1
+time to fall t = 3s
+V = u + at = 0 + 9.81 x 3 = 29.43
+V = 29.4 ms
+fig A kinematics is the study of the description of the motion of objects. The
+equations could be used to make calculations about the stone falling
+through the air, and separately about its motion through the water. The
+acceleration in air and in water will be different as the resultant force
+acting in each will be different.
+Learning tip
+Often the acceleration will not be explicitly stated, but the object is
+falling under gravity, so:
+a = g = 9.81 m 5-2
+Learning tip
+Often the initial velocity will not be explicitly stated, but the object
+starts 'at rest'. This means it is stationary at the beginning, so:
+u = Oms
+Zero acceleration
+If an object has no resultant force acting on it then it does not
+accelerate. This is uniform motion. In this situation, calculations
+on its motion are very easy, as they simply involve the basic speed
+equation:
+VES
+The velocity is the same at the beginning and end of the motion,
+and if we need to find the displacement travelled, it is a simple
+case of multiplying velocity by time:
+S = V Xt
+Distance from average speed
+As SUVAT only works with uniform acceleration, the average
+speed during any acceleration will be halfway from the initial
+velocity to the final velocity. Therefore the distance travelled is the
+average speed multiplied by the time:
+(u + V)
+-
+Constant acceleration
+There are equations that allow us to work out the motion of an
+object that is moving with a constant acceleration. They are often
+called the SUVAT equations because of the variables involved,
+and the first step is to define those five variables:
+s-displacement (m)
+u-initial velocity (ms-')
+V-final velocity (ms)
+a- acceleration (ms-2)
+t-time (s)
+For example, for the same stone dropping off the cliff as in the
+previous example, we could work out how high the cliff is.
+Identify the three things we know:
+• final velocity came to be v = 29.4 ms-1
+• starts at rest, so u = Oms-1
+time to fall t = 3s
+(u + v) (0 + 29.4)
+-X 3 = 44.1
+xt =
+S = 44.1 m
+Motion
+2.1
+centre of gravity,
+centre of gravity
+HOE
+fig F Balancing a broom on its centre of gravity.
+fig G Finding the centre of gravity of an irregular rod (broom).
+Investigation
+Finding the centre of mass of an irregular rod
+In this investigation, we use the principle of moments to find the centre of gravity of a broom. As it is not a
+symmetrical object, the location of the centre of gravity is not easy to determine just by looking at the
+broom. With the extra mass at the brush head end, the centre of gravity will be nearer that end.
+If you can balance the broom on a knife edge, then the centre of gravity must lie above the knife edge.
+As the perpendicular distance from the line of action to the weight is zero, the moment is zero so the
+broom sits in equilibrium.
+You will probably find it difficult to balance the broom exactly, so you can use an alternative method. First
+you measure the mass of the broom (M) using a digital balance. Then you use a set of hanging masses (of
+mass m) to balance the broom more in the middle of the handle, as in fig G. When the broom is balanced,
+you measure the distance (d) from the hanging masses to the pivot). You calculate the distance (x) from
+the pivot to the centre of gravity of the broom using the principle of moments:
+clockwise moment = anticlockwise moment
+mg xd = Mg x x
+md
+M
+Note: Do not get into the habit of using only the mass in moments calculations, as the definition is force
+times distance. It just happens that in this case g cancels on each side.
+Questions
+| What is the moment of a 252 N force acting on a solid object at a perpendicular distance of 1.74 m from
+an axis of rotation of the object?
+2
+A child and her father are playing on a seesaw. They are exactly balanced when the girl (mass 46 kg) sits at
+the end of the seesaw, 2.75 m from the pivot. If her father weighs 824 N, how far is he from the pivot?
+The weight of the exercise book in the left-hand picture in fig B causes a rotation so it moves towards the
+second position. Explain why it does not continue rotating but comes to rest in the position of the second
+picture.
+4
+If the same set-up as shown in fig D was used again, but the toy car was replaced with a banana weighing
+1.4 N, find out where the banana would have to be positioned for the beam to balance - calculate the
+new X3.
+Key definitions
+A body is in equilibrium if there is zero resultant force and zero resultant moment. It will have zero
+acceleration.
+The principle of moments states that a body will be in equilibrium if the sum of clockwise moments
+acting on it is equal to the sum of the anticlockwise moments.
+An object's centre of gravity is the point through which the weight of an object appears to act.
+Motion
+2.1
+For example, the first 15 minutes of the boating trip in fig A
+represents a time of 900 seconds. In this time, the boat travelled
+150 m. Its velocity is:
+As 150
+= 0.167 ms' upriver
+For example, between 15 and 20 minutes on the graphs, the boat
+slows evenly to a stop. The acceleration here can be calculated as
+the gradient:
+ant - Av - V-U_0 -0.167 _ -0.167.
+gradient =
+= -0.0006 ms 2
+5 x 60 300
+So the acceleration is: a = -0.6 x 10-?ms?
+V= At 900
+Distance travelled from v-t graphs
+Speed is defined as the rate of change in distance:
+Velocity-time graphs
+A velocity-time graph will show the velocity of an object over
+time. We calculated that the velocity of the boat on the river was
+0.167ms- upriver for the first 15 minutes of the journey. Looking
+at the graph in fig B, you can see that the line is constant at
++0.167 ms-l for the first 15 minutes.
+...
+d=vxt
+Also notice that the velocity axis includes negative values, so that
+the difference between travelling upriver (positive y-axis values)
+and downriver (negative y-axis values) can be represented.
+As the axes on the v-t graph represent velocity and time, an area
+on the graph represents the multiplication of velocity x time,
+which gives distance. So to find the distance travelled from a v-
+graph, find the area between the line and the x-axis.
+Velocity/ms
+Velocity/ms!
+0.2
+Time
+0.0
+1
+10
+20
+30
+40
+50
+60
+/minutes
+0.01
+10
+20
+Time
+/minutes
+| 30
+40
+50
+60
+0.1
+-0.1
+-02
+-0.2
+fig B Velocity-time graph of the boating trip.
+fig C In the first 15 minutes (900 seconds) the distance travelled by the boat
+moving at 0.167 ms" is given by the area between the line and the x-
+axis: d = V X t = 0.167 x 900 = 150m.
+Acceleration from v-t graphs
+Acceleration is defined as the rate of change in velocity.
+In order to calculate the gradient of the line on a v-t graph,
+we must divide a change in velocity by the corresponding
+time difference. This exactly matches with the equation for
+acceleration:
+If we are only interested in finding the distance moved, this also
+works for a negative velocity. You find the area from the line up to
+the time axis. This idea will still work for a changing velocity. Find
+the area under the line and you have found the distance travelled.
+For example, from 0 to 20 minutes, the area under the line, all the
+way down to the x-axis, is a trapezium, so we need to find that
+area. To calculate the whole distance travelled in the journey for
+the first 40 minutes, we would have to find the areas under the
+four separate stages (0–15 minutes: 15–20 minutes, 20–25
+minutes, and 25-40 minutes) and then add these four answers
+together.
+gradient = Ax=174= acceleration
+Questions
+1 Describe in as much detail as you can, including calculated values,
+what happens in the bicycle journey shown on the d-t graph
+in fig F.
+Investigation
+Finding the acceleration due to
+gravity by multiflash photography
+Using a multiflash photography
+technique, or a video recording that
+can be played back frame by frame,
+we can observe the falling motion of
+a small object such as a marble. We
+need to know the time between
+frames.
+From each image of the falling
+object, measure the distance it has
+fallen from the scale in the picture.
+A carefully drawn distance-time
+graph will show a curve as the
+object accelerates. From this curve,
+take regular measurements of the
+gradient by drawing tangents to the fig D Multiflash photography
+curve. These gradients show the
+allows us to capture the
+instantaneous speed at each point accelerating movement of an
+on the curve.
+object falling under gravity.
+Plotting these speeds on a velocity-time graph should show a straight
+line, as the acceleration due to gravity is a constant value. The gradient
+of the line on this v-t graph will be the acceleration due to gravity.g.
+Distance/m
+Bc
+40
+do 10 20 30
+Time/s
+fig F Distance-time graph of a bike journey.
+2 Describe in as much detail as you can, including calculated values,
+what happens in the car journey shown on the v-t graph in fig G.
+Speed ms-
+Acceleration-time graphs
+These graphs show how the acceleration of an object changes
+over time. In many instances the acceleration is zero or a constant
+value, in which case an acceleration-time (a=) graph is likely to
+be of relatively little interest. For example, the object falling in
+our investigation above will be accelerated by gravity throughout.
+Assuming it is relatively small, air resistance will be negligible, and
+the a-t graph of its motion would be a horizontal line at
+a= -9.81 ms? Compare this with your results to see how
+realistic it is to ignore air resistance.
+For a larger object falling for a long period, such as a skydiver,
+then the acceleration will change over time as the air resistance
+increases with speed. The weight of a skydiver is constant, so
+the resultant force will be decreasing throughout, meaning that
+the acceleration will also reduce (see Section 1.1.5). The curve
+would look like that in fig E.
+A B C D
+"O 10 20 30 40 50
+Time/s
+fig G Velocity-time graph of a car journey.
+3
+From fig B, calculate the distance travelled by the boat from
+40 to 60 minutes.
+a/ms-2
+5
+10
+15
+20
+25
+30 t/s
+Learning tip
+Remember that the gradient of a distance-time graph represents
+speed or velocity, so if the line is curved, the changing gradient
+indicates a changing speed, which you can describe as the same as
+the changes in gradient.
+Kev definitions
+A displacement-time graph is a graph showing the positions visited
+on a journey, with displacement on the y-axis and time on the x-axis.
+A velocity-time graph is a graph showing the velocities on a
+journey, with velocity on the y-axis and time on the x-axis.
+fig E Acceleration-time graph for a skydiver.
+See Section 4.1.4 for more details on falling objects and terminal
+velocity.
+20
+2.1
+Newton's laws of motion
+By the end of this section, you should be able to...
+recall Newton's laws of motion and use them to explain the acceleration of objects
+• make calculations using Newton's second law of motion
+• identify pairs of forces involved in Newton's third law of motion
+WP
+Sir Isaac Newton was an exceptional thinker and scientist. His influence over science in the West
+is still enormous, despite the fact that he lived from 1642 to 1727. Probably his most famous
+contribution to science was the development of three simple laws governing the movement of
+objects subject to forces.
+fig A Isaac Newton was an MP and Master of the Royal Mint in addition to being a professor at Cambridge University
+and President of the Royal Society. He is buried in Westminster Abbey.
+Newton's first law of motion
+If an object is stationary there needs to be a resultant force on it to make it move. We saw how to
+calculate resultant forces in Section 2.1.3. If the object is already moving then it will continue at the
+same speed in the same direction unless a resultant force acts on it. If there is no resultant force on
+an object - either because there is zero force acting or all the forces balance out - then the object's
+motion is unaffected.
+Newton's second law of motion
+This law tells us how much an object's motion will be changed by a resultant force. For an object with
+constant mass, it is usually written mathematically
+F = ma
+resultant force (N) = mass (kg) x acceleration (ms)
+For example, this relationship allows us to calculate the acceleration due to gravity (g) if we measure
+the force (F) accelerating a mass (m) downwards.
+F=ma = mg
+fig B A stationary object will not
+move unless it is acted upon
+by a resultant force.
+26
+2.1
+2
+Motion graphs
+By the end of this section, you should be able to...
+The simplest thing we could find from these graphs is how far
+an object has moved in a certain time. For example, in fig A,
+interpret displacement-time graphs, velocity-time graphs
+both the graphs show that in the first 15 minutes the boat moved
+and acceleration-time graphs
+150 m. Looking at the time from 40 to 48 minutes, both show that
+• make calculations from these graphs
+the boat travelled 120 m, but the displacement-time graph is in
+the negative region of the y-axis, showing the boat was moving
+understand the graphical representations of accelerated motion
+downriver from the starting point - the opposite direction to the
+places it had been in the first 40 minutes.
+During the period from 20 to 25 minutes, both graphs have a flat
+One of the best ways to understand the movements of an object
+line at a constant value, showing no change in the distance or
+whilst on a journey is to plot a graph of the position of the object
+displacement. This means the boat was not moving - a flat line on
+over time. Such a graph is known as a displacement-time
+a distance-time (d-t) graph means the object is stationary. From
+graph. A velocity-time graph will also provide detail about the
+20 to 25 minutes on the velocity-time (1-1) graph of this journey
+movements involved. A velocity-time graph can be produced from
+(see fig B) the line would be at a velocity of Oms!
+direct measurements of the velocity or generated from calculations
+made using the displacement-time graph.
+Speed and velocity from d-t graphs
+The gradient of the d-t graphs in fig A will tell us how fast the
+Displacement-time graphs
+boat was moving. Gradient is found from the ratio of changes in
+If we imagine a boating trip on a river, we could monitor the the y-axis divided by the corresponding change on the x-axis, so:
+location of the boat over the hour that it has been rented for
+for a distance-time graph:
+and plot the displacement-time graph for these movements.
+distance (m)
+Depending on what information we want the graph to offer, it is
+- = speed (ms)
+often simpler to draw a distance-time graph in which the
+direction of movement is ignored.
+The graphs shown in fig A are examples of plotting position for a displacement-time graph:
+against time, and show how a distance-time graph cannot
+displacement (m)
+decrease with time. A displacement-time graph could have parts
+gradient =
+= velocity (ms)
+time (s)
+of it in the negative portions of the y-axis, if the movement went
+in the opposite direction at some points in time.
+Distance-time graph
+Displacement-time graph
+Distance
+Displacement
+/m
+2004
+gradient=
+time (s)
+/m
+600+
+500-
+up river
+The
+10
+20
+30
+40
+50
+60 1 Time
+/minutes
+2007
+0
+10
+20
+30
+40
+50
+60 Time
+/minutes
+down river
+fig A A comparison of the displacement-time graph of the boating trip up and down a river with its corresponding distance-time graph.
+18
+2.1
+WORKED EXAMPLE
+In fig D, we can work out the weight of the beam if we know all the other weights and distances. The
+beam is uniform, so its weight will act from its centre. The length of the beam is 100 cm. So if xy = 20 cm,
+then x, must be 30 cm, and x2 = 80 cm. The dinosaur (W) weighs 5.8 N and the toy
+car's weight (W) is 0.95 N.
+In equilibrium, principle of moments:
+sum of clockwise moments = sum of anticlockwise moments
+Wix= WoXo + W3X2
+5.8 x 0.20 = W. x 0.30 +0.95 x 0.80
+1.16-(0.76)
+..
+Wo =
+0.30
+Wo = 1.3 N
+Learning tip
+In order to calculate the sum of the moments in either direction, each individual moment must be
+calculated first and these individual moments then added together. The weights and/or distances cannot
+be added together and this answer used to calculate some sort of combined moment.
+Centre of gravity
+The weight of an object is caused by the gravitational attraction between the Earth and each particle
+contained within the object. The sum of all these tiny weight forces appears to act from a single
+point for any object, and this point is called the centre of gravity. For a symmetrical object, we
+can calculate the position of its centre of gravity, as it must lie on every line of symmetry. The point
+of intersection of all lines of symmetry will be the centre of gravity. Fig E illustrates this with
+two-dimensional shapes, but the idea can be extended into three dimensions. For example, the centre
+of gravity of a sphere is at the sphere's centre.
+There are equal amounts of
+centre of gravity
+mass each side of this line.
+-
+-
+-
+-
+-
+L
+-
+-
+-
+-
+-
+-
+There are equal
+amounts of mass
+There are equal
+each side of this line.
+amounts of mass
+The centre of gravity of
+each side of this line.
+a circle is in the middle.
+-The centre of gravity
+There are equal amounts
+is nearer to the base
+of mass all around this point.
+of the triangle.
+fig E The centre of gravity of a symmetrical object lies at the intersection of all lines of symmetry.
+-
+-
+-
+-
+-
+-
+-
+-
+Learning tin
+You can consider the terms 'centre of gravity' and 'centre of mass' to mean the same thing. They are
+identical for objects that are small compared to the size of the Earth.
+Irregular objects
+The centre of gravity of an irregularly shaped object will still follow the rule that it is the point at
+which its weight appears to act on the object. A Bunsen burner, for example, has a heavy base,
+and so the centre of gravity is low down near that concentration of mass, as there will be a greater
+attraction by the Earth's gravity to this large mass.
+2.1
+Moments
+Principle of moments
+By the end of this section, you should be able to...
+calculate the moment of a force
+apply the principle of moments
+find the centre of gravity of an object
+Forces on an object could act so that the object does not start to
+move along, but instead rotates about a fixed pivot. If the object is
+fixed so that it cannot rotate, it will bend.
+Moment of a force
+pivot point
+force F
+distance, x
+fig C Balanced moments create an equilibrium situation.
+If we add up all the forces acting on an object and the resultant
+force, accounting for their directions, is zero, then the object will
+fig A A force acts on a beam fixed at a point. The moment of a force causes
+be in equilibrium. Therefore it will remain stationary or, if it
+rotation or, in this case, bending
+is already moving, it will carry on moving at the same velocity.
+The object could keep a constant velocity, but if the moments
+The tendency to cause rotation is called the moment of a force.
+on it are not also balanced, it could be made to start rotating.
+It is calculated from:
+The principle of moments tells us that if the total of all the
+moment (Nm) = force (N) X perpendicular distance from the pivot moments trying to turn an object clockwise is equal to the total
+to the line of action of the force (m) of all moments trying to turn an object anticlockwise, then it
+moment = Fx
+will be in rotational equilibrium. This means it will either remain
+stationary, or if it is already rotating it will continue at the same
+speed in the same direction.
+*
+-
+-
+-
+-
+-
+-
+centre
+of mass
+-
+-
+-
+-
+centre
+axis of of mass
+rotation
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NNNNNNNNNNNNNNNNNNNNNNNN
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+weight F
+weight F
+fig B The calculation of moment only considers the perpendicular distance
+between the line of action of the force and the axis of rotation, through
+the pivot point. When free to rotate, a body will turn in the direction of
+any net moment.
+fig D As the metre-long beam is balanced, the sum of all the clockwise
+moments must equal the sum of all the anticlockwise moments.
+Motion
+2.1
+Questions
+Learning tin
+Vector notation means that vectors are written in bold type to
+distinguish them from scalar variables.
+The athlete in fig A has taken 36 seconds from the start to reach the
+300 m mark as shown. Calculate:
+(a) her average speed during this 36 seconds
+(b) her average velocity due north during this 36 seconds
+(c) her average velocity due east during this 36 seconds.
+2
+Average and instantaneous speed
+In most journeys, it is unlikely that speed will remain constant
+throughout. As part of her training programme, the athlete in
+fig A wants to keep a record of her speed for all races. From rest,
+before the starting gun starts the race, she accelerates to a top
+speed. However, the race timing will be made from start to finish,
+and so it is most useful to calculate an average speed over the
+whole race. Average speed is calculated by dividing the total
+distance for a journey by the total time for the journey. Thus it
+averages out the slower and faster parts of the journey, and even
+includes stops.
+Instantaneous speed can be an important quantity, and we will
+look at how to measure it in the next topic.
+A driver in a car travelling at about 25 mph (40.2 km h-1) sees a cat
+run onto the road ahead.
+(a) Convert 40.2 kmh-into a speed in ms!
+(b) The car travels 16.5 m whilst the driver is reacting to the danger.
+What is his reaction time?
+(c) The car comes to a stop in 2.5 s. What is its deceleration?
+3
+An electron in an X-ray machine is accelerated from rest to half the
+speed of light in 1.7 x 10-15 s. Calculate:
+(a) the speed the electron reaches in ms-
+(b) the acceleration the electron experiences.
+Learning tip
+Whilst accelerations can (very briefly) be extraordinarily high, like
+that for the electron in question 3(b), no speed or velocity can ever
+be greater than the speed of light, which is 3 x 108ms-'. If you
+calculate a speed that is higher than this, check your calculation
+again as it must be wrong.
+POLICE
+SON
+Kev definitions
+Speed is the rate of change of distance.
+distance (m)
+speed (ms-1) =
+time (s)
+Velocity is the rate of change of displacement.
+fig C Most speed checks look at instantaneous speed, but CCTV allows police
+to monitor average speed over a long distance.
+velocity (ms-1) - displacement (m)
+time (s)
+v
+OR v At
+Acceleration
+Acceleration is defined as the rate of change of velocity.
+Therefore, it must include the direction in which the speed is
+changing, and so acceleration is a vector quantity. The equation
+defining acceleration is:
+change in velocity (ms)
+acceleration (ms) =
+time taken to change the velocity (s)
+Displacement is the vector measurement of distance in a certain
+direction.
+A vector quantity must have both magnitude and direction.
+A scalar quantity has only magnitude
+Average speed is calculated by dividing the total distance for a
+journey by the total time for the journey:
+-11 total distance (m)
+average speed (ms-1) = =
+total time (s)
+Instantaneous speed is the speed at any particular instant in time on
+a journey, which can be found from the gradient of the tangent to a
+distance-time graph (see Section 2.1.2) at that time.
+Acceleration is the vector defined as the rate of change of velocity.
+change in velocity (ms-')
+acceleration (m 5-2)=-
+time taken to change the velocity (s)
+a="" OR a = 42
+OR
+a - Av
+where u is the initial velocity and v is the final velocity.
+The vector nature of acceleration is very important. One of the
+consequences is that if an object changes only the direction of
+its velocity, it is accelerating, whilst remaining at a constant speed.
+Similarly, deceleration represents a negative change in velocity
+and so could be quoted as a negative acceleration.
+2.
+18
+Projectiles
+By the end of this section, you should be able to...
+apply kinematics equations to moving objects
+apply the independence of horizontal and vertical motion to
+objects moving freely under gravity
+combine horizontal and vertical motion to calculate the
+movements of projectiles
+60m
+Objects thrown or fired through the air generally follow projectile
+motion. Here we are going to combine ideas from the various
+earlier sections in order to solve in-depth questions about
+projectiles. Resolving vectors showed that the actions in each of
+two perpendicular directions are wholly independent. This means
+we can use Newton's laws of motion and the SUVAT equations
+separately for the horizontal and vertical motions of the same object.
+This will allow us to calculate its overall motion in two dimensions.
+Learning tip
+Vectors acting at right angles to each other act independently. Their
+combined effect can be calculated using vector addition, but they
+can also be considered to act separately and at the same time. This
+would cause independent effects, which themselves could then be
+combined to see an overall effect.
+fig A Vertical acceleration on a horizontally moving stone.
+The time to hit the beach, 1, will be the same as if the stone was
+simply dropped. We know u = Oms; a = -9.81ms-2; and the
+height fallen, s= -60 m.
+s = ut + at?
+U = 0.. ut = 0
+. S = jat?
+t=2s
+(2 x-60)
+Learning tip
+Physics is holistic: you can apply ideas from one area of physics to
+others. Remember, it is a set of rules that explains everything in the
+Universe, so each rule must be applicable to all things.
+. tava 1 -9.81
+t = 3.5 s
+Horizontally, there is no accelerating force once the stone is
+in flight, so it has a constant speed. Thus, to find the distance
+travelled horizontally, d:
+We only consider the motion after the force projecting an object has
+finished -for example, after a cannonball has left the cannon. Air
+resistance is ignored in these calculations, so the only force acting will
+be the object's weight. Thus, all vertical motion will follow SUVAT
+equations, with gravity as the acceleration. There will be no horizontal
+force at all, which means no acceleration and therefore y=s/t.
+d = v Xt
+d = 8.2 x 3.5
+d = 28.7 m
+Recombining velocity components
+In the example of the stone kicked from the cliff to the beach,
+we might also want to calculate the final velocity of the stone on
+landing. This means adding vertical and horizontal components
+into their resultant.
+Vhorizontal = 8.2 m s -1
+-
+-
+-
+Horizontal throws
+If an object is projected horizontally, it will start off with zero
+vertical velocity. However, gravity will act on it so that its motion
+will curve downwards in a parabola shape, like the stone in fig A.
+In the example of fig A, a stone is kicked horizontally off a cliff
+with a velocity of 8.2 ms ! How much time is the stone in flight?
+How far does it get away from the cliff by the time it lands?
+Horizontal and vertical motions are totally independent. Here
+the vertical component of velocity is initially zero, but the stone
+accelerates under gravity. Uniform acceleration means SUVAT
+can be used.
+wwwwww
+-
+-
+-
+-
+vertical
+-
+-
+-
+wwwwwwwwww
+-
+-
+-
+-
+-
+-
+fig B The stone's final velocity is the resultant of its vertical and horizontal
+components
+34
+2.1
+The parallelogram rule
+There is another method for finding the resultant of two non-perpendicular forces (or vectors) by
+scale drawing, which can be easier to use. This is called the parallelogram rule. Draw the two vectors
+to scale - at the correct angle and scaled so their length represents the magnitude - starting from
+the same point. Then draw the same two vectors again parallel to the original ones, so that they form
+a parallelogram, as shown in fig F. The resultant force (or vector) will be the diagonal across the
+parallelogram from the starting point.
+Hypotenuse
+400N
+390
+450N
+fig F Finding the resultant vector using the parallelogram rule.
+Learning tip
+The vector addition rules shown on these pages work for all vectors, not just forces. They are useful only
+for co-planar vectors, which means vectors that are in the same plane. If we have more than two vectors
+that are in more than one plane, add two vectors together first, in their plane, and then add the resultant
+to the next force using these rules again. Keep doing this until all the vectors have been added in.
+70N
+Free-body force diagrams
+If we clarify what forces are acting on an object, it can be simpler to calculate how it will move. To do
+this, we usually draw a free-body force diagram, which has the object isolated, and all the forces that
+act on it drawn in at the points where they act. Forces acting on other objects, and those other objects,
+are not drawn. For example, fig G could be said to be a free-body force diagram of the rugby player
+being tackled in fig B, and this would lead us to draw fig C and fig D to make our resultant calculations.
+110N
+fig G Free-body force diagram of a
+rugby player (red circle). The
+forces from the tacklers are
+marked on as force arrows.
+Questions
+| Work out the resultant force on a toy car if it has the following forces acting on it:
+• rubber band motor driving forwards 8.4 N
+air resistance 0.5 N
+• friction 5.8 N
+• child's hand pushing forward 10 N.
+As a small plane takes off, the lift force on it is 6000 N vertically upwards, whilst the thrust is 2800 N
+horizontally forwards. What is the resultant of these forces on the plane?
+3 Draw a free-body force diagram of yourself sitting on your chair.
+4 (a) Draw the scale diagram of fig E, and work out what the resultant force would be.
+(b) Use the parallelogram rule, as in fig F, to check your answer to part (a).
+5
+In order to try and recover a car stuck in a muddy field, two tractors pull on it. The first acts at an angle of
+20° left of the forwards direction with a force of 2250 N. The second acts 15° to the right of the forwards
+direction with a force of 2000 N. Draw a scale diagram of the situation and find the resultant force on the
+stuck car.
+Key definitions
+Resultant force is the total force (vector sum) acting on a body when all the forces acting are added
+together accounting for their directions.
+A free-body force diagram of an object has the object isolated, and all the forces that act on it are drawn
+in at the points where they act, using arrows to represent the forces.
+22
+2.1
+Adding forces
+By the end of this section, you should be able to...
+• add two or more vectors by drawing
+add two perpendicular vectors by calculation
+Magnitude of the resultant force
+To calculate the resultant magnitude of two perpendicular forces,
+we can draw them, one after the other, as the two sides of a
+right-angled triangle and use Pythagoras' theorem to calculate the
+size of the hypotenuse.
+Resultant = 130N
+70N
+Forces are vectors. This means that measuring their magnitude is
+important, but equally important is knowing the direction in which
+they act. In order to calculate the overall effect of multiple forces
+acting on the same object, we can use vector addition to work out
+the resultant force. This resultant force can be considered as a
+single force that has the same effect as all the individual forces
+combined.
+110N
+fig C The resultant force here is calculated using Pythagoras' theorem:
+F = 7(702 + 110) = 130N
+Adding forces in the same line
+If two or more forces are acting along the same line, then
+combining them is simply a case of adding or subtracting their
+magnitudes depending on their directions.
+Direction of the resultant force
+As forces are vectors, when we find a resultant force it must have
+both magnitude and direction. For perpendicular forces (vectors).
+trigonometry will determine the direction.
+IN
+11N
+CAN
+Resultant = 130N
+70N
+>18N resultant
+11N
+7N &
+4N resultant
+fig A Adding forces in the same line requires a consideration of their
+comparative directions.
+110N
+fig D The resultant force here is at an angle up from the horizontal of:
+0 = tan-1 (40= 32
+Adding perpendicular forces
+The effect on an object of two forces that are acting at right
+angles (perpendicular) to each other will be the vector sum
+of their individual effects. We need to add the sizes with
+consideration for the directions in order to find the resultant.
+Learning tip
+Always take care to state where the angle for a vector's direction is
+measured. For example, in fig D, the angle should be stated as 32° up
+from the horizontal. This is most easily expressed on a diagram of the
+situation, where you draw in the angle.
+Adding two non-perpendicular forces
+The geometry of perpendicular vectors makes the calculation of
+the resultant simple. We can find the resultant of any two vectors
+by drawing one after the other, and then the resultant will be the
+third side of the triangle from the start of the first one to the end
+of the second one. A scale drawing of the vector triangle will
+allow measurement of the size and direction of the resultant.
+400N
+390
+fig B These two rugby players are each putting a force on their opponent. The
+forces are at right angles, so the overall effect would be to move him in a
+third direction, which we could calculate.
+450N
+fig E The resultant force here can be found by scale drawing of the two forces
+and then measurement of the resultant on the drawing using a ruler and
+a protractor.
+21
+Motion
+2.1
+Learning tip
+Resolving vectors could also be achieved using a scale diagram.
+Using this method in rough work may help you to get an idea as to
+what the answer should be in order to check that your calculations
+are about right
+However, the submarine commander is likely to be most interested
+in knowing how quickly his vessel is approaching the seabed. This
+could be found by resolving the velocity of the submarine into
+a component parallel with the seabed, and the right-angled pair
+with that will be a component perpendicular to the seabed. It is
+this vero that will tell the submarine commander how quickly he is
+approaching the seabed.
+V
+= vsin 15°
+perp
+Alternative resolution angles
+If we know the velocity of an object, we have seen that we can
+resolve this into a pair of velocity vectors at right angles to each
+other. The choice of direction of the right-angle pair, though, is
+arbitrary, and can be chosen to suit a given situation.
+submarine velocity, v
+seabed
+vcos 15º J
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+L
+30°
+.
+..
+.
+..
+.
+...
+..
+.
+..
+..
+..
+..
+.
+..
+.
+...
+..
+.
+..
+Learning tin
+The vectors produced by resolution can be at any angle we like with
+respect to the original vector, as long as they are perpendicular to
+each other and their resultant equals the original vector. In order to
+allow for every pair to add up to the original vector, their magnitudes
+will vary as the angle is changed.
+fig G Submarine velocity resolved into components parallel and perpendicular
+to the seabed.
+Questions
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+(a) On graph paper, draw a velocity vector for a stone fired from a
+catapult at 45° to the horizontal. Your arrow should be 10 cm
+long, representing a velocity of 10ms. Draw onto your
+diagram the horizontal and vertical components that would
+make up the overall velocity. Use a ruler to measure the size
+of the horizontal and vertical components, and convert these
+lengths into metres per second using the same scaling.
+(b) Find the horizontal and vertical velocity components for this
+catapult stone by calculation, and compare with your answers
+from part (a).
+velocity, v
+2
+A javelin is thrown at 16 msl at an angle of 35° up from the
+horizontal. Calculate the horizontal and vertical components of the
+javelin's motion.
+30°
+fig E Resolving submarine velocity vectors can be important to avoid crashing.
+Aladder is leant against a wall, at an angle of 28to the wall. The
+440 N force from the floor acts along the length of the ladder.
+Calculate the horizontal and vertical components of the force from
+the floor that act on the bottom of the ladder.
+Imagine a submarine descending underwater close to an angled
+seabed. The velocity could be resolved into a pair of vectors,
+horizontal and vertical.
+A plane is flying at 240ms on a bearing of 125° from due north.
+Calculate its velocity component due south, and its velocity
+component due east.
+45°
+submarine velocity, v
+Kev definitions
+Resolution or resolving vectors is the determination of a pair of
+vectors, at right angles to each other, that sums to give the single
+vector they were resolved from.
+V
+= vcos 45º
+vent
+WWWWWWWWWWWW
+W
+V
+= vsin 45°
+fig F Submarine velocity resolved into horizontal and vertical components.
+Motion
+2.1
+Consider the second question first: uniform acceleration under
+gravity means a = -9.81 ms 2 and SUVAT can be used. We know
+u= 5.5 ms 1; at the top of the path, v=0ms 1; and we want to
+find the height, s.
+v2 = u2 + 2as
+5-v2 - u2_02 - (5.5)2
+In the example of fig A, what is the velocity of the stone when it
+hits the beach?
+The horizontal velocity was given as 8.2 ms-!. To calculate the
+vertical velocity: u = Oms-l; a= -9.81 ms-2; and s= -60 m.
+v2vertical = u? + 2as = 02 + (2 X-9.81 % -60) = 1177.2
+... Vertical = 1177.2 = -34.3
+Vvertical = -34.3 ms?
+Pythagoras" theorem gives the magnitude of the final velocity:
+v = (8.22 + 34.32)
+.. v = 35.3 ms-1
+Trigonometry will give the angle at which the stone is flying on
+impact with the beach:
+$= 2 * 2 * -9.81
+S = 1.54 m
+Note that 1.54 metres is actually the height the ball reaches above
+the point of release at which it left the hand - the point where its
+initial speed was 5.5 ms - but this anomaly is often ignored in
+projectiles calculations.
+tan 0 - 34.3
+8.2
+.. A = 77º
+The stone's velocity when it lands on the beach is 35.3 metres per
+second at an angle of 77° down from the horizontal.
+Learning tip
+For virtually all projectile motion calculations, we assume that there
+is no air resistance, so the only force acting is gravity, vertically
+downwards.
+The time of flight for the ball will be just the time taken to rise and
+fall vertically. We find the time to reach the highest point, and then
+double that value. We know u = 5.5 ms-l; at the top of the path,
+y = Oms-l; and we want to find the time, I.
+Learning tin
+We have used the convention that up is positive throughout this
+section. It doesn't matter which direction you choose as negative,
+but you must use it consistently throughout a calculation or there
+may be errors in the answers.
+V = u + at
+..
+t-V-u
+0 - (5.5)
+a -9.81
+t = 0.56 s
+So the overall time of flight will be 0.56 seconds doubled: total
+time = 1.12 s.
+Vertical throws
+Imagine throwing a ball to a friend - it goes up as well as
+forwards. One common idea in these calculations is that an object
+projected with a vertical upwards component of motion will have
+a symmetrical trajectory. At the highest point, the vertical velocity
+is momentarily zero. Getting to this point will take half of the time
+of the whole flight.
+Questions
+highest point
+1 A boy throws a ball vertically at a velocity of 4.8 ms.
+(a) How long is it before he catches it again?
+(b) What will be the ball's greatest height above the point
+of release?
+2
+The boy in question 1 now throws his ball horizontally out of a high
+window with a velocity of 3.1 ms?
+(a) How long will it take to reach the ground 18 m below?
+(b) How far away, horizontally, should his friend stand in order to
+catch the ball?
+3
+fig C Considering only the vertical component of velocity
+A netball is thrown with a velocity of 6.0 ms at an angle of 40° to
+the vertical, towards the netball hoop.
+(a) If the hoop is 0.90 m above the point of release, will the ball rise
+high enough to go in the hoop?
+(b) If the centre of the hoop is 3.00 m away, horizontally, from the
+point of release, explain whether or not you believe this throw will
+score in the hoop. Support your explanation with calculations.
+In the example of fig C, a ball is thrown with a vertical velocity
+component of 5.5 ms 1. How much time is it in flight? How high
+does it get?
+These questions would have the same answer if a person threw
+the ball vertically up and caught it again themselves. This again
+highlights the independence of horizontal and vertical motions. It
+may be that an initial velocity at an angle is quoted, so that we
+need to resolve the velocity vector into its horizontal and vertical
+components in order to know that here Vvertical = 5.5 ms 1.
+Kev definitions
+A projectile is a moving object on which the only force of
+significance acting is gravity. The trajectory is thus pre-determined
+by its initial velocity.
+BIGGER
+DURHAM CASTLE SIEGE WA
+Durham Castle was initially built as a fortress against Scottish raiders. In this activity, you will need to
+imagine attacking the castle using a catapult that fires a boulder as a projectile.
+In addition to the layout shown in fig B, we need information
+about the initial velocity of the boulder. The catapult sling could
+act for 0.30 s to accelerate the boulder (mass = 12 kg) with a force
+of 1550 N. It causes the boulder to leave the catapult at an angle of
+45° to the horizontal.
+Steps to the answer
+By working back from the answer we are looking for, we can
+see what calculations will need to be made in order to solve this
+problem. The fundamental idea is that the parabola trajectory
+would be symmetrical if the flight was not interrupted by crashing
+into the castle wall.
+1 To find the height up the wall from the ground, we will need to
+work out how far down from the boulder's maximum height
+it falls:
+H=hmax - h
+2 To find h, we need to know the time of flight, total so we can
+split this into a time to reach hmas, and see how much time is left
+to fall height h. We will use gravitational acceleration vertically
+to calculate the vertical drop in that remaining time:
+S.
+fig A Durham Castle is now an UNESCO World Heritage Site and is a part of
+Durham University
+In this section, I will use some basic mechanics to answer a
+question regarding the prospect that Scottish raiders really could
+have assaulted Durham Castle in the manner described previously.
+The seventeenth-century source material suggests that the castle
+was under siege by the Scots for more than a week and "battered
+by boulders'. However, the current walls bear little in the way of
+obvious battle scars, despite being apparently part of the original
+medieval construction.
+Looking at fig B, the question that needs to be answered here is:
+"How high up the front wall of the castle will the boulder hit?' This
+height is marked on fig B as 'H'.
+total = V horizontal
+From fig B, we can see that s = 150 m.
+3 Vhorizontal can be found by resolving the velocity to give the
+horizontal component:
+Vhorizontal = total X cos 45º
+4 The overall velocity will come from the sling's acceleration of
+the boulder:
+v=u + at
+where u=0ms, and the question tells us that the sling acts for
+0.30 seconds.
+5 Newton's second law of motion will give us the acceleration the
+sling causes:
+----
+total
+H|24m| 1
+1
+1
+Durham Castle
+Calculate the answer by reversing these steps:
+The acceleration caused by the sling:
+s= 150 m
+fig B Details of the trajectory of a catapult boulder towards Durham Castle.
+We assume the boulder leaves the catapult at ground level.
+Where else will l encounter these themes?
+1.1
+21 YOU ARE
+2.2
+2.3
+3.1
+3.2
+HERE
+36
+Exam-style questions
+2.1
+9 The photograph shows a sequence of images of a bouncing
+tennis ball.
+11 During a lesson on Newton's laws of motion, a student says,
+"We don't really need to bother with Newton's first law because
+it is included in his second law".
+State Newton's first two laws of motion and explain how
+Newton's second law includes the first law.
+[5]
+[Total: 5]
+12 The diagram shows an arrangement used to launch a light
+foam rocket at a school science competition.
+A student plots the following graph and claims that it shows
+the vertical motion of the ball in the photograph.
+Velocity/ms-1
+0.5
+1.0
+Time/s
+(a) Without carrying out any calculations, describe how the
+following can be found from the graph
+(i) the vertical distance travelled by the ball between
+0.5 s and 1.0 s
+(ii) the acceleration at Y.
+[2]
+(b) The graph contains several errors in its representation of
+the motion of the ball.
+Explain two of these errors.
+[Total: 6]
+The rocket is launched at the level of one end of a long table
+and lands at the other end at the same level. The students
+measure the horizontal distance travelled by the rocket and the
+time of fight.
+(a) The rocket travels 1.88 m in a time of 0.88 s.
+(i) Show that the horizontal component of the initial
+velocity of the rocket is about 2 ms-1.
+(ii) Show that the vertical component of the initial
+velocity of the rocket is about 4ms-1.
+(iii) Calculate the initial velocity of the rocket.
+(b) The students obtained their data by filming the flight.
+When they checked the maximum height reached by the
+rocket they found it was less than the height predicted
+using this velocity
+(i) Suggest why the maximum height reached was less
+than predicted.
+[1]
+(ii) Give two advantages of filming the flight to obtain
+the data.
+[2]
+[Total: 11]
+10 There has been a proposal to build a train tunnel underneath
+the Atlantic Ocean from England to America. The suggestion
+is that in the future the trip of 5000 km could take as little as
+one hour.
+Assume that half the time is spent accelerating uniformly and
+the other half is spent decelerating uniformly with the same
+magnitude as the acceleration.
+(a) Show that the acceleration would be about 2 ms? [2]
+(b) Calculate the maximum speed.
+[2]
+(c) Calculate the resultant force required to decelerate the train
+mass of train = 4.5 x 105 kg
+[Total: 6]
+12)
+39
+Motion
+2.1
+Learning tip
+The kinematics equations, often referred to as the SUVAT equations,
+are only valid if there is a constant acceleration. If the acceleration is
+changing they cannot be used.
+We plot a graph of h on the x-axis and t2 on the y-axis to give a
+straight best-fit line. The gradient of the line on this graph will be
+2/g, from which we can find g.
+We could find a value for g by taking a single measurement from this
+experiment and using the equation to calculate it:
+2h
+972
+Investigation
+Finding the acceleration due to gravity by freefall
+A system for timing the fall of an object under gravity can allow us to
+measure the acceleration due to gravity. In this experiment, we
+measure the time taken by a falling object to drop under gravity
+from a certain height, and then alter the height and measure again.
+However, a single measurement in any experiment is prone to
+uncertainty from both random and systematic errors. We can reduce
+such uncertainties significantly by taking many readings and plotting
+a graph, which leads to much more reliable conclusions.
+start switch-
+O
+solenoid
+Questions
+– iron ball
+1 What is the final velocity of a bike that starts at 4 ms and has zero
+acceleration act on it for 10 seconds?
+electronic
+timer
+2
+How far will the bike in question 1 travel in the 10-second time
+period?
+height, h
+3
+Calculate the acceleration in each of the following cases:
+(a) v = 22 msl; u = 8 ms; t = 2.65
+(b) a ball starts at rest and after 30 m its velocity has reached
+4.8 ms
+(c) in 15 s, a train moves 100 m from rest.
+timing gate
+fig C The freefall time of an object from different heights allows us to find
+the acceleration due to gravity, g.
+If we vary the height from which the object falls, the time taken to
+land will vary. SUVAT tells us that:
+S = ut + at
+As it always starts from rest, u = 0 throughout; the acceleration is that
+caused by gravity, g; and the distance involved is the height from
+which it is released, h. Thus:
+h = gt2
+The bird in fig A drops the stone from a height of 88 m above the
+water surface. Initially, the stone has zero vertical velocity. How long
+will it take the stone to reach the surface of the pond? (Assume air
+resistance is negligible.)
+If the stone in fig A enters the water at 41.6 msl and takes 0.6 s to
+travel the 3 metres to the bottom of the pond, what is its average
+acceleration in the pond water?
+Compare this equation with the equation for a straight-line graph:
+y = mx + c
+Kev definitions
+Kinematics is the study of the description of the motion of objects.
+Uniform motion is motion when there is no acceleration:
+displacement (m)
+velocity (ms') =
+time (s)
+Thinking Bigger
+2.1
+Let us start by considering the nature of the writing in the draft dissertation.
+1. The extract opposite is a draft for a university essay on Medieval History. Consider the
+extract and comment on the type of writing being used. For example, think about
+whether this is a scientist reporting the results of their experiments, a scientific review of
+data, a newspaper or a magazine-style article for a specific audience. Try and answer the
+following questions:
+a. How can you tell that the author is sceptical about the historical source material?
+b. What is the purpose of this mathematical analysis, for its inclusion in this essay?
+Once you have
+answered the
+calculation questions
+below, decide whether
+you think the Scottish
+siege happened as the
+author suggests his
+source tells the story,
+Now we will look at the physics in detail. You may need to combine concepts from different areas of
+physics to work out the answers. Use the timeline at the bottom of the page to help you put this work
+in context with the areas of your course.
+08535000000000
+2. Complete the calculation steps, in reverse as suggested, in order to find out the
+answer, H:
+a. the acceleration caused by the sling
+b. overall velocity that the boulder is projected from the sling
+c. horizontal and vertical components of the velocity
+d. time of flight found from the horizontal travel
+e. time to reach maximum height using vertical motion
+f. remaining flight time from maximum height
+g. height fallen from the maximum in the remaining flight time
+h. final answer H.
+3. State two assumptions that have been made in these calculations.
+4. Calculate what difference there would be in the answer if the catapult was loaded with
+different boulders of masses 10 kg and 14 kg. Note from fig B that the castle walls are
+24 m high. Comment on these answers.
+5. If the available supply of boulders offered very variable masses, how might the Scots be
+able to overcome the problems shown in question 4.
+Command word
+When the word 'calculate
+is used, your answer
+needs to be numerical
+and show your working.
+665557887068070
+Activity
+Imagine Claus Thermad is a friend of yours, and he has come to you for help with the calculations as he is
+not a strong scientist. His section 'Steps to the answer' was taken from a research source about a different
+castle under siege. Write an email to Claus to explain the calculations required in each step.
+You can assume that
+Claus understands
+mathematics, and is
+generally intelligent -a
+student who could have
+done A level physics
+but preferred arts
+subjects.
+By Claus Thermad, from an early draft of his dissertation for a Masters degree in Medieval History
+4.1
+4.2
+5.1
+5.2
+5.3
+5.4
+37
+2.1
+Exam-style questions
+1 The unit of force is the Newton. One Newton is equivalent to:
+(a) 0.1 kg
+(b) 1 kgms!
+(c) 1 kg ms2
+(d) 1 ms2
+[1]
+[Total: 1]
+6 A student is required to measure the speed of a trolley rolling
+down a slope. This could be done using a ruler and a stopwatch
+but the student prefers a method using ICT.
+(a) The student uses a light gate as shown in the diagram.
+Describe how the student obtains the measurements
+needed to calculate speed.
+[2]
+light gate
+2 A ball is thrown vertically upwards at a speed of 11.0 ms-1.
+What is the maximum height it reaches?
+(a) 0.561 m
+(b) 1.12 m
+(c) 6.17m
+(d) 12.3 m
+[Total: 1]
+[1]
+(b) The student thinks that the stopwatch method is less
+reliable than the ICT method.
+Discuss what makes using a stopwatch less reliable. [2]
+[Total: 4]
+3 Calculate the moment exerted on the nut by the spanner shown
+in the diagram.
+24 cm
+20N
+7 You are asked to determine the acceleration of free fall at
+the surface of the Earth, g, using a free fall method in the
+laboratory
+(a) Describe the apparatus you would use, the measurements
+you would take and explain how you would use them to
+determine g
+(b) Give one precaution you would take to ensure the
+accuracy of your measurements.
+[Total: 7]
+-
+-
+-
+-
+-
+-
+-
+-
+-
+[1]
+(a) 2.4 Nm
+(b) 4.2 Nm
+(c) 4.8 Nm
+(d) 420 Nm
+[Total: 11
+[1]
+[Total: 1]
+8 The graph shows how displacement varies with time for an
+object that starts from rest with constant acceleration.
+4 (a) What is meant by a vector quantity?
+(b) A car is driven around a bend at a constant speed.
+Explain what happens to its velocity.
+[Total: 3]
+[2]
+Distance/m
+5 The Saturn V rocket used in NASA's space programme had a
+mass of 3.04 x 10kg. It took off vertically with a thrust force
+of 3.40 x 107N.
+(a) Show that the resultant force on the rocket is around
+4x 10ⓇN.
+(b) Calculate the initial acceleration.
+[2]
+(c) After 150 s the rocket reached a speed of 2390 ms-1.
+Calculate its average acceleration.
+(d) Suggest why the initial acceleration and average
+acceleration are different.
+[Total: 8]
+Time/s
+11)
+(a) Use the distance-time graph to determine the speed of
+the object at a time of 4.0 s.
+[3]
+(b) Calculate the acceleration.
+[2]
+[Total: 5]
+38
+2.1
+7.
+Resolving vectors
+By the end of this section, you should be able to...
+explain that any vector can be split into two components at
+right angles to each other
+calculate the values of the component vectors in any such
+right-angled pair (resolution)
+vertical motion. However, this can only be done if we can isolate
+the vertical component of the netball's motion. Similarly, we could
+find out if it will travel far enough horizontally to reach the hoop if
+we know how fast it is moving horizontally.
+The netball's velocity must be resolved into horizontal and vertical
+components. This will require some trigonometrical calculations.
+We have seen that vectors that act perpendicular to each other can
+be combined to produce a single vector that has the same effect as
+the two separate vectors. If we start with a single vector, we can find
+a pair of vectors at right angles to each other that would combine
+to give our single original vector. This reverse process is called
+resolution or resolving vectors. The resolved pair of vectors will
+both start at the same point as the original single vector.
+Vertical component of velocity
+Redrawing the components in fig B to show how they add up to
+produce the 4.2 ms- velocity vector, shows again that they form
+a right-angled triangle, as in fig C. This means we can use the
+relationship:
+vms-1
+F
+Cos 40° = 1
+i
+4.2 ms-1
+v = 4.2 x cos 40º vms!
+= 4.2 x 0.766
+V = 3.2 msi
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5 ms in
+-
+-
+-
+-
+-
+13ms-1
+-
+-
+-
+-
+-
+-
+WWWWWWWWWWWWW
+40°
+W
+22.6°
+12ms-1
+fig A The original velocity vector of 13 ms- has been resolved into a
+horizontal and a vertical velocity vector, which would separately be the
+same overall effect. An object moving right at 12 ms' and up at 5 ms
+will move 13 metres each second at an angle of 22.6° up and right from
+the horizontal.
+fig C Finding the components of velocity.
+Resolving vectors calculations
+In order to resolve a vector into a pair at right angles, we must
+know all the details of the original vector. This means we must
+know its size and direction. The direction is most commonly given
+as an angle to either the vertical or the horizontal. This is useful,
+as we most commonly want to split the vector up into a horizontal
+and vertical pair.
+Horizontal component of velocity
+Similarly, for the horizontal component, we can use the
+relationship:
+sin 40° =
+V. = 4.2 x sin 40° = 4.2 x 0.643
+Vi = 2.7 ms
+vms-
+4.2ms ir
+Learning tip
+sin 8° = opposite/hypotenuse
+cos 6° = adjacent/hypotenuse
+tan 0º = opposite/adjacent
+opposite
+-
+-
+WWWWWWWWWW
+-
+-
+-
+-
+-
+-
+adjacent
+hypotenuse
+vms-1
+fig B Resolving a velocity vector into vertical and horizontal components.
+In the example of fig B, a netball is thrown into the air at an angle
+of 40° to the vertical. In order to find out if it will go high enough
+to reach the hoop, SUVAT calculations could be done on its
+fig D Trigonometry reminder.
+32

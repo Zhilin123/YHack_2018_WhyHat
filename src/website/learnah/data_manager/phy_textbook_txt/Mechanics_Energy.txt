@@ -1,0 +1,681 @@
+BIGGER
+THE MECHANICS OF HOCKEY
+Hockey is the second most popular sport on Earth in terms of numbers of people playing. It is a fast
+moving, skilful sport in which the ball may fly at over 100 miles per hour.
+In this activity, we will consider how mechanics can apply to events in hockey.
+GOALSCORING
+In this section, we will look at some of the science behind shots on
+goal.
+A goal only counts if the ball is hit from inside the shooting circle.
+This means the ball must be no more than about 14 metres from
+the goal. Assuming zero drag forces, we can calculate the longest
+time the goalkeeper has to react to this shot after it leaves the stick.
+We know the start velocity and the distance, so this is a
+straightforward question.
+SO
+soi =
+fig A Georgie Twigg of England takes on two New Zealand defenders.
+If we want to calculate how fast a stationary hockey ball would
+be moving after a hard hit at goal, we need to think about its
+acceleration by using Newton's second law. A standard hockey ball
+has a mass of 0.16 kg. If the stick applies a force of 140 N for a
+twentieth of a second, we can work out the answer:
+F = ma
+t = 0.32 s
+so a= 27
+If the goalkeeper reacts quickly enough to get a leg pad in the way,
+how deeply will this shot squash into the foam padding which is
+no more than 10 cm thick? The maximum decelerating force the
+foam can provide to slow the ball is 2000 newtons. Here we should
+consider the removal of all the ball's kinetic energy as work being
+done.
+Ex = mv2 = (0.16) * (44)2 = 155J
+AW = FAS
+10.16
+: a = 875 ms?
+V = u + at the ball starts stationary,
+so u=0ms, a = 875 ms 2,1 = 0.05 s
+V=0+875 (0.05)
+V = 44 m s-1
+As=
+As = AW = 155 = 7.7 x 10-2 m
+2000
+So the pad depresses by just under 8 cm. The goalkeeper is likely
+to feel this but it should not be painful. According to Newton's
+third law, when the pad exerts a force of 2000 N on the ball, the
+ball exerts a force of 2000 N on the pad. If the goalkeeper's leg
+were not protected, this force could cause a serious injury.
+fig B Nick Catlin of England is tackled by an Australian defender.
+Where else will I encounter these themes?
+1.1
+2.1
+2.2
+YOU ARE
+HERE
+2.3
+3.1
+3.2
+48
+Energy
+2.2
+2 Calculate the work done by the tension in the kite string in fig E
+over the distance shown.
+Efficiency
+From the equations above, we can calculate the work and power
+generated in different situations. If most of the energy is not
+actually transferred into a form that is useful to us, then the
+activity may be a waste of energy. The ability of a machine to
+convert energy usefully is called efficiency.
+Efficiency is defined mathematically as:
+120N
+300
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+efficiency - useful work done
+total energy input
+useful energy output
+efficiency =
+total energy input
+40 m
+fig E Moving at an angle to the force doing work.
+3
+(a) What is the power of an electric motor, in watts, if it lifts 500g,
+through 80 cm in 20 seconds?
+(b) What is the motor's efficiency if the mains electricity supplied it
+with a total of 12 ) to make the lift?
+In loading a delivery van, the driver pushed a 15 kg crate for
+5 metres up a ramp. She had to push with a force of 132 N and the
+vertical height gained was 1.3 m. What was the efficiency of pushing
+this crate up the ramp onto the back of the van?
+If we remember that power is energy divided by time, then
+measuring the energy flows in a machine for a fixed amount of
+time means that we can write a power version of the efficiency
+equation:
+useful energy output
+time
+efficiency =
+total energy input
+time
+useful power output
+efficiency =
+total power input
+The answer will be a decimal between zero and one. It is
+common to convert this to a percentage value (multiply the
+decimal by 100).
+WORKED EXAMPLE
+If the forklift truck referred to above lifted the crate when supplied
+with electrical energy from its battery at a rate of 3000 joules per
+second, what is its efficiency?
+useful power output
+efficiency =
+total power input
+1470
+Key definitions
+Conservation of energy requires that energy can never
+be created or destroyed.
+Work done in a mechanical system is the product of a force and the
+distance moved in the direction of the force:
+work done () = force (N) x distance moved in the direction of
+the force (m)
+AW = FAS
+Energy is the property of an object that gives it the capacity to do
+work. A change in the amount of energy of an object could be
+equated to work being done, even if this is not mechanical - a
+change in the heat energy of a sample of gas, for example.
+Power is defined as the rate of energy transfer.
+efficiency = 3000
+efficiency = 0.49 = 49%
+P-E-AW
+Questions
+Patt
+Efficiency is the ability of a machine to convert energy usefully:
+useful energy output
+efficiency =
+total energy input
+useful power output
+efficiency = total power input
+1 In these two situations, who does more work, and by how much?
+(a) A lioness carries a 2.8 kg cub 4.60 m up a tree.
+(b) An eagle lifts a 1.4 kg rabbit 8.25 m up to her nest.
+47
+TOPIC 2
+Mechanics
+CHAPTER
+2.2
+Energy
+Introduction
+The last chapter finished with a discussion of the motion of a projectile boulder's flight. An
+alternative way of considering changes in movements of objects affected by gravity is to follow
+what happens to their energy. An object held up has an amount of gravitational potential energy as
+a consequence of its position. This energy can be converted into kinetic, or movement, energy if the object
+falls. Humans have evolved over millions of years to avoid situations in which they might fall a great height,
+as such falls are generally dangerous - the kinetic energy that humans have gained from falling could be
+transferred into other forms of energy in their bodies, via large forces, causing injuries.
+The effect of gravity on the movement of an object leads into consideration of the energy a body may
+possess or transfer. There are equations for calculating kinetic energy and gravitational potential energy,
+and the transfer of energy when a force is used to cause the transfer. These formulae and Newton's laws
+can be used together to work out everything we might wish to know about the movement of any everyday
+object in any everyday situation.
+Whilst it is difficult for scientists to describe or identify the exact nature of energy, the equations that
+describe energy relationships have also consistently held up to experimental scrutiny.
+All the maths you need
+• Units of measurement (e.g. the joule,))
+• Changing the subject of an equation (eg. finding the velocity of a falling object)
+Substituting numerical values into algebraic equations (e.g. calculating the power used)
+Plotting two variables from experimental or other data, understanding that y = mx + c represents a linear
+relationship and determining the slope of a linear graph (e.g. finding the acceleration due to gravity
+experimentally)
+Using angles in regular 2D and 3D structures (e.g. finding the angle with which to calculate work done)
+• Using sin, cos and tan in physical problems (e.g. calculating the work done by a force acting at an angle)
+2.2
+1.
+Gravitational potential and kinetic
+energies
+By the end of this section, you should be able to...
+calculate transfers of gravitational potential energy near the Earth's surface
+calculate the kinetic energy of a body
+• calculate exchanges between gravitational potential and kinetic energies, based on energy
+conservation
+Gravitational potential energy (E) is the energy an object has by virtue of its position in a
+gravitational field. Kinetic energy (Ex) is the energy an object has by virtue of its movement. As
+objects rise or fall, gravitational potential energy can be converted to kinetic energy and kinetic
+energy can be converted to gravitational potential energy.
+fig A The gravitational potential
+energy transferred into kinetic
+energy for a falling coconut
+can be a significant hazard in
+tropical countries.
+Gravitational potential energy
+Gravitational potential energy (gpe) can be calculated using the equation:
+gpe (J) = mass (kg) ~ gravitational field strength (N kg") x height (m)
+Ep = mgh
+Usually, the gpe is considered as a change caused by a change in height, for example, the change in
+gpe when you lift an object onto a shelf. This alters the equation slightly to consider transfers to or
+from gpe:
+AE, = mgah
+A brick of mass 2.2 kg is lifted vertically through a height of 1.24 m. The gpe gained is calculated
+as follows:
+AE = mgah
+AE, = 2.2 x 9.81 x 1.24
+AE = 26.8)
+Writing the formula this way suggests that the gravitational field strength is a fixed value. The
+gravitational field strength is a measure of the pull of gravity by a planet at a distance from its centre.
+This is not actually constant, as the strength of the gravitational field experienced by a mass is
+inversely proportional to the square of the distance from the planet's centre. However, close to the
+Earth's surface, over small scales, such as the heights that humans deal with in everyday life, it is an
+acceptably close approximation to say g is fixed at 9.81 N kg.
+Did you know?
+The strength of the Earth's
+gravitational field at the top of
+the Eiffel Tower is less than a
+hundredth of a per cent
+smaller than at the foot of the
+Eiffel Tower.
+Kinetic energy
+Kinetic energy can be calculated using the equation:
+kinetic energy () = } mass (kg) * (speed) (mºs)
+Ex = xm x 12
+For example, a large jumbo jet plane might have a cruising speed of 900 kmh- and a flight mass of
+400 tonnes. What would its kinetic energy be?
+First convert into SI units:
+9 x 105
+V = 900 km h-1 = 900 000 mh- ==
+m = 400 x 1000 = 4 x 105 kg
+Ex = 3 x mx v2
+Ex= x 4 x 105 x 2502
+Ex = 1.25 x 1010) = 12.5 G)
+60 x 60 = 250 m s-1
+fig B Ajumbo jet plane has a lot of
+kinetic energy
+42
+What have I studied before?
+Calculating gravitational potential and kinetic
+energies
+Energy transfers and the effects of friction
+Calculations of work and power
+Speed, distance, displacement, time, velocity
+acceleration
+Resolving vectors
+• Newton's laws of motion
+• Kinematics equations
+What will I study later?
+Momentum and the principle of conservation of
+momentum
+Elastic and inelastic collisions
+Elastic potential energy
+Fluid movements and terminal velocity
+Potential difference modelled on gravitational
+potential energy
+Energy conservation in electrical circuits
+Power in electric circuits
+What will I study in this chapter?
+Calculations of gravitational potential energy and
+kinetic energy
+Calculating exchanges between gravitational
+potential and kinetic energies, based on energy
+conservation
+Understanding energy transferred as work done,
+and making calculations of the work and power
+How to calculate work done when the force is not
+along the line of motion
+What is meant be efficiency, and how to
+calculate it
+Exam-style questions
+2.2
+8 The photograph shows a lawnmower being used to cut grass.
+6 One account of the origin of the term horsepower is as follows.
+In the eighteenth century, James Watt manufactured steam
+engines. He needed a way to demonstrate the benefits of
+these compared to the horses they replaced. He did some
+calculations based on horses walking in circles to turn a mill
+wheel.
+Watt observed that a horse could turn the wheel 144 times in
+one hour. The horse travelled in a circle of radius 3.7 m and
+exerted a force of 800 N.
+(a) Show that the work done by the horse in turning the wheel
+through one revolution was about 20 000 J.
+[3]
+(b) Calculate the average power of the horse in SI units. [3]
+[Total: 6]
+[2]
+7 In a demonstration of energy transfer, a large pendulum is
+made by suspending a 7.0 kg bowling ball on a long piece of
+wire.
+A student is invited to pull back the ball until it just touches
+her nose and then to release it and stand perfectly still while
+waiting for the ball to return.
+(a) (1) In order to push the lawnmower, a minimum force of
+650 N must be applied to the handle of the lawnmower
+at an angle of 42° to the horizontal.
+Show that the horizontal component of the force is
+about 500N.
+(ii) The lawnmower is used to cut 15 strips of grass, each
+7 m long
+Calculate the work done by the person pushing the
+lawnmower.
+[2]
+(b) This photograph shows a lawnmower with the top section
+of the handle horizontal.
+The following instructions are given:
+Explain how this changes the minimum force required to
+push the lawnmower.
+[Total: 6]
+Do not push the ball - just release it.
+Do not move your face before the ball returns.
+Explain this demonstration and the need for these instructions.
+[6]
+[Total: 6]
+9 Metrology is the science of measurement and World Metrology
+Day is May 20th. In 2010, the day was used to celebrate the
+50th anniversary of the SI system.
+A metrologist from the National Physical Laboratory said on a
+radio programme that the SI system uses units that everyone
+can understand. He stated the following example.
+'If you hold an apple in your hand it's about a newton, if you
+raise it through one metre that's about a joule and if you do it in
+one second that's about a watt."
+Assuming that the apple has a mass of 100 g, explain and
+justify the statements made about the three words in italics. [6]
+[Total: 6]
+51
+22
+Work and power
+By the end of this section, you should be able to...
+calculate energy transferred as work done, including when the force is not along the line of motion
+• calculate the power of an energy transfer
+explain efficiency and make calculations of it
+We often make assumptions that allow simplification of calculations in physics. In general these
+assumptions make little difference as they are chosen to ignore effects which have a very small
+impact on the actual real world answers. An example of this is with the conversion of gravitational
+potential energy into kinetic energy, where the effects of air resistance are ignored.
+It is important to remember that the principle of conservation of energy insists that no energy
+can be lost in any scenario. Even if we were to consider the loss of kinetic energy to heating of the
+air through air resistance, the total amount of energy would be constant; it would simply have spread
+into more different forms.
+Work
+In physics, the phrase "doing work has a specific meaning to do with energy use. The amount of
+work done means the amount of energy transferred, so work is measured in joules.
+In general terms, we can express any energy transfer as work done. For example, a 15 W light bulb
+working for 10 seconds transfers 150 J of electrical energy as heat and light - it does 150 J of work.
+In any situation where we know how to calculate the energy before and after, we can calculate the
+energy transferred and thus the work done.
+Forcing work
+If energy is transferred mechanically by means of a force, then the amount of work done can be
+calculated simply:
+work done (J) = force (N) x distance moved in the direction of the force (m)
+AW = FAS
+co
+fig A Doing work by transferring
+gravitational potential energy
+to a heavy object.
+1.24m
+21.11
+fig B Work' on a building site.
+In the example of fig B, a brick of mass 2.2 kg is lifted vertically against its weight through a height
+of 1.24 m. The work done is:
+AW = FAS
+AW = mg x As
+W = 2.2 x 9.81 x 1.24
+W = 26.8)
+Note that this is the same amount of energy as we calculated for the gravitational potential energy of
+this same brick undergoing the same lift in Section 2.2.1.
+2.2
+Learning tip
+Beware of confusing AW for
+work with W for weight.
+Learning tip
+An object that gains gravitational potential energy is having work done on it against its weight force.
+weight = mass x gravitational field strength
+W = mg
+work = force x distance = weight x height = mgah
+friction
+weight
+Work done by forces at an angle
+In the bricklaying example on the previous page, the direction of movement was exactly in line with
+the force lifting the brick. This is an unusual situation, and usually the force doing work will be at an
+angle to the direction of movement. In fig C, gravity pulls the child down the slide but it must work
+against friction. The weight acts vertically downwards, but the friction acts up the slide. Friction
+always acts in the exact opposite direction to movement.
+Assuming that the child slides at constant velocity, Newton's first law of motion tells us that this
+means the friction is exactly balanced by the component of gravity pulling the child down the slope.
+So to find the component of the weight force that is acting down the slope, we will need to resolve it
+in the directions of down the slope and perpendicular to it.
+The weight component working down the slope equals the friction, F
+F = mgcoso
+The work done is force multiplied by the distance travelled along the line of the force, so here:
+work = As x mgcos
+This example shows us the general formula for calculating the work done when there is
+an angle between the force and the distance along which we are measuring:
+AW = FAscos
+fig C Gravity working against friction.
+WOOD
+Power
+weight
+fig D The weight force is the resultant
+of its components along the
+slide and perpendicular to it.
+Power is defined as the rate of energy transfer. This may be done with reference to work done.
+energy transferred (1)
+power (W) = ;
+time for the energy transfer (s)
+work done (1)
+power (W) =
+time for the work to be done (s)
+Remember:
+work (J) force (N) distance moved in the direction of the force (m)
+AW = FAS
+P-AW
+So:
+force (N) < distance moved (m)
+power (W) =
+time for the force to move (s)
+P-FAs
+For example, the power of a forklift truck lifting a 120 kg crate vertically up 5.00 m in 4.0 seconds
+would be calculated as:
+P-FAs mgås
+tt
+p. 120 x 9.81 x 5
+4.0
+P = 1470 W = 1.47 kW
+Learning tip
+1 kilowatt (kW) = 1000 watts (W) = 1 * 103W
+1 megawatt (MW) = 1000 kW = 1 x 106W
+1 gigawatt (GW) = 1000 MW = 1 * 106kW = 1 x 109W
+1 terawatt (TW) = 1000 GW = 1 x 106 MW = 1 x 10'kW = 1 x 1012 W
+46
+2.2
+Investigation
+WP
+Finding g from energy conservation
+There are a number of different experimental methods for finding the gravitational field strength.
+One example of these relies on the conversion of gravitational potential energy into kinetic energy.
+In this experiment, we measure the velocity that has been reached by a falling object after it has fallen
+under gravity from a certain height, and then alter the height and measure the velocity again.
+If we vary the height from which the object falls, the gravitational potential energy is different at each
+height. This gpe will all be converted into kinetic energy.
+mgah = {mv2
+As we saw previously, this equation can be simplified to give:
+v2 = 2g4h
+Compare this equation with the equation for a straight-line graph: y = mx + c
+If we plot a graph of Ah on the x-axis and v2 on the y-axis, we will get a straight best-fit line. The gradient
+of the line on this graph will be twice the gravitational field strength, 2g, from which we can find g.
+We could find a value for g by taking a single measurement from this experiment and using the equation
+to calculate it:
+v2
+9-20h
+However, as mentioned in Section 2.1.5, a single measurement in any experiment is prone to
+uncertainty from both random and systematic errors. The reliability of the conclusions is
+significantly improved with multiple readings and graphical analysis.
+fig E The freefall velocity of an object
+from different heights allows
+us to find the gravitational field
+strength, g.
+Questions
+| Estimate the speed at which the coconut in fig A would hit the sand.
+2 How fast would a fountain need to squirt its water upwards to reach a height of 15 m?
+3 How fast would a snowboarder be moving if she slid down a slope dropping at a vertical height of 45 m?
+4 How high will a 48 kg trampolinist rise if he leaves the trampoline at a speed of 6.1 m s-l?
+5 What assumption must you make in order to answer all of the above questions?
+Key definitions
+Gravitational potential energy (E) is the energy an object has by virtue of its position in a
+gravitational field.
+gpe (1) = mass (kg) * gravitational field strength (N kg ') * height (m)
+Ep = mgh OR AE = mgah
+Kinetic energy (Ex) is the energy an object has by virtue of its movement.
+kinetic energy () = } x mass (kg) * (speed) (m? s?)
+Ex = } xm x 2
+44
+2.2
+Exam-style questions
+1 The definition of the watt comes from which equation?
+(a) P = E/t
+(b) P = Ext
+(c) AW = Fas
+(d) AW = FAscoso
+[1]
+[Total: 1]
+2 A 305 g ball is thrown vertically upwards to reach a height
+of 5.55 m. How much potential energy has it gained at that
+height?
+(a) 16.6J
+(b) 16.6 kJ
+(c) 1690
+(d) 16600J
+[Total: 1]
+(b) The area swept out by one blade, as it turns through 360°,
+is 6000 m2. Wind at a speed of 9ms passes the turbine.
+(i) Show that the volume of air passing through this area
+in 5 seconds is about 300 000 m
+(ii) Calculate the mass of this air.
+Density of air = 1.2 kg m-3
+[2]
+(iii) Calculate the kinetic energy of this mass of air. [2]
+(iv) Betz's law states that a turbine cannot usefully transfer
+more than 59% of the kinetic energy of the wind.
+Use this law to find the maximum output of the wind
+turbine.
+[2]
+(c) Suggest a reason why it is not possible to usefully transfer
+100% of the kinetic energy of the wind.
+[1]
+(d) Suggest the limitations of using wind turbines to provide
+power.
+[2]
+[Total: 13]
+[1]
+5 Champagne bottles are often opener by 'firing the cork out
+of the bottle. The world record for the horizontal distance
+travelled by a fired cork is 53 m.
+3 A horse pulls a carriage of weight 5600 N with a force of 80 N
+N
+for a distance of 1.2 km around New York's Central Park.
+How much work is done by the horse?
+(a) 6.7 kJ
+(b) 96 kJ
+(c) 538 kJ
+(d) 6720 kJ
+[Total: 1]
+[1]
+4 The photograph shows a wind turbine. Kinetic energy of the
+wind is transferred to electrical energy as the turbine blades
+rotate.
+AAN
+[2]
+The high pressure inside the bottle produces an average force
+of 150 N on the cork as it leaves the bottle. This force acts on
+the cork over a distance of 2.5 x 10-2 m.
+(a) Show that the work done on the cork is about 4J.
+(b) Calculate the maximum speed at which the cork could
+leave the bottle.
+mass of cork = 7.5 x 10-3kg
+(c) The cork is fired from ground level at an angle of 40° to the
+horizontal with a speed of 32 ms-1.
+(i) Show that the vertical component of the velocity is
+about 20 ms.
+[1]
+(ii) Calculate the horizontal distance travelled by the cork
+through the air
+[5]
+(d) Suggest an explanation for the difference between your
+calculated value and the world record distance.
+[Total: 12]
+(a) Explain why we can say that the wind is doing work on the
+blades.
+[2]
+50
+Thinking Bigger
+2.2
+Let us start by considering the nature of the writing in the booklet.
+10000000000000
+1. The extract opposite is from a book to teach hockey coaches the theory behind the
+sport, especially for reference in A level PE lessons, which have a significant theory
+element in various areas. Consider the extract and comment on the type of writing that
+is used. Try and answer the following questions:
+a. How has the author maintained the relevance of the calculations for the reader?
+b. Discuss the level of difficulty of the calculations done, with reference to the target
+audience and the purpose of the text.
+Think about how the
+complexity and level
+of difficulty of these
+calculations compared
+with those that you
+have to do in this
+physics course. Also
+consider that the
+numbers used in the
+examples are for elite
+players - what level
+of player are these
+coaches likely to be
+dealing with?
+Now we will look at the physics in detail. Some of these questions will link to topics earlier in
+this book, so you may need to combine concepts from different areas of physics to work out the
+answers. Use the timeline at the bottom of the page to help you put this work in context with what
+you have already learned in your course.
+656730001000009
+2. Identify, and comment on the validity of the assumptions that have been made in these
+calculations.
+3. A penalty stroke is flicked from a distance of 6.40 m from the goal line. The striker scoops
+it so that the ball leaves the ground at a 45° angle and a speed of 8 msl. How long does
+the goalkeeper have to make a save before the ball crosses the goal line?
+4. The study of mechanics in sport is a popular and often profitable new area of scientific
+study.
+a. Describe how a sports scientist could use ICT to collect data to study the movement
+of players and equipment over time.
+b. Explain why technological developments have made the data collected more valid
+and reliable than with traditional methods of studying mechanics.
+Command word
+If you are asked to
+describe something, you
+need to give a clear and
+concise account of it.
+Pull out all the important
+pieces of information as
+a starting point.
+Activity
+0000000000000
+Indoor hockey rules do not permit hitting the ball, it may only be 'pushed, flicked or scooped'. This
+increases the time that the stick is in contact with the ball (to as much as 0.12 s) but reduces the force
+applied (to at most 55 N). However, the pitch is smaller indoors, and the shooting circle is only 9.0m
+from the goal. Write a similar section for a new version of this coaching manual which is aimed at
+indoor hockey coaches.
+The equipment used
+is identical in both
+versions of the sport:
+ball mass and size,
+stick materials and
+sizes, goalkeeping
+equipment etc.
+• From Hockey is Mad Easy, a booklet aimed at new coaches, particularly teachers who may also need
+to teach A level PE
+4.1
+4.2
+5.1
+5.2
+5.3
+5.4.
+49
+Energy
+2.2
+Conversion between E, and Ek
+The principle of conservation of energy tells us that we can never lose any energy or gain energy out
+of nowhere. In any energy transfer, we must have the same total energy before and after the transfer.
+Gravitational potential energy can be converted into kinetic energy if an object falls to a lower height.
+Alternatively, an object thrown upwards will slow down as its kinetic energy is transformed into gpe.
+In either case:
+AE = mgAh = į mv2 = Ek
+Depending on the situation, it can often be useful to divide out the mass that appears on both sides
+of this equation. This allows a convenient calculation of how fast an object will be travelling after
+falling a certain distance from rest:
+v = 2gAh
+or how high an object could rise if projected upwards at a certain speed:
+Ah = ?
+29
+WP
+Learning tip
+The fact that mass divides out to give the relationship v = 2gh confirms Galileo's idea that
+objects will all fall to the ground at the same rate regardless of their mass.
+However, remember that all of the relationships shown in this section assume that no energy is lost
+through friction or air resistance, and that this can be an important factor when some objects fall.
+fig C A penny falls from Nelson's Column.
+For example, how fast would a penny hit the ground if it were dropped from the top of Nelson's
+Column, which is 52 m tall?
+v = 25Ah
+V = 2(9.81 52) = 1020
+V = 31.9 ms1
+Another example: how high would water from a fountain rise if it were ejected vertically upwards
+from a spout at 13.5 ms-!?
+Ah = 28
+Ab - 13.52
+2(9.81)
+Ah = 9.29 m
+182.25
+19.62
+fig D Fountain designers need to
+be able to calculate gpe and
+kinetic energy
+43

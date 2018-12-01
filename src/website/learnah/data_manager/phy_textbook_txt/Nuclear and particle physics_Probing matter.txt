@@ -1,0 +1,664 @@
+Probing matter
+8.1
+WORKED EXAMPLE
+What is the wavelength of an electron in a beam which has been
+accelerated through 2000V?
+Ex = eV = -1.6 x 10-19 x -2000 = 3.2 x 10-16)
+Ex = 3 mv2 = 3.2 x 10-16)
+2E 2x 3.2 x 10-16 -2.65 x 107m5-1
+.. V=1 m 19.11 x 10-31
+6.63 x 10-34
+9.11 x 10-31 x 2.65 x 107
+X = 2.75 x 10-11 m
+Electron diffraction and alpha particle scattering both highlight
+the idea that we can study the structure of matter by probing it
+with beams of high energy particles. The more detail - or smaller
+scale - the structure to be investigated has, the higher energy the
+beam of particles needs to be. This means that very high energies
+are needed to investigate the structure of nucleons, as they are so
+incredibly small. Accelerating larger and larger particles to higher
+and higher energies has been the aim of particle physicists since
+Thomson discovered the electron in 1897.
+Questions
+Investigation
+WP
+Investigating electron diffraction
+You may have the equipment to observe electron diffraction. By
+measuring the radius of the circular pattern for a certain accelerating
+voltage, you can perform a calculation to confirm de Broglie's
+hypothesis.
+| Calculate the de Broglie wavelengths for the following:
+(a) an electron travelling at 2% of the speed of light
+(b) an electron which has been accelerated through 1200V
+(c) a proton with a momentum of 5 x 10-21 kg ms?
+(d) you running at 5 ms!
+2 Why would de Broglie not have been awarded the Nobel
+Prize before the Davisson-Germer experiment?
+WP
+Calculate the speed at which an electron would have to travel if
+it were to be used to probe the structure of the nucleus. (It would
+need a de Broglie wavelength of about the size of the nucleus:
+X = 5 x 10-15 m.) Comment on your answer.
+4
+Carry out some research to find out how the direction of the
+electron beam in a cathode ray oscilloscope (CRO) can be changed
+in order to make any point on the screen light up. Show this in a
+diagram. Explain how such a CRO could be set up in a hospital to
+display the electrical impulses of a patient's heart.
+fig B Measuring electron diffraction occurring through a sliver of carbon.
+The idea of electrons acting as waves has allowed scientists to study
+the structure of crystals, along similar lines to X-ray crystallography.
+When waves pass through a gap which is about the same size as
+their wavelength, they are diffracted - they spread out. The degree
+of diffraction spreading depends on the ratio of the size of the gap
+to the wavelength of the wave. If a beam of electrons is aimed at a
+crystal, the gaps between atoms in the crystal can act as a diffraction
+grating and the electron waves produce a diffraction pattern on a
+screen. Measuring the pattern allows the spacings between the atoms
+to be calculated
+Key definitions
+The photoelectric effect is the phenomenon in which electrons are
+released from a metal surface as a result of its exposure to
+electromagnetic radiation.
+Thermionic emission is the phenomenon in which electrons are
+released from a metal surface as a result of its exposure to thermal
+energy.
+A cathode ray is a beam of electrons.
+THINKING
+BIGGER
+BREMSSTRAHLUNG Cm
+When charged particles accelerate they emit electromagnetic radiation. This is called
+bremsstrahlung, although other terms, like cyclotron radiation, are often used in specific
+circumstances such as acceleration caused by movement in a circle.
+WHY DO ACCELERATED ELECTRONS RADIATE
+ELECTROMAGNETIC RADIATION?
+When an electron is stationary it has an electric field around it. The
+strength of that electric field (called the electrostatic field) is given
+by the equation
+In 1907 J.J. Thomson, who discovered the electron in 1897,
+presented an argument which helps us understand why an
+accelerated electron produces EM radiation.
+Er 4180 m2
+E, =
+(Eq.1)
+w
+w
+w
+where E, is the radial component of the electric field (which, in
+this case, is the only component), e is the charge on the electron,
+is the radial distance from the electron, and s is the permittivity of
+free space (8.854 x 10-12 F/m or Cº/N/m²).
+w
+www w
+SANNA
+-
+fig B The electric field around an electron is considered at two times, 0 (black)
+and t (red), between which it accelerates.
+fig A An electron is surrounded by a radial electric field.
+In fig B, the electron is accelerated to the right along the x-axis.
+The black dot represents its position at time t = 0, the red dot its
+position at time t = 1. The black dashed circle is large enough so
+that its radius r>ct, where c is the speed of light. Therefore the
+field lines outside of this black dashed circle are unaffected by the
+movement of the electron. The red solid lines represent the new
+field lines due to the electron's new position, with the red solid
+circle being centred on the electron's new position.
+For the field lines to remain continuous, they must be bent at the
+later time, as shown by the kinks in the red lines. This bending of
+the field lines leads to the generation of a pulse of EM radiation.
+If the electron is moving in a wire we have a current. A moving
+electron produces a magnetic field, but this magnetic field is
+constant because the electron's motion has a constant velocity. In
+order for an electron to radiate electromagnetic (EM) radiation,
+it needs to accelerate. Remember, acceleration means its velocity
+needs to change, which can be achieved either by changing the
+electron's speed or its direction. Both types of change will produce
+an acceleration, and hence produce EM radiation.
+•
+Article by Rhodri Evans on his blog *The Curious Astronomer' dated 13 May
+2014, http://thecuriousastronomer.wordpress.com/2014/05/13/why-do-
+accelerated-electrons-radiate-electromagnetic-radiation/
+Where else will I encounter these themes?
+Book
+1 6 .1
+YOU A
+6.2
+7.1
+7.2
+7.3
+8.1
+HER
+88
+8.1
+2
+Electrons from atoms
+By the end of this section, you should be able to...
+explain that electrons are released in thermionic emission
+describe how electrons can be accelerated by electric and
+magnetic fields
+explain why high energies are required to investigate the
+structure of nucleons
+These are the principles by which cathode ray oscilloscopes
+(CROs) and old-style televisions operate. The electron beam in
+a CRO is moved left and right, and up and down, by passing the
+beam through horizontal and vertical electric fields. These are
+generated by electric plates so the strength and direction can be
+altered. Thus the point on the screen which is emitting light can be
+changed quickly and easily.
+Electron beams
+Free conduction electrons in metals need a certain amount
+of energy if they are to escape from the surface of the metal
+structure. This energy can be supplied by a beam of photons, as
+seen in the photoelectric effect. The electrons can also gain
+enough energy simply through heating of the metal. The release
+of electrons from the surface of a metal as it is heated is known as
+thermionic emission.
+An electron probe
+Electron beams fired at a crystal will produce scattering patterns
+that can tell us about the structure of the crystal (fig A). Unlike
+the patterns found by Geiger and Marsden in Rutherford's alpha
+particle scattering experiments, it was shown in 1927 by Davisson
+and Germer that an electron beam can produce a diffraction
+pattern. This provided the experimental evidence to prove a
+novel theory that had been suggested just three years earlier by
+the French physicist, Louis de Broglie. He was bemused that light
+could be shown to behave as a wave in some situations and as a
+particle in other circumstances. He hypothesised that this might
+also be the case for things which were traditionally considered to
+be particles. By taking an analogous mathematical route to that
+of finding the momenturn of a photon, de Broglie had proposed
+that the wavelength, 1, of a particle could be calculated from its
+momentumn (p) using the expression:
+Learning tip
+Students often confuse thermionic emission and the photoelectric
+effect. Whilst the two phenomena have similarities, they are distinct
+and you must use the correct term with the correct scenario.
+where h is the Planck constant. So:
+1 = MV
+If, on escaping, these electrons find themselves in an electric
+field, they will be accelerated by the field, moving in the positive
+direction. The kinetic energy they gain will depend on the p.d., V,
+that they move through, according to the equation:
+E = eV
+where e is the charge on an electron.
+WORKED EXAMPLE
+How fast would an electron be moving if it was accelerated from
+rest through a p.d. of 2500 V?
+Ex = eV = -1.6 x 10-19 x -2500 = 4 x 10-16)
+Ex = 1 mv2
+2E 2x 4 x 10-16
+v=1m 19.11 * 10-31
+V= 2.96 x 107ms-1
+The Davisson-Germer experiment proved that the diffraction
+pattern obtained when a cathode ray hit a crystal could only
+be produced if the electrons in the beam had a wavelength that
+coincided with the de Broglie wavelength. As a consequence of
+this experimental confirmation, Louis de Broglie was awarded the
+1929 Nobel Prize for Physics.
+O
+.O.
+O
+Using thermionic emission to produce electrons, and applying
+an electric field to accelerate them, we can generate a beam of
+fast-moving electrons, traditionally known as a cathode ray.
+This beam of electrons will be deflected by the force produced
+on it if it passes through a further electric field or a magnetic
+field. If a fast-moving electron hits a screen painted with a certain
+chemical, the screen will fluoresce - it will emit light.
+fig A Electron diffraction patterns can explore the molecular structure
+of crystals.
+86
+Exam-style questions
+8.1
+(11
+7 In an experiment to investigate the structure of the atom,
+a-particles are fired at a thin metal foil, which causes the
+o-particles to scatter.
+(a) (i) State the direction in which the number of q-particles
+detected will be a maximum.
+(ii) State what this suggests about the structure of the
+atoms in the metal foil.
+[1]
+(b) Some o-particles are scattered through 180°
+State what this suggests about the structure of the atoms in
+the metal foil.
+(c) The diagram shows the path of an o-particle passing near
+to a single nucleus in the metal foil.
+[2]
+nucleus
+path of
+Ci-particle
+(i) Name the force that causes the deflection of the
+a-particle.
+[1]
+(ii) On a copy of the diagram, draw an arrow to show the
+direction of the force acting on the a-particle at the
+point where the force is a maximum. Label the force F
+(iii) The foil is replaced by a metal of greater proton
+number.
+Draw the path of an a-particle that has the same
+initial starting point and velocity as the one drawn in
+the diagram.
+[2]
+[Total: 9]
+8 With the aid of a diagram, explain the structure of the atom
+that was proposed after the results from Rutherford's alpha
+particle scattering experiment were published, and the
+evidence for this model of the atom.
+[Total: 6]
+(67
+91
+Probing matter
+8.1
+As radiurn must have 88 protons by definition, it is quite common not to write the 88. You might
+call this isotope 'radium-226' and this will be enough information to know its proton number and
+neutron number.
+A quantum mechanical atom
+In the 1920s, Werner Heisenberg altered the model of the atom, which had electrons in orbits like
+planets in a Solar System. His uncertainty principle holds that we cannot know the exact position and
+velocity of anything at a given moment. Instead of specific orbits, his new version of the atom has
+regions around the nucleus in which there is a high probability of finding an electron, and the shapes
+of these 'probability clouds' represent what we currently refer to as the electron 'orbitals'.
+is orbital
+>2s orbital
+nucleus
+2p orbitals
+fig E A quantum mechanical model of an atom's structure.
+Questions
+| Use a periodic table to pick five elements at random. List them using standard symbols and then explain
+how many protons and neutrons each one has.
+2 Suggest why it has taken so long for scientists to develop the current model of the atom.
+3 Give two strengths and two weaknesses of the analogy that an atom is like a mini Solar System.
+4
+Chadwick suggested that alpha particles colliding with beryllium produced neutrons according to the
+equation:
+ja +Be = "C + on
+What numbers are represented by A and B?
+Key definitions
+Plum pudding model is a pre-1911 model of the atom, in which the main body of the atom is composed
+of a nebulous positively charged material (the pudding 'dough') with electrons (the 'plums) randomly
+scattered through it.
+Nucleons are any of the protons and neutrons comprising a nucleus.
+Isotopes are atoms of the same element with differing numbers of neutrons in the nuclei.
+The proton number is the number of protons in the nucleus of an atom.
+The atomic number is an alternative name for "proton number'.
+The strong nuclear force is the extremely short-range force between hadrons (such as protons and neutrons).
+The nucleon number is the total number of all neutrons and protons in a nucleus.
+The mass number is an alternative name for the 'nucleon number'.
+The neutron number is the total number of neutrons within a given nucleus.
+85
+Thinking Bigger
+8.1
+Let us start by considering the nature of the writing in this internet blog. The text is part of a
+webpage on the personal blog of a Cardiff University astrophysicist.
+vy
+1. Describe how the level of scientific writing changes during the course of the extract.
+2. What is the benefit of including diagrams in an explanation of this sort?
+3. What scientific level of audience do you think the webpage is aimed at?
+If you look at the webpage
+for the complete text,
+there is an even more
+Striking change in the
+scientific level as you read
+further through the article.
+Now we will look at the physics in detail. Some of these questions will link to topics elsewhere in this
+book, so you may need to combine concepts from different areas of physics to work out the answers.
+4. What aspect of fig A illustrates the r term at the bottom of the first equation?
+5. a. A direct current in a wire is not accelerating and so will not cause EM radiation
+emission. Explain how current moves in an alternating current, and explain what
+implications this must have for bremsstrahlung.
+b. Suggest how a mobile phone could generate its radio transmissions.
+c. Why would transformers generate electromagnetic interference, such as static on
+radio stations?
+6. a. Explain how an electron moving at a constant speed in a circle could be said to be
+accelerating
+b. How could the idea of bremsstrahlung raise problems with the theoretical structure
+of an atom as electrons orbiting a nucleus, like planets in the Solar System?
+7. The word 'bremsstrahlung' comes from two German words, meaning 'to brake' and
+'radiation'. Explain why this term is appropriate.
+wwwy
+The process of generating
+radio transmissions is the
+Same in all cases; mobile
+phones are just one
+example.
+Activity
+In the next chapter of this book, the functioning of particle accelerators, both straight and circular, is explained,
+but bremsstrahlung is not mentioned. Write an additional piece of text that could be included in Section
+8.2.1, which explains what causes this radiation, and its implications for the energy input requirements of
+particle accelerators. Include how you think linear and circular accelerators may differ in this problem of
+wasted energy
+000000000
+You could include
+references to efficiency
+in your description but
+do not write detailed
+comparisons or
+calculations.
+TRE 8.2
+8.3
+9.1
+10.1) 11.1
+12.
+1
+13.1
+Probing matter
+8.1
+source
+gold foil
+microscope
+Learning tip
+When Rutherford published
+the results of the alpha particle
+scattering experiment in 1911,
+he could not tell for certain
+whether the charge on the
+nucleus was positive or
+negative. Within two years, the
+English physicist Henry
+Moseley had published a law
+about X-ray spectra that
+implied the nucleus must be
+overall positive. Rutherford
+confirmed this in a letter to the
+scientific journal Nature in
+December 1913. Rutherford
+also did not use the word
+'nucleus' in the 1911 paper but
+had taken it on board by 1913.
+zinc sulphide
+screen
+vacuum
+fig B Rutherford's alpha particle scattering apparatus.
+small deflection
+alpha particle
+gold nucleus
+alpha particle
+deflected
+more than 90°
+more deflection
+fig C Alpha particle paths in scattering from gold atoms. Approximately 1 in 8000 was deflected through more than 90°.
+Momentum conservation dictates that this is only possible if scattering is from something more massive than the
+alpha particle itself.
+Evidence
+Conclusion
+Angle of
+deflection/
+degrees
+0-10
+Most of the atom is empty space.
+10-90
+Most alpha particles pass straight
+through with little deviation.
+Some alpha particles deflected through
+a large angle.
+A few alpha particles are repelled back
+towards the source side of the foil.
+90-180
+A large concentration of charge in one
+place.
+Most of the mass of the atom and a large
+concentration of charge is in a tiny, central
+nucleus.
+table A Alpha particle scattering observations and conclusions.
+8.1
+Chadwick's discovery of the neutron
+Rutherford determined that most of the atom's mass and all the positive charge was held in a very
+small nucleus in the centre, and that electrons were at the edge of the atom. The difference between
+the nuclear mass and the known number of protons in it caused a problem though. Nuclei were too
+massive for the number of protons they contained. Rutherford suggested that additional proton-
+electron pairs, bound together, formed the extra mass in the nucleus.
+In 1930, Irene Joliot-Curie and her husband, Frederic, found that alpha particles striking beryllium
+would cause it to give off an unknown radiation. Difficult to detect, this unknown, uncharged
+radiation could knock protons out of paraffin and these were detected by a Geiger-Müller tube.
+The Joliot-Curies tried to explain the unknown radiation as gamma rays, but as these rays have
+no mass, this was a breach of the conservation of momentum. James Chadwick repeated the
+experiments (fig D) using other target materials as well as paraffin. By considering momentum
+transfer and conservation of kinetic energy in the collisions between the particles, Chadwick
+concluded that the beryllium radiation was a neutral particle which had a mass about 1% more than
+that of a proton. In 1932, he published a proposal for the existence of this new particle, which he
+called a neutron, and in 1935 he was awarded the Nobel Prize for this discovery
+to vacuum pump
+paraffin
+detector
+neutrons
+protons
+polonium beryllium
+fig D Chadwick's experiment to determine the existence of the neutron relied on the conservation of momentum to
+work out the mass of this neutral particle.
+Nuclear structure
+As we have seen, the nucleus contains two types of particles: protons and neutrons. Collectively,
+these particles, when in a nucleus, are known as nucleons. The number of protons in a nucleus
+determines which element the atom will be. The periodic table is a list of the elements ordered
+according to the number of protons in each atom's nucleus. This number is called the proton
+number or the atomic number (Z). The number of neutrons can vary, and we call atoms of the
+same element with different numbers of neutrons, isotopes. For small nuclei, up to about atomic
+number 20 (which is calcium), the number of neutrons in the nucleus is generally equal to the number
+of protons.
+Above atomic number 20, to be stable, more neutrons than protons are generally needed in the
+nucleus. The neutrons help to bind the nucleus together as they exert a strong nuclear force on
+other nucleons, and they act as a space buffer between the mutually repelling positive charges of
+the protons. This buffering action means that as we progress through the periodic table to larger and
+larger nuclei, proportionately more and more neutrons are needed. By the time we reach the very
+biggest nuclei, there can be over 50% more neutrons than protons.
+To describe any given nucleus, we must say how many protons and how many neutrons there are.
+Thus the chemical symbol written below refers to the isotope of radium, which has 88 protons and
+138 neutrons:
+226D
+88Ra
+The number 226, called the nucleon number or the mass number (A), refers to the total number
+of nucleons - neutrons and protons - in a nucleus of this isotope. So to find the number of neutrons,
+we must subtract the atomic number from the mass number: 226-88 = 138.
+8.1
+Exam-style questions
+[Note: In questions marked with an asterisk (*), marks will be awarded
+for your ability to structure your answer logically showing how the
+points that you make are related or follow on from each other.
+12mE'
+, where
+1 Electrons are accelerated from rest to a kinetic energy of
+2.50 keV.
+(a) Calculate the potential difference that the electrons were
+accelerated through.
+A 2.50 V
+B 2500 V
+C 1.56 x 1019V
+D 1.56 x 1022 V
+(b) Calculate the energy of these electrons in joules.
+A 4.00 x 10-19 J
+B 4.00 x 10-16 J
+C 1.56 x 1019 J
+D 1.56 X 1022 J
+[1]
+[Total: 2]
+*4 Rutherford designed an experiment to see what happened
+when alpha particles were directed at a piece of gold foil.
+Summarise the observations and state the conclusions that
+Rutherford reached about the structure of gold atoms. [5]
+[Total: 5]
+2
+5 The de Broglie wave equation can be written A =
+m is the mass of a particle and Ek is its kinetic energy.
+(a) Derive this equation. Use the list of equations provided on
+the formulae sheet (Appendix 8 of the specification). [2]
+(b) An electron is accelerated through a potential difference
+of 2500 V.
+Using the equation 1 = 1 , calculate the de Broglie
+wavelength of this electron.
+[3]
+[Total: 5]
+2 Calculate the speed of electrons which have a kinetic energy
+of 3000 eV.
+A 7.39 x 10-14 ms -1
+B 2.30 X 107ms-1
+C 3.25 x 10'ms
+D 1.05 x 1015 ms-1
+[Total: 1]
+6 The electron in a hydrogen atom can be described by a
+stationary wave which is confined within the atom. This means
+that the de Broglie wavelength associated with it must be
+similar to the size of the atom, which is of the order of 10-10 m.
+(a) (i) Calculate the speed of an electron whose de Broglie
+wavelength is 1.00 X 10-10 m.
+(ii) Calculate the kinetic energy of this electron in
+electronvolts.
+(b) When B radiation was first discovered, it was suggested that
+there were electrons in the atomic nucleus, but it was soon
+realised that this was impossible because the energy of
+such an electron would be too great.
+Explain why an electron confined within a nucleus would
+have a much greater energy than the energy calculated
+in (a)(ii)
+[2]
+[Total: 8]
+3 Heating a metal wire can cause electrons to escape from the
+metal. This process is called:
+A electron excitation
+B fluorescence
+C the photoelectric effect
+D thermionic emission.
+[Total: 1]
+90
+TOPIC 8
+Nuclear and particle physics
+CHAPTER
+8.1 Probing matter
+Introduction
+Throughout history, people have been trying to work out what everything is made from. The ancient Greek philosopher
+WP
+Democritus wondered how many times a piece of cheese could be cut smaller and smaller, until we reach the point
+where the cheese remaining is a fundamental unit that will not split. This was the basis of the theory that everything is
+made from indivisible fundamental particles.
+In the late nineteenth century, the atom was considered indivisible, but then the English physicist J.J. Thomson demonstrated
+that electrons could be removed, so the atom must be made of smaller pieces. This led to some of the most important
+experiments of the twentieth century: Rutherford's alpha particle scattering experiments from 1909, which led to the
+development of the idea that an atom has a small central nucleus and outer orbiting electrons.
+In this chapter, both the transmission of free electrons in a beam, and the details of Rutherford's alpha particle scattering
+experiment will be explained. Using particle beams as probes to investigate the detailed substructure of matter is one of the
+most important areas of physics study, and in future chapters we will see how these experiments were the precursors for the
+very latest developments in particle physics experimentation.
+All the maths you need
+• Recognising and use of appropriate units (e.g. the electronvolt)
+• Use of standard form (e.g. calculating electron energies)
+• Use of an appropriate number of significant figures (e.g. calculating electron velocities)
+• Changing the subject of non-linear equations (e.g. calculating electron velocities)
+• Substituting numerical values into equations using appropriate units (e.g. calculating de Broglie wavelengths)
+80
+What have I studied before?
+• Kinetic energy
+Electric current as the movement of electrons
+Voltage as a measure of the energy transferred by
+charges
+Wave-particle duality, including electron
+diffraction
+The electronvolt
+Momentum conservation and elastic collisions
+The effects of electric fields on the movements of
+charged particles
+• Coulomb's law for electrostatic forces
+What will I study later?
+The structure and functioning of particle
+accelerators
+The detection and identification of subatomic
+particles
+• Deeper matter-probing experiments
+The processes in which alpha particles are emitted
+What will I study in this chapter?
+• Alpha particle deflections from nuclei
+Rutherford's conclusion from alpha scattering
+experiments
+The process of thermionic emission
+Electron beam acceleration
+Applications of electron diffraction and the de
+Broglie wavelength
+81
+8.1
+1
+A nuclear atom
+--400 BCE
+Democritus was the
+first to suggest the
+existence of atoms.
+By the end of this section, you should be able to...
+• describe what is meant by nucleon number (mass number) and
+proton number (atomic number)
+explain how large angle alpha particle scattering gives
+evidence for a nuclear atom
+• describe how our understanding of atomic structure has
+changed over time
+1803
+Dalton's model of the atom.
+Dalton determined atoms are
+distinguished by their masses
+and can be combined to produce
+compound molecules.
++
++
+1906
++
++
+Thomson's plum pudding
+model of the atom. Negative
+electrons are scattered through
+a positive "dough'.
+Atomic theories through history
+Mankind has long wondered about what the materials around us are
+fundamentally made out of. There have been many philosophers
+and scientists, from Democritus in the fifth century BCE to Dalton in
+the early nineteenth century, who have suggested the idea of a tiny
+indivisible particle from which everything else is constructed. The
+basic model for one of these 'atoms' - which was published in a paper
+by Dalton in 1803 - is simply a hard solid sphere. When Thomson
+discovered that tiny negatively charged bits (electrons) could be
+removed from an atom, leaving behind a positively charged ion, he
+produced the 'plum pudding model'. This has the main body of
+the atom being composed of a nebulous positively charged material
+(the pudding 'dough") with electrons (the 'plums") randomly scattered
+through it. This model was successful at explaining the evidence
+available at that time. It was superseded in 1911 by Rutherford's
+model of the atom, which has a tiny, charged nucleus carrying
+most of the mass of the atom, surrounded at some distance by the
+electrons, with most of the atom as empty space. Niels Bohr later
+refined the nuclear model to have the electrons located around the
+nucleus in fixed orbits, following the emerging theory of quantised
+energy. Electrons could move from one fixed orbit to another
+depending on the energy they gained or lost, but other than these
+fixed jumps, they were stuck in an orbit. Bohr's model generated the
+commonly used analogy of the atom as being like a miniature Solar
+System. This idea is not a perfect model – it is incorrect in many
+aspects - but most models have strengths and weaknesses. It is often
+necessary to use models in science and we must always be careful to
+work within the limitations of any model we use.
+1911
+Rutherford's nuclear model of the
+atom: a large amount of charge and
+most of the mass is concentrated
+in a tiny central nucleus. Most of
+the atom is empty space, and
+electrons orbit at the edge.
+1913
+Bohr's model of the atom
+limited electrons to certain
+fixed energy orbits, which
+they could jump between.
+Alpha particle scattering
+Between 1909 and 1911, Geiger and Marsden, students of Lord
+Rutherford at Manchester University, undertook an experiment
+in which they aimed alpha particles at an extremely thin gold foil
+(fig B).
+Their expectation was that all the alpha particles would pass
+through, possibly with a little deviation. The results generally
+followed this pattern - the vast majority passed straight through.
+However, a few alpha particles had their trajectories deviated by
+quite large angles. Some were even repelled back the way they
+fig A Models of the atom through history.
+had come. Rutherford commented, 'It was almost as incredible as if
+you had fired a 15 inch (artillery shell at a piece of tissue paper and it
+came back and hit you.' It was a shocking result based on the model
+of the atom at that time. Having repeated the results hundreds of
+times, the only conclusion that Rutherford could come to was that
+to explain the results it was necessary to change the model of the
+atom. He developed a model with a small nucleus in the centre of
+the atom which contained a large amount of charge and most of
+the mass of the atom (see fig C and table A).
+82

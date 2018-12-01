@@ -1,0 +1,842 @@
+What have I studied before?
+Using the terms frequency wavelength, amplitude
+and speed to describe waves
+Detailed knowledge of the parts of the
+electromagnetic spectrum - their uses, hazards
+and properties
+Knowledge of sound waves and earthquake waves
+Models of waves and wave processes
+Calculations of wave speed
+Examples of transverse and longitudinal waves
+Uses of ultrasound, and some ideas describing the
+movement of earthquake waves
+What will I study later?
+• How waves can combine when they meet
+• The development of standing waves, and what
+affects their properties
+Applications of standing wave patterns, such as
+the interference or diffraction of light, and the
+development of musical instruments
+Effects on the properties and movement of a
+wave due to changes in its medium
+The wave-particle duality of light and electrons
+The implications of the Doppler effect in
+astronomy (A level)
+Connections between simple harmonic motion
+and wave motion (A level)
+What will I study in this chapter?
+Definitions of the properties of waves, such as
+frequency wavelength, amplitude and speed
+The definition of wave phase, and its relationship
+to frequency and time period
+. The difference between transverse and
+longitudinal waves
+The transmission of waves, and graphical
+representations of them
+The wave equation
+The use of wave calculations, in pulse-echo
+techniques such as ultrasound scanning, and in
+seismology
+141
+5.
+11
+Wave basics
+By the end of this section, you should be able to...
+understand the terms amplitude, frequency period and wavelength
+define wave speeds, measure the speed of sound in air, and use the wave equation v = fx
+explain how pulse-echo techniques allow the measurement of distances
+Energy transfer
+A wave is a means for transferring energy via oscillations. Whilst energy moves from one place to
+another, the waves cause no net movement of any matter.
+A mechanical wave is one in which there needs to be some sort of material medium-a substance that
+oscillates to allow the transfer of the energy. For example, a sound wave of a human voice transfers
+energy from one person's vocal cords to another's eardrum by the repeated vibrations of air molecules.
+Electromagnetic waves can transfer energy through repeated oscillations of electric and magnetic
+fields, but these fields do not need matter to support them. Indeed, the interaction between
+electromagnetic waves and matter generally slows their transfer of energy. For example, light travels
+more slowly in water than it does in a vacuum.
+Graphing waves
+displacement (m)
+wavelength (m)
+crest
+-
+-
+-
+-
+-
+distance
+travelled (m)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+trough
+displacement (m)
+amplitude (m)
+distance
+travelled (m)
+0
+----
+-----
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- - -
+-
+- -
+- -
+-
+-
+- -
+- -
+- -
+-
+- -
+-
+- -
+- -
+fig A The vibration of a wave over a certain distance, as if frozen at an instant in time.
+Wave motions can be plotted on graphs. A plot of the displacement against distance travelled for a
+wave, as in fig A, shows the physical scale of the oscillations and the movement of the energy.
+Alternatively, a plot of the displacement versus time, as in fig B, shows how the vibrations occur over time.
+crest
+displacement (m) .
+period (s)
+AAA
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+time (s)
+trough
+fig B The oscillation of a single particle or point in a wave plotted against time.
+142
+TOPIC 5
+Waves and the particle nature of light
+CHAPTER
+5.1 Basic waves
+Introduction
+As waves are a means to transfer energy, they have a fundamental importance to an enormous range of
+phenomena. From the destruction caused by earthquakes to the determination of the chemical
+composition of distant stars, to whether or not it's worth taking your surfboard to the beach this weekend,
+we study waves in virtually every sphere of human experience.
+Topic 5 covers many aspects of the science behind waves, and in this chapter we will begin this study with
+some basic definitions and the wave equation. As waves and wave mathematics are relevant to many areas
+of future study, it is important to understand these basic definitions well.
+Even when scientists look to new areas of study, they often find that wave motions are the basis of
+WP
+what they are trying to understand. The fundamental causes of gravity have never been well
+understood, and the experimental search for gravitational waves in order to expand that
+understanding is currently being undertaken by a number of universities around the world.
+All the maths you need
+• Units of measurement (e.g. the hertz, Hz)
+Use of standard form and ordinary form (e.g. using the speed of light)
+Changing the subject of an equation (e.g. using the wave equation)
+Solving algebraic equations (e.g. comparing the two equations for wave speed)
+Substituting numerical values into algebraic equations (e.g. a radar calculation to find the distance to an
+aeroplane)
+140
+Thinking Bigger
+5.1
+Let us start by considering the nature of the writing in the webpages.
+555070001000
+1. The extract opposite is from educational webpages produced by the U.S. Geological
+Survey. The USGS is a U.S. government funded organisation researching all geological
+matters. Consider the extract and comment on the type of writing that is used. Try and
+answer the following questions:
+a. Why would the USGS spend time and money producing these and many other
+similar) webpages?
+b. Discuss the audience you believe the USGS is aiming at, considering the scientific
+depth in this extract, along with the style of presentation of the science.
+On this page we only
+have an extract: it would
+be helpful to visit the
+webpages and see all the
+different sections that it
+covers in their entirety.
+Now we will look at the physics in detail. Some of these questions will link to topics earlier in
+this book, so you may need to combine concepts from different areas of physics to work out the
+answers. Use the timeline at the bottom of the page to help you put this work in context with what
+you have already learned in your course.
+2. Explain which wave type (transverse or longitudinal) is shown by each of the earthquake
+waves.
+3. Why can't S-waves travel through air or liquids, including the liquid iron outer core
+inside the Earth?
+4. Why would the waves travel faster, the deeper they are in the Earth?
+a. Explain how the information on the seismogram in fig E could be used to work out
+the distance to the earthquake. Calculate this distance.
+b. Further, explain why this distance alone cannot determine where the earthquake
+occurred.
+6560500501507
+Although you don't know
+when the earthquake
+occurred, think about
+how the difference in
+the times they arrive
+could help find the
+time the earthquake
+occurred, and thus
+answer this question.
+Activity
+0853580880807
+Consider your answers
+to question 4 – these
+should give you an
+idea as to how this is
+Write a similar webpage, including any ideas you have for diagrams, to explain how three seismograms of
+the same earthquake, produced by seismometers in different places on Earth, would enable a
+seismologist to pinpoint the original location of the earthquake.
+done.
+From the website of the U.S. Geological Survey, http://earthquake.usgs.gov
+4.1
+4.2
+5.1
+YOU ARE
+5.2
+5.3
+5.4
+HERE
+149
+Basic waves
+5.1
+WP Wave measurements
+come back to exact synchronisation. At this point, the distance
+between the two microphones is exactly one wavelength, A. We set
+the frequency on the signal generator, and so the wave equation can
+be used to find the speed: v = fx.
+There are a number of important properties of waves that
+scientists measure for various purposes. In most cases, you can
+determine these from the graphs shown in fig A and fig B.
+Displacement: the position of a particular point on a wave, at a
+particular instant in time, measured from the mean (equilibrium)
+position. (Symbol: various, often x; SI units: m.)
+Amplitude: the magnitude of the maximum displacement
+reached by an oscillation in the wave. (Symbol: A; SI units: m.)
+Frequency: the number of complete wave cycles per second.
+This may sometimes be measured as the number of complete
+waves passing a point per second. (Symbol: f; SI units: hertz, Hz.)
+Wavelength: the distance between a point on a wave and the
+same point on the next cycle of the wave. For example, the
+distance between adjacent wave peaks. (Symbol: A: SI units: m.)
+Period: the time taken for one complete oscillation at one point
+on the wave. This will also be the time taken for the wave to travel
+one wavelength. (Symbol: T; SI units: s.)
+Phase: the stage a given point on a wave is through a complete
+cycle. Phase is measured in angle units, as a complete wave cycle
+is considered to be the same as travelling around a complete circle,
+that is 360° or 27 radians. (No standard symbol; SI units: rad.)
+Wave speed: the rate of movement of the wave - the same as
+speed in general. (Symbol: v, or c for speed of electromagnetic
+waves; SI units: ms.)
+You can find the speed of a wave from distance divided by
+time, as with the speed of anything. However, as each wave has
+a certain wavelength, and the frequency tells us how many of
+these wavelengths pass per second, you can also find the speed
+by multiplying frequency and wavelength together. This is often
+referred to as the wave equation:
+wave speed (ms-') = frequency (Hz) x wavelength (m)
+v=fa
+SHINE
+fig C Investigating the speed of sound in air.
+Pulse-echo measurements
+The natural habitat for bats tends to be woodland, and they fly
+through the trees at 10–15 kmh-!, depending on species. For
+catching insects, the bats need to be able to sense their location
+precisely. Whilst their vision is better than the old simile 'blind as a
+bat' implies, their well-known echolocation system, using very high
+frequency (50-100 kHz) sound pulses, gives a much more detailed
+perception of the world at distances of less than 5 metres. At
+greater distances, the echo is attenuated too much for the bat to
+use. But how does it work? The bat will make a 'chirp through
+its nose. This sound pulse will typically last 3 milliseconds. When
+the sound hits nearby objects, it will be reflected back to the
+bat's sensitive ears and its brain can accurately measure the time
+between pulse emission and echo reception. The bat's brain has
+also evolved to instinctively calculate the distance to the reflecting
+object using the equation: distance = speed x time.
+Experiments with dolphins have shown that they use a similar
+echolocation system, but for them it is so sophisticated that
+dolphins can build up a mental image of the shapes of nearby
+objects. They can see' with sound. This is probably also true for
+bats, to ensure that they eat an insect and not an insect-sized
+leaf, but dolphins can respond to experimental inquiry in a more
+conclusive manner than bats.
+Investigation
+Investigating the speed of sound
+Using the simple definition of wave speed that is distance divided by
+time, we can use a twin beam oscilloscope to find the extra time a
+sound takes to travel a short extra distance. One beam trace shows a
+sound picked up by a microphone held 50 cm from the loudspeaker.
+The other trace shows the same sound, picked up by a second
+microphone held further from the loudspeaker. The difference in
+positions of the peaks on the two oscilloscope traces shows the time
+taken, t, for the sound to travel the extra distance, d. If we measure
+this carefully, then the speed will be given by:
+It can be difficult to make accurate measurements from the screen of
+an oscilloscope, so we need to synchronise the traces to minimise
+the effect of random error in taking such a measurement. Firstly, with
+both microphones at the same distance from the loudspeaker, the
+two traces appear in identical phase positions in phase). If we slide
+the second microphone slowly away from the loudspeaker, we will
+move the traces out of phase with each other until eventually they
+fig D Dolphin echolocation is sophisticated enough to make out the shapes of
+objects in murky waters.
+143
+5.1
+2
+Sound travels at 330 ms in air. If the sound of thunder arrives 3.75s
+after the lightning flash is seen, how far away was the lightning strike?
+Ultraviolet light has a wavelength of 368 nm. What is the frequency
+of this light?
+We have developed similar pulse-echo ranging and imaging
+systems in a very wide range of technological applications, from
+sonar on ships and submarines to air traffic control radar, medical
+imaging and the measurement of distance to asteroids and to
+the Moon. This is particularly useful in situations where other
+methods might be difficult or hazardous. For example, Venus has a
+very hot, high pressure, atmosphere with sulfuric acid clouds that
+block our view of the surface. Mapping the surface using a remote
+radar technique has avoided the need to land on the planet.
+WORKED EXAMPLE
+An air traffic control system sends out a pulse of radio waves that
+are reflected by a jumbo jet. The reflection is picked up by the
+radio dish 0.007 seconds after the emission of the pulse. How far
+away is the plane?
+Explain why the two equations for wave speed are actually the same
+calculation.
+5
+Estimate the speed of the waves the last time you saw the sea.
+speed - distance
+Kev definitions
+A wave is a means for transferring energy via oscillations.
+Displacement is the position of a particular point on a wave, at a
+particular instant in time, measured from the mean (equilibrium)
+position
+Amplitude is the magnitude of the maximum displacement reached
+by an oscillation in the wave.
+Frequency is the number of complete wave cycles per second.
+frequency (Hz) =
+time period (s)
+time
+distance = speed x time
+S=vxt v = speed of light = 3.0 x 10Ⓡms-
+S = 3.0 x 108 x 0.007 = 2.1 x 106m
+S = 2100 km
+In that 0.007 seconds, the radio pulse has travelled to the plane
+and back again, so the actual distance to the plane is half that
+calculated:
+distance = 0.5 2100 = 1050 km
+Wavelength is the distance between a point on a wave and the same
+point on the next cycle of the wave.
+Period (also time period) is the time taken for one complete
+oscillation at one point on the wave.
+time period (s) =
+frequency (Hz)
+Questions
+| What are the amplitudes of the three waves shown in fig E?
+displacement (m)
+Phase is the stage a given point on a wave is through a complete
+cycle, measured in angle units, rad.
+Wave speed is the rate of movement of the wave (not the rate of
+movement within oscillations).
+The wave equation:
+wave speed (ms") = frequency (Hz) x wavelength (m)
+v = fx
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+0.2--
+0-----
+-0.2 --------
+-
+-
+-
+-
+-
+-
+-
+-
+displacement (m)
+80-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-80------
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+displacement (m)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+--,
+-
+-
+-
+11 m
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+fig E
+144
+5.1 Exam-style questions
+1 Which of the following gives the correct values of the
+amplitude and wavelength for the wave shown?
+40 cm
+8 cm
+wwwww
+(a) A = 4 cm; A = 20 cm
+(b) A = 4cm; A = 40 cm
+(c) A = 8 cm; A = 20 cm
+(d) A = 8 cm; A = 40 cm
+As the microphone is moved towards the loudspeaker, the
+amplitude of the wave displayed on the oscilloscope varies
+through a series of maxima and minima.
+(a) Explain why the amplitude of the sound varies in this
+way.
+(b) (i) The distance moved by the microphone between two
+adjacent maxima is 0.050 m.
+Calculate the wavelength of the sound wave.
+(ii) The frequency of the sound wave is 3.3 kHz.
+Calculate the speed of sound in air.
+(c) The microphone is placed close to the loudspeaker and
+gradually moved towards the metal plate. The graph
+shows how the amplitude of the wave displayed on the
+oscilloscope varies with the position of the microphone.
+[Total: 1]
+Amplitude |
+2 Which of the following has the lowest frequency?
+(a) 256 Hz
+(b) Ultrasound
+(c) Red light (A = 700 nm)
+(d) Sea waves with a speed of 2.8 ms and a wavelength
+of 4.4m
+[1]
+[Total: 1]
+3 Which of these is a correct equation connecting wave
+properties?
+(a) v=fa
+5 10 15 20 25
+Distance between loudspeaker and microphone/cm
+ē
+o
+(i) Explain why the minima never have a zero value.
+(ii) As the microphone is moved towards the metal plate,
+the amplitudes at the minima gradually decrease.
+Suggest why this happens.
+[4]
+[Total: 12]
+[1]
+[Total: 1]
+4 The diagram shows an experiment with sound waves.
+Oscilloscope
+signal
+generator
+metal plate ♡
+loudspeaker
+microphone
+bench
+A loudspeaker is connected to a signal generator. A
+microphone is connected to an oscilloscope. Sound waves
+reach the microphone directly from the loudspeaker and after
+reflection from the metal plate.
+150
+5.
+12
+rarefractions
+vibrating
+cone
+compressions
+fig D A loudspeaker produces sound waves by moving its cone back and forth to set up vibrations of air molecules in
+line with the direction of movement of the sound wave energy - the oscilloscope shows the vibrations over time.
+undisturbed
+air
+11
+air with
+sound
+wave
+present
+displacement
+Ww
+Solid line = pressure
+Dashed line = displacement
+fig E Sound waves are the result of areas of increased pressure moving through a body of particles by vibrating the
+particles back and forth.
+Earthquake waves, also called seismic waves, come in different types. Fig F shows Primary, or 'P',
+waves and Secondary, or 'S', waves. These are the standard longitudinal and transverse seismic
+waves, with P-waves travelling faster, and arriving first, leading to their name.
+moves up
+and down
+moves
+from side
+to side
+surface
+surface
+P-wave
+pushes and
+pulls as it
+travels
+S-wave
+shakes
+from side
+to side as
+it travels
+epicentre
+epicentre
+fig F Seismic waves can vibrate the rock particles of the Earth's crust in different ways.
+146
+Exam-style questions
+5.1
+5 Frequencies below the audible range for humans are called
+infrasound. Infrasound is produced by earthquakes.
+(a) Describe how sound waves travel through air. [3]
+(b) State what is meant by frequency.
+(c) An infrasound wave has a wavelength of 1500 m and a
+frequency of 2.0 Hz.
+Calculate the speed of infrasound in the ground. [2]
+(d) In 2004, a huge earthquake produced a very large tidal
+wave which swept across the Indian Ocean towards Sri
+Lanka. Many large animals in Sri Lanka moved away from
+the coast before the tidal wave hit.
+Suggest a reason for the animals behaving in this way. [2]
+[Total: 8]
+6 A London radio station broadcasts at a frequency of 95.8 MHz.
+Calculate the wavelength in the air of these radio waves. [3]
+[Total: 3]
+7 (a) Ultrasound scanning can be used by doctors to obtain
+information about the internal structures of the human
+body without the need for surgery. Pulses of ultrasound are
+sent into the body from a transmitter placed on the skin.
+(i) The ultrasound used has a frequency of 4.5 MHz.
+State why waves of this frequency are called
+ultrasound.
+(ii) A pulse of ultrasound enters the body and its
+reflection returns to the transmitter after a total time
+of 1.6 X 10-s.
+Calculate how far the reflecting surface is below the
+[1]
+skin.
+average speed of ultrasound in the body = 1500 ms-1
+[3]
+(iii) State why the ultrasound is transmitted in pulses. [1]
+(b) Another way of obtaining information about the internal
+structures of the human body is by the use of X-rays.
+i) Give one property of X-rays which makes them more
+hazardous to use than ultrasound.
+[1]
+(ii) State two other differences between X-rays and
+ultrasound
+[2]
+[Total: 8]
+151
+5.
+12
+Wave types
+rarefraction
+compression
+By the end of this section, you should be able to...
+explain the difference between longitudinal and transverse
+waves
+Orammersioo
+n
+describe longitudinal waves, particularly in terms of pressure
+variation and the displacement of molecules
+energy travels this way
+fig B A longitudinal wave generated in a slinky spring by repeatedly
+squashing and stretching one end. Areas of higher pressure are called
+compressions, and areas of lower pressure are called rarefactions.
+describe transverse waves
+Transverse waves
+A transverse wave is one where the movements of the particles,
+or fields in an electromagnetic wave, are up and down, or left and
+right, whilst the energy travels forwards. This is illustrated in
+fig A, where the girl is vibrating the rope up and down, but the
+energy travels along the rope towards the boy. As the girl moves
+the rope up and down, the particles pull their neighbours up
+and down. These then pass the vibration on to their neighbours,
+through their intermolecular forces, and the wave moves along
+the rope.
+Graphing waves
+In fig A of Section 5.1.1 we saw how waves can be shown on a
+graph of displacement versus distance. This is relatively easy with
+a transverse wave, as the graph appears like a picture of the wave,
+so it is easy to comprehend. The wavelength can be found by
+measuring along the graph's x-axis from one point on a wave cycle
+to the same point on the next wave cycle. Amplitude is measured
+from the x-axis vertically to a maximum displacement point.
+Longitudinal waves are less easy to visualise from their graph, and
+vice versa. Fig C illustrates how a longitudinal wave can also be
+represented on a graph of displacement versus distance along the
+wave. With the longitudinal wave transposed in this way, so that it
+has the same graphical appearance as a transverse wave, you can
+measure its wavelength and amplitude easily from the graph in
+exactly the same way as for the transverse wave.
+1 cm
+energy travels this way
+wnowledo Cuello woo will be
+-
+-
+#position of
+slinky coils in
+the wave
+-
+-
+-
+-
+displacement/cm
+-
+-
+wavelength
+-
+-
+-
+-
+-
+0.51
+fig A A transverse wave on a skipping rope.
+04
+distance/cm
+-0.
+54
+centre of centre of centre of centre of centre of
+compression rarefaction compression rarefaction compression
+fig C A longitudinal wave can be easier to measure if it is drawn on a
+displacement-distance graph.
+Longitudinal waves
+A longitudinal wave in a fluid, such as air, is generated by
+squashing particles together and then stretching them apart from
+each other, repeatedly - thus vibrating them 'longitudinally'. The
+areas of higher pressure cause the particles to push apart from
+each other, but this makes the particles move and squash their
+neighbours, and this higher pressure - a compression - then
+pushes them away to squash their neighbours. Similarly, the areas
+where there are too few particles (compared with the uniform
+spread of the particles when the wave is not present) cause
+particles to move into the vacant space - the rarefaction - filling
+it up, but causing a vacancy behind these particles, and the wave
+moves along. An example of a longitudinal wave in a solid material
+can be seen by squashing and releasing a slinky spring, as shown
+in fig B.
+Longitudinal waves in action
+Sound waves are caused by oscillations of particles of the medium
+(in fig D the medium is air), causing compressions and rarefactions
+along the line of movement of the wave. Areas of higher pressure
+and lower pressure in the air continue the movement of the
+vibrations. An area of higher pressure, a compression, will occur
+when the particles on either side are displaced towards it, meaning
+particles are displaced in opposite directions towards each other to
+squash together and increase the pressure, as shown in fig E.
+145
+Basic waves
+5.1
+Questions
+| What are the amplitudes and the wavelengths of the slinky waves shown in fig C?
+2
+(a) Explain why a seismic S-wave should be classified as a transverse wave.
+(b) Describe a seismic P-wave in terms of the pressure variations and displacement of the rock particles.
+3 Referring to fig G, explain why sounds with a greater amplitude sound louder.
+air at low
+pressure
+air at normal
+pressure
+air at high
+pressure
+air 'molecules' in a quiet wave
+air 'molecules' in a loud wave
+fig G
+Kev definitions
+A transverse wave is one in which the oscillations occur perpendicular to the direction of
+movement of the wave energy.
+A longitudinal wave is one in which the oscillations occur parallel to the direction of movement of the
+wave energy
+A compression is an area in a longitudinal wave in which the particle oscillations put them closer to each
+other than their equilibrium state.
+A rarefaction is an area in a longitudinal wave in which the particle oscillations put them further apart
+from each other than their equilibrium state.
+147
+BIGGER
+EARTHQUAKE!
+Earthquakes are among the most deadly natural hazards. There are around 100 earthquakes each
+year of a size that could cause serious damage.
+In this activity, we will look at some of the detail about the detection of earthquake waves.
+EARTHQUAKE FAQS
+What is an earthquake and what causes them to happen?
+An earthquake is caused by a sudden
+slip on a fault. The tectonic plates
+are always slowly moving, but
+they get stuck at their edges due to
+friction. When the stress on the edge
+overcomes the friction, there is an
+earthquake that releases energy in
+waves that travel through the Earth's
+crust and cause the shaking that we fig A
+feel.
+What are seismograms? How do you read them?
+Seismograms are the records (paper copy) produced by
+seismographs used to calculate the location and magnitude of an
+earthquake. They show how the ground moves with the passage of
+time. On a seismogram, the HORIZONTAL axis = time (measured
+in seconds) and the VERTICAL axis= ground displacement
+(usually measured in millimeters). When there is NO EQ reading
+there is just a straight line except for small wiggles caused by local
+disturbance or "noise' and the time markers.
+UN
+62
+spring
+recorder
+sensor
+w
+mass
+ground
+What is a P-wave? An S-wave?
+When an earthquake occurs, it releases energy in the form of
+seismic waves that radiate from the earthquake source in all
+directions. The different types of energy waves shake the ground
+in different ways and also travel through the earth at different
+velocities. The fastest wave, and therefore the first to arrive at a
+given location, is called the P-wave. The P-wave, or compressional
+wave, alternately compresses and expands material in the same
+direction it is travelling. The S-wave is slower than the P-wave and
+arrives next, shaking the ground up and down and back and forth
+perpendicular to the direction it is travelling. Surface waves follow
+the P- and S-waves.
+fig D There are many different types seismometers, but they all are based on
+the fundamental principle - that the differential motion between a free
+mass (which tends to remain at rest) and a supporting structure anchored
+in the ground (which moves with the vibrating Earth) can be used to
+record seismic waves.
+Surface waves begin
+S-waves begin
+P-waves begin
+FILTER
+GELTELLERIA,
+Amplitude
+fig B In the Earth's crust P-waves
+travel at around 7 km per
+second.
+fig C S-waves travel at around
+4 km per second
+800 1000 1200 1400 1600 1800 2000 2200
+Time/s
+fig E A seismogram recorded in Göttingen, Germany.
+Where else will I encounter these themes?
+1.1
+2.1
+2.2
+2.3
+3.1
+3.2
+148

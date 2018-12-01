@@ -1,0 +1,1543 @@
+13
+ALKENES
+Other polymers and monomers
+Table 1 Some common addition polymers, their monomers, and their uses
+Monomer
+Uses
+propene
+Polymer
+poly(propene)
+[H CH37
+CH3
+Used to make children's toys, packing
+crates, guttering, uPVC windows, and
+fibre for ropes.
+phenylethene/styrene
+poly(phenylethene) or poly(styrene)
+HH
+Used for packaging material and
+also in food trays and cups due to its
+thermal insulating properties.
+tetrafluoroethene
+poly(tetrafluoroethene) (PTFE, Teflon)
+Used as coating for non-stick pans,
+permeable membrane for clothing and
+shoes, and cable insulation.
+Identifying monomers from polymer chains
+Once you have identified the repeat unit in a polymer, you should be
+able to identify the original monomer from which the polymer was
+made. For example, the structure of poly(methyl methacrylate), a glass
+substitute used as perspex, is shown in Figure 7 with its repeat unit
+shaded. The monomer can be identified by copying the shaded repeat
+unit and changing the single C-C bond in the chain into a double bond.
+O OCH3
+O OCH3
+H Ý H CH H C
+-OCH3
+I-
+CC-CC-CC
+I
+CH2 H
+L
+H
+CH3
+CH2
+OCH3
+polymer
+monomer
+Figure 7 The structure of the polymer poly(methyl methacrylate) with its corresponding monomer
+217
+13.5 Polymerisation in alkenes
+Study tip
+-
+It does not matter how complicated
+the polymer looks. Look at the chain
+and see where it repeats. Then you
+will be able to identify the monomer
+from its polymer.
+Environmental concerns
+Disposing of waste polymers
+Polymers are readily available, cheap to purchase, and more
+convenient for our throwaway society than the alternatives, such as
+glass bottles, metal dustbins, paper bags, and cardboard packaging.
+The lack of reactivity that makes polymers suitable for storing food
+and chemicals safely also presents chemists with a challenge in their
+disposal. Many alkene-based polymers are non-biodegradable. The
+growing amount of polymer waste has serious environmental effects,
+for example, killing marine life.
+Recycling
+Recycling polymers reduces their environmental impact by conserving
+finite fossil fuels as well as decreasing the amount of waste going to
+landfill. Discarded polymers have to be sorted by type. The recycling
+process is undermined if polymers are mixed as this renders the product
+unusable. Once sorted, the polymers are chopped into flakes, washed,
+dried, and melted. The recycled polymer is cut into pellets and used by
+manufacturers to make new products.
+Figure 8 Waste polymers can wrap
+around marine life, suffocating them
+PVC recycling
+The disposal and recycling of PVC is hazardous due to the high chlorine
+content and the range of additives present in the polymer. Dumping PVC
+in landfill is not sustainable and, when burnt, PVC releases hydrogen
+chloride, a corrosive gas, and other pollutants like toxic dioxins.
+Previously, recycling involved grinding PVC and reusing it to
+manufacture new products. New technology uses solvents to dissolve
+the polymer. High-grade PVC is then recovered by precipitation from
+the solvent, and the solvent is used again.
+A Figure 9 Plastic bottles are sorted
+based on their resin identification codes
+Using waste polymers as fuel
+Some polymers are difficult to recycle. As they are derived from
+petroleum or natural gas, they have a high stored energy value. Waste
+polymers can be incinerated to produce heat, generating steam to
+drive a turbine producing electricity. In Sheffield an energy recovery
+facility incinerates non-recyclable material including waste polymers
+and uses the heat to generate electricity for the National Grid and to
+heat buildings across the city centre.
+Feedstock recycling
+Feedstock recycling describes the chemical and thermal processes
+that can reclaim monomers, gases, or oil from waste polymers. The
+products from feedstock recycling resemble those produced from
+crude oil in refineries. These materials can be used as raw materials
+for the production of new polymers. A major advantage
+of feedstock recycling is that it is able to handle unsorted and
+unwashed polymers.
+Figure 10 Incinerator in Sheffield.
+Domestic refuse is burnt and the energy
+used to heat buildings in Sheffield city
+centre
+218
+13
+ALKENES
+H
+CH3
+Hz/Ni
+Bro
+CH3
+HBV
+mixture of isomers
+b Curly arrows are used in reaction
+mechanisms to show the movement of
+electron pairs during chemical reactions.
+Use curly arrows to outline the mechanism
+for the addition reaction of methylpropene
+with chlorine. The structure of
+methylpropene has been drawn for you.
+Include relevant dipoles in your answer.
+CH2
+Identify possible structures for compounds
+A-D. Your answer should include
+displayed formulae for each structure and
+equations for each reaction. (9 marks)
+Two alkenes, Q and R, are E and Z isomers
+respectively. Using hydrogen in the presence
+of a nickel catalyst, Q and R can each be
+converted into the alkane, butane.
+Draw the structure of Q and of R. (3 marks)
+9 Compound C can be polymerised to form
+compound E.
+H3C — CH=CH2
+C
+a State the type of polymerisation. (1 mark)
+b Name compound C.
+(1 mark)
+Draw a section of compound E. Show two
+repeat units.
+(1 mark)
+10 Draw the four isomers of C,H, containing a
+C=C bond and name them. State whether
+the compounds are structural isomers or
+stereoisomers of each other. (6 marks)
+11 Use the Cahn-Ingold-Prelog rules to identify
+each of the following as E or Z isomers. Draw
+the structure of the other stereoisomer for
+each molecule.
+(4 marks)
+a c
+H b CI Br
+CH3
+(3 marks)
+OCR F322 June 2009 Q3
+6
+CEC
+=
+C
+C2H5
+H3C
+CH2CH3
+In this question, you are asked to suggest
+structures for several organic compounds.
+a Compounds F, G and Hare
+unbranched alkenes that are isomers,
+each with a relative molecular mass
+of 70.0. Compounds F and Gare
+E/Z stereoisomers. Compound H is a
+structural isomer of compounds F and G.
+Explain what is meant by the terms
+structural isomer and stereoisomer.
+Explain why some alkenes have EIZ
+isomerism.
+Analyse this information to suggest
+possible structures for compounds
+F, G and H.
+In your answer you should make clear how
+each structure fits with the information given
+above.
+(11 marks)
+OCR F322 June 2009 Q7(a)
+CHOC
+H
+d
+H
+CH2CH2OH
+=
+C
+C=
+C
+C2H5 CH2CH2CH3C
+CH2CH2CI
+12 3-bromo-4-chloropent-2-ene can undergo
+addition polymerisation.
+Write an equation to illustrate this reaction
+showing clearly the repeat unit of the
+polymer.
+(2 marks)
+7
+Reduction of a branched alkene, A, with
+hydrogen formed a compound B. On analysis,
+B had the composition by mass of C, 82.8%;
+H, 17.2% (M = 58). Reaction of A with
+steam in the presence of a catalyst produced a
+mixture of two isomers C and D.
+221
+Chapter 13 Practice questions
+H
+CH3
+H
+CH3
+Practice questions
+1 Alkenes are unsaturated hydrocarbons. The
+structures of but-1-ene and methylpropene
+are shown below.
+H—
+C—
+C—
+H
+I
+Br
+10+
+H
+(3 marks)
+(ii) What is the name of this mechanism?
+(1 mark)
+(iii) Draw the structure of the other
+possible organic product of the
+reaction of propene with IBr. (1 mark)
+OCR F322 June 2013 Q4(a)
+but-1-ene
+methylpropene
+b
+4
+2
+a What is meant by the terms unsaturated
+and hydrocarbon?
+(2 marks)
+Suggest values for the bond angle
+a in but-l-ene and bond angle b in
+methylpropene.
+(2 marks)
+Explain, with the aid of a sketch, how
+p-orbitals are involved in the formation
+of the C=C double bond. (2 marks)
+Alkenes undergo addition reactions to form
+saturated compounds.
+a Define the term electrophile. (1 mark)
+b The reaction between bromine and
+methylpropene is an electrophilic addition.
+Describe, with the aid of curly arrows, the
+mechanism for this reaction. Show the
+intermediate and the product along with any
+relevant dipoles and lone pairs of electrons.
+CH3
+Ethene can be converted into petrochemicals.
+a Describe how ethene can be converted
+into 1,2-dibromoethane, bromoethane
+and ethanol.
+Name and describe the mechanism
+for the conversion of ethene into
+1,2-dibromoethane using the 'curly
+arrow' model. Include any relevant
+dipoles.
+(9 marks)
+b Draw and explain the shape of an ethene
+molecule. State the H-C-H bond angle
+in ethene.
+(3 marks)
+Addition polymers are made by the
+polymerisation of alkenes. E-Pent-2-ene
+can be made into an addition polymer.
+(i) Draw the structure of E-pent-2-ene.
+(1 mark)
+(ii) Draw the structure of poly(pent-2-
+ene). Include two repeat units.
+(1 mark)
+OCR F322 June 2012 Q1(d)(e)
+Hac
+Br
+H
+intermediate
+product
+5
+(4 marks)
+3 Iodine monobromide, IBr, has a permanent
+dipole. Alkenes react with IBr in a similar
+way to the reactions of alkenes with HBr.
+a Propene reacts with IBr to make two
+possible organic products. One of these
+products is 2-bromo-1-iodopropane.
+(i) Using the curly arrow model,
+complete the mechanism to make
+2-bromo-1-iodopropane.
+Alkenes are unsaturated hydrocarbons used
+in the industrial production of many organic
+compounds.
+a Complete the flowchart to show the
+organic product formed in each addition
+reaction of methylpropene.
+(4 marks)
+220
+13.3 Reactions of alkenes
+All C=C bonds react with hydrogen in this way. For example,
+buta-1,3-diene reacts with excess hydrogen in the presence of a nickel
+catalyst to form butane (Figure 3). Notice that both double bonds are
+hydrogenated, requiring two molecules of hydrogen per molecule of
+buta-1,3-diene.
+HHHH
+I
+H
++
+2H2
+-
+H-
+C CH
+buta-1,3-diene
+butane
+A Figure 3 Addition of hydrogen across the double bonds in buta-1,3-diene
+Focus on margarine
+Margarine (Figure 4) was created in the early 1800s as an inexpensive substitute for butter. Early margarines were
+made from animal fat. However, in the 1900s, chemists discovered how to harden liquid oils, and vegetable oil replaced
+animal fat in margarine production.
+Vegetable oil (Figure 5) contains molecules with long unsaturated
+hydrocarbon chains with the C=C bonds in the cis orientation. Hydrogen
+gas is bubbled through the oil in the presence of a catalyst (usually nickel).
+Many of the unsaturated double bonds are hydrogenated to form saturated
+carbon chains. The hydrogenated products have a lower melting point, so
+are more solid. The more complete the hydrogenation process, the firmer
+the finished margarine product.
+A Figure 4 Margarine
+The hydrogenation process does actually also form some trans double
+bonds. As the catalyst works, the T-bond is first broken but it then can
+reform in the trans orientation. As with saturated fats, trans fats have a
+lower melting point than cis fats. There are health concerns arising from
+trans fats and manufacturers are trying to reduce their formation. Labels on
+margarines sometimes state 'low in trans fats'.
+GOO
+ON
+FLORY
+Olive oil is based on a fatty acid called oleic acid which has 18 carbon
+atoms. Its systematic name is E-octadec-9-enoic acid. In the name, the
+carbon atom in the COOH carboxylic acid group is carbon number 1. The
+Z stereoisomer of oleic acid is called elaidic acid and its hydrogenation
+product is called stearic acid.
+A Figure 5 Vegetable oils can be
+converted into solids by hydrogenation
+of their double bonds
+1 Draw skeletal formulae for oleic acid, elaidic acid, and stearic acid.
+2 Suggest why the melting point of oleic acid is much lower than either
+elaidic acid or stearic acid.
+208
+13.3 Reactions of alkenes
+Specification reference: 4.1.3
+The reactivity of alkenes
+Alkenes are much more reactive than alkanes because of the presence
+of the r-bond. You learnt in Topic 13.1 that the C=C double bond is
+made up of a o-bond and a n-bond, and that the t-electron density
+is concentrated above and below the plane of the o-bond (Figure 1).
+Being on the outside of the double bond, the 7-electrons are more
+exposed than the electrons in the o-bond. A 1-bond readily breaks
+and alkenes undergo addition reactions relatively easily.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the reactivity of alkenes
+► the addition reactions of
+alkenes.
+By considering the exposed nature of the -electrons and the bond
+enthalpy data below, it is easy to see why the T-bond breaks and
+the o-bond remains intact when alkenes react.
+CAC
+AN
+o-bond
+T-bond
+AC-C single bond (o-bond) in ethene has a bond enthalpy of
+347 kJ mol-1
+The C=C double bond (o-bond + T-bond) has a bond enthalpy of
+612 kJ mol-1
+The bond enthalpy of the T-bond in an alkene can be calculated
+as 612 - 347 = 265 kJ mol-!.
+The T-bond is weaker than the o-bond and is therefore broken
+more readily.
+A Figure 1 The double bond in an
+alkene is made of a o-bond and a
+T-bond; the T-electrons are on the
+outside of the double bond
+Synoptic link
+Addition reactions of the alkenes
+Alkenes undergo many addition reactions For example, with:
+• hydrogen in the presence of a nickel catalyst
+halogens
+hydrogen halides
+steam in the presence of an acid catalyst.
+You have learnt about addition
+reactions in Topic 11.5, Introduction
+to reaction mechanisms.
+Each of these reactions involves the addition of a small molecule
+across the double bond, causing the n-bond to break and for new
+bonds to form.
+Hydrogenation of alkenes
+When an alkene, such as propene, is mixed with hydrogen and passed
+over a nickel catalyst at 423K, an addition reaction takes place to form
+an alkane (Figure 2). This addition reaction, in which hydrogen is
+added across a double bond, is known as hydrogenation.
+Study tip
+An addition reaction is one in which
+two molecules react together to
+make one product. The product is
+saturated.
+H3CH
+HH
+C=C
++
+H2
+H2C—
+C—C
+H
+H
+HH
+propene
+propane
+Figure 2 Addition of hydrogen across the double bond of an alkene
+207
+13
+ALKENES
+H
++¢-C-o+
+| CH3 ©
+CH3OH
+HO-
+C
+NINEN
+Biodegradable and photodegradable polymers
+Bioplastics produced from plant starch, cellulose, plant oils, and
+proteins offer a renewable and sustainable alternative to oil-based
+products. The use of bioplastics not only protects our environment but
+also conserves valuable oil reserves.
+Biodegradable polymers
+Biodegradable polymers are broken down by microorganisms into water,
+carbon dioxide, and biological compounds. These polymers are usually
+made from starch or cellulose, or contain additives that alter the structure
+of traditional polymers so that microorganisms can break them down.
+Compostable polymers degrade and leave no visible or toxic residues.
+Compostable polymers based on poly(lactic acid) (Figure 11) are
+becoming more common as an alternative to alkene-based polymers.
+Supermarket bags made from plant starch can be used as bin liners
+for food waste so that the waste and bag can be composted together.
+Compostable plates, cups, and food trays made from sugar cane fibre
+are replacing expanded polystyrene. As the technology advances,
+bioplastics are likely to be more extensively used in packaging,
+electronics, and more fuel-efficient and recyclable vehicles.
+lactic acid
+Figure 11 A section of poly(lactic
+acid), showing the repeat unit and its
+monomer (it polymerises by a different
+mechanism from the polyalkene
+addition polymers studied in this topic)
+Photodegradable polymers
+Where the use of plant-based polymers is not possible, photodegradable
+oil-based polymers are being developed. These polymers contain
+bonds that are weakened by absorbing light to start the degradation.
+Alternatively, light-absorbing additives are used.
+Summary questions
+1 Define the terms:
+a monomer (1 mark) b repeat unit
+2 State one atmospheric pollutant caused by the burning of PVC.
+caused hu the burning of PVC
+(1 mark)
+Figure 12 Sugar cane is now used as
+a starting material in the production of
+bioplastics
+(1 mark)
+3 But-2-ene can undergo addition polymerisation. Draw the repeat unit for
+poly(but-2-ene).
+(2 marks)
+4 A section of Orlon, an addition polymer, is shown below.
+H H H H H H H H
+H CN À CN Â CN CN
+a Identify the repeat unit.
+b Draw the skeletal formula of the monomer that forms Orlon. (2 marks)
+5 Scientists have developed a way to form a copolymer of two or more
+alkenes alternating to make an addition polymer. One such polymer is
+made from phenylethene, CH.CH=CH2, and propanenitrile,
+CH,CH=CHCN. Draw a section of this polymer showing two
+repeat units.
+(2 marks)
+219
+13.2 Stereoisomerism
+Study tip
+If a molecule satisfies both of the following conditions it will have
+E/Z isomerism:
+a C=C double bond
+• different groups attached to each carbon atom of the double bond.
+You may be asked whether a
+structure has E/Z isomerism.
+Many students remember the first
+condition, the double bond, but not
+the second, different groups. You
+need both conditions.
+Both but-1-ene and but-2-ene (Figure 4) contain a C=C bond,
+but only but-2-ene can form E/Z isomers. If you examine the two
+structures you can see why.
+H
+H3C
+In but-1-ene, the carbon atom on the left-hand side of the molecule
+is attached to two hydrogen atoms. This means that its structure does
+not satisfy the second condition. In contrast, but-2-ene has a methyl
+group and a hydrogen atom on each of the carbon atoms of the
+double bond, so it has E and Z isomers (Figure 5).
+=
+C
+=
+C
+H CH3
+CH3
+but-l-ene
+but-2-ene
+A Figure 4 But-1-ene does not have E/Z
+isomers but but-2-ene does
+Hzc
+H
+H C
+CH3
+C=
+C
+CH3
+(E)-but-2-ene
+(Z)-but-2-ene
+E isomer
+Z isomer
+Figure 5 The E and Z isomers of but-2-ene, displayed about the double bond, and
+as skeletal formulae
+Later in this topic you will learn how to identify which of the isomers
+is E and which is Z.
+Cis-trans isomerism
+Cis-trans isomerism is the name commonly used to describe a special
+case of E/Z isomerism. Molecules must have a C=C double bond and
+each carbon in the double bond must be attached to two different
+groups, as for all E/Z isomers. However, in cis-trans isomers one of
+the attached groups on each carbon atom of the double bond must be
+hydrogen.
+Hac
+CH3 H3C
+But-2-ene is an example of a molecule with E/Z isomers that can also
+be described with cis-trans nomenclature. The cis-trans isomers of
+but-2-ene are shown in Figure 6.
+CH3 The cis isomer has the hydrogen atoms on each carbon in the double
+cis-but-2-ene t rans-but-2-ene bond on the same side of the molecule, whereas the trans isomer has
+A Figure 6 The cis-trans isomers of
+the hydrogen atoms diagonally opposite each other.
+but-2-ene
+In cis-trans isomerism:
+the cis isomer is the Z isomer
+• the trans isomer is the E isomer.
+204
+13.3 Reactions of alkenes
+Study tip
+Concentrated sulfuric acid can also
+be used as the acid catalyst.
+Hydration reactions of alkenes
+Alcohols are formed when alkenes react with steam, H2O(g), in the
+presence of a phosphoric acid catalyst, H,PO, (Figure 9). Steam adds
+across the double bond. This addition reaction is used widely in
+industry to produce ethanol from ethene. As with the addition with
+hydrogen halides, there are two possible products.
+H
+H
+H
+HC-
+Ć CCH
+H
+H
+☆
+# OH
+propan-1-ol
++
+H2O(g)
+ISO-
+H
+H
+H
+H-
+C-
+-C—
+C—
+H
+H OH H
+propan-2-01
+A Figure 9 The reaction of propene with steam in the presence of phosphoric acid
+results in a mixture of products
+Summary questions
+1 Write an equation, using displayed formula, for the reaction between
+pent-2-ene and hydrogen in the presence of a nickel catalyst. (2 marks)
+2 Draw the full displayed structure of the product formed when
+2-methylpent-2-ene decolourises bromine.
+(2 marks)
+3 Draw the structures of three alkenes that can undergo hydrogenation
+to produce 2-methylbutane.
+(2 marks)
+Pent-2-ene can react with hydrogen bromide to form two haloalkanes
+that are structural isomers.
+a Draw the full displayed formula of each of the two haloalkanes
+formed. Name each isomer.
+(4 marks)
+b Write a balanced equation for the formation of one of
+these products.
+(1 mark)
+5 Write equations for the following reactions.
+and excess bromine
+(1 mark)
+b 2-methylbuta-1,3-diene and excess hydrogen.
+(1 mark)
+6 Draw skeletal formulae of all the structural isomers that can be formed
+when buta-1,3-diene reacts with hydrogen bromide. (3 marks)
+210
+13
+ALKENES
+Halogenation of alkenes
+Alkenes undergo a rapid addition reaction with the halogens chlorine
+or bromine at room temperature. The reaction for the bromination of
+propene is shown in Figure 6.
+HH
+H3CH
+ISO-
+C=
+C
++
+Br?
+-
+H2C—
+C—
+H
+Br Br
+propene
+1,2-dibromopropane
+A Figure 6 Addition of bromine across the double bond of an alkene
+Testing for unsaturation
+The reaction of alkenes with bromine can be used to identify if there
+is a C=C bond present and the organic compound is unsaturated.
+When bromine water (an orange solution) is added dropwise to a
+sample of an alkene, bromine adds across the double bond. The orange
+colour disappears (Figure 6), indicating the presence of a C=C bond.
+If the same test is carried out with a saturated compound, there is no
+addition reaction and no colour change. Any compound containing a
+C=C bond will decolourise bromine water.
+Addition reactions of alkenes with hydrogen halides
+Alkenes react with gaseous hydrogen halides at room temperature to
+form haloalkanes. If the alkene is a gas, like ethene, then the reaction
+takes place when the two gases are mixed. If the alkene is a liquid,
+then the hydrogen halide is bubbled through it. Alkenes also react
+with concentrated hydrochloric or concentrated hydrobromic acid,
+which are solutions of the hydrogen halides in water.
+A Figure 7 Test tubes showing an
+alkene and orange bromine water (left).
+The test tube is shaken to mix the two
+layers, allowing the reaction to take
+place that decolorises the bromine water
+(right)
+Figure 7 shows the reaction of propene, an unsymmetrical alkene,
+with hydrogen chloride, also an unsymmetrical molecule. There are
+two possible products. You will find out more about this addition
+in Topic 13.4.
+H
+H
+H
+Study tip
+HC-
+—
+C—
+H
+H
+H
+H
+H
+H
+CI
+When an unsymmetrical alkene
+reacts with an unsymmetrical
+compound two products are
+possible.
+-
+H-
+C-
++
+CE
+HCI
+0-
+1-chloropropane
+HHH
+I
+H
+-
+C
+—
+C
+—
+C
+—
+H
+H CIH
+2-chloropropane
+A Figure 8 When propene reacts with hydrogen chloride, two possible products
+are formed
+209
+13.2 Stereoisomerism
+Specification reference: 4.1.3
+Stereoisomers
+Stereoisomers have the same structural formula but a different
+arrangement of the atoms in space. You will study two types of
+stereoisomerism, E/Z isomerism and optical isomerism. E/Z
+isomerism only occurs in compounds with a C=C double bond,
+whereas optical isomerism can occur in a much wider range of
+compounds, including alkanes with no functional groups.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ stereoisomerism
+the Cahn-Ingold - Prelog
+priority rules.
+Solving the mystery of maleic and fumaric acid
+Maleic acid can be isolated from unripe fruit (especially
+tomatoes and apples) and fumaric acid is isolated from a wild
+flower. Both acids have the structural formula HOOCCH=CHCOOH
+and contain the same functional groups, yet they behave
+differently when heated. This difference puzzled chemists
+for some time. In 1874, Jacobus Henricus van't Hoff, a Dutch
+chemist, proposed that free rotation around a double bond
+was not possible. He concluded that two molecules with the
+same structural formula could exist in two different forms
+(Figure 1). He called these two forms of the same structure
+cis and trans (Latin for 'same side' and across'), terms that
+are still in use today. He was awarded the first Nobel Prize in
+chemistry in 1901 in recognition of his contribution to the field
+of stereochemistry.
+A Figure 2 Fumaric acid is isolated from
+the wild flower Fumaria officinalis
+COOH
+heat
+CSC
+no reaction
+HOOCH
+fumaric acid
+Figure 3 Maleic acid is isolated from
+unripe fruit, especially tomatoes and apples
+heat
++ H2O
+1 What is the empirical and
+molecular formula for fumaric
+acid and maleic acid?
+2 Why do maleic acid (the cis form)
+and fumaric acid (the trans form)
+behave differently when heated?
+HOOC
+COOH
+maleic acid
+A Figure 1 Fumaric acid (top) and maleic acid respond differently to heat
+E/Z isomerism
+Stereoisomerism around double bonds arises because rotation about
+the double bond is restricted and the groups attached to each carbon
+atom are therefore fixed relative to each other. The reason for the
+rigidity is the position of the a-bond's electron density above and
+below the plane of the o-bond (see Topic 13.1).
+Synoptic link
+You will study optical isomerism
+in Topic 27.2, Amino acids, amides,
+and chirality.
+203
+13.4 Electrophilic addition
+in alkenes
+Specification reference: 4.1.3
+Electrophilic addition reactions
+In Topic 11.5, you found out that a reaction mechanism is a series of
+steps that shows how a reaction takes place. Alkenes usually take part
+in addition reactions to form saturated compounds. The mechanism
+for this reaction is called electrophilic addition.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ electrophiles
+→ mechanism of electrophilic
+addition in alkenes
+→ Markownikoff's rule.
+•
+The double bond in an alkene represents a region of high electron
+density because of the presence of the T-electrons.
+The high electron density of the 7-electrons attracts electrophiles.
+An electrophile is an atom or group of atoms that is attracted to an
+electron-rich centre and accepts an electron pair. An electrophile
+is usually a positive ion or a molecule containing an atom with a
+partial positive (+) charge.
+Study tip
+An electrophile is defined simply
+as an electron pair acceptor.
+The reaction between but-2-ene and hydrogen bromide
+Hydrogen bromide adds to but-2-ene to form a single addition product
+(Figure 1).
+H3C CH3
+CH3 CH3
+CEĆ + HBr - H-C-C-H
+Study tip
+Curly arrows are used in the
+reaction mechanism to show the
+movement of electron pairs.
+H
+Br
+Figure 1 The addition reaction between but-2-ene and hydrogen bromide
+Study tip
+The mechanism for the reaction
+The mechanism for this electrophilic addition is shown in Figure 2.
+Your curly arrows must be drawn
+precisely.
+H3C
+CH3
+CH3 CH3
+CH3 CH3
+CC
+H
+—
+C
+—
+C
+—
+H
+H—C—C—H
+HI
+H
+a carbocation
+is formed
+H
+/
+the carbocation
+reacts with the
+bromide ion to
+form the product
+H Br
+2-bromobutane
+H8+
+• Start the arrow at the bond or
+lone pair.
+Draw the head of the arrow at
+the atom to which the electron
+pair transfers.
+Incorrect or unclear curly arrows is
+an easy mistake to make.
+Bro-
+Figure 2 The mechanism for the electrophilic addition reaction of but-2-ene with
+hydrogen bromide
+1
+Study tip
+2
+Bromine is more electronegative than hydrogen, so hydrogen
+bromide is polar and contains the dipole Hº+-Bro-
+The electron pair in the T-bond is attracted to the partially positive
+hydrogen atom, causing the double bond to break.
+A bond forms between the hydrogen atom of the H-Br molecule
+and a carbon atom that was part of the double bond.
+The H-Br bond breaks by heterolytic fission, with the electron
+pair going to the bromine atom.
+3
+When you are asked to describe a
+mechanism, it is easier to draw the
+mechanism than to write about it,
+even if you are provided with lines.
+4
+211
+13
+ALKENES
+H3C
+C=
+C
+Cahn-Ingold-Prelog nomenclature
+The cis-trans system of naming can only be used when each carbon
+atom in the double bond is attached to a single hydrogen atom.
+However, many other isomeric compounds contain C=C bonds
+and these must be named. For example, the stereoisomer of
+3-methylpent-2-ene shown in Figure 7 cannot be classified as either
+cis or trans. In this case the E/Z system of naming has to be used.
+C2H5
+CH3
+A Figure 7 The structure of one stereo
+isomer of 3-methylpent-2-ene
+Up until 1951, the whole system of naming the isomers of compounds
+containing C=C bonds was a complete mess. Some chemists would
+have named this molecule cis, as the bigger groups on each carbon
+atom are on the same side of the molecule. Other chemists would have
+called it trans as the two methyl, CHz, groups are the same and are on
+opposite sides of the molecule, diagonally across from each other.
+Robert Sidney Cahn, Christopher Kelk Ingold, and Vladimir Prelog
+sorted this out!
+Using the Cahn-Ingold-Prelog rules
+In this system the atoms attached to each carbon atom in a double
+bond are given a priority based upon their atomic number.
+high priority
+high priority
+low priority
+low priority
+If the groups of higher priority are on the same side of the double
+bond, the compound is the Z isomer.
+If the groups of higher priority are diagonally placed across the
+double bond, the compound is the E isomer.
+(Z) - isomer
+high priority
+low priority
+Assigning priority - step 1
+Examine the atoms attached directly to the carbon atoms of the double
+bond and decide which of the two atoms has the highest priority. The
+higher the atomic number, the higher the priority.
+low priority
+high priority
+(E) - isomer
+A Figure 8 How to name E and Z isomers
+by allocating priority to groups
+Table 1 The relative priorities of some of the common atoms found in organic
+molecules
+1 6 7 8 17 35 Atomic number
+Lower priority H C N O CI Br Higher priority
+Increasing priority
+C=
+C
+B Worked example: Group priorities in
+2-bromo-1-chloropropene
+Consider the molecule 2-bromo-1-chloropropene, shown
+in Figure 9.
+H
+Br
+Figure 9 2-Bromo-1-chloropropene
+Step 1: The left-hand carbon atom is bonded to a chlorine atom
+and a hydrogen atom. The chlorine has the higher atomic
+number and the higher priority.
+205
+13.2 Stereoisomerism
+Step 2: The right-hand Catom is bonded to another C atom and
+a Br atom. The Br atom has the higher atomic number
+and the higher priority.
+Step 3: The two higher-priority groups are diagonally opposite
+each other.
+Step 4: The molecule is called (E)-2-bromo-1-chloropropene.
+Assigning priority - step 2
+If the two atoms attached to a carbon atom in the double bond are
+the same, then you will need to find the first point of difference. The
+group which has the higher atomic number at the first point
+of difference is given the higher priority.
+Hac
+CH2CH2CI
+O Worked example: Group priorities at point
+of difference
+Consider the molecule shown in Figure 10.
+CH2CH2OH
+A Figure 10 Allocating group priorities
+Step 1: On the left-hand C atom, the C atom has priority over
+the H atom.
+Step 2: On the right-hand side, the atoms immediately attached to
+the C atom in the double bond are both C atoms.
+Step 3: Continue down these two branches (marked in blue in
+Figure 10) to the first point of difference in the two side
+chains. This is at the Cl and O atoms (marked in red).
+Step 4: Cl has a higher atomic number, so the chain containing
+the CH CH CI has the higher priority.
+Step 5: The molecule is the Z isomer.
+Summary questions
+1 Define the term stereoisomers.
+(1 mark)
+2 State the two features a molecule must have to show E/Z isomerism.
+(2 marks)
+3 Identify whether the following molecules show E/Z isomerism.
+a pent-1-ene
+b 2-methylpent-2-ene
+C 2,3-dichlorobut-2-ene
+d 2,3-dichlorobut-2-en-1,4-diol
+e hex-3-ene
+(1 mark)
+(1 mark)
+(1 mark)
+(1 mark)
+(1 mark)
+4 For each of the molecules that show E/Z isomerism in question 3, draw
+and label the two possible stereoisomers.
+(3 marks)
+206
+13.4 Electrophilic addition in alkenes
+Study tip
+Remember, in this reaction:
+electrophile: HBr
+mechanism: electrophilic
+addition
+bond fission: heterolytic
+5 A bromide ion (Br) and a carbocation are formed. A carbocation
+contains a positively charged carbon atom.
+6 In the final step the Brion reacts with the carbocation to form the
+addition product.
+The reaction between propene and bromine
+Hydrogen bromide is a polar molecule, so it is easy to see how it
+acts as an electrophile in its reactions with the alkenes (Figure 2).
+However, alkenes can also react with non-polar molecules, such as
+bromine, Br, by electrophilic addition.
+Bromine adds to propene to form a single addition product. The
+equation for the reaction is shown in Figure 3.
+H
+CH3
++
+Br2
+The mechanism for the reaction
+Bromine is a non-polar molecule. When bromine approaches an
+alkene, the 7-electrons interact with the electrons in the Br-Br bond.
+1
+H
+CH3
+This interaction causes polarisation of the Br-Br bond, with one end
+of the molecule becoming Brø+ and the other end of the molecule
+becoming Bro-. This is known as an induced dipole (Figure 5).
+H—C—C—H
+H
+CH3
+Br
+Br
+CH3
+CC
+A Figure 3 The addition reaction
+between propene and bromine
+Br 0+
+HD 'H
+Br
+Study tip
+Practise drawing reaction
+mechanisms as they are an
+important skill for organic
+chemistry.
+bonding pair of
+electrons equally
+distributed between
+the two atoms
+as bromine approaches
+it-bond. Electrons in bromine
+bond are repelled. Polarity has
+ben induced in the bromine.
+A Figure 5 The polarisation of the Br-Br bond in bromine. As bromine approaches
+the A-bond, the electrons in bromine are repelled, inducing a dipole
+2
+4
+The electron pair in the 7-bond is attracted to the Bro+ end of the
+molecule, causing the double bond to break.
+A bond has now been formed between one of the carbon atoms
+from the double bond and a bromine atom.
+The Br—Br bond breaks by heterolytic fission, with the electron
+pair going to the Bri- end of the molecule.
+Abromide ion (Br) and a carbocation are formed.
+In the final stage of the reaction mechanism the Br ion reacts with
+the carbocation to form the addition product of the reaction (Figure 6).
+A Figure 4
+5
+6
+Study tip
+CH3
+H
+CH3
+H
+CH3
+Remember that, in this
+mechanism, the Br-Br
+bond breaks by heterolytic
+fission.
+H
+C
+—
+C—
+H.
+H—C——H
+a carbocation
+is formed
+Br /
+→
+the carbocation
+reacts with the
+bromide ion to
+form the product
+Br
+Br
+1,2-dibromopropane
+induced
+Bro-
+dipole
+Figure 6 The mechanism for the electrophilic addition reaction of propene with bromine
+212
+13.5 Polymerisation in alkenes
+HHH
+Figure 4 Multicoloured
+drinking straws made from
+polyethene
+EC
++
+C
+C
+C:
+H
+H
+Study tip
+high temperature.
+high pressure
+polymerisation
+H
+H
+H
+H
+H
+H
+You may come across many other
+addition polymers during your
+A Level chemistry course, but
+the concepts will always be very
+similar. You need to be able to
+draw one or more repeat units of a
+polymer, given the monomer.
+Use the examples in Table 1 to
+test your ability to draw the repeat
+units of a polymer.
+A Figure 3 Polymerisation of ethene monomers at
+high temperature and pressure to prepare poly(ethene)
+Poly(ethene) is one of the most commonly used polymers - you will
+come across it in supermarket bags, shampoo bottles, and children's toys.
+The history of polyethene
+Poly(ethene) was made by accident by Eric Fawcett
+and Reginald Gibson in 1933. They were carrying out
+high-pressure experiments with ethene at a chemical
+plant in Cheshire. A test vessel leaked, allowing a trace
+of oxygen to contaminate a fresh sample of ethene.
+The following day they found a white, waxy residue had
+been produced.
+poly(ethene) (HDPE) has linear chains. This gives the
+plastic some strength, making it ideal for use in children's
+toys, detergent bottles, and water pipes. Low density
+poly(ethene) (LDPE) has branched chains. This results in
+a plastic that has little strength but is flexible, making it
+ideal for use in plastic films and plastic bags.
+Nowadays poly(ethene) is manufactured in large
+quantities using carefully controlled processes.
+Depending on the method used, different densities of
+poly(ethene) can be made that have different structures,
+properties, and uses. For example high density
+1 Why does HDPE have a greater density and greater
+strength than LDPE?
+2 The molecular mass of HDPE is typically in the
+range 200 000-500 000. Estimate the number of
+monomer units in this range.
+Poly(chloroethene)
+Poly(chloroethene), also known as poly(vinyl chloride) or PVC, can be
+prepared to make a polymer that is flexible or rigid. The equation for
+the formation of PVC is shown in Figure 5, and its common uses are
+shown in Figure 6.
+moulded
+articles
+other
+treatments
+fabric
+pipes
+flooring
+Ca
+bottles
+H
+CI Jn
+films and
+sheeting
+insulation and
+cable
+sheathing
+ducts and
+profiles
+chloroethene
+poly(chloroethene) or PVC
+(vinyl chloride)
+A Figure 5 The polymerisation of chloroethene
+Figure 6 Common
+uses of PVC
+216
+13.1 The properties of the alkenes
+Alkenes in the natural world
+Alkenes are responsible for making flamingos pink and for the
+smell of oranges and lemons.
+The colour of a flamingo's plumage is due to its diet. Flamingos
+in the wild typically eat algae and crustaceans that contain
+pigments called carotenoids. Enzymes in the liver convert the
+carotenoids into pink and orange pigments deposited in the
+feathers. Beta-carotene, shown in Figure 7, is a related chemical
+that makes carrots orange, and is important because it is a
+building block that our bodies use to manufacture vitamin A.
+A Figure 6 Flamingos in search of crustaceans to eat
+A Figure 7 Carotene and related alkenes are responsible for the colour of flamingo plumage
+Limonene (Figure 8) is a cyclic alkene with the molecular
+formula C.H. It is found naturally in the rinds of
+citrus fruits and is largely responsible for the smell and
+flavour of oranges and lemons. Limonene is also used in
+perfumes and household cleaning products because
+of its fragrance.
+1 Find two other alkenes that have a role in the
+natural world.
+Draw the skeletal formulae of these alkenes,
+state where they are found, and describe their
+role in nature.
+A Figure 8 Limonene is responsible for the smell of
+oranges and lemons
+Summary questions
+1 State what is meant by the term unsaturated.
+(1 mark)
+2 State the molecular formula of the alkene containing nine carbon atoms.
+The compound is a straight-chain molecule with the double bond on the
+middle carbon. State its name.
+(2 marks)
+3 Explain the difference between a o- and a t-bond.
+(3 marks)
+4 Explain why the bond angle around the carbon atom in an
+alkene is different to the bond angle around a carbon atom
+in an alkane.
+(3 marks)
+5 Draw and name all of the structural isomers of
+the alkene C, H,
+(3 marks)
+202
+13
+ALKENES
+alkenes different from that of the alkanes, where rotation is possible
+around every atom.
+HOOF
+C-C
+H OH
+CIC
+AH
+o bond
+T bond
+p-orbitals overlap above
+p-orbital
+and below the plane of
+the carbon atoms
+A Figure 3 The formation of the C=C bond in ethene
+Synoptic link
+The shape around a double bond
+The shape around each of the carbon atoms in the double bond
+is trigonal planar (Figure 4), because:
+You learnt how to use electron-pair
+repulsion theory to predict the
+shape and bond angles around
+carbon atoms in organic molecules
+in Topic 6.1, Shapes of molecules
+and ions.
+there are three regions of electron density around each of the
+carbon atoms
+the three regions repel each other as far apart as possible, so the
+bond angle around each carbon atom is 120°
+all of the atoms are in the same plane.
+120
+o Worked example: But-2-en-1-ol
+You can apply the electron-pair repulsion theory to but-2-en-1-ol,
+which contains both alkene and alcohol functional groups, to
+predict the shape and bond angles around different atoms.
+A Figure 4 A model of ethene showing
+the 120° bond angle around each of the
+carbon atoms
+Name the shape and state the bond angles shown around each of
+the atoms a, b, and c in Figure 5.
+a
+b
+This carbon atom has three bonded regions and forms a
+trigonal planar shape with bond angles of 120°.
+This carbon atom has four bonded electron pairs, which repel
+each other as far as they can, to give a tetrahedral shape with
+bond angles of 109.50.
+This oxygen atom has two bonded pairs and two lone pairs.
+The lone pairs repel more than the bonded pairs and the
+bond angle will be 104.5°. The two bonds therefore form a
+non-linear arrangement around the oxygen atom.
+c
+=
+C
+)
+Hb
+Figure 5 The structure of but-2-en-1-ol
+201
+13.5 Polymerisation in alkenes
+Specification reference: 4.1.3
+Polymers
+The Mayan civilisation in Central America is believed to be among
+the first to find an application for polymers: in the sixteenth
+century they were playing ball games using rubber collected from
+local trees. The first synthetic polymer, known as Bakelite, was made
+in 1907 by the Belgian Leo Bakeland in the USA, and was used as
+an electrical insulator. It was not until the late 1920s that now-
+common addition polymers such as poly(vinylchloride) (PVC) were
+synthesised on a large scale.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ Addition polymerisation
+→ Processing waste polymers
+→ Biodegradable and
+photodegradable polymers.
+Addition polymerisation
+Polymers are extremely large molecules formed from many thousands
+of repeat units of smaller molecules known as monomers. Unsaturated
+alkene molecules undergo addition polymerisation to produce long
+saturated chains containing no double bonds. Many different polymers
+can be formed, each with its own specific properties depending on
+the monomer used. Industrial polymerisation is carried out at high
+temperature and high pressure using catalysts.
+Addition polymers have high molecular masses.
+• Synthetic polymers are usually named after the monomer that
+reacts to form their giant molecules, prefixed by 'poly'.
+A general equation can be written for any addition polymerisation
+reaction (Figure 2). The equation must be balanced using the symbol n.
+A Figure 1 Raw rubber is obtained from
+a milky latex exuded by the rubber tree
+in response to injury
+Y
+Z Jn
+signifies
+many units
+monomer unit
+repeat unit of
+polymer
+large number
+of repeats
+Figure 2 A general equation for addition polymerisation
+Study tip
+A repeat unit is the specific arrangement of atoms in the polymer
+molecule that repeats over and over again.
+The repeat unit is always written in square brackets.
+After the bracket you place a letter n to show that there is a large
+number of repeats.
+Make sure polymerisation equations
+are balanced. You will need the letter
+n before the monomer and outside
+the bracket after the repeat unit in
+the polymer.
+Poly(ethene)
+Addition polymers are usually made from one type of monomer unit.
+For example the polymer poly(ethene) is made by heating a large
+number of ethene monomers at high pressure (Figure 3).
+215
+13
+ALKENES
+Markownikoff's rule
+You learnt in Topic 133 that two isomeric products are formed when
+propene, an unsymmetrical alkene, reacts with hydrogen bromide,
+also an unsymmetrical molecule. Now you will learn how to predict
+which of the two possible isomers is the major product.
+In 1870 Vladimir Vasilyevich Markownikoff, a Russian chemist, stated
+that when a hydrogen halide reacts with an unsymmetrical alkene
+the hydrogen of the hydrogen halide attaches itself to the carbon
+atom of the alkene with the greater number of hydrogen atoms and
+the smaller number of carbon atoms.
+Electrophilic addition occurs in two steps. In the first step a carbocation
+is formed. In the reaction between propene and a hydrogen halide,
+two carbocations are possible - a primary and a secondary
+carbocation (Figure 6). In the primary carbocation the positive charge
+is on a carbon atom at the end of a chain. In the secondary carbocation
+the positive charge is on a carbon atom with two carbon chains
+attached
+Study tip
+A carbocation has a positive charge
+on a carbon atom
+When propene reacts with hydrogen bromide, the major product is
+2-bromopropane, formed from the secondary carbocation. The yield of
+1-bromopropane is much smaller.
+Figure 6 shows two mechanisms for the reaction between propene and
+hydrogen bromide. The top mechanism shows a primary carbocation as
+the intermediate. The lower mechanism shows a secondary carbocation
+as the intermediate. To understand the different yields of the two
+isomers, you need to consider the stability of carbocations.
+H
+H
+H
+HHH
+HH
+ISO-
+H—
+C—
+C—
+C—
+H
+-
+H-
+C—
+C—
+C—
+H
+—
+H H
+—
+C—
+C
+—C
+H
+H
+Br
+H
+H
+Hô+
+primary
+: Brocarbocation
+1-bromopropane
+minor product
+Bro-
+HH
+H
+H
+H
+H
+H
+4-UL-111
+H-
+C-
+-" —
+H
+H
+—
+C—
+C—
+C—
+H
+ISO-
+OLI
+H
+Br
+H
+Hô+
+2-bromopropane
+major product
+secondary
+carbocation
+Br:
+Bro-
+A Figure 6 Two possible carbocations are formed when propene reacts with a hydrogen halide
+213
+13.4 Electrophilic addition in alkenes
+Carbocation stability
+Carbocations are classified by the number of alkyl groups attached to the
+positively charged carbon atom (Figure 7). An alkyl group is normally
+represented by the symbol -R. Tertiary carbocations with three R groups)
+are the most stable, and primary carbocations are the least stable.
+Carbocation stability is linked to the electron-donating ability of alkyl
+groups. Each alkyl group donates and pushes electrons towards the
+positive charge of the carbocation. The positive charge is spread over the
+alkyl groups. The more alkyl groups attached to the positively-charged
+carbon atom, the more the charge is spread out, making the ion more
+stable. Therefore tertiary carbocations are more stable than secondary
+carbocations, which are more stable than primary carbocations.
+Addition of a hydrogen halide to an unsymmetrical alkene forms the
+major product via the most stable carbocation.
+R
+E
+-H
+R-E-R
+R-E-R
+0-
+primary
+secondary
+tertiary
+stability increases
+A Figure 7 The relative stabilities of primary, secondary, and tertiary carbocations
+Summary questions
+1 Define the term electrophile.
+(1 mark)
+2 Show the mechanism for the reaction between bromine and ethene.
+Explain how bromine acts as an electrophile.
+(3 marks)
+3 Draw the displayed formula of the major product of the reaction of the
+following molecules with hydrogen bromide. Name each product.
+a CH,CH,CH=CH,
+(2 marks)
+b CH=CHCH,CH,CH,CH,CH,
+(2 marks)
+c (CH3)2C=CHCH,
+(2 marks)
+d CH3
+(2 marks)
+4 Draw the mechanism for the reaction of the compound in 3d with
+hydrogen chloride.
+(3 marks)
+214
+13
+ALKENES
+13.1 The properties of the alkenes
+Specification reference: 4.1.3
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the general formula of
+alkenes
+→ the nature and shape of the
+C=C bond.
+Structure and bonding in the alkenes
+Structure of the alkenes
+Alkenes are unsaturated hydrocarbons; alkene molecules contain
+at least one carbon to carbon double bond in their structure. Aliphatic
+alkenes that contain one double bond have the general formula C H...
+The first three members of the alkene homologous series are shown
+in Figure 1.
+HHH3C
+H3C
+CH
+H
+H
+ethene
+propene
+but-2-ene
+A Figure 1 The first three members of the alkene homologous series
+Alkenes can be branched, contain more than one double bond, or be
+cyclic (Figure 2). Whilst branched alkenes obey the general formula
+C H, cyclic alkenes and alkenes with more than one double bond
+do not.
+HH
+H3C
+H
+—
+C
+H3C
+H
+2-methylpropene
+buta-1,3-diene
+cyclopentene
+A Figure 2 Examples of branched, polyunsaturated, and cyclic alkenes
+The nature of the double bond
+Each carbon atom has four electrons in its outer shell and can use
+these electrons to form bonds.
+Synoptic link
+You met sigma bonds (o-bonds) in
+Topic 12.1, Properties of alkanes.
+For each carbon atom of the double bond, three of the four electrons are
+used in three o-bonds, one to the other carbon atom of the double bond
+and the other two electrons to two other atoms (carbon or hydrogen).
+This leaves one electron on each carbon atom of the double bond not
+involved in o-bonds. This electron is in a p-orbital. A A-bond is formed
+by the sideways overlap of two p-orbitals, one from each carbon atom
+of the double bond. Each carbon atom contributes one electron to the
+electron pair in the a-bond. The n-electron density is concentrated
+above and below the line joining the nuclei of the bonding atoms.
+The T-bond locks the two carbon atoms in position and prevents them
+from rotating around the double bond. This makes the geometry of the
+200

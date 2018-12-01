@@ -1,0 +1,986 @@
+Particle accelerators and detectors
+8.2
+In Section 7.3.3 we saw how the mass spectrometer deflects an ion using a magnetic field. The ion
+can then be identified by the amount of deflection, since this is dependent on the mass and charge
+of the ion, and the strength and direction of the magnetic field used.
+fig B A hydrogen bubble chamber.
+Particle physics experiments took a major leap forward with the invention of the bubble chamber
+detector (fig B). As Professor Siegbahn of the Swedish Academy of Sciences commented when
+presenting the 1960 Nobel Prize in Physics:
+Dr. Glaser, your invention of the 'bubble chamber' has opened up a new world for nuclear science. We can
+now observe with our own eyes all the strange processes which occur when high-energy beams from (particle
+accelerators) are directed into your chamber."
+Professor Siegbahn went on to explain that the bubble chamber acts like a combination of jet-plane
+vapour trails and the bubbles that suddenly appear when you open a bottle of fizzy drink. Superheated
+liquid hydrogen bubbles into gas form at any point where ions are generated within it. These bubbles
+can be observed within the liquid and thus the trails show the paths of moving particles.
+fig C An image of particle tracks detected by a hydrogen bubble chamber.
+The particle tracks in fig C show how particles can be tracked as they progress through a bubble
+chamber, and those affected by the magnetic field across it follow curved paths. As in the mass
+spectrometer, the radius of curvature of the tracks will tell us the mass and charge of the particles. In
+addition, the picture allows us to analyse interactions as they happened, as the tracks sometimes end
+abruptly or have sharp changes in direction when they collide. In some cases, particle tracks appear
+to start from nothing. These show instances where particles have been created from uncharged
+particles that do not show up.
+8.
+22
+Questions
+WORKED EXAMPLE
+Look at track A in fig D. If the magnetic field in the bubble chamber
+went at right angles to this picture and into the page, would the
+particle shown by track A be an electron or a positron (positively
+charged anti-electron)?
+Explain why ionisation is important in the operation of the Geiger-
+Müller tube.
+track
+x
+In fig E, the red and yellow tracks show the creation of an electron
+and positron. Identify which track is the electron. The magnetic field
+goes into the page.
+Current
+fig E The creation of an electron-positron pair.
+Fig F was taken by Carl Anderson and published in Physical Review
+in March 1933 as evidence for a positively charged particle with the
+mass of an electron. He had discovered the positron.
+fig D Fleming's left hand rule acting on the particle of track A.
+Using Fleming's left hand rule, with the index finger pointing
+into the page (magnetic field), the centripetal force shown by
+the thumb leaves the middle finger, indicating a current flowing,
+along the spiral inwards from the larger outside loops. The particle
+would be slowing down as it loses kinetic energy by ionising other
+particles in its path. The radius of curvature for these tracks is
+proportional to the velocity of the particle so deceleration
+would cause the particle to spiral inwards. This means the particle
+must be travelling in the same direction along the track to the flow
+of conventional current, as defined in Fleming's left hand rule, so
+the particle must be positive - a positron.
+fig F Anderson's positron track is the thin curving grey line.
+The dark grey bar across the middle of the picture is a lead absorber
+that removes about two thirds of the particle's energy. Explain how
+you can tell that the particle is moving upwards in the picture.
+Kev definition
+A bubble chamber is a particle detection system in which the
+particles trigger bubbles to be created in a superheated liquid,
+typically hydrogen.
+100
+THINKING
+BIGGER
+WP
+MEDICAL PARTICLE
+ACCELERATORS
+Particle accelerators can be used in a variety of medical applications. One of the most exciting
+possibilities is in cancer treatment, where a tumour is bombarded with high-energy particles, which
+can deliver energy to kill the cancerous cells in a very small volume, so damage to surrounding tissue
+is less than with comparative treatments.
+CERN INTENSIFIES MEDICAL PHYSICS RESEARCH
+CERN has transferred a great deal of technology into the field of
+medical physics over the years, from adaptation of its high-energy
+particle detectors for PET scanning to the design and development
+of dedicated accelerators for particle therapy. Now, CERN is
+consolidating all of its diverse activities in the medical physics
+arena, with the creation of a new office for medical applications,
+to be headed up by Steve Myers.
+The LEIR conversion
+ejection
+rection towards PS
+Experiments
+ecoon from LINAC3
+vtraction line
+- New Em
+- 27m2
+CERN has now confirmed that LEIR can be converted into a
+dedicated facility for biomedical research. This "BioLEIR' facility
+will provide particle beams of different types at various energies
+for use by external researchers. Conveniently, there's also a
+54 x 27m hall next to LEIR, currently used for storage, which
+could be developed into laboratory space.
+Myers explained the rationale for developing such a facility. He
+pointed out that although protons and carbon ions are already in
+extensive clinical use for treating tumours, and other species such
+as oxygen and helium ions are under investigation, there's still a
+lack of controlled experiments that directly compare the effect of
+different ions on cancer cells under identical conditions.
+And while existing clinical centres may well intend to perform
+such studies, once patient treatments begin, free accelerator time
+for research becomes extremely limited. The big advantage here
+is that we don't treat patients', said Myers. 'Our aim is to provide
+a service, so researchers don't have to do experiments at a clinical
+site, they can come here instead.'
+As well as radiobiology experiments, LEIR is lined up for use
+in detector development, dosimetry studies and basic physics
+investigations such as ion beam fragmentation. The facility would
+work in the same way as particle physics experiments are carried
+out at CERN: researchers propose experiments, which are peer
+reviewed by a panel of experts who select suitable projects, and
+CERN controls the beam time allocation.
+Before this can happen, however, LEIR needs some hardware
+modifications. These include a dedicated front-end that can
+accelerate many types of ion species, as well as a new extraction
+system and beamlines.
+• Extract from an online article by Tami Freeman, editor of medicalphysicsweb posted
+on 24 February 2014 at http://medicalphysicsweb.org/cws/article/opinion/56295.
+O IOP Publishing. Reproduced with permission. All rights reserved.
+-
+27m -
+-54m
+fig A Redesign of the Low Energy lon Ring at CERN for medical use.
+One of the first projects that Myers will oversee is the
+transformation of CERN's Low Energy Ion Ring (LEIR) into a
+biomedical facility. LEIR is a small accelerator currently used
+to pre-accelerate lead ions for injection into the Large Hadron
+Collider (LHC). But it only does this for several weeks each
+year, leaving a lot of spare beam time. Importantly, the ring also
+has an energy range that matches that of medical accelerators
+(440 MeV/u for carbon ions).
+Where else will I encounter these themes?
+Book 1 6.1
+6.2
+7.1
+7.2
+7.3
+8.1
+104
+8.2
+Particle detectors
+By the end of this section, you should be able to...
+. describe the roles of electric and magnetic fields in particle detectors
+• apply conservation of charge, energy and momentum to interactions between particles and
+interpret particle tracks
+Principles of detection
+Both school laboratory electron diffraction and Geiger and Marsden's alpha scattering experiment
+rely on observing light given off from a fluorescent screen when it is hit by a particle. In order to
+obtain accurate enough data to reinvent the structure of the atom, Geiger and Marsden spent two
+years sitting in a darkened room, for eight hours at a time, counting the flashes of light they saw
+through a microscope. Geiger found this so frustrating that he jointly invented the Geiger-Müller
+(GM) tube to detect particles, which could then be counted electrically.
+cathode
+ionising
+radiation
+mica
+window
+anode
+electron
+argon
+atom Oion
+O
+counter
+8888
+500V
+fig A The internal workings of a Geiger-Müller detector.
+The GM tube works on the fundamental principle that is common to most particle detectors:
+ionisation. As the particle to be detected passes through the tube, it ionises atoms of a gas (typically
+argon) which fills the tube. The ions and electrons produced are accelerated by an electric field
+between electrodes in the tube and then discharged when they reach the electrodes. This produces
+a pulse of electricity, which is counted by a counter connected to the tube. Many different types of
+detector have been invented by particle physicists, but the majority detect ionisation caused by the
+particles to be detected.
+Analysing detections
+Particle-counting detectors have their uses, but they cannot commonly distinguish between different
+types of particles, a characteristic that is becoming increasingly important in detectors. Modern
+particle physics experiments are carried out using such high energies that they can produce hundreds
+of different types of particles. Unless the detectors used in these experiments can identify properties
+of the particles, such as their energy, charge or mass, then the experimental results will be useless.
+98
+Particle accelerators and detectors
+8.2
+Bg
+:
+Zim
+Thus the frequency needed is independent of the radius, meaning
+that a constant frequency can be used and the particle will complete
+each semicircle through a dee in the same time. That is, until the
+speed becomes so fast that mass changes through relativistic effects!
+In 2006, an accelerator facility in Dubna, Russia, working jointly
+with an American group from the Lawrence Livermore National
+Laboratory, claimed to have fused calcium-48 and californium-249
+to produce the as yet unnamed element 118 with a mass number
+of 294.
+The synchrotron
+Once the relativistic effects of mass increase are included in the
+equation for cyclotron frequency, it becomes:
+Bqv2
+The team used a particle accelerator to bombard Cf-249 with high
+energy ions of Ca-48. With the previous problems surrounding
+this heavy element 118, the research team were very careful
+about the accuracy of their data, but it may be some time before
+the results are reproduced by an independent corroborating
+experiment - californium is rare and highly radioactive. Mark
+Stoyer, a nuclear chemist at Lawrence Livermore National
+Laboratory, who was part of the research team, said:
+'We saw something interesting, and the way we've interpreted it, it's
+element 118. But you need someone else to duplicate it. A fundamental
+tenet of science is reproducibility.'
+12am, *,1-ben
+Questions
+Why do the electrodes in a linear accelerator get progressively
+longer?
+Note that m, is the particle's rest mass. As the frequency of the
+applied accelerating potential difference now depends on the
+velocity of the particles, this means that to use a cyclotron to
+generate high energy particle beams, it needs very clever circuitry
+to produce accurately timed polarity switches. The necessary
+electronics were first developed in 1945 and the 'synchrocyclotron
+can accelerate particles to as much as 700 MeV.
+With the development of varying frequency for the accelerating
+p.d., the next logical step was to vary the strength of the magnetic
+field using an electromagnet. This means that the radius of the
+particle beam's path could be kept constant by simply increasing
+the magnetic field strength in line with the increasing momentum.
+A single ring accelerator like this is called a synchrotron.
+Alternate accelerating tubes and bending magnets can generate
+very high energy particle beams. For example, the Tevatron at
+Fermilab near Chicago, in the USA, could give particles 1 TeV of
+energy (Tera = 1012). Alternatively, these rings can be used to store
+charged particles by making them circulate endlessly at a constant
+energy. This is a particularly important use when trying to store
+anti-matter, which will annihilate if it comes into contact with
+normal matter (see Section 8.3.1).
+2
+Lawrence's second cyclotron, built with the assistance of Stanley
+Livingston, was 25 cm in diameter and accelerated protons to
+1 MeV.
+(a) Calculate the speed of these protons.
+(b) Calculate the momentum of these protons.
+(c) Calculate the magnetic field strength Lawrence used in this
+cyclotron, assuming the protons move in a circle around the
+very edge of the machine.
+(d) Calculate the frequency of the voltage that Lawrence and
+Livingston had to apply to achieve this proton acceleration.
+3
+Ninovium - scientists sometimes cheat too
+In 1999, the Lawrence Berkeley Laboratory in California
+WP) published a paper claiming that they had produced an
+isotope of an element with atomic number 118. The paper
+claimed they had succeeded in observing a chain of alpha decays
+following their collision of 449 MeV krypton-86 ions into a target
+of lead-208. The radioactive decay sequence was indicative of
+having started from element 118 - initially named 'ninovium' after
+the Bulgarian team leader Victor Ninov. No other lab in the world
+was able to reproduce the results, and after a two year inquiry, it
+was determined that Ninov had falsified the results. The Berkeley
+Lab retracted the paper, and Victor Ninov, who has continually
+maintained his innocence, was fired.
+The Large Hadron Collider (LHC) is a giant circular accelerator near
+Geneva in Switzerland. The LHC website has some facts about it:
+• the circular ring has a circumference of 27 km
+• each proton goes around over 11 000 times a second
+• each proton has 7 x 1012 eV of kinetic energy
+(a) Calculate the speed of these protons.
+(b) Calculate mv2 for these protons using m, = 1.67 x 10-27 kg.
+(c) How does your answer to (b) compare with the 7 TeV of kinetic
+energy the protons are given through p.d. acceleration?
+(d) Explain this difference.
+neutron
+Kev definitions
+A linear accelerator is a machine which accelerates charged
+particles along a straight line.
+A cyclotron is a circular machine that accelerates charged particles,
+usually following a spiral path.
+A synchrotron is a machine that accelerates charged particles
+around a fixed circular path.
+Kr-86
+Pb-208
+fusion
+compound
+nucleus
+element
+118
+fig F The fusion reaction which was claimed to produce element 118.
+Particle accelerators and detectors
+8.2
+Questions
+1 What can the curvature of a particle's track tell us about its charge
+and mass?
+2 How could momentum conservation help us to 'infer the presence
+of undetectable neutral particles such as neutrinos?
+3 Why do we need four separate detector machines to
+undertake the various different particle searches at
+the LHC?
+4 Do you think the cost of the LHC is justified?
+Explain your reasons for this answer.
+What must a detector be capable of doing?
+In developing the LHC experiments, the scientists had to work out
+what they needed the detectors to be able to do. The following
+nine points are listed on the ATLAS website as their aims.
+1 Measure the directions, momenta and signs of charged
+particles.
+2 Measure the energy carried by electrons and photons in each
+direction from the collision.
+3 Measure the energy carried by hadrons (protons, pions,
+neutrons, etc.) in each direction.
+4 Identify which charged particles from the collision, if any,
+are electrons.
+5 Identify which charged particles from the collision, if any,
+are muons.
+6 Identify whether some of the charged particles originate at
+points a few millimetres from the collision point rather than
+at the collision point itself (signaling a particle's decay a few
+millimetres from the collision point).
+7 Infer (through momentum conservation) the presence of
+undetectable neutral particles such as neutrinos.
+8 Have the capability to process the above information fast
+enough to permit flagging about 10–100 potentially interesting
+events per second out of the billion collisions per second that
+occur, and recording the measured information.
+9 The detector must also be capable of long and reliable
+operation in a very hostile radiation environment.
+Data analysis
+It has been estimated that, when running, the amount of data
+resulting from the LHC experiments is approximately 10% of
+that produced through all human activities across the world. To
+analyse the raw data from the incredibly complex detectors, a
+system of computer analysis called the Grid was developed. This
+enables thousands of computers across the world to be linked
+together via the internet in order that their combined computing
+power can be used to study the experimental results and search
+out any which indicate the new discoveries it is hoped the LHC
+will produce. Of every 10 billion collision results, only about
+10–100 are interesting' reactions. The ones that show things we
+already know need to be quickly filtered out of the data so that
+computing power is not wasted.
+103
+Particle accelerators and detectors
+8.2
+Was Einstein right?
+One of Einstein's claims in his theory of special relativity is that nothing can accelerate beyond the
+speed of light. This means that particles in accelerators must be faced with a problemn when they are
+already travelling close to the speed of light and then pass through a p.d. which should accelerate
+them beyond it. In 1964, William Bertozzi demonstrated that at very high speeds, particles deviate
+from the equation mv = 9V and do indeed never accelerate beyond the speed of light.
+By measuring the actual speed of electrons accelerated from a Van de Graaff generator and then
+determining their actual kinetic energy by colliding them with a target and measuring the heat
+generated, Bertozzi was able to show that the energy imparted by the accelerating p.d. started to
+become more than the amount expected from mva.
+This demonstration showed that whilst the kinetic energy and momentum of particles can continue
+to increase without limit, their speed does not. This can only happen if the mass of a particle
+seemingly increases with its speed. This apparent mass increase becomes significant at speeds
+approaching light speed - known as 'relativistic speeds'.
+oscilloscope
+short tube signalling start of
+electron burst down the flight path
+3 X 10-9 sec
+light
+flasher
+charging
+belt
+electron burst charge
+distribution as a function
+of time
+cable
+transiitting
+Sweep
+signal
+aluminium disc to stop
+electrons and signal
+arrival of electron burst
+at end of flight path
+cables
+transmitting
+signal of equal
+transit times
+window
+------
+phototube -
+15 MeV LINAC
+Van de Graaff
+pressure tank
+fast'
+pulser
+1st section
+of LINAC
+electron
+gum
+equipotential
+planes
+1 metre -
+8.4 metre
+drift space
+8.4 metre -
+fig B Bertozzi's experiment to demonstrate that nothing can accelerate beyond the speed of light.
+1.54
+EdMen
+u
+House Potes
+J
+P
+(met e
+(m.c'+ E)?
+0.5
+10-
+1.0
+1.5
+4.5
+1.
+5
+NO
+0.867
+0.910
+0.960
+0.987
+1.0
+0.752
+0.828
+0.922
+0.974
+1.0
+9
+30
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11 12
+fig C The solid curve represents the prediction for a) according to Newtonian mechanics, = The dashed
+27 m.c?
+curve represents the prediction of Special Rela
+v.mis the rest mass of an electron and
+(m.c? + EN
+C is the speed of light in a vacuum, 3 x 108m 5-1. The solid circles are the data of Bertozzi's experiment. The table
+presents the observed values of ().
+95
+8.2
+3
+The Large Hadron Collider m
+0.999999c
+by here
+CMS
+By the end of this section, you should be able to...
+• discuss the role of the Large Hadron Collider in particle
+physics research
+explain why high energies are required to investigate the
+structure of the nucleus
+www.
+LHC
+CERN's big synchrotron
+NNNNNNNNNN
+NNN
+SPS
+N N
+ALICE
+LHC-b
+ATLAS
+-
+H
+-
++
+0.87c
+by here
+-
+-
+-
+-
+0.3c
+by here
+-
+-
+p Pb ions
+fig B An overview of the Large Hadron Collider.
+fig A Inside the Large Hadron Collider.
+At the Organisation Européenne pour la Recherche Nucléaire
+(known by its older acronym CERN), or European Organisation
+for Nuclear Research, they have constructed the biggest machine
+in the history of planet Earth. This is the Large Hadron Collider
+(LHC) - a gigantic synchrotron over 8 km in diameter, built
+100 metres underground on the border between Switzerland and
+France. At a total building cost of just under 4 billion Euros, with
+staff from 111 nations involved in its building and operation, it
+is the largest experiment ever undertaken. When running, its
+temperature is 1.9 K, making the LHC the coldest place in the
+Solar System (excluding colder man-made experiments).
+Four smashing experiments
+The machine is designed to collide protons into each other at
+energies of 14 TeV (14 x 1012 eV), travelling at 99.9999991% of
+the speed of light. These conditions emulate those occurring
+in the Universe 1 billionth of a second after the Big Bang. LHC
+scientists are hoping that this will then produce particles and
+interactions not seen since the Big Bang. In its first three years of
+operation, each collision had a total energy of up to 8 TeV, and
+CERN's schedule was to reach 14 TeV in mid-2015. Such high
+energies can probe the structure of the nucleons themselves.
+At such high energies, the beams of protons counter-rotating
+around the 27 km ring will cross each other's paths 30 million
+times every second, resulting in 600 million collisions per second.
+There are four critical experiments in the LHC, each named by
+an acronym: CMS, LHCb, ATLAS and ALICE. Each of these
+experiments has an incredibly complex detector built in a cavern
+around the accelerator, and one of the beam-crossing points is
+at the centre of each detector. Each one is aimed at detecting
+particular products from the collisions, each is searching in several
+different ways for specific undiscovered but theoretical particles.
+The detectors include strong magnetic fields and will track the
+movements of particles through the space that the detector
+occupies. As mass-energy and momentum are always conserved
+in particle interactions, along with charge, the records of particle
+tracks can be interpreted to identify the particles in the detector
+and any reactions that they undergo.
+101
+8.2
+to study the collisions of heavy ions, such as lead, accelerated to
+almost the speed of light. These collisions are in the second phase
+of LHC operation, and it is hoped they will create a quark-gluon
+plasma, which has been predicted by quantum mechanics theory.
+The Compact Muon Solenoid (CMS)
+One of the two teams that jointly announced discovery of the
+Higgs boson in July 2012 was from the CMS experiment
+(fig C). If the LHC achieves further exciting discoveries, they may
+well come from this detector. There are several hypotheses in
+different areas of theoretical physics that may gain confirmation
+evidence from the LHC. Some of these sound a little bizarre. For
+example, it is hoped that the CMS will observe mini black holes,
+dark matter, supersymmetric particles and gravitons.
+The CMS is set up with various detecting chambers for different
+types of particle, and has 100 million individual detectors
+organised in a 3D barrel containing as much iron as the Eiffel
+Tower. By monitoring the tracks of particles, their charges and
+masses can be determined. The energies and momenta can also
+be measured and the fact that they must be conserved, means that
+all this information analysed together can identify all the particles
+and reactions in each collision.
+ATLAS
+The ATLAS detector (fig D) is 45 m long and 25 m high. It was
+the other experiment to provide experimental data verifying a new
+particle that is likely to be the Higgs boson. Among its potential
+further discoveries to come are extra dimensions of space,
+microscopic black holes, and evidence for dark matter particles
+in the Universe. Originally, ATLAS was an acronym for A Toroidal
+Lhc Apparatus, but this has now largely been dropped and it is
+simply the name of the experiment.
+The Large Hadron Collider beauty experiment
+(LHCb)
+This detector looks out for the decays of both the bottom quark
+(sometimes called beauty) and the charm quark by looking for
+mesons containing these. This is particularly aimed at working
+out why our Universe contains mostly matter and very little
+anti-matter, when theoretically the two should appear in equal
+amounts.
+A Large lon Collider experiment (ALICE)
+Although ALICE initially observed the proton-proton collisions
+that the LHC started with, this detector is particularly intended
+fig D The ATLAS experiment detector in the LHC.
+CMS
+A Compact Solenoidal Detetor for LHC
+MUON GHAMBERS INNER TRACKER
+EM CRYSTAL CAL
+HADRON CAL
+VERY FORWARD
+CALORIMETER
+SUPERCONDUCTING COIL
+Total Weight : 12,000 t
+Overall diameter: 14.00 m
+Overall length : 20.00 m
+Magnetic field : 4 Tesla
+RETURN YORE
+CMS 1000
+fig C Particle detection in the Compact Muon Solenoid (CMS).
+102
+8.2
+Accelerating particles in circles
+As scientists struggled to produce ever longer linear accelerators.
+they sought to coil their accelerators up into a circle so that the
+particles could be accelerated in an electric field repeatedly in a
+smaller space. To do this, we use the fact that charged particles
+moving across a magnetic field will feel a centripetal force, and
+so will move in a circular path. We can work out the radius of this
+circular path, and use it to construct a circular accelerator of the
+right dimensions.
+The cyclotron
+In 1930, Ernest Lawrence developed the first cyclotron, a circular
+accelerator which could give protons about 1 MeV of energy.
+In a cyclotron, there are two D-shaped electrodes (or dees),
+and the particles are accelerated in the electric field in the gap
+between them. Whilst inside the dees, the particle will travel
+along a semicircular path under the influence of the magnetic
+field, before being accelerated across the gap again; then another
+semicircle, another acceleration across the gap, and so on. As
+each acceleration increases the momentum of the particle, the
+radius of its path within the dee increases, and so it steadily spirals
+outwards until it emerges from an exit hole and hits the target
+placed in a bombardment chamber in its path.
+velocity v
+X1 X
+south pole of
+magnet
+voltage supply -
+alternating square
+wave pd.
+X
+magnetic field B
+into page
+glass cylinder
+charge
+lid of
+vacuum
+chamber
++ to vacuum pump
+velocity v
+D-shaped
+electrode
+vacuum-tight
+thin window
+filament
+support
+and leads
+X
+fig D The circular trajectory of a charged particle moving across a magnetic
+field. Note that field lines can be shown coming out of a page by
+drawing a dot, and those going into a page (like the magnetic field here)
+can be shown by drawing a cross.
+bombardment
+chamber
+(open to air)
+north pole of
+magnet
+fig E The structure of a cyclotron.
+We have previously seen the equation for the force on a charged
+particle moving across a magnetic field (Section 7.3.3):
+F = Bqv
+This force acts at right angles to the velocity, v, meaning that the
+particle will follow a circular path. Recall that the equation for the
+centripetal force on anything moving in a circle (Section 6.2.2) is:
+Cyclotron frequency
+In order to maintain the accelerations at exactly the correct
+moment, the p.d. needs to switch direction exactly when the
+particle exits from one dee to move across the gap between them.
+This means the voltage supply has to follow a square wave pattern
+where it flips polarity instantaneously
+The frequency of these polarity switches only depends on the
+particle being used and the strength of the magnetic field applied:
+We can equate these two expressions:
+Bqv = mv
+Dividing out the velocity from each side, and rearranging to find
+an expression for the radius of the circle, gives:
+Ba
+T=271
+or
+r= Ba
+During one complete period of the alternating voltage the particle
+will pass through both dees, thus completing a full circle at that
+radius.
+However:
+mv
+Bq
+This means that for a given magnetic field, the radius of the path
+of a charged particle is proportional to its momentum. At slow
+speeds, the radius is proportional to velocity (or the square root
+of the kinetic energy), but as these experiments generally send
+particles at speeds approaching the speed of light, relativistic
+effects need to be accounted for. In particular, at these very high
+speeds the particle's mass appears increase, which would also
+alter its momentum. The overall result is that a particle increasing
+in speed would travel along an outwardly spiralling path.
+96
+T= 2MV
+Bqv
+21m
+BA
+TOPIC 8
+Nuclear and particle physics
+Particle accelerators and
+detectors
+CHAPTER
+8.2
+Introduction
+LALT
+It is remarkable to think that scientists have managed to determine the nature of particles that are only one femtometre
+across - the size of an atomic nucleus. To give you a clearer idea of just how small that is, imagine placing 1000 solar
+systems side by side. How small you are in comparison to the thousand solar systems is similar in scale to how small a
+proton is compared with you.
+Developing both the theories and the technology to manipulate subatomic particles so that we can undertake experiments on
+them is one of the great triumphs of modern science. It might seem contradictory, but the Large Hadron Collider, which is our
+greatest success story in such tiny-scale experiments, is actually the largest machine ever built!
+In this chapter, we will look at how we can arrange for various tiny particles to move in such a way that we can make them
+collide with each other, to cause them to react and produce other exotic particles. In order to discover what particles these
+collisions generate, we will also learn how they can be detected and then identified.
+All the maths you need
+• Recognising and use of appropriate units (e.g. the electronvolt)
+• Making order of magnitude calculations (e.g. comparing cyclotron energies)
+• Estimating results (e.g. comparing particle speeds in different accelerators)
+• Changing the subject of non-linear equations (e.g. calculating relativistic synchroton frequency)
+• Substituting numerical values into equations using appropriate units (e.g. calculating particle path radii)
+92
+8.2
+Exam-style questions
+4 A strong magnetic field of flux density B can be used to trap a
+positive ion by making it follow a circular orbit, as shown.
+1 An electron moving at 2.05 X 10 km s-1 is made to move in a
+circular path by a 0.98 T magnetic field applied perpendicular
+to its velocity. The radius of the circle the electron travels in is:
+A 1.19 x 10-7m
+B 0.119 mm
+C 8400 m
+D 1.31 x 1028 m.
+[Total: 1]
+[1]
+2 The diagram shows the track of a charged particle travelling
+in a bubble chamber detector, in which the magnetic field goes
+into the page.
+(a) Explain how the magnetic field maintains the ion in a
+circular orbit. You may add to a copy of the diagram above
+if you wish.
+[2]
+(b) Show that the mass m of the ion will be given by
+Ba
+m =
+2af
+where q is the charge on the ion and fis the number of
+revolutions per second.
+(c) The above arrangement will not prevent a positive ion from
+moving vertically. To do this, a weak electric field is applied
+using the arrangement shown below.
+[3]
+X X X XX X X
+The particle:
+A is negative and moves from A to B
+B is positive and moves from A to B
+C is negative and moves from B to A
+D is positive and moves from B to A.
+[1]
+[Total: 1]
+[2]
+3 In order to investigate the structure of the nucleus, high
+energies are needed. One reason for this is that:
+A The radius of circular motion of a particle in a cyclotron is
+proportional to the kinetic energy.
+B The nucleus can only be ionised by high energy particles.
+C The nucleus will absorb low energy particles.
+D The de Broglie wavelength is inversely proportional to a
+particle's velocity.
+[1]
+[Total: 1]
+(1) Explain how the electric field prevents the ion moving
+vertically
+(ii) This device is known as a Penning Trap. It can be used
+to determine the mass of an ion to an accuracy of
+3 parts in 10 million.
+Show that the mass of a sulfur ion can be measured to
+the nearest 0.00001 u.
+mass of sulfur ion = 32.0645 u
+(iii) Under certain conditions, nuclei of sulfur emit a
+gamma ray with a known energy of 2.2 MeV.
+Calculate the resulting loss in mass of a sulfur ion in u
+and show that this value could be determined by the
+Penning Trap technique.
+[4]
+[Total: 13]
+[2]
+106
+Thinking Bigger
+Let us start by considering the nature of the writing in this report.
+1. The article is from medicalphysicsweb, which is a community website hosted by the
+Institute of Physics through their publishing division. Explain why the Institute of Physics
+would spend time and money developing a website that is about medical matters.
+2. Describe what level of fundamental research is in this article, and how that affects the
+style of the writing here.
+3. a. Describe the level of language used in the article, in particular the scientific
+terminology used.
+b. Who do you think the intended audience is for this website, and how does that
+match with your answer to part a?
+Consider that the Institute
+of Physics website's About
+Us section states: 'The
+Institute of Physics is a
+leading scientific society.
+We are a charitable
+organisation with a
+worldwide membership
+of more than 50000,
+working together to
+advance physics education,
+research and application."
+Now we will look at the physics in detail. Some of these questions will link to topics elsewhere in this
+book, so you may need to combine concepts from different areas of physics to work out the answers.
+Consider the equation for
+calculating kinetic energy.
+4. a. Explain how the various ions mentioned would be accelerated in the LEIR.
+b. What would be the difference in the motion of helium 2+ ions compared with
+oxygen 2+ ions, if each was accelerated through the same voltage in the LEIR?
+5. a. Explain why the LEIR was designed as a ring.
+b. How can accelerating ions be made to continually travel around a ring of constant
+radius?
+6. One of the most exciting aspects of this kind of cancer treatment is that, unlike X-ray or
+gamma ray treatment, the delivery of energy increases as the ion reaches the target
+tumour. As the particle slows down, it can interact with many more nearby particles,
+losing energy more quickly.
+Explain how this could be better for the patient than the more uniform delivery of
+energy along the entire path in X-ray treatment.
+VV0000
+Activity
+Imagine there is going to be a similar website aimed at a younger audience. Rewrite this article to be
+published for a readership under 16 years old.
+Consider how the level of
+science must be reduced,
+and thus what factual
+aspects you would need to
+leave out, whilst retaining
+the interesting cancer
+treatment angle
+8.2
+YOU ARE
+RE
+HERE
+8.3
+8
+9.1
+10.1
+11.1
+12.1
+13.1
+105
+Exam-style questions
+8.2
+5 (a) A cyclotron can be used to accelerate charged particles.
+alternating potential
+difference
+dee
+dee
+WT
+magnetic field
+Explain the purpose of the magnetic field in the cyclotron.
+You may add to a copy of the diagramn if you wish. [2]
+(b) A beam of low-speed protons are introduced into a
+cyclotron.
+(i) Show that the number of revolutions per second, f.
+completed by the protons is given by
+eB
+f = 2M
+where e is the electronic charge
+B is the uniform magnetic flux density within
+the cyclotron
+mis the mass of the proton.
+[3]
+(ii) An alternating potential difference is placed across the
+two dees to increase the energy of the protons.
+Explain why the potential difference that is used is
+alternating
+121
+(iii) Initially, whilst the proton speeds are low, the frequency
+at which the potential difference has to alternate is
+constant.
+Explain how the frequency must change as the protons
+gain more and more energy
+[2]
+(c) In the Large Hadron Collider at CERN, protons follow a
+circular path with speeds close to the speed of light. X-rays
+can be produced by free protons which are accelerating.
+Explain why this provides a source of X-rays, even though
+the speeds of the protons are constant,
+[Total: 111
+[2]
+6 Explain the structure of linear particle accelerators and
+cyclotron accelerators, including the role of electric and
+magnetic fields in each.
+[Total: 6]
+[6]
+107
+.
+1
+What have I studied before?
+• Voltage as a measure of the energy transferred by
+charges
+Circular motion and centripetal force
+The conservation of momentum, charge and
+energy
+The effects of electric fields on the movement of
+charged particles
+The effects of magnetic fields on the movement of
+charged particles
+Coulomb's law for electrostatic forces
+What will I study later?
+• The various fundamental particles that have been
+discovered
+Interactions between fundamental particles
+• The four fundamental forces of nature
+• Nuclear fission and nuclear fusion
+• The importance of particles in stars and between
+stars
+What will I study in this chapter?
+The structure and functioning of linear particle
+accelerators
+The structure and functioning of circular particle
+accelerators
+The detection and identification of subatomic
+particles
+How to interpret particle tracks in particle
+detectors
+Deeper matter probing experiments, including the
+Large Hadron Collider
+8.2
+1
+Particle accelerators
+electrons to an energy of 50 GeV, meaning that they have
+effectively passed through a potential difference of 50 billion volts.
+GeV' means gigaelectronvolts, or "X10" eV'.
+By the end of this section, you should be able to...
+describe the roles of electric and magnetic fields in particle
+accelerators
+• derive and use the equation rate for a charged particle in a
+magnetic field
+• explain why high energies are required to investigate the
+structure of the nucleus
+Did you know?
+LINAC facts
+Despite being over 50 years old, the Stanford Linear Accelerator in
+California remains the world's longest linear accelerator, or LINAC.
+However, plans for the International Linear Collider are far
+advanced. Most likely to be built in Japan, this would consist of two
+linear colliders, each over 15 km long, designed to collide electrons
+and positrons, initially with energies of 250 GeV, but with the design
+possibility of raising this to 1 TeV.
+Particle accelerators
+To investigate the internal substructure of particles like nucleons –
+protons and neutrons – scientists collide them with other particles
+at very high speeds (very high energies). It is necessary to use
+high energy particles because at lower energies the particles just
+bounce off each other, keeping their internal structure secret. If
+we can collide particles together hard enough, they will break up,
+revealing their structure. In most cases, additional particles are
+created from the energy of the collision. Sometimes these extra
+particles reveal or confirm other new physics.
+The challenge for scientists has been to accelerate particles to
+high enough speeds. Charged particles can be accelerated in
+straight lines using electric fields, and their direction changed
+along a curved path by a magnetic field.
+If the particles to be accelerated by the linear accelerator in
+fig A are electrons, they are generated by an electrostatic machine
+(like a Van de Graaff generator) and then introduced into the
+machine. Once inside the cylinder, the electrons move in a straight
+line, as the electrode is equally attracting in all directions. The
+alternating voltage supply is made to change as the electrons
+reach the middle of tube A, so it becomes negative. This repels the
+electrons out of the end of tube A and on towards tube B, which now
+has a positive potential. They accelerate towards it, and the whole
+process repeats as they pass through tube B and are then accelerated
+on towards tube C. This carries on until the electrons reach the end
+of the line, at which point they emerge to collide with a target.
+In order to keep accelerating particles that are moving faster and
+faster, the acceleration tubes must be made longer and longer as
+the particles travel through each successive one at a higher speed,
+whilst the time between potential difference flips is fixed as the
+alternating voltage has a uniform frequency of a few gigahertz (often
+referred to as radio frequency, RF). The limit on the use of this kind
+of accelerator is how long you can afford to build it, remembering
+that the whole thing must be in a vacuum so that the particles do not
+collide with air atoms, and it must be perfectly straight
+Linear accelerators
+One of the simplest ways to produce energy high enough for
+these particle collisions is to accelerate a beam of charged
+particles along a straight path. However, this is limited by the
+maximum achievable potential difference. In order to overcome
+this problem, the particles are accelerated in stages (fig A).
+They are repeatedly accelerated through the maximum p.d.,
+making the particle energies very high. Using this principle, the
+3.2 km Stanford Linear Accelerator in the USA can accelerate
+high frequency (3000 MHz) AC voltage
+electrons
+injected
+B
+particle beam
+fig A The structure of a linear accelerator.
+94

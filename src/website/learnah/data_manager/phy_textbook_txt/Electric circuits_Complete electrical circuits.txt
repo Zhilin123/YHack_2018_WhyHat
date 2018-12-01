@@ -1,0 +1,1239 @@
+3.2
+Power in electric circuits
+Combining these will give us the work done by a component in an
+electric circuit:
+W = V x / xt
+By the end of this section, you should be able to...
+explain work done by electric circuits
+make calculations of work and power in electric circuits
+explain efficiency and make calculations of it within electric
+circuits
+The measurement of voltages in electric circuits has shown us
+that these deal with the conversion of energy by components.
+As we saw in Section 2.2.3, energy must always be conserved,
+and electric circuits are no exception to this. When components
+convert electrical energy into other useful forms, they can be
+considered to be doing work, as this is defined as a transfer of
+energy
+145
+205
+AS
+fig B Electrical work done by a light bulb.
+WORKED EXAMPLE
+In fig B, if the bulb lights up for 4.85 seconds, how much work has
+the bulb done?
+W = Vit
+W = 7.06 x 1.45 x 4.85
+W = 49.6]
+Electrical power
+Power, P, is the rate of transfer of energy, or the rate of doing
+work. In an electrical circuit, the energy is dissipated by a
+component. The mathematical definition is:
+fig A As part of this circuit, the heart will convert some electrical energy into
+kinetic energy. The circuit is doing work.
+PRE
+OR
+P-W
+Incorporating the equation for work in a circuit from above:
+P-VIE
+t
+P=VI
+Electrical work
+Work done has the symbol W, and as the equation defining
+potential difference includes a term for the amount of energy
+transferred, E, these two will be the same.
+W=E
+The equation for pd, in rearranged form, gives us:
+W = VQ
+The definition of current, in rearranged form, is the Quit equation
+(see Section 3.1.1):
+Q = I xt
+Learning tip
+Electrical work and power equations for all components:
+W = Vit
+P= VI
+102
+be
+TOPIC 3
+Electric circuits
+CHAPTER
+Complete electrical
+circuits
+Introduction
+Depending on the exact model, a smartphone uses over a billion tiny electrical circuits in order to
+WI
+be able to perform a huge range of functions. However, it is fundamentally powered by a DC
+battery that will supply a continuous voltage of approximately 4 volts. From this single electrical
+quantity, the billion or more circuits can each be powered separately to perform their individual function.
+For the complex machines we use every day, the individual components need particular currents and
+voltages in order to function properly. In order to ensure that they receive appropriate amounts of these,
+we must connect them together in circuits of the correct design and with appropriate other components.
+The design of the overall circuit, and sub-branches of it, rests on the calculations of the electrical properties
+at each point in the circuit.
+In this chapter, you will learn how the fundamental electrical quantities inter-relate in a circuit, and how
+they can therefore be altered by the design of the circuit.
+All the maths you need
+• Units of measurement (e.g. the ohm, 2)
+• Changing the subject of an equation (e.g. finding a particular branch current from electric current rules)
+Substituting numerical values into algebraic equations (e.g. calculating the electrical energy transferred by
+a component)
+• Solving algebraic equations (e.g. the potential divider equation)
+• Using ratios, fractions and percentages (e.g. the efficiency equation)
+Determining the slope and intercept of a linear graph (e.g. finding the emf and internal resistance from
+experimental results)
+14
+88
+Complete electrical circuits
+3.2
+Questions
+1 What is the internal resistance of a 6V battery if it supplies 5.8V to a
+lamp when the current flowing is 0.40 A?
+By considering energy conservation, we can draw up an equation
+for the circuit that incorporates the internal resistance.
+Le = SV
+.. 8 = Vload + Vinternal
+... E = Vload + Ir = IR + Ir
+The circuit shown in fig B demonstrates what the mathematics
+means practically. The voltmeter will be measuring the voltage
+actually supplied by the cell, so that will be its pure emf minus
+the pd across the internal resistance, or lost volts. However, as the
+ammeter should have zero pd, the voltmeter will also be reading
+the value of the potential difference across the variable resistor, R
+E-V, VR
+Or, in terms of the ammeter reading. I, and the voltmeter reading,
+What is the internal resistance of a 1.5 V dry cell, that delivers 1.3 V
+to a lamp which has a resistance of 5.0 ?
+The starter motor for a car engine needs a very high current, for
+example 100 A.
+(a) Explain why a car battery should have a very low internal
+resistance.
+(b) Explain why the car's headlights are observed to dim if they are
+on when the car's starter motor is used.
+E - Ir = V
+... ? = V + Ir
+which is, again, a statement of energy conservation in this circuit.
+A student investigating the emf and internal resistance of a dry cell
+used the circuit in fig B, with the cell in the place marked by the
+dashed lines. She collected the results in table A.
+Plot a graph to find both the internal resistance and the emf of the
+cell that the student tested.
+Ammeter reading, I/A
+0.10
+0.20
+0.30
+0.40
+0.80
+1.10
+Voltmeter reading, V/V
+1.45
+1.42
+1.39
+1.31
+1.18
+1.09
+Investigation
+WP
+Investigating internal resistance
+We can find the internal resistance for a source of emf such as a cell
+experimentally. Using a circuit like that shown in fig B, we adjust the
+variable resistor to change the current through the circuit, and at
+each current value we record the voltmeter reading.
+The equation we have previously seen for the quantities in this
+circuit is:
+8 - Ir = V
+or:
+V = -rl + E
+Comparing this with the equation for a straight-line graph y = mx + C
+shows us that a graph plotted with V on the y-axis and I on the x-axis
+will have a gradient equal in magnitude to the internal resistance, r.
+The y-intercept, C, here represents the voltmeter reading when no
+current flows. If there is no current in the circuit, the internal
+resistance can take no energy from the circuit, so there will be zero
+lost volts and the voltmeter will read the full value of the emf. So, the
+y-intercept is the value of the emf, e.
+table A Current and voltage readings from a student experiment to find
+internal resistance of a dry cell.
+Kev definition
+The resistance of an emf source is called its internal
+resistance.
+- gradient = -1
+MMMM
+fig C Graph of internal resistance investigation results.
+101
+What have I studied before?
+• Energy transfers in electrical circuits
+• Calculations of electrical power and energy
+Explanations of the movement of charged
+particles in terms of their material medium
+Calculations of current, voltage, and resistance
+Ohm's law in general and when it is, and is not,
+relevant
+What will I study later?
+• Analysis of changes in electrical circuits using
+datalogging and/or an oscilloscope
+How to calculate the current and voltage averages
+for an alternating current circuit (A level)
+• The use of circuits involving capacitors (A level)
+• How electromagnetic induction will generate an
+electromotive force (emf) (A level)
+The energy conservation implications of Lenz's
+law in electricity generation (A level)
+What will I study in this chapter?
+How the conservation of charge, and the
+conservation of energy, affect the distribution of
+currents and voltages around circuits
+How resistances can be combined and separated
+in series and parallel circuits
+How internal resistance can affect the usefulness
+of an electrical supply
+How to calculate the transfer of electrical energy
+and power, and the efficiency of an electrical
+device or circuit
+Complete electrical circuits
+3.2
+WORKED EXAMPLE
+In fig B, what is the power of the bulb?
+P = VI
+P = 7.06 x 1.45
+P = 10.2 W
+Power dissipated by resistors
+We can also write variations of the electrical power equation, substituting in terms from Ohm's law
+so that we can calculate the power dissipated by resistors in a circuit.
+P= VI
+and
+V = IR
+If we only know current and resistance:
+P = IR I = PR
+Or, if we only know pd and resistance:
+P=VxV 12
+Learning tip
+Resistor power dissipation equations:
+P= 12R
+P.12
+Efficiency
+Luman
+1380
+100
+1000
+WP
+fig C Modern electrical appliances come with a label indicating their efficiency, so that consumers can choose good
+value for running costs when making purchases.
+From the equations above, we can easily calculate the work and power of electrical devices.
+However, this calculation is relatively meaningless if we do not also consider the purpose of the
+device. If most of the energy is not actually transferred into a form that is useful to us, then the
+cost of that electrical energy will be wasted. We saw in Section 2.2.2 that the ability of a device to
+convert energy usefully is called efficiency.
+103
+3.2
+You will remember that efficiency is defined mathematically - and this applies to electrical energy
+transfers exactly as it did to mechanical energy transfers - as:
+useful energy output
+efficiency =
+total energy input
+useful power output
+efficiency =
+total power input
+The answer will be a decimal between zero and one. It is common to convert this to a percentage value
+(multiply the decimal by 100).
+WORKED EXAMPLE
+In fig B, what is the efficiency of the bulb if it produces 3.57 joules of light energy per second?
+useful power
+total power input
+efficiency =
+efficiency - 10.2
+3.57
+efficiency = 0.35 = 35%
+Investigation
+Investigating efficiency
+We can find the efficiency of an electric motor by measuring the electrical energy it uses, and by
+comparing this with its useful energy output in lifting a mass against its weight to give the mass
+gravitational potential energy.
+7112
+electric motor
+fig D Finding the efficiency of an electric motor lifting a weight.
+You switch on the motor and find the time (t) it takes to lift the known mass (m) through a fixed height
+(Ah). During the lifting process, you measure the average pd (V) across the motor and current through it)
+using an ammeter and a voltmeter. You use these measurements to calculate the total energy input and
+the useful energy output for use in the efficiency equation.
+useful energy output = gravitational potential energy gained = mgah
+total energy input = electrical energy used = Vit
+useful energy output mgah
+motor efficiency =
+total energy input Vlt
+104
+3.2
+Series and parallel circuits
+By the end of this section, you should be able to...
+calculate currents, voltages and resistances in series and parallel circuits
+derive the equations for combining resistances in series and parallel
+The fundamental rules governing measurements in electrical circuits are the conservation of charge
+and conservation of energy. These determine how currents, voltages and resistances change around
+any particular circuit.
+Current
+The total amount of charge within a circuit cannot increase or decrease when the circuit is
+functioning
+Learning tip
+WP
+Currents are measures of charge flow through a component, so they must be measured in the
+same line as the component, i.e. the ammeter must always be placed in series next to the component.
+fig A Ammeters must always be in series with the component they are measuring
+Currents in series circuits
+Any group of components that follow in series in a circuit, with no junctions in the circuit, must have
+the same current through them all.
+A)1A
+A)1A
+A
+fig B The current is constant throughout a series loop in a circuit.
+Currents in parallel circuits
+Whenever a current encounters a junction in a circuit, the charges can only go one way or the other,
+so the current must split. The proportions that travel along each possible path will be in inverse
+proportion to the resistance along that path. If the path has high resistance, the current is less likely
+to go that way. However, the total along the branches must add up to the original total current.
+90
+3.2
+2
+Electrical circuit rules
+By the end of this section, you should be able to...
+• understand how the distribution of current in a circuit is a
+consequence of charge conservation
+understand how the distribution of potential differences in a
+circuit is a consequence of charge conservation
+make calculations based on current and voltage circuit rules
+In the circuit diagram of fig B, we could think about the current
+entering and leaving the resistor. This is 0.8 A entering and
+0.8 A leaving. If we added these together, accounting for the
+direction:
+lin + lout = 14 +-15 = 0.8 +-0.8 = 0
+This trivial example confirms the rule at work in the resistor.
+Similarly, consider the currents at the point where the circuit splits
+to send current through the two bulbs:
+A +-12+ -13 = 0.8 +-0.4 +-0.4 = 0
+The same overall result would appear at any point in the circuit -
+charge must always be conserved.
+Gustav Kirchhoff was a Prussian physicist working in the middle
+of the nineteenth century. He made important contributions to
+several areas of physics, and there are also laws named after him
+in spectroscopy and thermochemistry. The electrical circuit rules
+presented here sometimes carry his name.
+Electrical voltages rule
+In order to conserve electrical energy around any closed loop in a
+circuit, the sum of emfs is equal to the sum of the pds around that
+loop. Note that a loop being considered might not be the whole of
+a circuit – the only requirement is that the loop is complete. Note
+also that the potential differences referred to here are defined as
+being the products of component currents and resistances, as per
+Ohm's law. So, if we isolate a particular closed loop, it may have
+potential differences with positive values, and with negative values
+when the current flows in the opposite direction.
+fig A Gustav Kirchhoff presented the conservation of charge and of electrical
+energy within a circuit as two laws of physics.
+) V
+= 0.85 V
+V = 3.0V
+V = 2.15 V
+Electric current rule
+Electric current rule: the algebraic sum of the currents entering
+a junction is equal to zero.
+El = 0
+In order to conserve electric charge, the sum of all the currents
+arriving at any point (such as a junction) in a circuit is equal to the
+sum of all the currents leaving that point.
+= 0.8A
+fig C Voltages rule example circuit.
+1 = 0.8AV
+1 = 0.8 A
+In fig C, consider the voltages around the closed loop consisting
+of the cell, variable resistor and fixed resistor. We know V3 must
+be 0.85 V, as all parallel branches must have the same voltage and
+it is parallel to V4. Moving clockwise around the loop, starting at
+the cell, the cell is the only emf, so the sum of all emfs is 3.0 V.
+Following the same route to sumn the potential differences, we
+ignore the cell as it is an emf, not a pd. This means the sum of the
+pds will be
+V = V3 + V4 = 0.85 + 2.15 = 3.0 V
+As the current is flowing in the same direction through the cell
+and both variable resistor and fixed resistor, these voltages are all
+in the same direction, and so
+Le = EV
+1, = 0.4 A
+1, = 0.4 A
+fig B Current rule example circuit.
+94
+3.2
+4
+Emf and internal resistance
+By the end of this section, you should be able to...
+explain what is meant by internal resistance
+. describe an investigation to determine an emf's internal resistance
+make calculations of internal resistance
+All components have some resistance. The best ammeters have such a small resistance that
+the effect on their current measurements can be ignored, but it is not actually zero. Sources of
+electromotive force (emf), such as batteries, will also have a small, but non-zero, resistance. The
+resistance of an emf source is called its internal resistance. In most situations, the internal
+resistance of an emf source will not affect the performance of a circuit. It may not even be noticeable.
+However, as the power lost - energy wasted as heat - through a component increases with the current
+through it (see Section 3.2.5), there can be a significant power loss when large currents are used. The
+net effect of this energy usage by the emf source itself will be for it to supply a smaller voltage to the
+rest of the circuit, which could hamper the circuit's performance. A large current through the internal
+resistance could also damage the emf source as a result of ohrnic (resistance) heating.
+internal
+resistance,
+emf, 8
+fig A Any emf source could be considered to be a pure emf with a small resistive potential difference acting in series
+with the emf.
+The effect of having an internal resistance is that an emf will never be able to fully supply its notional
+maximum voltage. There will always be a small drop in voltage over the internal resistance and this
+drop will be bigger with a higher current. The pd over the internal resistance, r, can be found from
+Ohm's law:
+Vinternal = Ir
+This pd is sometimes referred to as 'lost volts', as the circuit appears to have fewer volts in use by
+the load than the emf should be supplying. A measurement of voltage across the terminals of a cell
+powering a circuit would not measure the emf; it would measure the emf minus the lost volts. This
+*terminal pd' would then be:
+Vterminal = 8 - Ir
+As all parallel branches have the same voltage across them, the terminal pd would also equal the pd
+across the load resistance.
+V terminal = Vload = € - Ir
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+fig B Circuit for demonstrating the effect of internal resistance
+100
+Complete electrical circuits
+3.2
+In fig G, the lamp is in parallel with the LDR, so will be powered by the same voltage as that across
+the LDR. The resistance of a LDR increases if the ambient light level drops (darker surroundings
+make its resistance go up). In bright conditions, the LDR has a very low resistance, so it takes a very
+small proportion of the 12 V supplied by the battery. This will make the lamp very dim, probably to
+the extent that it will appear to be off; it is not needed if the surroundings are bright. As conditions
+become darker, the LDR resistance goes up, increasing the proportion of the 12 V supplied that drop
+across it. This increases the voltage across the bulb, making it brighter. This circuit increases the
+brightness of the lamp as the surroundings become darker.
+Many electronic components have a switch on voltage of 5 V. These could be used with a
+sensor in a potential divider circuit, and would only switch on when the sensor's resistance
+reached a level where its pd was 5 V. Altering the resistor in this circuit would then control
+the sensor level at which the electronic component was switched on.
+WP
+Questions
+and R2 = 135 2. What
+A potential divider circuit supplied by an emf of 8 V has two resistors, R, = 125
+will be the output voltage across R ?
+2
+A potentiometer, as in fig F, is supplied by an emf of 15 V and has a 40 cm length of resistance wire. What
+voltage would be tapped off as Vout if the wiper was placed 10 cm from the top?
+3
+Draw a potential divider circuit, like that in fig G, which will drive a fan motor in a conservatory faster as it
+becomes hotter. (A standard thermistor has a higher resistance at lower temperatures.)
+4
+Fig H shows a length of resistance wire, with a contact that can rotate around a pivot to contact with
+more or less of the resistance wire. Explain how this represents a potential divider circuit and what will
+happen to the brightness of the lamp as the contact is rotated clockwise from the position shown.
+600CODUCT
+www
+fig H
+Kev definitions
+A potential divider circuit is designed to provide specific voltage values by splitting an emf across
+two resistors.
+A potentiometer is a version of the potential divider in which a single resistance wire is used in two parts
+to form the two resistances. A sliding connection on the wire can be adjusted to alter the comparative
+resistances and thus alter the output pd from the potentiometer.
+Complete electrical circuits
+3.2
+Questions
+Resistors branch combinations
+If a circuit has a mixture of series and parallel combinations, we
+must use the rules we have for each group of resistors and then
+use the rules again to combine these sub-totals.
+1 How does fig B illustrate the conservation of charge in a circuit?
+100k
+2
+If all four cell combinations in fig E were connected to each other in
+series, what would be the total emf?
+100k
+100kg
+3
+If R3 has a resistance of 242, how much current flows in fig)?
+| 12 V
+230V-
+fig 1 Calculate the total resistance of resistor groups separately, before using
+the appropriate rule to combine the sub-totals together.
+WORKED EXAMPLE
+R
+R
+R
+fig)
+Use Ohm's law on the resistors in fig K to verify that the voltage
+across parallel branches is always the same.
+In fig I, we must calculate the total resistance of the parallel pair
+first, and then add this total to the remaining 100k 2 that is in
+series with the pair. The junction separating the single resistor
+from the parallel pair is the clue as to how to separate the
+calculations.
+Parallel pair:
+1 1 1 2 1
+Rpara 100 100 100 50
+.. para = 50 k12
+12 V
+0.12 A
+10022
+Total resistance
+Rrotal = 100 kA + Rpara = 100 + 50
+Rtotal = 150k
+0.24 A
+502
+fig K
+Quantity
+Current
+Series circuit rules
+current is the same
+throughout
+Vtotal = V1 + V2
+Parallel circuit rules
+Motal = 11 + 12
+5 What is the total current that flows in fig I?
+Voltage
+6 (a) What is the total current flow through the cell in fig H?
+(b) How much current flows in the 48. resistor in fig H?
+voltage is the same on
+each branch
+1 1 1
+Rotal R R
+Resistance
+Riatal = R1 + R2
+table A Summary of the electrical rules in series and parallel circuits.
+Investigation
+Investigating circuit rules
+Make a complex circuit with various components in series and
+parallel combinations. Using only ammeter and voltmeter, your
+partner should be able to verify the circuit rules explained in this
+section. If the resistances are large, the ammeter may need to be a
+multimeter set to read milliamp currents.
+Join various resistors in various combinations of series and parallel
+connections. Your partner should calculate what they expect the
+overall resistance of the combination to be. Check whether they
+have calculated correctly by measuring the overall resistance of the
+resistor combination using an ohmmeter.
+93
+Complete electrical circuits
+3.2
+However, they both have the same current passing through them, so I1 = 12.
+V V2
+..
+RiR2
+V,
+R
+..
+V, R2
+So the voltage is split in the same proportion as the ratio of the resistances for any values of resistance.
+This means that for a known emf supply voltage, we can use carefully chosen resistances to share
+the voltage and provide a specific value of pd on one component. If we then also remember that all
+parallel branches in a circuit must have the same voltage, then any branch we set up in parallel with
+that specific pd will also have the same voltage. Thus, we can set up a circuit to provide an exactly
+chosen value of voltage to the parallel branch. Using variable resistors, this set up can then be used
+to provide whatever voltage we choose. This can be particularly useful if our emf source is a fixed
+value, like a battery, which can only supply, say, 6 V.
+resistance
+wire
+fig C Adjusting the variable resistor alters the proportion of the voltage it takes, and so the pd that is left for the
+resistance wire can be varied to any value we choose.
+In Section 3.1.3, we saw graphs of current against potential difference for various components. In
+order to undertake the investigation to produce these data, a potential divider circuit could be used.
+Fig C shows a piece of resistance wire for which the current and voltage can be measured. If the
+variable resistor is set to a high resistance, then it will have a high potential difference, and only a
+small voltage will be left for the test wire. By decreasing the resistance of the variable resistor, the pd
+across the test wire will increase, and we can adjust the variable resistor to set the values of pd on
+the test wire to those we need for the I-V plot.
+The potential divider equation
+As the pd in a potential divider circuit is split in proportion to the resistances of the components, we
+can calculate the pd across them mathematically.
+pd across
+resistance R
+1000
+12V (V
+input pd
+V
+V
+50002||
+output pd
+fig D Generalised potential divider circuit.
+In the circuit diagram of fig D, we have the general terminology for the values used in calculations of a
+potential divider circuit: Vout, R1, R, and Vin. Using these, we can calculate the pd across the component
+of interest, which is usually drawn as the second resistance, using the potential divider equation:
+R2
+Vout = Vin
+(R1 + R2)
+Complete electrical circuits
+3.2
++3A
+2A
+Current
+recombines
+here.
+Current
+splits
+up here.
+1A
+fig C Current splits at circuit junctions, but the total current will remain the same, in order to conserve charge.
+Voltages around circuits
+Learning tip (WP
+Voltages are measures
+of energy change as charge
+passes through a component,
+so they must be measured
+from one side to the other,
+i.e. the voltmeter must always
+be placed in parallel across
+the component
+fig D Voltmeters must always be in parallel across the component they are measuring.
+Voltages in series circuits
+Any group of emfs that follow in series in a circuit, with no junctions in the circuit, will have a total
+erf that is the sum of their individual values, accounting for the direction of their positive and
+negative sides. For example, two 1.5 V cells in a TV remote control will be in series, so that they
+supply an emf of 3.0 V. This is also true for any string of potential differences in series.
+- 1.5V -10 4.5V
+- 3.0V THE 3.0V
+fig E Emfs in series will add up. Take care to account for their direction, as cells in opposite directions oppose each
+other and cancel out the erf they would supply.
+0.2 A
+0.2A
+2 V
+fig F Potential differences in series will add up. What would be the total pd across the two resistors in this diagram?
+WORKED EXAMPLE
+In the circuit diagram of fig F, the two voltmeters measure the potential differences in the circuit.
+The total pd across both resistors will be the sum of their individual pds, so the total is 2V + 4 V = 6 V.
+97
+3.2
+Voltages in parallel circuits
+If the total voltage across any branch of a circuit is known, then
+the voltage across any other branch in parallel with it will be
+identical.
+Resistors in parallel
+The total resistance of a group of resistors in parallel can be
+calculated from the equation:
+1 1 1 1
+Rtotal RR R
+R 1622
+R2422
+R: 4802
+fig G Both voltmeters here will read 6 V: the voltage is the same across all
+parallel branches within a circuit.
+240V
+fig H Resistors in parallel follow a reciprocal sum rule to find their total
+resistance
+Resistance
+Resistance can be calculated from Ohm's law as This can
+be done for any individual component or a whole branch of a
+circuit, as long as the voltage and current are known. This also
+means that if we follow the rules for current and voltage variations
+around series and parallel circuits, we come up with simple rules
+for the total resistance in series and parallel combinations.
+WORKED EXAMPLE
+Resistors in series
+Any group of resistances that follow in series in a circuit, with no
+junctions in the circuit, will have a total resistance that is the sum
+of their individual values. In fig F, we could use the total pd across
+both resistors, and the current through them to calculate their total
+resistance:
+In the circuit diagram of fig H, what is the overall resistance of the
+block of three resistors?
+1 1 1 1
+Rotal RRR
+1.1.1.1
+Rrotal 16* 24 * 48
+1 3.2.1
+Riot 48 48 48
+1.6
+11
+Resta
+48
+total R = total V. 6
+ī 02 = 3002
+Rrotal
+Rrotal = 80
+You will see that this matches with our rule that
+Rtotal = R + R2 = 10 + 20 = 300
+Learning tin
+Any combination of resistors in parallel will have a total resistance
+that is smaller than the smallest individual resistance in the group.
+Learning tip
+Ammeters in series, and voltmeters in parallel, do not affect
+total resistance and can be ignored.
+WP
+Derivation
+Resistors in parallel will have a total current through them that is
+the sum of their individual currents. The pd across them will be
+the same for each branch. Take an example of three resistors in
+parallel
+Derivation
+Resistors in series will have a total pd across them that is the sum
+of their individual pds. The current through them will be the same
+for each one. Take an example of three resistors in series:
+potential difference: Viotal = V1 + V2 + V3
+and V = IR
+i Rtotal = IR+ IR, + IR:
+current: Itotal = 11 + 12 + 13
+and I =
+VV.V.V
+Rtotal R R2 R3
+1.1.1.1
+Riotal R. R2 R3
+1
+Rotal = R1 + R2 + R3
+3.2
+WORKED EXAMPLE
+Using the values in fig D, we can find the pd across resistor Rz:
+V=
+VR
+in * (R+R)
+Vout = 12 *_500
+(100+500) = 12
+Vout = 10V
+The potentiometer
+supply
+(wiper)
+out
+fig E A potentiometer allows us to supply any voltage up to the maximum provided by our emf source.
+OV
+OV
+(common)
+fig F Adjusting the position of
+the slider (Wiper) on the
+potentiometer changes its
+position on the resistance
+wire, so that the proportions
+of resistance on either side
+change, altering the potential
+differences on either side of
+the wiper.
+The idea of using a potential divider to supply a variable voltage as required has been
+incorporated into an electrical component called the potentiometer. A moveable contact
+can slide over a fixed length of resistance wire, adjusting the length that is on either side of this
+'wiper'. The two lengths of wire are the two resistors in our potential divider circuit. Adjusting their
+relative lengths alters their relative resistances and hence the voltage across each. If we want to
+power a separate circuit with a variable voltage, we connect it across one side of the potentiometer.
+This is shown in fig F, where we would connect the right-hand side connections across R to our
+main circuit. The blocks marked R and R are a continuous piece of resistance wire, which will be
+split into two resistances by the position of the wiper. Adjusting the wiper up and down allows us to
+tap off any desired voltage up to the maximum of supply.
+Potential dividers in sensor circuits
+If one of the resistors in a potential divider is a sensor component (such as thermistor or LDR) then
+we can use its changing resistance to control an external circuit.
+fig G A sense and control Circuit which makes the light brighter as the ambient light level drops.
+98
+Thinking Bigger
+| 3.2
+Let us start by considering the nature of the writing in the press release.
+1. The extract opposite consists of an article from the News section of the NASA website.
+Consider the extract and comment on the type of writing that is used in each case.
+Try and answer the following questions:
+a. Discuss the level of scientific detail included in the article, particularly considering the
+intended audience.
+b. Explain three different reasons why NASA would post this news article at all.
+Think about what NASA
+might expect to gain
+from this being made
+public information. NASA
+is the American space
+agency – the National
+Aeronautics and Space
+Administration.
+Now we will look at the physics in detail. Some of these questions will link to topics elsewhere in
+this book, so you may need to combine concepts from different areas of physics to work out the
+answers. Use the timeline at the bottom of the page to help you put this work in context with what
+you have already learned in your course.
+158050005706800
+2. Curiosity rover is powered by a radioisotope electricity generating unit, which has a
+power of 110 watts when functioning correctly. What would be the current through the
+main 32 volt power bus that distributes all of the electrical power?
+3. The power bus uses potential dividers to provide the appropriate voltage to each
+separate electrical circuit from its basic 32 V supply.
+a. The article refers to an earlier voltage drop incident from the standard of 16 V down
+to 11 V. Suggest two resistance values that could be used in a potential divider, from the
+main power bus supply, to give an output voltage equal to 16V.
+b. If a 'soft short' had caused that drop down to 11 V, suggest what the resistance of the
+short circuiting object would be, based on your answer to part (a).
+c. What further resistance would another soft short object need to further reduce the
+voltage from 11 V down to 4V?
+4. NASA claim that the rover can function perfectly normally across these variations in
+supply voltage
+a. Why would it be important that the plutonium cell generating emf has as low a
+resistance as possible, especially in the event of a short circuit reducing the overall
+resistance?
+b. Explain how an item of debris touching electrical circuitry could reduce the
+resistance of that circuit.
+Choose any values
+of R and R for your
+potential divider that
+will share the voltage to
+give the correct output
+values. Use your initial
+Suggested values as a
+basis for answering all
+parts of the question.
+Activity
+Once the problem with Curiosity's voltage supply was determined and rectified, NASA needed to produce
+another press release explaining this. Prepare a half page of text to be included in the second press release
+which explains how the materials used in the electric circuitry on the rover will be affected by the cold
+temperatures on Mars. Particularly concentrate your explanation on the electrical properties of the
+materials.
+00000000000000
+The 'flying bus' system
+uses a number of
+different available
+resistances to change
+how the voltage is
+divided, depending on
+the emf available. Some
+of the components will
+be made from metal,
+and some will be made
+from semi-conductors.
+The temperature on the
+surface of Mars ranges
+from 20°C to -150°C,
+with -55 °C being a
+typical value.
+From a news story on the website of NASA, www.jpl.nasa.gov/news
+ARE
+4.1
+4.2
+5.1
+5.2
+5.3
+5.4
+107
+Complete electrical circuits
+3.2
+Questions
+In fig D, use Ohm's law to find the current through ammeter Az.
+Next, consider just the closed loop containing the fixed resistor
+and the lamp. If Xe = SV, and there are no emfs, the pds must
+total zero. Starting at point A and moving clockwise around the
+loop, the current moves through the lamp, which is measured at
+V.= 0.85 V. Continuing to point B and then back up to complete
+the loop at A means going through the fixed resistor against the
+flow of the current. This means the pd will be negative, although
+also 0.85 V. So in this consideration, Vj = -0.85 V.
+V = V3+V4= -0.85 +0.85 = 0
+= IV
+2
+The current through the cell in fig Dis 1.35 A. Use your answer
+from question 1 to show that the circuit junction between the two
+ammeters in fig D conserves current.
+Demonstrate by calculation that the lower loop in the circuit in
+fig D conserves energy
+4 Find the emf of the cell in fig E.
+H---TA
+Voltages rule with calculated pds
+Potential differences are the product of currents passing through
+resistances, in order to use up electrical energy. Thus, each pd
+could be calculated from Ohm's law as V = IR. So this becomes:
+Le = XIR
+0.38 A
+0.38 A
+R = 7.522
+1022
+2022
+1 = 0.45 A (A)
+R
+= 2.5.12
+KR
+fig E Using the voltages circuit rule.
+4)
+R = 5.00
+11
+27
+Kev definitions
+Electric current rule
+The algebraic sum of the currents entering a junction is equal to
+zero.
+XI = 0
+Voltages circuit rule
+Around a closed loop, the algebraic sum of the emfs is equal to the
+algebraic sum of the pds.
+Is = EIR
+V = 4.5 V
+fig D Confirming X8 = XIR.
+In fig D, we can confirm the voltages rule around the upper closed
+loop, through the cell, ammeter Aj, lamp and variable resistor. The
+only emf is the cell, and this will have an emf of 4.5 V, as shown
+on the voltmeter at the bottom of the diagram.
+Le = 4.5 V
+Ammeters have zero resistance, and so A, contributes nothing to
+the sum of pds. The current must be the same through the lamp
+and the variable resistor, so the sum of the potential differences
+will be calculated from:
+XIR = 1, R1 + R2 = (0.45 x 7.5) + (0.45 x 2.5) = 3.375 + 1.125
+SIR = 4.5 V
+. Le = XIR
+95
+3.2
+Potential dividers
+By the end of this section, you should be able to...
+. describe and explain potential divider circuits
+make calculations in potential divider circuits
+explain uses for potential divider circuits
+NNNNNN
+fig A Fixed emfs can be problematic when components require a lower voltage.
+We have seen that all the voltage supplied by emfs in a circuit loop must be used by components as
+potential differences at other points around the circuit loop. The way that the voltage splits up is in
+proportion to the resistances of the components in the circuit loop, as shown in fig B. The voltages
+across the two resistors must add up to 6 V. The 20 resistor has twice the resistance, so takes twice
+the voltage of the 10 resistor. This is a potential divider circuit.
+6V
+-E----A
+0.2A
+0.2A
+100
+200
+2V
+fig B All of the 6 volts supplied by the battery must be used up by the resistors. The total pd of 6V is split into 2 V and
+4V in proportion to their resistances. Ammeters have zero resistance, so use zero energy and have zero pd.
+Ohm's law explains why the voltage is split in proportion to the resistance. Consider the resistances
+and voltages in fig B in more general terms, as R1 (for the 10 resistor) and R. and their
+corresponding pds V and V2. This will make the calculation valid for all values of resistances, and
+calculating the current through each one gives:
+1 and 12 =
+96
+3.2 Exam-style questions
+1 Which of the following is an expression for calculating the
+power in an electrical circuit?
+(a) Ext
+(b) VXI
+(c) VxIxt
+(d) QXI Xt
+[1]
+[Total: 1]
+The current in lamp A is ........... ............ the
+current in lamp B.
+The pd across lamp A is..
+....... the pd
+across lamp B.
+The resistance of lamp A is ...
+............ the
+resistance of lamp B.
+(b) The same bulbs are now connected in parallel with the battery
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+HR..
+2 Three 12 12 resistors are connected together. Which value
+below could not be the total resistance of the combination?
+(a) 20
+(b) 40
+(c) 81
+(d) 180
+[1]
+[Total: 1]
+lamp B
+lamp A
+State which bulb will be brighter and explain your answer. [3]
+[Total: 6]
+3 A 6 V emf cell lights a filament bulb. Current and potential
+difference readings on the filament bulb are: V = 5.8 V,
+1=0.44 A. What is the internal resistance of the cell?
+(a) 0.2012
+(b) 0.45.2
+(c) 7.82
+(d) 13.62
+[Total: 1]
+[1]
+6 A student is asked to explain which of two filament lamps will
+be brighter when they are connected in parallel across a power
+supply. She is told that the resistance of lamp A is greater than
+the resistance of lamp B.
+The student wrote the following explanation that contains
+some mistakes:
+"The current is the same in both lamps. Because lamp A has a
+higher resistance, it is harder for the electrons to move through
+this lamp so they will lose more energy. Lamp A will therefore be
+brighter than lamp B.
+Write a correct explanation.
+[5]
+[Total: 5]
+4 The current / in a length of aluminium of cross-sectional area
+A is given by the formula
+I=nev A
+where e is the charge on an electron.
+(a) State the meanings of n and v.
+(b) Show that the units on the left hand side of the equation are
+consistent with those on the right hand side.
+[Total: 5]
+[2]
+7 A circuit is set up as shown in the diagram. The battery has
+negligible internal resistance.
+[3]
+5 (a) Two lamps A and B are connected in series with a battery.
+8002
+-
+-
+-
+-
+9V :
+4022
+lamp B
+lamp A
+Lamp B glows more brightly than lamp A. Complete each of
+the sentences by choosing one of the phrases in the box. [3]
+| equal to greater than less than
+(a) Calculate the potential difference across the 40 12
+resistor
+(b) A thermistor is connected in parallel with the 401
+resistor as shown.
+[2]
+108
+Exam-style questions
+3.2
+800
+(1) By mistake, the kettle is connected to the 110 V supply.
+Assuming that the working resistance of the kettle
+does not change, calculate the time it would take for
+the same amount of water to reach boiling point. [3]
+(ii) Explain what might happen if a kettle designed to
+operate at 110 V is connected to a 220 V supply. [2]
+[Total: 9]
+cu to
+The thermistor is initially at a temperature of 100°C and its
+resistance is 20 1. As the thermistor cools down, its resistance
+increases.
+Explain what happens to the current through the battery as the
+temperature of the thermistor decreases.
+[Total: 5]
+10 Mobile phones have a rechargeable battery which is
+recharged by means of a mains adaptor. One such adaptor
+has an input power of 4.8 W at a voltage of 230 V.
+(a) Calculate the input current to the adaptor when it is
+in use.
+[2]
+(b) The adaptor's output is labelled as 5 V 0.1 A 0.5 VA.
+(1) Show that the unit V A is equivalent to the watt. [1]
+(ii) Calculate the efficiency of the adaptor.
+[2]
+(iii) Suggest a reason why the efficiency is less than
+100%.
+[Total: 6]
+[3]
+11 Electrically heated gloves are used by
+skiers and climbers to provide extra
+warmth for their hands.
+Each glove has a heating element of
+resistance 3.6 1. Two cells each of
+e.m.f. 1.5 V and internal resistance 0.21
+are used to operate each heating element.
+8 Many computers operate through an uninterrupted power
+supply (UPS) to protect them and the information stored on
+them from power surges or power cuts. A UPS will run the
+computer from the mains supply until it detects a problem and
+then the computer will run off the UPS's rechargeable battery.
+A UPS is rated by the maximum power that it can provide to
+the computer. The unit that is used is the volt-amp (VA).
+(a) Use expressions for potential difference and current to
+show that the volt-amp is equivalent to the watt. [3]
+(b) Each cell of the rechargeable battery has an internal
+resistance. An advertisement for a UPS states that, at an
+output power to the computer of 700 W, it can provide a
+continuous supply for 7 minutes.
+(i) Calculate how much energy is provided in this time. [2]
+(ii) The advertisement also states that if the output power
+is halved, the supply will last for 23 minutes. Without
+doing any calculations, explain why halving the power
+output more than doubles the time.
+[3]
+[Total: 8]
+-
+-
+-
+1.5V
+-
+-
+-
+-
+-
+1.5V
+22
+-
+-
+-
+-
+-
+-
+-
+22
+-
+H0.29
+-
+-
+- - -
+-
+-
+-
+-
+r -
+3.622
+9 (a) A kettle is rated at 1 kW, 220 V.
+Calculate the working resistance of the kettle.
+(b) When connected to a 220 V supplied, it takes 3 minutes for
+the water in the kettle to reach boiling point.
+Calculate how much energy has been supplied.
+(c) Different countries supply mains
+electricity at different voltages.
+Many hotels now offer a choice
+of voltage supplies as shown
+in the photograph.
+(a) When the switch is closed:
+(i) Calculate the total resistance in the circuit
+(ii) Calculate the current in the heating element
+(iii) Calculate the power output from the heating element.
+[2]
+(b) When in use the internal resistance of each cell gradually
+increases
+State and explain the effect this will have on the power
+output of the heating element.
+[Total: 8]
+[3]
+12 Explain how the current and voltage rules for electrical
+circuits are expressions of the conservation of charge and
+the conservation of energy.
+[Total: 6]
+[6]
+109
+BIGGER
+CURIOUS VOLTAGE DROP O
+One of the most important components for robotic spacecraft is their electrical power supply.
+The electrical system on NASA's Mars explorer, Curiosity, is designed to function over a large range
+of voltages, in case of supply disruption.
+ROVER TEAM WORKING TO DIAGNOSE
+ELECTRICAL ISSUE
+The team detected a change in the voltage difference between the
+chassis and the 32-volt power bus that distributes electricity to systems
+throughout the rover. Data indicating the change were received on
+Sunday, during Curiosity's 456th Martian day. The level had been
+about 11 volts since landing day, and is now about 4 volts. The rover's
+electrical system is designed with the flexibility to work properly
+throughout that range and more - a design feature called 'floating bus.'
+A soft short can cause such a voltage change. Curiosity had already
+experienced one soft short on landing day in August 2012. That one
+was related to explosive-release devices used for deployments shortly
+before and after the landing. It lowered the bus-to-chassis voltage from
+about 16 volts to about 11 volts but has not affected subsequent rover
+operations.
+The analysis work to determine the cause of the voltage change has
+gained an advantage from an automated response by the rover's
+onboard software when it detected the voltage change on Nov. 17. The
+rover stepped up the rate at which it recorded electrical variables, to
+eight times per second from the usual once per minute, and transmitted
+that engineering data in its next communication with Earth. That data
+was quite helpful,' Zimmerman said.
+fig A This self-portrait of NASA's Mars rover Curiosity combines 66 exposures
+taken by the rover's Mars Hand Lens Imager (MAHLI) during the 177th
+Martian day, or sol, of Curiosity's work on Mars (Feb. 3, 2013).
+Science observations by NASA's Mars rover Curiosity have been
+suspended for a few days while engineers run tests to check possible
+causes of a voltage change detected on Nov. 17.
+"The vehicle is safe and stable, fully capable of operating in its present
+condition, but we are taking the precaution of investigating what may
+be a soft short,' said Mars Science Laboratory Project Manager Jim
+Erickson at NASA's Jet Propulsion Laboratory, Pasadena, Calif.
+A 'soft' short is a leak through something that's partially conductive
+of electricity, rather than a hard short such as one electrical wire
+contacting another.
+The electrical issue did not cause the rover to enter a safe-mode
+status, in which most activities automatically cease pending further
+instructions, and there is no indication the issue is related to a computer
+reboot that triggered a 'safe-mode' earlier this month.
+NASA's Mars Science Laboratory Project is using Curiosity inside Gale
+Crater to assess ancient habitable environments and major changes in
+Martian environmental conditions. JPL, a division of the California
+Institute of Technology in Pasadena, built the rover and manages the
+project for NASA's Science Mission Directorate in Washington.
+Where else will I encounter these themes?
+1.1
+2.1
+2.2
+2.3
+3.1
+3.2
+Yo
+HER
+106
+Complete electrical circuits
+3.2
+Questions
+1 How much work is done by the resistor in the circuit in fig E if the circuit is switched on for 11 seconds?
+power supply
+ammeter
+1.8
+resistor
+w
+1.03
+voltmeter
+fig E A resistor circuit.
+2 What is the power dissipated by the resistor in fig E?
+3 What power is dissipated by a 4700 resistor when:
+(a) current of 1.76 A passes through it?
+(b) it is measured with a pd of 9.0 V?
+4
+(a) What is the efficiency of the electric heater in fig F?
+(b) Why would your answer to part (a) be the same if you consider the heater switched on for one hour,
+and if you consider it switched on for two hours?
+100 J of 1J of light 4J of sound energy
+electrical
+energy
+useful energy
+output
+energy
+input
+95 J of heat
+energy
+fig F Energy flows through an electric heater.
+Compact fluorescent lamps have a tube containing a gas, which glows when electricity passes through it.
+These are much more efficient than filament, lamps in which a metal wire glows when it is red hot due
+to the ohmic heating current flow through it. Explain why compact fluorescent lamps are much more
+efficient than filament lamps.
+Kev definitions
+The effectiveness of a machine at converting energy usefully is called efficiency:
+efficiency - useful work done
+total energy input
+useful energy output
+efficiency =
+total energy input
+105

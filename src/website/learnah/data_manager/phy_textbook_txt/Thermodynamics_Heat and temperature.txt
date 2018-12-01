@@ -1,0 +1,1105 @@
+Heat and temperature
+9.1
+WORKED EXAMPLE
+-
+-m
+What is the pressure of 3 moles of helium contained in a child's
+balloon, if the molecules have an rms speed of 1350ms), and the
+radius of the balloon is 20 cm?
+(mass of one helium atom, m = 6.65 x 10-27 kg)
+PV = Nm<ca>
+pNm<c<>/V
+V = Tr3 = 3.35 x 10-2m
+N = nNa= 3 * 6.02 x 103 = 1.806 x 1024 molecules
+<c<> = 13502 = 1822 500 m25-2
+1.806 x 1024 x 6.65 x 10-27 x 1822 500
+3 (3.35 x 10-2)
+p = 218 000 Pa
+Compare this example with the worked examples in Sections 9.1.2
+and 9.1.4.
+2.0 kg of carbon dioxide is stored in a fire extinguisher at a pressure
+of 8.6 MPa. The extinguisher is a cylinder of height 490 mm and
+diameter 180 mm. What is the rms speed of the carbon dioxide
+molecules?
+PV = Nm<c2
+3pV
+Nm
+V= r2h = 7 * (90 x 10-) x 490 x 10-3 = 0.0125 m3
+Nm is the total mass of molecules present, 2.0kg.
+3pv
+Average molecular kinetic energy
+The ideal gas equation from Section 9.1.4 is:
+PV = NKT
+and from above:
+PV = 3 Nm<c>
+Putting these together:
+Nm<c2> = NKT
+m<> = KT
+Multiply both sides by :
+m<c>> = KT
+. im<c»> = KT
+We saw the above equation in use in Section 9.1.2, and this
+derivation shows that it is a consistent consequence of the kinetic
+theory of gases.
+Questions
+The molar mass of air is 29 g mol-1
+| Explain how the kinetic theory equation is fundamentally based on
+Newton's second and third laws of motion.
+Z
+A 500 ml bottle contains air at a pressure of 1 x 105 Pa. How many
+air molecules are in the bottle, if their rms speed is 520 m s-?
+<c>= Nm
+3 x 8.6 x 106 x 0.0125
+2.0
+= 161 250 m2 5-2
+(a) What is the pressure of 2.48 kg of air contained in a scuba diving
+tank, if the molecules have an rms speed of 500 ms and the
+cylinder is of height 500 mm and diameter 160 mm?
+(b) What would be the new rms speed of the molecules in the
+scuba tank when it is immersed in water so its temperature
+becomes 12°C?
+...
+V<c<> = 402 ms-1
+137
+THINKING
+BIGGER
+REACH FOR THE SKY! ☺
+Unmanned balloons can fly high into the Earth's atmosphere from a ground-based launch, and are
+regularly used for making a huge range of experimental measurements. Amateur balloon launches
+are becoming increasingly common as the costs have fallen significantly.
+Here, the UK High Altitude Society explains the basic science behind the hobby.
+A BEGINNER'S GUIDE TO HIGH ALTITUDE
+BALLOONING
+fig A Launching a high altitude balloon.
+Balloon flight theory
+The general theory is:
+• A payload (an insulated box containing some electronics such as
+a GPS and a radio to allow you to follow progress) is attached
+to a balloon which is filled with helium (He).
+The balloon is released and, as He is lighter than air, the balloon
+rises and pulls the payload with it.
+. As the balloon rises the outside pressure decreases which leads
+to the helium inside the balloon expanding (imagine like it's
+expanding to fill the gap as the outside pressure decreases), this
+causes the balloon to stretch.
+The balloon is made of a form of latex and is incredibly stretchy.
+However it gets to a point where it can't stretch any more and
+bursts.
+Now that there isn't any upward pull from the balloon the
+payload begins to fall to earth pulled by gravity, as it falls the
+parachute opens up slowing its descent and it gently glides down
+to earth.
+Throughout the flight the GPS module in the payload box is
+providing information on its position, this information is passed
+through a microcontroller which reads the info and converts it
+into another protocol and in most payloads transmits the data
+over a radio link to the ground station. As a backup sometimes
+there is also a mobile phone which sends the data as a SMS as
+well (however this will only work near to the ground as mobile
+phones don't get signal at high altitudes).
+Therefore if you want to fly a HAB mission you need to
+construct a payload box with a tracking device (e.g. GPS
+module, microcontroller and then a radio/mobile phone).
+Additional components include for example cameras and
+temperature sensor. You also will need a parachute, a balloon
+and some helium and permission to launch.
+Permission in the UK comes from the CAA (Civil Aviation
+Authority). For more details see http://ukhas.org.uk/
+general:restrictions_legality. Two sites in the UK (both in
+Cambridgeshire) maintain rolling permissions to launch, please
+email the mailing list to get in touch if you're interested in this
+option.
+Getting a system that works is harder than it sounds, HAB
+payloads are difficult to test in advance so there is a failure rate
+that unfortunately affects us all. The better planned a payload/
+flight the less chance of something going wrong. If something
+doesn't go to plan you just need to learn from the problem, fix it
+and try again – it has happened to us all!
+• Extract from the website of the UK High Altitude Society, http://ukhas.org.uk/
+general:beginners_guide_to_high_altitude_ballooning, as at 6 November 2014
+Where else will I encounter these themes?
+Book 1
+6.1
+6.2
+7.1
+7.2
+7.3
+8.1
+138
+TOPIC 9
+Thermodynamics
+CHAPTER
+19.1
+Heat and temperature
+Introduction
+When scuba divers need to surface in an emergency, they are trained to scream all the way up. This may sound a little
+WP bizarre, but the training is designed to ensure that they do not have to think about expelling the gas in their lungs, but
+will do so automatically through the screaming. As the pressure decreases on their way to the surface, the air in their
+lungs expands. This could be very dangerous to their internal organs, particularly their lungs, and so the air must be expelled at
+least as fast as it expands. This is illustrated in a similar although less extreme scenario: the bubbles from a diver's normal
+exhaled breath will slowly get larger as they rise to the surface.
+This chapter is all about the energy held by individual molecules, and how on a large scale this energy is responsible for many
+macroscopic effects, such as the pressure exerted by a gas on a diver's lungs. We will learn about a large number of rules
+governing the properties of gases, including their pressure, temperature, density, volume and quantity. These will be explained
+from first principles in terms of the collisions of the molecules that make up the gas. In a more general sense, we will see how
+the energy possessed by a group of molecules leads to the temperature of a sample and the transfer of heat energy.
+All the maths you need
+• Recognising and use of appropriate units (eg. converting between temperature scales)
+• Finding arithmetic means (e.g. mean square speeds of gas molecules)
+• Use of ratios (e.g. illustrating the gas laws)
+• Estimating results (e.g. predicting the outcome on a gas of changes in its properties)
+• Substituting numerical values into equations (e.g. calculations using the ideal gas equation)
+124
+9.1 Exam-style questions
+[Note: In questions marked with an asterisk (*), marks will be awarded
+for your ability to structure your answer logically showing how the
+points that you make are related or follow on from each other.
+5 When your diaphragm contracts, the pressure in the chest
+cavity is lowered below atmospheric pressure and air is forced
+into your lungs.
+CONNEN
+1 If a fixed mass of gas in a weather balloon moves to a new
+situation where the temperature is halved, and the pressure is
+also halved, what would happen to the volume of the balloon?
+A It would stay the same.
+B It would become a quarter of its original value.
+C It would halve.
+D It would double.
+[Total: 1]
+[1]
+2 How much energy is needed to melt 100 g of lead at 600 K?
+Specific latent heat of fusion of lead = 23 kJ kg
+Melting point of lead = 327°C
+A 2.3J
+B 23J
+C 2300 kJ
+D 2300J
+[1]
+[Total: 1]
+(a) The diaphragm contracts and the lung capacity increases
+by 20%. State two assumptions you would need to make to
+calculate the new pressure in the lungs if the initial pressure
+is known
+[2]
+(b) (i) The volume of air inhaled in a typical breath is
+2.5 x 10-4mº and an adult takes about 25 breaths per
+minute. Show that the mass of air taken into the lungs
+each second is about 1 x 10-4kg.
+Density of air = 1.2 kg m-
+[2]
+(ii) If body temperature is 37.6°C and the temperature
+outside the body is 20.0°C, calculate the rate at which
+energy is used to warm air up to body temperature.
+Specific heat capacity of air = 1000 Jkg K-1 [2]
+[Total: 6]
+6 A student uses the apparatus shown to investigate the
+relationship between pressure and volume of a gas.
+3 The molar mass of oxygen molecules is 16 g. Assuming oxygen
+behaves as an ideal gas, what is the root-mean-square speed of
+oxygen molecules in a sample kept at 15®C?
+A 21ms!
+B 150ms-
+C 670 ms?
+D 440 000 ms
+strong glass tube
+- trapped air
+pressure gauge
+4 (a) A typical aerosol can is able to withstand pressures up to
+12 atmospheres before exploding. A 3.0 x 10-4m aerosol
+contains 3.0 X 1022 molecules of gas as a propellant. Show
+that the pressure would reach 12 atmospheres at
+a temperature of about 900 K
+1 atmosphere = 1.0 105 Pa
+*(b) Some such aerosol cans contain a liquid propellant. The
+propellant exists inside the can as a liquid and a vapour.
+Explain what happens when such an aerosol can is heated
+to about 900 K.
+[3]
+[Total: 5]
+[2]
+pump
+oil reservoir
+140
+9.1
+1
+Heat and temperature
+By the end of this section, you should be able to...
+define the concept of absolute zero and explain how the
+average kinetic energy of molecules is related to the absolute
+temperature
+• identify the differences between scales of temperature
+measurement
+WP
+explain how a thermistor can be calibrated in a potential
+divider circuit to act as a thermostat
+Temperature
+Heating an object causes its temperature to rise. This seems a
+very obvious statement, based on our everyday experience, but
+what is really happening when we heat an object, and what do we
+mean by 'temperature"?
+To understand the concept of temperature, we need to think
+about materials in terms of the molecules from which they are
+made. According to the kinetic theory, when energy is supplied
+to an object the molecules in that object take up the energy as
+kinetic energy, and move faster. In solids, this is usually in the form
+of vibrations, whereas if we are considering a gas, we imagine the
+molecules whizzing around their container at a greater speed. It is
+this kinetic energy that determines the temperature. If the average
+kinetic energy of the molecules of a substance is greater, then it is
+at a higher temperature.
+It is important to remember that the internal kinetic energy on the
+atomic scale is separate from the idea of overall movement of the
+object. For example, as a cricket ball flies through the air, it has
+kinetic energy due to its overall movement. In addition to this, its
+molecules will be vibrating within it, and it is this internal aspect
+of the energy that determines the temperature.
+of molecules, then there will come a moment when all the kinetic
+energy has been removed from the substance. The molecules will
+no longer be moving at all. At this point, the temperature is said to
+be absolute zero.
+Different scales of temperature have historically placed
+zero in arbitrary places compared with the average
+internal kinetic energy of the molecules. For example,
+Anders Celsius chose the freezing point of pure water as the
+zero on his temperature scale, but Daniel Gabriel Fahrenheit
+placed zero at 32 degrees below the freezing point of water
+(in the expectation that there would never be a temperature
+colder than 0 °F to measure!). On these scales, absolute zero is
+at -273.15°C and -459.67 °F. In 1848, Lord Kelvin defined an
+absolute temperature scale which started with zero at absolute
+zero. For convenience, he made the gaps in his scale identical
+to those on the Celsius scale. This is known as the Kelvin scale
+of temperature, or sometimes as absolute temperature. As
+the units begin from a definite zero and go up as we add even
+amounts of energy to the particles of the substance being
+measured the various temperatures are not compared to
+something else (such as the freezing point of water). This is why
+the term absolute temperature is used. We do not use the word or
+symbol for degrees' when quoting values on the Kelvin scale. For
+example, the temperature at which lead becomes superconducting
+is 7.19 kelvin, or 7.19 K.
+The Scottish engineer William Rankine proposed a similar absolute
+temperature scale, with degrees separated by the same amount as
+in the Fahrenheit scale. The Rankine scale is now obsolete.
+fig A A stationary piece of metal has no kinetic energy. Yet all its atoms are
+vibrating all the time. Although overall these tiny velocities must sum to
+zero (or else it would be moving), their kinetic energies give the object
+its temperature.
+Absolute temperature
+Taking energy away from the molecules of a substance causes
+its temperature to become lower. If you imagine a situation in
+which energy is continuously being taken away from a collection
+fig B William Thomson, who was made Baron Kelvin of Largs in 1892, was one
+of Britain's most prolific and important scientists. He is buried next to
+Isaac Newton in Westminster Abbey.
+126
+What have I studied before?
+• The pressure on a solid
+Density
+The conservation of momentum and energy
+Impulse and momentum change
+• Collisions and Newton's laws of motion
+• The kinetic energy equation
+The potential divider
+What will I study later?
+Nuclear reactor heat generation and power
+stations
+The importance of heat pressure in stars and
+stellar development
+The emission of stellar radiation following black
+body curves
+Simple harmonic motion
+Resonance and damping in molecular energy
+transfer
+What will I study in this chapter?
+The difference between heat and temperature
+• Scales of temperature
+• The kinetic theory of gases
+• The ideal gas equation
+• Basic gas laws
+Internal energy and the distribution of energy
+through a gas sample
+• Black body radiation
+125
+Thinking Bigger
+9.7
+Let us start by considering the nature of the writing in this webpage.
+000000000
+1. The extract consists of an article from a UK-based volunteer society.
+a. Comment on the style of the writing, in particular the quantity of paragraphs and level
+of vocabulary used.
+b. Give two reasons why the level of physics detail about the physical theories behind
+balloon flight is relatively low.
+2. Explain why a detailed understanding of the gas laws governing the flight of the balloon
+is likely to be less important to balloon hobbyists than their capabilities with electronic
+equipment.
+Consider who is the
+intended audience, and
+what they would be most
+interested in learning
+about high-altitude
+balloon experiments.
+Now we will look at the physics in detail. Some of these questions will link to topics elsewhere in this
+book, so you may need to combine concepts from different areas of physics to work out the answers.
+3. a. Explain this quote from the text: 'He is lighter than air'.
+b. Draw a free-body force diagram of the balloon at the moment of release at the
+ground.
+c. Explain how the forces in your diagram in part b have magnitudes that mean there is a
+resultant upward force.
+d. A larger balloon can carry a heavier payload, but why would it also reduce flight time?
+4. As the balloon rises, it expands until it bursts.
+a. With reference to any relevant gas laws, explain why the balloon expands.
+b. A common type of balloon will be 80 cm in diameter at ground level (15°C and
+101 000 Pa pressure). If it expands to 4 times this diameter by the time it reaches
+25 000 m altitude (-52°C), what is the pressure at this height?
+c. Compare the average kinetic energy of air molecules at 25 000 m altitude with those
+at ground level.
+d. Draw a stress-strain curve for the balloon latex, from the moment of release to the
+point the balloon bursts, labelling significant points on the curve with explanations of
+their importance.
+UVV
+Consider the ideal gas
+equation, and which
+quantities in it will remain
+constant during the
+flight.
+v
+uru
+Activity
+Write a proposal for the extracurricular budget holder in your school outlining the idea of setting up a
+High Altitude Balloon Club in the school. The proposal should explain the basic idea of the formation of
+the club, including an experimental purpose for your launch. You should include details of the timescale
+required for developing the equipment, a price list of the apparatus required, and information on how you
+will obtain necessary national and local permissions.
+Your proposal should
+entice the budget holder
+to pay for the club and at
+least one balloon launch.
+Consider what they are
+likely to want to get for
+the school from these
+funds, for example good
+publicity and an activity
+for as many students as
+possible. Minimised and
+well-controlled costs are
+some of the issues they
+may need to think about.
+YOU ARE
+>
+8.2
+8.3
+9.1
+HERE
+10.1
+11.1
+12.1
+13.1
+139
+Heat and temperature
+9.1
+Questions
+refers to large quantities of gases, as we may find in a balloon, for
+example. If we change from the Boltzmann constant, k, to using
+the gas constant for entire moles:
+PV = nRT
+where n is the number of moles of the gas, and Ris the universal
+gas constant, R= 8.31 Jkg-mol-1.
+(a) Draw a labelled diagram of the apparatus you would use
+to verify that the pressure exerted by a fixed mass of gas at
+constant temperature is inversely proportional to its volume.
+(b) State the readings you would take. Explain how you would use
+your measurements to verify this relationship between pressure
+and volume. You may be awarded a mark for the clarity of your
+answer.
+(c) State one precaution that you would take in order to ensure
+accurate results.
+2
+Explain why a sample of air will not behave exactly as an ideal gas.
+The mole
+The mole (abbreviated to mol) is an ŞI unit used to measure the
+amount of a substance. One mole of a substance is defined to
+consist of Avogadro's number of molecules of that substance.
+NA is the symbol for Avogadro's number: 6.02 x 1023
+For one mole of an ideal gas:
+pV=RT
+Comparing this with the equation of state:
+PV = NAKT
+:: NAX k=R
+6.02 x 1023 x 1.38 x 10-23 = 8.31
+WORKED EXAMPLE
+3
+Assuming air to be an ideal gas, calculate the number of moles of air
+left in a scuba diver's tank if it has a volume of 12 litres and, when in
+15°C water, the pressure is 2 x 107 Pa.
+4
+Devise an experiment to verify Charles's law. Using a diagram,
+explain the measurements that would be made, how you would
+keep the control variables constant, and how your results could be
+analysed to show that you had 'proven' Charles's law.
+What would be the pressure in a child's helium balloon at 20°C,
+if it is a sphere of radius 20 cm, containing three moles of helium
+gas?
+V = r = (0.2) = 3.35 x 102m2
+N = 3 x NA
+= 3 x 6.02 x 1023
+= 18.06 x 1023
+NKT
+Key definitions
+Boyle's law states that for a constant mass of gas at a constant
+temperature, the pressure exerted by the gas is inversely
+proportional to the volume it occupies.
+Charles's law states that for a constant mass of gas at a constant
+pressure, the volume occupied by the gas is proportional to its
+absolute temperature.
+The pressure law states that for a constant mass of gas at a constant
+volume, the pressure exerted by the gas is proportional to its
+absolute temperature.
+An ideal gas is a theoretical gas which does not suffer from the real
+world difficulties that mean real gases do not perfectly follow the
+gas laws.
+The equation of state is the single equation that defines a gas in
+terms of its pressure, volume, temperature and quantity: PV = NKT
+p=
+V
+18.06 x 1023 x 1.38 x 10-23 x 293
+3.35 x 10-2
+= 217 914 Pa
+= 218 000 Pa (3 sf)
+Or use PV = nRT:
+PV
+D-ART
+11
+3 x 8.31 x 293
+3.35 x 10-2
+= 218 000 Pa
+135
+Heat and temperature
+9.1
+The root-mean-square speed, often abbreviated to rms speed,
+is found by squaring the individual speeds of a set of molecules,
+finding the mean of the squares, and then taking the square root of
+that mean.
+WORKED EXAMPLE
+Find the rms speed of the following group of five molecules of
+atmospheric nitrogen, as shown in fig B:
+WORKED EXAMPLE
+What is the rms speed of helium molecules in a child's balloon
+at 20°C?
+(Atomic mass of helium, m = 6.65 x 10-27 kg)
+T= 20 + 273 = 293 K
+Im<c> KT
+= x 1.38 x 10-23 x 293
+= 6.0651 x 10-21)
+v = 500ms
+V = 520ms 1
+V = 501 ms
+v = 545 msi
+V = 505 ms
+m
+6.0651 x 10-21
+(6.65 x 10-27)
+= 1 820 000
+rms speed = V<c>
+= V1820000
+= 1350 ms
+fig B
+First find the square of each value:
+V.2 = 250 000; v 2 = 270400; V2 = 255 025; 142 = 297 025;
+V52 = 251001
+The mean of the square values is:
+(v.2 + vz? + Vz2 + 742 + Vg2)
+The rms speed of helium molecules at 20°C is 1350 ms?
+Questions
+(250 000 + 270 400 + 255 025 + 297 025 + 251 001)
+1323451
+(a) What is the rms speed of four hydrogen molecules with speeds
+of 890, 755, 902 and 866 ms-T?
+(b) At what temperature would these hydrogen molecules be?
+(Mass of H atom = 1.67 x 10-27 kg)
+= 264 690.2
+Finally, take the square root to get the rms speed:
+V<c>= 264 690.2 = 514 ms]
+2
+Estimate the rms speed of molecules in the air in this room.
+(WP
+What would be represented by the area underneath the
+Maxwell-Boltzmann curve?
+Molecular kinetic energy
+The average kinetic energy of any molecule in a gaseous sample
+is proportional to the absolute temperature of the gas. They are
+related by the expression:
+m<c>= KT
+where k is the Boltzmann constant, 1.38 x 10-23 JK-I. Here the unit
+of temperature, T, is absolute temperature and must be in kelvin.
+From this equation, relating kinetic energy and absolute
+temperature, we can see that zero on the absolute scale of
+temperature must indicate a situation where the molecules are
+stationary. Their mass cannot change, so for the kinetic energy to
+be zero at absolute zero, their rms speed must decrease to zero.
+Copy a sketch graph of the Maxwell-Boltzmann distribution
+labelling the x-axis 'speed'.
+(a) Mark a vertical line on your graph to show the energy
+corresponding to the most probable speed of molecules. Label
+this line Co-
+(b) From Maxwell-Boltzmann statistics, the most probable speed (co).
+the mean speed (<c>), and the rms speed (v <e>) are in the ratio:
+1:1.13: 1.23
+Mark two more vertical lines on your graph and label these
+<> and <c>.
+WP)
+Learning tip
+The idea that the molecules' average kinetic energy is
+proportional to the absolute temperature is an assumption
+within kinetic theory. We will see in Section 9.1.5 how this
+follows consistently from the ideal gas laws, but these are also
+founded on a set of assumptions which we must accept before
+undertaking calculations using the equation:
+m<c> KT
+Key definitions
+Internal energy is the sum of the kinetic and potential energies of all
+the molecules within a given mass of a substance.
+The Maxwell-Boltzmann distribution is a mathematical function
+that describes the distribution of energies amongst particles at a
+given temperature.
+Root-mean-square speed is the square root of the arithmetic mean
+value of the squares of the speeds of particles in an ideal gas.
+129
+9.1
+3
+Heat transfer
+By the end of this section, you should be able to...
+. define the concepts of specific heat capacity and specific latent heat for phase changes
+use the equations AE = mcAg and AE = LAm
+describe what is meant by black body radiator
+Learning tip
+Heat is only referred to when
+energy is moved from one
+object or material to another.
+It is not correct to suggest that
+an object has heat energy - in
+that instance we refer to its
+'internal energy.
+We have seen that the temperature of a substance depends on the kinetic energy of the molecules
+within it. As the molecules move, their bonds can pull on neighbouring molecules. Thus, lattice
+vibrations in the solid can pass energy through the solid.
+Imagine that one end of a long rod is being heated. In the hotter parts of the metal, the molecules
+are vibrating faster and further. In the cooler parts of the rod, further from the heat source, the
+molecules are moving slower. When a molecule with more energy pulls on one with less energy, they
+share the energy more evenly, with the faster one slowing down and the slower one speeding up.
+The effect of these transfers is that the increase in the internal kinetic energy caused by heating is
+distributed throughout a substance, with the heat being passed from hotter areas to colder ones.
+Specific heat capacity
+Transferring the same amount of heat energy to two different objects will increase their internal
+energy by the same amount. However, this will not necessarily cause the same rise in temperature
+in both. The effect that transferred heat energy has on the temperature of an object depends on
+three things:
+1 the amount of heat energy transferred
+2 the mass of the object
+3 the specific heat capacity of the material from which the object is made.
+How much the temperature rises is dependent upon the nature of a material, and is given by a
+property known as its specific heat capacity, c. Different materials, and different phases of the
+same substance, have different specific heat capacities because their molecular structures are
+different, and so their molecules will be affected to different degrees by additional heat energy.
+For a certain amount of energy, AE, transferred to a material, the change in temperature, 40, is
+related to the mass of material, m, and the specific heat capacity, c, by the expression:
+AE = mcao
+With each quantity measured in SI units, this means that the specific heat capacity has units of
+Jkg-1 K-1. The change in temperature, A7, is the same whether measured in degrees celsius or kelvin,
+as the intervals are the same on both scales.
+WORKED EXAMPLE
+How long will a 2 kW kettle take to raise the temperature of 800 grams of water from 20°C to 100°C?
+The specific heat capacity of water is 4200JkgK-1
+A2 = 100 - 20 = 80°C = 80K
+AE = mc A0 = 0.8 x 4200 x 80 = 268 800)
+E
+268 800 – 134.45
+P 2000
+So the kettle takes 2 minutes and 14 seconds to heat this water to boiling temperature. We assume that
+no energy is wasted in heating the surroundings.
+130
+9.1
+Kinetic theory equations
+Thus the force this chosen particle exerts is:
+By the end of this section, you should be able to...
+derive and use the equation pV = Nm<c">
+. derive and use the equation m<c<> EKT
+F-Amv _ 2mu:
+A
+2L/
+F
+I
+PV = 5 Nm<c>
+This means that the pressure exerted on the shaded face by our
+chosen particle is:
+force mu ?/L
+i p= area = 12
+area
+In Section 9.1.4, we learned the assumptions about ideal gases
+that we accept in order to be able to use the equation of state
+as a reasonable approximation to the behaviour of gases. These
+assumptions lead us logically to be able to calculate the pressure
+exerted by an ideal gas on the walls of its container.
+Pressure is defined as force per unit area, so in order to derive
+the equation for the pressure exerted by a gas, we must find an
+expression for the force the particles exert on the walls.
+.. p=
+In order to find the overall pressure the gas exerts on the container
+wall, we need to find the force exerted by all the gas particles in
+the box. We saw in Section 9.1.2 that the molecules in a sample
+of gas have a range of speeds. The total pressure of all the N
+particles on this face will be the sum of the individual pressures:
+"x (41x2 + 2 + 43x2 + ... + UNx2)
+One of the assumptions of kinetic theory is that there are enough
+molecules to apply statistics, and doing so gives:
+(41x2 + 2x2 + 3x2 + ... + Unx?) = N<ux?>
+mN<u>>
+:
+p=
+3
+We have only considered our particle travelling in the y direction,
+but as all directions of motion are equally likely, only one-third
+of all the gas particle momenta will be in the y direction. For a
+general equation for the pressure of the gas, we need to alter
+our equation to use the velocity value, c, which can be in any
+direction.
+fig A A gas particle in a cubic container will exert a force when it bounces off
+the shaded face
+Only one-third of the force we have calculated will then be
+exerted on the face we have considered, so the pressure will have
+a one-third factor in the equation:
+1 Nm<c2>
+Consider one of the particles of a gas contained in the cube
+shown in fig A. Its velocity in the x direction, us, will take it across
+the box to collide with the shaded face and collide elastically
+with the container wall. It will rebound with the same velocity
+in the opposite direction, -uy. With the particle having mass m.
+this means that a change in momentum has occurred, equal to
+-2muz. A force is needed to cause a change in momentum, and by
+Newton's third law, this force from the container wall acting on the
+particle is equal and opposite to the force of the particle acting
+on the wall.
+Newton's second law is that:
+FAT = Amy or F-Am
+As L' is the volume of the box, V, we rewrite the equation as:
+p=! Nmęcz>
+.. pV = Nm<c">
+This equation is sometimes called the kinetic theory equation.
+The change in momentum, -2mu,, will happen each time the
+particle bounces back and forth across the box to collide with the
+shaded face. As mass does not change, the change in momentum
+can be regarded as mass times the change in velocity.
+v= s= 2L
+s 2L
+Learning tip
+The gas density (mass per unit volume) will be given by V. so the
+kinetic theory equation can also be expressed as:
+prip<c?>
+136
+9.1
+2
+Internal energy
+By the end of this section, you should be able to...
+. define the concept of internal energy as the random distribution of potential and kinetic
+energies amongst molecules
+use the equation m<c<> = {KT
+The average kinetic energy of the particles in a material gives the material its temperature. However, as
+well as having kinetic energy, each molecule will have some potential energy, by virtue of its position
+within the structure of the material, or in relation to other molecules in the substance. This potential
+energy is due to the bonds between the molecules. If we sum the kinetic and potential energies of all
+the molecules within a given mass of a substance, we have measured its internal energy.
+It is important to note that the molecules do not all have the same amount of kinetic and potential
+energies. This internal energy is randomly distributed across all the molecules, according to the
+Maxwell-Boltzmann distribution.
+Learning tip
+In kinetic theory, we use the
+word 'molecules' to describe
+any particles. For example, if
+we have a collection of helium
+gas particles, we can refer to
+them as molecules even
+though we know that they
+normally exist in a monatomic
+state.
+The Maxwell-Boltzmann distribution
+If we identify the individual velocity of each molecule in a particular sample, the values will range
+from a few moving very slowly to a few moving very fast, with the majority moving at close to the
+average speed. As they all have the same mass, their differences in kinetic energies are directly
+dependent on the speeds. If we plot the kinetic energy against the number of molecules that have
+that energy, we obtain a curved graph called the Maxwell-Boltzmann distribution, as in fig A.
+Number of molecules
+Energy
+fig A The Maxwell-Boltzmann distribution of the speeds of a mixture of particles at one particular temperature.
+The characteristic shape of the graph in fig A shows that:
+• there are no molecules with zero energy
+• only a few molecules have high energy
+. there is no maximum value for the energy a molecule can have.
+A Maxwell-Boltzmann distribution graph is for one specific temperature. As the temperature
+changes, so the graph changes. The peak on the graph moves towards higher energies (and therefore
+higher speeds) as the temperature increases.
+Root-mean-square calculations
+There are two different ways of determining the average speeds of molecules in a material which are
+of interest to physicists. The peak of the graph represents the kinetic energy value with the greatest
+number of molecules that have that energy. Therefore the speed corresponding to this kinetic energy
+is the most probable speed, co, if we were to select a molecule at random. The second and more useful
+average is the root-mean-square speed, which has the symbol <c2>. This is the speed associated
+with the average kinetic energy, am<cº>, where c is the speed of the particle, and m is its mass.
+128
+9.1
+Charles's law
+About 140 years after Boyle published his law, the French scientist
+Joseph Louis Gay-Lussac published two further gas laws. One
+was based on unpublished data from experiments undertaken by
+Jacques Charles. Charles's law states that:
+The pressure law can be demonstrated using the apparatus shown in
+fig D. Measurements of the gas pressure and temperature can be
+datalogged to produce a graph of pressure against absolute
+temperature, which will give a straight best-fit line indicating that:
+POT
+For a constant mass of gas at a constant pressure, the volume occupied
+by the gas is proportional to its absolute temperature.
+This law can be shown in symbols as:
+V&T
+Pressure/Pa
+Volume/m3
+Absolute temperature/K
+fig E Graph of data from pressure law experiment.
+Absolute temperature/K
+fig C Graph of data from Charles's law experiment.
+The pressure law
+Gay-Lussac's other gas law sometimes bears his name, and
+sometimes is simply referred to as the pressure law:
+For a constant mass of gas at a constant volume, the pressure exerted
+by the gas is proportional to its absolute temperature.
+This law can be shown in symbols as:
+pot
+Investigation
+Investigating the pressure law
+Ideal gases
+The three gas laws above were worked out from graphs of
+experimental results which showed distinct, straight best-fit
+lines, allowing scientists to claim them as empirical laws (laws
+worked out from experimental data). However, if very accurate
+experiments are undertaken with a variety of different gases,
+we find that the laws are not perfectly accurate. For example,
+Charles's law suggests that if we reduce the temperature to zero
+kelvin, the gas would have zero volume - it would disappear. This
+does not happen, as the gas volume cannot reduce to less than
+the combined volume of its molecules.
+The three gas laws are idealised, and would work perfectly if we
+could find a gas that did not suffer from the real world difficulties
+that real gases have. An ideal gas would have the following
+properties:
+1 The molecules have negligible size.
+2 The molecules are identical.
+3 All collisions are perfectly elastic and the time of a collision is
+significantly smaller than the time between collisions.
+4 The molecules exert no forces on each other, except during
+collisions.
+5 There are enough molecules so statistics can be applied.
+6 The motion of the molecules is random.
+Assuming an ideal gas, we can combine the three gas laws
+to produce a single equation relating the pressure, volume,
+temperature and amount of a gas:
+PV = NkT
+where N is the number of molecules of the gas, and k is
+the Boltzmann constant. The temperature must be absolute
+temperature in kelvin.
+This is known as the equation of state for an ideal gas,
+expressed in terms of the number of molecules present.
+Sometimes, a more practically useful version can be used which
+fig D Apparatus to demonstrate the pressure law. The temperature and
+pressure readings could be taken by electronic sensors and the data
+logged by an attached computer.
+134
+9.1
+4.
+Ideal gas behaviour
+By the end of this section, you should be able to...
+. define the concept of an ideal gas and explain the relationships between its pressure,
+temperature and volume
+use the equation pV = Nkt for an ideal gas
+Boyle's law
+Over the last 400 years, scientists investigating the physics of gases have determined a number of
+laws governing their behaviour. The first of these was discovered by Robert Boyle, an Irish physicist
+working at Oxford University. Boyle's law states that:
+For a constant mass of gas at a constant temperature, the pressure exerted by the gas is inversely proportional
+to the volume it occupies.
+If you imagine lying on an air mattress, after you sink slightly, it provides a force to hold you up. Your
+body squashes the volume of the mattress, making it smaller. This increases the pressure exerted by the
+gas inside, until the force applied by the gas pressure equals your weight. This is Boyle's law in action.
+WP
+Investigation
+Investigating Boyle's law
+fig A Apparatus to demonstrate Boyle's law.
+Boyle's law can be demonstrated using the apparatus shown in fig A. Measurements of the length of air
+trapped in the vertical glass column represent the volume of the gas, and the pressure is measured using
+the barometer. A graph of pressure against 1/volume will give a straight best-fit line indicating that:
+pa v
+Pressure/Pa
+1/length/cm!
+fig B Graph of data from a Boyle's law experiment.
+Make sure you have a good understanding of this practical as your understanding of the experimental
+method may be assessed in your examinations.
+133
+Heat and temperature
+9.1
+Questions
+OF
+Temperature scale Celsius Fahrenheit Kelvin Rankine
+Symbol
+Boiling point of water
+100
+212 373.15 671.67
+(at 1 atm = 101325 Pa)
+Freezing point of water
+273.15 491.67
+(at 1 atmn = 101325 Pa)
+Absolute zero
+-273.15 -459.67
+table A Comparing four scales of temperature.
+Convert the following temperatures:
+(a) 27°C into kelvin
+(b)-173°C into kelvin
+(c) 100°C into kelvin
+(d) 288 K into degrees celsius.
+2 Explain what will happen in the circuit in fig C as the temperature
+rises.
+Learning tin
+Converting degrees celsius to kelvin, add 273.15.
+Converting kelvin to degrees celsius, subtract 273.15.
+C is nearer the beginning of the alphabet to K, so to go back from K
+to °C, we subtract!
+3 What changes need to be made to the circuit in fig Cin order to
+allow the thermistor to be calibrated for use as a thermostat?
+Investigation
+Investigating thermostats
+In Book 1, Section 3.2.3, we saw how a potential divider circuit can
+be used with a sensor component to control a second circuit. This
+can be useful, for example, if we want to control a heating or cooling
+circuit, such as with the circuit shown in fig C.
+Kev definitions
+Kinetic theory is the idea that consideration of the microscopic
+movements of particles will predict the macroscopic behaviour of
+a substance.
+Absolute zero is the theoretical temperature at which molecules will
+no longer be moving, all the kinetic energy has been removed.
+Absolute temperature is any temperature scale that starts at
+absolute zero.
+M
+)
+C
+fig C Investigate how the motor (C) speed adjusts as the thermistor (A)
+temperature is altered. This circuit could be used to control a
+cooling fan
+Many electronic components have a switch on voltage of 5 V. For
+example, the control circuit to switch on a large air conditioner
+could be used with a thermistor in a potential divider circuit and
+would only switch on when the p.d. across it is 5 V. Altering the value
+of the other resistor in the potential divider circuit would then
+control the temperature level at which the air conditioner was
+switched on.
+You can use a circuit like that shown in fig C to find the output
+voltage at different temperatures and thus calibrate the thermistor.
+This calibration should then allow you to replace the fixed resistor
+with a variable resistor that you can set, so that the output exceeds
+5 volts only when a particular temperature is reached. Make sure
+you have a good understanding of this practice as your
+understanding of the experimental method may be assessed in your
+examinations.
+127
+9.1
+Black body radiation
+A black body radiator is a theoretical body which completely absorbs all radiation that lands on
+it. We can imagine a cavity with a tiny hole in one side, and the hole itself is the black body. It is
+considered to absorb all radiation that lands on the hole, as it goes into the box (or cavity) and
+bounces around with no chance of escaping out of the hole before it is absorbed inside the box.
+No radiation is reflected, hence the name 'black body'.
+Learning tip
+You will learn more about
+black body radiators in
+Topic 12, where they will be
+considered further in the
+context of stars and galaxies.
+fig C A box with a tiny hole in the surface is considered to be a perfect black body.
+All objects emit electromagnetic radiation. Infrared cameras can detect radiation from our bodies,
+but with our eyes we can only see visible EM radiation from hot objects; for example, the red glow
+from a fire. We know that good absorbers of radiation are also good emitters, and a black body
+radiator is considered to be a perfect emitter. It will emit EM radiation at all wavelengths, and how
+much of each wavelength will depend on the black body's temperature (see Section 12.1.1).
+Questions
+1 (a) How much heat energy must be supplied to raise the temperature of 1200ml of water from 20°C
+to 65°C?
+(b) How long would a 2200 W heater take to boil 3 litres of water initially at 100°C?
+(1 litre of water has a mass of 1 kilogram. Specific latent heat of vaporisation of water = 2260 kJ kg )
+2 Heating up half a kilogram of ice at -8°C until it is water at 8°C requires 192 200 joules of energy. Show
+the separate calculations necessary to determine this value.
+3
+Table A shows that the specific heat capacity of copper is 390) kg 'K-1
+A student read part of a chemistry textbook. The book said that copper at 1085 °C had been supplied with
+4000) of energy, but its temperature remained at 1085 °C. Explain how this could be possible.
+Key definitions
+Specific heat capacity is the energy required to raise the temperature of one kilogram of a substance by
+one degree kelvin.
+Specific latent heat is the energy required to change the state of one kilogram of a substance at a constant
+temperature.
+A black body radiator is a theoretical object, that completely absorbs all radiation that lands on it.
+132
+Heat and temperature
+9.1
+WP
+Learning tip
+For melting, L is known as the specific latent heat of fusion.
+For boiling, L is known as the specific latent heat of vaporisation.
+Investigation
+Investigating specific heat capacity
+It is quite straightforward to measure the specific heat capacity of
+most materials (some values are given in table A). Providing you can
+measure the heat energy put in to a known mass of the material, and
+insulate the material well enough that virtually all this heat goes
+towards raising the temperature, then a close measurement can be
+made. To gain very accurate measurements requires significantly
+more complex insulation. The inaccuracy in this rough experiment
+can usually be kept to under 5% with careful experimentation.
+For a certain mass of material, m, the amount of additional
+energy, AE, needed to make the phase change is related to the
+specific latent heat, L, by the expression:
+AE = LAm
+With each quantity measured in SI units, this means that the
+specific latent heat has units of Jkg-!. The change in temperature
+is zero for any phase change, so the specific heat capacity need
+not be considered if the temperature is constant and only the state
+of matter changes.
+WORKED EXAMPLE
+How long will a 150 W freezer take to freeze 650 grams of water
+which is already at 0 °C? The specific latent heat of fusion of water
+is 334 000) kg ?
+AE = LAm = 334 000 x 0.65 = 217 100J
+fig A Investigating specific heat capacity experimentally
+E_217100 - 1447 s
+P 150
+So the freezer takes a little over 24 minutes to freeze this water.
+We assume that no energy is gained from the surroundings.
+1670
+1020
+WP
+Substance Specific heat capacity/Jkg K-1
+water
+4200
+ice
+2100
+steam
+1996
+wood
+air (50°C)
+aluminium
+900
+marble
+860
+iron/steel
+450
+copper
+390
+silver
+240
+mercury
+140
+table A Some typical specific heat capacities.
+Investigation
+Investigating specific latent heat of fusion
+It is quite straightforward to measure the specific latent heat of
+fusion of water. Providing you can measure the heat energy put into
+a known mass of ice, and set up the experiment well enough that
+virtually all this heat goes towards melting the ice, then a close
+measurement can be made. A control funnel of crushed ice can also
+be used in which the heater is off, so we can see how much ice
+would have melted anyway. The difference in mass of water
+collected between the heated funnel and the control gives us the
+mass to use in the calculation.
+immersion
+heater
+melting
+crushed ice
+joulemeter
+38531 J
+beaker
+beaker
+to power supply
++
+22
+Specific latent heat
+To melt a solid that is already at the temperature at which it melts
+requires an input of additional energy. This energy input does
+not raise the temperature, but is exclusively used in breaking the
+bonds between molecules to alter the state of the material. The
+amount of additional energy needed to melt it is determined by
+two things:
+1 the mass of the solid substance
+2 the specific latent heat of fusion of the substance.
+How much energy is needed to alter the molecular configuration
+is dependent upon the nature of a material, and is given by a
+property known as its specific latent heat, L. Different materials,
+and different phase changes of the same substance, have different
+specific latent heat values because their molecular structures
+are different, and so their molecules will be affected to different
+degrees by additional heat energy.
+electronic balance
+fig B Investigating the specific latent heat of fusion of ice.
+Make sure you have a good understanding of this practice as your
+understanding of the experimental method may be assessed in your
+examinations.
+131
+Exam-style questions
+9.1
+Air is trapped in a glass tube of uniform cross-sectional area.
+As the pressure of the trapped air is increased, the length of
+trapped air decreases. The student collects data and plots the
+following graph.
+7 A student wants to determine the specific heat capacity of
+aluminium. She heats a block of alurninium by supplying
+electrical energy to a heater that is inserted into the block
+as shown.
+500
+450
+thermometer
+Pressure/kPa
+t ututut
+heater
+aluminium
+block
+otu
+(a) Draw the electrical circuit she should use.
+(b) She writes the following plan:
+AAAAAAAAAAAAAAAAA
+0 5 10 15 20 25 30 35 40 45 50
+Length of trapped air/cm
+(a) State the variables that should be controlled in this
+investigation
+[2]
+(b) Theory suggests that for the air trapped in the tube, the
+pressure p is inversely proportional to the volume V.
+Use the graph to show that this relationship is correct.
+State an assumption that you are making.
+(c) On the day that the investigation was carried out, the
+temperature in the laboratory was 20°C.
+Calculate the number of air molecules trapped in the tube.
+cross-sectional area of tube = 7.5 x 10-5m2
+(d) State how the graph would change if
+(i) the air molecules in the tube were replaced by the
+same number of molecules of hydrogen gas. [1]
+(ii) the temperature of the laboratory was substantially
+higher.
+[Total: 12]
+Measure the temperature of the block at the start
+Turn on the electric current
+Determine the energy flowing for a certain time
+Turn off the current and measure the temperature
+This will give me the specific heat capacity if I divide
+the total energy by the mass and temperature rise
+Write an improved plan that includes details of the method
+to be used and any precautions needed to produce an
+accurate value for the specific heat capacity of aluminium.
+[2]
+[6]
+[Total: 7]
+141

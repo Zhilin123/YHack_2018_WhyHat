@@ -1,0 +1,930 @@
+What have I studied before?
+How to calculate resultant forces
+The deforming effects of forces
+Experimental measurements on wires
+The idea of general properties of materials, rather
+than properties of specific objects
+The testing of materials for use in hockey
+goalkeeping equipment
+What will I study later?
+• Oscillations of springs, with calculations using the
+spring constant (A level)
+How resonant vibration depends on the physical
+strength of an object (A level)
+Non-conservation of momentum, and
+deformation in collisions (A level)
+What will I study in this chapter?
+• How an object deforms when a force is applied
+along its length
+How to calculate stress and strain
+• The meaning of the Young modulus for a material,
+and how to calculate it
+How to undertake an experiment to measure the
+Young modulus for a material
+How to interpret stress-strain curves in order to
+analyse the strength of a solid material
+How these ideas can be applied to materials in
+use in real applications
+127
+4.2
+1
+Hooke's law
+By the end of this section, you should be able to...
+understand Hooke's law and be able to make calculations
+using it
+calculate the elastic strain energy stored in a deformed
+material sample
+wwwwwwwwwwww
+estimate the elastic strain energy stored from a
+force-extension graph for a sample
+w
+Whenever a force acts on a material sample, the sample will be
+deformed to a different size or shape. If it is made longer, the
+force is referred to as tension, and the extra length is known as
+the extension. For a material being squashed to a smaller size,
+both the force and the decrease in size are called compression,
+although the decrease in size could be referred to as a negative
+extension
+wwwwwwwwww
+-
+-
+As the bar is pulled, an increase
+in its length occurs, as the dotted
+area indicates.
+fig B The middle spring is extended in proportion to the applied load, obeying
+Hooke's law. The right-hand spring has been stretched beyond its limit of
+proportionality, so no longer obeys Hooke's law.
+Hooke's law is best described mathematically with the equation:
+force applied (N) = stiffness constant (Nm-') * extension (m)
+AF = KAX
+fig A A tensile force causes extension. A compressive force causes a negative
+extension.
+Learning tip
+WP
+The stiffness constant for a spring is usually referred to as the
+spring constant. Either phrase refers to k in the Hooke's law equation.
+WORKED EXAMPLE
+Hooke's law
+Robert Hooke, a contemporary and vigorous rival of Isaac
+Newton, was an exceptional experimental scientist. His interests
+were immensely diverse, and the law that bears his name is
+arguably one of his least notable achievements.
+Hooke's law states that the force needed to extend a spring is
+proportional to the extension of the spring. A material only
+obeys Hooke's law if it has not passed what is called the limit
+of proportionality.
+Up to a certain limit of proportionality, the force needed to extend
+a spring is proportional to the extension of the spring. If an object
+is subject to only a small force, it will deform elastically. When the
+force is removed, it returns to its original size and shape, providing
+the elastic limit was not passed. We will look in much more
+detail at elastic and plastic deformation in Section 4.2.3.
+A spring has a stiffness constant of 50 Nm-l, and is 3.0 cm long
+naturally. How long would it be if a 200g mass were hung from it?
+Weight force:
+W = mg = 0.200 x 9.81 = 1.962 N
+AF = KAX
+AF 1.962
+202 = 0.03924 m = 3.924 cm
+final length = original length + extension
+L = Lo + Ax = 3.0 + 3.9
+L = 6.9 cm
+Ax =
+-50
+128
+TOPIC 4
+Materials
+Solid material
+properties
+CHAPTER
+4.2
+Introduction
+You probably never consider the likelihood that a bridge will fail as you walk or drive over it.
+However, when designing the bridge, and selecting the materials to use in it, an engineer has to
+ensure that it will survive come what may.
+Design processes for any new project will need to include specifications of what extremes of conditions it
+has been designed for. A bridge would need to withstand an overloaded lorry flouting any signposted
+weight restrictions, a snowboarding helmet might be used by a person on a snowmobile; or an exasperated
+motorist might try to use a climbing rope to tow their car. Some of these uses might be classed as
+unreasonable, and the designer would not expect to have to make their product strong enough to stand up
+to such extreme forces.
+If you were designing a new harbour wall, what extreme weather conditions would you ensure that it
+could withstand? Would it be good enough to make sure it could withstand a storm with such strong winds
+and waves that only occurs once every 50 years? 100 years? 1000 years? And how do you achieve the
+standard required within budget?
+In this chapter we will see how the strength of materials can be measured, and thus how to choose the
+right material for any given job.
+All the maths you need
+• Units of measurement (e.g. the pascal, Pa)
+• Calculating areas of circles (e.g. finding the cross-sectional area of a wire in order to find stress)
+• Use of standard form and ordinary form (e.g calculating Young modulus)
+Making order of magnitude calculations (e.g. comparing Young modulus for different materials)
+Changing the subject of an equation (e.g. re-arranging the stress equation)
+• Substituting numerical values into algebraic equations (e.g. calculating the strain)
+Determining the slope of a linear graph (e.g. finding the Young modulus from experimental results)
+• Estimating, by graphical methods as appropriate, the area between a curve and the x-axis, and realising
+the physical significance of the area that has been determined (e.g. finding the energy stored in a
+stretched material from graphical data)
+126
+Exam-style questions
+4.2
+[2]
+1179
+272
+(a) Explain whether the spring obeys Hooke's law. [2] 9 The photograph shows a flygun.
+(b) Show that the spring constant k of the spring is about
+20 Nm-
+(c) The original length of the spring is 41.0 cm and the length
+of the tin is 9.0cm.
+(i) Calculate the force that must be applied to the spring
+The flygun consists of a handle, a spring and a disc as shown in
+to get it into the tin.
+[2]
+the photograph below.
+(ii) Calculate the energy stored in the spring when it is
+compressed to fit into the tin.
+(d) In fact the bottom of the tin contains a device that makes
+a squeak when the spring is released, making the internal
+length of the tin less than 9.0 cm.
+Explain the effect this has on the speed at which the spring
+When the trigger is pulled, the compressed spring is released,
+leaves the tin.
+[3]
+[Total: 12]
+launching the disc at the fly.
+8.07
+8 The diagram shows a submarine and one of the forces acting 7.0-
+on it. The submarine moves at a constant depth and speed in
+the direction shown.
+water surface
+direction of motion
+6.0-
+Force/N
+thrust
+[2]
+(a) Add labelled arrows to show the other three forces on the
+submarine.
+[2]
+(b) State two equations that show the relationship between
+the forces acting on the submarine.
+(c) The submarine has a volume of 7100 m.
+Show that the weight of the submarine is about 7 X 107N.
+Density of sea water = 103 kg m-3
+[2]
+(d) The submarine can control its depth by changing its
+weight. This is done by adjusting the amount of water
+held in ballast tanks.
+As the submarine dives to greater depths the increased
+pressure of the surrounding water produces a compressive
+strain.
+(i) Explain what is meant by compressive strain. [1]
+(ii) This decreases the volume of the submarine. Explain
+the action that should be taken to maintain a constant
+depth as the volume of the submarine is decreased. [2]
+(iii) The submarine is made from steel. Suggest why a
+material, such as fibreglass, which has a much smaller
+Young modulus than steel would be unsuitable at
+greater depths.
+[2]
+[Total: 11]
+1.0-
+0.04
+0.00 01 02 03 04 05 06 07 0.8
+Compression/cm
+(a) Show that the force constant for the spring is about
+1000 Nm!
+[2]
+(b) The spring is 6.3 cm long. What it is compressed in the gun,
+the length of the spring is reduced to 1.6 cm.
+Assuming that the spring obeys Hooke's law throughout
+the compression, show that the energy stored in the spring
+before firing the gun is about 1 J.
+[2]
+(c) The disc and spring have a combined mass of 9.4 g.
+(i) Show that the maximum speed at which they can be
+fired is about 15 ms-1.
+(ii) State an assumption that you have made.
+[1]
+(d) The gun is fired at a fly on the wall 3.0 m away. The gun is
+fired horizontally.
+(i) Calculate the velocity of the disc as it hits the wall.
+Ignore the effects of air resistance.
+(i) The fly is 20 cm below the horizontal level at which
+the gun is fired. Show that the disc is close enough to
+hit the fly if it does not move. The disc has a radius of
+3 cm.
+[3]
+(e) Suggest an advantage of the disc used over a solid disc. [1]
+[Total: 15]
+139
+Solid material properties
+4.2
+WE
+Investigation
+Investigating stress-strain relationships for metals
+paper flag
+G-clamp
+ruler
+clamp-on
+pulley
+load
+safe landing pad
+fig C An experiment to find the stress-strain relationships when stretching a metal wire. With detailed analysis of the
+stress-strain graph of the metal, you can find the Young modulus.
+You can perform a simple experiment to measure the stiffness constant - the Young modulus - for a metal
+by stretching a thin wire. The original length and diameter of the wire must be measured first. Then, using
+increasing forces as the independent variable, you will need to take measurements of the extension
+corresponding to each force. There will be some readings during the wire's elastic deformation region which
+will increase uniformly. Beyond the elastic limit, it will increase with greater extensions for each increase in
+the load force until, eventually, the fracture stress will be reached and the wire will snap. Safety goggles must
+be worn during this experiment, as wires that snap under tension pose a significant hazard to the eyes.
+The graph in fig B has been plotted with the strain on the x-axis, so that when the gradient of the line is
+calculated this will give you the value for the stiffness constant, or Young modulus:
+AYO-E
+WP
+gradient, m =
+You will remember that normal practice is to plot experimental results with the independent variable on
+the x-axis. Although your experiment will have the stress as the independent variable, it is usual to draw
+the curve of these results with stress on the y-axis. Plot this graph and find the Young modulus of the metal
+you used, by finding the gradient of the straight-line portion of the graph.
+Questions
+Estimate the limit of proportionality for the IMPRESS alloy at 750 °C, as shown in fig B.
+2
+Searle's apparatus is used in experiments to find the Young modulus for a metal wire. With this apparatus,
+the test wire hangs vertically, parallel to an identical control wire. Weights are added to load the test wire
+only, and its extension, measured as an excess over the length of the control wire rather than from its
+original length, is calculated. Explain how this setup will allow the experimenter to avoid possible error
+caused by variations in the room temperature.
+fig D Searle's apparatus.
+135
+Solid material properties
+4.2
+WORKED EXAMPLE
+In fig C, how much elastic strain energy is stored in the spring
+when it is extended by 2.5 cm?
+Investigation
+WP
+Investigating Hooke's law
+You can perform a simple experiment to measure the stiffness
+constant for a spring. By hanging various masses on a spring and
+measuring the corresponding extensions, you can gather a set of
+results for AF and Ax. In each case, you could calculate the spring
+constant from a pair of readings, but you will get a more accurate final
+answer for k if you plot a graph of the results and find its gradient.
+At Ax = 2.5 cm, the corresponding force value is F = 6.0 N.
+AEJ = FAX
+AE2i = 1 * 6.0 0.025
+AE = 0.075)
+Mass/
+Weight/
+Original
+length/cm
+2.4
+2.4
+2.4
+2.4
+2.4
+2.4
+Loaded
+length/cm
+2.4
+2.8
+3.1
+3.6
+Extension/
+cm
+0.0
+0.4
+0.7
+1.2
+00.000
+100 0.981
+200 1.962
+300 2.943
+400 3.924
+500 4.905
+600 5.886
+800 7.848
+1000 9.810
+3.9
+1.5
+1.9
+2.4
+4.3
+4.8
+5.8
+6.5
+Work from force-extension and force-compression
+graphs
+The work done in deforming a material is calculated by multiplying
+the extension or compression by an appropriate average force
+value. If the force is varying in a non-linear way, which is common
+for some materials, finding the average force may not be a
+straightforward process. However, the area between the line on a
+force-extension (F-Ax) graph and the extension axis will represent
+the work done. Finding the area under the line is easy with the
+linear type of relationship, shown in fig C. As the area under the
+line on fig C is a triangle, the formula for the area of a triangle
+gives us the same equation as was used above:
+AESI = FAX
+If the relationship is non-linear, as shown in the example of fig D,
+the work done can still be found from the area under the line.
+WORKED EXAMPLE
+L
+2.4
+3.4
+4.1
+2.4
+2.4
+10.07
+9.07
+Weight force/N
+OOOOO
+1.0-
+0.0-
+0.0 1.0 2.0 3.0 4.0
+Extension/cm
+fig C The results of a Hooke's law investigation of a spring before it reaches
+its elastic limit. The fact that the best-fit line is straight shows that the
+spring obeys Hooke's law.
+The graph in fig C has been plotted with the dependent variable on
+the x-axis, so that when the gradient of the line is calculated, this will
+give you the value for the spring constant:
+Gradient, m = 4y - AFK
+What is the elastic strain energy stored in the material shown in
+fig D if it is extended by 12 cm?
+The area under the line, up to the value Ax= 0.12 m, can be split
+into three sections:
+• Triangle from origin to x = 0.04 m:
+area = 3 * base x height = 1 *0.044 = 0.08)
+• Rectangle from x = 0.04 m to x = 0.08 m:
+area = base x height = 0.04 x 4 = 0.16]
+• Trapezium from x = 0.08 m to x = 0.12 m:
+area = base x average height = 0.04(4 + 6)/2 = 0.20J
+total work = 0.08 +0.16 + 0.20
+elastic potential energy = 0.44)
+F/N
+Elastic strain energy
+The work done in deforming a material sample before it reaches its
+elastic limit will be stored within the material as elastic strain energy,
+Ed. We have previously seen that work done can be calculated by
+multiplying the force by the distance moved in the direction of the
+force. This is true in deforming materials too, but Hooke's law means
+that the force value varies for different extensions. If we plot the
+extension of a spring with increasingly large masses hanging on it,
+as in fig C, the graph will follow Hooke's law. To find the work done
+to extend the spring a certain amount, we must calculate using the
+average force over the distance of the extension.
+AES = FAX
+w
+0 0.04 0.08 0.12 0.16 x/m
+fig D The elastic potential energy stored in a material can be found from a
+non-linear force-extension graph by working out the area under the line
+up to the required extension.
+129
+4.2
+If a non-linear force-extension or force-compression graph has a curved line, finding the area may
+involve estimating or counting the squares on the graph paper under the line. In this case, you will
+also need to multiply the number of squares by the elastic strain energy value (Fx Ax) for each
+individual square.
+Learning tip
+Be careful to distinguish
+between 'length' and
+'extension'. You may be told
+either, and you must check
+carefully as to whether you
+need to calculate the extension
+from information you have
+about lengths.
+Questions
+What is the spring constant for a spring that starts at a length of 25 cm and extends to a length of 32 cm
+when a mass of 50 g is added?
+2
+In fig C, how would the line appear different if it were for a spring of constant k = 280 Nm-l?
+3
+Explain how the elastic strain energy stored in a stretched spring could be calculated from the formula
+AE l = 5K(Ax)?
+Fig E shows the results of a Hooke's law type experiment loading and unloading a rubber band to an
+extension of 24 cm.
+1.0-
+Loading
+Unloading
+0.87
+Force/N
+0.05
+0.1
+0.15 0.2 0.25
+Extension/m
+fig E Different extensions during loading and unloading is an example of hysteresis.
+(a) From the graph, estimate the work done in loading the rubber band.
+(b) When unloading, the rubber band releases the stored elastic strain energy. Estimate, from the graph,
+the area underneath the unloading curve, which will be the elastic strain energy released.
+(c) The difference and the answers to parts (a) and (b) represents energy lost in this process, which is
+mostly used in internal heating of the rubber band. How much thermal energy does the rubber gain
+from the complete cycle of loading and unloading?
+5
+Estimate the elastic strain energy stored in a pair of braces holding up trousers.
+Key definitions
+Tension is a force acting within a material in a direction that would extend the material.
+Extension is an increase in size of a material sample caused by a tension force.
+Compression is a force acting within a material in a direction that would squash the material. Also, the
+decrease in size of a material sample under a compressive force.
+The limit of proportionality is the maximum extension (or strain) that an object (or sample) can exhibit,
+which is still proportional to the load (or stress) applied.
+A material's elastic limit is the maximum extension or compression that material can undergo and still
+return to its original dimensions when the force is removed.
+The spring constant is the Hooke's law constant of proportionality, k, for a spring under tension.
+For the extension of a material sample, hysteresis is where the extension under a certain load will be
+different depending on its history of past loads and extensions.
+130
+BIGGER
+GET ROPED IN
+If a manufacturer of climbing ropes is to select a material for a new rope, what properties would they
+want the material to have? Apart from low cost, they will need to consider whether it will safely hold
+climbers, especially when they fall and the rope has to save them.
+In this activity, we will look at some important aspects of the properties of some climbing ropes.
+From the website of rope manufacturer DMM International, www.dmmwales.com
+WEIGHT NO OF FALLS IMPACT
+PRODUCT
+LENGTHS (m)
+COLOUR DIAMETER
+(per m) (UIAA)
+FORCE
+PROPHET BLUE
+8.5 mm 50, 60
+49 g 14
+6.4 KN
+PROPHET RED
+8.5 mm 50,60
+| 49 g
+14
+6.4 kN
+PRODIGY BLUE
+9.8 mm 50, 60, 70, 80 61 g
+8.7 kN
+PROJECT YELLOW 10 mm 50, 60, 70, 80 648
+8.7kN
+NEW BREED ORANGE 9.4 mm 50, 60, 70, 80 598
+8.8 kN
+MIGRANT PURPLE 8.2 mm 50,60
+6.3kN
+MIGRANT GREEN 8.2 mm 50,60
+46g
+6.3kN
+From the Safety Standards pages of UIAA, the International Climbing and From the 6th edition of Mountaineering: The Freedom of the
+Mountaineering Federation
+Hills, a climbing book
+465
+| 11
+radius 5 mm
+Rope Anchoring
+1.00 m
+2.30 m
+com
+n
+static elongation
+ko
+5Kg
+80 kg
+single rope s 10%
+half rope s 12 %
+twin rope (double strand)
+$ 12%
+25 m
+before
+first drop
+peak force
+during first drop:
+half rope s 8 kN
+single rope s 12 KN
+Half rope
+direction
+direction
+of force
+of force
+Fig 7-19. Static equalization: a, line representing direction
+of force bisects angle, thus load on the two anchors is equal;
+b, direction of force is to one side, thus load on right-hand
+anchor is greater than on left-hand anchor.
+Angle
+Single rope
+testing methods
+for UIAA 101 UIAA
+Above: Static elongation finds the
+standard strain for a rope, giving
+an indication of its stiffness.
+Right: Fall tests indicate the
+maximum Impact force felt by a
+climber during a fall.
+falling mass
+half rope 55 kg
+single rope 80 kg
+F orce on
+each anchor
+at least 5
+drops
+without
+breakage
+60
+60%
+90
+dynamic
+elongation
+120
+150
+170
+100%
+1900
+580%
+Where else will I encounter these themes?
+1.1
+2.1
+2.2
+2.3
+3.1
+3.2
+136
+4.2
+The definition for Young modulus also includes the fact that the material must be undergoing elastic
+deformation. Beyond the limit of proportionality, this equation will no longer work to calculate the
+stiffness of the material.
+Learning tip
+From the original definitions of stress and strain, the young modulus can also be calculated from:
+FX
+E = AAX
+WORKED EXAMPLE
+The copper wire from above has a diameter of 0.22 mm and was stretched using a force of 100N.
+What is the Young modulus of copper?
+A = r2 = 3.14 x (1.1 x 10-4)2 = 3.80 x 10-4 m2
+OF 100
+A 3.8 x 10-8
+.. o = 2.63 x 10° Pa
+F_02.63 x 109
+EEE 0.023
+E = 1.161011 Pa
+(Note that the stress has been calculated from the original data and the unrounded value has been used
+in this calculation to give the value shown here.)
+100N
+1.76 m
+0.04m
+fig C Copper has a Young modulus, E = 1.16 x 1011 Pa.
+Questions
+1 What is the strain of an aluminium wire if it extends from 97 cm to 1.04 m?
+2 What is the tensile stress in a vertical steel wire that has a diameter of 0.40 mm and a 1.0 kg mass hanging
+from it?
+3
+Use these data to find the Young modulus of human hair: d = 0.1 mm; x = 12 cm; F = 0.60 N; Ax = 1.8 mm.
+4
+(a) What is the compressive stress in each femur (thigh bone) of a 7 tonne elephant if the bone is a
+vertical cylinder with a diameter 25 cm and the elephant is standing normally?
+(b) If the Young modulus of elephant bone is 19 GPa, and the femurs are originally 95 cm long, how
+much would they reduce in length if the elephant stood up on its back legs? What assumption do you
+need to make?
+Kev definitions
+force (N)
+Stress (pascals Pa, or Nm-2) =
+cross-sectional area (m2)
+JA
+extension (m)
+Strain (no units) =
+original length (m)
+The Young modulus is the stiffness constant for a material, equal to the stress divided by its corresponding
+strain.
+132
+4.2 Exam-style questions
+1 The pascal is the unit for the young modulus. Which unit is
+equivalent?
+(a) mm/m
+(b) %
+(c) Nm-1
+(d) Nm-2
+[Total: 1]
+(a) Explain what is meant by each of the following terms:
+limit of proportionality (L)
+tensile strength
+yield point (Y)
+(6) Using crosses and the letters shown above, mark the
+‘limit of proportionality' (L) and the yield point' (Y)
+on the graph.
+[Total: 5]
+[2]
+2 A 200 g mass hung on a spring stretches it from 8.2 cm to
+9.0 cm. What is the spring constant for this spring?
+(a) 2.5 Nm-1
+(b) 25 Nm-
+(c) 250 Nm-1
+(d) 250 000 Nm-1
+[Total: 1]
+6 You are asked to find the Young modulus for a metal using a
+sample of wire.
+(a) Describe the apparatus you would use, the measurements
+you would take and explain how you would use them to
+determine the Young modulus for the metal.
+(b) State one safety precaution you would take.
+(c) Explain one experimental precaution you would take to
+ensure you obtain accurate results.
+[2]
+[Total: 11]
+[8]
+3 The diagram shows the stress-strain curve for a metal. Which
+label corresponds to the Ultimate Tensile Stress for this metal?
+-
+-
+11
+-
+-
+-
+-
+-
+-
+-
+-
+7 The photograph shows a tin bought from a joke shop. When
+the lid is removed, a long spring, covered in fabric to resemble a
+snake, flies out of the tin.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Stress/Pa
+Strain/%
+The spring on its own is shown here.
+- > [1]
+[Total: 1]
+omwo
+4 Explain why the wire used when measuring the Young Modulus
+of copper in a school laboratory is long and thin.
+[Total: 5]
+[5]
+The graph shows length against force for the spring.
+5
+The graph shows how stress varies with strain for a given
+material.
+Stress
+Length/cm
+0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6
+Force/N
+Strain
+138
+Thinking Bigger
+4.2
+Let us start by considering the nature of the writing in the sources.
+857033000
+1. The extracts opposite are from three different sources relating to the use of ropes for
+rock climbing
+a. Compare and contrast the style of presentation from each source.
+b. Discuss the safety considerations that the authors (and their insurers) will have had
+to consider before publishing the information in each case.
+655788080668000
+Command word
+Note that when the words
+compare and contrast are
+used, you are expected to
+look for both similarities
+and differences between
+two or more things.
+Now we will look at the physics in detail. Some of these questions will link to topics earlier in
+this book, so you may need to combine concepts from different areas of physics to work out the
+answers. Use the timeline at the bottom of the page to help you put this work in context with what
+you have already learned in your course.
+2. a. Calculate the weight of a 50 m length of DMM's Migrant rope.
+b. Calculate the density of DMM's Project rope.
+3. a. Explain the physics behind the caption in figure 7-19 from the Mountaineering
+book
+b. The table of angles from the Mountaineering book refers to the total angle between
+the slings in the symmetrical situation shown in 7-19a. Explain why the force on each
+anchor would increase as suggested, and calculate how accurately the force
+percentages have been reported.
+4. a. Looking at the Fall Tests, explain why lower impact force ropes will stretch more.
+b. Considering part a., explain why a larger percentage dynamic elongation, compared
+with the static elongation, minimises injuries from the rope stopping a fall.
+5. A recent update of the UIAA rope testing standards includes a method for calculating
+the energy absorbed by a rope before failure. This is given by the equation:
+055358068078000
+Include an explanation of
+what physics term should
+have correctly been
+used instead of the word
+elongation, considering
+that it is quoted as a
+percentage
+erupt
+Erupt = 1. FS SDS
+tenis
+This equation is an 'integaration' which means it calculates the sum of the all the FxS
+values over the range of tensions up to rupture. How could such calculations produce
+results for ropes which might be presented as in the suggested picture below?
+1.72 km
+1.6 km
+1,7 kJ/mi
+1,8 kJ/m
+1.9 km
+Activity
+Write a review comparing the DMM ropes listed in terms of physics properties. Include at least:
+• calculations of density, and commentary about which ropes would float in water.
+• calculations of stress in each rope under static elongation, when it must support an 80 kg mass, and
+assuming the maximum 8% elongation.
+comparison of the Young modulus values for each rope, and compare these with their impact forces
+transferred in the UIAA fall tests. Is there a relationship?
+4.1
+4.2
+YOU ARE
+5.1
+5.2
+5.3
+5.4
+HERE
+137
+4.2
+2
+Stress, strain and the Young modulus
+By the end of this section, you should be able to...
+calculate tensile/compressive stress
+calculate tensile/compressive strain
+calculate the young modulus
+Strain
+Tensile (or compressive) strain is a measure of the extension (or
+compression) of a material sample, but it takes account of the
+original length of the sample. This allows extension comparisons
+to be made between samples of different sizes, so that they are
+measured under comparable conditions.
+extension (m)
+strain (no units) =
+original length (m)
+As strain is a ratio, it has no units. However, it is often expressed as
+a percentage by multiplying the ratio by 100%.
+WORKED EXAMPLE
+If you pull on the two ends of a metal bar, you are unlikely
+WP
+to deform it at all. However, pulling with the same force on
+the two ends of a very thin piece of wire made from the
+same metal may have very different results: it will likely extend
+elastically, and may pass its elastic limit and start to undergo
+permanent deformation. Depending on the specific metal
+and the exact dimensions, it is possible that your force may be
+strong enough to break the wire. This example demonstrates
+that engineers need more information about the forces that may
+encountered within the structures they are building than just the
+numbers of newtons. You used the same force and the same
+metal, but in the case of the metal bar you made no impression on
+it, whilst the thin wire broke. To make fair comparisons between
+sarnples, we need to consider the forces on them in the context of
+their dimensions, as well as the materials from which they are made.
+A copper wire of length 1.76 m is stretched by a force to a length
+of 1.80 m. What is the tensile strain in the wire?
+x (1.80 - 1.76) 0.04
+&x= 1.761 76
+8 = 0.023 = 2.3%
+0.04m
+1.76m
+fig B This copper wire has a tensile strain of 23%.
+Stress
+Tensile (or compressive) stress is a measure of the force within a
+material sample, but it takes account of the cross-sectional area
+across the sample. This allows force comparisons to be made
+between samples of different sizes, so that they are measured
+under comparable conditions.
+force (N)
+stress (pascals, Pa, or Nm-2) = -
+cross-sectional area (m2)
+Young modulus
+If a material is deformed elastically, stress will be proportional to
+strain, with a constant of proportionality that is a measure of the
+stiffness of the material - how much it deforms under a certain
+stress. The stiffness constant is called the Young modulus. Thus,
+the Young modulus is a measure of the stiffness of a material,
+which takes account of the shape and size of the sample, so that
+different samples of the same material will all have the same value
+for the young modulus. The idea of stiffness is a measure of how
+much the material deforms when forces are applied to it.
+stress (Pa)
+Young modulus (Pa) = -
+strain (no units)
+WORKED EXAMPLE
+A cylindrical stone column has a diameter
+of 60 cm and supports a weight of 2500 N
+(fig A). What is the compressive stress in
+the column?
+Area = r2 = 3.14 x 0.302 = 0.2826 m2
+2500N
+0-F
+2500
+Learning tip
+The stiffness constant, k, from Hooke's law relates to a particular
+object, such as a spring. For a material, the Young modulus, E, is the
+stiffness constant for the material in general, regardless of sample
+size.
+A 0.2826
+o=8850 Pa
+60 cm
+fig A This temple support column is under
+a compressive stress of 8850 Pa.
+131
+4.2
+Stress-strain graphs
+By the end of this section, you should be able to...
+interpret stress-strain graphs
+understand and apply the terms limit of proportionality, elastic limit, yield point, breaking
+stress, elastic deformation and plastic deformation in relation to stress-strain graphs
+Stress-strain analysis
+From the definition of the young modulus, the stress should be proportional to the strain if a material
+is undergoing elastic deformation, so we should get a straight-line graph if we plot stress against
+strain. When this is done, we do find a straight-line relationship for small stresses. Once the limit of
+proportionality is passed, the internal structure of the material starts to behave differently, and this
+means that the graph starts to curve. Depending on the material under test, the graph will go through
+various phases as the molecular substructure of the specific material determines its response to
+increasing stress. Eventually, the stress will become too great, and the material will fracture. At this
+point, the line on the graph must end, as no further data can be obtained about the material.
+It cannot withstand higher stresses, so the graph cannot be plotted any further.
+plastic region
+Stress/Pa
+elastic region
+Strain/% -
+fig A The stress-strain graph for a metal gives detailed information about how the material behaves under different
+levels of stress. The gradient of the straight-line portion of the graph will be equal to the value of the Young
+modulus.
+Learning tin
+It can be confusing to see the sections of a stress-strain graph where the line goes down. In reality, these
+graphs are generated from results of materials testing in which the strain is continuously increased on a
+machine that can measure the stress within a material. This stress can go down if there is a change in the
+arrangement of the atomic structure of the material.
+Fig A is a generalised stress-strain graph for a metal, such as copper. Most metals will follow the
+shape shown here, and there are various areas of interest on the graph.
+In the straight-line portion from the origin to point A, the metal extends elastically, and will return to
+its original size and shape when the force is removed. The gradient of the straight-line portion of the
+graph is equal to the young modulus for the metal.
+133
+4.2
+Point A is the limit of proportionality. Slightly beyond this point, the metal may still behave
+elastically, but it cannot be relied upon to increase strain in proportion to the stress.
+Point B is the elastic limit. Beyond this point, the material is permanently deformed and will not
+return to its original size and shape, even when the stress is completely released.
+Point C is the yield point, beyond which the material undergoes a sudden increase in extension as its
+atomic substructure is significantly re-organised. The metal 'gives just beyond its yield point as the
+realignment - slip-of the metal's atoms reduces the internal stresses.
+Learning tip
+It is quite common for the limit of proportionality, the elastic limit and the yield point to be in the same
+place on the graph. They have been separated here to explain the subtly different ideas behind each.
+Point D represents the highest value that the stress can ever attain within this material. It is called the
+Ultimate Tensile Stress, or UTS, OU
+Point E is the fracture stress, or breaking stress. It is the value that the stress will be in the material
+when the sample breaks.
+WORKED EXAMPLE
+The European Space Agency (ESA) have tested a material known as 'IMPRESS intermetallic alloy. Fig B
+illustrates a stress-strain graph for this material at two different temperatures, to see how it would stand
+up under different conditions.
+Considering first the young modulus, you can see that the ESA have drawn measurements on the graph
+to make the calculation of the gradient of the straight-line portions of the graphs for each temperature
+plot. For example, at 15°C:
+Ay_o_400 MPa
+gradient = E=
+-
+0.3%
+E-400 x 106
+0.003
+E = 1.33 x 1011 Pa
+The values labelled as o are the stress values at each temperature, which will result in a permanent
+deformation strain of 0.2%. These are in the plastic region, and the permanent deformations are
+indicated by the dashed lines connected back to 0.2% on the x-axis.
+Ou = 698 MPa
+Ou = 0.2 = 718 MPa
+700 +--- -
+Joz = 520 MPa tot
+---------
+-
+Stress/MPa
+03%
+Ay = 400 MPa
+Ay = 330 MPa
+Key
+750°C
+15°C
+0.0
+1.5
+Strain/%
+fig B Stress-strain graphs, at two temperatures, for the IMPRESS intermetallic alloy, for use in the European space
+programme.
+134

@@ -1,0 +1,1307 @@
+3.2 Determination of formulae
+Specification reference: 2.1.1, 2.1.3
+Chemical formulae
+In this topic, you will see how to use the results from chemical
+experiments to work out a chemical formula.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ empirical and molecular formula
+→ formula determination
+→ hydrated salts
+→ practical techniques for
+measuring mass.
+Molecular formulae
+Some compounds are made up of small units called molecules – two
+or more atoms held together by covalent bonds. The molecular
+formula is the number of atoms of each element in a molecule.
+Table 1 Examples of compounds with
+their empirical and molecular formulae
+In Topic 2.3, Formulae and equations, you looked at the elements that
+exist as molecules. In equations, these elements are shown as their
+molecular formulae – H, N2, 02, F2, Cl, Brz, 12, P4, and Sg.
+Many compounds also exist as molecules, and again the molecular
+formula is used in equations.
+Molecular
+formula
+Empirical
+formula
+N204
+NOZ
+Empirical formulae
+The empirical formula is the simplest whole-number ratio of atoms
+of each element in a compound.
+H20
+The empirical formula is important for substances that do not exist as
+molecules. This includes metals, some non-metals (e.g., carbon, C,
+and silicon, Si), and ionic compounds (e.g., sodium chloride, NaCl).
+P,06
+PO3
+These substances form giant crystalline structures of atoms or ions.
+C,H,203
+CHO
+It would be impossible to base a formula on the actual number of
+atoms or ions - the numbers would go into billions of billions and
+would vary depending on the size of the crystals.
+The empirical formula is the ratio of atoms or ions in the structure and
+will always be the same.
+Figures 1 and 2 show giant crystalline structures of carbon and sodium
+chloride. You will find out more about these structures later in the course.
+More relative masses
+Some compounds exist as simple molecules (e.g., water, H,O, and
+carbon dioxide, CO,). Other compounds exist as giant crystalline
+structures (e.g., all ionic compounds). Two terms are needed for relative
+mass, one for simple molecules and another for giant structures.
+A Figure 1 A diamond crystal and the giant
+structure of carbon atoms in a diamond
+Synoptic link
+You learnt about relative isotopic
+mass, relative atomic mass, the
+important role of carbon-12 in
+atomic mass measurements in
+Topic 2.2, Relative atomic mass.
+Relative molecular mass
+Relative molecular mass M, compares the mass of a molecule with
+the mass of an atom of carbon-12. You can easily calculate a relative
+molecular mass by adding together the relative atomic masses of the
+elements making up a molecule. The examples below show how to
+work out the relative molecular mass of molecules of water, H,O,
+carbon dioxide, Cox, and glucose, CH 206
+22
+3.4 Reacting quantities
+Reactions with high atom economies:
+. produce a large proportion of desired products and few unwanted
+waste products
+are important for sustainability as they make the best use of
+natural resources.
+Atom economy is based solely on the balanced chemical equation for
+a reaction and assumes a 100% yield.
+sum of molar masses of desired products
+atom economy =
+- X 100%
+sum of molar masses of all products
+Study tip
+Atom economy is worked out from
+the balanced equation. Unlike
+percentage yield, no experimental
+results are needed.
+The idea of atom economy has been developed alongside awareness
+of dwindling finite resources and environmental concerns about
+processing or disposing of harmful waste. Improving atom economy
+makes industrial processes more efficient, preserves raw materials, and
+reduces waste. In an ideal chemical process, a use would be found for
+all products and thus the atom economy would be 100%.
+) Worked example: Atom economy
+Hydrogen is an important raw material and is produced from the
+reaction of carbon with steam.
+What is the atom economy of this reaction?
+Study tip
+Step 1: Write the equation and the molar masses of the products.
+C(s) + 2H2O(g) + 2H2(g) + CO2(g)
+— 2 x 2.0 12.0 + 16.0 x 2 = 44.0
+Step 2: Calculate the atom economy.
+sum of molar masses of desired products
+atom economy =
+x 100
+sum of molar masses of all products
+2 x 2.0 x 100 = 8.3%
+2 x 2.0 + 44.0
+Remember to take account of
+the balancing numbers when
+accounting for the sum of all molar
+masses.
+How sustainable?
+The worked example reveals a poor atom economy, especially as the
+calculation assumes a 100% yield of hydrogen – the overall yield will
+be even worse. Furthermore, the undesired product is carbon dioxide,
+one of the gases that causes global warming. So how sustainable is this
+process?
+Atom economy only provides part of the answer.
+The process uses reactants that are readily available, carbon from
+coal and steam from water. Energy will be needed to produce the
+steam, but costs for obtaining starting materials are low.
+Other reactions may have a much larger atom economy but poor
+percentage yields. Efficiency will depend on both factors.
+36
+AMOUNT OF SUBSTANCE
+6) Worked example: Percentage yield
+1.15g of sodium reacts with an excess of chlorine, forming 1.872g of
+sodium chloride. What is the percentage yield of sodium chloride?
+Step 1: Calculate the amount, in moles, of Na that reacts.
+n(Na) = m = 1;16 = 0.0500 mol
+Step 2: Use the equation to find the theoretical yield of NaCl,
+in moles.
+equation 2 Na(s) + C1,(g) 2 NaCl(s)
+moles 2 mol
+2 mol
+amounts 0.0500 mol
+→ 0.0500 mol
+Step 3: Calculate the actual yield of NaCl, in moles.
+n(NaCl) – m
+- 1.872
+58.5
+= 0.0320 mol
+Step 4: Calculate the percentage yield of NaCl.
+% yield -
+actual yield
+X 100%
+theoretical yield
+0.0320 x 100 = 64.0%
+0.0500
+The limiting reagent
+In the example above, you have used two reactants with one reactant
+in excess. The reactant that is not in excess will be completely used up
+first and stop the reaction - it is called the limiting reagent.
+If you do not know which reactant is in excess, you need to find
+out by working out the amount in moles of each reactant and
+comparing with the equation. Calculations must be based on the
+limiting reagent.
+For example, when hydrogen and oxygen gases react to form water,
+2 mol of hydrogen are required for every 1 mol of oxygen:
+2H2(g) + O2(g) → 2H,0(1)
+2 mol Imol
+If equal amounts of hydrogen and oxygen are allowed to react, hydrogen
+will be used up first, and half the oxygen will be unreacted. The limiting
+reagent is hydrogen, so calculations must be based on hydrogen.
+Atom economy
+The atom economy of a chemical reaction is a measure of how well
+atoms have been utilised.
+AMOUNT OF SUBSTANCE
+Molar mass
+Molar mass, M, gives a convenient way of linking moles with mass
+for any chemical substance.
+M(C)
+= 12.0 gmol-1.
+M(NO) = 14.0 + 16.0 x 2
+= 46.0 g mol-1
+M(Na,Co) = 23.0 x 2 + 12.0 + 16.0 x 3 = 106.0 gmol-!.
+Molar mass gives the mass in grams in each mole of the substance.
+Molar mass is the mass per mole of a substance.
+The units of molar mass are gmol-.
+•
+Amount of substance n, mass m, and molar mass M are linked by the
+equation below.
+mass 11
+amount =-
+molar mass M
+or more simply,
+n = in
+ne
+is a key equation for working out n, m, or M.
+Study tip
+Learn n = M and make sure that
+you are comfortable rearranging
+the equation so that you can work
+out any of n, m, and M from the
+other two. You may find this format
+useful to remember:
+(5) Worked example: Amount of substance, mass, and
+molar mass
+1 Calculate the amount of substance, in moles, in 96.0g of
+carbon, C.
+11 =
+11196.
+= 8.0 mol
+M12.
+00
+=
+2 Calculate the mass, in g, of 0.050 mol of NOZ.
+rearrange n=
+to m = n x M = 0.050 X 46.0 = 2.3g
+M
+3 Calculate the molar mass when 2.65g contains 0.025 mol of a
+substance.
+n = rearrange: M=m= 2.0. = 106.0g mol-1
+If you cover n, you are left with
+If you cover m, you are left
+with n < M. If you cover M, you are
+left with
+Summary questions
+1 Calculate the amount of substance, in mol, in the
+following. Use relative atomic masses to one decimal
+place.
+a 6.00 g HF
+(1 mark)
+b 220 g N20
+(1 mark)
+c 1.14 g Cr,0,
+(1 mark)
+d 0.0150 g C6H1206
+(1 mark)
+e 3.45 x 10-²g Ca(OH)2
+(1 mark)
+Calculate the mass, in g, of the following. Use relative
+atomic masses to one decimal place.
+a 280 mol Beo
+(1 mark)
+b 0.150 mol HNO,
+(1 mark)
+C 0.0500 mol H,PO
+(1 mark)
+d 1.25 x 10-2 mol Na,co,
+(1 mark)
+e 4.55 x 10-3 mol Ca(NO)
+(1 mark)
+Calculate the molar mass, in g mol-1, of the following
+substances. Use relative atomic masses to one
+decimal place.
+a 5.00 mol A has a mass of 140g (1 mark)
+b 0.125 mol B has a mass of 9.25g (1 mark)
+C 4.50 x 10-2 mol Chas a mass of 3.825 (1 mark)
+AMOUNT OF SUBSTANCE
+EWorked example: Reacting mass, gas volumes, and
+concentration
+0.552g of lithium reacts with water to form 125 cm of a
+solution of lithium hydroxide and hydrogen gas. Calculate
+the concentration of the lithium hydroxide and the volume of
+hydrogen formed at room temperature and pressure (RTP).
+Step 1: Calculate the amount, in mol, of lithium that reacts.
+_m_ 0.552 = 0.0800 mol
+n(Li) = M = 6.9
+Step 2: Use the equation to find the amounts of LiOH and H,
+formed.
+equation 2 Li(s) + 2 H2O(l) → 2 LiOH(aq) + H2(g)
+moles 2 mol
+→ 2 mol + Imol
+amounts 0.0800 mol
+→ 0.0800 mol 0.0400 mol
+Step 3: Calculate the concentration of LiOH(aq) and volume of
+H,(g) in cm at RTP.
+V (in cm )
+n(LiOH) = (x"
+1000
+SO.<= 1000 x n _ 1000 x 0.0800
+125
+= 0.640 moldm-
+n(H) = V(in cm)
+24 000
+so, V=n 24000 = 0.0400 x 240000 = 960 cm
+Synoptic link
+As part of the practical skills required
+for your course, you need to know
+how to measure mass, volumes of
+solutions, and volumes of gases.
+This practical application box tells
+you how to measure the volumes
+of gases.
+0
+Identifying an unknown metal
+The method below shows how you could carry out an experiment to identify
+an unknown Group 2 metal X. The results can then be analysed using the set
+method for reacting quantities.
+Measuring mass, volumes of
+solutions, and volumes of gases
+are also covered in:
+1 Set up the apparatus shown in Figure 1.
+2 Weigh a sample of the
+metal and add to the flask.
+gas syringe
+3 Using a measuring
+cylinder, add 25.0 cm3
+1.0 mol dm-HCl(aq) (an
+excess) to the flask and
+quickly replace the bung.
+Topic 3.2, Determination of
+formulae, for how to measure
+mass
+Topic 4.2, Acid-base titrations,
+for how to measure volumes of
+solutions
+Topic 9.2, Measuring enthalpy
+changes, for how to measure
+mass
+Topic 10.1, Reaction rates, for
+how to measure volumes of
+gases.
+dilute
+hydrochloric acid
+Measure the maximum
+volume of gas in the
+syringe.
+unknown metal
+Figure 1 Apparatus for determination of
+an unknown metal
+AMOUNT OF SUBSTANCE
+3.1 Amount of substance and
+the mole
+Specification reference: 2.1.3
+Counting and weighing atoms
+Chemicals are usually measured by mass or volume. Because reactions
+take place on an atomic scale, chemists need a method for converting
+a measured mass or volume into the actual number of particles
+involved in reactions.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the amount of substance,
+the mole, and the Avogadro
+constant
+→ molar mass
+→ calculations involving
+masses and moles.
+Amount of substance and the mole
+Chemists use a quantity called amount of substance n to count
+the number of particles in a substance, measured in a unit called
+the mole mol. One mole is the amount of a substance that contains
+6.02 x 1023 particles. The Avogadro constant N, is 6.02 x 1023 mol-,
+the number of particles in each mole of carbon-12.
+Synoptic link
+You learnt about carbon-12 in
+Topic 2.1, Relative mass.
+The choice of 6.02 x 1023 particles per mole may seem strange, but
+is directly linked to the mass of carbon-12, the standard for the
+measurement of relative atomic masses. 12 g of carbon-12 contains
+6.02 x 1023 atoms. You can easily find the mass of one mole (1 mol) of
+atoms of any element - it is the relative atomic mass in grams.
+Study tip
+The mass of 1 mole of atoms of an
+element equals the relative atomic
+mass in grams
+• One mole of carbon, C, atoms has a mass of 12.0g
+One mole of hydrogen, H, atoms has a mass of 1.0g
+One mole of magnesium, Mg, atoms has a mass of 24.3 g
+• One mole of iron, Fe, atoms has a mass of 55.8g
+So if you have a sample of an element and know its mass, you now
+have a way of knowing the number of atoms. This is a very important
+idea for chemistry - it offers an easy way of counting something that
+cannot be seen, just by measuring the mass.
+The Avogadro constant - amazingly large
+It is difficult for us to comprehend the size of very large numbers.
+If 6.02 x 1023 (I mol) pennies were shared evenly between all humans
+on Earth, every person could spend £lm every hour for their whole life.
+A Figure 1 Molar quantities for chemical
+elements, clockwise from top left
+• 12.0 g carbon, C
+• 32.1 g sulfur, S
+• 55.8 g iron, Fe
+. 63.5g copper, Cu
+• 24.3 g magnesium, Mg.
+Each sample contains the same number
+of atoms, but their masses
+are different
+Particles matter
+Amount of substance and moles can refer to anything, not just atoms.
+When you work in moles, it is important to use the formula or
+unambiguous name of a substance for clarity.
+1 mol of H: 1 mol of hydrogen atoms
+1 mol of H,: 1 mol of hydrogen molecules
+20
+3.4 Reacting quantities
+Results
+mass of unknown metal = 0.14 g
+volume of H, collected = 84 cm3
+Step 1: From the experimental results, the amount of H, (g) can be calculated.
+Assuming RTP, n(H2) =
+u Vin cm)
+24 000
+84
+24000
+= 0.00350 mol
+Step 2: From the equation, and the result from Step 1, the amount of metal
+X can be determined.
+X(s) + 2 HCl(aq) → XCI_(aq) + H2(g)
+1 mol
+1 mol
+0.00350 mol
+0.00350 mol
+Step 3: Work out the unknown information.
+You now know the amount, in moles, and mass of X, so you are
+nearly there!
+n(x) =
+m
+SO, M(x)
+so, M(x) = n(X)
+0.14
+0.00350
+= 40 g mol-1
+From the periodic table, Ca has a relative atomic mass of 40.1.
+The unknown metal X is calcium
+The experiment was repeated with another Group 2 metal. 0.064g
+produced 63 cm of hydrogen. Analyse the results to identify the metal.
+Percentage yield
+So far, all our calculations have assumed that all of the reactants are
+converted into products. This maximum possible amount of product is
+called the theoretical yield. Unfortunately this is difficult to achieve for
+several reasons, including:
+the reaction may not have gone to completion
+other reactions (side reactions) may have taken place alongside the
+main reaction
+purification of the product may result in loss of some product.
+The actual yield obtained from a reaction is usually lower than the
+theoretical yield. The conversion of starting materials into a desired
+product is expressed by the percentage yield.
+actual yield
+percentage yield = 1
+theoretical yield
+X 100%
+34
+3.3 Moles and volumes
+A
+Finding a relative molecular mass
+You can use the ideal gas equation to find the relative molecular mass of a
+volatile liquid. Using the method below, the unknown compound would need
+to be a liquid at room temperature but have a boiling point below 100°C so
+that it vaporises.
+1 Add a sample of the volatile liquid to a small syringe via a needle.
+Weigh the small syringe.
+Inject the sample into a gas
+syringe through the
+self-sealing rubber cap
+(Figure 3). Reweigh the small
+syringe to find the mass of
+the volatile liquid added to the
+gas syringe.
+- gas syringe
+Place the gas syringe in a
+boiling water bath at 100°C,
+as shown in Figure 3. The
+liquid vaporises producing a
+gas. The pressure is recorded.
+self-sealing
+rubber cap
+- boiling water
+Figure 3
+Results
+mass of volatile liquid = 0.2245g
+volume of gas in gas syringe = 81.0 cm
+atmospheric pressure = 100 kPa
+Follow the steps below to calculate the relative molecular mass of the
+volatile liquid.
+Step 1: Convert all quantities to match the ideal gas equation.
+V = 81.0 cm3 = 81.0 x 10-6 m3
+T = 100°C = 100+ 273 K = 373K
+p= 100 kPa = 100 x 103 Pa
+n=unknown
+Step 2: Use the ideal gas equation to calculate the unknown.
+PV = nRT rearranges to, npr
+(100 x 103) (81.0 x 10 )=0.00261 mol of X
+n=
+8.314 x 373
+Step 3: Find the molar mass.
+mass m
+molar mass M
+m
+0.2245 – 86.0 gmol-1
+n 0.00261
+relative molecular mass, M. = 86.0
+A 0.320 g sample of a volatile liquid was heated until it vaporised. The
+resulting vapour then occupied 61.5 cm at 101 kPa and 100°C.
+Calculate the relative molecular mass of the volatile liquid.
+30
+3.2 Determination of formulae
+Hydrated salts
+Many coloured crystals are hydrated – water molecules are part
+of their crystalline structure. This water is known as water of
+crystallisation. When blue crystals of hydrated copper(II) sulfate are
+heated, bonds holding the water within the crystal are broken and
+the water is driven off, leaving behind white anhydrous copper(II)
+sulfate. The equation below represents the change when water is
+removed. The water of crystallisation is shown in the formula of
+hydrated copper (II) sulfate with a large dot. between the compound
+formula and the five water units.
+CuS0, 51, 0(s) → Cuso (s) + 5H,0(1)
+hydrated
+anyhdrous
+Without water, the crystalline structure is lost and a white powder
+remains. It is difficult to remove the last traces of water, as you can
+see from the very pale blue colour of the anhydrous copper(II) sulfate
+in Figure 4.
+Figure 4 Hydrated (blue) and
+anyhydrous (white) copper(II) sulfate
+A
+Formula of a hydrated salt
+The results are shown below.
+mass of crucible/g
+18.742
+= Reading A
+The method below describes how you could carry out
+an experiment to determine the water of crystallisation
+in hydrated crystals. The calculation is similar to the
+method described for an empirical formula.
+The experiment uses hydrated copper(II) sulfate but the
+method would be suitable for any hydrated salt.
+mass of crucible +
+hydrated salt/g
+28.726
+- Reading B
+mass of crucible +
+anhydrous salt/g
+25.126
+- Reading
+Step 1: Weigh an empty crucible.
+Step 2: Add the hydrated salt into the weighed crucible.
+Weigh the crucible and the hydrated salt.
+Step 1: Calculate the amount, in mol, of anhydrous CuSO -
+mass m of CuSO, formed=C-A=25.126 - 18.742=6.384g
+rusn m 6.384
+n(CuSO4) = = 70 c = 0.0400 mol
+Step 3: Using a pipe-clay triangle, support the
+crucible containing the hydrated salt on a tripod
+(Figure 5). Heat the crucible and contents gently
+for about one minute. Then heat it strongly for a
+further three minutes.
+Step 2: Calculate the mass and amount, in mol, of water.
+mass m of H,0 formed =B-C= 28.726 - 25.126 = 3.600 g
+600
+n=0.200 mol
+18 0
+Step 4: Leave the crucible to cool. Then weigh the crucible
+and anhydrous salt.
+crucible
+hydrated copper(II) sulfate
+pipe-clay triangle
+Step 3: Find the smallest whole-number ratio.
+n(CuS04): n(H2O) = 0.0400:0.200 = 1:5
+Step 4: Write down the value of x and the formula of
+hydrated copper sulfate.
+x = 5 so the formula is CuSO, •54,0
+tripod
+Use the student results below to determine the value
+of x and the formula of CoCl2 oxH_0.
+Bunsen burner
+mass of crucible/g
+17.265
+18.438
+mass of crucible + hydrated salt/g
+mass of crucible + anhydrous salt/g
+17.906
+Figure 5 Apparatus for heating crucible
+24
+AMOUNT OF SUBSTANCE
+• M(H2O) = (1.0 x 2) + 16.0 = 18.0
+• M.(CH) = 12.0 + (1.0 x 4) = 16.0
+• M(CH,200) = (12.0 X 6) + (1.0 x 12) + (16.0 x 6) = 180.0
+Relative formula mass
+Relative formula mass compares the mass of a formula unit with
+the mass of an atom of carbon-12. It is calculated by adding together
+the relative atomic masses of the elements in the empirical formula, as
+shown in the examples below.
+NaCl = 23.0 + 35.5 = 58.5
+. Ca(NO2)2 = 40.1 + (14.0 + 16.0 x 3) x 2 = 164.1
+chloride ion, Cr
+Finding formulae by experiment
+You can predict the formula of an ionic compound from its ions, but
+if you do not know which ions are in a compound, the formula can
+be worked out from the results of experiments. Investigating the
+chemical composition of a substance is called analysis.
+These worked examples show two common ways to calculate
+empirical and molecular formulae from experimental mass readings.
+Notice the central role of the mole in these calculations.
+sodium ion, Nat
+A Figure 2 Rock salt (sodium chloride)
+crystals and the giant structure with one
+sodium ion for every chloride ion
+Study tip
+O Worked example: Empirical formula from mass
+In an experiment, 1.203g of calcium combines with 2.13 g of
+chlorine to form a compound [A : Ca, 40.1; CI, 35.5).
+Step 1: Convert mass into moles of atoms using n=m
+n(Ca) = 44203 = 0.030mol n(CI) = 353 = 0.060 mol
+Step 2: To find the smallest whole-number ratio, divide by the
+smallest whole number.
+M
+Students sometimes wrongly
+round ratios of moles that appear
+quite close to a whole-number
+ratio. If you calculate a ratio of
+1:1.67, don't be tempted to round
+it up to 1:2. Instead see whether
+you can convert the ratio into a
+whole-number ratio by multiplying
+both sides by the same factor, in
+this case 3 to give 3:5.
+n(Ca):n(cl) = 0.030. 0.060_1
+0.030 0.030 = 1:2
+Step 3: Write the empirical formula: Caci,
+6.67
+1(C) = 120
+12.
+0
+3.33 mol
+2) Worked example: Determination of a molecular formula
+Chemical analysis of a compound gave the percentage composition by mass C: 40.00%; H: 6.67%;
+0:53.33% [A: C, 12.0; H, 1.0; 0, 16.0). The relative molecular mass of the compound is 180.0.
+Step 1: Convert % by mass into moles of atoms using n=m
+40.00
+(H) = 6.67 mol n(0) = 536,33 = 3.33 mol
+1.0
+Step 2: Find smallest whole-number ratio and empirical formula.
+3.33.6.67.3.33 = 1:2:1
+n(C): n(H): n(O
+empirical formula = CHO
+3.333.333.33
+Step 3: Write the relative mass of the empirical formula CH,O: 12.0 + 1.0 x 2 + 16.0 = 30.0
+Step 4: Find number of CH,O units in one molecule: 100 = 6
+Step 5: Write the molecular formula: CH,0 x 6 = CH20.
+AMOUNT OF SUBSTANCE
+ideal gas constant =
+8.31 Jmol-1 K-1
+volume
+(m3)
+www
+Synoptic link
+If you have not met the Kelvin
+scale of temperature before, you
+can find out more detail in Topic
+9.2. Measuring enthalpy changes.
+PV = nRT
+temperature
+(K)
+pressure
+(Pa)
+amount of gas
+molecules (mol)
+As long as you know three of p, V, n, and T, you can always find out
+the unknown variable using the ideal gas equation.
+Before using the ideal gas equation, you need to convert any
+quantities into the correct units Pa, K, and m'. The conversions from
+measurements likely to be made when carrying out experiments are
+shown below.
+cm to my
+dm to m?
+°C to K
+x 10-6
+* 10-3
++ 273
+kPa to Pa
+X 103
+O Worked example: What is room temperature and
+pressure?
+You can use the ideal gas equation to find out the conditions
+that give a molar gas volume of 24.0 dmmol-!. Assume that
+the pressure is latm = 101 kPa and use this to calculate room
+temperature.
+Study tip
+The hardest part of calculations
+using the ideal gas equation,
+PV = nRT, is making sure that you
+are working in units of Pa, m?, and
+K. Learn the conversion rules.
+Step 1: Convert all quantities to match the ideal gas equation.
+p = 101 kPa = 101 x 10 Pa
+V= 24.0dm = 24.0x 10-m
+n= 1 mol
+T = unknown
+Step 2: Use the ideal gas equation to calculate the unknown.
+PV = nRT rearranges to, T=PV
+nR
+(101 x 103) x (24.0 x 10) = 292 K = 19°C
+1 x 8.314
+T
+-
+1
+Many people make the incorrect assumption that room temperature is
+25°C (298 K), the temperature often regarded as standard temperature
+for chemistry. Using the ideal gas equation, you can show that the
+molar gas volume at 25°C and an atmospheric pressure of 101 kPa is
+actually equal to 24.5 dm'mol-!
+29
+AMOUNT OF SUBSTANCE
+Synoptic link
+How accurate is an experimental formula?
+The application above gives a perfect formula for hydrated copper(II)
+sulfate. Some assumptions have been made, and real experiments may
+not always work out as well.
+As part of the practical skills
+required for your course, you need
+to know how to measure mass,
+volumes of solutions, and volumes
+of gases.
+Assumption 1 - All of the water has been lost
+If the hydrated and anhydrous forms have different colours, you can
+be fairly sure when all water has been removed. However you only see
+the surface of the crystals and some water could be left inside. If the
+hydrated and anhydrous forms are similar colours, it is not as easy.
+A good solution is to heat to constant mass - the crystals are reheated
+repeatedly until the mass of the residue no longer changes, suggesting
+that all water has been removed.
+This practical application box tells
+you how to measure masses.
+Measuring mass, volumes of
+solutions, and volumes of gases
+are also covered in:
+Assumption 2 - No further decomposition
+Many salts decompose further when heated; for example, if heated
+very strongly, copper(II) sulfate decomposes to form black copper(II)
+oxide. This can be very difficult to judge if there is no colour change.
+Summary questions
+Topic 3.4, Reacting quantities,
+for how to measure the
+volumes of gases
+Topic 4.2, Acid-base titrations,
+for how to measure volumes of
+solutions
+Topic 9.2, Measuring enthalpy
+changes, for how to measure
+mass
+Topic 10.1, Reaction rates,
+for how to measure volumes
+of gases.
+(3 marks)
+1 a Determine the relative molecular mass of the following:
+i SO
+ji P,010
+(3 marks)
+iii HCIOA
+b Determine the relative formula mass of the following:
+i MgBra
+ii NH.NO
+iii AI (SO4)3
+2 A nickel compound has the formula Ni(NO2), •xH,O and a molar mass
+of 290.7 g mol-1. Calculate the value of x.
+(3 marks)
+3 Determine all possible molecular formulae and M. values less
+than 120 for the empirical formula CH,
+(1 mark)
+4 A student carried out an experiment to calculate the water of
+crystallisation of two hydrated salts. For the first salt, the student did
+not remove all the water of crystallisation. For the second salt, the
+student removed all the water of crystallisation, but unfortunately the
+salt decomposed further.
+For each salt, explain whether the student's calculated value of x, the
+number of water molecules in the formula unit, would be greater or
+smaller than the actual value of x in data books.
+(4 marks)
+AMOUNT OF SUBSTANCE
+Real gases
+The ideal gas equation relies on two key assumptions:
+• forces between molecules are negligible
+• gas molecules have negligible size compared to the size of their container.
+These assumptions hold at low pressures and high temperatures when the
+gas molecules are far apart and moving fast.
+When gas molecules are close together, the volume of the molecules
+compared with the volume of the container starts to become significant.
+Also if gas molecules move comparatively slowly, they have less energy and
+intermolecular forces may become significant.
+Scientists have developed several improvements to the ideal gas equation
+for real gases. In the real gas equation, corrections have been made to take
+into account the volume of gas molecules and intermolecular forces.
+real gas equation: (p+na) (v – nb) = nRT
+accounts for
+intermolecular forces
+accounts for volume
+of gas molecules
+Predict the conditions of pressure and temperature that cause the ideal
+gas equation to break down. Explain your answer.
+Summary questions
+1 Calculate the amount of substance, in moles, in:
+a 250 cm of a 1.00 mol dm-3 solution
+b 10.0 cm of a 0.200 mol dm-3 solution.
+(1 mark)
+(2 marks)
+2 Calculate the concentration, in g dm-3, for:
+a 2.00 mol of NaOH in 4.00 dm3 of solution
+(2 marks)
+b 0.500 mol of HNO in 200 cm of solution.
+(2 marks)
+3 Calculate the amount of substance, in mol, in the following gas
+volumes at RTP:
+a 1440 dm3 0, (g)
+(2 marks)
+b 720 cm Heig)
+(2 marks)
+c 34.0 cm H, (g)
+(2 marks)
+4 Calculate is the volume of one mole of a gas at:
+a 10°C and 100 kPa
+(2 marks)
+b 35°C and 92.0 kPa
+(2 marks)
+5 Calculate the volume in cm at RTP of:
+a 0.136 g NH (g)
+b 0.088 g CO2(g)
+c 0.0175 g N, (g)
+(2 marks)
+(2 marks)
+(2 marks)
+6 0.1565 g of X occupies 80.0 cm at 101 kPa and 100 °C.
+Calculate the relative molecular mass of X.
+(3 marks)
+3.4 Reacting quantities
+Specification reference: 2.1.3
+Stoichiometry
+In a balanced equation, the balancing numbers give the ratio of
+the amount, in moles, of each substance. This ratio is called the
+stoichiometry of the reaction.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ stoichiometry
+→ quantities of reactants and
+products from equations
+percentage yield
+atom economy
+practical techniques for
+measuring the volume of
+a gas.
+equation 2 H, (g) + 0,(g) + 2 H2O(1)
+amount 2 mol mol — 2 mol
+Chemists use balanced equations to find:
+the quantities of reactants required to prepare a requried quantity
+of a product
+the quantities of products that should be formed from certain
+quantities of reactants.
+These quantities can then be changed to adjust the scale of a
+preparation.
+Quantities from amounts and equations
+The two worked examples show how unknown information about a
+substance can be obtained using amounts and an equation together.
+Each example follows the same basic method:
+Study tip
+For most problems, steps 1 and 2
+will follow the same method. The
+processing for step 3 can vary.
+• Step 1: Work out the amount in moles of whatever you can.
+• Step 2: Use the equation to work out the amount in moles of the
+unknown chemical.
+. Step 3: Work out the unknown information required.
+9 Worked example: Reacting masses
+Calculate the mass of aluminium oxide, Al,0,, formed when
+8.10g of aluminium completely reacts with oxygen.
+Step 1: Calculate the amount, in moles, of Al that reacts.
+8.10 = 0.300 mol
+n(Al) = m = 8.100
+Study tip
+You need the ratios:
+4 mol Al 2 mol A1,0
+Then halve the moles of Al to get
+the moles of AI20,-
+0.300 mol Al 0.150 mol A1,0
+Step 2: Use the equation to find the amount of Al,0, in moles,
+that forms.
+equation 4 Al(s) + 30,(g) → 2 A1,0,(s)
+moles 4mol + 3 mol → 2mol
+amounts 0.300 mol
+0.150 mol
+1
+Step 3: Calculate the mass of A1,0, formed.
+n(Al2O3) =* so, m= n < M = 0.150 (27.0 x 2 + 16.0 x 3)
+= 0.150 x 102.0 = 15.3g
+3.3 Moles and volumes
+Specification reference: 2.1.3
+Using volume for measuring amount of substance
+Liquids and gases are measured by volume. As with mass, the volume
+of a solution or a gas can be converted into amount of substance, in
+moles, giving us a way to count the particles present.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ concentration, solution
+volumes, and the mole
+► molar gas volumes
+► the ideal gas equation.
+The volume measurements commonly used in chemistry are:
+= 1 ml
+the cubic centimetre (cm) or millilitre (ml): 1 cm
+• the cubic decimetre (dm) or litre (1):
+Idm = 1000 cm = 1000 ml = 1 litre, 1 l.
+You will be expected to use cm and dm. In practical work, you will
+use glassware graduated in ml and I, and you should record these
+readings in cm and dm.
+Moles and solutions
+To work out the amount, in moles, of a measured volume of the
+solution, you need to know the concentration (moldm ) of the
+solute (the dissolved compound). The concentration of a solution is
+the amount of solute, in moles, dissolved in each 1 dm (1000 cm)
+of solution.
+A Figure 1 Laboratory glassware
+Almol dm-3 solution contains 1 mol of solute dissolved in each
+1 dm of solution.
+Converting between moles and solution volumes
+For a solution, amount n (mol) and volume V (dm) are linked by the
+concentration c (moldm?).
+Study tip
+You will use these equations many
+times, so you will need to learn them.
+11 =CA
+You will usually measure volumes in cm so you will need to convert
+into dm' by dividing by 1000. The equation then becomes:
+n=cx V (cm)
+1000
+6) Worked example: Converting between solution
+volumes and moles
+I Calculate the amount of NaCl, in mol, in 30.0 cm of a
+2.00 mol dmsolution.
+n(NaCl) = cx V (cm) = 2.00 30.0 = 0.0600 mol
+1000
+2 Calculate the volume of a 0.160 moldm-3 solution that
+contains 3.25 x 10-3 mol of NaCl.
+V (cm)
+1000 x n 1000 X 3.25 x 10-3
+11 = ( X-
+SO, V=
+1000
+0.160
+= 20.3 cm
+26
+3.3 Moles and volumes
+RTP is about 20°C and 101 kPa (1 atm) pressure
+At RTP, 1 mole of gas molecules has a volume of approximately
+24.0 dm = 24000 cm.
+Therefore, at RTP, the molar gas volume = 24.0 dm’mol-!.
+.
+Converting between amount in moles and gas volumes
+Using the following equation, you can convert between the amount in
+moles of a gas, and the volume of the gas, V.
+volume V
+amount n (mol) = —
+molar gas volume V
+At RTP, Vm = 24.0 dm'mol-', so
+V (dm)
+when Vis in dm n =
+24.0
+V (cm )
+when Vis in cm3
+24000
+A Figure 2 A helium weather balloon
+is released by a meteorologist. A sensor
+attached to the balloon will measure
+ozone distribution in and beyond the
+ozone layer, which is 20-30 km above
+the Earth's surface. So helium balloons
+are far less dense than air and they are
+able to rise up to the ozone layer
+9) Worked example: Converting between gas
+volume and amount in moles
+1 Calculate the amount (mol) of hydrogen, H,(g), in 480 cm3
+at RTP.
+V (in cm) - 480 = 0.0200 mol of H,
+24000 24000
+2 Calculate the volume, in dm?, of 0.150 mol 0,(g) at RTP.
+Rearrange to give V (dm) = n x 24.0
+so, V = 0.150 x 24.0 = 3.60 dm3
+12 =
+The ideal gas equation
+Room temperature and pressure will always be approximate, chosen
+to match the typical conditions that experiments are carried out in.
+So what do you do when carrying out experiments where the gases
+are at different temperatures or pressures, or if you need to be more
+accurate? The ideal gas equation provides a solution.
+You will have come across the following assumptions for the
+molecules making up an ideal gas:
+• random motion
+elastic collisions
+negligible size
+no intermolecular forces.
+The ideal gas equation is shown below.
+PV = nRT
+The ideal gas constant R is a pV = nRT constant and always has the
+same value of 8.314J mol-'K-1. Temperature is in units of K (Kelvin),
+which starts at absolute zero (-273°C). Each 1 K rise in temperature is
+the same as a l°C rise in temperature.
+28
+AMOUNT OF SUBSTANCE
+a A student attempts to prepare hydrated
+aluminium sulfate by the following method.
+The student heats dilute sulfuric acid with
+an excess of solid aluminium oxide.
+The student filters off the excess
+aluminium oxide to obtain a colourless
+solution of Al(SO4)3.
+(i) State the formulae of the two main
+ions present in the solution of
+Al2(SO4)3
+(2 marks)
+(ii) Write an equation for the reaction
+of aluminium oxide, Al,0z, with
+sulfuric acid. Include state symbols.
+(2 marks)
+(iii) What does '•xH,O' represent in the
+formula Al2(SO2)3•xH_0? (1 mark)
+(iv) The student heats 12.606 g of
+AL (SOA), •xH O crystals to constant
+mass. The anhydrous aluminium
+sulfate formed has a mass of 6.846g.
+Use the student's results to calculate
+the value of x. The molar mass of
+Al2(SO4)3 = 342.3 g mol-. (3 marks)
+F321 June 2013 (2a)
+11 a Borax, Na,B,0,•10H,O, can be used to
+determine the concentration of acids such
+as dilute hydrochloric acid.
+A student prepares 250 cm of a
+0.0800 moldm solution of borax in
+water in a volumetric flask.
+Calculate the mass of borax crystals,
+Na B,0210H,O, needed to make up
+250 cm² of 0.0800 moldm-solution.
+(3 marks)
+b The student found that 22.50 cm of
+0.0800 moldm-" Na,B,0, reacted with
+25.00 cm' of dilute hydrochloric acid.
+Na,B,02 + 2HCI + 51,0 - 2NaCl + 4H,BO,
+(i) Calculate the amount, in mol, of
+Na,B,0, used.
+(1 mark)
+(ii) Calculate the amount, in mol, of HCl
+used.
+(1 mark)
+(iii) Calculate the concentration, in
+moldm-3, of HCl.
+(1 mark)
+F321 Jan 2013 5(c)(d)
+12 Lithium carbonate, Li,Co, is added to an
+excess of dilute hydrochloric acid.
+Li CO3(s) + 2HCl(g) — 2LiCl(g) + CO2(g) + H20(1)
+A student adds 1.845 g Li,Co, to 125 cm3
+of 0.500 moldm- HCl. The volume of the
+solution formed is 125 cm?.
+a Predict two observations that you would
+expect to see during this reaction. (2 marks)
+b Explain what is meant by 0.500 mol dm-3
+HC).
+(1 mark)
+c (i) Calculate the amount, in moles, of
+Li,Co, and HCl that were reacted.
+(3 marks)
+(ii) Calculate the amount, in mol of HCI
+that was in excess.
+(2 marks)
+d (i) Calculate the volume of CO (g) that
+would be expected, measured at RTP.
+(1 mark)
+(ii) Suggest why the volume of CO,
+produced at RTP is likely to be less
+than your answer to (ii). (1 mark)
+e Calculate the concentration, in moldm-3,
+of LiCl in the solution formed. (1 mark)
+13 a A factory makes ethyne gas, C,H, from
+calcium carbide, CaC,. One of the waste
+products is calcium hydroxide.
+Cac2 + 2H20 - Ca(OH)2 + C,H,
+Each day 1.00 x 10 grams of calcium
+carbide are used and 3.60 x 10dm of
+ethyne gas, measured at room temperature
+and pressure, is manufactured.
+(i) Calculate the atom economy for this
+process using the relative formula
+masses in the table below. (2 marks)
+Compound Relative formula mass
+Cacz
+64.1
+H,0
+18.0
+Ca(OH),
+74.1
+26.0
+C,H2
+(ii) Calculate the amount, in moles, of
+Cac, used each day. (1 mark)
+(iii) Calculate the amount, in moles, of
+CH, made each day. (1 mark)
+(iv) Calculate the percentage yield of C,H,.
+(1 mark)
+(v) Comment on the percentage yield
+and the atom economy of this process
+in terms of sustainability. (2 marks)
+F322 Jun 2010 1(e)
+39
+AMOUNT OF SUBSTANCE
+Synoptic link
+Standard solutions
+A standard solution is a solution of known concentration,
+In practical work, you will have seen bottles of standard solutions
+labelled with their concentration, often as I moldm-?.
+Standard solutions and their
+preparation are discussed in detail
+in Topic 4.2, Acid-base titrations.
+Standard solutions are prepared by dissolving an exact mass of the
+solute in a solvent and making up the solution to an exact volume.
+Using your understanding of the mole, you can work out the mass
+required to prepare a standard solution.
+) Worked example: Standard solutions
+Calculate the mass of Na, co, required to prepare 100 cm
+0.250 moldm" standard solution.
+of a
+Step 1: First work out the amount in moles required.
+V (in cm) - 0.250 x 100 = 0.0250 mol
+n(Na, CO3) = CX1000
+Step 2: Then work out the molar mass of Na,Co,.
+M(Na CO2) = 23.0 x 2 + 12.0 + 16.0 x 3 = 106.0g mol-1
+Step 3: Rearrange nam to calculate the mass of Na Co, required.
+m=nx M = 0.0250 x 106.0 = 2.65g
+Other ways of showing concentrations
+You will often see mass concentrations with units of gdm . For the
+solution of Na,Co, in the worked example above, the concentration
+is 0.250 moldm-3. To work out the mass concentration, you need to
+convert between moles and grams.
+• num so, m= n < M = 0.250 x 106.0 = 26.50g
+• mass concentration of Na,Co, = 26.5g dm-3.
+Moles and gas volumes
+In Topic 3.1, you saw how to convert between mass in grams and
+amount of substance in moles. It is difficult to measure the mass of a
+gas but easy to measure gas volumes.
+At the same temperature and pressure, equal volumes of different
+gases contain the same number of molecules.
+So when you measure a gas volume, you are indirectly counting the
+number of gas molecules (or the amount of gas molecules in moles).
+Molar volume
+The molar gas volume V is the volume per mole of gas molecules at
+a stated temperature and pressure.
+The volume of a gas depends on the pressure and temperature, but many
+experiments are carried out at room temperature and pressure (RTP).
+AMOUNT OF SUBSTANCE
+Summary questions
+1 a Balance the equation
+Ca(s) +0,(g) - Cal(s).
+(1 mark)
+b State the masses of Ca and 0, that completely react
+together to form 4.488 g Cao.
+(2 marks)
+c Calculate the volume of O, (g) at RTP that reacts
+with 2.807 g Ca.
+(2 marks)
+2 Calculate the atom economy for the following industrial processes.
+a NH, production:
+N, + 3H, -2NH2
+(2 marks)
+b C,H,OH production:
+CH206 2C,H,OH + 2002
+(2 marks)
+3 35g of HF was prepared by reacting 112 g of CaF, with an excess of
+H2SO4
+CaF+H2SO4 → 2HF + Caso
+Calculate the percentage yield of HF and the atom economy of
+this process.
+(3 marks)
+a Balance the equation:
+SO, (g) +0,(g) - 50 (g)
+(1 mark)
+b State the volumes of So, and 0,, at RTP, that would produce
+180 cm? of SOZ
+(1 mark)
+c 150 cmSo, (g) and 100 cm 0% (g) react together. (2 marks)
+i State which reactant is in excess.
+ii State the volume of SO (g) that could form using these quantities.
+5 Hydrogen can be prepared from the reaction of methane in natural gas
+with steam. The other product
+is carbon monoxide.
+a Write an equation for this reaction and calculate the atom
+economy.
+(2 marks)
+b 100 g of methane react with an excess of steam,
+forming 324 dm of hydrogen at RTP.
+Calculate the percentage yield of hydrogen.
+(1 mark)
+6 a Balance the equation:
+Cr(s) + HCl(aq) → CrCl(aq) + H2(g)
+(1 mark)
+b Calculate the volume of H, at RIP formed by the complete
+reaction of 1.17 g Cr with excess HCl(aq).
+(2 marks)
+c The volume of HCl(aq) used is 150 cm. What is the
+minimum concentration of HCl(aq) needed to react
+with all of the Cr?
+(2 marks)
+7 0.054 g of an unknown metal X reacts with an excess of sulfuric acid to
+form 72 cm of H, (g).
+The equation is: 2X(aq) +
+Identify metal X.
+(3 marks)
+Chapter 3 Practice questions
+Practice questions
+1 A compound has the percentage composition
+by mass: Ca, 30.35%; N, 21.20; 48.45%
+What is the empirical formula of the
+compound?
+2 When heated, potassium chlorate(VII),
+KCIO,(s) decomposes to form KCl(s) and
+108 cm 0,(g), measured at RTP. The
+unbalanced equation is shown below.
+KCIO,(s) + KCl(s) + O2(g)
+a Balance the equation.
+(1 mark)
+b What is the amount, in mol, of O,
+produced?
+(1 mark)
+c What is the mass of KClO, required to
+produce 108 cm of O, at RTP? Show your
+working
+(3 marks)
+3 1.893g of hydrated zinc sulfate, ZnSO •xH, O
+is heated to remove all water of crystallisation.
+The mass of anhydrous Znso, formed is
+1.061g.
+What is the formula of the hydrated zinc
+sulfate?
+Show your working
+(4 marks)
+4 On heating, sodium hydrogencarbonate,
+NaHCO, decomposes, forming 2.48 g of
+sodium carbonate, Na Coz.
+2NaHCO, - Na,Co, + CO2 + H2O
+The percentage yield of Na,co, is 65%.
+What is the mass of NaH t was heated?
+Show your working
+(5 marks)
+5 Iron ore contains iron(III) oxide. In a blast
+furnace, the iron (III) oxide reacts with carbon
+monoxide to form iron and carbon dioxide.
+a Write an equation for this reaction.
+(1 mark)
+b Each day, a blast furnace typically reacts
+10000 tonnes of Fe,oz.
+Calculate the typical mass of iron
+produced each day from a blast
+furnace.
+(3 marks)
+6 A nitrogen fertiliser, A, has the composition
+by mass Na, 27.1%; N, 16.5%; 0, 56.4%.
+On heating, 3.40 g of A decomposes into
+sodium nitrite, NaNO, and oxygen gas.
+a Calculate the empirical formula of A.
+(2 marks)
+b Write an equation for the decomposition
+of A.
+(1 mark)
+Calculate the volume of oxygen gas
+formed at RTP.
+(4 marks)
+7 A chemist reacts 0.0250 mol of sodium metal
+with water, forming 50.0 cm of sodium
+hydroxide solution and hydrogen gas.
+a What mass of sodium was reacted?
+(1 mark)
+b Write an equation, including state
+symbols, for the reaction.
+(1 mark)
+c Calculate the volume of hydrogen gas
+formed at RTP.
+(2 marks)
+d Calculate the concentration of sodium
+hydroxide solution formed in (i) moldm-3:
+(ii) gdm
+(3 marks)
+8 Chlorine gas is prepared by the electrolysis
+of brine, a concentrated solution of sodium
+chloride in water.
+2NaCl + 2H20 — 2NaOH + Cl2 + H2
+The concentration of brine can be assumed to
+be 4.00 moldm-.
+a Calculate the mass of sodium chloride
+dissolved in 250 cm of brine. (1 mark)
+b Each day, the UK produces 2.5 x 10' dm
+of chlorine gas, at RTP, from brine.
+Calculate the volume of brine required for
+chlorine production each day in the UK.
+(3 marks)
+9 a An organic compound X, contains carbon,
+hydrogen and oxygen only. Compound X
+has the following percentage composition
+by mass: 54.55%, C; 9.09% H.
+(i) Calculate the empirical formula of X.
+(2 marks)
+(ii) In an experiment, 0.2103g of a
+vaporised sample of X was shown
+to occupy 72.0 cm at 100°C and
+103.0 kPa.
+Calculate the relative molecular
+mass of X.
+(4 marks)
+(iii) Deduce the molecular formula
+for X.
+(1 mark)
+10 Hydrated aluminium sulfate, Al,(SO2)•xH,O,
+and chlorine, Cly, are used in water
+treatment.
+38

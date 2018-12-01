@@ -1,0 +1,1914 @@
+2.4 Eukaryotic cell structure
+In organisms with flagella and cilia, centrioles are thought to play a
+role in the positioning of these structures.
+Flagella and cilia
+Both flagella (whip-like) and cilia (hair-like) are extensions that
+protrude from some cell types. Flagella are longer than cilia but cilia
+are usually present in much greater numbers.
+Flagella are used primarily to enable cells motility. In some cells they
+are used as a sensory organelle detecting chemical changes in the
+cell's environment.
+double
+plasma microtubule
+membrane
+A Figure 6 TEM of a cross-section
+through a single cilium from a protozoan
+(x 70 000 magnification)
+Cilia can be mobile or stationary. Stationary cilia are present on the
+surface of many cells and have an important function in sensory
+organs such as the nose. Mobile cilia beat in a rhythmic manner,
+creating a current, and cause fluids or objects adjacent to the cell to
+move. For example, they are present in the trachea to move mucus
+away from the lungs (helping to keep the air passages clean), and in
+fallopian tubes to move egg cells from the ovary to the uterus.
+Synoptic link
+You will learn about the role of
+cilia in Topic 7.2, The mammalian
+gaseous exchange system.
+Each cilium contains two central microtubules (black circles) surrounded
+by nine pairs of microtubules arranged like a "wheel". This is known as
+the 9+2 arrangement (Figure 6). Pairs of parallel microtubules slide over
+each other causing the cilia to move in a beating motion.
+Organelles of protein synthesis
+A key function of a cell is to synthesise proteins (including enzymes)
+for internal use and for secretion (transport out of the cell). A
+significant proportion of the internal structure of a cell is required
+for this process. The ribosomes, the endoplasmic reticulum, and the
+Golgi apparatus are all closely linked and coordinate the production of
+proteins and their preparation for different roles within the cell. The
+cytoskeleton plays a key role in coordinating protein synthesis.
+Endoplasmic reticulum
+The endoplasmic reticulum (ER) is a network of membranes
+enclosing flattened sacs called cisternae. It is connected to the outer
+membrane of the nucleus. There are two types:
+Figure 7 Coloured TEM showing the
+rough endoplasmic reticulum (folds,
+centre). The cell nucleus is partially
+seen to the left. The round structures are
+vesicles that are being used to transport
+proteins from the rough endoplasmic
+reticulum to elsewhere in the cell.
+Magnification 20 000
+Smooth endoplasmic reticulum is responsible for lipid and
+carbohydrate synthesis, and storage.
+Rough endoplasmic reticulum has ribosomes bound to the
+surface and is responsible for the synthesis and transport of
+proteins.
+Secretory cells, which release hormones or enzymes, have more rough
+endoplasmic reticulum than cells that do not release proteins.
+Synoptic link
+You will learn about proteins in
+Topic 3.6, Structure of proteins and
+Topic 3.7, Types of proteins. You will
+learn about enzymes in Chapter 4,
+Enzymes.
+Ribosomes
+Ribosomes can be free-floating in the cytoplasm or attached to
+endoplasmic reticulum, forming rough endoplasmic reticulum. They
+are not surrounded by a membrane. They are constructed of RNA
+molecules made in the nucleolus of the cell. Ribosomes are the site
+of protein synthesis.
+30
+BASIC COMPONENTS OF LIVING SYSTEMS
+Synoptic link
+Lysosomes are specialised forms of vesicles that contain hydrolytic
+enzymes. They are responsible for breaking down waste material in
+cells, including old organelles. They play an important role in the
+immune system as they are responsible for breaking down pathogens
+ingested by phagocytic cells. They also play an important role in
+programmed cell death or apoptosis.
+You will learn about apoptosis in
+Topic 19.3, Body plans.
+The cytoskeleton
+The cytoskeleton is present throughout the cytoplasm of all eukaryotic
+cells. It is a network of fibres necessary for the shape and stability of a
+cell. Organelles are held in place by the cytoskeleton and it controls cell
+movement and the movement of organelles within cells.
+The cytoskeleton has three components:
+Microfilaments - contractile fibres formed from the protein actin.
+These are responsible for cell movement and also cell contraction
+during cytokinesis, the process in which the cytoplasm of a single
+eukaryotic cell is divided to form two daughter cells.
+Microtubules – globular tubulin proteins polymerise to form tubes
+that are used to form a scaffold-like structure that determines
+the shape of a cell. They also act as tracks for the movement of
+organelles, including vesicles, around the cell. Spindle fibres,
+which have a role in the physical segregation of chromosomes in
+cell division, are composed of microtubules.
+Intermediate fibres - these fibres give mechanical strength to cells
+and help maintain their integrity.
+Synoptic link
+You will learn about the role of
+spindle fibres in cell division in
+Chapter 6, Cell division.
+Cell movement
+The movement of cells like phagocytes depends on the
+activity of the actin filaments in the cytoskeleton. The
+filament lengths change with the addition and removal of
+monomer subunits. The rate at which these subunits are
+added is different at each end of a filament. The subunits
+are not symmetrical and can only be added if they are in
+the correct orientation.
+Whether subunits are added or removed, at either end,
+is determined by the concentration of subunits in the
+cytoplasm. Due to the different rates of addition at either
+end, at certain concentrations subunits will be added at
+one end and removed at the other. This called treadmilling.
+The increasing length of the filaments at one edge of a cell,
+the leading edge, leads to cells such as phagocytes moving
+in a particular direction.
+The subunits have to change shape before they are added
+to one end (the minus end) of the filament but not the other
+end (the plus end). This means that the subunits are added
+at a faster rate at the plus end. The filaments therefore
+increase in length at a faster rate in one particular direction.
+1 Suggest, giving your reasons, which components
+of the cytoskeleton undergo treadmilling and
+which components do not.
+Centrioles
+Centrioles are a component of the cytoskeleton present in most
+eukaryotic cells with the exception of flowering plants and most fungi.
+They are composed of microtubules. Two associated centrioles form
+the centrosome, which is involved in the assembly and organisation of
+the spindle fibres during cell division.
+29
+BASIC COMPONENTS OF LIVING SYSTEMS
+In this topic you will learn about the ultrastructure of eukaryotic cells.
+The ultrastructure of a cell is those features that can be seen using an
+electron microscope.
+Synoptic link
+You will learn about the building
+blocks of membranes, and
+phospholipids in Topic 3.5, Lipids.
+The structure and function of cell
+membranes and the transport of
+substances across membranes
+are discussed in Chapter 5, Plasma
+membranes.
+Compartments for life
+Chemical reactions are the fundamental processes of life and in
+cells they require both enzymes and specific reaction conditions.
+Metabolism involves both the synthesis (building up) and the
+breaking down of molecules. Different sets of reactions take place in
+different regions of the ultrastructure of the cell.
+The reactions take place in the cytoplasm. The cell cytoplasm is
+separated from the external environment by a cell-surface membrane.
+In eukaryotic cells the cytoplasm is divided into many different
+membrane-bound compartments, known as organelles. These
+provide distinct environments and therefore conditions for the
+different cellular reactions.
+Membranes are selectively permeable and control the movement of
+substances into and out of the cell and organelles. Membranes are
+effective barriers in controlling which substances enter and exit cells
+but they are fragile.
+There are a number of organelles that are common to all eukaryotic
+cells. Each type has a distinct structure and function. They are clearly
+seen in animal cells, the focus of this topic. The ultrastucture specific
+to plant cells is discussed in the next topic.
+A Figure 2 The detail you can see inside a
+cell depends on the type of microscope used
+to produce the image. This photomicrograph
+is of onion cells as seen under a light
+microscope. Only the nuclei can be seen
+inside the cells (x200 magnification)
+microtubule network
+cell-surface
+membrane
+cytosol
+vesicles
+ribosome
+centriole
+nucleolus
+rough endoplasmic
+reticulum
+nucleus
+smooth endoplasmic
+reticulum
+Golgi apparatus
+cytoskeleton
+secretory vesicles
+mitochondria
+A Figure 3 A drawing of a eukaryotic animal cell showing the many other components
+that are not visible with a light microscope
+2.2 Magnification and calibration
+Specification reference: 2.1.1
+Magnification, resolution, and the
+magnification formula
+Magnification is how many times larger the image is than the actual
+size of the object being viewed. Interchangeable objective lenses on a
+compound light microscope allow a user to adjust the magnification.
+Simply magnifying an object does not increase the amount of detail
+that can be seen. The resolution also needs to be increased. The
+resolution of a microscope determines the amount of detail that can be
+seen - the higher the resolution the more details are visible.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ slide preparation and
+examination
+→ the magnification formula
+→ the difference between
+magnifcation and resolution.
+Resolution is the ability to see individual objects as separate entities.
+Imagine a car coming towards you at night with its headlights on.
+When it is a long way off you will only see one light but as the car gets
+closer you eventually see that there are, in fact, two headlights – they
+have been resolved.
+Resolution is limited by the diffraction of light as it passes through
+samples (and lenses). Diffraction is the tendency of light waves to
+spread as they pass close to physical structures such as those present in
+the specimens being studied. The structures present in the specimens
+are very close to each other and the light reflected from individual
+structures can overlap due to diffraction. This means the structures
+are no longer seen as separate entities and detail is lost. In optical
+microscopy structures that are closer than half the wavelength of light
+cannot be seen separately (resolved).
+Resolution can be increased by using beams of electrons which
+have a wavelength thousands of times shorter than light (Topic 2.3,
+More microscopy). Electron beams are still diffracted but the
+shorter wavelength means that individual beams can be much
+closer before they overlap. This means objects which are much
+smaller and closer together can be seen separately without
+diffraction blurring the image.
+Calculation for magnification
+The magnification of an object can be calculated using the
+magnification formula:
+size of image
+magnification = =
+actual size of object
+size of
+image
+magnification
+actual size
+In practice, the size of the image refers to the length of the image
+as measured, for example with a ruler. You may need to change
+the units of measurement to that of the actual size of the object.
+The magnification formula, like all mathematical equations, can be
+rearranged to find any of the unknowns, where the remaining values
+are known. To help you, you can imagine this three-part formula in a
+standard formula triangle (Figure 2).
+A Figure 2 Formula triangle for
+magnification calculations
+2.2 Magnification and calibration
+So, if the actual size of the object isn't known but the magnification is
+known, the actual size can be calculated by rearranging the formula
+to give:
+size of image
+actual size of object =
+magnification
+Or, the size of the image can be calculated by rearranging the formula
+as below:
+actual size of object
+size of image =-
+magnification
+Study tip
+When solving magnification
+problems, carry out your calculations
+with all measurements having the
+same units.
+Measure the image size in mm
+and convert it to the smallest unit
+present in the problem, usually
+micrometres.
+1000 nanometres (nm) =
+1 micrometre (um)
+1000 micrometres (um) =
+1 millimetre (mm)
+1000 millimetres (mm) =
+1 metre (m)
+Magnification itself does not have
+units of measurement.
+Students should also practice
+rearranging the magnification
+formula
+Worked example: Magnification calculation
+Calculate the magnification of the image of the nuclear pore
+shown here.
+120 nm
+To calculate the magnification we first
+convert all figures to the smallest unit,
+in this case nm.
+24 millimetres is equal to
+(24 x 1000 x1000) nanometres
+or 24000000 nanometres.
+size of image
+Magnification =
+actual size of object
+24000000 nm
+120 nm
+= 2000000 or 2 million times.
+Using a graticule to calibrate a light microscope
+o
+The scale marked on the micrometer slide is usually
+100 divisions = 1 mm, so 1 division = 10 um.
+To measure the size of a sample under a microscope you
+use an eyepiece graticule. The true magnification of the
+different lenses of a microscope can vary slightly from
+the magnification stated so every microscope, and every
+lens, has to be calibrated individually using an eyepiece
+graticule and a slide micrometer.
+You calibrate the eyepiece graticule scale for each
+objective lens separately. Once all three lenses are
+calibrated, if you measure the same cell using the
+three different lenses you should get the same actual
+measurement each time.
+For example:
+An eyepiece graticule is a glass disc marked with
+a fine scale of 1 to 100. The scale has no units and
+remains unchanged whichever objective lens is in
+place. The relative size of the divisions, however,
+increases with each increase in magnification.
+You need to know what the divisions represent at
+the different magnifications so you can measure
+specimens. The scale on the graticule at each
+magnification is calibrated using a stage micrometer.
+Calibrating a x4 objective lens:
+1 Put the stage micrometer in place and the eyepiece
+graticule in the eyepiece.
+2 Get the scale on the micrometer slide in clear focus.
+3 Align the micrometer scale with the scale in the
+eyepiece. Take a reading from the two scales - see
+next page:
+A stage micrometer is a microscope slide with a very
+accurate scale in micrometres (um) engraved on it.
+16
+2.4 Eukaryotic cell structure
+Nucleus
+The nucleus (plural nuclei) contains coded genetic information
+in the form of DNA molecules. DNA directs the synthesis of all
+proteins required by the cell (although this protein synthesis
+occurs outside of the nucleus at ribosomes). In this way the DNA
+controls the metabolic activities of the cell, as many of these
+proteins are the enzymes necessary for metabolism to take place.
+Not surprisingly, the nucleus is often the biggest single organelle
+in the cell (Figure 4).
+DNA is contained within a double membrane called a nuclear
+envelope to protect it from damage in the cytoplasm. The nuclear
+envelope contains nuclear pores (Topic 2.2, Magnification and
+calibration) that allow molecules to move into and out of the
+nucleus. DNA itself is too large to leave the nucleus to the
+site of protein synthesis in the cell cytoplasm. Instead it is
+transcribed into smaller RNA molecules, which are exported
+via the nuclear pores.
+Figure 4 Coloured transmission
+electron micrograph of a human cell
+showing the nucleus (large oval) and
+endoplasmic reticulum. Magnification:
+*10000
+DNA associates with proteins called histones to form a complex called
+chromatin. Chromatin coils and condenses to form structures known
+as chromosomes. These only become visible when cells are preparing
+to divide.
+Synoptic link
+You will learn more about DNA, RNA
+and protein synthesis in Chapter 3,
+Biological molecules.
+Nucleolus
+The nucleolus is an area within the nucleus and is responsible for
+producing ribosomes. It is composed of proteins and RNA. RNA is
+used to produce ribosomal RNA (TRNA) which is then combined with
+proteins to form the ribosomes necessary for protein synthesis.
+Synoptic link
+You will learn more about ATP in
+Topic 3.11, ATP
+inner
+outer
+membrane membrane
+Mitochondria
+Mitochondria (singular mitochondrion) are essential organelles
+in almost all eukaryotic cells. They are the site of the final stages
+of cellular respiration, where the energy stored in the bonds of
+complex, organic molecules is made available for the cell to use by the
+production of the molecule ATP. The number of mitochondria in a cell
+is generally a reflection of the amount of energy it uses, so very active
+cells usually have a lot of mitochondria.
+matrix
+crista
+A Figure 5 Electron micrograph and
+drawing of a mitochondrion x30000
+magnification
+Mitochondria have a double membrane. The inner membrane is
+highly folded to form structures called cristae and the fluid interior
+is called the matrix. The membrane forming the cristae contains the
+enzymes used in aerobic respiration. Interestingly, mitochondria also
+contain a small amount of DNA, called mitochondrial (mt)DNA.
+Mitochondria can produce their own enzymes and reproduce
+themselves.
+Synoptic link
+You will learn about phagocytic
+cells in Topic 12.6, The specific
+immune system.
+Vesicles and lysosomes
+Vesicles are membranous sacs that have storage and transport roles.
+They consist simply of a single membrane with fluid inside. Vesicles
+are used to transport materials inside the cell.
+28
+2.4 Eukaryotic cell structure
+Specification reference: 2.1.1
+Microscopes not only make cells visible – they also enable
+us to look deep inside individual cells. Using different types
+of microscopes you can discover how cells are organised and
+investigate the ways in which the structures you can see relate
+to their function. Microscopy allows you to see what goes on in a
+healthy cell, and to observe some of the changes which take place
+if the cell is attacked or diseased.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the ultrastructure and function of
+eukaryotic cellular components :
+the importance of
+the cytoskeleton. The
+interrelationship between
+the organelles involved in the
+production and secretion of
+proteins.
+Relative sizes of molecules, organelles and cells
+The diagram below demonstrates how the development of microscopes
+has allowed biologists to discover increasing amounts of detail of cell
+ultrastructure. The increased knowledge of structure has led to a better
+understanding of cell function.
+ribosome
+glucose
+molecule
+double helix
+red blood
+cell
+tennis
+ball
+protein
+width of
+human hair
+water
+bacterium
+10mm
+0.1mm
+1
+10 100
+nmnmnm
+100mm
+1000 nm10um
+(lum)
+100 um
+1000um
+(1 mm)
+1000mm
+(1 m)
+minimum
+minimum
+minimum
+resolvable
+resolvable
+resolvable
+by electron
+by light
+by unaided
+microscope
+microscope
+eye
+Figure 1 This diagram illustrates the relative sizes of the different components of living organisms
+Cells
+Synoptic link
+The basic unit of all living things is the cell - but not all cells are
+the same. There are two fundamental types of cell – prokaryotic
+and eukaryotic. Prokaryotes are single-celled organisms with a
+simple structure of just a single undivided internal area called the
+cytoplasm (composed of cytosol, which is made up of water, salts
+and organic molecules). Eukaryotic cells make up multicellular
+organisms like animals, plants, and fungi. Eukaryotic cells have a
+much more complicated internal structure, containing a membrane-
+bound nucleus (nucleoplasm) and cytoplasm, which contains many
+membrane-bound cellular components. You will learn more about
+the differences between prokaryotic and eukaryotic cells in Topic 2.6.
+You will learn about the role of
+enzymes in cellular metabolism and
+how they are affected by cellular
+conditions in Chapter 4, Enzymes.
+26
+Chapter 2 Practice questions
+Practice questions
+1 The cytoskeleton is present throughout the
+cytoplasm of all eukaryotic cells.
+Which of the following statements is/are
+correct with respect to the structure of the
+cytoskeleton?
+Statement 1: Intermediate fibres - these
+fibres give mechanical strength to cells and
+help maintain their integrity.
+Statement 2: Microtubules - contractile
+fibres formed from the protein actin.
+Responsible for cell movement
+Statement 3: Microfilaments - formed from
+the cylindrical-shaped protein tubulin. They
+form a scaffold-like structure determining the
+shape of a cell.
+A 1, 2 and 3 are correct
+B Only 1 and 2 are correct
+C Only 2 and 3 are correct
+D Only 1 is correct
+(1 mark)
+2 Serous cells are present in the salivary glands
+of animals. They are responsible for the
+production of the enzyme amylase which
+begins the breakdown of starch.
+(ii) State whether the cell is eukaryotic
+or prokaryotic giving the reason for
+your decision.
+(2 marks)
+(i) State which group of enzymes
+contains amylase.
+(1 mark)
+(ii) Outline the stages and organelles
+involved in the production and
+release of amylase.
+(5 marks)
+C Explain the process of exocytosis.
+(3 marks)
+d Discuss the different roles of vesicles,
+vacuoles and lysosomes.
+(4 marks)
+The photo below shows a transmission
+electron micrograph of plankton. These
+single-celled marine micro-organisms
+are thought to be the most abundant
+photosynthetic organisms on Earth.
+3
+honum
+08:00 0000
+X
+Summarparwy nincs array
+.
+MANN
+Calculate the magnification of the
+Plankton labelled X. The actual diameter
+of the plankton is 2.6 pm. (2 marks)
+The amount of detail that can be seen
+with a microscope depends on both the
+magnification and resolution possible with
+the microscope being used. Any increase
+in magnification beyond the limit of
+resolution results in "empty magnification'.
+a
+(i) identify the structures labelled in the
+diagram.
+(1 mark)
+(1 mark)
+(1 mark)
+(3 marks)
+38
+2
+2.4 Eukaryotic cell structure
+Summary questions
+1 What is a lysosome and why is the membrane that surrounds
+it so important?
+(3 marks)
+2 Explain why cells need to be compartmentalised, and describe three
+examples of compartmentalisation within an animal cell. (4 marks)
+3 Compare the structure and function of the rough and smooth
+endoplasmic reticulum.
+(3 marks)
+4 Describe the structure and function of the cytoskeleton. (5 marks)
+5 Given the following information about a eukaryotic cell
+7 x 10' base pairs of DNA per chromosome 0.34 x 10-ºm per base pair
+diploid number is 46
+a Calculate the length of DNA in a single cell. Give your answer in metres.
+b Suggest how this DNA is packed into a cell only 50 um in diameter.
+6 Discuss how the structure of microfilaments and microtubules means
+these components of the cytoskeleton are involved in the movement of
+cells but the intermediate fibres are not.
+(6 marks)
+BASIC COMPONENTS OF LIVING SYSTEMS
+Mitochondria and chloroplasts also contain ribosomes, as do
+prokaryotic cells.
+Golgi apparatus
+The Golgi apparatus is similar in structure to the smooth
+endoplasmic reticulum. It is a compact structure formed of cisternae
+and does not contain ribosomes. It has a role in modifying proteins
+and packaging' them into vesicles. These may be secretory vesicles,
+if the proteins are destined to leave the cell, or lysosomes, which stay
+in the cell.
+Protein production
+Proteins are synthesised on the ribosomes bound to the endoplasmic
+reticulum (1). They then pass into its cisternae and are packaged
+into transport vesicles (2). Vesicles containing the newly synthesised
+proteins move towards the Golgi apparatus via the transport function
+of the cytoskeleton (3). The vesicles fuse with the cis face of the Golgi
+apparatus and the proteins enter. The proteins are structurally modified
+before leaving the Golgi apparatus in vesicles from its trans face (4).
+A Figure 8 Transmission electron
+micrograph of a plasma cell with a
+large central nucleus surrounded by
+large amounts of rough endoplasmic
+reticulum. Plasma cells, which are found
+in the blood and lymph, produce and
+secrete antibodies (which are made of
+protein) during an immune response. *
+6000 magnification
+Secretory vesicles carry proteins that are to be released from the cell.
+The vesicles move towards and fuse with the cell-surface membrane,
+releasing their contents by exocytosis. Some vesicles form lysosomes -
+these contain enzymes for use in the cell (5).
+- nuclear pore
+cell-surface
+membrane
+proteins expelled
+rough
+endoplasmic
+reticulum
+Nucleus
+>
+Cisternae
+secretory vesicle
+ribosome
+2
+cisternae
+cis face
+A Figure 9 Transmission electron
+micrograph of the Golgi apparatus. Golgi
+are membrane-bound organelles that
+modify and package proteins for onward
+transport. 8000 magnification
+3
+proteins
+trans face
+transport
+vesicles
+golgi apparatus
+Figure 10 The ribosomes, endoplasmic reticulum, and Golgi apparatus work
+together to synthesise, modify and then transport proteins, including enzymes and
+hormones, out of the cell
+Synoptic link
+You will learn more about the
+details of protein synthesis at the
+ribosome in Topic 3.10, Protein
+synthesis.
+BASIC COMPONENTS OF LIVING SYSTEMS
+The similarities and differences between prokaryotic and eukaryotic cells
+The similarities and differences between prokaryotic and eukaryotic
+cells are summarised in Table 1.
+Table 1 Prokaryotic and eukaryotic cells compared
+Feature
+Prokaryotic
+Eukaryotic
+nucleus
+not present
+present
+DNA
+circular
+linear
+DNA organisation
+proteins fold and condense DNA
+associated with proteins called histones
+only present in certain organelles such as chloroplasts
+and mitochondria
+extra chromosomal DNA
+circular DNA called plasmids
+organelles
+non membrane-bound
+both membrane-bound and non membrane-bound
+cell wall
+peptidoglycan
+chitin in fungi, cellulose in plants, not present in
+animals
+ribosomes
+smaller, 70S
+larger, 80S
+present
+cytoskeleton
+reproduction
+cell type
+cell-surface membrane
+binary fission
+unicellular
+present
+present, more complex
+asexual or sexual
+unicellular and multicellular
+present
+Prokaryotic cell study
+Here is a transmission electron micrograph image of a
+slice through a rod-shaped Gram-negative Escherichia
+coli bacterium. The cell wall can be seen as a double line
+around the cell. The darker area inside is the nucleoid
+which contains the DNA. Look closely at the photo and
+answer the questions below
+1 a Use the micrograph shown here to produce a
+scientific drawing of the bacterium.
+b Describe the differences you would see if you
+were observing a eukaryotic cell with the same
+microscope, at the same magnification.
+Summary questions
+1 List three structural differences between prokaryotic
+cells and eukaryotic cells.
+(3 marks)
+2 Suggest why the lack of membrane-bound organelles
+does not stop prokaryotic cells making proteins.
+(4 marks)
+3 Some antibiotics kill bacteria by disrupting the formation of
+peptidoglycan molecules. Explain why these antibiotics kill bacteria
+and why they do not have any effect on eukaryotic cells. (4 marks)
+BASIC COMPONENTS OF LIVING SYSTEMS
+Summary questions
+1 Explain why you would see more detail with an electron
+microscope than with a light microscope.
+(2 marks)
+(2 marks)
+2 a Define the term artefact with reference to microscopy.
+b Explain why artefacts are more likely to be produced when
+preparing samples for electron microscopy than for light
+microscopy.
+(3 marks)
+3 Study the two images below.
+a Suggest which form of microscopy was used to produce
+each image.
+b Explain the reasons for your choices.
+c Outline the advantages and disadvantages of each
+technique.
+(1 mark)
+(3 marks)
+(6 marks)
+4 Confocal microscopy is used in medicine to study the cornea
+of the eye and the progression of skin cancer.
+a Explain the meaning of the term fluorescence.
+b State why lasers are used to provide illumination.
+C Explain the purpose of the pinhole aperture in
+confocal microscopy.
+d One limitation of confocal microscopy is that it can not be
+used for deep tissue imaging. Suggest why.
+(2 marks)
+(1 mark)
+(3 marks)
+(1 mark)
+2.5 The ultrastructure of plant cells
+Specification reference: 2.1.1
+Plant cells have all of the cellular components you have just seen in
+animal cells. However, there are some structures that are only seen in
+plant cells, that carry out photosynthesis.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the ultrastructure of
+eukaryotic cells (plants) and
+the functions of the cellular
+components.
+Cellulose cell wall
+Plant cells, unlike animal cells, are rigid structures. They have a cell
+wall surrounding the cell-surface membrane.
+Plant cell walls are made of cellulose, a complex carbohydrate. They
+are freely permeable so substances can pass into and out of the cell
+through the cellulose wall. The cell walls of a plant cell give it shape.
+The contents of the cell press against the cell wall making it rigid.
+This supports both the individual cell and the plant as a whole. The
+cell wall also acts as a defence mechanism, protecting the contents
+of the cell against invading pathogens. All plant cells have cellulose
+cell walls.
+Synoptic link
+You will learn about carbohydrates,
+including cellulose, in Topic 3.3,
+Carbohydrates.
+cellulose
+cell wall
+chloroplasts
+starch
+granules
+cell-surface
+membrane
+chloroplasts
+cytoplasm
+nucleus
+vacuole
+containing
+cell wall
+nucleus
+cell sap
+A Figure 1 Left: A transmission electron micrograph of the junction of two leaf cells ~ 18 700 magnification.
+Right: A representation of a plant cell as seen under a light microscope
+Plant cell organelles
+Plant cells, unlike animal cells, are rigid structures. Structures which
+are unique to plant cells include:
+Vacuoles
+Vacuoles are membrane lined sacs in the cytoplasm containing cell
+sap. Many plant cells have large permanent vacuoles which are very
+important in the maintenance of turgor, so that the contents of the cell
+push against the cell wall and maintain a rigid framework for the cell.
+The membrane of a vacuole in a plant cell is called the tonoplast. It
+is selectively permeable, which means that some small molecules can
+pass through it but others cannot. If vacuoles appear in animal cells,
+they are small and transient (not permanent).
+BASIC COMPONENTS OF LIVING SYSTEMS
+b Define the following terms
+(i) resolution
+(2 marks)
+(ii) magnification
+(1 mark)
+(iii) Suggest what is meant by the term
+'empty magnification (1 mark)
+c Outline how a compound light microscope
+magnifies an image of a specimen.
+(4 marks)
+d Describe three different ways of preparing
+microscope slides for light microscopy.
+(6 marks)
+a Explain the meaning of the term artefact
+with reference to microscopy. (2 marks)
+b Discuss the advantages and disadvantages
+of using an electron microscope to study
+the ultrastructure of cells. (4 marks)
+Outline how laser scanning confocal
+microscopes produce an image. (4 marks)
+a Complete and complete the table below.
+The first row has been done for you.
+(5 marks)
+4
+5
+Feature
+Prokaryotic
+Eukaryotic
+linear
+DNA
+circular
+Extra
+chromosomal
+DNA
+only present
+in certain
+organelles such as
+chloroplasts and
+mitochondria
+Organelles
+non membrane
+bound
+Cell wall
+peptidoglycan
+large, 80 s
+Ribosomes
+Cell surface
+membrane
+present
+b Define the term 'cell ultrastructure'.
+(2 marks)
+Human genomes contain many more
+genes than bacterial genomes, and they are
+much longer.
+Discuss the way in which this affects
+the packing of DNA in eukaryotes and
+prokaryotes.
+(6 marks)
+2.5 The ultrastructure of plant cells
+Synoptic link
+You will learn more about the role
+of chloroplasts in photosynthesis
+in Chapter 17, Energy for biological
+processes.
+Chloroplasts
+Chloroplasts are the organelles responsible for photosynthesis in
+plant cells. They are found in the cells in the green parts of plants such
+as the leaves and the stems but not in the roots. They have a double
+membrane structure, similar to mitochondria. The fluid enclosed
+in the chloroplast is called the stroma. They also have an internal
+network of membranes, which form flattened sacs called thylakoids.
+Several thylakoids stacked together are called a granum (plural
+grana). The grana are joined by membranes called lamellae. The grana
+contain the chlorophyll pigments, where light-dependent reactions
+occur during photosynthesis. Starch produced by photosynthesis is
+present as starch grains. Like mitochondria, chloroplasts also contain
+DNA and ribosomes. Chloroplasts are therefore able to make their
+own proteins.
+The internal membranes provide the large surface area needed for
+the enzymes, proteins and pigment molecules necessary in the process
+of photosynthesis.
+Summary questions
+1 Using your knowledge of cell ultrastructure, identify the structures
+visible in the micrograph below. State, with reasons, whether
+the cell is a plant or animal cell
+(4 marks)
+starch grain
+stroma
+double
+membrane
+thylakoid
+Figure 2 Transmission electron
+micrograph (top) and drawing of
+chloroplasts seen in the leaf of a pea
+plant (bottom). The chloroplasts are
+seen cut lengthways so the grana
+are visible. Starch produced during
+photosynthesis is seen as dark circles
+(starch grains) within each chloroplast.
+*13 000 magnification
+2 a Many different organisms have cell walls including fungi and
+bacteria. What is unique about plant cell walls?
+(1 mark)
+b Give three functions of plant cell walls
+(3 marks)
+3 Describe the similarities and differences between a human
+cell and a plant root cell
+(3 marks)
+34
+BASIC COMPONENTS OF LIVING SYSTEMS
+is gained and as knowledge increases. Theories are
+proposed, accepted and can then be later disproved as
+new evidence comes to light. New evidence can arise in a
+number of ways, including as technology develops. This
+is the case with cell theory - as microscopes with higher
+magnification and resolution were developed, cells could
+be observed for the first time. Table 1 summarises some
+of the developments in cell theory.
+Table 1 Cell theory timeline
+Timeline
+Development of cell theory
+1665
+Cell first observed
+Robert Hooke, an English scientist, observed the structure of thinly sliced cork using an early light
+microscope. He described the compartments he saw as 'cells' - coining the term we still use today.
+As this was dead plant tissue he was observing only cell walls.
+1674-1683
+First living cells observed
+Anton van Leeuwenhoek, a Dutch biologist, developed a technique for creating powerful glass lenses and
+used his handcrafted microscopes to examine samples of pond water. He was the first person to observe
+bacteria and protoctista and described them as 'little animals' or 'animalcules' - today we call them
+microorganisms. He went on to observe red blood cells, sperm cells, and muscle fibres for the first time.
+Evidence for the origin of new plant cells
+1832
+Barthélemy Dumortier, a Belgian botanist, was the first to observe cell division in plants providing
+evidence against the theories of the time, that new cells arise from within old cells or that cells
+formed spontaneously from non-cellular material. However it was several more years until cell
+division as the origin of all new cells became the accepted theory.
+Nucleus first observed
+1833
+Robert Brown, an English botanist, was the first to describe the nucleus of a plant cell.
+1837-1838
+The birth of a universal cell theory
+Matthias Schleiden, a German botanist, proposed that all plant tissues are composed of cells. Jan
+Purkyně, a Czech scientist, was the first to use a microtome to make ultra-thin slices of tissue
+for microscopic examination. Based on his observations, he proposed that not only are animals
+composed of cells but also that the basic cellular tissue is clearly analogous to that of plants".
+Not long after this, and independently, Theodor Schwann, a German physiologist, made a similar
+observation and declared that "all living things are composed of cells and cell products". He is the
+scientist credited with the 'birth' of cell theory.
+1844 (1855)
+Evidence for the origin of new animal cells
+Robert Remak, a Polish/German biologist, was the first to observe cell division in animal cells, disproving
+the existing theory that new cells originate from within old cells. He was not believed at the time however,
+and Rudolf Virchow, a German biologist, published these findings as his own a decade later in 1855.
+1860
+Spontaneous generation disproved
+Louis Pasteur disproved the theory of spontaneous generation of cells by demonstrating that
+bacteria would only grow in a sterile nutrient broth after it had been exposed to the air.
+1 Outline the importance of microscopes in the study of living organisms.
+2 Suggest, with reasons, why cell theory was not fully developed before
+the mid-19th century.
+BASIC COMPONENTS OF LIVING SYSTEMS
+Atomic force microscopy
+detector
+The atomic force microscope (AFM) gathers information
+about a specimen by 'feeling' its surface with a mechanical
+probe. These are scanning microscopes that generate
+three-dimensional images of surfaces.
+laser beam
+cantilever
+An AFM consists of a sharp tip (probe) on a cantilever
+(a lever supported at one end) that is used to scan the
+surface of a specimen. When this is brought very close
+to a surface, forces between the tip and the specimen
+cause deflections of the cantilever. These deflections are
+measured using a laser beam reflected from the top of
+the cantilever into a detector.
+line scan
+tip atoms
+Fixation and staining are not required and specimens
+can be viewed in almost normal cell conditions
+without the damage caused during the preparation of
+specimens for electron microscopy. Living systems
+can even be examined.
+force
+The resolution of AFM is very high, in the order of 0.1 nm.
+Information can be gained at the atomic level, even about
+the bonds within molecules.
+ooooo
+surface atoms of specimen
+The pharmaceutical industry in particular uses AFM
+to identify potential drug targets on cellular proteins
+and DNA. These microscopes can lead to a better
+understanding of how drugs interact with their target
+molecule or cell.
+AFM is also being employed to identify new drugs.
+Finding and identifying new chemical compounds from
+the natural world, which may have medical applications,
+takes a long time, and is expensive. The molecular
+structures need to be understood before their potential
+use in medicine is known. Atomic force microscopes can
+speed up this process, saving money and, potentially,
+lives. The case study below is a good example of the
+importance of AFM.
+A Figure 5 Top: The principle of atomic force microscopy.
+Bottom: A nuclear pore as shown by atomic force microscopy
+the molecular structure, the way in which the
+atoms were joined together, was not so easy to
+work out and would have taken months using
+conventional techniques.
+Case Study: Deep sea molecules
+In 2010, scientists working on a species of bacterium
+from a mud sample taken from the Mariana Trench-
+the deepest place on the planet located nearly
+11000 metres beneath the Pacific Ocean, found
+that the bacteria produced an unknown chemical
+compound
+Using atomic force microscopy the scientists were
+able to image the molecules at very high, atomic level
+resolution within one week, giving them the molecular
+structure they needed.
+This was the first time this method had been used in
+this way. This new approach could lead to much faster
+identification of unknown compounds and ultimately
+speed up the process of the development of new
+medicines.
+The chemical composition (the number and type of
+atoms present) was easily determined. However,
+23
+2.3 More microscopy
+Figure 6 Atomic force
+microscopy unveiled
+the previously unknown
+structure of cephalandole A,
+a chemical compound
+that could lead to the
+development of new drugs
+1 Explain why atomic force microscopy has a greater
+resolution than traditional light microscopy.
+2 AFM is capable of producing magnifications equal
+or better than electron microscopes (this is
+demonstrated in Figure 7). Explain why.
+3 Discuss why, despite the comparable
+magnification, atomic force microscopy could not
+have resulted in the same advances in the study
+of cell function as electron microscopy.
+Figure 7 Atomic force microscopy image of
+Staphylococcus aureus bacteria, commonly known for
+causing MRSA infections
+T
+Super resolved fluorescence microscopy
+that produced normally in light microscopy. In this way,
+individual strands of DNA become visible.
+Electron microscopes cannot be used to examine living
+cells and it was always believed that the maximum
+resolution for light microscopes was 0.2 pm, about half
+the wavelength of light. This limits the detail that can be
+seen in living cells. In 2014 Eric Betzig, Stefan W. Hell,
+and William E. Moerner were awarded the Nobel Prize in
+Chemistry for achieving resolutions greater than 0.2 um
+using light microscopy.
+Eric Betzig and William E. Moerner independently
+developed the second principle which relies on the ability
+to control the fluorescence of individual molecules.
+Specimens are scanned multiple times but each time
+different molecules are allowed to fluoresce. The images
+are then superimposed and the resolution of the combined
+image is at the molecular level, much greater than 0.2 um.
+LS
+Two principles were involved, both forms of super
+resolution fluorescent microscopy (SRFM). One
+involved building up a very high resolution image by
+combining many very small images. The other involved
+superimposing many images with normal resolution to
+create one very high resolution image.
+It is now possible to follow individual molecules during
+cellular processes. Proteins involved in Parkinson's and
+Alzheimer's diseases can be observed interacting and
+fertilised eggs dividing into embryos can be studied at
+a molecular level.
+1 a
+Stefan Hell developed stimulated emission depletion
+(STED) which involves the use of two lasers which are
+slightly offset. The first laser scans a specimen causing
+fluorescence, followed by the second laser which negates
+the fluorescence from all but a molecular sized area.
+A picture is built up with a resolution much greater than
+b
+Explain why electron microscopes cannot be
+used to examine living cells.
+Describe how the ability to control the
+fluorescence of individual molecules helped
+uncover cell processes.
+24
+2.1 Microscopy
+A Figure 1 Drawing of cork from 1663 seen under
+an early microscope. Robert Hooke described the
+Figure 2 Robert Hooke's drawing of his own compound microscope, which
+pores as cells, thus coining the term. He prepared
+he used to see the 'cells'in a sample of cork
+the specimen by making thin slices with a razor
+blade, inventing the technique of sectioning
+How a light microscope works
+Study tip
+A compound light microscope has two lenses – the objective
+lens, which is placed near to the specimen, and an eyepiece lens,
+References to clarity or clearness
+through which the specimen is viewed. The objective lens produces
+of images are not relevant when
+a magnified image, which is magnified again by the eyepiece lens.
+discussing microscopy. It is
+This objective/eyepiece lens configuration allows for much higher
+important to explain that objects
+magnification and reduced chromatic aberration than that in a simple
+have become visibly distinct with
+light microscope.
+increased resolution, in other
+words more detail can be seen.
+Illumination is usually provided by a light underneath the sample.
+Opaque specimens can be illuminated from above with some
+microscopes.
+image viewed here
+eyepiece lens
+coarse-focusing
+knob
+fine-focusing
+knob
+turret -
+objective lens -
+specimen
+stage
+light from mirror
+or light bulb
+Figure 3 A compound light microscope
+10
+2
+2.3 More microscopy
+Light emitted from other parts of the specimen would reduce the
+resolution and cause blurring. This unwanted radiation does not pass
+through the pinhole and is not detected. A laser is used instead of light
+to get higher intensities, which improves the illumination.
+As very thin sections of specimen are examined and light from
+elsewhere is removed, very high resolution images can be obtained.
+The spot illuminating the specimen is moved across the specimen and
+a two dimensional image is produced. A three dimensional image can
+be produced by creating images at different focal planes.
+Laser scanning confocal microscopy is non-invasive and is currently
+used in the diagnosis of diseases of the eye and is also being developed
+for use in endoscopic procedures. The fact that it can be used to see
+the distribution of molecules within cells means it is also used in the
+development of new drugs.
+The future uses for advanced optical microscopy include virtual biopsies,
+particularly in cases of suspected skin cancer.
+The beamsplitter is a dichroic mirror, which only reflects one wavelength
+(from the laser) but allows other wavelengths (produced by the sample)
+to pass through
+The positions of the two pinholes means the light waves from the laser
+(illuminating the sample) follow the same path as the light waves
+radiated when the sample fluoresces. This means they will both have
+the same focal plane, hence the term confocal.
+COD Fluorescent tags
+Synoptic link
+You will learn more about
+antibodies in Topic 12.6, The
+specific immune system.
+By using antibodies with fluorescent 'tags',
+specific features can be targeted and
+therefore studied by confocal microscopy
+with much more precision than when using
+staining and light microscopy.
+Synoptic link
+You will learn about genetic
+engineering in Topic 21.4, Genetic
+engineering.
+Green fluorescent protein (GFP) is
+produced by the jellyfish Aequorea
+victoria. The protein emits bright green light when illuminated by ultraviolet
+light. GFP molecules have been engineered to fluoresce different colours,
+meaning different components of a specimen can be studied at the same
+time. The gene for this protein has been isolated and can be attached, by
+genetic engineering, to genes coding for proteins under investigation. The
+fluorescence indicates that a protein is being made and is used to see
+where it goes within the cell or organism. Bacterial, fungal, plant, and human
+cells have all been modified to express this gene and fluoresce. The use of
+these fluorescing proteins provides a non-invasive technique to study the
+production and distribution of proteins in cells and organisms.
+a Define the term resolution with reference to microscopy.
+b Suggest whether fluorescent microscopy has a higher resolution
+than normal light microscopy. Explain your answer.
+BASIC COMPONENTS OF
+LIVING SYSTEMS
+2.1 Microscopy
+Specification reference: 2.1.1
+Before the invention of microscopes, we knew nothing of bacteria,
+cells, sperm, pollen grains, chromosomes - the list is endless.
+Microscopes have given us the power to understand disease, see how a
+new life is formed, watch the dance of the chromosomes as cells divide,
+and manipulate the processes of life itself.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the use of light microscopy
+the preparation of microscope
+slides for use in light
+microscopy
+the use of staining in light
+microscopy
+the representation of cell
+structure seen under light
+microscope using scientific
+annotated drawings.
+Seeing is believing
+A microscope is an instrument which enables you to magnify an object
+hundreds, thousands and even hundreds of thousands of times. We can
+see many large organisms with the naked eye, but microscopes open up
+a whole world of unicellular organisms. By making visible the individual
+cells which make up multicellular organisms, microscopes allow us to
+discover how details of their structures relate to their functions.
+###
+##
+The first types of microscopes to be developed were light microscopes
+in the 16th to 17th century. Since then they have continued to be
+developed and improved.
+By the mid-19th century, scientists, for the first time, had access to
+microscopes with a high enough level of magnification to allow them
+to see individual cells. Cell theory was developed. It states that:
+both plant and animal tissue is composed of cells
+cells are the basic unit of all life
+cells only develop from existing cells.
+Light microscopy continues to be important - it is easily available,
+relatively cheap and can be used out in the field, and it can be used to
+observe living organisms as well as dead, prepared specimens.
+History of the light microscope and the development of cell theory o
+Late in the Roman Empire the Romans began to develop who invented the telescope when experimenting with
+and experiment with glass. They noted how objects looked multiple glass lenses in a tube in the late 15th century.
+bigger when viewed through pieces of glass that were Others claim it was Galileo Galilei in 1609 who developed
+thicker in the middle than at the edges.
+the first true or compound microscope (Table 1).
+There was little further development of glass lenses until
+Galileo's instrument was the first to be given the name
+'microscope'.
+around the 13th century and the invention of spectacles or
+eye glasses.
+Cell theory
+The credit for the invention of the light microscope is much The development of cell theory is a good example of how
+disputed. Some accredit it to two Dutch spectacle makers scientific theories change over time as new evidence
+2.6 Prokaryotic and eukaryotic cells
+filament
+hook
+basal body
+cell wall
+Flagella
+The flagella of prokaryotes is thinner than
+the equivalent structure of eukaryotes and
+does not have the 9+2 arrangement. The
+energy to rotate the filament that forms
+the flagellum is supplied from the process
+of chemiosmosis, not from ATP as in
+eukaryotic cells.
+The flagellum is attached to the cell
+membrane of a bacterium by a basal body
+and rotated by a molecular motor.
+peptidoglycan
+- plasma
+membrane
+cytoplasm
+Figure 1 A prokaryotic flagellum
+The basal body attaches the filament comprising the flagellum
+to the cell-surface membrane of a bacterium. A molecular
+motor causes the hook to rotate giving the filament a whip like
+movement, which propels the cell.
+- Pili
+cell wall
+cell-surface
+membrane
+cytoplasm
+ribosome (705)
+free chromosomal
+DNA (nucleoid region)
+flagellum
+size 0.1-10 um
+A comparison with eukaryotic cells
+The first eukaryotic cells appeared about 1.5 billion years
+ago. As you have learned eukaryotic cells are much more
+complex than prokaryotic cells. Their DNA is present
+within a nucleus and exists as multiple chromosomes,
+which are supercoiled, and each one wraps around a
+number of proteins called histones, forming a complex
+for efficient packaging. This complex is called chromatin
+and chromatin coils and condenses to form chromosomes.
+Eukaryotic genes are generally switched on and off
+individually.
+As you learnt earlier, eukaryotic cells have membrane-
+bound organelles including mitochondria and chloroplasts
+(Topic 2.4, Eukaryotic cell structure and Topic 2.4, The
+ultrastructure of plant cells).
+mitochondrion
+nucleous
+nucleus
+cell-surface
+membrane
+cytoplasm
+ribosome (80s)
+centrosome(s)
+rough
+endoplasmic
+reticulum
+cytoskeleton
+Organisms from the plant, animal, fungi, and protoctista
+kingdoms are all composed of eukaryotic cells. Many
+are multicellular.
+Golgi
+- apparatus
+size 10-100 um
+Figure 2 Top: Features of prokaryotic cell
+(bacterium). Bottom: features of a typical
+eukaryotic cell (animal). Common features are
+highlighted in bold
+1 Endosymbiosis
+The theory of endosymbiosis is that mitochondria and chloroplasts,
+and possibly other eukaryotic organelles, were formerly free-living
+bacteria, that is, prokaryotes. The theory is that these prokaryotes
+were taken inside another cell as an endosymbiont - an organism
+that lives within the body or cells of another organism. This
+eventually led to the evolution of eukaryotic cells.
+1 Discuss, using information from this topic, any evidence that
+supports the endosymbiotic theory.
+36
+2.6 Prokaryotic and eukaryotic cells
+Specification reference: 2.1.1
+Animals, plants, and fungi are all complex multicellular organisms.
+The cells making up these organisms are eukaryotic. There is a lot of
+evidence that suggests that eukaryotic cells evolved from less complex
+prokaryotic cells. These prokaryotic cells, present in great numbers,
+live in an incredibly diverse range of habitats. These unicellular
+organisms can be classed into two evolutionary domains - Archaea
+and Bacteria, which evolved from an ancient common ancestor.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the structure and
+ultrastructure of prokaryotic
+cells and eukaryotic cells.
+Prokaryotic cells
+Prokaryotic cells may have been among the earliest forms of life on
+Earth. They first appeared around 3.5 billion years ago when the
+surface of the Earth was a very hostile environment. Scientists believe
+that these early cells were adapted to living in extremes of salinity,
+pH and temperature.
+Synoptic link
+You will learn more about the
+classification of prokaryotes into
+the domains Archaea and Bacteria
+in Topic 10.2, The five kingdoms.
+These organisms are known as extremophiles and they still exist today.
+They can be found in hydrothermal vents and salt lakes - similar
+environments to those believed to have made up the early Earth. They
+are usually of the domain Archaea and more recently they have been
+found in more hospitable environments such as soil and the human
+digestive system.
+Prokaryotic organisms are always unicellular with a relatively simple
+structure. Their DNA is not contained within a nucleus, they have few
+organelles and the organelles they do have are not membrane-bound.
+DNA
+The structure of the DNA contained within prokaryotes is
+fundamentally the same as in eukaryotes but it is packaged differently.
+Prokaryotes generally only have one molecule of DNA, a chromosome,
+which is supercoiled to make it more compact. The genes on the
+chromosome are often grouped into operons, meaning a number of
+genes are switched on or off at the same time.
+Ribosomes
+The ribosomes in prokaryotic cells are smaller than those in
+eukaryotic cells. Their relative size is determined by the rate at which
+they settle, or form a sediment, in solution. The larger eukaryotic
+ribosomes are designated 80s and the smaller prokaryotic ribosomes,
+70S. They are both necessary for protein synthesis, although the
+larger 80S ribosomes are involved in the formation of more complex
+proteins.
+Cell wall
+Prokaryotic cells have a cell wall made from peptidoglycan, also
+known as murein. It is a complex polymer formed from amino acids
+and sugars.
+BASIC COMPONENTS OF LIVING SYSTEMS
+the ultrastructure of cells are inevitable during the processing that
+the samples must undergo. They are seen as the loss of continuity
+in membranes, distortion of organelles and empty spaces in the
+cytoplasm of cells
+Experience enables scientists to distinguish between an artefact and a
+true structure.
+Identifying artefacts 0
+that some species of bacteria do have mesosomes as part of
+their normal structure, but this is not the general consensus.
+Identifying artefacts in microscopy preparation can
+cause much discussion and controversy. 'Mesosome'
+was the name given to invaginations (inward foldings)
+of cell membranes that were observed using electron
+microscopes after bacterial specimens had been
+chemically fixed. They were thought to be a normal
+structure, or organelle, found within prokaryotes. The large
+surface area of the folded membrane was considered
+to be an important site for the process of oxidative
+phosphorylation. However, when specimens were fixed
+by the more recently developed, non-chemical technique
+called cryofixation, the mesosomes were no longer visible.
+This is a good example of how the scientific community
+accepted an idea based on the evidence available at the
+time and as techniques improved and more evidence
+became available, the collective knowledge and
+understanding developed and changed. New evidence can
+either provide further support for a theory or disprove an
+earlier theory. Scientific knowledge is constantly developing.
+1
+It is now widely thought that the majority of mesosomes
+observed are actually artefacts produced by the chemicals
+used in the fixation process in electron microscopy
+preparation, which damage bacterial cell membranes.
+However, there are still a number of scientists who believe
+Structures that look similar to mesosomes have
+recently been observed in bacteria after treatment
+with certain types of antibiotics.
+Suggest, with reasons, whether this information
+is evidence to support the current theory that
+mesosomes are artefacts or the theory that they
+are, in fact, organelles.
+detector
+Laser scanning confocal microscopy
+Light microscopy has also continued to develop. Some
+of the latest technology produces images that are very
+different from electron micrographs but are just as useful.
+confocal pinhole
+illumination
+pinhole
+dichroic
+mirror
+laser
+Conventional optical microscopes use visible light to
+illuminate specimens and a lens to produce a magnified
+image. In fluorescent microscopes a higher light intensity
+is used to illuminate a specimen that has been treated
+with a fluorescent chemical (a fluorescent 'dye').
+Fluorescence is the absorption and re-radiation of light.
+Light of a longer wavelength and lower energy is emitted
+and used to produce a magnified image.
+objective
+lens
+- excitation light
+--- out of focus light
+in focus emission
+light
+– focal plane
+A laser scanning confocal microscope moves a
+single spot of focused light across a specimen
+specimen
+(point illumination). This causes
+fluorescence from the components labelled focus 1
+with a 'dye'. The emitted light from the specimen
+is filtered through a pinhole aperture. Only light radiated from
+very close to the focal plane (the distance that gives the sharpest
+focus) is detected (Figure 4).
+A Figure 4 The light rays from the laser and
+the fluorescing sample follow the same path
+and have the same focal plane
+BASIC COMPONENTS OF LIVING SYSTEMS
+0
+10
+20
+30
+40
+50
+60
+70
+30 divisions on the eyepiece graticule = 10 divisions on
+the stage micrometer
+Use these readings to calculate the calibration factor for
+the x4 objective lens.
+100 micrometer divisions = 1 mm
+So each small division is 1/100 mm = 0.01 mm or
+10.0 um
+1110 120 130 140 150 160
+l
+3 The student replaced the micrometer slide with pollen
+sample slides and used the calibrated scale in the
+eyepiece to measure the diameter of the pollen grains.
+.
+www
+30 gráticule divisions = 10 micrometer divisions
+10 micrometer divisions = 10 x 10 = 100 um
+number of eyepiece divisions
+1 graticule division = -
+number of micrometres
+30 graticule divisions = 100 um so 1 graticule division =
+100/30=3.33 pm
+The magnification factor is 3.33
+To use this magnification factor remove the stage
+micrometer and place a prepared slide on the stage.
+Measure the size of an object in graticule units. To find
+the actual size multiply the number of graticule units
+measured by the magnification factor to give you the
+length in um
+graticule divisions x magnification factor = measurement
+(um)
+ANA
+10
+10
+20
+30
+40
+50
+60
+70
+e.g., the diameter of a cell seen using the x4 objective
+lens measures 10 graticule divisions. Each graticule
+division = 3.33 um so the cell diameter = 10 x 3.33 =
+33.3um.
+eyepiece graticule scale
+10
+Results
+The student decided to use the 10 objective lens.
+0
+20
+Result
+Diameter of pollen grain/divisions
+11
+16
+||||||||||||
+0 2 4 6 8 10
+stage micrometer scale: 1 division = 10um
+Calibration example
+A student was asked to calibrate the x 10 lens of a light
+microscope and then to determine the diameter of a
+pollen grain from a sample slide provided.
+1 State the correct names of the scale used on
+the stage of the microscope and the scale in the
+eyepiece.
+2 Calculate the calibration factor of the 10
+objective lens.
+3 a Fill in the missing reading in the table for the
+pollen grain shown in the artwork above.
+b Using the table calculate the diameter of the
+different pollen grains using the calibration
+factor you have calculated in question 2.
+Calculate the mean diameter of the pollen grains.
+d Suggest why it is important to calibrate
+the lens that is going to be used to view the
+pollen grains.
+1 The student placed a scale on the stage of the
+microscope and focused on it with the x10 lens.
+100 small divisions of the scale are 1 mm long, so 1
+division is 10 pm.
+2 The student then aligned the scale in the eyepiece
+with the scale on the microscope stage and calibrated
+BASIC COMPONENTS OF LIVING SYSTEMS
+Sample preparation o
+There are a number of different ways in which samples
+and specimens can be prepared for examination by light
+microscopy. The method chosen will depend on the nature
+of the specimen and the resolution that is desired.
+• Dry mount - Solid specimens are viewed whole or cut
+into very thin slices with a sharp blade, this is called
+sectioning. The specimen is placed on the centre of
+the slide and a cover slip is placed over the sample.
+For example hair, pollen, dust and insect parts can be
+viewed whole in this way, and muscle tissue or plants
+can be sectioned and viewed in this way.
+Squash slides - Awet mount is first prepared, then
+a lens tissue is used to gently press down the cover
+slip. Depending on the material, potential damage to
+a cover slip can be avoided by squashing the sample
+between two microscope slides. Using squash slides
+is a good technique for soft samples. Care needs to
+be taken that the cover slip is not broken when being
+pressed. For example, root tip squashes are used to
+look at cell division.
+Smear slides – The edge of a slide is used to smear
+the sample, creating a thin, even coating on another
+slide. A cover slip is then placed over the sample. An
+example of a smear slide is a sample of blood. This is a
+good way to view the cells in the blood.
+cover slip
+hair
+drop of blood
+450
+slide
+Wet mount -Specimens are suspended in a liquid
+such as water or an immersion oil. A cover slip is
+placed on from an angle, as shown. For example,
+aquatic samples and other living organisms can be
+viewed this way.
+1
+cover slip
+droplet
+Suggest reasons for the following, with reference to
+slide preparation:
+a Specimens must be thin.
+b When preparing a wet mount the refractive
+index (ability to bend light) of the medium
+should be roughly the same as glass.
+C A cover slip must be placed onto a wet mount at
+an angle.
+slide
+Using staining oo
+In basic light microscopy the sample is illuminated
+from below with white light and observed from above
+(brightfield microscopy). The whole sample is illuminated
+at once (wide-field microscopy). The images tend to
+have low contrast as most cells do not absorb a lot of
+light. Resolution is limited by the wavelength of light
+and diffraction of light as it passes through the sample.
+Diffraction is the bending of light as it passes close to the
+edge of an object.
+The cytosol (aqueous interior) of cells and other cell
+structures are often transparent. Stains increase contrast as
+different components within a cell take up stains to different
+degrees. The increase in contrast allows components to
+become visible so they can be identified (Figure 4).
+To prepare a sample for staining it is first placed on a slide
+and allowed to air dry. This is then heat-fixed by passing
+through a flame. The specimen will adhere to the microscope
+slide and will then take up stains.
+2.1 Microscopy
+red blood cell
+(erythrocyte)
+white blood cell
+(leucocyte)
+Figure 4 Light micrograph and annotated diagram of a blood sample that has been stained using Wright's
+stain (a mixture of eosin red and methylene blue dyes). The nuclei of the white blood cells are stained purple
+Crystal violet or methylene blue are positively charged
+dyes, which are attracted to negatively charged materials
+in cytoplasm leading to staining of cell components.
+Dyes such as nigrosin or Congo red are negatively charged
+and are repelled by the negatively charged cytosol. These
+dyes stay outside cells, leaving the cells unstained, which
+then stand out against the stained background. This is a
+negative stain technique.
+Differential staining can distinguish between two types
+of organisms that would otherwise be hard to identify. It
+can also differentiate between different organelles of a
+single organism within a tissue sample.
+A Figure 5 Gram stain of Streptococcus pneumoniae, a
+Gram-positive bacteria which cause pneumonia (x200
+magnification). Gram-positive bacteria retain a crystal violet
+dye during the Gram stain process and appear blue or violet
+under a microscope
+Gram stain technique is used to separate bacteria into
+two groups, Gram-positive bacteria and Gram-negative
+bacteria (Figure 5). Crystal violet is first applied to a
+bacterial specimen on a slide, then iodine, which fixes
+the dye. The slide is then washed with alcohol. The
+Gram-positive bacteria retain the crystal violet stain and
+will appear blue or purple under a microscope. Gram-
+negative bacteria have thinner cell walls and therefore
+lose the stain. They are then stained with safranin dye,
+which is called a counterstain. These bacteria will then
+appear red. Gram-positive bacteria are susceptible to
+the antibiotic penicillin, which inhibits the formation of
+cell walls. Gram-negative bacteria have much thinner
+cell walls that are not susceptible to penicillin.
+Acid-fast technique is used to differentiate species
+of Mycobacterium from other bacteria. A lipid solvent
+is used to carry carbolfuchsin dye into the cells being
+studied. The cells are then washed with a dilute acid-
+alcohol solution. Mycobacterium are not affected by
+the acid-alcohol and retain the carbolfuchsin stain,
+Figure 6 Yersinia pestis, the Gram-negative bacteria which
+cause the bubonic plague infecting humans and animals
+(x1450 magnification). Gram-negative bacteria appear red or
+pink under a microscope
+12
+2
+2.2 Magnification and calibration
+Summary questions
+1 Suggest why you should put all measurements into the
+same units before carrying out calculations.
+(2 marks)
+2 Calculate how many nanometres are present in 3846 centimetres.
+Give your answer in standard form.
+3 Explain the difference between contrast and resolution. (2 marks)
+4 Calculate the magnification of the micrograph showing human
+cheek cells (Figure 3).
+A Figure 3 Light micrograph of squamous
+epithelium cells from the inside of a human cheek
+The average diameter of a cheek cell is 60 um.
+(2 marks)
+5 Explain how diffraction limits resolution.
+(5 marks)
+(2 marks)
+6 Explain why eyepiece graticules do not have units.
+2
+2.1 Microscopy
+The light micrograph (Figure 7) shows a layer of onion cells as seen under a
+light microscope. Next to the micrograph is an example of a good scientific
+drawing of this image.
+cell wall
+cytoplasm
+nucleus
+x 18 magnification
+Figure 7 Top: Light micrograph of a layer of onion cuticle, showing the
+bands of large, rectangular cells. The dark spot in the centre of each cell is its
+nucleus. x 18 magnification. Bottom: A scientific drawing from the micrograph
+Below is an example of a poor scientific drawing:
+nucleus
+cytoplasm
+cell wall
+1 Describe how this diagram is incorrect as a scientific drawing.
+Summary questions
+1 Outline the basic concepts of cell theory. (3 marks) 4 a Calculate the low and high power magnifications of
+a microscope with the following lenses:
+2 Explain why staining is used in microscopy. (2 marks)
+i Eyepiece lens x 10
+3 Compound microscopes led to new discoveries
+ii Objective lenses x 10 and 40. (2 marks)
+essential for cell theory to be fully explained.
+b You are observing a specimen of squamous tissue
+Explain the benefit of having two lenses in
+under high power. The individual cells have an
+a microscope.
+(4 marks) average diameter of 60 pm and the diameter of the
+field of view of the objective lens is 2 mm. Calculate
+the maximum number of whole cells that are visible
+in the field of view.
+(3 marks)
+14
+2
+2.3 More microscopy
+Table 1 summarises the differences between light and electron microscopy.
+Table 1 A comparison of light and electron microscopy
+Light microscope
+Electron microscope
+inexpensive to buy and operate
+expensive to buy and operate
+small and portable
+large and needs to be installed
+complex sample preparation
+sample preparation often distorts material
+simple sample preparation
+sample preparation does not
+usually lead to distortion
+vacuum is not required
+vacuum is required
+natural colour of sample is seen
+(or stains are used)
+black and white images produced (but can
+be coloured digitally)
+over 500 000 magnification
+up to 2000 magnification
+resolving power is 200 nm
+resolving power of transmission electron
+microscope is 0.5 nm and a scanning
+electron microscope is 3-10 nm
+specimens can be living or dead
+specimens are dead
+Scientific drawings from electron micrographs 2
+Electron microscopes produce
+images with much greater resolution
+starch
+than light microscopes and therefore
+--chloroplasts
+granules
+much more detail can be seen.
+starch
+granules
+chloroplasts
+nucleus
+Producing good scientific drawings
+from electron micrographs takes
+cell wall -
+practice. The same rules used in
+producing drawings from light
+micrographs must still be observed (Topic 2.1, Microscopy).
+cell wall
+nucleus
+Figure 3 Transmission electron
+micrograph of a section through two leaf
+cells at their junction. Their cell walls run
+from top centre to lower left. A nucleus is
+seen at lower right. Starch granules
+(pale ovals) can be seen in the chloroplast
+(dark grey, upper left and right). 18 700
+magnification
+1
+Study the two drawings above and state, with
+reasons, which of them represents the best
+scientific drawing
+Creation of artefacts
+An artefact is a visible structural detail caused by processing the
+specimen and not a feature of the specimen. Artefacts appear in both
+light and electron microscopy. The bubbles that get trapped under
+the cover slip as you prepare a slide for light microscopy are artefacts.
+When preparing specimens for electron microscopy, changes in
+20
+2.3 More microscopy
+Specification reference: 2.1.1
+Light microscopy started the science of cell biology, but it has limitations.
+In the middle of the 20th century a new invention, the electron
+microscope, revolutionised the study of cells and enabled biologists to see
+deep inside structures that were invisible under a light microscope.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the use of laser scanning
+confocal microscopy
+→ the use of electron microscopy.
+Electron microscopy
+In light microscopy, increased magnification can be achieved easily
+using the appropriate lenses, but if the image is blurred no more
+detail will be seen. Resolution is the limiting factor.
+In electron microscopy, a beam of electrons with a wavelength
+of less than lnm is used to illuminate the specimen. More detail
+of cell ultrastructure can be seen because electrons have a much
+smaller wavelength than light waves. They can produce images with
+magnifications of up to 500 000 and still have clear resolution.
+Electron microscopes have changed the way we understand cells
+but there are some disadvantages to this technique. They are very
+expensive pieces of equipment and can only be used inside a carefully
+controlled environment in a dedicated space. Specimens can also be
+damaged by the electron beam and because the preparation process
+is very complex, there is a problem with artefacts (structures that
+are produced due to the preparation process). However, as techniques
+improve a lot of theses artefacts can be eliminated.
+A Figure 1 Coloured transmission
+electron micrograph of a lymphocyte
+(white blood cell). Magnification x1600
+There are two types of electron microscope:
+• In a transmission electron microscope (TEM) a beam of
+electrons is transmitted through a specimen and focused to
+produce an image. This is similar to light microscopy. This has the
+best resolution with a resolving power of 0.5 nm (Figure 1).
+In a scanning electron microscope (SEM) a beam of electrons
+is sent across the surface of a specimen and the reflected electrons
+are collected. The resolving power is from 3-10 nm, so the
+resolution is not as good as with transmission electron microscopy
+but stunning three-dimensional images of surfaces are produced,
+giving us valuable information about the appearance of different
+organisms (see Figure 2).
+Figure 2 Coloured scanning electron
+micrograph of a lymphocyte (white
+blood cell). Magnification x 2000
+Sample preparation for electron microscopes oo
+The inside of an electron microscope is a vacuum to ensure fractured to expose the inside and will then need to be
+the electron beams travel in straight lines. Because of this, coated with heavy metals.
+samples need to be processed in a specific way.
+1 Suggest reasons for the following steps in the
+Specimen preparation involves fixation using chemicals
+preparation of samples for electron microscopy:
+or freezing, staining with heavy metals and dehydration
+• fixation • embedding in resin
+with solvents. Samples for a TEM will then be set in resin
+• dehydration • staining with heavy metals.
+and may be stained again. Samples for a SEM may be
+BASIC COMPONENTS OF LIVING SYSTEMS
+which is bright red. Other bacteria lose the stain and
+are exposed to a methylene blue stain, which is blue.
+You will often look at slides that have been pre-prepared.
+A number of stages are involved in the production of
+these slides:
+out in schools. One of the main areas covered is health and
+safety, including risk assessment. Advice and support is
+provided to all types of educational establishments and
+their employees about all aspects of practical work such
+as the use of chemicals or living organisms, laboratory
+design, and even where to obtain the right equipment.
+Fixing - chemicals like formaldehyde are used to
+preserve specimens in as near-natural a state as
+possible.
+Sectioning - specimens are dehydrated with alcohols
+and then placed in a mould with wax or resin to form a
+hard block. This can then be sliced thinly with a knife
+called a microtome.
+• Staining - specimens are often treated with multiple
+stains to show different structures.
+Mounting - the specimens are then secured to a
+microscope slide and a cover slip placed on top.
+CLEAPSS provide student safety sheets that identify specific
+risks, advise on the measures to be taken to reduce these
+risks and the action to be taken in any emergency.
+In fact, in schools many of the microscopy slides that are
+used are bought in ready-prepared and pre-stained, not
+only because of the harmful nature of the stains but also
+because of the long complex process needed to produce
+high quality sections.
+1 Use your knowledge of the staining technique used
+to distinguish Gram-positive from Gram-negative
+bacteria and information from the paragraph above
+to answer the following question:
+Suggest why Gram-negative infections are more
+difficult to treat than Gram-positive infections.
+Risk management
+Many of the stains used in the preparation of slides are
+toxic or irritants. A risk assessment must carried out
+before any practical is started to identify any procedures
+involved that may result in harm.
+CLEAPSS (Consortium of Local Education Authorities for
+the Provision of Science Services) is the organisation that
+provides support for the practical work carried
+2 Crystal violet and potassium iodide are chemicals
+classed as irritants. Crystal violet is also toxic.
+Describe the precautions you should take when
+using these chemicals.
+Less is more
+Scientific drawings are line drawings not pictures. They are used to highlight
+particular features and should not include unnecessary detail. The focus
+can be changed to help draw selected features.
+The following is a list of rules for producing good scientific drawings:
+• include a title
+state magnification
+• use a sharp pencil for drawings and labels
+use white, unlined paper
+. use as much of the paper as possible for the drawing
+draw smooth, continuous lines
+do not shade
+draw clearly defined structures
+ensure proportions are correct
+label lines should not cross and should not have arrow heads
+label lines should be parallel to the top of the page and drawn with a ruler
+•

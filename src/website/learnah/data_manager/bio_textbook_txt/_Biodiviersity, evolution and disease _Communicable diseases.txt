@@ -1,0 +1,2182 @@
+12
+12.7 Preventing and treating disease
+Some communicable diseases that cause problems at a global level
+cannot yet be prevented by vaccination. Examples include:
+• malaria - Plasmodium, the protoctist that causes malaria. It is very
+evasive - it spends time inside the erythrocytes so it is protected
+by self antigens from the immune system, and within an infected
+individual its antigens reshuffle
+HIV, the human immunodeficiency virus that causes AIDS. It
+enters the macrophages and T helper cells, so it has disabled the
+immune system itself.
+So far scientists have been unable to develop a vaccine for these diseases,
+which between them affect millions of people globally every year.
+Medicines and the management of disease
+Medicines can be used to treat communicable and non-communicable
+diseases. Medicines can be used to treat symptoms and cure them,
+making people feel better. Common medicines include painkillers,
+anti-inflammatories and anti-acid medicines (which reduce
+indigestion).
+Medicines that cure people include chemotherapy against some cancers,
+antibiotics that kill bacteria, and antifungals that kill fungal pathogens.
+Sources of medicines
+Penicillin was the first widely used, effective, safe antibiotic capable
+of curing bacterial diseases. It comes from a mould, Penicillium
+chrysogenum, famously discovered by Alexander Fleming in 1928,
+when he found it growing on his Staphylococcus spp. cultures. Fleming
+saw what the mould did to his bacteria but could not extract enough
+to test its potential. It needed Howard Florey and Ernst Chain to
+develop an industrial process for making the new drug, which has
+since saved millions of lives around the world.
+The medicines we use today come from a wide range of sources.
+Scientists design drugs using complex computer programmes. They
+can build up 3-dimensional models of key molecules in the body,
+and of pathogens and their antigen systems. This allows models of
+potential drug molecules to be built up which are targeted at particular
+areas of a pathogen. Computers are also used to search through
+enormous libraries of chemicals, to isolate any with a potentially
+useful action against a specific group of feature of a pathogen, or
+against the mutated cells in a cancer.
+Analysis of the genomes of pathogens and genes which have been
+linked to cancer enable scientists to target their novel drugs to attack
+any vulnerabilities. However, many of the drugs most commonly
+used in medicine are still either derived from, or based on, bioactive
+compounds discovered in plants, microorganisms or other forms of
+life. Table 2 lists some examples.
+328
+12
+COMMUNICABLE DISEASES
+is when a communicable disease spreads rapidly to a lot of people at a
+local or national level. A pandemic is when the same disease spreads
+rapidly across a number of countries and continents.
+At the beginning of an epidemic, mass vaccination can prevent the
+spread of the pathogen into the wider population. When vaccines are
+being deployed to prevent epidemics, they often have to be changed
+regularly to remain effective.
+When a significant number of people in the population have been
+vaccinated, this gives protection to those who do not have immunity.
+This is known as herd immunity, as there is minimal opportunity for
+an outbreak to occur.
+Case Study: Influenza co
+Health Organisation (WHO) predicts will be most common
+and most likely to cause serious disease.
+Flu is a disease that has caused epidemics at intervals
+throughout history. The virus that causes strain A
+influenza mutates regularly, so the antigens on the
+surface change too. Some forms of this virus can cross
+the species barrier from animals such as birds or pigs
+to people. Although people develop resistance to one
+strain of flu, the next year the antigens on the surface of
+the virus may have changed so much that the immune
+system does not recognise it and many of the same
+people become ill again.
+If a flu epidemic begins, more people are vaccinated to
+control infection rates. Because people travel freely and
+frequently, an epidemic can spread rapidly from one
+country to another. People across the world need to be
+vaccinated to stop the spread of disease and stock piles
+of vaccines are in place in case this becomes necessary.
+SARS was a new flu-like disease that appeared in 2002
+and spread from birds to people. It spread rapidly across
+countries as people travelled around. However, in spite
+of a lack of vaccine, careful management of cases by
+isolation meant the outbreak was contained and quickly
+closed down with relatively few deaths (Figure 3).
+Every year in the UK older people and anyone who has
+a compromised immune system are given a flu vaccine.
+Every year the mixture of flu antigens in the vaccine is
+different, reflecting the forms of the virus that the World
+9000
+8000
+Cumulative cases
+1 Suggest three ways in
+which an outbreak of
+'flu' or 'flu-like illness'
+might be contained.
+Cumulative recoveries
+7000
+6000
+Number of cases
+4000
+3000
+Active cases
+2000
+1000
+Cumulative deaths.
+soolaneado 200000 000000000000 pano pocoon
+77 84 91 98 105
+O
+000000 code
+0 7 14 21 28 35 42 49 56 63 70
+Days into outbreak
+A Figure 3 Disease data from the SARS outbreak of 2002.
+327
+12
+COMMUNICABLE DISEASES
+a (i) Describe the trends shown in the graph.
+(4 marks)
+(ii) Suggest the reasons for the difference
+in the trends.
+(3 marks)
+b Describe the structure of a virus and explain
+why viruses are not considered to be living
+organisms.
+(4 marks)
+Ebola outbreaks usually happen in remote
+areas of developing countries. They are quite
+rare and usually on a relatively small scale.
+Discuss why there are no effective drugs or
+vaccines available to treat Ebola. (5 marks)
+The graph below shows the change in incidence
+of TB in patients and their HIV status, if known.
+4
+Practice questions
+1 Doctors regularly receive advice with regard
+to the prescribing of antibiotics.
+Which of the following statements is/are likely to
+form part of this advice.
+Statement 1: avoid the use of broad
+spectrum antibiotics
+Statement 2: only prescribe antibiotics when
+patients have a bacterial infection
+Statement 3: use targeted antibiotics
+whenever possible
+A 1, 2 and 3 are correct
+B Only 1 and 2 are correct
+C Only 2 and 3 are correct
+D Only 1 is correct
+(1 mark)
+2 a Define the term pathogen. (2 marks)
+b Describe the physical barriers of plants
+which act as a defence against infection
+from pathogens.
+(3 marks)
+c Explain why plants cannot acquire
+immunity.
+(4 marks)
+3 The 2014 Ebola virus outbreak was more
+correctly called an epidemic. It is often fatal
+and there is no known cure or vaccine
+available.
+The diagram below shows the progression
+of the disease in the first few months of the
+outbreak.
+1800
+1600
+1400
+HIV status unknown
+I HIV uninfected
+O HIV infected
+number of cases
+16000
+14000
+12000 -
+10000
+8000
+6000
+4000
+2000-
+1993 1995 1997 1999 2001 2003 2005 2007
+year
+a
+b
+Describe and explain the changes from 1993
+to 2008.
+(5 marks)
+Describe what is meant by the term
+opportunistic infection.
+(3 marks)
+Explain the differences in the way TB and
+HIV are transmitted.
+(4 marks)
+number of cases
+number of people
+number of deaths
+Ot
+)
+28th March 2014
+4th April 2014
+11th April 2014
+25th April 2014
+16th May 2014
+27th June 2014
+21st March 2014
+18th April 2014
+2nd May 2014
+9th May 2014
+.
+.
+23rd May 2014
+30th May 2014
+6th June 2014
+13th June 2014
+20th June 2014
+non-logarithmic scale
+)
+4th July 2014
+11th July 2014
+18th July 2014
+25th July 2014
+1st August 2014
+333
+12.7 Preventing and treating
+disease
+Specification reference: 4.1.1
+Non-communicable diseases cannot be passed from one person
+to another. They include heart disease, most types of cancer and
+many diseases of the nervous, endocrine and digestive systems.
+Communicable diseases are caused by pathogens and can be passed
+from person to person.
+When you come into contact with a foreign antigen, you need some
+form of immunity to prevent you getting the disease. There are several
+ways of achieving this immunity.
+Natural immunity
+Some forms of immunity occur naturally in the body:
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the differences between
+active and passive immunity,
+and between natural and
+artificial immunity
+the principles of vaccination
+and the role of vaccination
+programmes in the
+prevention of epidemics
+the benefits and risks of
+using antibiotics to manage
+bacterial infection
+→ possible sources of new
+medicines.
+When you meet a pathogen for the first time, your immune
+system is activated and antibodies are formed, which results in the
+destruction of the antigen (Topic 12.6, The specific immune
+system). The immune system produces T and B memory cells so
+if you meet a pathogen for a second time, your immune system
+recognises the antigens and can immediately destroy the pathogen,
+before it causes disease symptoms. This is known as natural
+active immunity. It is known as active because the body has
+itself acted to produce antibodies and/or memory cells.
+The immune system of a new-born baby is not mature and it
+cannot make antibodies for the first couple of months. A system
+has evolved to protect the baby for those first few months of
+life. Some antibodies cross the placenta from the mother to her
+fetus while the baby is in the uterus, so it has some immunity
+to disease at birth. The first milk a mammalian mother makes is
+called colostrum, which is very high in antibodies. The infant gut
+allows these glycoproteins to pass into the bloodstream without
+being digested. So within a few days of birth, a breast-fed baby will
+have the same level of antibody protection against disease as the
+mother. This is natural passive immunity and it lasts until the
+immune system of the baby begins to make its own antibodies.
+The antibodies the baby receives from the mother are likely to
+be relevant to pathogens in its environment, where the mother
+acquired them.
+Artificial immunity
+Some diseases can kill people before their immune system makes
+the antibodies they need. Medical science can give us immunity to
+some of these life-threatening diseases without any contact with
+live pathogens.
+325
+COMMUNICABLE DISEASES
+In some countries, including the US, farmers routinely add antibiotics
+to animal feed prophylactically to prevent animals losing condition due
+to infections, and reducing business profits. There are concerns that
+such routine exposure to the antibiotics accelerates natural selection
+of antibiotic-resistant strains of both human and animal pathogens.
+However, in the UK it is illegal to give animals routine antibiotics this
+way. Evidence suggests that it is the over subscription of antibiotics to
+people which is the prime cause of the rise in antibiotic resistance.
+population with no
+antibiotic-resistant
+bacteria
+chance mutation in one
+bacterium produces a
+gene for antibiotic-
+resistance
+population with a few
+antibiotic-resistant
+bacteria
+MRSA and C. difficile
+Antibiotic-resistant bacteria are a particular problem in hospitals and
+care homes for older people, where antibiotics are often needed and
+used. MRSA (methicillin-resistant Staphylococcus aureus) and
+Clostridium difficile (C. difficile) have been high-profile examples of
+antibiotic-resistant bacteria. They are summarised in Table 3.
+antibiotic
+antibiotic A applies
+a selection pressure -
+there is strong natural
+selection for bacteria
+with a gene for
+antibiotic-resistance
+present
+population with mainly
+antibiotic-resistant
+bacteria
+antibiotic
+% resistant
+continued selection
+pressure means almost
+all bacteria in the
+population will be
+antibiotic-resistant
+present
+Figure 6
+Development
+of resistance
+in bacteria to
+ciprofloxacin, an
+antibiotic used for
+treating a wide
+variety of infections
+population of almost all
+antibiotic-resistant
+bacteria
+0661
+1661
+1992
+1993
+1994
+1995
+9661
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+Table 3
+MRSA
+C. difficile
+bacterium carried by up to 30% of
+the population on their skin or in
+their nose
+in the body it can cause boils,
+abscesses and potentially fatal
+septicaemia
+was treated effectively with
+methicillin, a penicillin-like antibiotic
+but mutation has produced
+methicillin-resistant strains
+bacterium in the guts of about 5%
+of the population
+produces toxins that damage the
+lining of the intestines, leading to
+diarrhoea, bleeding and even death
+not a problem for healthy person
+but when commonly-used
+antibiotics kill off much of the
+helpful' gut bacteria it survives,
+reproduces and takes hold rapidly
+Antibiotic-resistant infections can be reduced in the long term by
+measures including:
+minimising the use of antibiotics, and ensuring that every course
+of antibiotics is completed to reduce the risk of resistant individuals
+surviving and developing into a resistant strain population
+good hygiene in hospitals, care homes and in general - this has a
+major impact on the spread of all infections, including antibiotic-
+resistant strains.
+331
+12
+COMMUNICABLE DISEASES
+It usually takes a human neutrophil under 10 minutes to engulf and
+destroy a bacterium. Macrophages take longer but they undergo
+a more complex process. When a macrophage has digested a
+pathogen, it combines antigens from the pathogen surface membrane
+with special glycoproteins in the cytoplasm called the major
+histocompatibility complex (MHC). The MHC complex moves
+these pathogen antigens to the macrophage's own surface membrane,
+becoming an antigen-presenting cell (APC). These antigens now
+stimulate other cells involved in the specific immune system response
+(see Topic 11.6, Factors affecting biodiversity).
+Synoptic link
+Counting blood cells
+In your previous studies you learnt how to examine microscope slides
+and draw the cells you saw. You also learned how to count the number
+of cells in a given area of a slide. Both of these skills are very important
+when looking at blood smears, made by spreading a single drop of
+blood very thinly across a slide. They are often stained to show up the
+nuclei of the lymphocytes, making them easier to identify. Identifying
+the numbers of different types of lymphocytes in a blood smear
+indicates if a non-specific or specific immune response is taking place.
+You learnt about smear slides in
+Topic 2.1, Microscopy. It may help
+to look back at Topics 6.4, The
+organisation and specialisation of
+cells, and 6.5, Stem cells, to remind
+yourself of the different types of
+cells in the blood.
+Helpful chemicals
+Phagocytes that have engulfed a pathogen produce chemicals called
+cytokines. Cytokines act as cell-signalling molecules, informing
+other phagocytes that the body is under attack and stimulating them
+to move to the site of infection or inflammation. Cytokines can also
+increase body temperature and stimulate the specific immune system.
+Opsonins are chemicals that bind to pathogens and 'tag' them so
+they can be more easily recognised by phagocytes. Phagocytes have
+receptors on their cell membranes that bind to common opsonins,
+and the phagocyte then engulfs the pathogen. There are a number of
+different opsonins, but antibodies such as immunoglobulin G (IgG)
+and immunoglobulin M (IgM) have the strongest effect.
+Summary questions
+1 Make a table to show the main adaptations of the body that
+prevent the entry of pathogens.
+(4 marks)
+2 A woman gets a bad scratch from a bramble. The scratch gets
+very red and hot and the next day it contains pus. Explain what
+is happening
+(4 marks)
+(6 marks)
+3 a Describe the process of phagocytosis.
+b Explain how cytokines and opsonins make the
+process of phagocytosis more effective than it would
+be without them.
+(5 marks)
+319
+12.6 The specific immune system
+Specification reference: 4.1.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ modes of action of B and
+T lymphocytes in the specific
+immune response
+the structure and functions of
+antibodies
+actions of opsonins,
+agglutinins and anti-toxins
+► the primary and secondary
+immune responses
+→ autoimmune diseases.
+All cells have molecules called antigens on their surfaces. The body
+recognises the difference between self antigens on your own cells and
+non-self antigens on the cells of pathogens. Some toxins also act as
+antigens. Antigens trigger an immune response, which involves the
+production of polypeptides called antibodies.
+The specific immune system (also known as active or acquired
+immunity) is slower than the non-specific responses - it can take up
+to 14 days to respond effectively to a pathogen invasion. However, the
+immune memory cells mean it reacts very quickly to a second invasion
+by the same pathogen.
+Antibodies
+Antibodies are Y-shaped glycoproteins called immunoglobulins,
+which bind to a specific antigen on the pathogen or toxin that has
+triggered the immune response. There are millions of different
+antibodies, and there is a specific antibody for each antigen.
+Antigen-binding sites
+Antibodies are made up of two identical long polypeptide chains called
+the heavy chains and two much shorter identical chains called the
+light chains (Figure 1). The chains are held together by disulfide
+bridges and there are also disulfide bridges within the polypeptide
+chains holding them in shape.
+Light
+chain
+Variable
+region
+(different on
+different
+antibodies)
+Heavy
+chain
+Constant
+region
+(same in all
+antibodies)
+Antibodies bind to antigens with a protein-based 'lock-and-key'
+mechanism similar to the complementarity between the active site of
+an enzyme and its substrate. The binding site is an area of 110 amino
+acids on both the heavy and the light chains, known as the variable
+region. It is a different shape on each antibody and gives the antibody
+its specificity. The rest of the antibody molecule is always the same, so
+it is called the constant region.
+Receptor
+binding site
+A Figure 1 All antibodies have the
+same basic structure
+When an antibody binds to an antigen it forms an antigen-antibody
+complex.
+Synoptic link
+How antibodies defend the body
+1 The antibody of the antigen-antibody complex acts as an opsonin
+so the complex is easily engulfed and digested by phagocytes.
+Most pathogens can no longer effectively invade the host cells
+once they are part of an antigen-antibody complex.
+Antibodies act as agglutinins causing pathogens carrying antigen-
+antibody complexes to clump together. This helps prevent them
+spreading through the body and makes it easier for phagocytes to
+engulf a number of pathogens at the same time.
+4 Antibodies can act as anti-toxins, binding to the toxins produced
+by pathogens and making them harmless.
+You learnt about protein structure
+and glycoproteins in Topic 3.5,
+Lipids and Topic 3.6, Structure
+of proteins, and about the active
+sites of enzymes in Topic 4.1
+Enzyme action.
+320
+12
+12.7 Preventing and treating disease
+Rate / 100,000 / year
+Solving the problem
+The development of antibiotic-resistant bacteria is one of the biggest
+health problems of our time – there is a fear that we may return to the
+days when bacterial infections killed thousands of people each year
+in the UK alone. Scientists are working on developing new antibiotics
+using computer modelling and looking at possible sources in a wide
+variety of places, including
+soil microorganisms, crocodile
+a health departments present in many states across the US
+b first use of chlorine in water in towns
+blood, fish slime, honey and the
+C peak of influenza pandemic
+deepest abysses of the oceans.
+d last transmission of plague between humans
+But at the moment, bacterial
+e start of penicillin use to treat diseases
+f polio vaccine introduced
+resistance is building faster than
+new antibiotics can be found.
+In 2014 it was announced that
+a new Lottery-funded prize of
+£10 million named Longitude
+will be reserved for anyone
+who can come up with a
+cost-effective, accurate and
+easy-to-use test for bacterial
+0+
+1900
+1920
+1940
+1960
+1980
+2000
+infections so that doctors all
+Year
+over the world can use the right
+A Figure 7 Graph showing crude death rate per year per 100 000 in the US
+antibiotics at the right time, and
+from 1900-1996
+only when they are needed.
+Summary questions
+1 Make a flow diagram to explain how artificial active immunity
+is stimulated when a vaccination is given.
+(4 marks)
+2 0 Suggest why some children still die of communicable diseases
+o in the UK even in the 21st century.
+(4 marks)
+(1 mark)
+3 Using the data from Figure 3.
+a When did the peak of the SARS outbreak occur?
+b How many people were infected during the outbreak of
+the disease
+c How many people died in the outbreak
+d Approximately what percentage of the people affected
+by the SARS virus recovered?
+(1 mark)
+(1 mark)
+(3 marks)
+4 Explain how vaccinations may be used:
+a to prevent rabies after a person has been bitten by a
+rabid dog, fox or bat
+b to control epidemics.
+(2 marks)
+(4 marks)
+5 Using data from Figure 7, discuss the factors that affect
+mortality from communicable diseases and comment on
+the effects of using antibiotics to treat bacterial infections
+on mortality since penicillin was first introduced.
+(6 marks)
+332
+12
+12.7 Preventing and treating disease
+Artificial passive immunity
+For certain potentially fatal diseases, antibodies are formed in one
+individual (often an animal), extracted and then injected into the
+bloodstream of another individual. This artificial passive immunity
+gives temporary immunity - it doesn't last long but it can be lifesaving.
+For example, tetanus is caused by a toxin released by the bacterium
+Clostridium tetani, found in the soil and animal faeces. It causes the
+muscles to go into spasm so you cannot swallow or breathe. People
+who might be infected with tetanus (for example after a contaminated
+cut) will be injected with tetanus antibodies extracted from the blood
+of horses, preventing the development of the disease but not providing
+long-term immunity. Rabies is another fatal disease that is treated with
+a series of injections that give artificial passive immunity.
+Artificial active immunity - the principles of vaccination
+In artificial active immunity the immune system of the body is
+stimulated to make its own antibodies to a safe form of an antigen
+(a vaccine), which is injected into the bloodstream (vaccination).
+The antigen is not usually the normal live pathogen, as this could
+cause the disease and have fatal results. The main steps are as follows:
+Synoptic link
+You will learn about genetic
+engineering in Topic 21.4, Genetic
+engineering
+The pathogen is made safe in one of a number of ways so that
+the antigens are intact but there is no risk of infection. Vaccines
+may contain:
+killed or inactivated bacteria and viruses, for example,
+whooping cough (pertussis)
+attenuated (weakened) strains of live bacteria or viruses, for
+example, rubella, BCG against TB, polio (vaccine taken orally)
+toxin molecules that have been altered and detoxified,
+for example, diphtheria, tetanus
+isolated antigens extracted from the pathogen, for example,
+the influenza vaccine
+genetically engineered antigens, for example, the hepatitis B
+vaccine.
+2 Small amounts of the safe antigen, known as the vaccine, are
+injected into the blood.
+3 The primary immune response is triggered by the foreign antigens
+and your body produces antibodies and memory cells as if you
+were infected with a live pathogen.
+4 If you come into contact with a live pathogen, the secondary
+immune response is triggered and you destroy the pathogen
+rapidly before you suffer symptoms of the disease.
+The artificial active immunity provided by vaccines may last a year,
+a few years or a lifetime. Sometimes boosters (repeat vaccinations)
+are needed to increase the time you are immune to a disease.
+Figure 2 In the UK babies are given
+vaccinations against a range of diseases
+including pertussis, diphtheria, tetanus,
+polio, meningitis, measles, mumps,
+and rubella. As a result, the number
+of children who die from preventable
+infections is now very low
+Vaccines and the prevention of epidemics
+Vaccines are used to give long-term immunity to many diseases.
+However, they are also used to help prevent epidemics. An epidemic
+326
+12
+12.2 Animal and plant diseases
+12.2 Animale
+each year, and over 600 000 die. The disease recurs, making people
+weak and vulnerable to other infections. There is no vaccine against
+malaria and limited cures, but preventative measures can very
+effective. The key is to control the vector. Anopheles mosquitoes can
+be destroyed by insecticides and by removing the standing water
+where they breed. Simple measures such as mosquito nets, window
+and door screens and long sleeved clothing can prevent them biting
+people and spreading the disease.
+Ring worm -a fungal disease affecting mammals including cattle,
+dogs, cats and humans. Different fungi infect different species - in
+cattle, ring worm is usually caused by Trichophyton verrucosum. It
+causes grey-white, crusty, infectious, circular areas of skin. It is not
+damaging but looks unsightly and may be itchy. Antifungal creams
+are an effective cure.
+Athlete's foot - a human fungal disease caused by Tinia pedia, a
+form of human ring worm that grows on and digests the warm,
+moist skin between the toes. It causes cracking and scaling, which is
+itchy and may become sore. Antifungal creams are an effective cure.
+A Figure 5 Top: Only female Anopheles
+mosquitoes (top) spread malaria - they
+need two blood meals before they lay their
+eggs. When infected females feed they
+transmit the parasite to the human host
+-bottom: scanning electron microscope
+showing red blood cells and Plasmodium
+falciparum protozoa. < 500 magnification.
+Identifying pathogens
+When an outbreak of a disease occurs in plants or animals, the key to
+successful control or cure is to identify the pathogens involved. Our ability to
+do this has increased along with our understanding of the causes of disease
+and developments in technology:
+Synoptic link
+You will learn about the principles
+of DNA sequencing and the
+development of new DNA sequencing
+techniques in Chapter 21,
+Manipulating genomes.
+Traditionally pathogens were cultured in the laboratory and identified
+using a microscope.
+Monoclonal antibodies (antibodies made by cells of the immune
+system that recognise one specific antigen) can be used now to identify
+pathogenic organisms in both plants and animals (Topic 12.6, The
+specific immune system).
+DNA sequencing technology means pathogens can be identified
+precisely, down to a single mutation (see Zoonotic influenza).
+Summary questions
+1 Make a table to summarise all
+the bacterial, viral, protoctist,
+and fungal diseases described
+in this section, including the
+main organisms that are
+affected.
+(6 marks)
+2 Compare and contrast a
+bacterial disease of plants
+and of animals. (6 marks)
+3 Suggest three ways in which
+animal diseases and three ways
+in which plant diseases may be
+spread from one organism to
+the next
+(6 marks)
+Case study: In a transplant ward, four patients developed infections caused
+by methicillin resistant Staphylococcus aureus (MRSA). If the bacterium
+was being transmitted to patients by a member of staff, this was a serious
+outbreak. But DNA sequencing at the Sanger Institute gave rapid results -
+new technology means a bacterial genome can be sequenced in less than
+24 hours. Researchers showed that each of the patients had a different
+strain of MRSA. The cases were not linked, so it was not a hospital-based
+outbreak requiring staff to be screened or treated.
+1 Why is it important to identify the pathogen causing a communicable
+disease?
+2 Suggest the benefits and limitations of culturing pathogens and using
+a light microscope to identify them.
+3 Find out as much as you can about the use of monoclonal antibodies
+in the detection of plant diseases.
+310
+12
+12.6 The specific immune system
+2
+3
+The receptors on some of the T helper cells fit the antigens. These
+T helper cells become activated and produce interleukins, which
+stimulate more T cells to divide rapidly by mitosis. They form
+clones of identical activated T helper cells that all carry the right
+antigen to bind to a particular pathogen.
+The cloned T cells may:
+develop into T memory cells, which give a rapid response
+if this pathogen invades the body again
+produce interleukins that stimulate phagocytosis
+produce interleukins that stimulate B cells to divide
+develop into T killer cells and destroy infected cells.
+antigen from pathogen
+develop into T memory cells
+cloning
+by mitosis
+produce interleukins that
+stimulate phagocytosis
+pathogen
+produce interleukins that
+stimulate B cells to divide
+T helper cell
+T cell
+develop into T killer cells
+antigen-presenting
+T helper cell receptor that
+cell, e.g. phagocyte
+fits the particular antigen
+Figure 2 Model of cell-mediated immunity
+Humoral immunity
+In humoral immunity the body responds to antigens found outside
+the cells, for example bacteria and fungi, and to APCs. The humoral
+immune system produces antibodies that are soluble in the blood and
+tissue fluid and are not attached to cells.
+B lymphocytes have antibodies on their cell-surface membrane
+(immunoglobulin M or IgM) and there are millions of different types
+of B lymphocytes, each with a different antibody. When an antigen on
+a pathogen enters the body, a B cell with the complementary antibody
+will bind to it, engulf it and process the antigens to become an APC.
+1
+2
+Activated T helper cells bind to the B cell APC. This is clonal
+selection - the point at which the B cell with the correct antibody
+to overcome a particular antigen is selected for cloning.
+Interleukins produced by the activated T helper cells activate the
+B cells.
+The activated B cell divides by mitosis to give clones of plasma cells
+and B memory cells. This is clonal expansion.
+Cloned plasma cells produce antibodies that fit the antigens on the
+surface of the pathogen, bind to the antigens and disable them,
+3
+4
+322
+COMMUNICABLE DISEASES
+12
+Study tip
+Lymphocytes and the immune response
+The specific immune system is based on white blood cells called
+lymphocytes. B lymphocytes mature in the Bone marrow, while
+T lymphocytes mature in the Thymus gland.
+Make sure you are very clear
+about the differences between an
+antigen and an antibody, and the
+relationship between them:
+An antiGEN GENerates an antibody.
+The main types of T lymphocytes:
+•
+Study tip
+Make sure you understand what
+each of the different types of
+lymphocytes contribute to the
+immune response.
+T helper cells - these have CD4 receptors on their cell-surface
+membranes, which bind to the surface antigens on APCs
+(Topic 12.5). They produce interleukins, which are a type of
+cytokine (cell-signalling molecule). The interleukins made by the
+T helper cells stimulate the activity of B cells, which increases
+antibody production, stimulates production of other types of T cells
+and attracts and stimulates macrophages to ingest pathogens with
+antigen-antibody complexes.
+T killer cells - these destroy the pathogen carrying the antigen.
+They produce a chemical called perforin, which kills the
+pathogen by making holes in the cell membrane so it is freely
+permeable.
+T memory cells - these live for a long time and are part of the
+immunological memory. If they meet an antigen a second time,
+they divide rapidly to form a huge number of clones of T killer
+cells that destroy the pathogen.
+T regulator cells - these cells suppress the immune system,
+acting to control and regulate it. They stop the immune response
+once a pathogen has been eliminated, and make sure the body
+recognises self antigens and does not set up an autoimmune
+response. Interleukins are important in this control.
+The main types of B lymphocytes:
+Plasma cells – these produce antibodies to a particular antigen
+and release them into the circulation. An active plasma cell only
+lives for a few days but produces around 2000 antibodies per
+second while it is alive and active.
+B effector cells - these divide to form the plasma cell clones.
+B memory cells - these live for a very long time and provide the
+immunological memory. They are programmed to remember a
+specific antigen and enable the body to make a very rapid response
+when a pathogen carrying that antigen is encountered again.
+Cell-mediated immunity
+In cell-mediated immunity, T lymphocytes respond to the cells of
+an organism that have been changed in some way, for example by a
+virus infection, by antigen processing or by mutation (for example
+cancer cells) and to cells from transplanted tissue. The cell-mediated
+response is particularly important against viruses and early cancers.
+1
+In the non-specific defence system, macrophages engulf and digest
+pathogens in phagocytosis. They process the antigens from the
+surface of the pathogen to form antigen-presenting cells (APCs).
+321
+12
+COMMUNICABLE DISEASES
+A viruses are the most virulent and they are classified further by
+the proteins on their surfaces, for example A(HINI) and A(H3N3).
+Flu viruses mutate regularly. The change is usually quite small, so
+having flu one year leaves you with some immunity for the next.
+Every so often, however there is a major change in the surface
+antigens and this heralds a flu epidemic or pandemic as there are
+no antibodies available. Vulnerable groups are given a flu vaccine
+annually to protect against ever changing strains. There is no cure.
+T
+Zoonotic Influenza
+A disease which people can catch from animals is known
+as a zoonosis. Influenza, for example attacks a range of
+animals including birds and pigs. Sometimes the virus
+which causes bird flu or swine (pig) flu mutates and
+becomes capable of infecting people. These new strains
+can be particularly serious, because few people have any
+natural immunity to them.
+In March 2009 60% of the population of a small town
+in Mexico became infected with a new disease and two
+babies died. Some of those infected tested positive for
+H1N1, a form of flu usually found in pigs, rather than the
+usual human flu strains.
+months after it first appeared people were infected with
+H1N1 flu in 62 countries, and some of them were dying.
+None of the available flu vaccines were any use against
+this zoonotic virus.
+Within five months almost 3000 people around the world
+had died.
+Fortunately, only six months after swine flu H1N1 was
+first identified, scientists produced an effective vaccine.
+In spite of this, recent analyses of the data suggest
+between 200 000-300 000 people died as a result of
+H1N1 infection in the 2009 outbreak - and up to 80% of
+those deaths were in people aged 65 and younger. In a
+normal seasonal flu outbreak, only around 10% of deaths
+occur in people who are under 65.
+H1N1 is now part of the normal seasonal flu vaccine and
+scientists remain on the lookout for the next mutation
+which may enable the flu virus to pass from pigs or birds
+to people, known as a species jump.
+A The H1N1 virus which caused a flu pandemic in 2009
+1 H1N1 is a virus not a bacterium. Why does this
+make it so much more dangerous?
+2 Explain how modern DNA technology helps in the
+case of a zoonotic disease outbreak such as this
+3 a How did the age profile of the people who died
+from H1N1 differ from the normal pattern of
+flu-related deaths?
+b Suggest reasons for this difference.
+The outbreak spread to the US, where using DNA
+analysis techniques, the virus was identified as a new
+mutant strain of the H1N1 swine flu virus, which had
+not been seen before in either pigs or people. Three
+Malaria – caused by the protoctista Plasmodium and spread by the
+bites of infected Anopheles mosquitoes (the vector - Topic 12.3).
+The Plasmodium parasite has a complex life cycle with two hosts –
+mosquitoes and people. They reproduce inside the female mosquito.
+The female needs to take two blood meals to provide her with
+protein before she lays her eggs - and this is when Plasmodium is
+passed on to people. It invades the red blood cells, liver, and even
+the brain. Around 200 million people are reported to have malaria
+309
+COMMUNICABLE DISEASES
+SEASES
+12
+or act as opsonins or agglutinins. This is the primary immune
+response and it can take days or even weeks to become fully
+effective against a particular pathogen. This is why we get ill –
+the symptoms are the result of the way our body reacts when
+the pathogens are dividing freely, before the primary immune
+response is fully operational.
+Some cloned B cells develop into B memory cells. If the body is
+infected by the same pathogen again, the B memory cells divide
+rapidly to form plasma cell clones. These produce the right
+antibody and wipe out the pathogen very quickly, before it
+can cause the symptoms of disease. This is the secondary
+immune response.
+5
+antibody
+invading
+pathogen
+processed
+antigen
+attach to antigens
+on pathogen and
+disable it
+(= primary response)
+B cell
+cloning
+by mitosis
+plasma cell
+antigen
+B cell
+B-cell
+antibody
+circulate in blood and tissue
+fluid in readiness to respond
+to a future infection by the
+same pathogen by dividing
+and developing into plasma
+cells that produce antibodies
+(= secondary response)
+activated T helper cell -
+memory cell
+A Figure 3 Model of humoral immunity
+secondary response
+Autoimmune diseases
+Sometimes the immune system stops recognising 'self' cells and
+starts to attack healthy body tissue. This is termed an autoimmune
+disease. Scientists still do not understand fully why this happens.
+There appears to be a genetic tendency in some families, sometimes
+the immune system responds abnormally to a mild pathogen or
+normal body microorganisms and in some cases the T regulator cells
+do not work effectively.
+quantity of antibody in the blood
+primary response
+There are around 80 different autoimmune diseases that can cause
+chronic inflammation or the complete breakdown and destruction of
+healthy tissue. Immunosuppressant drugs, which prevent the immune
+system working, may be used as treatments but they deprive the body
+of its natural defences against communicable diseases.
+0 5 10 15 20 25 30 35
+time / days
+initial exposure second exposure
+to the antigen to the antigen
+(day 0) (day 20) in this example
+Figure 4 Primary and secondary
+immune responses
+323
+12
+12.6 The specific immune system
+Table 1 Some common autoimmune diseases
+Treatment
+Synoptic link
+Look back to the Application
+on gene therapy in Topic 6.5,
+Stem cells, for an example of an
+autoimmune disease.
+Autoimmune disease
+Type 1 diabetes
+Body part affected
+. the insulin-secreting
+cells of the pancreas
+• insulin injections
+• pancreas transplants
+immunosuppressant
+drugs
+Rheumatoid arthritis
+joints-especially in
+the hands, wrists,
+ankles and feet
+. no cure
+• anti-inflammatory
+drugs
+steroids
+• immunosuppressants
+• pain relief
+Lupus
+often affects skin
+and joints and
+causes fatigue
+can attack any organ
+in the body including
+kidneys, liver, lungs
+or brain
+no cure
+• anti-inflammatory drugs
+• steroids
+• immunosuppressants
+• various others
+Summary questions
+1 What are antibodies and how do they work?
+(2 marks)
+2 Compare the main types of I and B lymphocytes - what are
+their similarities and differences?
+(6 marks)
+3 Discuss the problems that could arise from treating an
+autoimmune disease with immunosuppressant drugs.
+(3 marks)
+4 The humoral immune system deals well with bacterial and
+fungal infections but the cell-mediated immune system is
+more effective at tackling viral infections. Explain the biology
+behind this statement.
+(6 marks)
+324
+12
+COMMUNICABLE DISEASES
+Vectors
+Wind - bacteria, viruses and fungal or oomycete spores may be
+carried on the wind, e.g. Black sigatoka blown between Caribbean
+islands, P. infestans sporangia form spores which are carried by the
+wind to other potato crops/tomato plants.
+Water - spores swim in the surface film of water on leaves; raindrop
+splashes carry pathogens and spores, etc. Examples are spores
+of P. infestans (potato blight) which swim over films of water on
+the leaves.
+Animals - insects and birds carry pathogens and spores from one
+plant to another as they feed. Insects such as aphids inoculate
+pathogens directly into plant tissues.
+Humans - pathogens and spores are transmitted by hands, clothing,
+fomites, farming practices and by transporting plants and crops
+around the world. For example, TMV survives for years in tobacco
+products, ring rot survives on farm machinery, potato sacks, etc.
+A Figure 1 Disease can spread rapidly
+through monocultures such as these
+crop plants
+Summary questions
+Factors affecting the transmission of communicable
+diseases in plants
+A number of factors are responsible:
+Explain the difference
+between direct and indirect
+transmission of communicable
+pathogens.
+(2 marks)
+2 Compare and contrast direct
+transmission of animal and
+plant diseases. (4 marks)
+planting varieties of crops that are susceptible to disease
+over-crowding increases the likelihood of contact
+poor mineral nutrition reduces resistance of plants
+damp, warm conditions increase the survival and spread of
+pathogens and spores
+climate change - increased rainfall and wind promote the spread
+of diseases; changing conditions allow animal vectors to spread to
+new areas; drier conditions may reduce the spread of disease.
+3 Compare and contrast indirect
+transmission of animal and
+plant diseases. (4 marks)
+Suggest different
+approaches to control the
+spread of malaria.
+(5 marks)
+Preventing the spread of communicable diseases in plants
+Key factors in reducing the spread of communicable
+susceptible host
+diseases in plants:
+no
+disease
+Leave plenty of room between plants to minimise the
+spread of pathogens.
+Clear fields as thoroughly as possible - remove all
+traces of plants from the soil at harvesting.
+Rotate crops - the spores or bacteria will eventually
+die if they do not have access to the host plant.
+Follow strict hygiene practices - measures such as
+washing hands, washing boots, sterilising storage
+sacks, washing down machinery, etc.
+Control insect vectors.
+no
+no
+disease disease
+disease
+no
+no
+no
+disease disease) disease
+pathogen
+favourable
+environment
+A Figure 2 Disease in plants is the result of the interaction
+between a susceptible host, a pathogen and a favourable
+environment. Modifying any of these factors can reduce the
+incidence of disease
+Discuss ways of controlling communicable plant
+diseases with reference to the plant disease
+triangle in Figure 2.
+313
+12
+COMMUNICABLE DISEASES
+Animal diseases
+The diseases that affect animals - and in particular human beings -
+have a profound effect on human health and wellbeing - and on
+national economies. Communicable diseases range from mild to fatal.
+Examples include:
+Tuberculosis (TB)
+A bacterial disease of humans, cows, pigs, badgers, and deer commonly
+caused by Mycobacterium tuberculosis and M. bovis. TB damages and
+destroys lung tissue and suppresses the immune system, so the body
+is less able to fight off other diseases. Worldwide in 2012 around
+8.6 million people had TB of which 1.3 million died. The global rise of
+HIV/AIDS has had a big impact on the numbers of people also suffering
+from diseases such as TB, because people affected by HIV/AIDS are
+much more likely to develop TB infections. In people TB is both
+curable (by antibiotics) and preventable (by improving living standards
+and vaccination).
+TB, cows, and badgers 0
+TB affects animal populations. In 2013, almost 33 000
+UK cattle were destroyed because they were infected
+with bovine TB. There is clear evidence that TB is passed
+from wild animals, such as badgers or possums, to cattle,
+and vice versa. This presents a problem as cattle can be
+tested and culled, but it is very difficult to prevent them
+becoming re-infected from wildlife, particularly when
+they are out at pasture.
+Scientists are still unsure how this wildlife infection
+can best be controlled. One method is to cull the
+wildlife source - in countries where this has been
+done, TB rates in cattle have fallen substantially,
+however it must be carried out carefully and thoroughly
+or it can lead to greater disease spread as animals
+are dispersed.
+Some people, however, feel culling is not an acceptable
+approach and vaccination of either cattle or the wild
+animals is a better route. The test for TB cannot currently
+distinguish between an infected animal and a vaccinated
+animal, so current EU law bans cattle vaccines. Research
+is continuing on an improved version of both the vaccine
+and test. Vaccinating a population of wild animals is not
+an easy task, and it is as yet an unproven method to
+control the spread of disease.
+The problem of TB in animals will not be solved easily, but
+the research and the debate continues.
+1 Why do you think it is so difficult to prevent
+re-infection of cattle when they are out grazing in
+the fields?
+2 Suggest why EU law bans the vaccination of cattle
+against TB
+3 Why do you think that people are against culling
+badgers, when thousands of cattle infected with TB
+are slaughtered each year?
+4 What might be the difficulties of vaccinating a wild
+population of animals?
+5 Investigate the impact of TB on infected cows and
+badgers
+307
+12
+12.2 Animal and plant diseases
+Bacterial meningitis - a bacterial infection (commonly
+Streptococcus pneumoniae or Neisseria meningitidis) of the meninges
+of the brain (protective membranes on the surface of the brain),
+which can spread into the rest of the body causing septicaemia
+(blood poisoning) and rapid death. It mainly affects very young
+children and teenagers aged 15-19. They have different symptoms
+but in both, a blotchy red/purple rash that does not disappear
+when a glass is pressed against it is a symptom of septicaemia and
+immediate medical treatment is needed. About 10% of people
+infected will die. Up to 25% of those who recover have some
+permanent damage. Antibiotics will cure the disease if delivered
+early. Vaccines can protect against some forms of bacterial
+meningitis.
+Synoptic link
+You will learn more about TB in
+Topic 12.3, The transmission
+of communicable diseases
+and Topic 12.7, Preventing and
+treating disease.
+HIV/AIDS (acquired immunodeficiency syndrome) - caused
+by HIV (human immunodeficiency virus), which targets
+T helper cells in the immune system of the body (see Topic 12.6,
+The specific immune system). It gradually destroys the immune
+system so affected people are open to other infections, such as TB
+and pneumonia, as well as some types of cancer. HIV/AIDS can
+affect humans and some non-human primates. HIV is a retrovirus
+with RNA as its genetic material. It contains the enzyme reverse
+transcriptase, which transcribes the RNA to a single strand of
+DNA to produce a single strand of DNA in the host cell. This
+DNA interacts with the genetic material of the host cell. The
+virus is passed from one person to another in bodily fluids, most
+commonly through unprotected sex, shared needles, contaminated
+blood products and from mothers to their babies during pregnancy,
+birth or breast feeding. In 2012 around 35 million people
+worldwide were living with HIV infection and about 1.6 million
+died of the disease. There is as yet no vaccine and no cure, but
+anti-retroviral drugs slow the progress of the disease to give many
+years of healthy life. Girls and women are at particularly high
+risk of HIV/AIDS in many countries. Traditional practices such as
+female genital mutilation (FGM) increase the infection rate - if
+the same equipment is used multiple times then this can spread
+the infection, in addition, women who have undergone FGM are
+also more vulnerable to infection during intercourse. Sub-Saharan
+Africa is the region worst affected by HIV/AIDS, with 25 million
+people living with HIV/AIDS - around 70% of the global total.
+This disease has massive social and economic consequences as well
+as the personal impact to each person infected.
+Synoptic link
+You learnt about ciliated
+epithelial cells of the gaseous
+exchange system in Topics 6.4,
+Cell specialisation and levels of
+organisation.
+Influenza (flu) - a viral infection (Orthomyxoviridae spp.) of the
+ciliated epithelial cells in the gas exchange system. It kills them,
+leaving the airways open to secondary infection. Flu can be fatal,
+especially to young children, old people and people with chronic
+illnesses. Many of these deaths are from severe secondary bacterial
+infections such as pneumonia on top of the original viral infection.
+Flu affects mammals, including humans and pigs, and birds,
+including chickens. There are three main strains - A, B and C. Strain
+308
+12.4 Plant defences against
+pathogens
+Specification reference: 4.1.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ plant defences against
+pathogens.
+Plants have evolved a number of ways to defend themselves against
+the pathogens that cause communicable diseases. The waxy cuticle of
+plant leaves, the bark on trees, and the cellulose cell walls of individual
+plant cells act as barriers, which prevent pathogens getting in. Unlike
+animals, plants do not heal diseased tissue - they seal it off and
+sacrifice it. Because they are continually growing at the meristems,
+they can then replace the damaged parts.
+Synoptic link
+You learnt about cell division and
+meristems in plants in Topic 6.2,
+Mitosis and Topic 6.3, Meiosis.
+Recognising an attack
+Plants are not passive - they respond rapidly to pathogen attacks.
+Receptors in the cells respond to molecules from the pathogens, or to
+chemicals produced when the plant cell wall is attacked. This stimulates
+the release of signalling molecules that appear to switch on genes in
+the nucleus. This in turn triggers cellular responses, which include
+producing defensive chemicals, sending alarm signals to unaffected cells
+to trigger their defences, and physically strengthening the cell walls.
+some molecules from the
+pathogen are recognised
+directly by the plant cell
+pathogen
+some defensive
+molecules directly
+receptors in attack the pathogen
+cell membrane
+when pathogenic
+enzymes break down
+the cell wall the
+breakdown products
+are recognised
+nucleus
+defensive chemicals
+give the alarm to other
+cells before they are
+attacked
+signalling molecules
+alert nucleus
+to attack
+Figure 1 The presence of a pathogen
+stimulates a series of defensive
+strategies in the plant
+polysaccharides
+(callose and lignin)
+made to strengthen
+the cell walls
+Physical defences
+When plants are attacked by pathogens they rapidly set up extra
+mechanical defences. They produce high levels of a polysaccharide
+called callose, which contains B-1,3 linkages and B-1,6 linkages
+between the glucose monomers. Scientists still do not fully understand
+the roles played by callose in the defence mechanisms of the plant but
+current research suggests that:
+Synoptic link
+You learnt about a and B linkages
+in polysaccharides in Topic 3.3,
+Carbohydrates.
+within minutes of an initial attack, callose is synthesised and
+deposited between the cell walls and the cell membrane in cells next
+to the infected cells. These callose papillae act as barriers, preventing
+the pathogens entering the plant cells around the site of infection
+314
+12
+12.2 Animal and plant diseases
+Effect on plants
+Disease
+Tobacco mosaic virus (TMV) - a virus that inſects
+tobacco plants and around 150 other species
+including tomatoes, peppers, cucumbers, petunias
+and delphiniums. It damages leaves, flowers and fruit,
+stunting growth and reducing yields, and can lead to an
+almost total crop loss. Resistant crop strains are available
+but there is no cure.
+Figure 2 TMV and its effects
+Figure 3 Tomato blight
+caused by the protoctista
+Phytophthora infestans
+Potato blight tomato blight, late blight) - caused by
+the fungus-like protoctist oomycete Phytophthora infestans.
+The hyphae penetrate host cells, destroying leaves, tubers
+and fruit, causing millions of pounds worth of crop
+damage each year. There is no cure but resistant strains,
+careful management and chemical treatments can reduce
+infection risk.
+Black sigatoka - a banana disease caused by the fungus
+Mycosphaerella fijiensis, which attacks and destroys the
+leaves. The hyphae penetrate and digest the cells,
+turning the leaves black. If plants are infected it can
+cause a 50% reduction in yield. Resistant strains are
+being developed - good husbandry and fungicide
+(a chemical that kills fungi) treatment can control the
+spread of the disease but there is no cure.
+Figure 4 Banana leaf infected by Black sigatoka
++
+Banana diseases and food security Oo
+Food security is one of the
+biggest issues globally. In an
+ideal world everyone would
+consistently have a balanced
+diet provided in a sustainable
+way. One of the main
+problems, however, for many
+people is getting enough
+to eat. If plant diseases
+threaten staple crops such as
+rice, maize, cassava, and bananas then they threaten food
+security and the survival of the population.
+90% of the bananas cultivated are produced on small
+farms and eaten locally. In recent years, as a result of
+Black Sigatoka there has been a 40% fall in banana yields
+Around 10% of bananas are produced on big
+plantations for Western supermarkets. These are all
+from the same clone of a variety called Cavendish so
+they are genetically very similar. Black Sigatoka is
+invading these plantations too.
+Bananas are grown in over 130 countries where they
+are important both as a food crop and economically
+as a cash crop. They are the 4th most important crop
+in the developing world after rice, wheat, and maize
+In East Africa bananas (known as plantains) are the
+staple food for around 50% of the population. People
+eat around 400 kg of bananas per year
+1 There are around 150 million people in East Africa.
+How many bananas need to be cultivated to feed
+the 50% of the population for whom bananas are
+their staple diet?
+2 Suggest the effect on Black Sigatoka on the
+population of East Africa
+3 What problems are likely to affect the control of
+the disease on
+a small local farms
+b large plantations of Cavendish bananas
+306
+12
+12.3 The transmission of communicable diseases
+mosquitoes transmit malaria, rat fleas transmit bubonic plague,
+dogs, foxes and bats transmit rabies.
+• Water can also act as a vector of disease, for example, diarrhoeal
+diseases.
+Transmission between animals and humans
+Some communicable diseases can be passed from animals to people,
+for example the bird flu strain HINI and brucellosis, which is passed
+from sheep to people. Minimising close contact with animals and
+washing hands thoroughly following any such contact can reduce
+infection rates. People can also act as vectors of some animal diseases,
+sometimes with fatal results, for example foot-and-mouth disease.
+Factors affecting the transmission of communicable
+diseases in animals
+The probability of catching a communicable disease is increased by a
+number of factors:
+Preventing the spread
+of communicable
+o diseases in humans
+Key factors in reducing the spread
+of communicable diseases in
+humans include:
+hand washing - regular hand
+washing is the single most
+effective way of preventing the
+spread of many communicable
+diseases
+improvements in living and
+working conditions, for example,
+reducing overcrowding,
+ensuring good nutrition
+disposal of both bodily and
+household waste effectively.
+overcrowded living and working conditions
+poor nutrition
+a compromised immune system, including (in humans) having HIV/
+AIDS or needing immunosuppressant drugs after transplant surgery
+(in humans) poor disposal of waste, providing breeding sites for
+vectors
+climate change - this can introduce new vectors and new diseases,
+for example increased temperatures promote the spread of malaria
+as the vector mosquito species is able to survive over a wider area
+Culture and infrastructure - in many countries traditional medical
+practises can increase transmission
+Socioeconomic factors – for example, a lack of trained health
+workers and insufficient public warning when there is an outbreak
+of disease can also affect transmission rates.
+1 Explain why hand washing
+is so effective at preventing
+disease transmission.
+2 Why does improving living
+standards have such
+an impact on disease
+transmission?
+Effective management of
+household waste, leaving
+no empty containers
+around and keeping drains
+clear, substantially reduces
+the incidence of malaria in
+an area. Explain why this
+happens.
+Research and report on
+other low-tech ways in
+which the incidence of
+malaria can be prevented.
+Transmission of pathogens between plants
+Plants do not move around, cough or sneeze, yet diseases spread
+rapidly through plant communities, plant pollen and seed, for example
+move widely. Plants also have a less well developed immune system
+than humans.
+Direct transmission
+This involves direct contact of a healthy plant with any part of a
+diseased plant. Examples are ring rot, tobacco mosaic virus (TMV),
+tomato and potato blight, and black sigatoka.
+Indirect transmission
+Soil contamination
+Infected plants often leave pathogens (bacteria or viruses) or
+reproductive spores from protoctista or fungi in the soil. These can
+infect the next crop. Examples are black sigatoka spores, ring rot
+bacteria, spores of P. infestans and TMV. Some pathogens (often as
+spores) can survive the composting process so the infection cycle can
+be completed when contaminated compost is used.
+312
+12.3 The transmission of
+communicable diseases
+Specification reference: 4.1.1
+For the pathogens that cause communicable diseases to be successful,
+they have to be transmissible. So how are pathogenic bacteria, viruses,
+protoctista, and fungi transmitted from one host to another?
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ transmission of animal
+and plant communicable
+pathogens.
+Transmission of pathogens between animals
+Understanding how diseases are transmitted from one individual to
+another allows us to work out ways to reduce or prevent it happening.
+There are two main types of transmission - direct transmission and
+indirect transmission.
+Direct transmission
+Here the pathogen is transferred directly from one individual to
+another by:
+Direct contact (contagious diseases):
+• kissing or any contact with the body fluids of another person, for
+example, bacterial meningitis and many sexually transmitted diseases
+direct skin-to-skin contact, for example, ring worm, athlete's foot
+microorganisms from faeces transmitted on the hands, for example,
+diarrhoeal diseases.
+Inoculation:
+through a break in the skin, for example, during sex (HIV/AIDS)
+from an animal bite, for example, rabies
+through a puncture wound or through sharing needles,
+e.g. septicaemia.
+Ingestion:
+taking in contaminated food or drink, or transferring pathogens
+to the mouth from the hands, for example, amoebic dysentery,
+diarrhoeal diseases.
+Indirect transmission
+This is where the pathogen travels from one individual to another
+indirectly.
+Fomites:
+inanimate objects such as bedding, socks, or cosmetics can transfer
+pathogens, for example, athlete's foot, gas gangrene and Staphylococcus
+infections.
+Droplet infection (inhalation):
+Minute droplets of saliva and mucus are expelled from your
+mouth as you talk, cough or sneeze. If these droplets contain
+pathogens, when healthy individuals breathe the droplets in they
+may become infected, for example, influenza, tuberculosis.
+Vectors:
+A vector transmits communicable pathogens from one host to
+another. Vectors are often but not always animals, for example,
+311
+12.2 Animal and plant diseases
+Specification reference: 4.1.1
+Plant diseases
+Plant diseases threaten people, because when crop plants fail,
+people suffer. They may starve, economies may struggle and jobs
+are lost. Plant diseases threaten ecosystems too - entire species can
+be threatened.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the different types of
+pathogens that can cause
+communicable diseases in
+plants and animals.
+The threat to English oak trees
+Oak woodlands are a traditional part of the British
+countryside. These mighty trees (Quercus robur) can
+live for centuries and are home to up to 284 species of
+insects. As many as 324 different lichens have been
+identified on a single tree. Future generations, however
+may not see these trees in the countryside - they are
+under threat from a new disease. Acute oak decline
+first appeared in the UK the 1980s, having spread from
+continental Europe. It causes dark fluid to ooze from the
+bark, with a rapid decline in the tree and often death.
+behaviour of the oakjewel beetle. For now, the advice is
+to try and avoid spreading the disease by careful hygiene
+procedures for both people who work in oak woodlands
+and their machinery.
+Scientists still do not know exactly what the cause of
+this deadly tree disease is - which makes it very difficult
+to understand how to prevent it spreading. Some of the
+evidence so far includes:
+The discovery of previously unknown bacteria in the
+tree which may play a role in the disease
+Evidence of oak jewel beetle activity in infected
+trees - they may be important in disease
+development. For example, they may act as a vector
+or their presence may just be a coincidence
+A massive research project is currently underway
+involving DNA analysis of the microorganisms on infected
+and healthy oak trees, along with a careful study of the
+1 Suggest two pieces of evidence which would help
+to show whether oak jewel beetles are vectors of
+Acute oak decline or not.
+Plant diseases are caused by a range of pathogens. They include:
+Disease
+Ring rot - a bacterial disease of potatoes, tomatoes, and
+aubergines caused by the Gram positive bacterium
+Clavibacter michiganensis. It damages leaves, tubers and
+fruit. It can destroy up to 80% of the crop and there is
+no cure. Once bacterial ring rot infects a field it cannot
+be used to grow potatoes again for at least two years.
+Effect on plants
+Figure 1 Bacterial
+ring rot infects a
+field so it cannot
+be used to grow
+potatoes for at least
+two years
+305
+COMMUNICABLE DISEASES
+12
+Table 2 Some common medicinal drugs, derived from living organisms
+Drug
+Source
+Action
+Penicillin
+commercial extraction
+originally from mould
+growing on melons
+antibiotic - the first
+effective treatment
+against many common
+bacterial diseases
+treatment of breast cancer
+Docetaxel/paclitaxel
+Aspirin
+(acetylsalicylic acid)
+Prialt
+derived originally from
+yew trees
+based on compounds
+from sallow (willow)
+bark
+derived from the venom
+of a cone snail from the
+oceans around Australia
+derived from a soil
+fungus
+based on digitoxin,
+originally extracted
+from foxgloves
+painkiller, anti-coagulant,
+anti-pyretic (reduces fever)
+and anti-inflammatory
+new pain-killing drug 1000
+times more effective than
+morphine
+one of our most powerful
+antibiotics
+Vancomycin
+Digoxin
+powerful heart drug used
+to treat atrial fibrillation
+and heart failure
+In the 21st century biodiversity is rapidly being lost around the world,
+including the destruction of rain forests, the loss of coral reefs and loss
+of habitat for natural ecosystems in countries all around the world.
+This is at least partly due to human activities. Scientists have not yet
+explored and identified and analysed a fraction of life on Earth. One
+of many reasons why it is so important to maintain biodiversity is to
+make sure we do not destroy a plant, animal or microorganism which
+could give us the key to a life-saving drug.
+Figure 4 Mould, a cone snail and
+foxgloves – this diverse range of
+organisms provide the origins of some
+important medicines
+Drug design for the future
+Pharmacogenetics
+Personalised medicine - a combination of drugs that work with your
+individual combination of genetics and disease - is the direction
+in which medicine is going. The human genome can be analysed
+relatively rapidly and cheaply, giving a growing understanding of
+the genetic basis of many diseases. The science of interweaving
+knowledge of drug actions with personal genetic material is known
+as pharmacogenomics. We already know that genotypes and drugs
+interact. For example, in approximately 30% of all breast cancers
+there is a mutation in the HER2 gene. The activity of this gene can
+be shut down by specific drugs - trastuzumab (known an Herceptin)
+and lapatinib. By analsying breast tumours and treating those which
+have this mutation with the relevant drugs, doctors can reduce the
+deaths from HER2 breast cancer by up to 50%. In future, this type of
+treatment, where clinicians looks at the genome of their patients and
+the genome of the invading pathogen before deciding how to treat
+them, will become increasingly common.
+329
+12
+COMMUNICABLE DISEASES
+large amounts of callose continue to be deposited in cell walls
+after the initial infection. Lignin is added, making the mechanical
+barrier to invasion even thicker and stronger
+callose blocks sieve plates in the phloem, sealing off the infected
+part and preventing the spread of pathogens
+callose is deposited in the plasmodesmata between infected cells
+and their neighbours, sealing them off from the healthy cells and
+helping to prevent the pathogen spreading.
+Chemical defences
+Many plants produce powerful chemicals that either repel the insect
+vectors of disease or kill invading pathogens. Some of these chemicals
+are so powerful that we extract and use them or synthesise them to help
+us control insects, fungi and bacteria. Some have strong flavours and are
+used as herbs and spices. Examples of plant defensive chemicals include:
+insect repellents - for example, pine resin and citronella from
+lemon grass
+insecticides – for example, pyrethrins - these are made by
+chrysanthemums and act as insect neurotoxins; and caffeine -
+toxic to insects and fungi
+antibacterial compounds including antibiotics – for example,
+phenols - antiseptics made in many different plants; antibacterial
+gossypol produced by cotton; defensins - plant proteins that disrupt
+bacterial and fungal cell membranes; lysosomes - organelles
+containing enzymes that break down bacterial cell walls
+antifungal compounds - for example, phenols - antifungals made
+in many different plants; antifungal gossypol produced by cotton;
+caffeine - toxic to fungi and insects; saponins - chemicals in many
+plant cell membranes that interfere with fungal cell membranes;
+chitinases - enzymes that break down the chitin in fungal cell walls
+anti-oomycetes - for example, glucanases - enzymes made by
+some plants that break down glucans; polymers found in the cell
+walls of oomycetes (e.g., P.infestans)
+general toxins - some plants make chemicals that can be broken
+down to form cyanide compounds when the plant cell is attacked.
+Cyanide is toxic to most living things.
+Figure 2 Castor oil beans (shown
+here) produce ricin, which is used as a
+defensive chemical. Just 0.2 milligrams
+would be fatal if ingested
+Summary questions
+1 Describe how the plant response to a pathogen attack is triggered.
+(3 marks)
+2 Make a table or diagram to summarise plant defences against pathogens.
+(4 marks)
+3 Investigate the evidence for one of the roles of callose in
+plant defence responses.
+(6 marks)
+315
+12.5 Non-specific animal defences
+against pathogens
+Specification reference: 4.1.1
+Mammals (for example humans) have two lines of defence against
+invasion by pathogens. The primary non-specific defences against
+pathogens are always present or activated very rapidly. This system
+defends against all pathogens in the same way. Mammals have a
+specific immune response, which is specific to each pathogen but is
+slower to respond (as discussed in Topic 12.6).
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the primary non-specific
+defences against pathogens
+in animals
+► the structure and mode of
+action of phagocytes
+how to examine and draw cells
+observed in blood smears.
+ba
+Non-specific defences – keeping pathogens out
+The body has a number of barriers to the entry of pathogens:
+The skin covers the body and prevents the entry of pathogens.
+It has a skin flora of healthy microorganisms that outcompete
+pathogens for space on the body surface. The skin also
+produces sebum, an oily substance that inhibits the growth
+of pathogens.
+Many of the body tracts, including the airways of the gas exchange
+system, are lined by mucous membranes that secrete sticky
+mucus. This traps microorganisms and contains lysozymes, which
+destroy bacterial and fungal cell walls. Mucus also contains
+phagocytes, which remove remaining pathogens.
+Lysozymes in tears and urine, and the acid in the stomach, also
+help to prevent pathogens getting into our bodies.
+Synoptic link
+You learnt about the gas exchange
+system in Topic 7.2, Mammalian
+gaseous exchange system.
+We also have expulsive reflexes. Coughs and sneezes eject
+pathogen-laden mucus from the gas exchange system, while
+vomiting and diarrhoea expel the contents of the gut along with
+any infective pathogens.
+Blood clotting and wound repair
+If you cut yourself, the skin is breached and pathogens can enter the
+body. The blood clots rapidly to seal the wound. When platelets come
+into contact with collagen in skin or the wall of the damaged blood
+vessel, they adhere and begin secreting several substances. The most
+important are:
+Synoptic link
+You learnt about the enzymatic-
+control of the blood clotting
+cascade in Topic 4.4, Cofactors,
+coenzymes, and prosthetic groups.
+thromboplastin, an enzyme that triggers a cascade of reactions
+resulting in the formation of a blood clot (or thrombus, Figure 1)
+serotonin, which makes the smooth muscle in the walls of the
+blood vessels contract, so they narrow and reduce the supply of
+blood to the area.
+The clot dries out, forming a hard, tough scab that keeps pathogens
+out. This is the first stage of wound repair. Epidermal cells below the
+scab start to grow, sealing the wound permanently, while damaged
+blood vessels regrow. Collagen fibres are deposited to give the new
+316
+12
+COMMUNICABLE DISEASES
+12.1 Animal and plant pathogens
+Specification reference: 4.1.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the different types of
+pathogen that can cause
+communicable diseases in
+plants and animals.
+Communicable diseases are caused by infective organisms known as
+pathogens. Pathogens include bacteria, viruses, fungi, and protoctista.
+Each has particular characteristics that affect the way they are spread
+and the ways we can attempt to prevent or cure the diseases they cause.
+A communicable disease can be passed from one organism to another.
+In animals they are most commonly spread from one individual of
+a species to another, but they can also be spread between species.
+Communicable diseases in plants are spread directly from plant to
+plant. Vectors, which carry pathogens from one organism to another,
+are involved in the spread of a number of important plant and animal
+diseases. Common vectors include water and insects.
+Globally, around 13 million people a year die as a result of communicable
+diseases. That is 23% of all deaths - non-communicable diseases cause
+around 68% of deaths, and injuries cause the rest. Communicable
+diseases are also a major problem in domestic and wild animals, and in
+the plants on which life on Earth depends.
+Types of pathogens
+Bacteria
+There are probably more bacteria than any other type of organism.
+A small proportion of these bacteria are pathogens, causing
+communicable diseases.
+Bacteria are prokaryotes, so they have a cell structure that is very
+different from the eukaryotic organisms they infect. They do not have
+a membrane-bound nucleus or organelles.
+Bacteria can be classified in two main ways:
+. By their basic shapes – they may be rod shaped (bacilli), spherical
+(cocci), comma shaped (vibrios), spiralled (spirilla), and corkscrew
+(spirochaetes).
+Synoptic link
+You learnt about prokaryotic cell
+structure in Topic 2.6, Prokaryotic
+and eukaryotic cells.
+pair of
+chain of
+cocci
+(streptococci)
+cluster of
+cocci
+(staphylococci)
+vibrio
+(comma)
+bacillus chain of coccus
+(rod) bacilli (spherical) cocci
+(known as
+streptobacilli)
+A Figure 1 The main types of bacteria
+spirillum
+(spiral)
+spirochaete
+(corkscrew)
+302
+12
+12.7 Preventing and treating disease
+Synthetic biology
+Another major step forward in drug development is synthetic
+biology. Using the techniques of genetic engineering, we can develop
+populations of bacteria to produce much needed drugs that would
+otherwise be too rare, too expensive or just not available. Synthetic
+biology enables the use of bacteria as biological factories. Mammals have
+also been genetically modified to produce much needed therapeutic
+proteins in their milk. This re-engineering of biological systems for new
+purposes has great potential in medicine. Nanotechnology is another
+strand of synthetic biology, where tiny, non-natural particles are used
+for biological purposes – for example, to deliver drugs to very specific
+sites within the cells of pathogens or tumours.
+Synoptic link
+You will learn more about the
+human genome, synthetic biology,
+and genetic engineering in
+Chapter 21, Manipulating genomes
+and Chapter 22, Cloning and
+biotechnology.
+The antibiotic dilemma
+At the beginning of the 20th century, 36% of all deaths - and 52% of
+all childhood deaths - were from communicable diseases. Antibiotics
+interfere with the metabolism of the bacteria without affecting the
+metabolism of the human cells - this is called selective toxicity. They
+gave doctors, for the first time, medicines that were effective against
+bacteria, so antibiotics were understandably, widely used. By the start
+of this century, the numbers of children dying per year had fallen
+dramatically and, of those remaining few deaths, only about 7% were
+due to communicable diseases.
+polymixines make holes
+in cell membrane
+altering its permeability
+penicillin and cephalosporins-
+weaken the cell wall so
+bacterium is more easily
+damaged by immune reaction
+There are many different types of bacteria and a range of antibiotics
+is used against them, including streptomycin, amoxicillin (very like
+penicillin), cephalosporins, tetracyclines, sulfonamides, polymixines,
+ampicillin, and vancomycin. In 2014 up to 1 in 6 of all prescriptions
+were still for antibiotics. They are often used for relatively minor
+infections where the immune system of the patient would deal with
+the infection with no serious difficulty.
+sulfonamides interfere
+with metabolic reactions
+Unfortunately, antibiotics are becoming less effective in the treatment
+of bacterial diseases. Bacteria are becoming resistant to more and
+more antibiotics. This trend started with penicillin - now there are
+microorganisms that are resistant to all of the antibiotics we have.
+DNA
+tetracyclines and streptomycin
+inhibit protein synthesis
+A Figure 5 Some of the different ways in
+which antibiotic drugs damage bacteria
+The development of antibiotic resistance
+There is an evolutionary race between scientists and bacteria. An
+antibiotic works because a bacterium has a binding site for the drug,
+and a metabolic pathway that is affected by the drug. If a random
+mutation during bacterial reproduction produces a bacterium that is
+not affected by the antibiotic, that is the one which is best fitted to
+survive and reproduce, passing on the antibiotic resistance mutation to
+the daughter cells. Bacteria reproduce very rapidly, so once a mutation
+occurs it does not take long to grow a big population of antibiotic-
+resistant bacteria.
+In a few decades we have reached a stage where increasing numbers
+of bacterial pathogens are resistant to most or all of our antibiotics.
+330
+12
+12.5 Non-specific animal defences against pathogens
+Synoptic link
+You will learn more about the
+control of body temperature in
+Chapter 15, Homeostasis.
+Fevers
+Normal body temperature of around 37 °C is maintained by the
+hypothalamus in your brain. When a pathogen invades your body,
+cytokines stimulate your hypothalamus to reset the thermostat and
+your temperature goes up. This is a useful adaptation because:
+most pathogens reproduce best at or below 37 °C. Higher
+temperatures inhibit pathogen reproduction
+the specific immune system works faster at higher temperatures.
+Phagocytosis
+Phagocytes are specialised white cells that engulf and destroy
+pathogens. There are two main types of phagocytes – neutrophils
+and macrophages (Figure 2).
+Phagocytes build up at the site of an infection and attack pathogens.
+Sometimes you can see pus in a spot, cut or wound. Pus consists of
+dead neutrophils and pathogens.
+The stages of phagocytosis
+1 Pathogens produce chemicals that attract phagocytes.
+2 Phagocytes recognise non-human proteins on the pathogen. This
+is a response not to a specific type of pathogen, but simply a cell or
+organism that is non-self.
+3 The phagocyte engulfs the pathogen and encloses it in a vacuole
+called a phagosome.
+4 The phagosome combines with a lysosome to form a
+phagolysosome.
+5 Enzymes from the lysosome digest and destroy the pathogen.
+Figure 3 Common phagocytes
+in the body: 70% of white blood cells
+are neutrophils (top) with their multi-
+lobed nuclei and rapid action against
+pathogens. Macrophages (bottom), with
+their simpler round nuclei, make up 4%
+of the white blood cells and are involved
+in both the non-specific defence
+system and the specific immune
+system. Coloured transmission electron
+micrographs, x 2000 magnification
+MHC complex
+1
+phagocyte attracted by pathogen
+chemicals produced
+by pathogen
+antigen
+Glysosome
+nucleus
+6
+phagocyte
+MHC/antigen complex is
+displayed on phagocyte membrane,
+making an antigen presenting cell
+phagocyte recognises
+pathogen as
+antigen
+non-self and
+10 minutes
+binds to it
+MHC
+digested pathogen absorbed
+phagocyte engulfs
+phagosome
+by phagocyte-antigens
+the pathogen to
+combine with MHC in the
+form phagosome-
+cytoplasm
+lysosome moves
+phagolysosome
+towards phagosome and combines
+with it, forming phagolysosome
+in phagolysosome, enzymes
+break down the pathogen
+Figure 4 Phagocytosis - a key process in both the non-specific and specific
+defence systems of the body
+318
+12
+12.1 Animal and plant pathogens
+means they can spread rapidly and widely through crop plants. Fungal
+diseases of plants cause hardship and even starvation in many countries
+around the world.
+Pathogens - modes of action
+Damaging the host tissues directly
+Many types of pathogen damage the tissues of their host organism. It
+is this damage, combined with the way in which the body of the host
+responds to the damage, that causes the symptoms of disease. Different
+types of pathogens attack and damage the host tissues in different ways:
+•
+1. attachment of virus to
+host cell
+2. insertion of viral nucleic
+acid
+Viruses take over the cell metabolism. The viral genetic material
+gets into the host cell and is inserted into the host DNA. The virus
+then uses the host cell to make new viruses which then burst out
+of the cell, destroying it and then spread to infect other cells
+Some protoctista also take over cells and break them open as the
+new generation emerge, but they do not take over the genetic
+material of the cell. They simply digest and use the cell contents as
+they reproduce. Proctists which cause malaria are an example of this.
+Fungi digest living cells and destroy them. This combined with the
+response of the body to the damage caused by the fungus gives the
+symptoms of disease.
+3. replication of viral
+nucleic acid
+4. synthesis of viral protein
+5. assembly of virus
+6. lysis of host cell
+particles
+A Figure 4 This virus is a
+bacteriophage and it destroys the
+bacterial cell as the new viruses burst
+out. Viruses have the same effect in
+multicellular eukaryotic organisms
+such as animals and plants
+Producing toxins which damage host tissues:
+Most bacteria produce toxins that poison or damage the host cells
+in some way, causing disease. Some bacterial toxins damage the
+host cells by breaking down the cell membranes, some damage or
+inactivate enzymes and some interfere with the host cell genetic
+material so the cells cannot divide. These toxins are a by-product
+of the normal functioning of the bacteria
+Some fungi produce toxins which affect the host cells and
+cause disease.
+Summary questions
+1 a Explain what is meant by the term 'communicable disease'. (2 marks)
+b Produce a pie chart to show the main causes of death
+worldwide each year.
+(4 marks)
+2 Make a table to compare bacteria, viruses, protoctista, and fungi. (4 marks)
+0 If approximately 13 million people die of communicable diseases
+each year, give an approximate figure for the numbers who die
+of non-communicable disease and explain how you arrived at
+your answer.
+(4 marks)
+4 Give four ways in which pathogens can attack the cells of their
+host organism and cause disease.
+(6 marks)
+5 a Explain the difference between the way viruses and
+protists cause disease.
+(4 marks)
+b Suggest why viruses are described as the ultimate parasite. (2 marks)
+304
+COMMUNICABLE DISEASES
+12
+Synoptic link
+By their cell walls - the two main types of bacterial cell walls
+have different structures and react differently with a process called
+Gram staining. Following staining Gram positive bacteria look
+purple-blue under the light microscope, for example methicillin-
+resistant Staphylococcus aureus (MRSA). Gram negative bacteria
+appear red, for example the gut bacteria Escherichia coli (E.coli). This
+is useful because the type of cell wall affects how bacteria react to
+different antibiotics (a compound that kills or inhibits the growth
+of bacteria).
+You learnt about the structure
+of proteins and nucleic acids in
+Topic 3.1 Biological elements.
+Viruses
+protein
+coat
+nucleic
+acid
+strand
+Viruses are non-living infectious agents. At 0.02-0.3 um in diameter,
+they are around 50 times smaller in length than the average bacterium.
+The basic structure of a virus is some genetic material (DNA or
+RNA) surrounded by protein. Viruses invade living cells, where the
+genetic material of the virus takes over the biochemistry of the host
+cell to make more viruses. Viruses reproduce rapidly and evolve
+by developing adaptations to their host, which makes them very
+successful pathogens. All naturally occurring viruses are pathogenic.
+They cause disease in every other type of organism. There are even
+viruses that attack bacteria, known as bacteriophages. They take over
+the bacterial cells and use them to replicate, destroying the bacteria
+at the same time. People now use bacteriophages both to identify and
+treat some diseases, and they are very important in scientific research.
+Medical scientists consider viruses to be the ultimate parasites.
+the human
+immunodeficiency
+virus (HIV)
+Herpes simplex virus
+causes cold sores
+tobacco mosaic virus
+infects tobacco plants
+bacteriophages
+are viruses which
+infect bacteria
+Protoctista (protista)
+The protoctista (now widely known as protista) are a group of
+eukaryotic organisms with a wide variety of feeding methods. They
+include single-celled organisms and cells grouped into colonies. A
+small percentage of protoctista act as pathogens, causing devastating
+communicable diseases in both animals and plants. The protists which
+cause disease are parasitic - they use people or animals as their host
+organism. Pathogenic protists may need a vector to transfer them to
+their hosts - malaria and sleeping sickness are examples - or they may
+enter the body directly through polluted water - amoebic dysentery
+and Giardia are examples of these.
+Figure 2 The structure of viruses
+Fungal hyphae (filamentous fungus)
+vesicles adding mitochondria - most are found near
+new cell wall the growing tips of hyphae
+OA
+putoplasm - lese V
+dense in old
+hyphae than in
+young ones
+Fungi
+Fungal diseases are not a major problem in animals, but they can
+cause devastation in plants. Fungi are eukaryotic organisms that are
+ingi are eukarvotic organisms that are
+often multicellular, although the yeasts which cause human diseases
+such as thrush are single-celled. Fungi cannot photosynthesise and
+they digest their food extracellularly before absorbing the nutrients.
+Many fungi are saprophytes which means they feed on dead and
+decaying matter. However some fungi are parasitic, feeding on
+living plants and animals. These are the pathogenic fungi which
+cause communicable diseases. Because fungal infections often affect
+the leaves of plants, they stop them photosynthesising and so can
+quickly kill the plant. When fungi reproduce they produce millions
+of tiny spores which can spread huge distances, this adaptation
+storage granule
+nucleus cell wall
+vacuole
+Yeast (unicellular fungus)
+cytoplasm
+nucleus
+vacuole O m itochondrion
+Figure 3 The structure of fungi
+303
+12
+COMMUNICABLE DISEASES
+damaged tissues
+platelets activated by
+damaged tissue
+release
+Ca2+
+thromboplastin
+prothrombin
+catalyses
+thrombin
+catalyses
+forms
+fibrinogen
+fibrin
+clot
+Figure 1 The blood clotting cascade - once a
+clot forms, blood cannot leak out of the body and
+pathogens cannot get in
+A Figure 2 Scanning electron micrograph showing red blood cells in a
+fibrin mesh. x 800 magnification
+tissue strength. Once the new epidermis reaches normal thickness, the
+scab sloughs off and the wound is healed.
+Inflammatory response
+The inflammatory response is a localised response to pathogens
+(or damage or irritants) resulting in inflammation at the site of a
+wound. Inflammation is characterised by pain, heat, redness, and
+swelling of tissue.
+Mast cells are activated in damaged tissue and release chemicals
+called histamines and cytokines.
+Histamines make the blood vessels dilate, causing localised heat
+and redness. The raised temperature helps prevent pathogens
+reproducing.
+Histamines make blood vessel walls more leaky so blood plasma is
+forced out, once forced out of the blood it is known as tissue fluid.
+Tissue fluid causes swelling (oedema) and pain.
+Cytokines attract white blood cells (phagocytes) to the site. They
+dispose of pathogens by phagocytosis.
+If an infection is widespread, the inflammatory response can cause a
+whole-body rash.
+Synoptic link
+Non-specific defences - getting rid of pathogens
+If the pathogens get into the body, the next lines of defence are
+adaptations to prevent them growing or to destroy them.
+You learnt about phagocytosis
+as a form of bulk transport in
+Topic 5.4, Active transport.
+317

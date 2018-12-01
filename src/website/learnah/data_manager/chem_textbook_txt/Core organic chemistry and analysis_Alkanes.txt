@@ -1,0 +1,693 @@
+12
+ALKANES
+journeys in cities, petrol consumption may be 30 miles per gallon (about 4.5 litres). So 10 miles would
+use about 1.5 litres of petrol, which will weigh about 1 kg (density of petrol - 0.67 gcm ).
+Petrol contains a range of alkanes, roughly n = 5-9, so let's take C,H, (heptane) as typical (M = 100).
+Assume complete combustion and room temperature and pressure (RTP).
+Step 1: Calculate the amount in moles of C,H, in 1 kg of heptane.
+1 kg = 1000 g; M(C2H6) = 100
+mass m
+amount of C7H16 (
+1000 – 10 mol
+16) molar mass M. 100
+Step 2: Write the balanced equation for the complete combustion of heptane.
+C,H16(1) + 1102(8) 7002(g) + 8H20(1)
+SO, 10 mol
+70 mol
+Step 3: Rearrange the equation to calculate the volume of CO, produced in the combustion of
+1 kg of heptane.
+volume V
+amount 11 =
+molar gas volume V.
+V = n XV.
+= 70 x 24 = 1680 dm' at room temperature and pressure
+That is a lot of co, for a short trip.
+Study tip
+Reactions of alkanes with halogens
+In the presence of sunlight, alkanes react with halogens. The
+high-energy ultraviolet (UV) radiation present in sunlight provides
+the initial energy for a reaction to take place. For example, methane
+reacts with bromine as shown below.
+You need only look at reactions of
+alkanes with chlorine and bromine.
+Fluorine, the most reactive halogen,
+is just too reactive and would likely
+cause an explosion. Iodine is not
+reactive enough and barely reacts
+with alkanes.
+CH, (g) + Br (1)
+methane
+CH, Br(g) + HBr(g)
+bromomethane
+This is a substitution reaction, as a hydrogen atom in the alkane has
+been substituted by a halogen atom.
+Mechanism for bromination of alkanes
+A chemical reaction can often be represented by a series of steps
+(the reaction mechanism) showing how electrons are thought to move
+during the reaction. The mechanism for the bromination of methane is
+an example of radical substitution.
+The mechanism takes place in three stages, called initiation,
+propagation, and termination.
+Synoptic link
+Step 1: Initiation
+In the initiation stage, the reaction is started when the covalent bond
+in a bromine molecule is broken by homolytic fission. Remember
+that a covalent bond is a shared pair of electrons. Each bromine atom
+See Topic 11.5, Introduction to
+reaction mechanisms, for an
+introduction into mechanisms and
+homolytic fission.
+195
+12.2 Chemical reactions of the alkanes
+Study tip
+takes one electron from the pair, forming two highly reactive bromine
+radicals. The energy for this bond fission is provided by UV radiation.
+Br-Br
+Br• + Br
+For radical substitution, a description
+of the mechanism should include
+the equations. However, other
+mechanisms use diagrams.
+Mechanisms are essential for
+understanding how organic
+reactions take place.
+Remember that a radical is a very reactive species with an unpaired
+electron. The radical is shown with a single dot to represent the electron.
+Step 2: Propagation
+In the propagation stage, the reaction propagates through two
+propagation steps, a chain reaction.
+Propagation step 1 CHA + Br• - •CH, + HBr
+Propagation step 2 CH2 + Br, → CH,Br + Br.
+• In the first propagation step, a bromine radical, Br, reacts with a
+C-H bond in the methane, forming a methyl radical, •CHz, and a
+molecule of hydrogen bromide, HBr.
+Study tip
+Make sure that the equations are
+balanced. Notice that there is
+always one radical on each side of
+a propagation step. Always show
+a dot to indicate the unpaired
+electron on a radical.
+In the second propagation step, each methyl radical reacts
+with another bromine molecule, forming the organic product
+bromomethane, CH,Br, together with a new bromine radical (Br.).
+The new bromine radical then reacts with another CH, molecule as
+in the first propagation step, and the two steps can continue to cycle
+through in a chain reaction.
+Also note that the first step forms
+HBr - it is a common mistake to
+show •H forming instead of .CH
+In theory the propagation steps could continue until all the reactants
+have been used up. In practice propagation is terminated whenever two
+radicals collide. It has been estimated that up to a million propagation
+cycles take place before a termination step stops the reaction.
+Step 3: Termination
+In the termination stage, two radicals collide, forming a molecule with
+all electrons paired. There are a number of possible termination steps
+with different radicals in the reaction mixture.
+Br• + BrBr,
+•CH, +•CH, CH
+CH, + Br → CH,Br
+When two radicals collide and react, both radicals are removed from
+the reaction mixture, stopping the reaction.
+Limitations of radical substitution in organic synthesis
+Although radical substitution gives us a way of making haloalkanes,
+this reaction has problems that limit its importance for synthesis of just
+one organic compound.
+Further substitution
+In the mechanism above, bromomethane, CH,Br, was formed in the
+second propagation step. Another bromine radical can collide with
+a bromomethane molecule, substituting a further hydrogen atom to
+196
+12.2 Chemical reactions of the alkanes
+Study tip
+You don't need to learn an equation
+for each alkane - the equations are
+easy to balance. The Cin the alkane
+formula gives the number of CO,
+molecules formed. And halving the
+number of H gives the number of
+H,O molecules. Then you just have to
+balance the oxygen atoms in 0g.
+If you like algebra, the equation below can be used for balancing the
+complete combustion of any alkane.
+CH,+ (x + 1)0,-XCO, +420
+Incomplete combustion of alkanes
+In a limited supply of oxygen, there is not enough oxygen for
+complete combustion. If you look at the equations above, you
+can see that as you descend the homologous series each alkane
+molecule (each extra -CH,-) needs an extra 10, molecules for
+complete combustion.
+When oxygen is limited during combustion, the hydrogen atoms in
+the alkane are always oxidised to water, but combustion of the carbon
+may be incomplete, forming the toxic gas carbon monoxide (CO) or
+even carbon itself as soot. The equations below compare different
+degrees of combustion for heptane, a component in petrol.
+complete combustion: CO, formed CH 6(1) + 1102(g)
+incomplete combustion: CO formed C,H16(1) + 7-02(g)
+incomplete combustion: C formed CH 6(1) + 402(g)
+→
+→
+7CO2(g) + 8H2O(1)
+7CO(g) + 8H 0(1)
+7C(s) + 8H2O(1)
+Look at the different amounts of oxygen that are needed for each
+equation. It is hardly surprising that it can be difficult to get all of
+the carbon to combust when combustion is attempted in a closed
+space, such as in a car engine, faulty heating systems, or inadequate
+ventilation in living areas.
+The silent killer
+Carbon monoxide is a colourless, odourless, and highly
+toxic gas. It combines irreversibly with haemoglobin in
+red blood cells to form a cherry-pink compound called
+carboxyhaemoglobin, which prevents the haemoglobin
+from transporting oxygen around the body. Severe CO
+poisoning will often turn a victim's lips this bright colour.
+Che
+British Gas
+The danger lies in the lack of any odour, so a person can
+be poisoned without noticing any danger.
+Write equations for the incomplete combustion of
+methane.
+A Figure 3 An audible carbon monoxide alarm is a
+good way to ensure you are immediately alerted to
+dangerous levels of carbon monoxide in your home
+Synoptic link
+To estimate how much CO, is
+produced during combustion, we
+must refer to the earlier topics on
+the mole and quantities in equations
+(Chapter 3).
+O Worked example: How much CO, is produced
+during combustion?
+Carbon dioxide production is linked to global warming, but how
+much difference does a car journey make? Let's think about a
+short trip, a 10-mile journey to a town centre and back. For short
+194
+12.2 Chemical reactions of the
+alkanes
+Specification reference: 4.1.2
+Reactivity of alkanes
+Alkanes do not react with most common reagents. The reasons for
+their lack of reactivity are:
+• C-C and C-H o-bonds are strong
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the low reactivity of the
+o-bonds in alkanes
+→ the combustion of alkanes
+→ radical substitution in
+alkanes.
+C—C bonds are non-polar
+the electronegativity of carbon and hydrogen is so similar that the
+C-H bond can be considered to be non-polar.
+Combustion of alkanes
+Despite their low reactivity, all alkanes react with a plentiful supply of
+oxygen to produce carbon dioxide and water. This reaction is called
+combustion. All combustion processes give out heat, and alkanes are
+used as fuels because they are readily available, easy to transport, and
+burn in a plentiful supply oxygen without releasing toxic products.
+Synoptic link
+You may find looking back at
+Topic 6.2, Electronegativity and
+polarity useful.
+Methane
+Methane is a greenhouse gas with a global warming potential of 22
+(meaning that it has 22 times the warming effect of carbon dioxide in the
+atmosphere). Vast quantities of methane are stored in the ice-saturated
+arctic tundra of Siberia and northern Canada. Global warming is very likely
+to thaw the tundra, releasing this methane into the atmosphere and greatly
+increasing global warming.
+The methane locked into the frozen earth of the tundra was formed by the
+decomposition of organic material in the absence of oxygen. The same
+chemistry lies behind the production of biogas, methane made as a fuel
+from organic waste or plant material.
+Figure 1 Methane is the main
+component of the natural gas used for
+cooking, heating, and the generation of
+electricity. Natural gas typically contains
+about 80% methane, with varying
+proportions of ethane, propane, and butane
+If methane is such a powerful greenhouse gas, why could the production
+of biogas help to slow down global warming?
+Complete combustion of alkanes
+In a plentiful supply of oxygen, alkanes burn completely to produce
+carbon dioxide and water. The reactions below show the complete
+combustion of four alkanes
+methane, as natural gas: CH,(g) + 202(g) + CO2(g) + 2H20(1)
+ethane
+C,H,(g) + 3402(g) → 2C02() + 3H,0(1)
+propane
+C,H,(8) + 502(g) + 3C02(g) + 4H20(1)
+hexane, in petrol: CH 4(1) + 9 02(g) → 6C02(g) + 7H20(1)
+A Figure 2 The Arctic Tundra in
+Greenland. Global warming is threatening
+to melt the permafrost releasing trapped
+carbon dioxide and methane
+193
+ALKANES
+12
+10 a
+(ii) Name one of the structural isomers
+of C, H, Br, formed in the reaction
+between cyclohexane and bromine.
+(1 mark)
+OCR F322 June 14 QI
+Methane reacts with IBr to form many
+products. Two of these products are
+iodomethane and hydrogen bromide.
+(i) Suggest the essential condition
+needed for this reaction. (1 mark)
+(ii) The mechanism of the reaction
+involves three steps, one of which
+is called termination. Describe the
+mechanism of the reaction that forms
+iodomethane and hydrogen bromide.
+Include in your answer:
+the name of the mechanism
+the names for the other two steps of
+the mechanism
+equations for these two steps of the
+mechanism
+the type of bond fission
+• one equation for a termination step.
+Your answer should link the named steps
+to the relevant equations.
+(7 marks)
+12 Petrol and camping gas are examples of fuels
+that contain hydrocarbons.
+a Petrol is a mixture of alkanes containing
+6 to 10 carbon atoms per molecule. Some
+of these alkanes are structural isomers of
+one another.
+(i) Explain the term structural isomers.
+(1 mark)
+(ii) State the molecular formula of an
+alkane present in petrol. (1 mark)
+b The major hydrocarbon in camping gas
+is butane. Some camping gas was reacted
+with chlorine to form a mixture of
+structural isomers.
+(i) What conditions are required for this
+reaction to take place? (1 mark)
+(ii) Two structural isomers, A and B,
+were separated from this mixture.
+These isomers had a molar mass of
+92.5 g mol-!
+Deduce the molecular formula of
+these two isomers.
+(1 mark)
+(iii) Draw the displayed formulae of
+A and B and name each compound.
+(2 marks)
+13 Octane, C.Hg, is one of the alkanes present
+in petrol.
+a What is the general formula for an
+alkane?
+(1 mark)
+b Carbon monoxide, Co, is formed during
+the incomplete combustion of octane.
+(i) Write an equation for the incomplete
+combustion of octane, forming
+carbon monoxide and water. (1 mark)
+(ii) Why does incomplete combustion
+sometimes take place? (1 mark)
+C 22.8 g of octane undergoes complete
+combustion. Calculate the volume of
+oxygen, at RTP, required for complete
+combustion and incomplete combustion.
+(3 marks)
+OCR F322 June 2013 Q4(b)
+11 The reaction between butane and chlorine is
+an example of radical substitution. Initially,
+chlorobutane, C,H,Cl, is formed, which then
+reacts with more chlorine to form C,H.CI,
+a The first step of the reaction of C,H, CI
+with chlorine is the homolytic fission of a
+chlorine molecule.
+What is meant by the term homolytic
+fission?
+(1 mark)
+b Complete the missing species in the
+propagation steps below.
+Cl• + C,H,Cl → ........... + ...........
+...... + ............. → C,H,Cl2 + ...........
+(2 marks)
+c Butane, C,H, undergoes incomplete
+combustion when there is a shortage
+of oxygen. Write an equation for the
+incomplete combustion of butane.
+(1 mark)
+OCR F322 Jan 2013 Q1(a) (b)(c) (d)
+199
+12
+ALKANES
+12.1 Properties of the alkanes
+Specification reference: 4.1.2
+What are alkanes?
+Alkanes are the main components of natural gas and crude oil.
+They are amongst the most stable organic compounds, and their lack
+of reactivity has allowed crude oil deposits to remain in the Earth for
+many millions of years.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ alkanes as saturated
+hydrocarbons
+→ bonding in alkanes
+→ shapes and bond angles of
+alkanes
+► variations in the boiling
+points of alkanes.
+Alkanes are mainly used as fuels, exploiting their reaction with
+oxygen to generate heat.
+The alkanes in Table 1 show the general formula C,H,2 - doubling
+the carbon and adding two gives the hydrogen number.
+Table 1 lists some of the alkanes used in everyday life.
+Table 1 Common uses of the
+first twenty members of the alkane
+homologous series
+gas, used in domestic fuel
+CH4, C3Hg, CH10
+petrol, used in cars
+C6H12-CH20
+kerosene, used in aircraft
+C10H22-C16H34
+diesel, used in cars and lorries
+C2H26-C20H42
+Properties of alkanes
+The bonding in alkanes
+Alkanes are saturated hydrocarbons, containing only carbon and
+hydrogen atoms joined together by single covalent bonds.
+Each carbon atom in an alkane is joined to four other atoms by
+single covalent bonds. These are a type of covalent bond called a
+sigma bond (o-bond).
+A covalent bond is defined as a shared pair of electrons. A o-bond is
+the result of the overlap of two orbitals, one from each bonding atom.
+Each overlapping orbital contains one electron, so the o-bond has two
+electrons that are shared between the bonding atoms. A o-bond is
+positioned on a line directly between bonding atoms.
+Each carbon atom in an alkane has four sigma bonds, either C-C or
+C-H. Figure 1 shows the electron density of a g-bond between two
+carbon atoms.
+Synoptic link
+You were introduced to the names
+and formula of the first 10 alkanes in
+Topic 11.2, Nomenclature of organic
+compounds. Make sure you learn
+these as alkanes form the basis for
+naming all organic compounds.
+A Figure 1 o-bond between two carbon atoms.
+Synoptic link
+Look back at Topic 6.1, Shapes
+of molecules and ions, to remind
+yourself how the shapes of
+molecules depends on electron
+pair repulsion and what a
+tetrahedral geometry looks like.
+The shape of alkanes
+Each carbon atom is surrounded by four electron pairs in four
+o-bonds. Repulsion between these electron pairs results in a 3D
+tetrahedral arrangement around each carbon atom. Each bond
+angle is approximately 109.5º.
+Figure 2 shows the 3D shapes of the first four alkanes. Each formula
+matches the general formula of C H+. The o-bonds act as axes
+around which the atoms can rotate freely, so these shapes are not
+rigid, for example, butane is shown in a zigzag in Figure 2, but it can
+also rotate into a U shape.
+190
+12.1 Properties of the alkanes
+Effect of branching on boiling point
+Isomers of alkanes have the same molecular mass. If you compare the
+boiling points of branched isomers with straight-chain isomers, you
+find that the branched isomers have lower boiling points.
+Table 3 shows the boiling points for the isomers of pentane, C.H.
+Table 3 The skeletal formulae and boiling points of the structural isomers of CH2
+Name
+pentane
+2-methylbutane 2,2-dimethylpropane
+Skeletal formula
+Boiling point/°C
+36
+28
+2,2-dimethylpropane is a gas at room temperature, 2-methylbutane
+would only be a gas on a warm day, and at normal UK temperatures
+pentane is a liquid.
+The reason for this difference lies again with London forces. There are
+fewer surface points of contact between molecules of the branched
+alkanes, giving fewer London forces. Another factor lies with the
+shape of the molecules. The branches get in the way and prevent
+the branched molecules getting as close together as straight-chain
+molecules, decreasing the intermolecular forces further. It is easy to
+picture this difference by looking at the skeletal formulae in Figure 6.
+more branching
+less surface area of contact
+weaker London forces
+Figure 5 The effect of branching on the boiling points of alkanes
+Summary questions
+1 Kerosene is obtained from crude oil. Name the process used to obtain
+kerosene from crude oil and explain how the process works. (2 marks)
+ce
+DS
+2 Explain why the straight-chain isomer of C, H, has a higher boiling
+point than any of its branched-chain structural isomers. (2 marks)
+3 Explain why the boiling points increase down the alkane
+homologous series.
+(2 marks)
+4 Describe the bonding in ethane. State and explain the H-C-H bond
+angle in a molecule of ethane.
+(4 marks)
+192
+12
+ALKANES
+109.5°
+C3Hg
+C4H10
+CH4
+CyH6
+A Figure 2 Shapes of methane, ethane, propane, and butane
+Variations in the boiling points of alkanes
+Crude oil contains hundreds of different alkanes. Oil refineries
+separate the crude oil into fractions by fractional distillation in a
+distillation tower (Figure 3). Each fraction contains a range of alkanes.
+Separation like this is possible because the boiling points of the alkanes
+are different, increasing as their chain length increases. Table 2 shows
+the boiling points of the first ten alkanes.
+Study tip
+When drawing 3D shapes, you
+will need to use solid wedges and
+dashed wedges. This is how ethane
+is drawn using wedges.
+I
+I
+Table 2 The boiling points of the first ten members of the alkane homologous series
+Alkane
+CHACHE CHE CHOCHEZ CHA CHE CHE CHzo Couzz
+Boiling point/°C
+-164
+-89
+-42
+36
+69
+98
+126
+151
+174
+Synoptic link
+Why does the boiling point increase? The answer lies with the
+weak intermolecular forces called London forces. These forces
+hold molecules together in solids and liquids but, once broken, the
+molecules move apart from each other and the alkane becomes a gas.
+The greater the intermolecular forces, the higher the boiling point.
+You learned about London forces
+and the factors affecting their size
+in Topic 6.3, Intermolecular forces.
+Effect of chain length on boiling point
+London forces act between molecules that are in close surface contact.
+As the chain length increases, the molecules have a larger surface area,
+so more surface contact is possible between molecules. The London
+forces between the molecules will be greater and so more energy is
+required to overcome the forces.
+Figure 4 shows how the surface contact increases with increasing
+chain length, illustrated with skeletal formulae.
+increased chain length
+A Figure 3 A distillation tower in which
+crude oil is separated into fractions.
+The oil is heated to about 400°C.
+Hydrocarbon gases rise upwards and
+condense at different levels depending
+on their boiling points
+greater surface area of contact
+stronger London forces
+Figure 4 The effect of increasing chain length on the boiling points of alkanes
+191
+Chapter 12 Practice questions
+7
+I Calculate the volume of carbon dioxide
+produced at RTP.
+(2 marks)
+Explain why the boiling points of the alkanes
+increase with the number of carbon atoms
+in the chain.
+(3 marks)
+Some of the hydrocarbons in kerosene have
+the formula C H22:
+(i) What is the name of the straight
+chain hydrocarbon with the formula
+C10H222
+(1 mark)
+(ii) Draw the skeletal formula of one
+branched chain isomer with the
+formula C H
+(1 mark)
+(iii) Explain why the straight chain
+isomer of C, H,, has a higher boiling
+point than any of its branched chain
+structural isomers.
+(2 marks)
+OCR F322 Jan 2010 QI
+In the presence of ultraviolet radiation,
+cyclohexane reacts with bromine.
+a A mixture of cyclic organic compounds is
+formed, including C,H, Br.
+(i) Copy and complete the table below to
+show the mechanism of the reaction
+between bromine and cyclohexane to
+form CH Br.
+Include all possible equations in your
+answer.
+Practice questions
+1 What do you understand by the term
+saturated hydrocarbon.
+mark)
+2 Name the following compounds
+a CH CH CH CH CH CH CH CH, (1 mark)
+b CH,CH,CH(CH3)CH,
+(1 mark)
+C CH,C(CH2)2CH2CH
+(1 mark)
+In each of the following pairs, predict which
+of the following alkanes has the higher boiling
+point. In each case explain your answer.
+a hexane and 3-methylpentane. (2 marks)
+b 2-methyloctane and 2,2-dimethylheptane
+(2 marks)
+c hexane and pentane
+(2 marks)
+4 Bromine will react in a similar way as
+chlorine with methane.
+a Write an equation for the reaction of
+bromine with methane.
+(1 mark)
+b The first step in the mechanism is the
+breaking of the Br-Br bond.
+State the conditions required for this
+process to occur.
+Write an equation for this step and state
+the type of bond fission taking place.
+(3 marks)
+c Pentane reacts with chlorine to form a
+mixture of monochlorinated alkanes.
+How many monochlorinated isomers
+can be formed in this reaction? (1 mark)
+5 Write equations for the combustion of
+nonane in
+a a plentiful supply of oxygen (1 mark)
+b a limited supply of oxygen (1 mark)
+1.45g of butane combusts in a plentiful
+supply of oxygen to form carbon dioxide and
+water.
+a Write a balanced equation for the
+complete combustion of
+butane (C4H10)
+(1 mark)
+b Calculate the amount, in moles,
+in 1.45g of butane.
+(1 mark)
+C Calculate the volume of oxygen
+required for complete combustion
+of 1.45g of butane at RTP. (2 marks)
+9
+Step
+Equation(s)
+Initiation
+Propagation
+Termination
+(5 marks)
+(ii) The initiation step involves homolytic
+fission.
+Explain why the initiation step is an
+example of homolytic fission.(1 mark)
+b
+The reaction between cyclohexane and
+bromine also forms C.H.Brą.
+(i) Write an equation, using molecular
+formulae, for the reaction of
+cyclohexane and bromine in the
+presence of ultraviolet radiation to
+form CH.Br.
+(1 mark)
+198
+12
+ALKANES
+form dibromomoethane, CH,Br,. Further substitution can continue
+until all hydrogen atoms have been substituted. The result is a mixture
+of CH,Br, CH,Bry, CHBrz, and CBry
++Br2
++Br,
++Br,
++Br,
+CH, - CH,Br - CH,Br, - CHBr- CBr.
+-HBr
+- HBr
+-HBr
+-HBr
+Substitution at different positions in a carbon chain
+For methane, all four hydrogen atoms are bonded to the same carbon
+atom, so only one monobromo compound, CH,Br, is possible. With
+ethane, similarly, only one monosubstituted product, C,H,Br, is
+possible.
+HBr
+If the carbon chain is longer, we will get a mixture of monosubstituted
+isomers by substitution at different positions in the carbon chain. For
+example, pentane could form three monosubstituted isomers (Figure 4).
+H—
+C—C—Br
+HH
+Br
+Br
+H—
+C—
+C—
+H
+Br
+H
+H
+Figure 4 Isomers of bromopentane: different possible monosubstituted bromo
+compounds from substitution of pentane with bromine.
+A Figure 3 Isomers of dibromoethane:
+different possible disubstituted bromo
+compounds from substitution of ethane
+With further substitution, there are even more possibilities, as shown
+in Figure 3 for ethane, which can form two different dibromo isomers.
+Summary questions
+1 Write equations for the complete and incomplete combustion
+of dodecane, the alkane with 12 carbon atoms.
+(2 marks)
+(2 marks)
+2 Explain why the alkanes do not react with common
+laboratory reagents.
+3 Write the equation for the incomplete combustion of
+3-methylpentane.
+(2 marks)
+4 Write an equation for the reaction between propane and bromine
+to form a monosubstituted product.
+(1 mark)
+5 Show the mechanism for the reaction between ethane and
+chlorine to form a monosubstituted product.
+(5 marks)
+6 For propane, write equations for the two propagation steps that
+convert C.H.Clinto C,HCly.
+(2 marks)
+197

@@ -1,0 +1,1530 @@
+18.2 Concentration-time graphs
+Specification reference: 5.1.1
+Continuous monitoring of rate
+Concentration-time graphs can be plotted from continuous
+measurements taken during the course of a reaction. This is called
+continuous monitoring. You have already seen two methods for
+continuous monitoring of reactions that produce a gas as one of the
+products:
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ continuous monitoring of
+reaction rates
+concentration-time graphs
+half-life and first order
+reactions
+determination of the rate
+constant k from half-lives.
+monitoring by gas collection
+• monitoring by mass loss.
+Not all reactions produce gases, so another property is needed that can
+be measured with time. A useful property is a colour change, which
+can be estimated by eye or monitored using a colorimeter.
+Synoptic link
+Monitoring rate with a colorimeter
+In a colorimeter, the wavelength of the light passing through a
+coloured solution is controlled using a filter. The amount of light
+absorbed by a solution is measured (Figure 1).
+Revisit Topic 10.1, Reaction rates,
+to revise continuous monitoring
+using gases.
+absorbance
+light
+source
+photoelectric
+cell
+filter
+DIGITAL COLORIMETER
+coloured
+solution
+meter
+Figure 1 A colorimeter measures the intensity of light passing through a sample.
+The filter is chosen so that it is the complementary colour to the colour being absorbed
+in the reaction. Absorbance is recorded, which is directly linked to the concentration of
+the solution
+WVOLET 430m
+2 BLUE 476
+GREEN 520
+FILTER
+0 Analysing by colorimetry
+The equation for the reaction of propanone and iodine, in the presence of an
+acid catalyst, is shown below.
+CH,COCH,(aq) + 12(aq) → CH,COCH_|(aq) +H*(aq) +1-(aq)
+orange/brown
+Figure 2 A calorimeter and the filter
+settings
+As this reaction proceeds, iodine is used up and its orange/brown colour
+fades. The absorbance of the colour is measured precisely by the colorimeter.
+The reaction can be monitored and the results analysed using the method
+outlined below.
+1 Prepare standard solutions of known concentration of the coloured
+chemical, iodine, 12(aq), in this reaction.
+277
+18
+RATES OF REACTIONS
+Worked example: Rate constant from a rate-
+concentration graph
+Dinitrogen pentoxide, N,Os, decomposes to form nitrogen
+dioxide, NOx, and oxygen, Oz.
+2N,0,(g) → 4NO2(g) + O2(g)
+Figure 2 shows a rate-concentration graph for this decomposition.
+0.00401
+0.0030
+rate/moldm-35-1
+0.0020
+0.00385
+0.0010
+0.60
+0 0.10 0.20 0.30 0.40 0.50 0.60 0.70
+IN2O5(g)]/moldm
+Figure 2 Calculating gradient of rate-concentration graph
+Step 1: Determine the order and the rate equation.
+The graph is a straight line through the origin - first
+order with respect to N205. The rate equation is:
+rate = k[N, (g)]
+Step 2: Determine the rate constant from the gradient.
+The reaction is first order and the gradient gives the rate
+constant.
+change in rate
+0.00385
+gradient =
+change in concentration 0.60
+So the rate constant k = 6.4x 10-s-1
+Log-Log graphs
+A graph of log(rate) against log(concentration) is a convenient way of
+finding both the order and the rate constant.
+The rate equation for a reactant Ais:
+rate = K[A]"
+The logarithmic version of this relationship fits the y = mx + c equation for a
+straight-line graph:
+0.204
+log (rate)
+log(rate)
+The gradient gives the order n and the intercept gives log k, from which k can
+be calculated.
+Analyse the log-log graph in Figure 3 to work out the order with respect
+to A and the value of the rate constant.
+0 0.01 0.02 0.03 0.04 0.05 0.06 0.07
+log (concentration)
+A Figure 3 Graph of log (rate) against
+log (concentration)
+283
+18
+18.3 Rate-concentration graphs and initial rates
+The initial rates method
+The initial rate is the instantaneous rate at the start of a reaction when
+the time t = 0. The initial rate can be found by measuring the gradient
+of a tangent drawn at t= 0 on a concentration-time graph.
+Synoptic link
+Look back to Topic 10.1, Reaction
+rates, to revise measuring and
+calculating the initial rate of
+reaction using concentration-time
+graphs.
+A clock reaction is a more convenient way of obtaining the initial
+rate of a reaction by taking a single measurement. The time from the
+start of an experiment is measured for a visual change to be observed,
+often a colour or a precipitate.
+Provided that there is no significant change in rate during this time, it
+can be assumed that the average rate of reaction over this time will be
+the same as the initial rate.
+The initial rate is then proportional to
+The clock reaction is repeated several times with different concentrations,
+and values of are calculated for each experimental run.
+lodine clocks
+A common type of clock reaction relies on the formation of iodine. As
+aqueous iodine is coloured orange-brown, the time from the start of
+the reaction and the appearance of the iodine colour can be measured.
+Starch is usually added since it forms a complex with iodine which is a
+an intense dark blue-black colour.
+MTWTF
+0:00.00
+0:16.45
+lodine clock procedure
+Separate experiments are carried out using different concentrations of one of
+the reactants and all other concentrations are kept constant. The colour change
+is delayed by including a small amount of another chemical (e.g., aqueous
+sodium thiosulfate, Na,, (aq)) which actually removes of iodine as it forms.
+As soon as this chemical is all used up, the blue-black colour appears.
+•
+In each experiment, the solution is colourless at the start and the timet
+is measured for the blue-black colour of the starch-iodine to appear.
+The initial rate is proportional to
+• A graph of (which is proportional to rate) against concentration is then
+plotted and the shape matched to the shapes in Figure 1.
+Further series of experiments are then carried out in which the
+concentration of one of the other reactants is changed.
+From the results, the order with respect to each reactant is determined and
+a rate equation is written. The rate constant can then be calculated.
+A Figure 4 An iodine clock reaction. The
+left conical flask shows the colourless
+solution at the start of the reaction. The
+right conical flask shows the blue-black
+colour of the starch-iodine complex. You
+need to time to the first appearance of
+the blue-black colour which is initially
+very pale
+The equation between thiosulfate ions, S202, and iodine, I, in shown
+below.
+25,0,?-(aq) +12(aq) →5,06?-(aq) + 21- (aq)
+1 Use the equation to explain why thiosulfate ions delay the colour.
+2 Why is it important to use the same volume of thiosulfate ions each time?
+284
+18
+18.2 Concentration-time graphs
+absorbance
+2 Select a filter with the complementary colour of the coloured chemical.
+For iodine, this would be a green/blue filter but the colorimeter will
+usually tell you which setting to use.
+Zero the colorimeter with water.
+Measure the absorbance readings of the standard solutions of iodine.
+5 Plot a calibration curve (Figure 3) of absorbance against iodine
+concentration. You now have a way of converting an absorbance reading
+into a concentration of iodine.
+6 Carry out the reaction between propanone and iodine. Take absorbance
+readings of the reacting mixture at measured time intervals.
+7 Use the calibration curve to measure the concentration of iodine at each
+absorbance reading.
+Finally plot a second graph of concentration of iodine against time. From
+the concentration-time graph, you can determine the order of reaction
+with respect to the coloured chemical in this case iodine).
+concentration
+Figure 3 A calibration curve can
+be used to determine concentrations
+from absorbance measurements from a
+colorimeter
+Look back at the equation for this reaction. Suggest another method that
+could be used for continuous monitoring of the rate of this reaction with time.
+Synoptic link
+You first encountered
+concentration-time graphs in
+Topic 10.1, Reaction rates.
+Concentration-time graphs
+Orders from shapes
+The gradient of a concentration-time graph is the rate of the reaction.
+The order with respect to a reactant can also be deduced from the
+shape of a concentration-time graph for zero and first order reactions.
+The order with respect to a reactant can only be obtained if all other
+reactant concentrations remain effectively constant. Figure 4 shows the
+variation of concentration with time for a zero order reaction and a first
+order reaction.
+zero order
+concentration
+Zero order
+A zero order reaction produces a straight line with a negative gradient.
+The reaction rate does not change at all during the course of the
+reaction. The value of the gradient is equal to the rate constant k. The
+straight-line graph makes a zero order relationship easy to identify.
+first order
+time
+Figure 4 Concentration-time graphs
+for zero and first order reactants
+First order
+A first order reaction produces a downward curve with a decreasing
+gradient over time. As the gradient decreases with time, the reaction
+gradually slows down. In a first order concentration-time graph,
+the time for the concentration of the reactant to halve is constant.
+This time is called the half-life and the rate constant of a first order
+reaction can be determined using its value.
+Study tip
+Second order
+The graph for a second order is also a downward curve, steeper at the
+start, but tailing off more slowly.
+You will not be expected to analyse
+a concentration-time graph for a
+second order reaction.
+278
+18.3 Rate-concentration graphs
+and initial rates
+Specification reference: 5.1.1
+Rate-concentration graphs
+Rate-concentration graphs can be plotted from measurements of
+the rate of reaction at different concentrations. Rate-concentration
+graphs are very important as they offer a route into the direct link
+between rate and concentration in the rate equation.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of: :
+► deducing orders from the
+shapes of rate-concentration
+graphs
+determination of rate
+constant for a first order
+reaction from the gradient
+→ initial rate investigations and
+clock reactions.
+Orders from shapes
+Figure 1 shows the variation of rate with concentration for zero order,
+first order, and second order reactants. The order with respect to a
+reactant can be deduced from the shapes of these graphs.
+Zero order
+A zero order reactant produces a horizontal straight-line with zero
+gradient (Figure 1).
+second order
+From the rate equation:
+rate = k[A]º
+so, rate = k
+zero order
+rate
+first order
+The intercept on the y-axis gives the rate constant k.
+The reaction rate does not change with increasing concentration.
+First order
+A first order reactant produces a straight-line graph through
+the origin.
+concentration
+Figure 1 Rate-concentration graphs
+for zero, first, and second order reactants
+From the rate equation:
+rate = k[A]
+so, rate = k[A]
+Rate is directly proportional to concentration for a first order
+relationship.
+The rate constant can be determined by measuring the gradient of
+the straight line of this graph.
+Second order
+A second order reactant produces an upward curve with increasing
+gradient.
+From the rate equation:
+rate = k[A]?
+As this rate-concentration graph is a curve, the rate constant
+cannot be obtained directly from this graph.
+By plotting a second graph of the rate against the concentration
+squared, the result is a straight line through the origin. The
+gradient of this straight line graph is equal to the rate constant k.
+282
+18
+18.1 Orders, rate equations, and rate constants
+Step 2: Write the rate equation.
+Study tip
+The results from Experiment 1
+were used to calculate k but the
+results from any of the three
+experiments could have been used.
+For practice, try calculating k for
+Experiments 2 and 3 - you should
+get exactly the same numerical
+value for k.
+rate = k[NO2(g)][03(g)]
+Step 3: Calculate the rate constant, including units.
+rate
+Rearranging the rate equation: k=
+INO,(9)][03(g)]
+Substituting values from Experiment 1:
+3.20 x 10-8
+1.00 x 10-3 x 2.50 x 10-3 = 1.28 x 10-2
+Substituting units into k expression and cancel
+common units:
+moldmrs-1
+(moldm ) (moldm-3 = dm'mol-'s-1
+k= 1.28 x 10-2 dm'mol-'s-1
+k=
+Summary questions
+1 In a reaction between reactants A, B, and C, the rate equation is:
+rate = K[B][C]
+a State the orders with respect to A, B, and C.
+(3 marks)
+b Determine the overall order for the reaction.
+(1 mark)
+2 A reaction is zero order with respect to A, first order with respect
+to B, and second order with respect to C.
+a What is the effect on the rate of doubling the concentration
+i
+A
+ji
+B
+iji C?
+(3 marks)
+b What is the effect on the rate of doubling all three
+concentrations at the same time?
+(1 mark)
+of
+3 Three reactants A, B, and Care reacted together. Doubling the
+concentration of A increases the rate by a factor of 2. Changing the
+concentration of B has no effect on the rate. Halving the
+concentration of C decreases the rate to half its original value.
+a State the orders with respect to A, B, and C.
+(3 marks)
+b Determine the overall order.
+(1 mark)
+c Determine the rate equation for the reaction.
+(2 marks)
+d Calculate the units of k.
+(1 mark)
+4 The rate of reaction during an experiment is investigated and the
+following results are obtained.
+on
+Initial rate /
+Experiment [A] /mol dm3 [B] /mol dm-3
+mol dm--1
+0.010
+0.200 5.40 x 10-4
+2
+0.020
+0.200 2.16 x 10-3
+3
+0.020
+0.020 T
+0.300 3.24 x 10-3
+Determine the rate equation and calculate k, including units. (6 marks)
+276
+18
+RATES OF REACTIONS
+Step 2: Substitute units and cancel the common units.
+moldms-1
+3x = mol-2 dms-1
+(moldmt T(moldm-3) (moldm3)
+The convention for writing units is to put positive indices before
+negative indices. So units are dm mol-'s-1.
+Orders from experimental results
+Orders of reaction must be determined experimentally by monitoring
+how a physical quantity changes over time. Orders cannot be found
+directly from the chemical equation. The example below shows
+how the rate equation and rate constant can be determined from
+experimental results. You will find out how these experimental results
+could be obtained in Topic 18.3.
+When comparing the effect of different concentrations of reactants on
+reaction rates, it is important that the rate is always measured after the
+same time, ideally as close to the start of the experiment as possible.
+The example below shows the initial rate.
+The initial rate is the instantaneous rate at the beginning of an
+experiment when t = 0.
+) Worked example: Rate constant from experimental
+results
+Nitrogen dioxide reacts with ozone as shown.
+2NO2(g) + O2(g) → N2O3(g) + O2(g)
+The rate of the reaction is investigated and the following
+experimental results are obtained.
+Experiment
+INO (@]/
+mol dm-3
+1.00 x 10-3
+2.00 x 10-3
+2.00 x 10-3
+[02(g)] /
+mol dm-3
+2.50 x 10-3
+2.50 x 10-3
+5.00 x 10-3
+Initial rate /
+mol dm3s-1
+3.20 x 10-8
+6.40 x 10-8
+1.28 x 10-7
+3
+Study tip
+Zero order - no matter what you do
+to the concentration, the rate does
+not change
+Step 1: Determine the orders, overall order, and rate equation.
+Comparing Experiment 1 and 2:
+• [NO2(g)] doubles and [03(g)] stays the same
+• the rate also doubles
+• the reaction is 1st order with respect to NO2(g).
+Comparing Experiment 2 and 3:
+• [0, (g)] doubles and [NO2(g)] stays the same
+• the rate also doubles
+the reaction is 1st order with respect to 0 (g).
+overall order = sum of individual orders = 1 + 1 = 2.
+1st order - whatever you do to the
+concentration, the rate changes by
+the same factor.
+2nd order - whatever you do to the
+concentration, the rate changes by
+the same factor squared.
+275
+18
+RATES OF REACTIONS
+Summary questions
+1 Describe how you can find the rate constant from a concentration-time
+graph for a zero order reaction.
+(2 marks)
+2 The half-life of two first order reactions are:
+• Reaction 1
+= 46.0 s
+Reaction 2
+t1/2 = 165 s
+• Use the equation k = *
+reaction.
+41/2
+to calculate the rate constant of each
+(2 marks)
+Table 1
+Time/s
+3 The reaction CH,COCH(aq) + 1)(aq) CH,COCH,l(aq) + H+(aq) + (aq)
+was carried out. The concentration of I, was recorded every
+10 seconds and the results in Table 1 obtained.
+a Plot a graph of Cl(aq)] on the y-axis against time on the x-axis.
+(4 marks)
+b What is the order with respect to l? Explain your answer. (1 mark)
+IL (aq)] /mol dm-3
+0.00410
+0.003 85
+10
+0.00360
+20
+0.00330
+30
+0.003 10
+40
+4 When heated strongly, nitrous oxide, N, O, decomposes into its elements.
+2N 0(g) — 2N2(g) + O2(g)
+This reaction is first order with respect to N. 0. The graph below shows
+how nitrous oxide decomposes.
+1.000
+0.00285
+50
+0.002 60
+60
+0.800
+e-wp low/[(8)O'N]
+0.400
+0.2007
+250
+0.000+
+0 50 100 150 200
+time/s
+a Use half-life to show that the reaction is first order with
+respect to N20 and deduce the rate equation.
+b Determine the rate when t= 70 s.
+c Calculate the rate constant using
+i the rate at 70s ii the In2 method.
+(3 marks)
+(2 marks)
+(4 marks)
+281
+18
+RATES OF REACTIONS
+6) Worked example: Rate equation from a clock reaction
+Hydrogen peroxide, H,0, (aq), reacts with iodide ions in acid solution to form iodine.
+H,02(aq) + 21- (aq) + 2H+ (aq) - 12(aq) + 2H20(1)
+Five experiments are carried out using different concentrations of hydrogen peroxide with the same
+volumes and concentrations of iodide ions and acid. In each experiment, the time taken for the blue-
+black colour of the starch-iodine complex to form is measured. The results are shown in Table 1.
+=/s-1
+Table 1 Time taken for the starch-iodine complex to form at
+0.050
+0.045
+different H202(aq) concentrations
+0.040
+0.035 -
+aq)]/mol dm-35-1 Time / s
+0.030
+Ist 0.025
+0.050
+23 0.043
+0.020
+0.015
+0.040
+29 0.034
+0.010
+0.030
+39 0.026
+0.005
+0.000 +
+0.020
+68 0.015
+0.000 0.010 0.020 0.030 0.040 0.050 0.060
+0.010
+129 0.007
+[H202] / mol dm-35-1
+A graph of (oc rate) against [H2O2(aq)] is plotted
+A Figure 5 Rate-concentration graph for H202 (aq)
+(Figure 5).
+Two further series of experiments are then carried out - one
+where [I-(aq)] is varied and one where [H+ (aq)] is varied.
+Rate concentration graphs are plotted for each series of
+experiments (Figure 6 and Figure 7).
+1
+[l-(aq)]
+Figure 6 Rate-concentration graph for (aq)
+[H+(aq)]
+Study tip
+Figure 7 Rate-concentration graph for H+ (aq)
+Analyse the results to determine the rate equation.
+The reaction is zero order with
+respect to H*. You can write the
+rate equation including Ht:
+rate = [H,02(aq)][1(aq)] [H+(aq)]°
+Step 1: Work out the orders from the shapes of the graphs.
+Figure 5: straight line through the origin Ist order for H2O2(aq)
+Figure 6: straight line through the origin
+1st order for I (aq)
+However, any number to the power
+zero is equal to 1 and so zero order
+species are usually omitted to give
+the final rate equation as:
+Figure 7: horizontal straight-line
+zero order for H(aq)
+Step 2: Write the rate equation by combining the orders.
+rate = k[H,02(aq)][1(aq)]
+rate = k[H,O,(aq)][I (aq)]
+285
+RATES OF REACTIONS
+18.1 Orders, rate equations, and
+rate constants
+Specification reference: 5.1.1
+Rate of reaction
+Every reaction has a reaction rate. Reaction rates are measured by
+observing the changes in the quantities of reactants or products over time.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the terms rate of reaction,
+order, overall order, rate
+constant
+the rate equation and
+calculation of the rate
+constant k
+→ deducing orders from
+experimental results.
+In experiments, different quantities can be measured to calculate the
+rate of reaction. The units are then those of the quantity measured per
+unit of time.
+quantity reacted or produced
+rate =
+time
+For consistency, chemists measure rates of reaction as the change of
+concentration with a change in time:
+change in concentration
+rate =
+change in time
+Concentration is measured in mol dm-' and time can be any
+convenient measurement, depending on the overall rate of the
+reaction. If time has been measured in seconds, rate has the units of
+mol dm-3
+-, which should be written moldm-'s-1.
+Synoptic link
+In Topic 10.1, Reaction rates,
+you learnt about some different
+methods for monitoring the rate
+of a reaction and how the rate
+can be determined graphically. In
+this chapter you will find out how
+reaction rates are linked to the
+concentration of reactants.
+Because concentration is such a common term, chemists use a square
+bracket as shorthand for concentration. For a reactant A:
+[A] is shorthand for 'concentration of A'
+[A] has the usual units of concentration, mol dm-.
+Order of reaction
+Changing the concentration often changes the rate of a reaction. The
+rate of reaction is proportional to the concentration of a particular
+reactant raised to a power. For example, for reactant [A] and power n,
+the rate is given by:
+Study tip
+The symbolec means proportional to.
+rate « [A]"
+For each reactant, the power is the order of reaction for that
+reactant. In a reaction, different reactants can have different orders
+and each may affect the rate in different ways. Common orders are
+zero order (0), first order (1), and second order (2).
+Synoptic link
+In Topic 10.5, The equilibrium
+constant - part 1, you first met the
+idea of using square brackets for
+the concentration of a substance.
+Zero order
+When the concentration of a reactant has no effect on the rate, the
+reaction is zero order with respect to the reactant:
+zero order:
+rate « [A]º
+272
+18
+18.3 Rate-concentration graphs and initial rates
+Clock reactions - how accurate?
+In a clock reaction you are measuring the average rate during the first
+part of the reaction. Over this time, you can assume that the average
+rate of reaction is constant and is the same as the initial rate. In a clock
+reaction, you are measuring an average rate of a change in reactant
+over time. The shorter the period of time over which an average rate is
+measured, the less the rate changes over that time period.
+Figure 7 shows two concentration-time graphs, with the measured
+rate shown by the dashed lines. On the left, the measurement of t is
+from the first steepest part of the curve. The rate hardly changes and is
+virtually the same as the initial rate. On the right, you can see that the
+rate changes over the time measured and there is a difference from the
+initial rate.
+concentration
+concentration
+time
+time
+Figure 8 The accuracy of a clock reaction is dependent in the time measured
+The initial rate measured during a clock reaction is an approximation
+but it is still reasonably accurate provided that less than 15% of the
+reaction has taken place. You can see from the graph on the right that
+over 50% of the reactant has been used up.
+Summary questions
+1 Describe how the order of a reaction can be determined from the shape
+of a rate-concentration graph.
+(3 marks)
+2 Describe how a rate constant can be determined from a
+rate-concentration graph.
+(3 marks)
+3 The table below shows the results of a clock reaction involving species A.
+TAl/mol dm-35-1 Times
+0.050
+33
+0.040
+43
+0.030
+58
+0.020
+80
+0.010
+185
+a Determine the initial rates for each concentration as
+b Plot a rate-concentration graph.
+c Determine the order of reaction with respect to A.
+(2 marks)
+(4 marks)
+(1 mark)
+286
+18
+18.1 Orders, rate equations, and rate constants
+B Worked example: The rate equation and overall order
+for a reaction
+For a reaction A + B +C products, the orders are A: 0, B: 1,
+and C: 2.
+Step 1: Write the overall order.
+overall order = 1 + 2 = 3
+Step 2: Write the rate equation.
+rate = k[A]”[B]'[C]
+As [A]° = 1, zero order reactants are usually omitted.
+As [B]' = [B], 1st order powers are usually omitted.
+The rate equation is simplified to:
+rate = k[B][C]
+Units of the rate constant k
+The units of the rate constant depend upon the number of concentration
+terms in the rate equation. The units of k can be determined by:
+Study tip
+Remember that the units of rate
+are mol dm-'s-1 and the units of
+concentration are mol dm-.
+1 rearranging the equation to make k the subject
+2 substitute units into the expression for k
+3 cancel common units and show the final units on a single line.
+Three examples are shown below but the principle is the same for any
+rate equation.
+units = moldm3s-1
+overall order: 0 rate = k[A]° = k
+k = rate = moldm3s-1
+overall order: 1 rate = k[A]!
+k-rate molems-1
+[A] moldin
+overall order: 2 rate = k[A]2
+k=
+molems-1
+(moldm ) (mol dm3)
+units = 5-1
+Z
+rate
+units = dm mol-15-1
+Study tip
+Notice that [A] = [A] x [A] SO
+there are two concentration units
+multiplied together:
+(mol dm-3)
+= (mol dm) (mol dm3)
+Worked example: Units of the rate constantk
+What are the units of the rate constant k in the rate equation
+below?
+rate = k[A] [B]
+Step 1: Rearrange the rate equation to make the k the subject.
+Synoptic link
+In Topic 19.1, The equilibrium
+constant K - part 2, you will meet
+the same idea of substituting and
+cancelling units.
+ke_rate
+[A] [B]
+274
+18
+18.4 Rate-determining step
+6) Worked example: The hydrolysis of tertiary haloalkanes
+The tertiary haloalkane, (CH),CBr, is hydrolysed by aqueous alkali.
+(CHR), CBr + OH - (CH),COH + Br
+The rate equation has been determined experimentally as:
+rate = k[(CHz)CBr]
+Use this information to propose a reaction mechanism for this reaction.
+Stage 1: Summarise the information that you know
+The rate equation shows that the slow rate-determining step involves only one molecule of
+(CH),CBr. OH- has no effect on the reaction rate and must be involved in a fast step.
+Stage 2: Compare the overall equation with the information from Stage 1. Any sequence of steps must
+add up to give the overall equation.
+Step 1 (CH2),CBr –
+slow
+Step 2
++ OH-
+fast
+Overall (CHR),CBr + OH - (CH),COH + Br
+Stage 3: Identify the intermediate and work out the two-step mechanism:
+• Step 1 must form two species, one the other product of the reaction, Br-.
+• The other species formed must be (CH2)2C+.
+(CH),C+ doesn't feature in the overall equation – it must be formed in Step 1 and used up
+in Step 2 and is an intermediate.
+The completed two-step mechanism is shown below.
+Step 1 (CH2),CBr
+(CH2),C+ + Br slow (rate-determining step)
+Step 2 (CH), C+ + OH- → (CHR),COH
+fast
+Overall (CH), CBr + OH (CH2)2COH + Br
+• The slow Step 1 matches the rate equation
+• The sum of the steps gives the overall equation.
+Summary questions
+3 The overall equation for the decomposition of N, 0 is:
+2N 0(g) → 2N, (g) + 0, (g)
+The rate equation is: rate = [N,0 (g)]
+Suggest a possible two-step mechanism for
+the reaction.
+(2 marks)
+1 Nitrogen and hydrogen react as follows:
+N, (g) + 3H2(g) → 2NH2(g).
+Explain why it is likely that this reaction proceeds
+by more than one step.
+(1 mark)
+2 A proposed two-step mechanism for a reaction is
+shown below.
+H,0, (aq) + Br (aq) → H20(1) + Bro-(aq) slow
+H,02(aq) + Bro (aq) - H20(1) + Br (aq) + O2(g) fast
+a Determine the rate equation for this reaction.
+(1 mark)
+b Determine the overall equation. (1 mark)
+c Identify the intermediate.
+(1 mark)
+d State the role of Br.
+(1 mark)
+288
+18.4 Rate-determining step
+Specification reference: 5.1.1
+The rate-determining step
+Multi-step reactions
+An overall chemical equation compares the reactants and products.
+The balancing numbers give the stoichiometry, the relative amounts
+of the species in the reaction. For example:
+H,02(aq) + 21- (aq) + 2H+ (aq) → 12(aq) + 2H2O(1)
+1 mol 2 mol 2 mol
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the rate-determining step
+predicting a rate equation
+that is consistent with the
+rate-determining step
+predicting possible steps in
+a reaction mechanism from
+the rate equation and the
+balanced equation.
+A reaction can only take place when particles collide. For the reaction
+above to take place in a single step, one molecule of 1,0, two I ions,
+and two H+ ions would have to collide together simultaneously, which
+is an extremely unlikely event.
+Such reactions are much more likely to take place in a series of steps
+and it is unlikely that more than two particles will collide together at
+the same time. The series of steps that make up an overall reaction is
+called the reaction mechanism.
+Synoptic link
+See Topic 3.4, Reacting quantities,
+for more details of stoichiometry
+The rate-determining step
+The steps in a multi-step reaction will take place at different rates. The
+slowest step in the sequence is called the rate-determining step.
+Study tip
+Predicting reaction mechanisms
+Chemists use their knowledge and understanding of chemical
+principles to propose possible mechanisms for reactions. But how do
+you know whether a reaction mechanism is likely to be correct?
+Imagine a production line in a
+factory. Three steps are involved
+in making a product. The first step
+takes 30 minutes to complete. The
+other two steps take two minutes.
+The first step is the slowest step
+and takes up the vast majority
+of the time required to make the
+product. The first step is the rate-
+determining step.
+The rate equation only includes reacting species involved in the
+rate-determining step.
+The orders in the rate equation match the number of species
+involved in the rate-determining step.
+So the rate-determining step provides important evidence in
+supporting or rejecting a proposed reaction mechanism.
+The hydrolysis of haloalkanes
+Haloalkanes are hydrolysed by hot aqueous alkali:
+Synoptic link
+RBr + OH
+→ ROH + Br-
+In Topic 15.1, The chemistry of
+haloalkanes, you first studied the
+hydrolysis of haloalkanes.
+The hydrolysis reactions of haloalkanes can be investigated
+experimentally to determine the overall order of reaction, the rate
+equation, and a possible mechanism for the reaction.
+287
+RATES OF REACTIONS
+18
+In a zero order reaction:
+• any number raised to the power zero is 1
+concentration does not influence the rate.
+Study tip
+You can test this maths on your
+calculator.
+First order
+A reaction is first order with respect to a reactant when the rate
+depends on its concentration raised to the power of one:
+Try raising any number to the
+power zero and you will always get
+1 as the answer
+first order:
+rate a [A]
+In a first order reaction:
+Study tip
+•
+if the concentration of A is doubled (x2), the reaction rate
+increases by a factor of 21 = 2
+if the concentration of A is tripled (X3), the reaction rate
+increases by a factor of 31 = 3.
+In a first order reaction, any change
+in concentration gives the same
+change to the rate.
+Second order
+A reaction is second order with respect to a reactant when the rate
+depends on its concentration raised to the power of two:
+second order: rate « [A]?
+In a second order reaction:
+if the concentration of A is doubled (X2), the reaction rate
+increases by a factor of 22 = 4
+if the concentration of A is tripled (X3), the reaction rate increases
+by a factor of 32 = 9.
+Study tip
+In a second order reaction, any
+change in concentration changes
+the rate by the square of the change.
+The rate equation and the rate constant
+The rate equation gives the mathematical relationship between
+the concentrations of the reactants and the reaction rate. For two
+reactants, A and B, the rate equation is shown below.
+order of reaction with respect to A
+order of reaction
+rate of
+with respect to B
+reaction
+rate = k [A]” [B]"
+rate
+constant
+concentration of B
+concentration of A
+The rate constant k is the proportionality constant. It is the number
+that mathematically converts between the rate of reaction and
+concentration and orders.
+Overall order
+The overall order of reaction gives the overall effect of the concentrations
+of all reactants on the rate of reaction. It is calculated as follows:
+Study tip
+A proportionality constant is just
+like an exchange rate.
+Here the rate constant is the
+'exchange rate' that converts
+concentration into rate (and
+vice versa).
+overall order = sum of orders with respect to each reactant.
+So, for the rate equation:
+rate = K[A]”[B]"
+overall order = m + 11
+273
+18.5 Rate constants and
+temperature
+Specification reference: 5.1.1
+The effect of temperature on rate constants
+You have already seen how temperature changes can affect the rate of
+a reaction in terms of the Boltzmann distribution.
+As temperature increases, the rate increases and the value of the rate
+constant k will also increase. For many reactions each 10 °C rise in
+temperature doubles the rate constant and doubles the rate of the
+reaction. Figure 1 shows the typical variation of a rate constant with
+temperature.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the effect of temperature
+change on reaction rate and
+rate constant
+the Arrhenius equation
+→ determination of E and
+A graphically from the
+Arrhenius equation.
+What factors affect the rate constant?
+When temperature increases, two factors contribute to the increased
+rate and rate constant.
+Synoptic link
+Increasing the temperature shifts the Boltzmann distribution to
+the right, increasing the proportion of particles that exceed the
+activation energy Eq.
+As the temperature increases, particles move faster and collide
+more frequently.
+To react, particles must also collide with the correct orientation,
+Look back at Topic 10.3, The
+Boltzmann distribution, to
+revise the basics of the effect of
+temperature on reaction rates.
+With increasing temperature, the increased frequency of collisions is
+comparatively small compared with the increase in the proportion of
+molecules that exceed E from the shift in the Boltzmann distribution.
+So the change in rate is mainly determined by E.
+rate constant k
+The Arrhenius equation
+You have seen that rate constants can be determined experimentally.
+By carrying out the same experiment at different temperatures, rate
+constants can be calculated at different temperatures. The graph in
+Figure 1 shows the variation of the rate constant with temperature.
+The Arrhenius equation, shown below, is an exponential relationship
+between the rate constant k and temperature T.
+temperature/°C
+Figure 1 Variation of rate constant k
+with temperature T
+k = A e-E/RT
+pre-exponential factor
+(frequency factor)
+exponential factor
+(linked to activation
+energy and temperature)
+R= gas constant = 8.314 Jmol-'K-I
+T = temperature in Kelvin.
+289
+18
+18.5 Rate constants and temperature
+The exponential factor e-Eg/RT represents the proportion of molecules that
+exceed E and that have sufficient energy for a reaction to take place.
+The pre-exponential term (frequency factor) A takes into account
+the frequency of collisions with the correct orientation. This term
+does increase slightly with temperature as the frequency of collisions
+increases but it is essentially constant over a small temperature
+range. The frequency factor essentially gives the rate if there were no
+activation energy.
+Logarithmic form of the Arrhenius equation
+The Arrhenius equation can also be expressed as a logarithmic
+relationship:
+In k=-6m + In A
+This form of the Arrhenius equation is very useful as it enables both
+E and A to be determined graphically. A plot of In k against
+gives a
+straight line graph of the type y = mx + c (Figure 2).
+gradient =-
+In k
+K
+In k = |-
+E
+In k=
+A + In A
+IJ+o
+y =
+m
+X
+c
++
+/K-1
+A Figure 2 Arrhenius plot with Ink
+positive
+So a plot of In k against gives a downward straight line with:
+• gradient m of - En
+intercept c of In A on the y axis.
+Depending on whether In k is positive or negative, you may find that
+your graph comes either side of the origin (it may even straddle the
+X-axis). However, the principle is the same. The gradient is - and
+intercept is In A.
+Study tip
+As you have seen, there are two
+forms of the Arrhenius equation.
+You will mainly be using the
+logarithmic form of the equation to
+determine E and A graphically, but
+it is important that you recognise
+the exponential form of the
+Arrhenius equation, k=A e E/RT.
+O Worked example: Using the Arrhenius equation to
+calculate E and A
+Table 1
+Hydrogen peroxide decomposes to form water T/K k/s-1
+and oxygen.
+2950.000 493
+298 0.000656
+21,02(aq) → 2H2O(l) + O2(g)
+305 0.001 400
+The rate constant k varies with temperature
+310 0.002 360
+as shown in Table 1.
+3200.006 120
+Plot a suitable graph and calculate the activation energy E, and
+frequency constant A for this reaction.
+Step 1: Calculate the values of In k and
+from the data above:
+Ink
+1/K-1
+0.003 39
+0.003 36
+0.003 28
+0.003 26
+0.003 13
+-7.615
+-7.329
+-6.571
+-6.049
+-5.096
+290
+18
+Chapter 18 Practice questions
+Practice questions
+1 The rate equation for a reaction is:
+rate = k[A] [B]
+When [A] and [B] are both 0.010 moldm-3,
+rate = 1.2 x 10-4moldm-'s-1
+a Calculate k, including units. (2 marks)
+b The experiment was repeated three
+times at the same temperature. Copy and
+complete the missing values in the table.
+(i) What is the shape of the graph?
+(1 mark)
+(ii) How would you determine values
+for the activation energy E, and the
+pre-exponential factor (frequency
+factor) A from the graph? (2 marks)
+A student investigates the reaction between
+iodine, 1,, and propanone, (CH3),CO, in
+the presence of aqueous hydrochloric acid,
+HCl(aq). The results of the investigation are
+shown below.
+Rate-concentration graph
+4
+[A]/mol dm-3 [B]/mol dm-3 Rate /mol dm-3s-1
+0.0100
+2.40 x 10-4
+0.0100
+1.08 x 10-3
+0.0400 0.0400
+0.0100
+6.00 x 10-3
+100
+initial rate/
+moldm-35-1
+[(aq)]/
+moldm-3
+Results of initial rates experiments
+Experiment [(CH), co(aq)]/ [HCl(aq)] / Initial rate /
+moldm-3 mol dm-3 mol dm-3 s-1
+1 1.50 x 10-3 2.00 x 10-2 2.10 x 10-9
+2 3.00 x 10-3 2.00 x 10-2 4.20 x 10-9
+13.00 x 10-3 5.00 x 10-
+21 .05 x 10-8
+(4 marks)
+2 Nitrogen pentoxide, N,Os(9), decomposes as
+below.
+N203() — 2NO,(9) +10,(9)
+The rate equation is:
+rate = k[N,03(9)]
+When [N,O(g)] = 0.20 moldm-3, the
+initial rate of disappearance of N, O, is
+2.8x10-moldm-'s-1.
+a Calculate k, including units. (2 marks)
+b (i) What is meant by half-life? (1 mark)
+(ii) What is [N, O,(g)] and the rate after
+three half lives?
+(2 marks)
+(iii) Calculate the half-life. (1 mark)
+c What is the initial rate of formation
+of NO, gas?
+(1 mark)
+3 HBr reacts with O. The four-step mechanism
+below has been proposed for the reaction.
+HBr + O, HBrO2
+HBrO, + HBr -> 2HBrO
+HBrO + HBr H,O + Br,
+HBrO + HBr → H2O + Br,
+a What is the overall equation for the
+reaction?
+(1 mark)
+For this reaction, the rate constant k is
+determined at different temperatures, T.
+From the results, a graph of In k against
+is plotted.
+a Determine the orders with respect to Ly,
+(CH),CO, and HCI, the rate equation,
+and the rate constant for the reaction.
+Explain all of your reasoning. (9 marks)
+The student then investigates the
+reaction of hydrogen, Hy, and iodine
+monochloride, ICl. The equation for this
+reaction is shown below.
+H,(g) + 2Cl(g) → 2HCl(g) + L2(g)
+The rate equation for this reaction is
+shown below.
+rate = k[H, (g)] [ICI(g)]
+Predict a possible two-step mechanism for
+this reaction. The first step should be the
+rate-determining step.
+(2 marks)
+F325 Jan 12 Q1
+Iodide ions, I', react with S, 2-ions as
+shown in the equation below.
+21 (aq) + S2082-(aq) - 12(aq) + 250,-(aq)
+b
+5
+292
+18
+18.2 Concentration-time graphs
+Determination of k for a first order reaction
+There are two methods for determining the rate constant from a
+concentration-time graph for a first order reaction.
+Synoptic link
+Calculating the rate constant from the rate
+A tangent to the curve on the concentration-time graph is drawn at
+a particular concentration. The gradient of the tangent is calculated
+giving the rate of reaction.
+Refer back to Topic 10.1, Reaction
+rates, to see how the gradient of a
+tangent gives the rate of reaction.
+The rate constant is calculated by rearranging the rate equation and
+substituting the value of rate (the gradient of the tangent) and the
+concentration at the position where the tangent has been drawn.
+Study tip
+rate
+rate = k[N,O,(9)] so, k = in
+K [N,0;(g)]
+In Figure 4, a tangent has been drawn at [N,O(g)] = 0.050 mol dm-3.
+Remember that you can find
+the units of a rate constant by
+substituting units into the rate
+expression and cancelling the
+common units.
+mot dm-35-1
+molem
+units = -1
+rate = gradient = 4,004 = 3,5 x 10-4 mol dm3
+240
+3.5 x 10-4
+so, k=
+rate
+= 7.0 x 10-35-1
+[N2O3(g)] 0.050
+Calculating the rate constant from the half-life
+A much easier way of calculating the value of the rate constant is to
+make use of the exponential relationship for a constant half-life:
+Study tip
+In2
+You will find the In button on a
+scientific calculator.
+x-1
+log.
+1/2
+This method is also much more accurate than drawing a tangent - it is
+always difficult to judge how steep the tangent should be drawn. From
+Figure 2:
+In2_ In2 _ 0.693 = 6.93 x 10-35-1
+12 100 100
+VE
+10-
+x2
+log
+csin Dcos E tan- F
+hyp sin cos tan
+% 5 X
+Y M- M
+O SAD M+
+On this calculator, it is next to
+the log button but it may be in a
+different position amongst the
+scientific functions of a calculator.
+Exponential decay in medicine
+Drug breakdown in the body is affected
+by many different factors, but many
+drugs break down by exponential
+decay. The average half-lives of two
+medicines used to combat asthma are:
+Ventolin.
+a
+Accubiera 200
+ta wpuste 60 bilders
+Team
+PR
+salbutamol: 1.6 hours
+• salmeterol: 5.5 hours.
+Doctors will advise that these drugs
+should be used differently - salbutamol
+for asthma attacks and salmeterol late
+at night before sleeping.
+Figure 6 Salbutamol is used in
+inhalers to combat asthma
+1 What approximate proportion of each drug will remain in the body
+11 hours after use?
+2 Why should the doctor advise patients to use these drugs differently?
+280
+18
+RATES OF REACTIONS
+Half-life and first order reactions
+Half-life
+Half-life 1, is the time taken for half of a reactant to be used up.
+First order reactions have a constant half-life with the concentration
+halving every half life. This pattern is called exponential decay.
+A first order relationship can be confirmed from a concentration-time
+graph by measuring successive half-lives. If they are the same, the
+reaction is first order with respect to the reactant.
+Study tip
+Half life is the time taken for the
+concentration of a reactant to
+decrease to half its original value.
+Dinitrogen pentoxide, decomposes to nitrogen dioxide and oxygen.
+21,05(g) → 4NO2(g) + O2(g)
+Figure 5 shows a concentration-time graph for this decomposition.
+A tangent has been drawn when the concentration is 0.050 mol dm-3.
+This enables the rate to be calculated at this concentration,
+The graph shows three successive half-lives with a constant value
+of 100 s.
+The constant half-life means that this reaction is first order with
+respect to N2O5
+• [N,0.), is the initial concentration of N, O, at time = 0 s.
+The rate equation for this reaction is then:
+rate = k[N20 ()]
+[N2O5lo
++
+0.100+
+0.090
+wwwwwwwwwwwwww
+0.080
+0.070
+wwwwwwwwwwwwwwww
+0.060
+IN O.Jo
+&_wplow/[(8)90°NI
+0.050
+w
+wwwwwww
+0.040
+[N2Oslo
+0.030
+0.020
+IN Oslo
+8
+0.010
+www
+0
+50
+100
+150
+200
+250
+300
+350
+400
+1/2
+1/2
+012
+time/s
+A Figure 5 Constant half-lives from a concentration-time graph
+279
+18
+RATES OF REACTIONS
+Study tip
+Step 2: Plot a graph of In k against
+/K-1
+The e (or EXP) function is normally
+accessed as the inverse of the In
+button. You will need to use the
+(shift] or [2nd] button to access it.
+0.00310
+4.50+
+0.00315
+0.00320
+0.00325
+0.00330
+0.00335
+0.00340
+loga
+-5.00 -
+10"
+-5.50
+0.000 20
+2
+X
+log
+In
+-6.00
+1.90
+C
+(hyp
+%
+O
+sin-1 D
+sin
+9 X
+Cos! E
+cos
+Y
+SAD
+tant
+tan
+M- Mi
+M+
+-6.50
+-7.00
+-7.50 -
+-8.00
+A Figure 3 Graph of In k against
+Step 3: Calculate the activation energy E from the gradient of
+the straight line
+Summary questions
+Gradient =
+-1.90
+0.000205-9500
+R
+E = 8.314 x 9500 = 78983Jmol-1 = 79 kJ mol-1
+Step 4: Calculate In A from the 0.00000 0.00005
+26.00 -
+intercept.
+0.00010
+1 Describe how the activation
+energy and frequency factor
+can be found graphically.
+(2 marks)
+2 In the Arrhenius equation,
+state the effect on k of an
+increase in:
+a A
+(1 mark)
+bE
+(1 mark)
+CT
+(1 mark)
+25.50
+Figure 4 shows extrapolation of
+the straight-line graph from
+Figure 3 back to the y-axis at
+==OK-
+25.00 -
+24.50
+The intercept gives the value for
+In A.
+24.00
+23.50
+In A = 25.40.
+23.00 –
+22.50
+To work out A on your calculator,
+you need to use the exponential
+function. The exponential function
+is the inverse of In, so A = pln A
+22.00
+3 The variation of the rate
+constant with temperature
+for the first-order reaction
+2N,0.(g) 2N20,(g) + O2(g)
+is given below.
+Determine graphically
+the activation energy and
+frequency factor for the
+reaction.
+(8 marks)
+TK !_ k/s-1
+298 1.74 x 10-5
+308 6.61 x 10-5
+318 2.51 x 10-4
+328 7.59 x 10-4
+338 2.40 x 10-3
+A Figure 4 Graph of Ink against
+showing intercept on y axis
+A = 225.40 = 1.07 x 1011
+291
+18
+RATES OF REACTIONS
+b
+A student investigates the rate of this reaction
+using the initial rates method.
+The student measures the time taken for a
+certain amount of iodine to be produced.
+a Outline a series of experiments that the
+student could have carried out using the
+initial rates method.
+How could the results be used to show
+that the reaction is first-order with respect
+to both F and S,O2-? In your answer you
+should make clear how the results are
+related to the initial rates. (4 marks)
+In one of the experiments, the student
+reacts together:
+• 8.0x10-2 mol dm-' (aq)
+• 4.0x10-moldm-'8,0,-(aq).
+The initial rate is 1.2 x 10-3 moldm-38-1. The
+reaction is first-order with respect to I and
+first-order with respect to S,0,2-.
+Calculate the rate constant k for this reaction.
+State the units, if any.
+(3 marks)
+OCR F325 Jan 13 Q4(a) (b)
+In aqueous solution, benzenediazonium
+chloride, CH N,CI, decomposes above 10 °C.
+CH,N,Cl(aq) + H2O(l) →
+CH,OH(aq) + N2(g) + HCl(aq)
+A student investigates the rate of this reaction
+using an excess of water at 50°C. The student
+takes measurements at intervals during the
+reaction and then plots his experimental
+results to give the graph shown below.
+(ii) Confirm the order of reaction with
+respect to CH N,CI. Show your
+working on the graph. (2 marks)
+(iii) What would be the effect, if any,
+on the half-life of this reaction of
+doubling the initial concentration of
+CHENCl?
+(1 mark)
+b The student predicts that the rate
+equation is:
+rate = k[CH N Cl].
+(i) Using the graph and this rate
+equation, determine the rate of
+reaction after 40s. Show your
+working on the graph. (3 marks)
+(ii) Calculate the rate constant k for this
+reaction and give its units. (2 marks)
+c The order of this reaction with respect to
+H,O is effectively zero. Explain why.
+(1 mark)
+OCR F325 Jun 13 Q2
+A student carries out an initial rates
+investigation on the reaction below.
+51- (aq) + 10, (aq) + 6H+ (aq) →
+31, (aq) + 3H2O(1)
+From the results, the student determines the
+rate equation for this reaction:
+rate = k[I-(aq)] [IO, (aq)] [H+ (aq)12
+a (i) What is the overall order of reaction?
+(1 mark)
+(ii) A proposed mechanism for this
+reaction takes place in several
+steps. Suggest two reasons why it is
+unlikely that this reaction could take
+place in one step.
+(2 marks)
+b On the rate-concentration graphs below,
+sketch lines to show the relationship
+between initial rate and concentration for
+10,- (aq) and H+ (aq).
+7
+6
+6.0
+[C6H5N2CIJ/moldm-3
+initial rate
+initial rate
+6 20 40 60 80 100 120 140 160 180
+time/s
+The student uses a half-life method to
+suggest the order of reaction with respect
+to CH N,CI.
+(i) What is meant by the half-life of a
+reaction?
+(1 mark)
+O (103(aq)]/mol dm-3
+0 [H+(aq)]/mol dm-3
+(2 marks)
+F325 Jun 14 Q4 (a) (b)
+293

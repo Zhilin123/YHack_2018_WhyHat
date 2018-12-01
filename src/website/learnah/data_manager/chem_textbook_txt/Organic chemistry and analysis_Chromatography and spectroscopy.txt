@@ -1,0 +1,1828 @@
+29
+CHROMATOGRAPHY AND SPECTROSCOPY
+The worked example for aromatic isomers shows just how useful
+carbon-13 NMR spectroscopy can be. The structures are so similar that
+it would be very difficult to distinguish between them by other means.
+But from the carbon-13 NMR spectra, you just need to count the
+number of peaks. It may not always be as easy and you may find that
+different isomers give the same number of peaks, but you can often
+identify some of the isomers using this technique.
+Further analysis of a carbon-13 NMR spectrum
+The carbon-13 NMR spectrum of propan-1-ol is shown
+in Figure 4 with the three peaks for the three carbon
+environments labelled.
+HO V
+Carbon-2 is closer than carbon-3 to the oxygen atom
+connected to carbon-1. The proximity of an electronegative
+atom or multiple bond is an important factor in shifting a
+peak to a higher d value. You saw this idea in the spectrum
+of propanal earlier in this topic.
+This prediction agrees with the actual NMR spectrum, but
+you do need to be very careful as other factors such as
+concentration and interactions with the solvent may also
+affect the chemical shift.
+Sketch carbon-13 NMR spectra to predict the number
+of peaks and the order of peaks for the following
+compounds.
+a butan-1-ol
+b
+pentan-3-one
+60 40 20
+chemical shift/ppm
+A Figure 4 Carbon-13 NMR spectrum of propan-1-ol
+Looking at the chemical shifts in Figure 1, carbon-1 is
+clearly in a C-0 environment giving a peak in the range
+50-90 ppm, but carbon atoms 2 and 3 both match the
+same C—C environment in the range 0-50 ppm. So how
+do you know that the peaks are this way round?
+Summary questions
+Use the 13C chemical shifts in Figure 1 to help you answer these questions.
+1 For each compound below, predict the number of 13C peaks and the
+chemical shift of each peak:
+a CH,COOH
+2 marks) b CH CHO (2 marks)
+C CH NHCH, (2 marks)
+2 For each compound below, predict the number of 13C peaks and the
+chemical shift of each peak:
+a CH,COOCH,CH (2 marks) b CH2CH=CHCH2 (2 marks)
+CHOCH,CH,CHO (2 marks)
+3 Draw the structures of the following and label each carbon environment.
+Predict the number of peaks in the carbon-13 NMR spectra of each
+isomer.
+a the three aromatic isomers of nitromethylbenzene (3 marks)
+b 2,3-dimethylphenol
+(3 marks)
+C 3,5-dimethylphenol
+(3 marks)
+d 1,3,5-trimethylbenzene
+(3 marks)
+519
+29
+CHROMATOGRAPHY AND SPECTROSCOPY
+Step 6: Combine the information to suggest a structure.
+From the evidence, the CH.CH, group could be adjacent to either a
+carbonyl or aromatic ring.
+The 13C NMR spectrum suggests that the aromatic ring is
+1,4-disubstituted.
+From all the evidence, the compounds could have one of two
+structures below:
+CH3CH2
+0-CH3
+Hzc'
+CH2CH3
+Figure 5
+Synoptic link
+1 Use the 13C NMR spectrum to show that the aromatic ring must be
+1,4-disubstituted rather than structures 1,2- or 1,3-disubstituted.
+2 Describe a simple chemical test that would confirm which of the two
+structures above is likely to be correct.
+See Topic 29.3, 13C NMR
+spectroscopy. for details of 13C
+NMR spectra of disubstitutued
+aromatic compounds.
+Summary questions
+Chemical analysis of an unknown compound gave the percentage
+composition by mass: C, 62.07%; H, 10.34%; 0, 27.59%. The molecular
+ion peak is at m/z = 116. The infrared and 13C NMR spectra are shown
+in Figures 7-8.
+ttransmittance (%)
+0
++
+0
+4000 3000 2000 1500 1000 500
+wavenumber/cm-1
+A Figure 7 The infrared spectrum of unknown compound
+200 180 160 140 120 100 80 60 40 20
+chemical shift/ppm
+A Figure 8 13C NMR spectrum of unknown compound
+1 Determine the empirical and molecular formulae of the compound.
+(2 marks)
+2 Analyse the infrared and 13C NMR spectra to suggest two possible
+structures for the compound.
+(8 marks)
+3 Explain how the compound could be identified from the proton NMR
+spectrum of the compound
+(4 marks)
+533
+29
+Chapter 29 Practice questions
+Practice questions
+1 C-Amino acids are found in human sweat. A
+student had read that chromatography could
+be used to separate and identify the amino
+acids present in human sweat.
+a The student used thin-layer
+chromatography (TLC) to separate the
+Ol-amino acids in a sample of human
+sweat and discovered that three different
+C-amino acids were present.
+(i) State the property of a-amino acids
+that allow them to be separated
+by TLC.
+(1 mark)
+(ii) The chromatogram was treated to
+show the positions of the separated
+d-amino acids.
+Explain how the student could
+analyse the chromatogram to identify
+the three a-amino acids that were
+present.
+(2 marks)
+(iii) Several o.-amino acids have structures
+that are very similar.
+Suggest why this could cause problems
+when using TLC to analyse mixtures
+of a-amino acids.
+(1 mark)
+F324 Jan 2010 Q3(a)
+2 Proton NMR spectroscopy can be used to
+distinguish between the two esters below.
+a The student carried out the same two
+chemical tests on each compound. This
+allowed her to distinguish between all
+three compounds.
+Describe two suitable tests that the
+student could have used.
+Show how the observations would
+allow her to distinguish between the
+compounds.
+(4 marks)
+b Explain how infrared spectroscopy could
+be used to confirm which compound is a
+carboxylic acid.
+(1 mark)
+The aldehyde has the molecular formula
+C-H,00. The 'H NMR spectrum of the
+aldehyde contains a doublet at = 0.9 ppm
+with a relative peak area of six compared
+with the aldehyde proton as well as a
+number of other peaks.
+Analyse this information to deduce the
+structure of the aldehyde. Explain your
+reasoning.
+(4 marks)
+d The ketone also has the molecular formula
+C H, 0. There are three structural isomers
+of this formula that are ketones.
+(i) Two of these isomers are shown below.
+H3C-CH2 - CH2 —C—CH3
+CH3 -CH —C—CH3
+CH3
+ketone 1
+ketone 2
+H3C—
+C'
+H3C -CH2-C
+O-CH2-CH3
+O-CH3
+A
+B
+a
+Complete the table for the peaks in the 'H
+NMR spectrum of A.
+Draw the structural formula of the
+third structural isomer. (1 mark)
+(ii) The 13C NMR spectrum of the ketone
+given to the student is shown below.
+Use the spectrum to identify the
+ketone. Explain your reasoning.
+Identify the carbon responsible for
+the peak at d = 210 ppm.
+Chemical
+shift/ppm
+ing
+Relative
+peak area
+Proton
+environment
+CH2-CO
+O-CH,
+C-CH,
+(3 marks)
+b How would the 'NMR spectrum of B differ
+from the 'NMR spectrum of A? (1 mark)
+A student was given three compounds, an
+aldehyde, a ketone, and a carboxylic acid.
+200
+150 100
+chemical shift/ppm
+500
+3
+(3 marks)
+F324 June 2010 Q3
+534
+29.4 Proton NMR spectroscopy
+Specification reference:6.3.2
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ proton NMR spectroscopy
+► the different types of proton
+environment
+the relative numbers of each
+type of proton
+→ spin-spin splitting
+→ identification of O—Hand
+N-H protons.
+Proton NMR spectroscopy
+A proton NMR spectrum provides four important pieces of information
+about a molecule. Firstly, the spectrum provides similar information to
+a carbon-13 NMR spectrum but for protons:
+• the number of different proton environments - from the number of
+peaks
+• the types of proton environments present - from the chemical shift.
+There are the two extra pieces of information:
+the relative numbers of each type of proton - from integration traces
+or ratio numbers of the relative peak areas
+. the number of non-equivalent protons adjacent to a given proton -
+from the spin-spin splitting pattern.
+Figure 1 shows chemical shift values for protons in different
+environments. The chemical shift 8 is referenced against TMS at
+8 = 0 ppm. The chemical shift range of about 12 ppm is much
+narrower than the carbon-13 range of about 220 ppm.
+BOB
+1H NMR chemical shifts relative to TMS
+0-H
+N-H
+o
+HC-0
+HC-C1
+HC- Br
+HC-0
+HC-R
+HC-N
+12
+11
+10
+1
+8/ ppm
+chemical shift, 8
+H bonded to C=0
+or part of COOH
+H bonded to C=C or
+aromatic ring
+HC bonded to
+electronegative atom
+(e.g., O, N, CI, Br or
+benzene ring or C=0
+HC bonded
+to alkyl chain
+Figure 1 Proton NMR chemical shifts
+Study tip
+You do not need to memorise the
+chemical shifts of different groups.
+You will be provided with these on
+the Data Sheet
+As with carbon-13 NMR spectra, there are broad categories for types
+of proton as the chemical shift value increases. These are shown
+in Figure 1 below the chemical shift axis. Factors such as solvent,
+concentration, and substituents may move a peak outside of these
+ranges.
+520
+29
+CHROMATOGRAPHY AND
+SPECTROSCOPY
+29.1 Chromatography and functional
+group analysis
+Specification reference: 6.3.1
+Chromatography
+Chromatography is used to separate individual components from
+a mixture of substances. All forms of chromatography have a
+stationary phase and a mobile phase.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ one-way TLC chromatograms
+in terms of R values
+gas chromatograms in
+terms of retention times
+and the proportions of the
+components of a mixture
+→ qualitative analysis of organic
+functional groups on a
+test-tube scale.
+The stationary phase does not move and is normally a solid or a
+liquid supported on a solid.
+The mobile phase does move, and is normally a liquid or a gas.
+Chromatography can be used in the analysis of drugs, plastics,
+flavourings, air samples, and has applications in forensic science.
+.
+Thin layer chromatography (TLC)
+Thin layer chromatography (TLC) is a quick and inexpensive analytical
+technique that indicates how many components are in a mixture. The
+technique uses a TLC plate which is usually a plastic sheet or glass,
+coated with a thin layer of a solid adsorbent substance - usually silica.
+In TLC, the adsorbent is the stationary phase. The different
+components in the mixture have different affinities for the absorbent
+and bind with differing strengths to its surface. Adsorption is the
+process by which the solid silica holds the different substances in the
+mixture to its surface. Separation is achieved by the relative adsorptions
+of substances with the stationary phase
+* Carrying out TLC
+1 Take a TLC plate. Using a pencil, draw a line across the plate about 1 cm
+from one end of the plate. This is the base line.
+2 Using a capillary tube, spot a small amount of a solution of the sample
+onto the base line on the plate.
+Prepare a chromatography tank for the TLC plate. This can be made from
+a small beaker with a watch glass placed on the top. Pour some solvent
+into the beaker to a depth of about 0.5 cm.
+Place the prepared TLC plate in the beaker, making sure that the solvent
+does not cover the spot. Cover the beaker with the watch glass and
+leave it undisturbed on the bench. The solvent will rise up the TLC plate
+(Figure 1).
+Figure 1 TLC plate marked with
+pencil base line (top), spotting on base
+line (middle) and run the plate in TLC
+tank or beaker (bottom)
+506
+29
+29.4 Proton NMR spectroscopy
+Spin-spin coupling
+So far, you can see that a proton NMR spectrum reveals a large amount
+of information about the structure of molecules. A proton NMR peak
+can also be split into sub-peaks or splitting patterns. These are caused
+by the proton's spin interacting with the spin states of nearby protons
+that are in different environments. This provides information about the
+number of protons bonded to adjacent carbon atoms.
+Then + 1 rule
+Study tip
+Spin-spin splitting occurs only if
+adjacent protons are in a different
+environment from the protons
+being split. Refer back to the section
+on equivalent and non-equivalent
+protons, earlier in this topic.
+The splitting of a main peak into sub-peaks is called spin-spin
+coupling or spin-spin splitting, and the number of sub-peaks is one
+greater than the number of adjacent protons causing the splitting. This
+sounds complicated but the pattern is easy to see using the n + 1 rule.
+For a proton with n protons attached to an adjacent carbon atom,
+the number of sub-peaks in a splitting pattern = 1 + 1
+When analysing spin-spin splitting, you are really seeing the number
+of hydrogen atoms on the immediately adjaceni carbon atom. The
+possible splittings for different sequences of protons in an organic
+molecule are shown in Table 1.
+A Table 1 Spin-spin splitting patterns
+n
+n+1
+Splitting
+pattern
+Relative peak areas
+within splitting
+Pattern
+Structural feature
+singlet
+no H on adjacent atoms
+doublet
+1:1
+adjacent CH
+triplet
+1:2:1
+adjacent CH,
+quartet
+1:3:3:1
+adjacent CH3
+w
+The patterns shown above are very common in NMR spectra. This
+degree of splitting continues with more adjacent protons. Another
+common pattern is for CH(CHZ), where a CH proton has six protons
+on the adjacent carbon atoms. This gives the heptet (7) splitting
+pattern shown in Figure 5.
+Figure 5 Heptet splitting of the
+CH group in CH(CH), caused by six
+adjacent protons in the two CH, groups
+Study tip
+You will not need to interpret
+more complex splitting beyond
+observing a multiplet.
+More complex splitting
+In CH(CH2), above, the two CH, groups are in the same environment.
+Sometimes, adjacent protons may have different environments. In
+molecules such as CH CH,CH,COOH, the central -CH - would be split
+differently by the CH, and CH, protons. The resulting splitting would
+then show as a multiplet. More advanced work allows multiplets to
+be analysed.
+522
+29
+29.1 Chromatography and functional group analysis
+Gas chromatography
+Gas chromatography (Figure 4) is useful for separating and identifying
+volatile organic compounds present in a mixture.
+injector
+flow
+controller
+port
+o
+recorder
+detector
+column
+column oven
+carrier gas
+gas chromatograph
+Figure 4 Schematic diagram of gas chromatography
+The stationary phase is a high boiling liquid adsorbed onto an inert
+solid support. The mobile phase is an inert carrier gas such as helium
+or neon.
+A Figure 5 The inside of a gas
+chromatograph showing the copper
+column wound into a coil
+A small amount of the volatile mixture is injected into the apparatus,
+called a gas chromatograph. The mobile carrier gas carries the
+components in the sample through the capillary column which
+contains the liquid stationary phase absorbed onto the solid support.
+The components slow down as they interact with the liquid stationary
+phase inside the column. The more soluble the component is in the liquid
+stationary phase, the slower it moves through the capillary column.
+The components of the mixture are separated depending on their
+solubility in the liquid stationary phase. The compounds in the
+mixture reach the detector at different times depending on their
+interactions with the stationary phase in the column. The compound
+retained in the column for the shortest time has the lowest retention
+time and is detected first. The retention time is the time taken for
+each component to travel through the column.
+Interpretation of a gas chromatogram
+Each component is detected as a peak on the gas chromatogram. Two
+pieces of information can be obtained from a gas chromatogram.
+Retention times can be used to identify the components present
+in the sample by comparing these to retention times for known
+components.
+Peak integrations (the areas under each peak) can be used to
+determine the concentrations of components in the sample.
+508
+29
+CHROMATOGRAPHY AND SPECTROSCOPY
+5 Allow the solvent to rise up the plate until it is about
+1 cm below the top of the plate. Remove the plate
+from the beaker and immediately mark the solvent
+front with a pencil. Allow the plate to dry.
+6 If there are any visible spots, circle them with a
+pencil. Alternatively hold a UV lamp over the plate and
+circle any spots that you can see. Sometimes the
+plate is sprayed with a chemical or a locating agent,
+such as iodine, to show the position of the spots that
+may be invisible to the naked eye.
+Figure 2 Developed TLC plate
+of a mixture of amino acids.
+The two spots correspond to
+the amino acids leucine and
+lysine. Here the locating agent,
+ninhydrin, has been used, which
+is specific to amino acids and
+related compounds
+In the steps above, why is it important that the
+solvent depth is less than 1 cm?
+Interpretation of a TLC plate
+Thin layer chromatograms are analysed by calculating the value for
+the retention factor R for each component. Each component can be
+identified by comparing its R value with known values recorded using
+the same solvent system, and absorbent.
+To calculate the R, value you use the formula:
+distance moved by the component
+T distance moved by the solvent front
+(9) Worked example: TLC
+A mixture of amino acids is analysed by TLC. The TLC plate
+Table 1 R values for six amino acids
+produced is shown in Figure 3. Identify the amino acids in
+Amino acid R.value
+the sample. R, values are provided in Table 1.
+alanine
+0.33
+Step 1: On the developed TLC plate, measure the distance moved aspartic acid
+0.24
+by each component (x) and the distance moved by the
+valine
+0.44
+solvent front from the sample line (v).
+leucine
+0.61
+Step 2: Work out the R, value for each component as
+cysteine
+0.37
+Step 3: Match the R value with the known values shown in Table 1. isoleucine
+0.53
+Blue spot:
+R
+x
+v
+=
+=
+=
+2.82
+4.63
+solvent front
+-
+-
+-
+45
+Green spot: R; = * = 40
+The blue spot matches
+the R, of leucine.
+The green spot is
+isoleucine.
+• The red spot is valine.
+2.04
+y=4.63
+Red spot:
+R = - = 463 = 0.44
+R = 0.61
+R=0.53
+R=0.44
+X= 2.04
+sample line
+It is common to run a TLC of a sample alongside pure samples
+of compounds that may be present. It is then easy to identify the
+amino acids in the unknown sample visually, without needing
+to calculate any R, values.
+Figure 3 TLC plate containing a mixture of
+substances
+507
+29
+CHROMATOGRAPHY AND SPECTROSCOPY
+Equivalent and non-equivalent protons
+For carbon-13 NMR, you saw that carbon atoms in the same chemical
+environment absorb at the same chemical shift value. These carbon
+atoms are equivalent to one another. For proton NMR, the same
+principle applies:
+• If two or more protons are equivalent, they will absorb at the same
+chemical shift, increasing the size of the peak.
+Protons of different types have different chemical environments
+and are non-equivalent - they absorb at different chemical shifts.
+A good way of visualising equivalent and non-equivalent protons is to
+look for any plane of symmetry. The examples below show different
+molecules containing more than one CH, group.
+ċ
+-
+O—
+H
+HH
+H
+Butanoic acid
+In butanoic acid, CH CH CH,COOH, the two CH, groups are clearly
+in different environments (Figure 2). Each CH, group is connected to
+different groups on one side and the protons in the two CH, groups
+are non-equivalent. There is no plane of symmetry and there are four
+proton environments giving four peaks in the proton NMR spectrum.
+CH3CH2CH2COOH
+4 environments
+4 peaks
+A Figure 2 Non-equivalent protons in
+butanoic acid
+symmetry
+Butanedioic acid
+In butanedioic acid, HOOCCH,CH,COOH, the two CH, groups are in
+the same environment (Figure 3). Each CH, group is connected to a
+CH, group on one side and a COOH group on the other side. There is a
+plane of symmetry between the two CH, group and the protons in the
+two CH, groups are equivalent. There are two proton environments
+giving two peaks in total:
+one peak for the two equivalent COOH protons
+one peak for the four equivalent protons in the two CH, groups.
+The proton NMR spectrum therefore has two peaks, one with twice
+the area of the other.
+H-
+0
+OH
+HOOCCH2CH2COOH
+A Figure 3 Equivalent protons in
+butanedioic acid
+CI — CH2 —C
+0—
+CH3
+Relative numbers of each type of proton
+In a carbon-13 NMR spectrum, the peak area is not directly
+related to the number of carbon atoms responsible for the
+peak. This all changes for proton NMR - the ratio of the
+relative areas under each peak gives the ratio of the number
+of protons responsible for each peak.
+The NMR spectrometer measures the area under each peak
+as an integration trace (mathematically, integration means
+the area under a curve). The integration trace is shown
+either as an extra line on the spectrum or as a printed
+number of the relative peak areas. This provides invaluable
+information for identifying an unknown compound.
+The proton NMR spectra of methyl chloroethanoate,
+CICH,COOCH,, shows an integration trace (the blue line)
+in the peak area ratio of 2 : 3 for the two protons in CH, and
+three protons in CH, (Figure 4).
+1
+3 2
+chemical shift/ppm
+Figure 4 Integration trace for methyl
+chloroethanoate, CICH,COOCHZ
+521
+29
+CHROMATOGRAPHY AND SPECTROSCOPY
+Interpreting carbon-13 NMR spectra
+The worked examples below show how carbon atoms can be matched
+to different carbon-13 NMR spectra, based on the number of peaks.
+Chemical shifts then allow the peaks to be assigned.
+Worked example: Isomers of alcohols
+The two spectra below are for two isomers of C,H,O that are
+alcohols. Identify the isomers that give each spectrum and assign
+each peak.
+Spectrum 1
+Spectrum 2
+TT
+60 40 20
+chemical shift/ppm
+60 40 20
+chemical shift/ppm
+0
+Step 1: Draw out the isomers of C,H,O that are alcohols and
+identify the number of chemical environments for the
+carbon atoms and the expected number of peaks.
+OH
+2 OH 321
+2
+OH
+Study tip
+The number of peaks is the same
+as the number of environments.
+A
+3D
+4 environments
+4 peaks
+4 environments
+4 peaks
+2 environments
+2 peaks
+3 environments
+3 peaks
+Step 2: Match the structures to the spectra from the number
+of peaks.
+• Spectrum 1 has three peaks and three environments which
+matches the three environments in structure D.
+Spectrum 2 has two peaks and two environments which
+matches the two environments in structure C.
+Step 3: Assign the peaks from the chemical shifts in Figure 1.
+Spectrum 1
+Spectrum 2
+21 OH
+3D
+2
+80
+60.40.20
+60
+40
+20
+chemical shift/ppm
+chemical shift/pom
+517
+CHROMATOGRAPHY AND SPECTROSCOPY
+29
+Identifying a phenol
+Phenols are acidic compounds which can be tested using pH indicator paper.
+Phenols are not as acidic as carboxylic acids and do not react with sodium
+carbonate.
+Phenol undergoes an electrophilic substitution reaction with bromine at
+room temperature. When bromine is added to an aqueous solution of phenol,
+the bromine is decolourised and a white precipitate is formed (Figure 8).
+Name the white precipitate that is formed.
+Figure 8 A white precipitate is formed
+when bromine is added to phenol
+Summary questions
+1 The gas chromatogram in Figure 9 was obtained from a sample of wine.
+Use the retention times in Table 3 to identify peaks 4, 7, and 8 in the sample.
+Compound
+ethanal
+ethanol
+propan-1-ol
+ethanoic acid
+2-methylbutan-1-ol
+Retention
+time / min
+2.0
+4.0
+8.2
+19.5
+12.0
+5
+6.
+10
+time (min)
+A Figure 9 Gas chromatogram of wine sample
+(3 marks)
+2 A sample of paint was analysed by TLC. The TLC plate is shown below.
+Calculate the R values for the components in the paint.
+(3 marks)
+solvent front
+sample lite
+A Figure 10 A TLC plate for a sample of paint
+3 Describe chemical tests that will enable you to distinguish between:
+a an aldehyde and a ketone
+b a phenol and an alkene
+C a ketone and a secondary alcohol.
+(1 mark)
+(1 mark)
+(1 mark)
+511
+29.2 Nuclear Magnetic Resonance
+(NMR) spectroscopy
+Specification reference: 6.3.2
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ NMR spectroscopy
+→ use of tetramethylsilane
+(TMS)
+→ the need for deuterated
+solvents, for example, CDCI.
+NMR spectroscopy
+Since its invention about 70 years ago, nuclear magnetic
+resonance (NMR) spectroscopy has revolutionised the analysis of
+organic compounds. The technique uses a combination of a very
+strong magnetic field and radio frequency radiation. With the right
+combination of magnetic field strength and frequency, the nuclei of
+some atoms absorb this radiation. The energy for the absorption can
+be measured and recorded as an NMR spectrum.
+Synoptic link
+See Topic 5.1, Electron structure,
+for details of electron spin.
+What is nuclear magnetic resonance?
+Nuclear spin
+You will remember that electrons have a property called spin. The
+nucleus also has a nuclear spin, that is significant if there is an
+odd number of nucleons (protons and neutrons). Almost all organic
+molecules contain carbon and hydrogen, mostly as the 'H and 12C
+isotopes, with a small proportion (1.1%) of the BC isotope. So for the
+organic chemist, NMR is relevant for 'Hand 13C, the isotopes with an
+odd number of nucleons.
+NMR spectroscopy can be used to detect isotopes of other elements
+with odd numbers of nucleons, such as 1°F and 31P. However 13C and
+especially 'H NMR spectroscopy are the commonest forms of analysis
+used. As a 'H nucleus consists of just a proton, 'H NMR is usually
+referred to as proton NMR.
+Resonance
+An electron has two different spin states. The nucleus also has two
+different spin states and these have different energies. With the right
+combination of a strong magnetic field and radio frequency radiation,
+the nucleus can absorb energy and rapidly flips between the two spin
+states. This is called resonance and the whole process gives the name
+'nuclear magnetic resonance'.
+The NMR spectrometer
+Radio frequency radiation has much less energy than the infrared
+radiation used in IR spectroscopy. The frequency required for
+resonance is proportional to the magnetic field strength and it is
+only in strong and uniform magnetic fields that this small quantity
+of energy can be detected. Typically a very strong super-conducting
+electromagnet is used, cooled to 4 K by liquid helium.
+Figure 1 shows a typical NMR spectrometer. You can see the large
+cylinder which houses the electromagnet, cooled by liquid helium.
+For organic chemistry, most routine spectrometers operate at
+Figure 1 A researcher adding a
+sample to a nuclear magnetic resonance
+(NMR) spectrometer
+512
+29
+29.3 Carbon-13 NMR spectroscopy
+B Worked example: Aromatic isomers
+For each isomer below, predict the number of peaks in its carbon-13
+NMR spectrum and the approximate chemical shifts for each peak.
+A CH B CH C CH D CH.CH
+CH3
+Step 1: Identify the number of chemical environments and
+number of peaks for the carbon atoms in each structure.
+Label each carbon atom on the formulae, as shown below.
+D
+A
+1CH3
+1CH3
+1CH3
+2 1
+CH CH3
+Study tip
+The number of peaks is the same
+as the number of environments.
+0
+0
+0
+1CH3
+4 environments 5 environments 3 environments 6 environments
+4 peaks
+5 peaks
+3 peaks
+6 peaks
+Step 2: Predict the approximate chemical shifts.
+Structure A four peaks
+• One peak at 8 = 0–50 ppm for the two C-CH, carbon atoms
+in environment 1.
+Three peaks at d = 110-160 ppm for aromatic carbon atoms in
+environments 2, 3, and 4.
+Structure B five peaks
+• One peak at 8 = 0–50 ppm for the two C-CH, carbon atoms
+in environment 1.
+Four peaks at 0= 110–160 ppm for aromatic carbon atoms in
+environments 2, 3, 4, and 5.
+Structure C three peaks
+• One peak at 8 = 0–50 ppm for the two C-CH, carbon atoms
+in environment 1.
+Two peaks at d = 110–160 ppm for aromatic carbon atoms in
+environments 2 and 3.
+Structure D six peaks
+Two peaks at d = 0–50 ppm for the one C—CH, carbon atom
+in environment 1 and the one C-CHA-C carbon atom in
+environment 2.
+Four peaks at d = 110-160 ppm for aromatic carbon atoms in
+environments 3, 4, 5, and 6.
+518
+29
+29.1 Chromatography and functional group analysis
+Qualitative analysis of organic functional groups
+Reactions can be carried out on a test-tube scale to identify the
+functional groups present in organic compounds. You have already
+met many tests for different functional groups throughout the course.
+These tests are summarised in Table 2 below.
+Table 2 Tests for functional groups
+Functional group
+Chemical test
+Observation
+alkene
+add bromine water drop-wise
+bromine water
+decolourised from
+orange to colourless
+chloroalkane - white
+precipitate
+1-chlorobutane
+1-bromobutane
+add silver nitrate and ethanol and
+warm to 50 °C in a water bath
+haloalkane
+bromoalkane - cream
+precipitate
+1-odobutane
+iodoalkane - yellow
+precipitate
+carbonyl
+add 2,4-dinitrophenylhydrazine
+orange precipitate
+aldehyde
+add Tollens' reagent and warm
+silver mirror
+primary and secondary
+alcohol, and aldehyde
+add acidified potassium dichromate(VI)
+and warm in a water bath
+colour change from
+orange to green
+carboxylic acid
+add aqueous sodium carbonate
+effervescence
+510
+29
+29.3 Carbon-13 NMR spectroscopy
+Carbon-13 NMR spectra for propanal and propanone
+Propanal and propanone are structural isomers of C,H,O. Propanal
+and propanone produce different 13C NMR spectra. The NMR spectra
+and the reasons for the difference are described below.
+1 Propanal, CH CH CHO
+There are three carbon atoms and these are clearly in three different
+environments as shown below.
+Carbon-1 is part of the CHO functional group.
+Carbon-2 is part of a CH, group between a
+CH, group and an aldehyde group.
+Carbon-3 is part of a CH group bonded to
+CH,CHO.
+I-
+H-CZ
+2 Propanone, CH COCH,
+There are three carbo atoms but only two different environments as
+shown below.
+Carbon-1 is part of the C=0 group.
+The other two carbon atoms, both labelled 2,
+have the same environment. They are
+positioned symmetrically and can both be
+described in an identical way - each carbon
+atom is part of a CH, group bonded to COCH,
+The carbon-13 NMR spectra for propanal and propanone are shown
+below. The peaks have been identified from the chemical shift values
+in Figure 1.
+HH
+H OH
+-
+HC-
+O
+H—
+C—
+C—
+H
+H
+H
+2
+3
+1
+200
+150 100
+chemical shift/ppm
+50
+0
+200
+200150100
+50
+150
+100
+chemical shift/ppm
+Propanal, CH CH CHO
+Carbon-1 at 8 - 203 ppm for CHO
+Carbon-2 at 8 - 37 ppm for C—C=0
+• Carbon-3 at 8 - 8 ppm for C-CH,
+A Figure 2 Carbon-13 NMR spectrum of propanal
+Propanone, CH,COCH,
+• Carbon-1 at 8 - 205 ppm for C=0
+Carbon-2 at 8 - 32 ppm for two carbon
+atoms of the type: CH,C=0
+A Figure 3 Carbon-13 NMR spectrum of propanone
+In the carbon-13 NMR spectrum for propanal, carbon-2 (CH) was
+assigned to the peak at 8 - 37 ppm. Although, this carbon atom falls
+into the same broad C-C environment as carbon-3 (CH), it is nearer
+to the oxygen atom connected to carbon-1 so it is likely to be shifted
+more than carbon-3.
+516
+29.3 Carbon-13 NMR spectroscopy
+Specification reference: 6.3.2
+Carbon-13 NMR spectroscopy
+A carbon-13 NMR spectrum provides two important pieces of
+information about a molecule:
+the number of different carbon environments - from the number
+of peaks
+the types of carbon environment present - from the chemical shift.
+Figure 1 shows chemical shift values for carbon atoms in different
+environments. The chemical shift 8 is referenced against TMS at
+d = 0 ppm. The chemical shift range of about 220 ppm is sufficiently
+wide to separate carbon atoms that have only slightly different
+environments.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ carbon-13 NMR spectroscopy
+the number of carbon
+environments
+the different types of carbon
+environment
+predictions about possible
+structures for an unknown
+molecule.
+13C NMR chemical shifts relative to TMS
+C-CI
+C-Br
+C-N
+C-0
+C-C
+220
+200
+180
+160
+140
+80
+60
+40
+20
+120 100
+8/ ppm
+chemical shift 8
+Carbon as part of C=0
+Carbon as part of C=C
+or aromatic ring
+Carbon bonded to an
+electronegative atom, e.g.,
+O, N, CI, Br
+Carbon bonded
+to carbon
+Figure 1 Carbon-13 NMR chemical shifts
+Study tip
+You do not need to memorise the
+chemical shifts of different groups
+as you will be provided with them
+on the Data Sheet.
+There are four main types of carbon atom that absorb over different
+chemical shift ranges, as shown by the labels below the chemical
+shift axis. The chemical shifts may also be outside of these ranges,
+depending on the solvent, concentration, and substituents.
+The chemical environment of a carbon atom is determined by the
+position of the atom within the molecule.
+• Carbon atoms that are bonded to different atoms or groups of
+atoms have different environments and will absorb at different
+chemical shifts.
+If two carbon atoms are positioned symmetrically within a
+molecule, then they are equivalent and have the same chemical
+environment. They will then absorb radiation at the same
+chemical shift and contribute to the same peak.
+515
+29
+CHROMATOGRAPHY AND SPECTROSCOPY
+Retention times
+Figure 6 shows a gas chromatogram run to investigate
+the presence of drugs in a urine sample. The analysis
+results show that five drugs were present in the sample,
+identified from their retention times. You can see from
+the relative sizes of the peaks that there is a different
+proportion of each drug.
+Drugs in Urine
+1. Amobarbital
+2. Phencyclidine
+3. Glutethimide
+4. Imipramine
+5. Codeine
+Concentration of components
+The concentration of a component in a sample is
+determined by comparing its peak integration (peak
+area) with values obtained from standard solutions of
+the component. The procedure is outlined below.
+1 Prepare standard solutions of known concentrations
+of the compound being investigated.
+time (min)
+2 Obtain gas chromatograms for each standard
+Figure 6 Gas chromatogram of drugs in urine sample
+solution.
+3 Plot a calibration curve (Figure 7) of peak area against
+concentration. This is called external calibration and offers a
+method for converting a peak area into a concentration.
+4 Obtain a gas chromatogram of the compound being investigated
+under the same conditions.
+5 Use the calibration curve to measure the concentration
+Synoptic link
+of the compound.
+See Topic 18.2, Rate graphs and
+Figure 7 shows gas chromatogram readings for four different
+orders, for use of a calibration
+concentrations of caffeine and the resulting calibration curve. It is then
+curve to determine concentrations
+just a matter of running the sample through the gas chromatograph
+using a colorimeter.
+and comparing the compounds peak area with the calibration curve.
+Chromatograms
+Calibration curve
+57
+5 +----------------------
+40 ug/ml
+------
+1
+L
+60 pg/ml
+60 ug/ml
+--
+relative peak area
+į
+L
+80 pg/ml
+80 ug/ml
+17--0
+--t&
+20
+40 60 80
+concentration pg/ml
+100
+100 ug/ml
+time
+Figure 7 External calibration technique to obtain a calibration curve for caffeine.
+The calibration curve can be used to determine concentrations from peak integrations
+made by the gas chromatograph
+509
+29
+29.5 Interpreting NMR spectra
+Step 4: Combine the information to suggest a structure.
+Combining the evidence from Steps 1-3, the correct
+structure is CH,CH,COOCH, (methyl propanoate), which
+has the given formula C,H,O,. The spectrum below shows
+how the splitting patterns, relative peak areas and chemical
+shifts provide the evidence for the identification.
+C-CH2-CH3
+OCH3 3
+3
+H2C-6
+3 CH3
+CH,CO2
+chemical shift/ppm
+2) Worked example: Isomer of C,H,CI
+The proton NMR spectrum below is for an isomer of C H Cl. The
+numbers are the relative peak areas. Analyse the spectrum to
+identify the compound.
+4
+3 2
+chemical shift/ppm
+Step 1: Analyse the types of proton present and how many of
+each type.
+There are two peaks so there are two types of proton.
+• From the relative peak areas, the ratio of types of protons is 1 : 6.
+• So the peaks are 3.8 ppm CH and 1.6 ppm 2 x CH,
+Step 2: Analyse the splitting patterns to find information about
+adjacent protons.
+The heptet at 3.8 ppm indicates 6 H atoms on adjacent
+C atoms by the n+1 rule (6 + 1 = 7) which must be two CH,
+groups as (CH3)2.
+The doublet at 1.6 ppm indicates an adjacent CH by the n+1
+rule (1 + 1 = 2).
+The combination of a doublet at 8 = 1.6 ppm and a heptet
+at 8 = 3.8 ppm indicates CH(CH2)2.
+526
+29
+29.2 Nuclear Magnetic Resonance (NMR) spe
+magnetic field
+sample tube
+radio frequency
+input
+radio frequency
+output
+spectrum
+A Figure 5 The set-up within an NMR spectrometer
+Synoptic link
+See Topic 2.1, Atomic structure and
+isotopes, for information about
+deuterium.
+Deuterated solvents
+Molecules of most common solvents contain carbon and hydrogen
+atoms, which will produce a signal in both 13C and H NMR spectra.
+A deuterated solvent is usually used in which the 'H atoms have been
+replaced by 2H atoms (deuterium, D). Deuterium produces no NMR
+signal in the frequency ranges used in 'Hand BC NMR spectroscopy.
+Deuterated trichloromethane, CDC1, is commonly used as a solvent
+in NMR spectroscopy, but this will still produce a peak in a carbon-13
+NMR spectrum. The computer usually filters out this peak before
+displaying the spectrum.
+Summary questions
+1 What is the standard reference chemical for chemical shift
+measurements?
+(1 mark)
+2 Why are deuterated solvents used? Give an example of a
+deuterated solvent.
+(2 marks)
+(1 mark)
+3 What is meant by chemical shift?
+514
+29
+CHROMATOGRAPHY AND SPECTROSCOPY
+radio frequencies of 100, 200, or 400 MHz. Universities have NMR
+spectrometers but they are far too expensive to be viable for schools
+and colleges. They are also found in hospitals as MRI (magnetic
+resonance imaging) body scanners, a technique that uses the same
+technology.
+Figure 2 An MRI body scanner,
+essentially a large horizontal NMR
+spectrometer
+Chemical shift and TMS
+In an organic molecule, every carbon and hydrogen atom is bonded to
+other atoms. All atoms have electrons surrounding the nucleus, which
+shifts the energy and radio frequency needed for nuclear magnetic
+resonance to takes place. The frequency shift is measured on a scale
+called chemical shift , in units of parts per million (ppm).
+Tetramethylsilane (TMS), (CH), Si, is used as the standard reference
+chemical against which all chemical shifts are measured. TMS is given
+a chemical shift value of 0 ppm.
+The amount of chemical shift is determined by chemical environment,
+especially the presence of nearby electronegative atoms (Figure 3).
+Study tip
+CEO
+CEC
+C-C
+C
+-
+Si
+C- 0
+electronegative
+atoms
+In an NMR spectrum, the chemical
+shift in ppm increases in value
+from right to left.
+-bonds
+CH3
+energy
+Hzc
+'CH
+So the TMS peak, at 0 ppm, is
+alway found at the right-hand end
+of the chemical shift scale.
+CH3
+TMS
+chemical shift &
+O ppm
+A Figure 3 Chemical shift
+So depending on the chemical environment, nuclear magnetic
+resonance requires a different energy and frequency, producing
+absorption peaks at chemical shifts. This means that the carbon and
+hydrogen arrangement in a molecule can be mapped out without
+needing to carry out conventional chemical tests and without
+destroying the organic compound under test.
+Running the spectrum
+In an NMR spectrometer, the sample is dissolved in a solvent and
+placed in a narrow NMR sample tube, together with a small amount of
+TMS (Figure 4).
+The tube is placed inside the NMR spectrometer, where it is spun to
+even out any imperfections in the magnetic field within the sample.
+The spectrometer is zeroed against the TMS standard and the sample
+is given a pulse of radiation containing a range of radio frequencies,
+whilst maintaining a constant magnetic field. Any absorptions of energy
+resulting from resonance are detected and displayed on a computer
+screen (Figure 5). After analysis, the sample can be recovered by
+evaporation of the solvent.
+Figure 4 NMR sample tubes
+containing samples for analysis by NMR
+513
+29.5 Interpreting NMR spectra
+Specification reference: 6.3.2
+Interpreting proton NMR spectra
+There are no set rules about how to identify a compound from a proton
+NMR spectrum. Although the worked examples follow a step-by-step
+procedure, you can solve spectral problems in almost any order. With
+one spectrum, you might start with the splitting patterns (especially with
+a triplet/quartet combination), for another you might start by looking
+at chemical shifts. It depends on which piece of evidence is the first that
+you see and there are countless ways of solving these problems.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ analysis of proton NMR
+spectra of an organic
+molecule
+predictions about possible
+structures for the molecule
+prediction of a carbon-13 or
+proton NMR spectrum for a
+given molecule.
+O Worked example: Isomer of C,H,02
+The proton NMR spectrum below is for an isomer of C,H,0,. The
+numbers are the relative peak areas. Analyse the spectrum to
+identify the compound.
+3 2 1 0
+chemical shift/ppm
+Step 1: Analyse the types of proton present and how many of
+each type.
+There are three peaks so there are three types of proton.
+From the relative peak areas, the ratio of types of
+protons is 3:2:3.
+• So the peaks are 3.7 ppm CH , 2.3 ppm CH,
+1.1 ppm CH2
+Step 2: Analyse the splitting patterns to find information about
+adjacent protons.
+The singlet at 3.7 ppm indicates no adjacent H atoms
+by the n + 1 rule (0 + 1 = 1).
+The triplet at 1.1 ppm indicates an adjacent CH, by
+the n + 1 rule (2 + 1 = 3).
+The quartet at 2.3 ppm indicates an adjacent CH, by
+the n + 1 rule (3 + 1 = 4).
+The combination of a triplet d = 1.1 ppm and a
+quartet at d = 2.3 ppm indicates CH CH.
+Step 3: Using the data in Topic 29.4 Figure 1, analyse the
+chemical shifts for the types of proton.
+• The CH, peak at 8 = 3.7 ppm has the type H-6-0,
+supporting the sequence CH-0.
+The CH, peak at 8 = 2.3 ppm has the type H-C=0,
+supporting the sequence CH, C=0.
+The CH, peak at 8 = 1.1 ppm has the type H-C-R,
+supporting the sequence CH, C.
+525
+29
+CHROMATOGRAPHY AND SPECTROSCOPY
+Step 3: Using the data in Topic 29.4, Figure 1 to analyse the
+chemical shifts for the types of proton.
+• The CH peak at 8 = 3.8 ppm has the type H-C-Cl,
+supporting the sequence CH-Cl.
+• The (CH2), peak at 8 = 1.6 ppm has the type H-C-R,
+supporting the sequence C(CH3)2.
+Step 4: Combine the information to suggest a structure.
+Combining the evidence from Steps 1–3, the correct
+structure is (CH2),CHCI (2-chloropropane), which has
+the given formula C,H_Cl. The spectrum below shows
+and how the splitting pattern, relative peak areas and
+chemical shifts provide the evidence for the identification.
+CI
+CH3
+two CH3
+CHM
+chemical shift/ ppm
+Predicting NMR spectra
+Using the information from Topics 29.3 and 29.4, you can now predict
+both carbon and proton NMR spectra.
+I–0–
+H3C —
+1
+9) Worked example: Predicting a carbon-13 NMR spectrum
+Predict the carbon-13 NMR spectra of 2-hydroxypropanoic acid,
+CH,CHOHCOOH.
+Step 1: Draw out the structure
+Step 2: Identify the number of chemical environments.
+There are three types of carbon atoms giving three peaks.
+Step 3: Using a data sheet in Topic 29.3, Figure 1. predict the
+chemical shifts.
+• Carbon-1 is the type C-C, giving a peak at 8 = 0–50 ppm.
+Carbon-2 is the type C—0, giving a peak at
+d = 50-90 ppm.
+• Carbon-3 is the type C=0, giving a peak at
+8= 160-220 ppm.
+H
+CC
+OH
+OH
+Checking the prediction
+The actual carbon-13 NMR spectrum of
+CH,CHOHCOOH is shown to the right, which
+is in good agreement with the prediction.
+180
+160
+140 120 100 80
+chemical shift/ppm
+60
+40
+20
+0
+527
+29
+29.5 Interpreting NMR spectra
+Worked example: Predicting a proton NMR spectrum
+Predict the proton NMR spectra of 2-hydroxypropanoic acid,
+CH,CHOHCOOH.
+Step 1: Draw the structure and identify the number of chemical
+environments.
+This is the same molecule as in the carbon-13 NMR prediction.
+There are four types of protons which should give four peaks.
+HaC—
+C—
+OH 3
+OH 4
+Step 2: Use the data in Topic 29.4, Figure 1. predict the chemical
+shifts.
+Protons 1 are the type H-C-R, giving a peak at
+8= 0.5-2.0 ppm.
+• Proton 2 is the type H-C-0, giving a peak at 8 = 3.0-4.2 ppm.
+• Proton 3 is the type OH, giving a peak anywhere: 8 = 0-12 ppm
+• Proton 4 is the type COOH, giving a peak at d = 10–12 ppm.
+Step 3: Predict the relative peak heights from the number of each
+type of proton.
+The relative peak heights for protons 1-4 would be 3:1:1:1
+(CHZ, CH, OH, COOH)
+Step 4: Predict the splitting patterns from the number of H atoms
+on adjacent C atoms.
+• The protons in environment I have one proton on the
+adjacent C atom (i.e. CH) giving a doublet by the n + 1 rule
+(3 +1 = 2).
+The protons in environment 2 have three protons on the
+adjacent C atom (i.e. CH,), giving a quartet by the n + 1 rule
+(3 + 1 = 2).
+The OH and COOH protons would give broad peaks and
+would not show splitting.
+Checking the prediction
+The actual proton NMR spectrum of CH CHOHCOOH is shown
+below, which is in good agreement with the prediction.
+Notice that the quartet at d = 4.2 for the CH group is at the upper
+end of our predicted chemical shift range of 3.0-4.2 ppm. If you
+look at the structure, this CH group is adjacent to both an O atom
+and a C=O group, two groups that increase the chemical shift.
+12
+10
+8
+6
+chemical shift/ppm
+528
+29
+29.6 Combined techniques
+164 -2
+Study tip
+In this example, the identification
+of the functional group is uncertain
+from the IR spectrum.
+Study tip
+The peaks at 6.9-8.0 are grouped
+together as one type of carbon
+atom. The reason for the two
+groupings within the 4 protons will
+be revealed later.
+. Find the molecular mass by comparing the molecular mass with
+empirical formula mass
+Relative mass of empirical formula = 12.0 x 5+1.0 x 6+16.0 x1
+= 82.0
+Number of C5H, 0 units in one molecule = 1
+82.0
+Molecular formula = CH.0 x 2 =C,H,O,
+Step 3: Identify the functional groups using the infrared spectrum and the
+Data sheet.
+Peak at 1710 cm-indicates the presence of a C= group in an
+aldehyde, ketone or ester (cannot be a carboxylic acid as no broad
+peak present at 2500-3300 cm-1 for 0—H).
+Step 4: Analyse the 13C NMR spectrum.
+There are 8 peaks and 8 types of carbon atom (8 carbon environments).
+Step 5: Analyse the proton NMR spectrum.
+Analyse the types of proton present and how many of each type.
+There are four peaks so there are four types of proton.
+From the relative peak areas, the ratio of protons from the left is
+4:3:2:3
+So the peaks are:
+6.9–8.0 ppm: 4 aromatic (Ar) protons 4:3:2:3
+3.8 ppm: CH, 4:3:2:3
+2.6 ppm: CH, 4:3:2:3
+1.2 ppm: CH, 4:3:2:3
+Analyse the splitting patterns to find information about adjacent
+protons.
+The triplet at 1.2 ppm indicates an adjacent CH, by the n + 1 rule
+(2 + 1 = 3).
+The quartet at 2.6 ppm indicates an adjacent CH, by the n + 1 rule
+(3 + 1 = 4).
+The singlet at 3.8 ppm indicates no adjacent H atoms by the n + 1
+rule (0 + 1 = 1).
+The combination of a triplet 8 = 1.2 ppm and a quartet at 8 = 2.6
+ppm indicates CH CH2
+Use the data in Topic 29.6, Figure 1, to analyse the chemical
+shifts for the types of proton.
+The CH, peak at 8 = 3.8 ppm has the type 1–6–0, supporting the
+sequence 0-CH.
+The CH, peak at 8= 2.6 ppm has the type H-C=0 or H-C-Ar,
+supporting the sequence CH2-C=O or CH2-Ar.
+The CH,peak at 8 = 1.2 ppm has the type H-C-R, supporting the
+sequence CH3-C.
+Study tip
+Look again at the aromatic protons
+in the 1H NMR spectrum.
+They appear to be split into two
+doublets.
+This splitting pattern is
+characteristic of 1,4-disubstitution.
+1,2 and 1,3 disubstitutions
+produce more complex multiplets.
+From your knowledge of splitting
+patterns, you should be able to
+see why.
+532
+29
+CHROMATOGRAPHY AND SPECTROSCOPY
+Analysis of an unknown compound
+Chemical analysis of an unknown compound gave the percentage composition
+by mass: C, 73.17%;H, 7.32%; 0, 19.51%.
+The mass spectrum, infrared spectrum, carbon-13, and proton NMR spectra
+are shown in Figures 2-5.
+Analyse this information to suggest the structural formula of the compound.
+relative intensity
+ttransmittance [%]
+500
+25 50 75 100 125 150
+m/z
+Figure 1 Mass spectrum of unknown compound
+4000 3000 2000 1500 1000
+wavenumber/cm-1
+A Figure 2 Infrared spectrum of unknown compound
+1
+180 160 140 120 100 80 60 40 20 0
+chemical shift/ppm
+A Figure 3 13C NMR spectrum of unknown compound
+9 8 7 6 5 4 3 2
+chemical shift/ppm
+A Figure 4 Proton NMR spectrum of unknown compound
+as
+Step 1: Determine the empirical formula from the elemental analysis data.
+Convert percentage by mass to amounts in moles: C, 73.17%; H, 7.32%; 0, 19.51%
+n(C) = 13,7 -6.0975 mol n(H) = 2,32 = 7.32 mol n(0) = 19.51– 1.2194 mol
+1.0
+16.0
+n(C): n(H): n(0) = 5.9903
+Synoptic link
+Find the smallest whole number ratio and the empirical formula.
+6.0975 7.32 1.2194 – 5:6:1
+1.2194 " 1.2194 1.2194
+Empirical formula = CH 0
+Step 2: Determine the molecular formula using the mass spectrum and the
+empirical formula
+Use the m/z value for the molecular ion peak to determine the
+molecular formula.
+From the mass spectrum, molecular ion peak is at m/z = 164;
+so molecular mass = 164
+See Topic 3.2, Determination
+of formulae, for details of
+empirical formula and molecular
+calculations.
+See Topic 17.2 Chapter 17, Mass
+spectrometry, for molecular ion
+peak.
+531
+29
+CHROMATOGRAPHY AND SPECTROSCOPY
+Aromatic protons
+From Figure 1, aromatic protons are expected to absorb in the range
+8 = 6.2–8.0 ppm. Splitting does occur but this can be difficult to
+interpret. You are only expected to interpret aromatic protons as
+groups of protons often forming one or more mutiplets.
+Splitting patterns
+1
+1
+1
+Pascal's
+triangle
+The relative peak areas within spin-spin coupling follow
+a pattern called Pascal's triangle. If you take A level
+Mathematics, you may have come across this pattern.
+From Table 1, as the number of sub-peaks increases, the
+new extra peak has a relative area equal to the sum of the
+peak areas immediately above:
+1 2 1
+1 3 3 1
+Predict the relative peak areas in the splitting patterns
+for a quintet (5), hextet (6), and heptet (7).
+Spin-spin coupling occurs in pairs
+In an NMR spectrum, if you see one splitting pattern there must always
+be another - splitting patterns occur in pairs because each proton splits
+the signal of the other. This can make it very easy to spot a structural
+feature when analysing a molecule. There are several very common
+splitting pairs that you may see in a spectrum and these are shown in
+Figure 6 below, together with the structural feature causing the splitting.
+You don't need to learn these as they can all be worked out using the
+n + 1 rule. But you will quickly come to recognise the triplet/quartet
+combination for a CH,CH, combination because it is so common.
+CH2CH3
+CH-
+CH2
+CH2 -
+CH2
+w
+ie M
+CH (CH3)2
+CHCH
+CH-
+CH3
+Figure 6 Common pairs of splitting patterns and their structural features
+Hydroxyl and amino protons
+Organic compounds may contain protons that are not bonded to
+carbon atoms, for example, organic compounds often contain -OH
+and -NH protons.
+523
+CHROMATOGRAPHY AND SPECTROSCOPY
+29
+Summary questions
+1 Predict the proton NMR spectrum of CH,COOCH,CHZ.
+(3 marks)
+2 a Identify and explain the peaks in the NMR spectrum for
+HOC(CH3) COCH(CH3)2 below.
+The splitting pattern for the peak at d = 1.8 ppm has also been shown
+magnified.
+Em
+chemical shift/ ppm
+(4 marks)
+b The proton NMR spectrum below is for an isomer of CH.0. The
+numbers are the relative peak areas. Analyse the spectrum to
+identify the compound.
+chemical shift/ppm
+(4 marks)
+3 Predict the differences between the proton NMR spectra of the following.
+a CH,COCH,CH,CH, and CH CH COCH,CHZ
+(4 marks)
+b CHCHCOOCH, and CH COOCH,CH
+(4 marks)
+529
+29
+CHROMATOGRAPHY AND SPECTROSCOPY
+4
+transmittance (%)
+4000
+3000
+1000
+500
+An industrial chemist discovered five bottles
+of different chemicals (three esters and two
+carboxylic acids) that were all labelled CH,60.
+The different chemicals had the structural
+formulae below.
+CH,CH,COOCH,CH (CH3),CCOOH
+CH,COOCH(CH3)2 (CH3)2CHCH,COOH
+(CH3)2CHCOOCH,
+a The chemist used infrared and 13C NMR
+spectroscopy to identify the two carboxylic
+acids and to distinguish between them.
+How do the spectra allow the carboxylic
+acids to be identified and distinguished
+from one another?
+(3 marks)
+b The chemist analysed one of the esters by
+TH NMR spectroscopy. The spectrum is
+shown below.
+2000 1500
+wavenumber /cm-1
+relative intensity
+expansion of multiplet
+centred at 8 2.7 ppm
+25
+50
+75
+m/z
+100
+125
+150
+absorption
+The 13C NMR spectra of A and B are shown
+below.
+compound A
+1
+0
+chemical shift/ppm
+150
+100 50
+chemical shift / ppm
+compound B
+5
+Analyse the splitting patterns and the
+chemical shift values to identify the ester.
+Give your reasoning.
+In your answer, you should use appropriate
+technical terms, spelt correctly. (6 marks)
+F324 Jan 2010 (4
+Compounds A and B are structural isomers.
+Elemental analysis gave the following
+percentage composition by mass of A and B:
+C, 40.68% H, 5.08% 0, 54.24%.
+The infrared and mass spectra of compounds
+of A and B are very similar. The spectra for A
+are shown below.
+150
+100
+50
+chemical shift / ppm
+a Using the analytical data, determine the
+structures of compounds A and B.
+Show all your reasoning. (6 marks)
+b Predict the IH NMR spectra of A and B.
+Show all your reasoning. (6 marks)
+What difference, if any, would there be if
+the 'H NMR spectra were run with a few
+drops of D,O added? Explain your answer
+(1 mark)
+535
+29.6 Combined techniques
+Specification reference: 6.3.2
+Structure determination
+In practice, organic chemists use and interpret information from
+a variety of sources when determining the structure of an organic
+molecule.
+A typical sequence for identification would include all of the
+following.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ deduction of the structures
+of organic compounds from
+different analytical data
+including:
+i elemental analysis
+ii mass spectra
+jii IR spectra
+iv NMR spectra.
+C: 64.82%
+H: 13.60%
+0:21.58%
+Elemental analysis
+Use of percentage
+composition by mass to
+determine the empirical
+formula of a compound.
+Synoptic link
+You need to be familiar
+with these techniques.
+You have covered NMR
+spectroscopy in this
+chapter, but if you need
+to revise any of the other
+techniques, use the
+following topics:
+relative intensity
+Mass spectra
+Use of the molecular
+ion peak to determine
+the molecular mass
+and fragment ions to
+determine parts of the
+molecule. The molecular
+formula can then be
+determined from the
+empirical formula and
+the molecular mass.
+O
+trenmekle polpette mit optim plorar la contrariu propunereaporwruhnurmpinkorporation
+25 50 75 100 125 150
+m/z
+Topic 3.1, Amount of
+substance and the
+mole, for elemental
+analysis to determine
+the empirical formula
+Topic 17.1, Mass
+spectrometry, for
+Mass spectra
+Topic 17.2, Infrared
+spectroscopy, for
+IR spectra.
+ttransmittance [%]
+Infrared spectra
+Use of absorption peaks to
+identify bonds present and
+functional groups
+4000
+3000
+1000
+500
+2000 1500
+wavenumber/cm-1
+NMR spectra
+To determine the number
+and types of carbon and
+hydrogen atoms from the
+chemical shifts of peaks
+and the order of atoms
+within molecules from
+splitting patterns.
+9
+8
+7
+6
+3
+2
+1
+0
+5 4
+chemical shift/ppm
+530
+29
+29.4 Proton NMR spectroscopy
+NMR spectrum of CH OH
+broad
+OH
+peak
+CHE
+The functional groups involved include:
+alcohols, ROH, phenols, ArOH, and carboxylic acids, RCOOH
+• amides, RNH,, amides, RCONH,, and amino acids, RCH(NH,)COOH.
+In solution, NH and OH protons may be involved in hydrogen bonding
+and the NMR peaks are often broad and of variable chemical shift.
+In Figure 1, you can see that OH and NH peaks can occur at almost
+any chemical shift. Carboxyl COOH protons are more predictable,
+absorbing at 10-12 ppm.
+The broadening of the peaks also means that OH and NH protons are
+not usually involved in spin-spin coupling. All this can make assigning
+OH and NH protons difficult.
+4
+H-
+0-
+CH?
+3
+NMR spectrum of CH3OH with D20 added
+OH peak
+disappears
+CH3
+4 D-O-CH33
+A Figure 7 NMR spectra of methanol,
+CH,OH, run without and with 0,0
+Proton exchange
+Chemists have devised a technique called proton exchange for
+identifying -OH and -NH protons:
+1 A proton NMR spectrum is run as normal.
+2 A small volume of deuterium oxide, D,O, is added, the mixture is
+shaken and a second spectrum is run.
+Deuterium exchanges and replaces the OH and NH protons in the
+sample with deuterium atoms. For example, the following equilibrium
+is set up with methanol:
+CH,OH + D20 = CH OD + HOD
+So the second spectrum is essentially being run on CH,OD. As
+deuterium does not absorb in this chemical shift range, the OH peak
+disappears. You can see this for methanol in Figure 7.
+Synoptic link
+In Topic 29.2, Nuclear magnetic
+resonance (NMR) spectroscopy, you
+came across deuterated solvents.
+Summary questions
+Use the proton chemical shifts given in Figure 1 to help
+you answer these questions.
+1 For each compound below, predict:
+i the number of peaks
+ii the relative peaks areas
+iii any difference in the presence of D,0.
+a CH,COOH
+b CH, CHO
+C CH,COCH,
+d CH COOCH, CH2
+e H,NCH(CH)COOH
+3 a Name the structural sequence indicated by the
+presence of the following splitting patterns in a
+proton NMR spectrum:
+i triplet and quartet
+(1 mark)
+ii quartet and doublet
+(1 mark)
+iii heptet and doublet
+(1 mark)
+iv doublet and triplet
+(1 mark)
+v two triplets
+(1 mark)
+vi two doublets
+(1 mark)
+Predict the splitting patterns in the proton NMR
+spectra of the three compounds in question 2.
+(6 marks)
+(3 marks)
+(3 marks)
+(3 marks)
+(3 marks)
+(3 marks)
+2 For each compound below, predict:
+i the number of peaks
+ii the type of proton and chemical shift
+iii the relative peaks areas
+a HOCH,CH,OH
+b HOCH,CH,CH,OH
+c (CH), CHOH
+(3 marks)
+(3 marks)
+(3 marks)
+524

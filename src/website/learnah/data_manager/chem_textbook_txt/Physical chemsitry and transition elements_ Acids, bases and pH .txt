@@ -1,0 +1,1534 @@
+20
+ACIDS, BASES, AND PH
+You know this fact already, but the very reason that neutral water has
+a pH of 7 is the K value of 1.00 x 10-14 mol² dm-6.
+KADH ONE TH NETER
+5.48
+16.30
+What about solutions of acids and alkalis?
+The ionic product of water K is essentially an equilibrium constant
+that controls the concentrations of H+ (aq) and OH-(aq) in aqueous
+solutions.
+In any aqueous solution, there will always be both H(aq) and
+OH (aq) ions present such that [H+(aq)] [OH-(aq)] = K.
+A solution is acidic when [H+(aq)] > [OH-(aq)]
+A solution is neutral when [H+(aq)] = [OH-(aq)]
+A solution is alkaline when [H+(aq)] < [OH-(aq)]
+So a solution that is acidic still contains OH-(aq) ions, it is just that
+there are more H(aq) ions (and vice versa for an alkaline solution).
+The value of K 1.00 x 10-14 mol2 dm6 at 298 K (25 °C), controls the
+concentrations of H(aq) and OH(aq).
+Figure 2 ApH meter measuring
+the pH of rainwater. Pure (distilled and
+deionised) water is considered neutral
+at pH 7 There are several reasons why
+water may deviate from pH 7, including
+the presence of dissolved salts and
+gases. Rainwater tends to have a pH
+somewhere in the range 5-6 (the
+sample here has a pH of 5.48)
+For pH values that are whole numbers, it is easy to work out the
+H(aq) and OH(aq) concentrations as the indices for [H(aq)] and
+[OH-(aq)] add up to -14.
+In an acid solution with a pH of 3:
+[H+(aq)] = 10-'mol dm3
+[OH-(aq)] = 10-11 mol dm-3
+If the pH value is not a whole number, you will need to do a little
+more work as in the worked example below.
+Study tip
+For [H+(aq)] = 10-3 mol dm-3
+[OH(aq)] = 10-11 mol dm-
+(-3) + (-11)=-14
+6 Worked example: Calculating [H+(aq)] and [OH-(aq)]
+in aqueous solutions 1
+What are the concentrations of H(aq) and OH-(aq) ions in a
+solution with a pH of 3.25 at 25°C?
+Step 1: Use your calculator to find [H+ (aq)].
+[H+ (aq)] = 10-pH = 10-3.25 = 5,62 x 104 mol dm-
+Step 2: Calculate [OH-(aq)] from K, and [H+ (aq)].
+K = [H+ (aq)] [OH-(aq)] = 1.00 x 10-14
+[OH(aq) =—KW - 1.00 x 10-14
+[H+(aq)] 5.62 x 10-4
+= 1.78 x 10-11 mol dm-3
+Study tip
+K is the key to working out
+[H+(aq)] and [OH-(aq)].
+327
+20
+20.5 pH and strong bases
+Worked example: Calculating [H+ (aq)] and [OH- (aq)]
+in aqueous solutions 2
+What is the pH of a solution with [OH- (aq)] = 2.00 x 10-2 mol dm-
+at 25°C?
+Step 1: Calculate [H+ (aq)] from K, and [OH-(aq)].
+K = [H+ (aq)] [OH-(aq)] = 1.00 x 10-14
+_ KW
+[H+ (aq)] =
+1.00 x 10-14
+[OH- (aq)] 2.00 x 10-2
+= 5.00 x 10-13 mol dm-
+Step 2: Use your calculator to find pH.
+pH = -log[H+ (aq)] = -log(5.00 x 10-B) = 12.30
+Synoptic link
+For bases and alkalis, see Topic 4.1,
+Acids, bases, and neutralisation.
+The pH of solutions of strong bases
+An alkali is a soluble base that releases OH-ions in aqueous solution.
+A strong base is an alkali that completely dissociates in solution. For
+example, sodium hydroxide, NaOH, is a strong alkali and completely
+dissociates:
+NaOH(aq) Nat(aq) + OH-(aq)
+Imol
+I mol
+NaOH is a monobasic base as each mole of NaOH releases one mole of
+OH(aq) ions.
+The pH of a strong base can be calculated from:
+• the concentration of the base
+• the ionic product of water K
+O Worked example: Calculating the pH of a solution of
+a strong base
+A solution of NaOH has a concentration of 0.0750 moldm".
+What is the pH at 25°C?
+Study tip
+Each mole of a dibasic base, such
+as Ca(OH), releases two moles of
+OH-ions.
+Ca(OH)2(aq) Ca2+ (aq) + 2OH- (aq)
+1 mol
+2 mol
+So in a pH calculation:
+[OH-(aq)] = 2 x [Ca(OH), (aq)]
+Step 1: Convert [NaOH(aq)] into [OH-(aq)].
+NaOH is a strong monobasic alkali and completely
+dissociates.
+TOH(aq)] = [NaOH(aq)] = 0.0750 moldm-3
+Step 2: Use K, and [OH-(aq)] to find [H+ (aq)].
+Kw = [H+ (aq)] [OH(aq)] = 1.00 10-14 moldm
+K 1.00 x 10-14
+Ha] 5 TOH-(aq)]
+-= 1.33 x 10-13 moldm-3
+0.0750
+Step 3: Use your calculator to find pH.
+pH = -log[H+ (aq)] = -log(1.33 x 10-13) = 12.88
+328
+20
+ACIDS, BASES, AND PH
+c (i) Calculate the concentration of H+ (aq)
+ions in water at 50°C. (1 mark)
+(ii) Deduce the concentration of OH(aq)
+ions in the water at 50°C. (1 mark)
+(iii) Calculate K at 50°C. (2 marks)
+d Predict, with a reason, the sign of AH for
+the dissociation of water.
+(1 mark)
+OCR F325 Jun 11 Q4(a)-(d)
+7 Sodium hydroxide, NaOH, is a strong alkali
+and vitamin C is a weak Brønsted-Lowry acid.
+a What is meant by:
+(i) a strong alkali
+(1 mark)
+(ii) a weak Brønsted-Lowry acid? (2 marks)
+A student needs to prepare 50.0 cm of a
+solution of NaOH with a pH 12.75 at 25°C.
+(i) Calculate the concentration, in
+mol dm-, of this solution of NaOH.
+(2 marks)
+(ii) Calculate the mass of NaOH that the
+student needs to use. (2 marks)
+c Vitamin C, CH.O, has a K, value of
+6.76 x 10-moldm-?. The equilibrium for
+the dissociation of vitamin C in water is
+shown below:
+CH,O,(aq) = H+ (aq) + CH,0(aq)
+0.500g of Vitamin C was dissolved in water
+to form a solution with a volume of 125 cm.
+(i) Write an expression for the acid
+dissociation constant of vitamin C.
+(ii) Calculate the pH of the solution
+formed.
+(6 marks)
+8 (a) Nitric acid, HNO,, is a strong Brønsted-
+Lowry acid. Nitrous acid, HNO,, is a weak
+Brønsted-Lowry acid with a K, value of
+4.43 x 10-4moldm .
+(i) What is the difference between a
+strong acid and a weak acid? (1 mark)
+(ii) What is the expression for the acid
+dissociation constant K of nitrous
+acid, HNO,?
+(1 mark)
+(iii) Calculate the pH of 0.375 mol dm3
+nitrous acid, HNO,. Give your answer
+to two decimal places. (2 marks)
+(iv) A student suggests that an acid-base
+equilibrium is set up when nitric acid
+is mixed with nitrous acid.
+Complete the equation for the
+equilibrium that would be set up and
+label the conjugate acid-base pairs.
+HNO, + HNO2 = ....... + ........
+++++ ++++++ ++++
+............... (2 marks)
+Calcium hydroxide, Ca(OH), is a strong
+Brønsted-Lowry base.
+(i) Explain what is meant by the term
+Brønsted-Lowry base. (1 mark)
+(ii) Calculate the pH of 0.0400 mol dm-3
+Ca(OH),. Give your answer to two
+decimal places.
+(3 marks)
+c Aqueous calcium hydroxide is added to
+nitrous acid, HNOZ
+Write the overall equation and the ionic
+equation for the reaction that takes place.
+(2 marks)
+OCR F325 Jan 12 Q4(a)-(0)
+9 Compounds A and HA are two carboxylic acids.
+a Compound A is a straight chain organic
+acid. A chemist analysed a sample of acid
+A as below.
+The chemist first prepared a 250 cm solution
+of A by dissolving 10.8g of A in water.
+In a titration, 25.00 cm 0.500 moldm-3 NaOH
+were neutralised by exactly 21.40 cm of
+solution A.
+Calculate the pH of the NaOH(aq) used in the
+titration.
+Use the results to calculate the molar mass of
+acid A and suggest its identity. (7 marks)
+2816/01 Jan 2003 Q4(b)
+b A carboxylic acid HA is a food additive
+used as a preservative in cakes.
+The K, value of HA is 1.51 x 10-5 mol dm-.
+A student analyses a sample of HA using the
+procedure below.
+A student dissolves 0.7369 g of HA in water
+and makes the solution up to 1.00 dm². The
+student measures the pH of the resulting
+solution as 3.52.
+Determine the molar mass of HA and suggest
+a possible formula for HA.
+Show all your working.
+(6 marks)
+F325 Jan 2013 7(c) (i)
+331
+20
+20.2 The pH scale and strong acids
+Step 2: Find the pH values before and after dilution.
+HCl is a strong acid and completely dissociates:
+[H+ (aq)] = [HCl(aq)]
+Before dilution, [H+(aq)] = 0.100
+pH = -log(0.100) = 1.00
+After dilution, [H(aq)] = 0.0500
+pH = -log(0.0500) = 1.30
+Changing the concentration by a factor of 2 changes the
+pH by 0.30.
+Summary questions
+1 a Calculate how many times more hydrogen ions there are in
+a 1 dm solution of pH 3 than a 1 dm solution of pH 9. (1 mark)
+b A solution has 100 000 000 000 times more hydrogen ions than a
+solution of pH 13, both solutions having the same volume.
+Calculate the pH of the first solution.
+(1 mark)
+C Calculate the pH for the following concentrations of H+ ions.
+i 0.01 mol dm-3 ii 1 x 10-13 mol dm-3 iii 0.0001 mol dm-3
+(3 marks)
+d Calculate | for solutions with the following pH values.
+i pH 3
+ii pH 6
+iii pH 12
+(3 marks)
+2 Calculate the pH of solutions with the following concentrations of HCI.
+Give answers to two decimal places.
+a 2.50 x 10-3 mol dm-3
+(1 mark)
+b 8.10 x 10-6 mol dm-3
+(1 mark)
+c 3.72 x 10-8 mol dm-3
+(1 mark)
+d 4.42 x 10-10 mol dm-3
+(1 mark)
+e 1.23 x 10-12 mol dm-3
+(1 mark)
+f 2.31 mol dm-3
+(1 mark)
+3 Calculate the concentrations of nitric acid with the following pH values.
+a pH 2.83
+(1 mark)
+b pH 7.91
+(1 mark)
+C pH 12.27
+(1 mark)
+d pH 9.69
+(1 mark)
+e pH 4.71
+(1 mark)
+f pH -1.08
+(1 mark)
+4 a Calculate the pH of the following diluted solutions.
+i 25 cm of 0.0500 mol dm-3 is diluted to 75 cm with water.
+ii 5.0 cm of 0.0250 moldm-3 is diluted to 100 cm with water (4 marks)
+b You are required to prepare 250 cm of 0.100 mol dm-3 HCl by
+diluting 0.600 mol dm-HCI with water.
+Calculate the volume of 0.600 mol dm-3 HCl that must be
+diluted with water.
+(4 marks)
+318
+20
+Chapter 20 Practice questions
+b
+Practice questions
+1 Three solutions A, B, and C, all have the
+same concentration of 0.0150 moldm.
+Solution A is a HCl(aq).
+Compound B is NaOH(aq).
+Solution C is CH.CH,COOH(aq).
+a Calculate the pH of:
+(i) solution A
+(1 mark)
+(ii) solution B
+(2 marks)
+b Solution A is diluted with an equal
+volume of water. What is the new
+pH of the diluted solution of A? (2 marks)
+c Solution C has a pH of 2.60.
+Calculate the value of K of CH,CH,COOH?
+(1 mark)
+2 Hydrogencarbonate ions, HCO,, can behave
+as a weak Brønsted-Lowry acid and as a weak
+Brønsted-Lowry base.
+a What is meant by the terms
+Brønsted-Lowry acid and base? (1 mark)
+b Write the formula of the conjugate acid
+and conjugate base of HCO,. (2 marks)
+NaOH(aq) is added to NaHCO3(aq). An
+acid-base equilibrium is set up between
+OH-(aq) and HCO, (aq).
+(i) Complete the equation for the
+equilibrium that would be set up and
+label the conjugate acid-base pairs.
+OH + HCO3 = .......... + ...........
+.................... (2 marks)
+(ii) What would happen to HCO,- if
+HCl(aq) were added to HCO, - instead
+of NaOH(aq)?
+(1 marks)
+3 Boric acid, H,BO,, is a tribasic weak acid.
+a What is meant by the term tribasic acid?
+(1 mark)
+b Write equilibria for the three stages of
+dissociation of boric acid. (3 marks)
+C Write the K expression for the second
+dissociation stage of boric acid. (1 mark)
+d Write an equation for the reaction of boric
+acid with an excess of NaOH(aq). (1 mark)
+A 1.50 x 10-2 moldm solution of methanoic
+acid, HCOOH, has [H+] = 1.55 x 10-'mol dm-.
+a (i) Use an equation for the dissociation
+of methanoic acid to show what is
+meant by a weak acid. (1 mark)
+(ii) How does this information indicate
+that methanoic acid is a weak acid?
+(1 mark)
+(iii) What is the formula of the conjugate
+base of methanoic acid. (1 mark)
+(i) Calculate the pH of this solution
+and give one reason why the pH
+scale is a more convenient
+measurement for measuring acid
+concentrations than [H+). (2 marks)
+(ii) Write the K expression for
+methanoic acid.
+(1 mark)
+(iii) Calculate the values of K, and PK
+for methanoic acid.
+(3 marks)
+(iv) Calculate the percentage of HCOOH
+molecules that have dissociated in
+this aqueous solution of methanoic
+acid.
+(1 mark)
+c Aqueous methanoic acid takes part in
+usual acid reactions. Write full equations
+for the following reactions.
+(i) methanoic acid with Caco, (1 mark)
+(ii) methanoic acid with Al (1 mark)
+Sour milk contains lactic acid,
+CH,CH(OH)COOH (K, = 1.38 x 10-4 mol dm)
+a (i) Write the K expression for lactic acid.
+(ii) Calculate the pH of a 0.0145 moldm3
+solution of lactic acid. Give your answer
+to two decimal places. (3 marks)
+b An excess of aqueous sodium hydroxide
+with a concentration of 0.125 mol dm' is
+added to the solution of lactic acid.
+(i) Calculate the pH of the
+aqueous sodium hydroxide. (2 marks)
+(ii) Write an overall equation for the
+reaction.
+(1 mark)
+(iii) Write an ionic equation for the
+reaction.
+(1 mark)
+At 50°C, the pH of water is 6.63
+a Write the expression for Ky (1 mark)
+b What name is given to K? (1 mark)
+5
+======
+6
+330
+20
+ACIDS, BASES, AND PH
+Study tip
+What about weak bases?
+As with strong bases, a weak base is also an alkali. Ammonia gas is
+an example of a weak base - it dissolves in water releasing OH-ions
+from water molecules. An equilibrium is set up with the equilibrium
+positioned well to the left.
+Calculation of the pH of weak bases
+goes beyond the scope of this
+Chemistry course
+NH,(aq) + H2O(l) = NH,*(aq) + OH(aq)
+So one mole of NH, releases far less than one mole of OH(aq) ions.
+The pH of weak bases can be calculated using a similar method to that
+used for weak acids.
+pOH
+POH is a similar scale to pH, used as a convenient way of
+showing OHconcentrations, [OH(aq)]:
+pOH = -log[OH (aq)] [OH- (aq)] = 10 -POH
+The pOH scale has a similar range to pH, centred at the
+neutral point where (H+(aq)] and [OH-(aq)] are both equal to
+10-7 moldm-3. The pH and pOH scales are shown in Table 1.
+What is the pH of a solution with
+[OH(aq)] = 4.50 10-3 mol dm-3 at 25°C?
+Step 1: Calculate pOH from [OH (aq)].
+pOH = -log[OH- (aq)]=-log(4.50 x 10-3)
+= 2.34
+Table 1 pH and pOH scales
+pH 0 1 2
+POH 14 13 12
+Step 2: Calculate pH using pH + pOH = 14
+pH = 14 - POH
+pH = 14 -2.34 = 11.66
+7 8 9 10 11 12 13
+7 6 5 4 3 2 1 1
+3
+11
+4
+10
+5
+9
+6
+8
+14
+0
+At 25°C, K = 10-14 moldm 5, and pH + pOH = 14
+Use pOH to solve the following
+1 Calculate the pH of the following solutions:
+a 0.125 mol dm-3 NaOH b 3.25 x 10-3 KOH
+2 Calculate the [OH-(aq)] in solutions with
+a pH = 10.76 b pH = 12.38
+The pOH scale gives an alternative method for calculating
+the pH of a strong alkali.
+Summary questions
+1 a State the expression for the ionic product of water.
+(1 mark)
+b Calculate the [OH-(aq)] of a solution with a
+[H+(aq)] of 10-4 mol dm?
+(1 mark)
+c Explain why the units of K, are mol? dm-6.
+(1 mark)
+Calculate the concentration of the following strong bases:
+a a solution of NaOH with a pH of 12.65 (1 mark)
+b a solution of KOH with a pH of 11.57 (1 mark
+c a solution of Ca(OH), with a pH of 12.83 (1 mark)
+2 Calculate the pH of the following solutions of strong
+bases at 25°C:
+a 0.0120 mol dm3 KOH(aq)
+(1 mark)
+b 1.35 x 10-3 mol dm-31
+(1 mark)
+C 8.75 x 10-2 mol dm-30
+(1 mark)
+4 K changes with temperature.
+At 60°C, K = 9.31 x 10-14 moldm-6.
+At 10 °C, K = 2.93 x 10-15 mol2 dm-6.
+a Calculate the pH of water at
+i 60°C i 10 °C
+(2 marks)
+b Discuss whether water is neutral at these
+two temperatures.
+(2 marks)
+c Deduce whether the ionisation of water is
+exothermic or endothermic.
+(1 mark)
+329
+20
+ACIDS, BASES, AND PH
+Synoptic link
+You first met strong and weak
+acids in Topic 4.1, Acids, bases, and
+neutralisation.
+.
+6) Worked example: Calculating pH from acid
+concentration
+A sample of nitric acid has a concentration of 1.35 x 10-2 moldm
+What is the pH?
+Step 1: Convert [HA(aq)] into [H+ (aq)].
+HNO, is a strong acid and completely dissociates.
+[H+ (aq)] = [HNO3(aq)] = 1.35 x 10-2 mol dm3
+Step 2: Use your calculator to find the pH.
+pH = -log[H+(aq)] = -log(1.35 x 10-2) = 1.87
+Study tip
+If the acid is strong, you can use
+the simple method here. For weak
+acids, there is another important
+step. See Topic 20.4, The pH of
+weak acids, for details.
+3) Worked example: Calculating acid concentration
+from pH
+A sample of hydrochloric acid has a pH of 3.79.
+What is the concentration of the hydrochloric acid?
+Step 1: Use your calculator to find [H+(aq)].
+TH(aq)] = 10-pH = 10-3.79 = 1.62 x 10-4 mol dm-3
+Study tip
+The whole number before a
+decimal place is the logarithmic
+way for showing powers of 10.
+Significant figures for pH values
+starts after the decimal place. So
+a pH of 2.66 is to two significant
+figures only. So don't round pH
+values to one decimal place as
+this is only one significant figure.
+As a general rule, show pH values
+to two decimal places unless you
+are asked for a different number of
+places. This reflects the accuracy
+of most pH meters.
+Step 2: Convert [H+ (aq)] into [HA (aq)].
+HCl is a strong acid and completely dissociates.
+[HCl(aq)] = [H+ (aq)] = 1.62 x 10-4 mol dm-
+pH changes on dilution
+A pH of 1 has 10 times the concentration of H+(aq) ions as a solution
+with a pH of 2. The next worked example shows that diluting by half
+changes the pH by just 0.30.
+E pH on dilution
+50 cm of 0.100 moldm- hydrochloric acid is diluted to 100 cm
+with water. What is the change in pH?
+Step 1: Find the concentration of the diluted hydrochloric acid,
+[HCl(aq)].
+On diluting to 100 cm, the concentration has been
+halved to 0.0500 mol dm-?.
+317
+20
+20.1 Bronsted-Lowry acids and bases
+Reactions between acids and bases
+Neutralisation of acids with carbonates
+Carbonates are bases that neutralise acids to form a salt, water, and
+carbon dioxide.
+acid + carbonate + salt + water + carbon dioxide
+Study tip
+For a solid, you still write the ionic
+equation with the full formula
+of the carbonate because the
+carbonate changes state during
+the reaction.
+Solid copper(II) carbonate reacts with any acid as follows:
+2H+ (aq) + CuCO3(s) → Cu2+(aq) + H2O(1) + CO2(g)
+In aqueous solutions of carbonates spectator ions cancel and the final
+equation is simpler, for example, with aqueous sodium carbonate:
+2H+(aq) + 2Na+(aq) + CO2-(aq) + 2Nataq) + H,O(1) + CO, (g)
+2H+ (aq) + CO,-(aq) → H2O(l) + CO2(g)
+Neutralisation of acids with metal oxides
+An acid is neutralised by a solid metal oxide or hydroxide to form a
+salt and water only.
+acid + base
+salt + water
+For magnesium oxide the reaction with any acid is:
+2H+ (aq) + MgO(s) + Mg2+ (aq) + H2O(1)
+Neutralisation of acids with alkalis
+With alkalis, the acid and base are in solution. The overall reaction is
+the same as for metal oxides:
+Study tip
+acid + alkali
+salt + water
+Full and ionic equations for acids are
+much more difficult to write than
+they look. Practise writing equations
+from scratch for carbonates and
+bases.
+The ionic equation, shown below, is much simpler than the full
+equation - neutralisation of H+(aq) ions by OH-(aq) ions to form
+neutral water, H,O(l):
+H+ (aq) + OH(aq) → H20(1)
+Summary questions
+(2 marks)
+1 a Define the terms:
+i Brønsted-Lowry acid ii Brønsted-Lowry base.
+b State the conjugate base of:
+i HNO i HB ili CH,CH,COOH
+(3 marks)
+2 Label the two acid-base pairs in the following acid-base equilibria.
+a CH,COOH(aq) + H20(aq)=H20*(aq) + CH,COO- (aq) (1 mark)
+b NH,(aq) + H20(1)=NH,+ (aq) + OH(aq)
+(1 mark)
+CHCO, (aq) + HCl(aq) = H2CO3(aq) + CI+(aq)
+(1 mark)
+3 Write the full and ionic equations for the following reactions.
+a aluminium metal and sulfuric acid
+b solid iron (11) oxide with nitric acid
+c aqueous calcium hydroxide and hydrochloric acid
+d aqueous sodium carbonate and phosphoric acid
+(2 marks)
+(2 marks)
+(2 marks)
+(2 marks)
+314
+20
+20.3 The acid dissociation constant K
+pk, values are much more manageable than K, and it is much easier
+to compare relative acidic strengths using pK, values than K, values.
+9 Worked example: Converting from K to pk
+What is the pK value of a weak acid with a K value of
+1.48 x 10-4 mol dm ??
+PK, = -log K
+PK, = -log(1.48 x 10-4)
+You should get 3.83 (to two decimal places).
+o Worked example: Converting from pk tok
+What is the K, value of a weak acid with a pK, of 4.82?
+K = 10-pka
+[H+ (aq)] = 10-4,82
+You should get 1.51 x 10-5 (to two decimal places).
+Table 1 compares the K, and pK, values of four weak acids.
+TV
+Table 1 K and pk values for four acids
+Acid
+pk.
+Relative acid strength
+K /mol dm-3
+4.10 x 10-4
+nitrous acid
+HNO
+3.39
+strongest acid
+methanoic acid
+HCOOH
+1.77 x 10-4
+3.75
+1.76 x 10-5
+4.75
+Study tip
+As with pH and [H+ (aq)],K should
+have a negative power within one
+of the pk values.
+ethanoic acid
+chloric(1) acid
+CH,COOH
+HCIO
+3.00 x 10-8
+7.53
+weakest acid
+The stronger the acid, the larger the K, value and the smaller the pK, value.
+The weaker the acid, the smaller the K value and the larger the pK, value.
+PK values are used extensively for comparing the strengths of weak
+acids particularly in biological systems.
+Weak acids in wine
+Sulfurous acid
+Wines often contain traces of sulfurous acid, H,SO,
+added as a preservative. Sulfurous acid is a dibasic acid
+and its dissociation is shown below.
+pk = 1.92
+HS0z (aq)=H+ (aq) + S0,2-(aq) pk = 2.18
+For the first dissociation, H, SO, acts as a weak acid.
+From the pk values, the weak acid, HSO,, in the second
+dissociation is a far weaker acid than H,SOZ.
+This behaviour is typical for dibasic and tribasic acids.
+320
+20.3 The acid dissociation
+constant K
+Specification reference: 5.1.3
+Strong and weak acids
+Strong and weak are terms used to describe the extent of dissociation
+of an acid. A strong acid, such as hydrochloric acid, HCl, completely
+dissociates in aqueous solution.
+HCl(aq) → H*(aq) + Cl(aq)
+A weak acid, such as ethanoic acid, CH,COOH, partially dissociates.
+CH,COOH(aq) = H+ (aq) + CH,COO-(aq)
+In this topic you will learn about the extent of dissociation of weak
+acids in terms of an equilibrium constant.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ strong and weak acids
+► the acid dissociation
+constant
+→ converting between K
+and pK
+The acid dissociation constant K
+The acid dissociation constant K is one of several special equilibrium
+constants used for acid-base equilibria. All the constants are just
+versions of the equilibrium constant K, in terms of concentrations in
+moldm-3, with special labels to show their use.
+Synoptic link
+For more details of strong and
+weak acids, see Topic 4.1, Acids,
+bases, and neutralisation.
+The dissociation of any weak acid, HA, can be shown as a general form:
+Synoptic link
+HA(aq) = H(aq) + A-(aq).
+For more details of equilibrium
+constants, see Chapter 19,
+Equilibrium.
+The acid dissociation constant, K is calculated as:
+K - [H+(aq)] [A (aq)] unite. (moldm-) (moldm?)
+moldm-3
+[HA(aq)]
+(moldm)
+Using this principle, you can write the K expression for any weak
+acid. For ethanoic acid:
+K - [H+(aq)] [CH, COO (aq)]
+[CH3COOH(aq)]
+As with all equilibrium constants, K, changes with temperature and
+recorded K values are usually standardised at 25°C. The larger the
+numerical value of K , the further the equilibrium is to the right. If
+you look at the K expression, the concentration of the dissociated ions
+are on top and so the larger the K, value, the greater the dissociation
+and the greater the acid strength.
+Study tip
+K is simply K applied to the
+dissociation of an acid.
+As the terms are always the
+same as the general form of
+[H+(aq)] [A (aq)], the units are
+[HA(aq)]
+always mol dm-
+K and pk
+The K, values highlight a potential problem that you have already
+seen with [H+(aq)] - it is difficult to compare numbers with negative
+indices. As with the pH scale, the problem has been solved by
+converting the K value into a negative logarithm called PK.
+PK = -logK
+The reverse of this relationship is:
+K = 10-pka
+319
+20
+ACIDS, BASES, AND PH
+H,PO, has three replaceable H+ ions
+H,PO, (aq) + 3NaOH(aq) – Na,PO, (aq) + 3H20(1)
+three H replaced
+Coca Cola
+These equations can be used to calculate the volume of
+0.100 moldm-? NaOH(aq) that is required to completely neutralise
+25.0 cm of 0.100 mol dm- of each of the three acids above:
+e 330 ml
+The monobasic acid, HNO, would react with 25.0 cm NaOH(aq).
+The dibasic acid, H,SO,, would react with 50.0 cm NaOH(aq).
+The tribasic acid, H,PO4, would react with 75.0 cm NaOH(aq).
+Figure 4 Phosphoric acid, H,PO,
+with a pH of 2-3, is found in rust
+remover as well as cola drinks. Try
+testing the drink with pH indicator paper
+The role of H+ in the reactions of acids
+Acids react with metals, carbonates, metal oxides, and alkalis to form
+salts. The active species from the acid is H+(aq) and ionic equations can
+be written for each type of reaction to emphasise the role of H+ ions.
+Synoptic link
+Look back at Chapter 4, Acid and
+redox, to revise these reactions.
+When writing ionic equations with H(aq), the acid does not matter -
+it is the same reaction. For example, the equations below are for
+reaction of magnesium with dilute hydrochloric and sulfuric acids:
+Reaction with HCl(aq)
+full equation:
+cancel spectator ions:
+ionic equation:
+2HCl(aq) + Mg(s) — MgCl, (aq) + H2(g)
+2H+ (aq) + 2€Haq) + Mg(s) → Mg2+ (aq) + 26Haq) + H2
+2H+ (aq) + Mg(s) → Mg2+ (aq) + H2(g)
+Reaction with H2SO4(aq)
+full equation:
+cancel spectator ions:
+ionic equation:
+H,80,(aq) + Mg(s) + MgSO4(aq) + H2(g)
+2H+ (aq) + SO49) + Mg(s) → Mg2+ (aq) + 50,-aq) + H,
+2H+ (aq) + Mg(s) → Mg2+ (aq) + H2(g)
+The ionic equation for the reaction of magnesium with dilute
+hydrochloric acid and dilute sulfuric acid is the same.
+Study tip
+Spectator ions are ions that do not change during the reaction. In the
+equations, spectator ions can simply be cancelled out. You then know
+that any acid will react with magnesium to form Mg2+ (aq) ions and
+hydrogen gas. All the ionic equations in the next section use H+ (aq)
+only for the acid.
+Spectator ions are the spectators
+of chemical reactions. They do
+not themselves react during the
+reaction.
+Study tip
+Redox reactions between acids and metals
+Dilute acids undergo redox reactions with some metals to produce
+salts and hydrogen gas.
+acid + metal salt + hydrogen
+A few acids, such as nitric acid,
+are also strong oxidising agents.
+Except when it is very dilute, nitric
+acid reacts differently with most
+metals.
+For zinc, the ionic equation for a reaction with any dilute acid is:
+2H+ (aq) + Zn(s) → Zn2+(aq) + H2(g)
+313
+20
+ACIDS, BASES, AND PH
+Malic and tartaric acid
+The main acids in wine grapes are two weak dibasic acids -
+tartaric acid and malic acid. Figure 1 shows the structures
+of malic acid and tartaric acids.
+0
+OH 0
+HO
+0
++
+H+(aq)
+HO
+OH
+OH PK-5,20 OH
+Figure 3 Dissociation of H* from the second COOH group
+OH
+I
+0 OH
+malic acid
+0 OH
+tartaric acid
+The alcohol groups in malic acid do not dissociate as the
+-OH group is much less acidic than the COOH group.
+Citric acid is a tribasic acid with the structure:
+o Oy OH
+HO VIVOH
+OH
+A Figure 4 Citric acid
+Figure 1 The structures of malic acid and tartaric acid,
+found in wine grapes
+Both acids contain two carboxyl groups, COOH. When the
+acids ionise, hydrogen ions dissociate from the COOH
+groups, one at a time. Figure 2 and 3 show the stepwise
+dissociation of H+ from the two COOH groups in malic acid.
+1 Write equations for the stepwise dissociation of
+citric acid using skeletal formulae.
+The formula of citric acid can be written as
+C,H,OH(COOH)2. Using this formula as your
+starting point, write K expressions for each of
+the three dissociations.
+HO
+HO
+Y
+OH
+0
++ H+(aq)
+0 OH OK. = 3.40 O OH
+A Figure 2 Dissociation of H* from the first COOH group
+3 Phosphoric acid, H,PO, is a tribasic acid.
+a Write expressions for K for the three successive
+dissociations of phosphoric acid.
+(3 marks)
+b Predict how the relative values of K and
+pk would change for each dissociation. (3 marks)
+Summary questions
+1 For each of the following acid-base equilibria, write
+down the expression for K State the units of K for
+each reaction.
+a HNO2 (aq) =H*(aq) + NO2 (aq) (1 mark)
+b CH COOH(aq)=#*(aq) + CH.CO0 (aq) (1 mark)
+C H2S(aq) =H*(aq) + HS- (aq) (1 mark)
+2 a Calculate the pk of solutions with the following
+values. Give your answers to two decimal places.
+i 9.5 x 10-8 mol dm-3
+ii 71 x 10-4 mol dm-3
+iji 6.3 x 10-8 mol dm-3
+(3 marks)
+b Calculate K of solutions with the following pk
+values. Give answers in standard form and to one
+decimal place.
+i pk 1.92
+ii pk 270
+iji pk 4.77
+(3 marks)
+321
+20.2 The pH scale and strong acids
+Specification reference: 5.1.3
+The pH scale
+Søren Sørensen, the founder of pH
+Many of the things used on a daily basis, like tap water, food, drinks,
+cosmetics, and medicines, are routinely tested for pH. Just over
+100 years ago, the Danish chemist Søren Sørensen introduced pH as a
+simple numerical scale for measuring hydrogen ion concentrations.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the pH scale
+→ converting between pH and
+[H*(aq)]
+calculating the pH of a strong
+monobasic acid.
+Sørensen found that hydrogen ion concentrations in solutions had
+a very large range of values with negative powers of 10. Sørensen
+used the negative logarithm of these hydrogen ion concentrations to
+produce a more manageable scale. Using Sørensen's scale, hydrogen
+ion concentrations of 10-1 to 10-14 are converted to pH values of 1 to
+14 (Table 1). The strength of Sørensen's pH scale is its simplicity and
+ease of use. For any solution at 25°C:
+Table 1 pH and hydrogen ion
+concentrations at 25°C
+pH [H*(aq)]
+/mol dm3
+acid
+-1
+101
+10º = 1
+pH less than 7 shows decreasing acidity
+pH greater than 7 shows increasing alkalinity
+pH 7 is neutral.
+Before Sørensen's pH scale, the degree of acidity and basicity in
+solutions was measured as colours using indicators – Sørensen added
+numbers to the colours. Sørensen's method relied on measuring
+hydrogen ion using an electrochemical cell. Nowadays, pH meters
+are used for measuring pH accurately (Figure 1) and are based on the
+same principle. pH indicator paper or universal indicator solution is
+still used as an easier and cheaper, though less accurate, alternative.
+10-1
+10-2
+10-3
+10-4
+10-5
+6
+10-6
+10-7
+neutral
+10-8
+10-9
+10-10
+10-11
+pH - a logarithmic scale
+The pH scale in Table 1 shows the relationship between pH and the
+concentration of H+(aq).
+A low value of [H(aq)] matches a high value of pH.
+A high value of [H+(aq)] matches a low value of pH.
+The mathematical relationship between pH and [H(aq)] is:
+pH = -log[H+(aq)]
+The reverse of this relationship is:
+10
+11
+12
+13
+14
+10-12
+10-13
+10-14
+10-15
+alkali
+[H(aq)] = 10-PH
+As a logarithmic scale, a
+change of one pH number is
+equal to a 10 times difference
+in [H+(aq)]. So there is a
+large difference in hydrogen
+ion concentration between
+solutions with a pH of 2 and a
+pH of 3.
+Figure 1 A pH meter showing a
+weakly alkaline pH of 9.11 for the
+solution in the container. The probe of
+the pH meter, dipped in the solution,
+contains an electrode that measures
+the electrical potential of the hydrogen
+ions. This is directly related to the pH
+315
+20
+20.2 The pH scale and strong acids
+A pH of 1 has 10 times the concentration of H+ ions as a solution
+with a pH of 2.
+To dilute a solution from a pH l to a pH of 4 (just 3 pH units)
+would require dilution by 10 x 10 x 10 = 1000 times.
+A solution with a pH of 1 contains 1013 times more H+(aq) ions as
+a solution with a pH of 14.
+Comparing 1 with 14 is a lot more manageable than comparing
+1x 10-1 with 1 x 10-14.
+Converting between pH and [H+(aq)]
+You need to be able to convert pH into [H+ (aq)] and vice versa.
+Study tip
+You need to to learn the two
+equations linking pH with [H+(aq)]
+as you will use both many times.
+2) Worked example: Converting from [H+(aq)] to pH
+What is the pH of a solution with a H+(aq) concentration of
+2.45 x 10-'moldm-??
+pH = -log [H+ (aq)]
+pH = -log(2.45 x 10-3)
+You should get 2.61 (to two decimal places).
+Study tip
+Check your answers for both
+worked examples. Are they
+sensible? The (H+(aq)] should
+have a negative power of 10 within
+one of the pH values.
+B Worked example: Converting from pH to [H+(aq)]
+What is the [H*(aq)] of a solution with a pH of 8.75?
+-
+loco
+log.
+[H(aq)] = 10-PH
+10
+[H+(aq)] = 10-8.75
+ER
+x
+sin! D
+sin
+9 X
+x
+'c
+(hyp
+%
+T
+You should get 1.78 x 10-9 (to two decimal places).
+logIn
+cos" E tan! F
+cos tan
+Y M- M
+SHD M+
+Calculating the pH of strong acids
+In aqueous solution, a strong monobasic acid, HA, completely dissociates:
+Figure 1 The log button and the 10%
+function above the log button
+HA(aq) + H+(aq) + A (aq)
+I mol
+I mol
+So, for a strong acid, [H+(aq)] is equal to the concentration of the acid,
+[HA(aq)]:
+Study tip
+Practise with any pH of a [H+(aq)]
+value. Then try to go back again
+using pH = -log[H*(aq)].
+Repeat until you are comfortable
+converting between pH and
+[H(aq)] and get used to the
+buttons on your calculator.
+[H(aq)] = [HA (aq)]
+The pH of a strong acid can be calculated directly from the concentration
+of the acid.
+316
+20.4 The pH of weak acids
+Specification reference: 5.1.3
+The pH of weak acids
+For a monobasic acid, HA, in aqueous solution:
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ calculations of pH and K for
+weak acids
+► the limitations of pH and K
+calculations for weak acids.
+a strong acid HA completely dissociates: [H*(aq)] = [HA(aq)]
+a weak acid HA partially dissociates: [H+(aq)] = [HA(aq)]
+For a weak acid there is an equilibrium:
+HA(aq) = H+(aq) + A (aq)
+[H*(aq)] depends upon:
+the concentration of the acid, [HA(aq)]
+• the acid dissociation constant K.
+When HA molecules dissociate, H(aq) and A-(aq) ions are formed in
+equal quantities. The start and equilibrium concentrations of HA(aq),
+H*(aq), and A (aq) are shown in Figure 1.
+H+ (aq)
++
+(aq)
+0
+HA(aq)
+start
+[HA(aq)]start
+[HA (aq) legm
+equilibrium (eqm) [HA (aq)] - [H(aq)eam
+A Figure 1 Dissociation of HA at equilibrium
+[H*(aq) leqm
+[A (aq)]egm
+art
+K can be calculated using equilibrium concentrations:
+[H+ (aq)leqm [A (aq)legm [H+ (aq)eam [A-(aq) leam
+[HA (aq) legm [HA (aq)]start – [H+ (aq) legn
+Approximations
+The equation above can be greatly simplified by making two
+approximations.
+Study tip
+For a weak acid with a value of
+1x 10-?, only 1 molecule in every
+1000 dissociates.
+Soat equilibrium, there are
+still 999 molecules of the
+undissociated weak acid present.
+999 - 1000, only a 0.1% difference.
+For a value of 1 x 10-4, the
+approximation is even better:
+9999 - 10000
+Approximation 1
+From Figure 1, HA dissociates to produce equilibrium concentrations
+of H+(aq) and A-(aq) that are equal. There will also be a very small
+concentration of H+ (aq) from the dissociation of water but this will
+be extremely small and can be neglected compared with the H+
+concentration from the acid.
+[H*(aq) Jeqn = [A (aq)]eqm
+Approximation 2
+From Figure 1, the equilibrium concentration of HA is smaller than
+the undissociated concentration.
+[HA(aq) legm = [HA (aq) Istarı - [H+ (aq) legm
+As the dissociation of weak acids is small, you can assume that
+[HA(aq)]stari >> [H+(aq)] and you can neglect any decrease in the
+concentration of HA from dissociation.
+[HA(aq)]eqm = [HA (aq)]start
+Start
+LLI
+322
+20.5 pH and strong bases
+Specification reference: 5.1.3
+The ionisation of water
+Water ionises very slightly, acting as both an acid and as a base, setting
+up the acid-base equilibrium as shown in Figure 1.
+:
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ calculating the pH of strong
+bases
+► the ionic product of water K
+H20
+H20
+H30+
+OH-
+H2O(l) + H2O(1)
+H2O+(aq)
+acid 1 base 2
+acid 2
+A Figure 1 Acid-base equilibrium of water
++ OH-(aq)
+base 1
+Or more simply:
+H2O(l) = H+(aq) + OH(aq)
+Treating water as a weak acid:
+K - [H+ (aq)] [OH(aq)]
+[H2O(1)]
+The dissociation of water is very small:
+• 1 dm (1000g) of water is mainly undissociated H,0(1)
+• 50 [H20(1)] = 1000 = 55.6 moldm, a constant.
+Rearranging the K, expression above gives:
+K,* [H2O(l)] = [H+ (aq)] [OH-(aq)]
+Kis called the ionic product of water – the ions in water (H+ and
+OH-) multiplied together.
+18.0
+Study tip
+K * [H,00] is a constant =
+Study tip
+[H*(aq)] (OH- (aq)] is always
+equal to k
+K. = [H+(aq)] [OH(aq)]
+As with all equilibrium constants, K varies with temperature.
+The value of K, at 298K (25°C) is 1.00 x 10-14 moldm
+The importance of K.
+The significance of K, having a value of 1.00 x 10-14 mol2 dm 6 at
+25°C is huge. The value sets up the neutral point in the pH scale.
+The examples below all apply to 298K (25 °C). K controls the
+concentration of H+(aq) and OH(aq) ions in aqueous solutions.
+The pH of pure water at 25°C
+On dissociation, water is neutral - it produces the same number of
+H+(aq) and OH-(aq) ions.
+So [H+ (aq)] = [OH-(aq)]
+Kw = [H+ (aq)] [OH-(aq)] = [H+ (aq)] = 1.00 x 10-14 mol2 dm
+[H+ (aq)] = V1.00 x 10-14 = 1.00 x 10-7 moldm-3
+at 25°C
+pH = -log[H+(aq)] = -log(1.00 x 10-7) = 7
+326
+20
+20.1 Bronsted-Lowry acids and bases
+For example, neutralisation of an acid by an alkali can be written
+using H,O+(aq) or H+(aq):
+Study tip
+The simplified form H+ (aq) is
+often used instead of H.0+(aq).
+Just remember that H+ (aq) really
+represents the hydronium ion,
+H20*(aq).
+H,O+(aq) + OH(aq) + 2H, 0(1)
+H+ (aq) + OH-(aq) → H20(1)
+Monobasic, dibasic, and tribasic acids
+The terms monobasic, dibasic, and tribasic acids refer to the total
+number of hydrogen ions in the acid that can be replaced per molecule
+in an acid-base reaction. This would typically be replacement of
+protons by metal ions or ammonium ions to form a salt.
+Study tip
+You may come across the terms
+monoprotic, diprotic, and triprotic,
+which are also used for monobasic,
+dibasic, and tribasic.
+The number of hydrogen atoms in the formula gives a clue for the
+type of acid. Table 1 shows some common monobasic, dibasic, and
+tribasic acids.
+Table 1 Mono-, di-, and tribasic acids. The replaceable His shown in bold
+Acid
+Name
+Type
+Study tip
+HCI
+hydrochloric acid
+monobasic
+ethanoic acid
+monobasic
+Organic acids do not replace any
+hydrogen atoms from the carbon
+chain.
+CH2COOH
+H.COM
+H2B02
+carbonic acid
+dibasic
+boric acid
+tribasic
+C Worked example: Writing equations for complete
+neutralisations
+Write equations for the complete neutralisation of nitric acid,
+sulfuric acid, and phosphoric acid with an excess of NaOH(aq).
+Step 1 Decide on whether an acid is monobasic, dibasic, or
+tribasic by counting the number of hydrogen atoms in
+the formula, not including organic carbon chains.
+HNO, has one hydrogen atom, therefore it is monobasic.
+HZS two hydrogen atoms, therefore it is dibasic.
+H,PO, has three hydrogen atoms, therefore it is tribasic.
+Step 2 Write the equation using as many NaOH units needed to
+replace the hydrogen atoms in the acid.
+HNO, has one replaceable H+ ion
+HNO, (aq) + NaOH(aq) - NaNO3(aq) + H2O(1)
+one H replaced
+HSO, has two replaceable H+ ions
+H2SO4 (aq) + 2NaOH(aq) → Na2SO,(aq) + 2H2O(1)
+two H+ replaced
+312
+20
+ACIDS, BASES, AND PH
+Figure 2 shows several examples of conjugate acid-base pairs.
+Synoptic link
++
+nitric acid
+sulfuric acid
+ethanoic acid
+acid
+HNO, (aq) =
+H2SO, (aq) =
+CH,COOH(aq) =
+H+ (aq)
+H+(aq)
+H+(aq)
+base
+NO, (aq)
+HSO,- (aq)
+CH,COO-(aq)
+Look back at Topic 4.1, Acids,
+bases, and neutralisation, to revise
+the Arrhenius dissociation model,
+weak acids, and strong acids. You
+will also cover dissociation in detail
+later in this chapter.
++
+Figure 2 Conjugate acid-base pairs
+Neutralisation can be shown by a simple equation.
+H(aq) + OH-(aq) + H2O(1)
+In hydrochloric acid, H+ ions have been supplied by dissociation:
+HCl(aq) = H+ (aq) + Cl(aq)
+Combining the two equations gives the acid-base equilibrium shown
+in Figure 3. There are now two conjugate acid-base pairs which are
+labelled acid 1-base 1 and acid 2-base 2.
+HCl(aq) + OH(aq) =
+H2O(l) +
+acid 2
+Cl(aq)
+base 1
+acid 1
+base 2
+Figure 3 Acid-base pairs: acid 1-base 1 and acid 2-base 2
+Study tip
+You need to be able to identify
+acid-base pairs in equations for
+acid-base equilibria.
+In their formulae, the acid and
+base in a conjugate acid-base pair
+differ by H.
+Always show clearly how the
+acid-base pairs are linked
+together either by labelling with 1
+and 2 or by showing arrow links as
+in Figure 3.
+In the forward direction:
+HCl is an acid as it donates H+
+OH is a base as it accepts H+.
+In the reverse direction:
+• H2O is an acid as it donates H+
+. Cl- is a base as it accepts H+.
+The hydronium ion, H, 0+(aq)
+In aqueous solution, dissociation requires a proton to be transferred
+from an acid to a base. The dissociation does not take place unless
+water is present. Figure 4 shows the acid-base equilibrium set up in
+hydrochloric acid. Water accepts a proton and is behaving as a base.
+=
+HCl(aq) + H2O(1)
+acid 1 base 2
+H,0+(aq) + CH(aq)
+acid 2 base 1
+A Figure 4 Acid-base equilibrium of HCl in aqueous solution
+H.O has accepted a proton to form its conjugate acid, the hydronium
+ion, H, 0+(aq). The hydronium ion is very important, as it is the active
+acid ingredient in any aqueous acid. You can use H,O+ in equations
+but you will see that it is far more common to use the simpler H+ (aq).
+311
+20
+ACIDS, BASES, AND PH
+start
+Study tip
+[H*(aq)] [C10, (aq)] [H*(aq)]?
+[HCIO_(aq)]eqm [HCIO, (aq)]start - [H*(aq)]
+Rearranging the equation gives:
+[H*(aq)]? = K x [HCIO, (aq)]start - K * [H*(aq)]
+= 1.2 x 10-2x0.100 – 1.2 x 10-2 x [H*(aq)]
+[H+(aq)]? + 1.2 x 10-2x [H+ (aq)] - 1.2 x 10-3 = 0
+q=1 b= 1.2 x 10-2 C=-1.2 x 10-3
+Solving the quadratic equation (using a quadratic solver website), gives:
+[H+(aq)] = 0.0292 mol dm-3 pH = -log(0.0292) = 1.53
+Using the much simpler and quicker approximation method:
+[H+(aq)] = /K. * [HCIO, (aq)] = V0.100 x 1.2 x 10-2
+= 0.0346 mol dm-?
+pH = -log(0.0346) = 1.46
+Comparing the pH values of 1.53 and 1.46, the approximation does not
+seem to be justified. There is an 18% difference between the [H+ (aq)] values
+from both methods, which is significant.
+1 Calculate the pH of a 0.100 mol dm-3 solution of nitrous acid HNO,
+(K: 4.0 x 10-4 mol dm-") by both methods and show whether the
+[HA(aq)]start - [H(aq)]cam approximation is justified.
+2 Suggest when the approximation is valid.
+Don't worry. You do not need to
+know how to solve quadratic
+equations as part of your
+chemistry course.
+Summary questions
+1 a Write K expressions for the following weak acids:
+i HCN ii CH COOH (2 marks)
+b Two approximations are often used to simplify pH
+calculation of weak acids.
+i State the two approximations.
+ii State the simplified square root expression for
+calculating [H+(aq)] for a weak acid after using
+these two approximations.
+(3 marks)
+3 Sulfuric acid is a dibasic acid. For its first dissociation,
+sulfuric acid behaves as a strong acid. The second
+dissociation has a K value of 1.20 x 10-2 mol dm-3.
+The pH of 0.0100 mol dm-3 sulfuric acid is 1.84.
+a Use the information above to suggest why the pH
+is not simply-log (2 x 0.0100) = 1.70 (1 mark)
+b Describe the steps that would be needed to
+calculate the actual pH of the sulfuric acid.
+(3 marks)
+c Explain why [H+(aq)] >> [A-(aq)] after the second
+dissociation of sulfuric acid (the dissociation of
+water being insignificant at this pH).
+Note: Calculating the pH as 1.84 is extension work
+and requires some algebra for [H+(aq)] and
+[A (aq)] and use of a quadratic equation. (2 marks)
+2 a Calculate the pH of the following weak acids.
+Give your answers to two decimal places.
+i 0.075 mol dm-3 HCOOH
+(K = 1.77 x 10-4 mol dm-)
+i 3.42 x 10-2 mol dm'CH.COOH
+(K = 6.46 x 10-5 mol dm) (4 marks)
+b Calculate the K and pk values for the following
+acid solutions.
+i a 0.125 mol dm-3 solution with a pH of 2.32
+ii a 1.75 x 10-3 mol dm-3 solution with a
+pH of 3.84
+(4 marks)
+325
+20
+ACIDS, BASES, AND PH
+Simplifying the K expression
+By applying the two approximations, the K, expression can be greatly
+simplified.
+[H+ (aq)eam [A (aq)leqm
+[HA(aq)]start - [H+(aq)Jeqm
+[H+ (aq)leqm
+[HA(aq) start
+^
+[H+ (aq)]2
+Therefore
+K = THA(aq)]
+Provided that two of [H+(aq)] (or pH), K and [HA(aq)] are known,
+you can always calculate the third quantity.
+Calculating pH
+To calculate pH using the K expression above, you first need to make
+[H+(aq)] the subject of the equation:
+[H+ (aq)] = K * [HA (aq)] [H+ (aq)] = /K[HA(aq)]
+Study tip
+The key to solving the pH of a weak
+acid is the relationship:
+[H*(aq)] = /K, (HA(aq)]
+It is well worth memorising this
+equation.
+The worked example below shows how the pH of a weak acid can be
+calculated from the acid concentration and K value.
+Worked example: Calculating the pH of a weak acid
+Calculate the pH of 0.0245 moldm ethanoic acid, CH,COOH, at
+25°C, where K = 1.7 x 10-moldm-.
+Step 1: Calculate [H*(aq)] from K and [HA (aq)].
+CH,COOH is a weak acid and partially dissociates:
+CH,COOH(aq) = H*(aq) + CH,COO-(aq)
+[H+ (aq)] [CH,COO-(aq)] [H+ (aq)]2
+a [CH,COOH(aq)] [CH2COOH(aq)]
+[H+ (aq)] = K * [CH,COOH(aq)]
+[H+ (aq)] = VK, X[CH,COO(aq)] = 0.0245 x 1.7 x 10-5)
+= 6.45 x 10-4 mol dm-3
+Step 2: Use your calculator to find the pH.
+pH = -log[H+(aq)] = -log (6.45 x 10-4) = 3.19
+Study tip
+Take care when using the calculator
+for the square root. You must use
+brackets around the values for
+K [HA(aq)] or calculate K [HA(aq)]
+first, and then take the square root
+of the answer afterwards.
+Determination of K
+Experimentally the K for a weak acid can be determined by
+preparing a standard solution of the weak acid of known
+concentration
+measuring the pH of the standard solution using a pH meter.
+The worked example below shows how the K value of a weak acid
+can be calculated from the acid concentration and a pH measurement.
+323
+20
+20.4 The pH of weak acids
+3 Worked example: Calculating K for a weak acid
+The pH of 0.065 mol dm- propanoic acid, CH,CH,COOH, is 3.04.
+Calculate K
+Step 1: Use your calculator to find [H*(aq)].
+TH+ (aq)] = 10-pH = 10-3.04 = 9.12 x 10-4 mol dm3
+Step 2: Calculate K from [H+ (aq)] and [HA(aq)].
+[H+ (aq)] [CH,CH,C00-(aq)] [H+(aq)12
+[CH,CH,COOH(aq)] [CH,CH,COOH(aq)]
+-= 1.28 x 10-5 mol dm-3
+0.065
+K - (9.12 x 10-4)2
+Approximations in calculations involving weak acids
+Both the worked examples make use of two approximations. Are these
+justified? Are there any situations where the approximations break down?
+Synoptic link
+See Topic 20.5, pH and strong
+bases, for details of the
+dissociation of water.
+Approximation 1
+The first approximation assumes that the dissociation of water is negligible.
+[H+ (aq) legm ~ [A (aq) Jeqm
+At 25 °C, [H+(aq)] from dissociation of water = 10-7 moldm-?. If the
+pH > 6, then [H+(aq)] from the dissociation of water will be significant
+compared with dissociation of the weak acid. This approximation
+breaks down for very weak acids or very dilute solutions.
+Approximation 2
+The second approximation assumes that the concentration of acid is
+much greater than the H+ concentration at equilibrium:
+[HA(aq)]start >> [H+ (aq)]egm
+[HA (aq) em = [HA(aq) Istar - [H+ (aq)eom approximates to
+[HA]eqm = [HA]start
+This approximation will hold for weak acids with small K values.
+It breaks down when [H+(aq)] becomes significant and there is a real
+difference between [HA(aq)eam and [HA(aq)]start - [H+ (aq)legm
+This approximation is not justified for stronger weak acids with
+K > 10-2 moldm-” and for very dilute solutions.
+Checking the approximations
+You can carry out the weak acid pH calculation without making the
+[HA(aq)]star - [H*(aq)]cam approximation, but you will then need to solve a
+quadratic equation. A far easier method is to use one of the many quadratic
+equation solver websites that you can find online.
+start
+Problem: Calculate the pH of a 0.100 moldm-3 solution of chlorous acid
+HCIO, (K: 1.2 x 10-2 mol dm-3).
+324
+20
+ACIDS, BASES, AND PH
+20.1 Bronsted-Lowry acids
+and bases
+Specification reference: 5.1.3
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ Bronsted-Lowry acids and
+bases
+→ conjugate acid-base pairs
+→ monobasic, dibasic, and
+tribasic acids
+► the role of Hin acid
+reactions.
+Development of models to explain acid-base
+behaviour
+Acids have been known for thousands of years. As scientific knowledge
+has increased, the definitions of an acid and a base have been modified
+over time. The flowchart in Figure 1 highlights some of the changing
+models of acid and base behaviour. Hydrogen was recognised as the
+important chemical component in acid compounds in the 1830s and
+this idea has been further refined since.
+Brønsted-Lowry acids and bases
+You have already seen that acids and alkalis release H and OH ions in
+water. This is the Arrhenius model of acids and bases:
+Early ideas: acids and alkalis
+Acids are sour (Latin acidus = sour)
+Alkalis from plant ashes
+(Arabic al-quili = plant ashes)
+acids dissociate and release H+ ions in aqueous solution
+• alkalis dissociate and release OH ions in aqueous solution
+• H+ ions are neutralised by OH-ions to form water:
+H+ (aq) + OH(aq) → H2O(1)
+An alkali is a soluble base.
+1754, Guillaume François
+Rouelle (French):
+A "base' reacts with an acid
+to give a solid form
+The Brønsted-Lowry model for acids and bases extends this model to
+emphasise the role of proton transfer between species.
+role of hydrogen
+A Brønsted-Lowry acid is a proton donor.
+A Brønsted-Lowry base is a proton acceptor.
+1832, Justus Liebig (German):
+Acids contain hydrogen that can
+be replaced by a metal
+Conjugate acid-base pairs
+The equation below shows the dissociation of hydrochloric acid, HCl(aq).
+ions in water
+HCl(aq)
+=
+H*(aq)
++
+Cl(aq)
+Arrhenius model 1884.
+Svante Arrhenius (Swedish)
+Acids form H+ ions.
+• Bases form OH-ions.
+central role of protons
+Even though an equilibrium sign has been shown, HCl is a strong
+acid and the equilibrium position is well over to the right-hand side.
+A single arrow can be used to indicate that the forward reaction
+effectively goes to completion.
+Brønsted-Lowry model 1923, Johannes
+Brønsted (Danish) and Thomas Lowry
+(English)
+Acid-base reactions transfer protons, H+.
+• An acid donates a proton.
+• A base accepts a proton.
+HCl(aq) and Cl(aq) are called a conjugate acid-base pair.
+A conjugate acid-base pair contains two species that can be
+interconverted by transfer of a proton.
+Figure 1 Some models that have
+been used to describe acid and base
+behaviour
+In the forward direction, HCl releases a proton to form its
+conjugate base, C.
+In the reverse direction, Cl- accepts a proton to forms its
+conjugate acid, HCI.
+310

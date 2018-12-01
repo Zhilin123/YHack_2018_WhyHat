@@ -1,0 +1,1479 @@
+26
+Chapter 26 Practice questions
+State the reagents and conditions for the
+hydrolysis of this ester in the laboratory to
+make a carboxylic acid.
+(2 marks)
+Write a balanced equation for this
+hydrolysis of the ester.
+(2 marks)
+Aspirin and paracetamol are common pain
+killers. The structures are shown below.
+HOOC
+4
+H3C—C—040
+H-C—
+C—
+N—
+aspirin
+paracetamol
+5
+e
+Practice questions
+1 The following reactions were observed for a
+compound with molecular formula C,H,O.
+Test 1: The compound did not react with
+Tollens' reagent when heated
+Test 2: On addition 2,4-dinitrophenylhydrazine,
+a yellow-orange precipitate is formed
+Test 3: Reaction with NaBH, in the presence
+of water produced a colourless liquid.
+a Draw the displayed full structural
+formulae of two compounds of formula
+CH,0.
+(2 marks)
+b What does the result of Test 1 show?
+(1 mark)
+c The formation of a yellow-orange
+precipitate in Test 2 is a positive test
+for a particular organic group.
+Identify this group.
+(1 mark)
+Using the formula of the compound and
+the results of Test 1 and Test 2, identify
+the compound by name.
+(1 mark)
+Draw the mechanism for the reaction
+between the compound identified in d
+and NaBH,
+(4 marks)
+2 An ester D is used as a solvent for paints and
+varnishes.
+a Ester D can be manufactured by heating
+an alcohol under reflux with ethanoic
+acid and a catalyst.
+(i) State a suitable catalyst for this reaction.
+(1 mark)
+(ii) Explain why the reaction is carried
+out under reflux.
+(1 mark)
+b Ester D has a structural formulae,
+CH,COOCH(CH3)CH CH.
+(i) Draw out the displayed formula
+of ester D and clearly display the
+functional group.
+(1 mark)
+(ii) State the name of the alcohol used to
+make ester D.
+(1 mark)
+3 Esters are well known as compounds
+providing flavour in many fruits and
+the scent of some flowers. The ester
+CH,(CH),COOCH, contributes to the
+aroma of apples.
+a Name the ester CH,(CH2)2COOCH,
+(1 mark)
+a State the reagents, conditions, and write
+equations., showing organic compounds
+as structures, for the production of aspirin
+from ethanoyl chloride.
+(3 marks)
+Aspirin is heated under reflux with
+aqueous sodium hydroxide.
+Write an equation for this reaction,
+showing organic compounds as structures.
+(2 marks)
+Acyl chlorides, such as propanoyl chloride
+are useful in the synthesis of other organic
+compounds.
+Identify the structure of the organic products
+formed in the reactions between propanoyl
+chlorides and the following.
+a ethanol
+b phenol
+cammonia d methylamine
+State the functional group present in each
+one of the organic products formed. (4 marks)
+The following three carbonyl compounds are
+structural isomers of C,H1002:
+6
+OH YVO HOY
+OH
+compound D
+compound C
+compound E
+a
+Describe chemical tests that you could
+carry out in test-tubes to distinguish
+between compounds C, D, and E.
+Include appropriate reagents and any
+relevant observations. Also include
+equations showing structures for the
+organic compounds involved. (4 marks)
+472
+26
+CARBONYLS AND CARBOXYLIC ACIDS
+Addition (Step 1)
+The lone pair of electrons from the nucleophile is attracted to and donated to
+the 6+ carbon atom in the C=0 group of the acyl chloride.
+A dative covalent bond is formed between the nucleophile and the carbonyl
+carbon atom. The -bond of the CEO group breaks, forming a negatively
+charged intermediate.
+Elimination (Step 2)
+A lone pair of electrons on oxygen reforms the C=0 double bond, causing
+a chloride ion to be removed. A proton is also then lost to complete the
+elimination. For simplicity, the loss of Cl- followed by H+ have been shown
+together in the second step of the mechanism.
+The mechanism is called nucleophilic addition-elimination.
+w
+elimination
+addition
+- H3C —CICI
+H3C—
+C
++ H+ + CH-
+OH
+Figure 18 The mechanism of nucleophilic addition-elimination
+1 Describe how the shape around the central carbon atom changes
+during the different steps in the reaction mechanism.
+2 Show the mechanism for the reaction of propanoyl chloride with
+ammonia.
+Summary questions
+1 State the name of each of the following compounds.
+a CH,CH,CH,CH,COOH
+b CH,CH,CH,CONH
+c (CH,CH,CO),0
+d CH CH CH CH COCI
+2 Write equations for the hydrolysis of propyl butanoate in
+both acid and alkaline conditions.
+(1 mark)
+(1 mark)
+(1 mark)
+(1 mark)
+(4 marks)
+3 Write the equations for the reactions used to prepare a sample of:
+a propanoic acid from propanoyl chloride
+(1 mark)
+b butyl ethanoate from ethanoyl chloride
+(1 mark)
+c propanamide from propanoic acid.
+Hint: Two steps are required.
+(2 marks)
+471
+CARBONYLS AND CARBOXYLIC ACIDS
+26
+CH3
+N-H
++ O=C
+CH3 -
+ON-
+CH3 +
+H2O
+NO2
+NO2
+2,4-dinitrophenylhydrazine
+Study tip
+The equation for the reaction of
+an aldehyde or a ketone with
+2,4-DNP is beyond the scope of the
+specification. However, you could
+be provided with the equation
+as additional information for an
+application-based question in an
+exam.
+2.4-dinitrophenylhydrazone
+derivative of propanone
+A Figure 3 Reaction of propanone with 2,4-DNP
+When 2,4-DNP reacts with a carbonyl group, the NH, group adds across the
+C=0 double bond, followed by removal of a water molecule.
+Write equations for the reactions of carbonyl compounds with the
+following hydrazine derivatives.
+a 2-methylpentan-3-one and hydroxylamine, NH,OH
+b phenylethanone, CH COCH, and hydrazine, NH NH,
+Distinguishing between aldehydes and ketones
+Once a compound has been identified as containing a carbonyl
+group using 2,4-DNP, a fresh sample of the compound can be further
+classified as either an aldehyde or a ketone using Tollens' reagent -a
+solution of silver nitrate in aqueous ammonia. In the presence of an
+aldehyde group, a silver mirror is produced.
+Testing for the aldehyde group with Tollens' reagent
+Tollens' reagent has a short shelf-life and should be made
+up immediately before carrying out the test, as follows:
+1 In a clean test tube, add 3 cm depth of aqueous silver
+nitrate, A
+2 Add aqueous sodium hydroxide to the silver nitrate
+until a brown precipitate of silver oxide, Ag, 0,
+is formed.
+Figure 4 Aldehydes react
+3 Add dilute ammonia solution until the brown
+with Tollens' reagent to form a
+precipitate just dissolves to form a clear colourless
+precipitate of silver (right) whereas
+ketones do not react (left)
+solution. This is Tollens' reagent.
+The method for carrying out the test for an aldehyde
+If the unknown solution contains an aldehyde then a
+group is outlined below:
+silver mirror forms. If the unknown solution is a ketone
+1 Pour 2 cm depth of the unknown solution into a clean
+then no reaction is observed.
+test tube.
+1 Which of the following would produce a silver
+2 Add an equal volume of freshly prepared Tollens' reagent.
+mirror with Tollens' reagent?
+3 Leave the test tube to stand in a beaker of warm
+A CH,CH_CH_CHO D (CH) CHCHO
+water at about 50°C for about 10 to 15 minutes and
+then observe whether any silver mirror is formed
+B CHCH,COCH, E CH,CHOHCH;
+(Figure 4).
+C CH CH CH CH OH
+2 Write an equation for any reaction of an aldehyde
+with Tollens' reagent.
+461
+CARBONYLS AND CARBOXYLIC ACIDS
+26
+b Aldehydes and ketones are both reduced
+by NaBH, When used in the presence of a
+CeCl, catalyst, NaBH, only reduces ketones.
+Compound F has the structural formula
+CH,COCH,CH,CHO. It is reduced by
+NaBH, in the presence of a CeCl, catalyst to
+form one of the compounds C, D, or E.
+Show the mechanism for this reduction of
+compound F and identify the product that
+is formed.
+Use curly arrows and show relevant
+dipoles. You do not need to show the role
+of the CeCl, catalyst.
+(4 marks)
+OCR F324 June 2014 Q2
+Pyruvic acid, shown below, is an organic
+compound that has a smell similar to ethanoic
+acid. It is extremely soluble in water.
+Describe a chemical test that could be carried
+out in a laboratory to distinguish between
+samples of pyruvic acid and compound A.
+Your answer should include reagents,
+observations, the type of reaction and the
+organic product formed.
+(4 marks)
+OCR F324 Jan 2013 QI
+8 Methylglyoxal, CH,COCHO, is formed in the
+body during metabolism.
+Describe one reduction reaction and one
+oxidation reaction of methylglyoxal that
+could be carried out in the laboratory.
+Your answer should include reagents,
+equations and observations, if any. (5 marks)
+OCR F324 Jun 2011 04
+Safranal, shown below, is an aldehyde which
+contributes to the aroma of saffron.
+HzC CH2
+7
+Hac
+OH
+pyruvic acid
+a
+CH3
+Explain why pyruvic acid is soluble in
+water. Use a labelled diagram to support
+your answer.
+(2 marks)
+Pyruvic acid can be prepared in
+the laboratory by reacting
+propane-1,2-diol with excess acidified
+potassium dichromate(VI). The reaction
+mixture is heated under reflux.
+Write an equation for this oxidation. Use
+[O] to represent the oxidising agent and
+show structural formulae for organic
+compounds.
+(2 marks)
+Pyruvic acid can also be reduced by
+NaBH, to form CH CH(OH)COOH.
+Outline the mechanism for this reduction.
+Use curly arrows and show relevant
+dipoles.
+(4 marks)
+Compound A, shown below, is a
+structural isomer of pyruvic acid.
+An undergraduate chemist investigated some
+reactions of safranal.
+a She prepared a solution of Tollens'
+reagent and added a few drops of safranal.
+She then warmed the mixture for about
+five minutes in a water bath.
+Describe what you would expect the
+chemist to see. State the type of reaction
+that the safranal undergoes.
+Draw the structure of the organic product
+formed in this reaction. (3 marks)
+b The chemist then reduced safranal using
+an aqueous solution of NaBH,
+Outline the mechanism for this reaction.
+Use curly arrows and show any relevant
+dipoles. You can use the following
+structure to represent safranal.
+H
+RH
+H
+H
+OH
+(4 marks)
+OCR F324 Janll Q3
+compound A
+473
+26
+26.2 Identifying aldehydes and ketones
+Study tip
+Tollens' reagent contains silver(I) ions, Ag+ (aq), which act as an
+oxidising agent in the presence of ammonia. In the reaction, silver ions
+are reduced to silver as the aldehyde is oxidised to a carboxylic acid.
+Remember that oxidation of
+organic compounds uses [O] to
+represent the oxidising agent.
+Ag+ (aq) +
+e
+reduction
+Ag(s)
+sliver mirror
+Synoptic link
+oxidation
+R-C
++
+[0]
+R
+-
+C
+H
+You will cover recrystallisation and
+determination of melting points
+in Topic 28.2, Further practical
+techniques.
+OH
+A Figure 5 Oxidation and reduction takes place in the
+reaction between an aldehyde and silver ions
+156
+156
+Identifying an aldehyde or ketone by melting point
+The 2,4-dinitrophenylhydrazone precipitate formed
+2,4-DNP derivative melting point/°C
+in the 2,4-DNP test can be analysed to identify the
+cyclopentanone
+146
+carbonyl compound as follows:
+propanal
+1 The impure yellow/orange solid is filtered to
+pentan-3-one
+separate the solid precipitate from the solution.
+methanal
+167
+2 The solid is then recrystallised to produce a pure
+sample of crystals.
+3 The melting point of the purified
+1 Draw the skeletal formulae for each carbonyl
+2,4-dinitrophenylhydrazone is measured and
+compound.
+recorded.
+How would you then obtain a pure sample of the
+derivative for the melting point starting from the
+The melting point is then compared to a database or
+data table of melting points to identify the original
+crude precipitate in the test tube?
+3 Not all of these carbonyl compounds could be
+carbonyl compound.
+identified solely from the melting point. Which carbonyl
+The table shows the melting points of the pure 2,4-DNP
+compounds are the problem and what further test
+derivatives of several carbonyl compounds.
+would be needed to distinguish between them?
+Summary questions
+1 Draw the structures of the two isomers with the
+molecular formula CH 0 that are carbonyl compounds
+and label as an aldehyde or a ketone. (2 marks)
+2 a Describe a chemical test in which aldehydes
+and ketones react in the same way. State the
+expected observations.
+(3 marks)
+b Describe a chemical test in which aldehydes and
+ketones react differently. State the expected
+observations and write equations to show
+any reaction.
+(4 marks)
+3 The three compounds below may be distinguished by
+simple chemical tests:
+CH, CH CH CHO CH,CH,COCH, CH,CH,CH,CH, OH
+Describe a sequence of tests that you could carry out
+to identify each compound. State all reagents used,
+any essential conditions, and expected observations.
+(6 marks)
+462
+CARBONYLS AND CARBOXYLIC ACIDS
+26
+This is very different from the non-polar C=C double bond in alkenes
+which reacts with electrophiles by electrophilic addition.
+Synoptic link
+Reaction of carbonyl compounds with NaBH,
+Sodium tetrahydridoborate (III), NaBH,, is used as a reducing agent to
+reduce aldehydes and ketones to alcohols. The aldehyde or ketone is
+usually warmed with the NaBH, reducing agent in aqueous solution.
+You will recall from Topic 15.1, The
+chemistry of the haloalkanes,
+that a nucleophile is defined as
+an atom or group of atoms that is
+attracted to an electron-deficient
+carbon atom, where it donates a
+pair of electrons to form a new
+covalent bond.
+Reducing an aldehyde
+Aldehydes are reduced to primary alcohols by NaBH,. The reduction of
+butanal is shown in Figure 9.
+H
+H
+H
+H
+NaBHA / H2O
+H—
+C—
+C—
+C—
+C
++
+2[H]
+H—
+C—
+C—
+C—
+C—OH
+H
+H
+H H
+butan-1-ol
+HHH
+butanal
+reducing agent
+Figure 9 Butanal is reduced to butan-1-ol by NaBH
+Reducing a ketone
+Ketones are reduced to secondary alcohols by NaBH,. The reduction of
+propanone is shown in Figure 10.
+Study tip
+Remember that reduction of
+organic compounds uses [H] to
+represent the reducing agent.
+H
+HH
+NaBH4/H20
+HCC-CH + 2[H]
+ht.
+H—
+C
+HH1
+—
+C
+—
+C
+—
+H
+H OH
+OH H
+propanone
+propan-2-01
+reducing agent
+A Figure 10 Propanone is reduced to propan-2-ol, a secondary alcohol
+Study tip
+Reaction of carbonyl compounds with HCN
+Hydrogen cyanide, HCN, adds across the C=0 bond of aldehydes and
+ketones. Hydrogen cyanide is a colourless, extremely poisonous liquid
+that boils slightly above room temperature, so it cannot be used safely
+in an open laboratory. Sodium cyanide and sulfuric acid are used to
+provide the hydrogen cyanide in the reaction, but the reaction is still
+potentially very hazardous.
+The reaction is very useful as it provides a means of increasing the
+length of the carbon chain. The reaction of propanal with hydrogen
+cyanide is shown in Figure 11.
+The reaction with hydrogen
+cyanide is an addition reaction as
+two reactants combine to become
+one product
+H
+H
+HHH
+H2SO4/NaCN
+HH
+H
+-
+C-
+C
++ HCN
+H—
+C—
+C—
+C—
+CN
+HH
+HH OH
+hydroxynitrile
+A Figure 11 Propanal reacts with hydrogen cyanide to form a hydroxynitrile
+457
+26.3 Carboxylic acids
+Specification reference: 6.1.3
+The carboxyl group
+A carboxylic acid is an organic acid which contains the carboxyl
+functional group. The carboxyl group (Figure 1) contains both a
+carbonyl group and a hydroxyl group.
+You will find carboxylic acids in medicines, fruit juices, vinegar, and
+even in rhubarb leaves.
+Although many carboxylic acids are useful in their own right, carboxylic
+acids and their derivatives are used in organic synthesis as starting
+materials or intermediates in the formation of more useful compounds.
+The painkiller, aspirin, can be synthesised from salicylic acid (Figure 2).
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the solubility of carboxylic
+acids
+→ reactions of carboxylic acids
+with metals and bases.
+carbonyl
+HO
+20
+HO
+20
+hydroxyl
+A Figure 1 The carboxyl group is
+made up of a carbonyl and a hydroxyl
+functional group, which give the
+carboxyl group its name
+salicylic acid
+aspirin
+(2-hydoxybenzoic acid)
+A Figure 2 Aspirin can be made from salicylic acid
+Study tip
+Naming carboxylic acids
+To name a carboxylic acid, the carboxylic acid (carboxyl) functional
+group is indicated by adding the suffix -oic acid to the stem of the longest
+carbon chain. The carboxyl carbon atom is always designated as carbon-1.
+Take special care here. The
+functional group is the carboxyl
+group, COOH. Don't be fooled into
+quoting both CEO and OH groups.
+The chemistry is changed entirely
+when the OH is attached to the
+carbon atom of the C=0.
+3 Worked example: Naming a carboxylic acid
+Name the carboxylic acid below:
+H CH3 H
+Synoptic link
+H-4c3c-20
+H
+H
+H
+OH
+For details of the rules for naming
+organic compounds, see Topic 11.2,
+Nomenclature of organic compounds.
+Step 1: There are four carbons in the longest chain, so the stem
+is but-.
+Step 2: The -COOH functional group is on the end of the chain
+so the suffix is -oic acid.
+Step 3: There is a suffix that is followed with a vowel - the
+alkane chain ending is shortened to -an-.
+Step 4: There is a methyl group on carbon-3, so the prefix
+3-methyl is added to the name.
+Step 5: The compound is 3-methylbutanoic acid.
+Figure 3 3-methylbutanoic acid has
+a strong pungent cheesy or sweaty
+smell. It is a major component of the
+odour that can come from smelly feet
+463
+26
+26.3 Carboxylic acids
+Synoptic link
+For details of hydrogen bonding,
+see Topic 6.4, Hydrogen bonding.
+Solubility of carboxylic acids
+The C=0 and 0-H bonds in carboxylic acids are polar allowing
+carboxylic acids to form hydrogen bonds with water molecules
+(Figure 4).
+Carboxylic acids with up to four carbon atoms are soluble in water.
+As the number of carbon atoms increases, the solubility decreases
+as the non-polar carbon chain has a greater effect on the overall
+polarity of the molecule.
+hydrogen bond
+H
+Ö
+&
+:
+St ..
+- 0
+H8+
+A Figure 4 Hydrogen bonds form between a carboxylic acid
+and water, making the carboxylic acid soluble in water
+Synoptic link
+Dicarboxylic acids have two polar carboxyl groups to form hydrogen
+bonds. They are solids at room temperature and dissolve readily in water.
+Strength of carboxylic acids
+Carboxylic acids are classified as weak acids. Methanoic acid, HCOOH,
+is the simplest carboxylic acid containing only one carbon atom. When
+dissolved in water, carboxylic acids partially dissociate:
+HCOOH(aq) = H+(aq) + HCOO-(aq)
+For more details of the dissociation
+of weak acids and reactions of
+acids, see Topic 4.1, Acids, bases,
+and neutralisation, and Topic 20.1,
+Bronsted-Lowry acids and bases.
+Acid reactions of carboxylic acids
+Carboxylic acids take place in redox and neutralisation reactions:
+redox reactions with metals
+neutralisation reactions with bases (alkalis, metal oxides, and
+carbonates).
+In these reactions, carboxylic acids form carboxylate salts. The
+carboxylate ion in the salt is named by changing the -ic acid ending
+of the carboxylic acid to-ate (Figure 5).
+LADACS).
+R—
+C
+R-
+C
+Figure 6 Magnesium metal reacts
+with carboxylic acids to produce
+hydrogen gas. The metal dissolves and
+there is an effervescence
+Synoptic link
+— H
+carboxylic acid carboxylate
+A Figure 5 Comparison of a carboxylic acid and a carboxylate ion
+Redox reactions of carboxylic acids with metals
+Aqueous solutions of carboxylic acids react with metals in a redox
+reaction to form hydrogen gas and the carboxylate salt. In this
+reaction, you would observe the metal disappearing and effervescence
+as hydrogen gas is evolved. The reaction of propanoic acid with
+magnesium is shown below.
+2CH2CH,COOH(aq) + Mg(s) — (CH,CH,C00-),Mg2+(aq) + H2(g)
+For more details of redox reactions
+of acids with metals, see Topic 4.3,
+Redox,
+464
+26
+26.1 Carbonyl compounds
+The organic product formed from the reaction of an aldehyde with
+hydrogen cyanide contains two functional groups, a hydroxyl group,
+-OH, and a nitrile group, C=N. These compounds are classed as
+hydroxynitriles (or cyanohydrins).
+Mechanism for nucleophilic addition to
+carbonyl compounds
+The carbon atom in the C=0 double bond is electron deficient
+and attracts nucleophiles. Aldehydes and ketones both react by
+nucleophilic addition to form alcohols.
+Study tip
+Addition to carbonyl groups usually
+consists of two steps:
+The mechanism for the reaction with NaBH,
+In this nucleophilic addition reaction, NaBH, can be considered as
+containing the hydride ion, :H®, which acts as the nucleophile.
+1 The lone pair of electrons from the hydride ion, :H”, is attracted
+and donated to the 8+ carbon atom in the aldehyde or ketone
+C=O double bond.
+2 A dative covalent bond is formed between the hydride ion and the
+carbon atom of the C=O double bond.
+The T-bond in the C=O double bond breaks by heterolytic fission,
+forming a negatively charged intermediate.
+4 The oxygen atom of the intermediate donates a lone pair
+of electrons to a hydrogen atom in a water molecule. The
+intermediate has then been protonated to form an alcohol.
+The mechanism for the reaction of propanone with NaBH, is shown in
+Figure 12.
+1 Nucleophilic attack on
+the carbonyl group to
+form a negatively charged
+intermediate.
+2 Protonation of the intermediate
+to form an alcohol.
+07 C0
+*H
+S+ intermediate
+is protonated
+OH
+H3C—C
+CH3 —
+H3C—C—CH3-
+H3C—C—CH3 + OH
+VH
+intermediate forms
+A Figure 12 Reduction of a carbonyl compound by nucleophilic addition
+Synoptic link
+This reaction will be very useful
+in organic synthesis (Topic 28.1,
+Extending carbon chain length) as
+it provides a method of increasing
+the length of the carbon chain.
+The mechanism for the reaction with NaCN/H+
+In the first stage of the reaction of an aldehyde or ketone with
+NaCN/H+, the cyanide ion, :CN-, attacks the electron-deficient carbon
+atom in the aldehyde or ketone.
+1 The lone pair of electrons from the cyanide ion, :CN-, is attracted
+and donated to the 8+ carbon atom in the aldehyde or ketone
+C=O double bond. A dative covalent bond forms.
+2 The n-bond in the CEO double bond breaks by heterolytic fission,
+forming a negatively charged intermediate.
+458
+26.4 Carboxylic acid derivatives
+Specification reference: 6.1.3
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ esterification
+→ hydrolysis of esters
+→ formation of acyl chlorides
+→ use of acyl chlorides in
+synthesis.
+What is a derivative of a carboxylic acid?
+A derivative of a carboxylic acid is a compound that can be hydrolysed
+to form the parent carboxylic acid. Carboxylic acid derivatives have
+a common sequence of atoms in their structure, known as an acyl
+group. The acyl group is shown in Figure 1.
+Esters, acyl chlorides, acid anhydrides, and amides are all derivatives
+of carboxylic acids (Figure 2).
+.
+.
+R-
+C
+(0)
+R-
+C
+NH2)
+A Figure 1 The structure of the acyl
+group
+ester
+acyl chloride acid anhydride amide
+Figure 2 Esters, acyl chlorides, acid anhydrides, and amides are all
+carboxylic acid derivatives. They all contain the acyl group (blue) attached
+to an electronegative atom or group of atoms (red)
+Esters
+An ester is named after the parent carboxylic acid from which it is
+derived. To name an ester, remove the coic acid suffix from the parent
+carboxylic acid and replace with coate. The alkyl chain attached to the
+oxygen atom of the COO group is then added as the first word in the
+name (Figure 3).
+H3C—C
+H3C —C
+02CH3
+OH
+ethanoic acid
+parent carboxylic acid
+methyl ethanoate
+Synoptic link
+If you need some revision of how
+organic compounds are named,
+revisit Topic 11.2, Nomenclature of
+organic compounds.
+A Figure 3 Naming esters
+Acyl chlorides
+An acyl chloride is named after the parent carboxylic acid from which
+it is derived. To name an acyl chloride, remove the Loic acid suffix from
+the parent carboxylic acid and replace with -oyl chloride (Figure 4).
+|
+CH3CH2-C
+-
+CH3CH2-C
+OH
+propanoic acid
+parent carboxylic acid
+propanoyl chloride
+ethanoate
+A Figure 4 Naming acyl chlorides
+466
+26.2 Identifying aldehydes and ketones
+Specification reference: 6.1.2
+ON-
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ using 2,4-dinitrophenylhydrazine:
+to detect and identify carbonyls
+→ using Tollens' reagent to
+identify aldehydes.
+Detecting carbonyl compounds
+A solution of 2,4-dinitrophenylhydrazine
+NGH
+(2,4-DNP or 2,4-DNPH), also known as
+Brady's Reagent, is used to detect the
+presence of the carbonyl functional group in
+NO
+both aldehydes and ketones. The structure
+of 2,4-DNP is shown in Figure 1. In the
+A Figure 1 Structure of
+presence of a carbonyl group, a yellow or -
+2,4-dinitrophenylhydrazine
+orange precipitate called a 2,4-dinitrophenylhydrazone is produced.
+Study tip
+You are not expected to know the
+structure of 2,4-DNP.
+Testing for the carbonyl group with 2,4-DNP
+In practical work, 2,4-DNP is normally used dissolved in methanol
+and sulfuric acid as a pale orange solution called Brady's reagent. Solid
+2,4-DNP can be very hazardous because friction or a sudden blow can
+cause it to explode.
+Testing for the carbonyl group in aldehydes and ketones
+The method for carrying out this test is outlined below.
+1 Add 5 cm depth of a solution of 2,4-dinitrophenylhydrazine to a clean
+test-tube. This is in excess.
+2 Using a dropping pipette, add three drops of the unknown compound.
+Leave to stand.
+3 If no crystals form, add a few drops of sulfuric acid.
+A yellow/orange precipitate (Figure 2) indicates the presence of an
+aldehyde or ketone.
+The test tube containing the yellow/orange precipitate can then be put to
+one side and analysed later to identify the aldehyde or ketone that formed
+the precipitate.
+Figure 2 A yellow/orange
+precipitate formed in the reaction
+between an aldehyde or a ketone and
+2,4-dinitrophenylhydrazine
+Which of the following would produce an orange precipitate with 2,4-DNP?
+A CH,CH, CH CHO
+D (CH),CHCHO
+B CH,CH,COCHE
+E CH CHOHCH
+C CH CH CH CH OH
+T
+The reaction of aldehydes and ketones with 2,4-DNP
+2,4-Dinitrophenylhydrazine is a derivative of hydrazine, H,NNH, Hydrazine
+and substituted hydrazines react with the carbonyl group in a nucleophilic
+addition-elimination reaction. This reaction is often called a condensation
+reaction as water is eliminated. The equation for the reaction between
+propanone and 2,4-dinitrophenylhydrazine is shown in Figure 3.
+460
+CARBONYLS AND CARBOXYLIC ACIDS
+26
+Study tip
+3 The intermediate is protonated by donating a lone pair of electrons
+to a hydrogen ion, to form the product.
+4 The product is a hydroxynitrile.
+The mechanism for the reaction of propanal with sodium cyanide in
+the presence of acid is shown in Figure 13. The second stage can also
+be drawn showing protonation by water, as in the mechanism with
+NaBH, in Figure 12.
+Although the cyanide ion is usually
+written as CN, the negative charge
+is actually on the carbon atom. In
+the mechanism it is important to
+show the negative charge on the
+carbon atom, CN, as shown in
+Figure 13.
+H+
+intermediate
+is protonated
+H
+H
+0
+OH
+08
+LY
+H—
+C—
+C—
+C 8+
+-
+H-
+-
+0-
+0-
+H
+—
+H-
+C—
+—
+C-
+HHH
+HH CN
+H H CN
+CN
+intermediate forms
+Cyanide ion attacks the 8+carbon
+atom and forms a covalent bond
+A Figure 13 Reaction of propanal with cyanide ions to form a hydroxynitrile
+Summary questions
+1 Draw the displayed formulae of the following molecules:
+a hexan-3-one
+b 2,3-dimethylnonanal
+c 2-methylpentanal
+d 3-ethyloctan-2-one.
+(1 mark)
+(1 mark)
+(1 mark)
+(1 mark)
+2 Write the equations for the reduction of:
+a propanal
+b pentan-2-one.
+(2 marks)
+(2 marks)
+3 Define the term nucleophile and explain why aldehydes and
+ketones undergo addition reactions.
+(3 marks)
+Show the mechanism for the reaction between propanal
+and NaBH,
+(4 marks)
+459
+CARBONYLS AND CARBOXYLIC ACIDS
+26
+Study tip
+Neutralisation reactions of carboxylic acids with bases
+Carboxylic acids react with all bases – metal oxides, alkalis, and
+carbonates. These reactions are all examples of neutralisation.
+Reaction with metal oxides
+Carboxylic acids react with metal oxides to form a salt and water. The
+equation below shows the reaction of aqueous ethanoic acid with
+calcium oxide to form calcium ethanoate and water:
+2CH,COOH(aq) + Cao(s) (CH,C00-),Ca2+ (aq) + H2O(l)
+When writing the formula of the salt,
+you can include or omit charges.
+If you do show charges, you must
+show them all, otherwise the
+equation is unbalanced by charge.
+So both (CH,CH_C00-), Mg2and
+(CH,CH,COO),Mg are acceptable.
+Reaction with alkalis
+Carboxylic acids react with alkalis to form a salt and water. In this
+reaction, you may not see any reaction as two solutions react together
+to form an aqueous solution of the salt. Ethanoic acid reacts with
+sodium hydroxide to form sodium ethanoate and water.
+Overall: CH,COOH(aq) + NaOH(aq) → CH,COO-Na+(aq) + H2O(l)
+Ionic H+ (aq) + OH(aq) + H20(1)
+Reaction with carbonates
+When a carbonate is added to a carboxylic acid, carbon dioxide gas
+is evolved. If the carboxylic acid is in excess a solid carbonate would
+disappear. The equation below shows the reaction of ethanoic acid
+with aqueous sodium carbonate:
+2CH2COOH(aq) + Na,Co,(aq) — 2CH,COO-Nat(aq) + H2O(l) + CO2(g)
+Test for the carboxyl group
+The neutralisation reaction of carboxylic acids with carbonates, for
+example, sodium carbonate, provides chemists with a method of
+distinguishing carboxylic acids from any other organic compounds.
+Carboxylic acids are the only common organic compounds
+sufficiently acidic to react with carbonates. This is especially useful for
+distinguishing carboxylic acids from phenols. Phenols are not acidic
+enough to react with carbonates.
+Figure 7 Ethanoic acid reacting with
+solid sodium carbonate. The reaction
+produces a salt (soluble sodium
+ethanoate), carbon dioxide (the bubbles
+seen here), and water
+Synoptic link
+Summary questions
+1 Draw the skeletal formula for the following carboxylic acids:
+a 3-ethylhexanoic acid
+b 2-chloro-3-methylpentanoic acid
+C 2-bromobenzoic acid
+You will also encounter the sodium
+carbonate test for the carboxyl
+group in Topic 29.1, Tests for
+organic functional groups.
+(1 mark)
+(1 mark)
+(1 mark)
+2 Write balanced equations for the reactions between:
+a propanoic acid and sodium carbonate
+b butanoic acid and copper(II)oxide
+(2 marks)
+(2 marks)
+3 Explain why ethanedioic acid is more soluble in water than
+ethanoic acid.
+(2 marks)
+Write balanced equations, using structural formulae, for the reactions
+between:
+a 2-bromobenzoic acid and magnesium
+(2 marks)
+b propanedioic acid and sodium hydroxide
+(2 marks)
+465
+26
+CARBONYLS AND CARBOXYLIC ACIDS
+CH3CH2–0
++ SOCI2
+-
+CH3CH2-C
++ SO2(g) + HCl(g)
+OH
+propanoic acid
+propanoyl chloride
+A Figure 11 The preparation of propanoyl chloride from propanoic acid
+Reactions of acyl chlorides
+Acyl chlorides are very reactive and are very useful in organic
+synthesis as they can be easily converted into carboxylic acid
+derivatives, such as esters and amides, with good yields. Acyl chlorides
+react with nucleophiles by losing the chloride ion whilst retaining the
+C=0 double bond.
+Reaction of acyl chlorides with alcohols to form esters
+Acyl chlorides react with alcohols to form esters. The reaction of
+ethanoyl chloride with propan-1-ol is shown in Figure 12.
+H3C —
+C
+CH3CH2CH2-OH
+→
+H3C -6
++
+HCI
+0 UM21123 hydrogen
+ethanoyl chloride propan-1-ol
+propyl ethanoate
+chloride
+A Figure 12 The reaction of an acyl chloride with an alcohol forming an ester
+Reaction of acyl chlorides with phenols to form esters
+Carboxylic acids are not reactive enough to form esters with phenols.
+Acyl chlorides and acid anhydrides are both much more reactive than
+carboxylic acids and react with phenols to produce phenyl esters.
+Neither reaction needs an acid catalyst.
+The equation for the formation of phenol ethanoate from ethanoyl
+chloride is shown in Figure 13.
+H3C—C
++ HOC
+HaC—C
+HCI
+hydrogen
+chloride
+ethanoyl chloride
+phenol
+phenyl ethanoate
+Figure 13 The preparation of phenyl ethanoate
+Reaction of acyl chlorides with water to form carboxylic acids
+When water is added to an acyl chloride, a violent reaction takes
+place with the evolution of dense steamy hydrogen chloride fumes.
+A carboxylic acid is formed. The equation for the reaction of water
+with ethanoyl chloride is shown in Figure 14.
+H3C—C
++ H20
+-
+H3C — C
++ HCI
+OH
+Figure 14 Ethanoyl chloride reacts vigorously with water to produce
+a carboxylic acid
+Figure 15 When water is added
+carefully to ethanoyl chloride, steamy
+fumes of HCl are observed
+469
+CARBONYLS AND CARBOXYLIC ACIDS
+26
+Synoptic link
+For details of the rules for naming
+organic compounds, see Topic 11.2,
+Nomenclature of organic compounds.
+Step 1: There are eight carbons in the longest chain, so the
+stem is oct-.
+Step 2: The-C=O functional group is on the end of the chain,
+an aldehyde, so the suffix is -al.
+Step 3: The aldehyde carbon is carbon-1 but this is not included
+in the name.
+Step 4: There is a suffix starting with a vowel so the alkane chain
+ending is shortened to -an-.
+Step 5: The compound is octanal.
+Octanal in nature
+Octanal, CH (CH), CHO, is a colourless fragrant liquid, one of
+a number of molecules responsible for the smell of oranges.
+during the breeding seasons. Mating pairs spread this
+scent over each other as part of their breeding ritual.
+Octanal occurs naturally in citrus oils and is used
+commercially as a component of perfumes and in flavour
+production for the food industry.
+Figure 7 Crested Aucklets
+A Figure 6
+Researchers have found that the crested auklet, a native
+bird of Alaska, emits a strong tangerine-like perfume
+Use the Internet to find the other aldehydes that
+contribute to the smell of oranges. Draw the skeletal
+formulae of two of these aldehydes.
+Synoptic link
+3) Worked example: Naming a ketone
+Use the naming rules for ketones to name the compound below.
+H H H
+Look back at Topic 14.2, Reactions
+of alcohols, to revise how primary
+alcohols can be oxidised to form
+aldehydes and carboxylic acids,
+and how secondary alcohols can
+be oxidised to ketones.
+H-
+C-
+-C-
+H0 H H H
+Step 1: There are five carbons in the longest chain, so the stem is
+pent-
+Study tip
+Step 2: There is a -C=0 functional group: so the suffix is -one.
+Step 3: The-C=0 group is at carbon-2 so the suffix is -2-
+Step 4: There is a suffix starting with a vowel so the alkane chain
+ending is shortened to -an-.
+In step 2, numbering could be from
+either end of the molecule. But the
+name uses the lowest number,
+here 2 rather than 4
+Step 5: The compound is pentan-2-one.
+455
+26
+26.1 Carbonyl compounds
+Study tip
+Use [O] in brackets to represent an
+oxidation agent. It makes balancing
+the equations much easier too.
+Oxidation of aldehydes
+Aldehydes can be oxidised to carboxylic acids when refluxed with acidified
+dichromate(VI) ions, Cr, 0,2-/H+, usually as a mixture of sodium or
+potassium dichromate(VI), K,Cr,0, and dilute sulfuric acid, H,SO. The
+equation for the oxidation of butanal is shown in Figure 5.
+H
+H
+H
+H
+H
+O
+H
+O
+H—
+C—
+C—
+C—
+C
++
+[O]
+KCr 07/H2SO4
+–
+→
+reflux
+H—
+C—
+C—
+C—
+C
+H H H
+H H H
+butanal
+oxidising agent
+butanoic acid
+A Figure 5 The oxidation of butanal with excess acidified potassium dichromate
+forming butanoic acid
+Ketones do not undergo oxidation reactions. This lack of reactivity
+provides chemists with a way of distinguishing between aldehydes
+and ketones. In Topic 26.2, you will learn more about the chemical
+tests that can be used to show the presence of a carbonyl group, and to
+distinguish aldehydes from ketones.
+Nucleophilic addition reactions of the
+carbonyl group
+A Figure 6 Aldehydes can be oxidised
+by acidified potassium dichromate(VI) -
+the dichromate solution changes colour
+from orange to green during the reaction
+The C=0 double bond
+The reactivity of aldehydes and ketones is influenced by the nature of
+the carbon-oxygen double bond. The double bond is made up of both
+a o-bond and a T-bond (Figure 7).
+o-bond
+0
+-bond above and below the plane of
+the carbon and oxygen atoms, formed
+by the sideways overlap of p-orbitals
+A Figure 7 The nature of the carbon-oxygen double bond
+Synoptic link
+Review the (=C double bond in
+alkenes from Topic 13.1, Properties
+of alkenes, which is also made up
+of a o-bond and a T-bond.
+You may think that carbonyl compounds would react in the same
+way as the alkenes, since carbonyl and alkene functional groups both
+contain a double bond. However, there is a significant difference in the
+nature of the double bond, which makes the reactions rather different.
+The C=C double bond in alkenes is non-polar.
+• The C=O double bond in carbonyl compounds is polar.
+Oxygen is more electronegative than carbon. The electron density in
+the double bond lies closer to the oxygen atom than to the carbon.
+This makes the carbon end of the bond slightly positive and the
+oxygen end slightly negative (Figure 8).
+Due to the polarity of the CEO double bond, aldehydes and ketones
+react with some nucleophiles. A nucleophile is attracted to and
+attacks the slightly positive carbon atom resulting in addition across
+the CEO double bond.
+The reaction type is nucleophilic addition.
+18+
+S
+A Figure 8 The polar nature of the
+carbon-oxygen bond
+456
+26
+26.4 Carboxylic acid derivatives
+Synoptic link
+For details of primary, secondary,
+and tertiary amines, see Topic 27.1,
+Amines.
+Reaction of acyl chlorides with ammonia and amines to form amides
+Ammonia and amines can act as nucleophiles by donating the lone
+pair of electrons on the nitrogen atom to an electron-deficient species.
+Their reaction with acyl chlorides forms amides.
+Ammonia reacts with acyl chlorides, forming a primary amide. In the
+primary amide the nitrogen atom is attached to one carbon atom. The
+reaction of ethanoyl chloride and ammonia is shown in Figure 16.
+H3C —
+C
++ 2NH3
+H3C—C
++
+NH4Cl
+CI
+NH2
+ethanoyl ammonia
+ethanamide ammonium
+chloride
+primary amide chloride
+A Figure 16 Reaction between ethanoyl chloride and ammonia
+A primary amine reacts with an acyl chloride in the same way as
+ammonia to form a secondary amide. In the secondary amide the
+nitrogen atom is attached to two carbon atoms. The reaction of
+ethanoyl chloride and methylamine is shown in Figure 17.
+Study tip
+H3C—
+C
++ 2CH3NH2 -
+H3C—C—N—CH3 + CH3NH3* C-
+The name N-methylethanamide
+shows us that the methyl group
+is attached to the nitrogen rather
+than a carbon atom of the main
+carbon chain.
+ethanoyl
+chloride
+methylamine
+primary amine
+N-methylethanamide
+secondary anide
+methylammonium
+chloride
+Figure 17 The formation of a secondary amide from the reaction between an acyl
+chloride and an amine
+Reactions of acid anhydrides
+Acid anhydrides react in a similar way to acyl chlorides with alcohols,
+phenols, water, ammonia, and amines. They are less reactive than acyl
+chlorides and are useful for some laboratory preparations where acyl
+chlorides may be too reactive.
+The equation for the formation of phenyl ethanoate from ethanoic
+anhydride and phenol is shown below.
+2(CH.CO),0 + CH,OH + CH,COOC HF + CH,COOH
+ethanoic anhydride phenol phenyl ethanoate ethanoic acid
+The mechanism of the reaction between acyl
+chlorides and nucleophiles
+You have already seen how nucleophiles react with haloalkanes and
+carbonyl compounds. It should come as no surprise then that acyl chlorides
+also react with nucleophiles. Carbonyl compounds undergo addition whereas
+haloalkanes undergo substitution, so what about acyl chlorides which
+contain both CEO and Cl?
+The mechanism (Figure 18) shows water as the nucleophile. The mechanism
+has two steps - addition followed by elimination - containing features of
+both carbonyl and haloalkane chemistry.
+470
+26
+CARBONYLS AND
+CARBOXYLIC ACIDS
+26.1 Carbonyl compounds
+Specification reference: 6.1.2
+Aldehydes and ketones
+Aldehydes and ketones are important organic compounds that both
+contain the carbonyl functional group, C=0.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ oxidation of aldehydes
+→ reactions of carbonyl
+compounds with NaBH, and
+HCN
+the mechanism of nucleophilic
+addition in these reactions.
+Aldehydes
+In aldehydes the carbonyl functional group is found at the end of a
+carbon chain. The carbon atom of the carbonyl group is attached to
+one or two hydrogen atoms. In its structural formula, the aldehyde
+group is written as CHO.
+The structure of the simplest aldehyde, methanal, HCHO, is shown in
+Figure 1. The common name for methanal is formaldehyde, which is
+used in solution to preserve biological specimens.
+Ketones
+In ketones, the carbonyl functional group is joined to two carbon
+atoms in the carbon chain. In its structural formula, the ketone group
+is written as CO.
+The simplest ketone, propanone, CH,COCH,, contains three carbon
+atoms (Figure 2). The common name for propanone is acetone, which
+is used as an important industrial solvent and is also used in nail-
+varnish removers.
+Figure 1 Methanal, HCHO, is
+the simplest aldehyde. Biological
+specimens are preserved in methanal
+(formaldehyde)
+Naming carbonyl compounds
+From the rules for naming organic compounds, you should be able to
+work out that the aldehyde and ketone functional groups are indicated
+by adding a suffix to the stem of the longest carbon chain:
+-al for an aldehyde
+-one for a ketone.
+In an aldehyde, the carbon atom of the carbonyl group is always
+designated as carbon-1, whereas in a ketone the carbonyl carbon atom
+needs to be numbered.
+-
+C-C
+H
+6 Worked example: Naming an aldehyde
+Use the naming rules for aldehydes to name the compound below.
+H H H H H H H
+H OH
+A Figure 2 Propanone, CH COCH,, with
+three carbon atoms, is the simplest ketone.
+It is an important industrial solvent and is
+also used in nail varnish remover
+H_86_6_66_50_46_36_26_16'
+#
+H
+454
+26
+26.4 Carboxylic acid derivatives
+Hydrolysis of esters
+Esters can be hydrolysed by aqueous acid or alkali. Hydrolysis is the
+chemical breakdown of a compound in the presence of water or in
+aqueous solution.
+Acid hydrolysis
+Acid hydrolysis of an ester is the reverse of esterification.
+To carry out acid hydrolysis:
+The ester is heated under reflux with dilute aqueous acid.
+• The ester is broken down by water, with the acid acting as a
+catalyst.
+The products of acid hydrolysis are a carboxylic acid and an alcohol, as
+shown in Figure 8.
++
+H2O
+=
++
+CH3OH
+O-CH3
+OH
+OH
+OH
+methanol
+methyl 2-hydroxybenzoate
+2-hydroxybenzoic acid
+Figure 8 The acid hydrolysis of the ester methyl 2-hydroxybenzoate
+Figure 9 Methyl
+2-hydroxybenzoate, also known
+as methyl salicylate (oil of
+wintergreen), is an organic ester
+naturally produced by many
+species of plants, particularly
+wintergreens
+Alkaline hydrolysis
+Alkaline hydrolysis is also known as saponification and is irreversible.
+The ester is heated under reflux with aqueous hydroxide ions.
+Figure 10 shows the alkaline hydrolysis of the ester methyl ethanoate
+to form a carboxylate ion and an alcohol.
+H3C—
+C
++
+OH-(aq) —
+H3C—C
++ CH3OH
+O- CH3
+methyl ethanoate
+ethanoate ion methanol
+Figure 10 The alkaline hydrolysis of methyl ethanoate
+If aqueous sodium hydroxide is the alkali, the salt sodium ethanoate is
+formed during alkaline hydrolysis:
+CH,COOCH, + NaOH CH,COO-Na+ + CH, OH
+Acyl chlorides and their reactions
+Preparation of acyl chlorides
+Acyl chlorides can be prepared directly from their parent carboxylic
+acid by reaction with thionyl chloride, SOCI,. The other products of
+this reaction, So, and HCl, are evolved as gases, leaving just the acyl
+chloride. The reaction should be carried out in a fume cupboard as the
+products are harmful.
+The reaction for the formation of propanoyl chloride from propanoic
+acid is shown in Figure 11.
+468
+26
+CARBONYLS AND CARBOXYLIC ACIDS
+Study tip
+Acid anhydrides
+An acid anhydride is formed by removal of water from two carboxylic acid
+molecules, as shown in the formation of ethanoic anhydride (Figure 5).
+The acid anhydride looks quite
+complicated, however there is a
+clue to its structure in the name.
+The anhydride (which means
+without water) is two molecules
+of carboxylic acid without water.
++
+H20
+H3COH HOCH
+Hşco
+Chat
+two molecules of
+ethanoic anhydride
+ethanoic acid
+A Figure 5 Formation of an acid anhydride from a carboxylic acid
+Esterification
+Esterification is the reaction of an alcohol with a carboxylic acid to
+form an ester. An alcohol is warmed with a carboxylic acid with a
+small amount of concentrated sulfuric acid, which acts as a catalyst.
+Esters are sweet-smelling liquids.
+In the reaction shown in Figure 6, ethanol reacts with propanoic acid
+to produce an ester, ethyl propanoate, and water. The name of the
+ester is derived from the names of the two reactants.
+H H
+H H
+HH
+H—
+C—
+HKH-K1,
+C—
+C
++
+H—
+C—
+C—OH
+-
+H-
+HH
++ H2O
+IQ-
+H
+H
+H
+H
+-C-CH
+propanoic acid
+ethanol
+HH
+ethyl propanoate
+water
+A Figure 6 The preparation of the ester ethylpropanoate
+The molecular formula for ethyl propanoate is C H 0,. It is a
+colourless liquid that smells like pineapples and is naturally produced
+in some fruits like kiwi fruit and strawberries.
+Making ethylpropanoate
+You will notice that you now have oily drops of the ester
+floating on the water. You will also be able to smell the
+aroma of the ester you have made. (Don't make a habit of
+inhaling smells in the laboratory - some compounds are
+poisons or carcinogens.)
+It is easy to make a sample of an ester in the laboratory.
+1 Pour 2 cm of ethanol and 2 cm of propanoic acid
+into a boiling tube.
+2 Carefully add a few drops of concentrated sulfuric
+acid to the mixture.
+3 Place the boiling tube in a beaker of hot water at
+about 80°C.
+4 Leave the boiling tube in the water for about five
+minutes.
+Pour the contents of the boiling tube into a beaker
+containing aqueous sodium carbonate. (Sodium
+carbonate is a weak base and neutralises the acids in
+the mixture. This removes the smell of any carboxylic
+acid that has not reacted, making it easier to detect
+the smell of the ester.)
+Figure 7 Many esters have a fruity smell
+Write the equation for the reaction of propanoic acid with
+sodium carbonate.
+467

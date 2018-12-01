@@ -1,0 +1,975 @@
+GENETICS OF LIVING SYSTEMS
+19
+a change in temperature or intensity of light. Internal factors can
+change due to the release of hormones or psychological stress.
+These factors will have a greater impact during the growth and
+development of an organism.
+Drugs can also affect the activity of regulatory genes. An example of
+this was the drug thalidomide. Thalidomide was given to pregnant
+women in the 1950s and 1960s to treat morning sickness. It was later
+discovered that it prevented the normal expression of a particular Hox
+gene. This resulted in the birth of babies with shortened limbs.
+Thalidomide is currently used in the treatment of some forms of cancer.
+The property of this drug that has previously caused problems during
+pregnancy is being exploited to stop the development of some tumours.
+It is believed that thalidomide prevents the formation of networks of
+capillaries which are necessary for some tumours to grow and develop.
+Figure 7 A girl with birth defects
+caused by the drug thalidomide. This
+drug was given to pregnant women in
+the 1950s and 1960s to treat morning
+sickness, until it was discovered to
+cause severe malformations in babies
+Ontology doesn't mimic phylogeny
+5993333
+The theory of recapitulation states that as organisms develop from fertilised egg
+to embryo they repeat the evolutionary process that they have been through. In
+biology, this can be summarised by the phrase ontology (the development of an
+organism) mimics phylogeny (the evolutionary history of an organism).
+This theory is not accepted by modern biologists but a modern theory states
+that 'oncology (the study of cancer) recapitulates ontology'. This refers to the
+discovery that genes originally expressed in the development of the embryo
+are expressed again by cancerous cells.
+Use your knowledge of Hox genes to suggest their possible roles in the
+development of certain tumours.
+A Figure 8 The drawing above was
+made in the 19th century as evidence
+supporting this theory.
+Summary questions
+1 Explain, with reference to their body shape, why human beings
+are referred to as bilaterally symmetrical but jellyfish are radially
+symmetrical.
+(3 marks)
+2 The Hox gene Pax6 is necessary for the normal development of the
+retina in humans. A mutation in this gene can lead to blindness. Pax6
+mutations also cause blindness in mice and fruit flies. Describe how
+scientists could have tested the idea that Pax6 plays a role in eye
+development in all three species.
+(5 marks)
+3 Consider the statement.
+All Hox genes are homeobox genes but not all homeobox genes are
+Hox genes.
+Discuss the validity of this statement.
+(5 marks)
+517
+19
+Chapter 19 Practice questions
+2 a The diagram shows a family's history of
+Huntington's disease.
+generation 1
+generation 2
+generation 3
+IB
+O
+generation 4
+C
+0
+C
+Practice questions
+1 The common groundsel, Senecio vulgaris, is a
+weed that is often found in large numbers on
+cultivated land. It was the first plant species
+to develop resistance to triazine herbicides.
+This resistance is the result of a gene
+mutation in the chloroplast DNA.
+Since its first appearance, triazine resistance
+has spread very rapidly in groundsel
+populations.
+a Explain the rapid spread of herbicide
+resistance in a weed such as groundsel.
+(5 marks)
+b DNA was extracted from the chloroplasts
+of triazine-susceptible and triazine-
+resistant groundsel plants. Equivalent
+lengths of DNA, including the site of the
+mutation, were isolated from each extract
+and then treated with the restriction
+enzyme Mael prior to electrophoresis.
+The resulting electrophoresis gel, after
+staining the DNA, is shown in the diagram.
+DNA from DNA from
+triazine-susceptible triazine-resistant
+plants
+plants
+wella
+length of DNA
+(number of base pairs)
+154
+123
+electrophoresis
+key: male with HD male without HD
+female with HD O female without HD
+Explain how the diagram provides
+evidence that Huntington's disease results
+from the inheritance of an autosomal
+dominant allele.
+(3 marks)
+b Genetic screening for Huntington's disease
+can be carried out, using a process similar
+to genetic fingerprinting, to find the
+length of a repeated triplet, or 'stutter', in
+an allele.
+DNA from individuals A, B and C from
+the family shown in the diagram was
+analysed.
+The resulting banding patterns are shown
+in the diagram.
+gel
+range of
+lengths of
+abnormal
+allele
+range of
+lengths of
+normal allele
+direction of
+movement of
+DNA fragments
+A
+B
+C
+(i) State, giving a reason, whether the
+mutation giving resistance to triazine
+is a deletion, a substitution or an
+addition.
+(2 marks)
+(ii) Explain the difference in banding
+pattern between DNA from triazine-
+susceptible and triazine-resistant
+plants.
+(iii) Suggest one way in which the
+mutation could give resistance to
+triazine.
+(2 marks)
+OCR 2805/02 2010
+Explain why the DNA of the following
+bands in the diagram are not the same
+length:
+(i) the three normal alleles (1 mark)
+(ii) the three abnormal alleles. (1 mark)
+OCR 2805/02 2008
+(2 marks)
+518
+MODULE 6
+Genetics, evolution, and ecosystems
+Chapters in this module
+Demonstrate knowledge, understanding, and application of:
+19 Genetics of living systems
+20 Patterns of inheritance and variation
+21 Manipulating genomes
+22 Cloning and biotechnology
+23 Ecosystems
+24 Populations and sustainability
+Introduction
+In this module you will learn how genes regulate debate. You will find out how genomes are sequenced
+and control cell function. This will lead on
+as well as how DNA profiling is used in forensics and
+to the study of heredity, evolution, and DNA to determine the risk of certain diseases.
+manipulation. Finally, you will consider the
+Cloning and biotechnology explores how
+impacts of human activities on the natural
+farmers and growers exploit natural vegetative
+environment and biodiversity.
+propagation in the production of uniform crops,
+Genetics of living systems introduces how the as well as the role of scientists in the production
+genetic control of metabolic reactions determines of artificial plant and animal clones. The use of
+an organism's growth, development, and function. microorganisms in biotechnology to produce food,
+This also includes looking at the effects of gene drugs, and other products is also studied.
+mutations on protein function.
+Ecosystems are dynamic and influenced by both
+Patterns of inheritance and variation allows you biotic and abiotic factors. You will study the complex
+to study how genetic and environmental factors interactions which occur between organisms
+contribute to variation within a population. Over and their environment as well as finding out how
+a prolonged period, organisms can change so materials are passed on and recycled.
+significantly that new species have formed, whereas
+Populations and sustainability investigates
+others have become extinct. Humans can use
+the factors that determine population size and
+artificial selection to produce similar changes in
+the economic, social, and ethical reasons why
+plants and animals.
+ecosystems may need to be managed. This
+Manipulating genomes has many potential includes looking at how biological resources can
+benefits such as the treatment of disease but the be used sustainably to support an increasing
+implications of genetic techniques are of public human population.
+504
+GENETICS OF LIVING SYSTEMS
+19.1 Mutations and variation
+Specification reference: 6.1.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+types of gene mutations
+and their possible effects
+on protein production and
+function.
+Gene mutations (when DNA goes wrong)
+A mutation is a change in the sequence of bases in DNA. Protein
+synthesis can be disrupted if the mutation occurs within a gene. The
+change in sequence is caused by the substitution, deletion, or
+insertion of one or more nucleotides (or base pairs) within a gene.
+If only one nucleotide is affected it is called a point mutation.
+The substitution of a single nucleotide changes the codon in which it
+occurs. If the new codon codes for a different amino acid this will lead to
+a change in the primary structure of the protein. The degenerate nature
+of the genetic code may mean however that the new codon still codes for
+the same amino acid leading to no change in the protein synthesised.
+Synoptic link
+Look back at Topic 3.9, DNA
+replication and the genetic code
+to remind you of why the genetic
+code is degenerate.
+The position and involvement of the amino acid in R group
+interactions within the protein will determine the impact of the new
+amino acid on the function of the protein. For example, if the protein
+is an enzyme and the amino acid plays an important role within the
+active site, then the protein may no longer act as a biological catalyst.
+normal DNA sequence:
+AGT, CGA, TAG
+codon l codon 2 codon 3
+point mutations:
+base substitution (
+A
+substituted instead of C
+in codon 2):
+AGT, AGA TAG
+codon 1 codon 2 codon 3
+The insertion or deletion of a nucleotide, or nucleotides,
+leads to a frameshift mutation (Figure 1). The triplet code
+means that sequences of bases are transcribed (or read)
+consecutively in non-overlapping groups of three. This is
+the reading frame of a sequence of bases. Each group of
+three bases corresponds to one amino acid. The addition or
+deletion of a nucleotide moves, or shifts, the reading frame
+of the sequence of bases. This will change every successive
+codon from the point of mutation.
+ATG TCG ATA
+codon 1 codon 2 codon 3
+frameshift mutations:
+insertion
+(T inserted before G
+in codon 1):
+deletion
+(G deleted from
+codon 1):
+ATC, GAT, AGC
+A
+codon 1 codon 2 codon 3
+The same effect is seen however many nucleotides are
+added or deleted, unless the number of nucleotides changed
+is a multiple of three. Multiples of three correspond to full
+codons and therefore the reading frame will not be changed
+- but the protein formed will still be affected as a new
+amino acid is added.
+A Figure 1 The diagram shows the
+effect of different point mutations on
+codons and sequences of codons
+Effects of different mutations
+No effect - there is no effect on the phenotype of an organism
+because normally functioning proteins are still synthesised.
+Damaging - the phenotype of an organism is affected in a negative
+way because proteins are no longer synthesised or proteins
+synthesised are non-functional. This can interfere with one, or
+more, essential processes.
+506
+Knowledge and understanding checklist
+From your Key Stage 4 study you should be able to answer the following
+questions. Work through each point, using your Key Stage 4 notes and the
+support available on Kerboodle.
+O Describe the process of mitosis in growth, including the cell cycle.
+Explain how some abiotic and biotic factors affect communities.
+Describe the importance of interdependence and competition in a community.
+O Explain the role of microorganisms in the cycling of materials through
+an ecosystem.
+Describe human interactions within ecosystems and explain their impact
+on biodiversity.
+Explain some of the benefits and challenges of maintaining local and global
+biodiversity.
+U Explain the following terms - genome, gamete, chromosome, gene, allele/
+variant, dominant, recessive, homozygous, heterozygous, genotype, and
+phenotype.
+Explain single gene inheritance and predict the results of single gene crosses.
+State that there is usually extensive genetic variation within a population of
+a species.
+Explain the impact of the selective breeding of food plants and
+domesticated animals.
+O Describe the main steps in the process of genetic engineering.
+Maths skills checklist
+In this module, you will need to use the following maths skills. You can find
+support for these skills on kerboodle and through MyMaths.
+Ratios. You will need to use phenotypic ratios to identify linkage and epistasis.
+U Chi-squared test. You will need to use the chi-squared test to determine the
+significance of the difference between observed and expected results.
+U Hardy-Weinberg principle. You will need to use the Hardy-Weinberg
+principle to calculate allele frequencies in populations.
+Correlation coefficient. You will need to use
+this test to consider the relationship between
+two sets of data. This will determine if and how 6. MyMaths.co.uk
+Bringing Maths Alive
+the data are correlated.
+505
+19
+GENETICS OF LIVING SYSTEMS
+YVOIRS.
+3 Homeobox genes show astonishing similarity
+across widely different species of animal,
+from fruit flies, which are insects, to mice and
+humans, which are mammals. The sequences
+of these genes have remained relatively
+unchanged throughout evolutionary history
+and the same genes control embryonic
+development in flies and mammals.
+a State what is meant by a homeobox gene.
+(2 marks)
+b Homeobox genes show 'astonishing
+similarity across widely different species
+of animal'.
+Explain why there has been very little
+change by mutation in these genes.
+(2 marks)
+Frogs reproduce by laying eggs in water,
+each egg develops into a tadpole, which
+has external gills to extract oxygen from
+the water, and a tail to help it swim. The
+tadpole gradually changes into an adult
+frog as it grows. During this time its gills
+and tail disappear.
+List two cellular processes that must occur
+during the development of a tadpole into
+a frog.
+(2 marks)
+d Name another kingdom of organisms,
+other than animals, that have similar
+homeotic genes.
+(1 mark)
+OCR F215 2012
+4 An enhancer of a regulatory gene responsible
+for limb development in mammals, called the
+sonic hedgehog gene, is located in the intron
+of a neighbouring gene. This regulatory gene
+was first investigated using Drosophila -
+genetically modified flies. Without this gene
+the fruit flies grew small projections (known
+as denticles) all over their bodies.
+Point mutations in the enhancer sequence for
+this gene result in polydactyly, extra fingers
+or toes.
+The photograph and X-ray show a child's foot
+with polydactyl - a deformity in which more
+than the usual number of digits are present.
+The condition is genetic in origin, and in
+most cases causes no harm. The extra digits
+are often underdeveloped (those at lower left
+in this case), and if removed surgically soon
+after birth cause no long term complications.
+a Explain how an enhancer works.
+(2 marks)
+b State the meaning of the term intron.
+(1 mark)
+c Describe what is meant by a point
+mutation.
+(2 marks)
+Explain why the sonic hedgehog gene
+is an example of a Hox gene. (2 marks)
+e The sonic hedgehog gene is usually
+expressed in cells close to tissue that
+eventually develops into the small fingers
+or toes.
+Suggest how different rates of
+transcription of this gene leads to the
+formation of fingers with different sizes
+and shapes.
+(3 marks)
+519
+GENETICS OF LIVING SYSTEMS
+19
+Hox genes
+Hox genes (often used interchangeably with homeobox genes) are
+one group of homeobox genes that are only present in animals. They
+are responsible for the correct positioning of body parts. In animals the
+Hox genes are found in gene clusters – mammals have four clusters on
+different chromosomes.
+The order in which the genes appear along the chromosome is the
+order in which their effects are expressed in the organism. Human
+beings have 39 Hox genes in total that are all believed to have arisen
+from one ancient homeobox gene by duplication and accumulated
+mutations over time.
+The layout of living organisms
+Body plans are usually represented as cross-sections through the
+organism showing the fundamental arrangement of tissue layers.
+Diploblastic animals have two primary tissue layers and triploblastic
+animals have three primary tissue layers.
+A common feature of animals is that they are segmented, that is, the
+rings of a worm or the less obvious back bone of vertebrates. These
+segments have multiplied over time and are specialised to perform
+different functions. Hox genes in the head control the development of
+mouthparts and Hox genes in the thorax control the development of
+wings, limbs, or ribs.
+The individual vertebrae and associated structures have all developed
+from segments in the embryo called somites. The somites are directed
+by Hox genes to develop in a particular way depending on their
+position in the sequence.
+Figure 4 Body layout from head to tail in both flies and human beings is
+controlled by Hox genes. The fly has a set of eight Hox genes but human beings
+have four comparable sets
+515
+19
+GENETICS OF LIVING SYSTEMS
+Glutamic acid is a hydrophilic amino acid but valine is a hydrophobic
+amino acid. When the partial pressure of oxygen is low, and haemoglobin
+is dissociated from oxygen, the hydrophobic valine amino acids bind to
+hydrophobic regions on adjacent haemoglobin molecules.
+The aggregation of haemoglobin molecules deforms the shape of
+erythrocytes causing them to become sickle shaped. The erythrocytes
+are less flexible and have difficulty moving through capillaries resulting in
+reduced oxygen delivery to tissues, which causes anaemia.
+In homozygous individuals, there are two copies of the mutant alleles
+present. Heterozygous individuals only get mild symptoms of the condition,
+but are resistant to malaria. Hundreds of millions of people get malaria each
+year with over a million fatal cases.
+1 Evaluate the benefits of being heterozygous for sickle cell anaemia.
+2 Explain how the change of one amino acid in haemoglobin could
+reduce the oxygen-carrying ability of the blood.
+Chromosome mutations
+Gene mutations occur in single genes or sections of DNA whereas
+chromosome mutations affect the whole chromosome or number of
+chromosomes within a cell. They can also be caused by mutagens and
+normally occur during meiosis. As with gene mutations, the mutations
+can be silent but often lead to developmental difficulties.
+Changes in chromosome structure include:
+Synoptic link
+Deletion - a section of chromosome breaks off and is lost within
+the cell.
+Duplication - sections get duplicated on a chromosome.
+Translocation - a section of one chromosome breaks off and joins
+another non-homologous chromosome.
+Inversion - a section of chromosome breaks off, is reversed, and
+then joins back onto the chromosome.
+To remind yourself of the process
+of meiosis, look back at Topic 6.3,
+Meiosis.
+Summary questions
+1 The development of lactose tolerance is thought to have spread over
+approximately 20 000 years, which in evolutionary terms is very quick.
+Explain why the percentage of adults with the ability to digest lactose
+increased at such a rate.
+2 Outline why the majority of mutations do not have an influence
+phenotype.
+(2 marks)
+3 Discuss why beneficial mutations are rare and suggest a process that
+beneficial mutations underpin.
+(4 marks)
+509
+.
+19.2 Control of gene expression
+Specification reference: 6.1.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the regulatory mechanisms
+that control gene expression
+at the transcriptional level,
+post-transcriptional level, and
+post-translational level.
+Gene regulation
+Enzymes which are necessary for reactions present in metabolic pathways
+like respiration are constantly required, and the genes that code for these
+are called housekeeping genes. Protein-based hormones (required for the
+growth and development of an organism or enzymes) are only required
+by certain cells at certain times to carry out a short-lived response. They
+are coded for by tissue-specific genes.
+The entire genome of an organism is present in every prokaryotic
+cell, or eukaryotic cell that contains a nucleus. This includes genes
+not required by that cell so the expression of genes and the rate of
+synthesis of protein products like enzymes and hormones has to be
+regulated. Genes can be turned on or off, and the rate of product
+synthesis increased or decreased depending on demand.
+Bacteria are able to respond to changes in the environment because of
+gene regulation. Expressing genes only when the products are needed
+also prevents vital resources being wasted.
+Gene regulation is fundamentally the same in both prokaryotes
+and eukaryotes. However, the stimuli that cause changes in gene
+expression and the responses produced are more complex in eukaryotes.
+Multicellular organisms not only have to respond to changes in the
+external environment but also the internal environment. Gene regulation
+is required for cells to specialise and work in a coordinated way.
+There are a number of different ways in which genes are regulated,
+categorised by the level at which they operate:
+Transcriptional - genes can be turned on or off
+Post-transcriptional - mRNA can be modified which regulates
+translation and the types of proteins produced
+Translational - translation can be stopped or started
+Post-translational - proteins can be modified after synthesis which
+changes their functions.
+•
+Transcriptional control
+There are a number of mechanisms that can affect the transcription
+of genes.
+Chromatin remodelling
+As you have already learnt, DNA is a very long molecule and has to
+be wound around proteins called histones in eukaryotic cells, in order
+to be packed into the nucleus of a cell. The resulting DNA/protein
+complex is called a chromatin.
+Heterochromatin is tightly wound DNA causing chromosomes to be
+visible during cell division whereas euchromatin is loosely wound
+DNA present during interphase. The transcription of genes is not possible
+when DNA is tightly wound because RNA polymerase cannot access the
+510
+19
+19.3 Body plans
+Symmetry
+The body shape of most animals shows symmetry.
+Radial symmetry is seen in diploblastic animals like jellyfish. They
+have no left or right sides, only a top and a bottom.
+• Bilateral symmetry which is seen in most animals means the
+organisms have both left and right sides and a head and tail rather
+than just a top and bottom.
+• Asymmetry is seen in sponges which have no lines of symmetry.
+morphogenetic apoptosis
+acting as a stone sculptor
+elimination of material
+by apoptosis
+Mitosis and apoptosis
+Mitosis, which results in cell division and proliferation, and apoptosis
+(Figure 6), which is programmed cell death, are both essential in
+shaping organisms.
+The role of mitosis is to increase the number of cells leading to growth.
+The role of apoptosis is not so immediately obvious. Consider how a
+sculptor works to give shape to a block of wood or stone. The shape
+is revealed as material is removed bit by bit. This is one of the ways in
+which apoptosis shapes different body parts - by removing unwanted
+cells and tissues. Cells undergoing apoptosis can also release chemical
+signals which stimulate mitosis and cell proliferation leading to the
+remodelling of tissues. A sculptor working with clay will often add and
+remove clay during the reshaping process. Hox genes regulate both
+mitosis and apoptosis.
+8
+OOOG
+eos
+NOVA
+new shape revealed
+nucleus condensing
+cell shrinkage
+A Figure 5 The development of the hand
+is an example of morphogenetic apoptosis.
+The red area shows how apoptosis is used
+to sculpt the individual fingers
++ nucleus
+blebs
+en
+Synoptic link
+You learnt about mitosis in
+Topic 6.2, Mitosis.
+nucleus fragmenting
+apoptotic body
+apoptotic bodies
+engulfed by phagocyte
+A Figure 6 The process of apoptosis
+Factors affecting the expression of regulatory genes
+The expression of regulatory genes can be influenced by the
+environment, both internal and external. Stress can be defined
+as the condition produced when the homeostatic balance within
+an organism is upset. This can be due to external factors such as
+516
+19
+19.1 Mutations and variation
+Nonsense mutations
+Nonsense mutations result in a codon becoming a stop
+codon instead of coding for an amino acid. The result is a
+shortened protein being synthesised which is normally
+non-functional. These mutations normally have negative
+or harmful effects on phenotypes.
+mutation is less severe. In contrast, a non-conservative
+mutation is when the new amino acid coded for has
+different properties to the original, this is more likely to
+have an effect on protein structure, and may cause disease.
+Missense mutations
+Missense mutations result in the incorporation of an
+incorrect amino acid (or amino acids) into the primary
+structure when the protein is synthesised. The result
+depends on the role the amino acid plays in the structure
+and therefore function of the protein synthesised.
+The mutation could be silent, beneficial, or harmful. A
+conservative mutation occurs when the amino acid change
+leads to an amino acid being coded for which has similar
+properties to the original, this means the effect of the
+1 Different mutations have a range of effects on
+proteins synthesised. These are categorised as
+follows:
+Amorph - mutation that results in the loss of
+function of a protein
+Hypomorph - mutation that results in a reduction
+of function of a protein
+Hypermorph - mutation that results in a gain in
+function of a protein.
+Suggest whether amorphic mutations result in
+dominant or recessive alleles. Give the reason(s)
+for your answer.
+Table 2 Point mutations can be silent, nonsense, or missense depending on their effect on the primary
+structure of the protein coded for by the gene
+Point mutations
+Level where
+effect occurs
+No mutations
+Silent
+Nonsense
+Missense
+conservative
+non-conservative
+DNA level
+TTC
+ATC
+TCC
+TGC
+TTT
+AAA
+mRNA level
+AAG
+UAG
+AGG
+ACG
+protein level
+Lys
+Lys
+STOP
+Argi
+Thr
+Beneficial mutations
+The ability to digest lactose, the sugar present in milk, is thought to be
+the result of a relatively recent mutation. The majority of mammals
+in the world become lactose intolerant after they cease to suckle. The
+ability to digest lactose is found primarily in European populations who
+are more likely to farm cattle. The ability to drink milk and process
+lactose as an adult helps prevent diseases such as osteoporosis - this
+could also have prevented individuals with the mutation from starving
+during famines. This mutation appears to have arisen spontaneously
+more than once – it has also been found in people in East Africa.
+Sickle-cell anaemia
+Sickle-cell anaemia is a blood disorder where erythrocytes develop
+abnormally. The disorder is cause by a mutation in the gene coding for
+haemoglobin. There is a substitution of just one base. Thymine replaces
+adenine, making the sixth amino acid valine instead of glutamic acid on the
+beta haemoglobin chain.
+508
+19.3 Body plans
+Specification reference: 6.1.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the genetic control of the
+development of body plans in
+different organisms
+the importance of mitosis and
+apoptosis as mechanisms
+controlling the development
+of body form.
+Body plans
+Living organisms come in all shapes and sizes from tulips to mosquitoes
+to humans. It is the same small group of genes, however, that control
+the growth and development of these vastly different living forms.
+The regulation of the pattern of
+anatomical development is called
+morphogenesis.
+These genes were discovered by
+scientists investigating strange
+mutations observed in fruit flies
+such as legs on the head in place of
+antennae or extra pairs of wings.
+Fruit flies are small flies belonging
+to the genus Drosophila that feed
+and reproduce on rotting fruit.
+They are small, easy to keep, and
+have a short life cycle so have
+always been a popular choice for
+use in genetic studies.
+Figure 1 Coloured scanning electron
+micrograph of the head of a mutant fruit
+fly Drosophila melanogaster with leg
+antennae, approx 58 magnification
+A Figure 2 False-colour scanning
+electron micrograph of a mutant fruit
+fly, Drosophila melanogaster, with four
+wings. The normal fly has one pair of
+wings. Fruit flies have been used for
+many years in genetic research because
+it is easy to raise in large numbers in
+the laboratory, reproduces rapidly, and
+many of its mutations are easy to see
+under a low-powered microscope, approx
+x9.8 magnification
+Homeobox genes
+Homeobox genes are a group of genes which all contain a homeobox.
+The homeobox is a section of DNA 180 base pairs long coding for a part
+of the protein 60 amino acids long that is highly conserved (very similar)
+in plants, animals, and fungi. This part of the protein, a homeodomain,
+binds to DNA and switches other genes on or off. Therefore, homeobox
+genes are regulatory genes.
+The common ancestor of the mouse and human is thought to have
+lived about 60 million years ago. Mutations have been accumulating
+ever since and evolution has led to two very different organisms.
+Many of the homeobox genes present in the mouse and human,
+however, still have identical nucleotide sequences.
+Pax6 is one of the homeobox
+genes. When mutated it causes
+a form of blindness (due to
+underdevelopment of the retina)
+in humans. Mice and fruit
+flies also have this gene and
+disruption of the gene causes
+blindness in these organisms as
+Figure 3 This two-headed calf is an well. These findings suggest that
+example of what can go wrong when Pax6 is a gene involved in the
+there is a mutation in a regulatory Hox
+development of eyes in all three
+gene. Although this calf has two heads,
+species.
+it only has one brain and so the heads
+react simultaneously
+Synoptic link
+You learnt about evolution in
+Chapter 10, Classification and
+evolution.
+514
+19
+GENETICS OF LIVING SYSTEMS
+binding of inhibitory proteins to mRNA prevents it binding to
+ribosomes and the synthesis of proteins.
+activation of initiation factors which aid the binding of mRNA to
+ribosomes (the eggs of many organisms produce large quantities of
+mRNA which is not required until after fertilisation, at which point
+initiation factors are activated).
+Protein kinases
+Protein kinases are enzymes that catalyse the addition of phosphate
+groups to proteins. The addition of a phosphate group changes the
+tertiary structure and so the function of a protein. Many enzymes are
+activated by phosphorylation. Protein kinases are therefore important
+regulators of cell activity. Protein kinases are themselves often
+activated by the secondary messenger CAMP.
+Study tip
+It is important to appreciate the
+difference between structural
+genes and regulatory genes.
+Post-translational control
+Post-translational control involves modifications to the proteins that
+have been synthesised. This includes the following:
+addition of non-protein groups such as carbohydrate chains, lipids,
+or phosphates
+modifying amino acids and the formation of bonds such as
+disulfide bridges
+folding or shortening of proteins.
+modification by CAMP - for example, in the lac operon CAMP
+binds to the CAMP receptor protein increasing the rate of
+transcription of the structural genes.
+Summary questions
+1 The lac operon if often referred to as being 'leaky' meaning that it is still
+transcribed to a limited extent even in the absence of lactose.
+a Using your knowledge of how the lac operon works,
+explain why this is necessary.
+(3 marks)
+b Suggest the functions of B-galactosidase and lactose
+permease synthesised by the lac operon.
+(3 marks)
+2 Another example of gene regulation in prokaryotes is the trp operon.
+This operon codes for the production of tryptophan, an essential amino
+acid for the bacterium E. coli. When tryptophan is available in the
+environment the structural genes in the trp operon are not expressed.
+Suggest a mechanism for the genetic regulation of this operon. (5 marks)
+3 Using your knowledge of enzymes, explain how enzyme
+cofactors could play a role in gene regulation.
+(4 marks)
+513
+GENETICS OF LIVING SYSTEMS
+CS OF LIVING SYSTEMS
+19
+Beneficial – very rarely a protein is synthesised that results in a
+new and useful characteristic in the phenotype. For example, a
+mutation in a protein present in the cell surface membranes of
+human cells means that the human immunodeficiency virus (HIV)
+cannot bind and enter these cells. People with this mutation are
+immune to infection from HIV.
+Causes of mutations
+Mutations can occur spontaneously, often during DNA replication,
+but the rate of mutation is increased by mutagens. A mutagen is a
+chemical, physical, or biological agent which causes mutations (Table 1).
+The loss of a purine base (depurination) or a pyrimidine base
+(depyrimidination) often occurs spontaneously. The absence of a base
+can lead to the insertion of an incorrect base through complementary
+base pairing during DNA replication.
+Free radicals, which are oxidising agents, can affect the structures
+of nucleotides and also disrupt base pairing during DNA replication.
+Antioxidants, such as vitamins A, C, and E (found in fruit and
+vegetables), are known anticarcinogens because of their ability to
+negate the effects of free radicals.
+Table 1 Summary of some of the main mutagens and what they do
+Physical
+mutagens
+Chemical
+mutagens
+ionizing break one or both DNA strands - some breaks
+radiations can be repaired but mutations can occur in the
+such as X-rays process
+chemically alter bases in DNA such as converting
+deaminating
+cytosine to uracil in DNA, changing the base
+agents
+sequence
+methyl or ethyl groups are attached to bases
+alkylating
+resulting in the incorrect pairing of bases during
+agents
+replication
+Biological
+agents
+base analogs
+incorporated into DNA in place of the usual base
+during replication, changing the base sequence
+viruses
+viral DNA may insert itself into a genome,
+changing the base sequence
+Effects of mutation
+Silent mutations
+The vast majority of mutations are silent (or neutral)
+which means they do not change any proteins, or the
+activity of any proteins synthesised. Therefore, they have
+no effect on the phenotype of an organism. They can
+occur in the non-coding regions of DNA (introns) or code
+for the same amino acid due to the degenerate nature of
+the genetic code. They may also result in changes to the
+primary structure but do not change the overall structure
+or function of the proteins synthesised.
+507
+19
+19.2 Control of gene expression
+The repressor protein is constantly produced and binds to an area called
+the operator, which is also close to the structural genes. The binding
+of this protein prevents RNA polymerase binding to DNA and beginning
+transcription. This is called down regulation. The section of DNA that
+is the binding site for RNA polymerase is called the promoter.
+When lactose is present, it binds to the repressor protein causing it to
+change shape so it can no longer bind to the operator. As a result RNA
+polymerase can bind to the promoter, the three structural genes are
+transcribed, and the enzymes are synthesised.
+Synoptic link
+You first encountered CAMP when
+looking at its role in the mechanism
+of ADH action in Topic 15.6, The
+kidney and osmoregulation.
+Role of cyclic AMP
+The binding of RNA polymerase still only results in a relatively slow
+rate of transcription that needs to be increased or up-regulated to
+produce the required quantity of enzymes to metabolise lactose
+efficiently. This is achieved by the binding of another protein, CAMP
+receptor protein (CRP), that is only possible when CRP is bound to
+CAMP (a secondary messenger that you are already familiar with).
+The transport of glucose into an E. coli cell decreases the levels of CAMP,
+reducing the transcription of the genes responsible for the metabolism
+of lactose. If both glucose and lactose are present then it will still be
+glucose, the preferred respiratory substrate, that is metabolised.
+Post-transcriptional/pre-translational control
+RNA processing
+The product of transcription is a precursor molecule, pre-mRNA. This
+is modified forming mature mRNA before it can bind to a ribosome
+and code for the synthesis of the required protein.
+exon
+intron
+DNA
+A cap (a modified nucleotide) is added to the 5' end and a tail (a long chain
+of adenine nucleotides) is added to the 3' end. These both help to stabilise
+mRNA and delay degradation in the cytoplasm. The cap also aids binding of
+mRNA to ribosomes. Splicing also occurs where the RNA is cut at specific
+points - the introns (non-coding DNA) are removed and the exons (coding
+DNA) are joined together. Both processes occur within the nucleus.
+pre-mRNA
+mRNA
+RNA editing
+The nucleotide sequence of some mRNA molecules can also be
+changed through base addition, deletion, or substitution. These have
+the same effect as point mutations and result in the synthesis of
+different proteins which may have different functions. This increases
+the range of proteins that can be produced from a single mRNA
+molecule or gene.
+tail
+cap
+A Figure 2 This diagram summarises
+the modification of a pre-mRNA molecule
+Translational control
+These following mechanisms regulate the process of protein synthesis:
+degradation of mRNA – the more resistant the molecule the longer
+it will last in the cytoplasm, that is, a greater quantity of protein
+synthesised.
+512
+GENETICS OF LIVING SYSTEMS
+19
+Synoptic link
+genes. The genes in euchromatin, however, can be freely transcribed.
+Protein synthesis does not occur during cell division but during
+interphase between cell divisions. This is a simple form of regulation that
+ensures the proteins necessary for cell division are synthesised in time.
+It also prevents the complex and energy-consuming process of protein
+synthesis from occurring when cells are actually dividing.
+You learnt about the structure of
+DNA in Topic 3.9, DNA replication
+and the genetic code and in
+Topic 6.1, Cell cycle.
+Histone modification
+DNA coils around histones because they are positively charged and
+DNA is negatively charged. Histones can be modified to increase or
+decrease the degree of packing (or condensation).
+The addition of acetyl groups (acetylation) or phosphate groups
+(phosphorylation) reduces the positive charge on the histones
+(making them more negative) and this causes DNA to coil less tightly,
+allowing certain genes to be transcribed. The addition of methyl
+groups (methylation) makes the histones more hydrophobic so they
+bind more tightly to each other causing DNA to coil more tightly and
+preventing transcription of genes.
+Epigenetics is a term that is increasingly used to describe this control
+of gene expression by the modification of DNA. It is sometimes used to
+include all of the different ways in which gene expression is regulated.
+Lac operon
+regulatory gene operator promoter
+An operon is a group of genes that are
+repressor protein
+under the control of the same regulatory
+mechanism and are expressed at the same
+time. Operons are far more common in
+RNA
+prokaryotes than eukaryotes owing to
+polymerase
+the smaller and simpler structure of their
+genomes. They are also a very efficient way
+of saving resources because if certain gene
+regulatory gene operator promoter
+products are not needed, then all of the
+repressor protein
+genes involved in their production can be
+lactose
+switched off.
+Glucose is easier to metabolise and is the lactose
+RNA
+preferred respiratory substrate of Escherichia
+polymerase
+coli and many other bacteria. If glucose is
+in short supply, lactose can be used as a
+respiratory substrate. Different enzymes are
+needed to metabolise lactose.
+regulatory gene operator promoter
+The lac operon is a group of three genes,
+RNA
+lacz, lacy, and lacA, involved in the
+polymerase
+transcription
+metabolism of lactose. They are structural
+genes as they code for three enzymes
+(B-galactosidase, lactose permease, and
+repressor protein
+structural genes
+transacetylase) and they are transcribed
+lactose
+onto a single long molecule of mRNA. A
+regulatory gene, laci, is located near to the Figure 1 A repressor protein coded for by a regulatory gene binds to the
+operon and codes for a repressor protein
+operator and prevents the binding of RNA polymerase, preventing transcription
+that prevents the transcription of the
+of the structural genes
+structural genes in the absence of lactose (Figure 1).
+511

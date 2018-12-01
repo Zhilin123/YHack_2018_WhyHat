@@ -1,0 +1,881 @@
+16.1 Practical techniques in organic chemistry
+The apparatus is set up for distillation as in Figure 5.
+thermometer
+screw-cap adaptor
+or thermometer
+pocket
+The flask is clamped by its neck and the still head is connected to the
+flask. The still-head adaptor is T shaped and has two ground-glass
+joints, one to fit the screw-cap adaptor and one to fit the condenser.
+You should grease the joints so that the apparatus comes apart easily
+after the experiment.
+receiver
+still
+head
+A second clamp is placed round the receiver adaptor at the point at
+which it is attached to the condenser. This removes the need to clamp
+the condenser, as it will be supported sufficiently at both ends.
+water
+out
+water
+in
+As with reflux, rubber tubing is used to connect the inlet of the
+condenser to the tap and the outlet to the sink. Water always enters
+the condenser at the lowest point. For distillation, this is the closest
+point to the receiver adaptor.
+A flask is used to collect the distillate so that the distillation apparatus
+is not completely airtight.
+A Figure 5 Apparatus set-up for
+distillation
+Once the apparatus is set up, the flask is heated and the mixture in the
+flask will start to boil. The different liquids in the mixture will have
+different boiling points. The liquid with the lowest boiling point is the
+most volatile and will boil first.
+The vapour moves out of the flask up into the other parts of
+the apparatus, leaving behind the less volatile components of
+the mixture. When the vapours reach the cold condenser, they
+condense and become a liquid. This liquid then drips into the
+collecting flask.
+Purifying organic products
+When preparing samples of organic liquids water may be obtained
+along with the product. If this has happened you will see two liquid
+layers inside your collection flask, one the organic layer and one the
+aqueous or water layer. It is easy to separate these two layers although
+it is important that you know which is the organic layer so that you
+don't throw away your product by mistake. An easy way to identify
+the organic layer is to add some water to your mixture. The layer that
+gets bigger is the aqueous layer.
+100 ml
+BS 2021
+Once the organic layer, has been identified, the two layers are
+separated using a separating funnel.
+1
+2
+3
+4
+Ensure that the tap of the separating funnel is closed.
+Pour the mixture of liquids into the separating funnel, place a
+stopper in the top of the funnel, and invert to mix the contents.
+Allow the layers to settle.
+Add some water to see which layer increase in volume - this is the
+aqueous layer.
+Place a conical flask under the separating funnel, remove the
+stopper and open the tap until the whole of the lower layer has
+left the funnel.
+5
+A Figure 6 Separating funnels are
+used to separate an organic liquid layer
+from an aqueous layer. The bottom layer
+can be run off, leaving the upper layer
+behind in the funnel
+242
+16
+ORGANIC SYNTHESIS
+In Figure 2, the flask is clamped by its neck. Before fitting the
+condenser you need to add the reaction mixture and anti-bumping
+granules to the flask. Anti-bumping granules (Figure 3) are added
+to the liquid before the flask is heated so that the contents will
+boil smoothly. If the granules are not used, large bubbles form
+at the bottom of the liquid and make the glassware vibrate or
+jump violently.
+water out
+Liebig
+condenser
+water-
+in
+Finally, apply a thin layer of grease to the ground-glass joint on the
+condenser (Figure 4). Place the condenser carefully into the flask and
+gently rotate the condenser back and forth to provide a good seal
+and ensure that the apparatus comes apart easily at the end of the
+experiment.
+pear-
+shaped
+flask
+During reflux the condenser is kept in the upright position.
+Condensers should be clamped only loosely as the glass outer jacket is
+very fragile and is easily broken. Never put a stopper in the top of the
+condenser. Otherwise you would have a closed system and pressure
+would build up inside as the heated air expanded. This could result in
+the apparatus exploding!
+A Figure 2 Heating under reflux with a
+Bunsen burner
+Rubber tubing is used to connect the inlet of the condenser to the tap
+and the outlet to the sink. Water always enters the condenser at the
+bottom and leaves at the top to ensure that the outer jacket is full.
+Heating under reflux enables a liquid to be continually boiled
+whilst the reaction takes place. This prevents volatile components
+from escaping and the flask from boiling dry. The vapour from the
+mixture rises up the inner tube of the condenser until it meets the
+outer jacket containing cold water. The vapour then condenses and
+drips back into the flask. The process is similar to putting a lid on a
+saucepan when cooking.
+Distillation
+Chemical reactions may not go to completion or may produce by-
+products as well as the desired product. Once reflux is complete, the
+crude liquid or solid product present in the flask needs to be purified
+to remove any by-products and remaining reactants. Distillation is a
+common method used to separate a pure liquid from its impurities.
+A Figure 3 Anti-bumping granules are
+used when heating liquids to ensure that
+the liquid boils smoothly
+To carry out a distillation, you will need the following apparatus:
+round-bottom or pear-shaped flask
+condenser
+rubber tubing
+heat source
+stand and clamp
+screw-cap adaptor
+receiver adaptor
+still head
+thermometer.
+Figure 4 The ground-glass joints
+are greased lightly so that the apparatus
+comes apart easily after the experiment
+241
+16
+ORGANIC SYNTHESIS
+16.1 Practical techniques in
+organic chemistry
+Specification reference: 4.2.3
+Preparing an organic liquid
+As part of your practical endorsement you will need to be able to
+prepare a sample of an organic liquid.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ Quickfit apparatus for
+distillation and heating
+under reflux
+techniques for preparation
+and purification of an
+organic liquid.
+Quickfit apparatus
+To carry out an organic preparation you will need to use Quickfit
+apparatus. A basic set of Quickfit apparatus is shown in Figure 1
+and contains:
+1
+3
+round-bottom or pear-shaped flask
+receiver
+screw-tap adaptor
+condenser
+still head.
+Study tip
+5
+As well as being able to carry out
+these practical techniques, you
+should be able to describe them.
+Heating under reflux
+Many organic reactions occur slowly at room temperature. It is
+common for organic reactions to be heated to overcome the activation
+energy and increase the rate of reaction. Heating under reflux is a
+common procedure used to prepare an organic liquid without boiling
+off the solvent, reactants, or products. To heat under reflux, you will
+need the following pieces of apparatus:
+round-bottom or pear-shaped flask
+condenser
+rubber tubing
+stand and clamp
+heat source (usually a Bunsen burner, tripod, and gauze, or a
+heating mantle).
+Figure 2 shows the experimental setup for a reflux experiment using
+a Bunsen burner to heat the reaction mixture. This allows a reaction
+under reflux to be carried out at a fixed temperature. A water bath can
+be used if the reaction can be carried out below 100°C.
+For heating flammable liquids, a heating mantle can be used so that
+there is no naked flame present. This provides an added level of safety
+should any of the apparatus leak or crack.
+Figure 1 Standard set of Quickfit
+apparatus
+240
+16.2 Synthetic routes
+Specification reference: 4.2.3
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ properties and reactions of
+functional groups
+→ constructing two-stage
+synthetic routes.
+Organic synthesis
+Organic synthesis is the preparation of complex molecules from
+simple starting materials. With organic synthesis, chemists can make
+entirely new structures that can be investigated for their uses. The
+manufacture of modern medicines targeted at diseases owes much to
+the work of organic chemists. Many chemists are employed by large
+pharmaceutical companies to synthesise and test new medicines, for
+example, those designed to target the growth of cancer cells in the
+human body.
+Table 1 Functional groups for
+AS Chemistry
+Type of
+Functional group
+compound
+alkene
+C=C
+Identifying functional groups in organic molecules
+Before you attempt organic synthesis, you need to know the different
+functional groups that you have met so far in your course (Table 1).
+You should be able to identify these functional groups in unfamiliar
+molecules containing several functional groups.
+alcohol
+-OH
+-CI
+haloalkane
+O Worked example: Identifying functional groups 1
+Identify the functional groups in the molecule shown in Figure 1.
+H H H CH2
+-Br
+H—
+C—
+C—
+C—
+C
+aldehyde
+OH HC-
+OH
+A Figure 1
+ketone
+The molecule contains three functional groups. From left to right:
+.
+•
+-OH is an alcohol
+-C=C-is an alkene
+-COOH is a carboxylic acid.
+carboxylic acid
+ester
+2) Worked example: Identifying functional groups 2
+Identify the functional groups in the molecule shown in figure 2.
+amine
+C/-
+acyl chloride
+Figure 2
+There are three functional groups. From left to right, the
+functional groups are haloalkane, ketone, and aldehyde.
+nitrile
+-CN
+244
+Chapter 16 Practice questions
+Practice questions
+1 Alcohols can be converted into chloroalkanes
+by reaction with hydrochloric acid, HCI.
+2-Chloro-2-methylpropane can be prepared
+by shaking together 4.7 cm (3.70g) of
+2-methylpropan-2-ol with 20 cm of
+concentrated HCl. After 10 minutes two
+separate layers begin to form.
+Use the data in the table below to answer the
+questions that follow.
+Compound
+relative
+molecular
+mass
+density boiling
+/gcm-3 point/°C
+2-methylpropan-2-ol 74.0 0.78 83
+2-chloro-2-methylpropane 92.5 0.84 51
+water
+18.0 1.00 100
+One of the layers is aqueous and the other
+contains the organic product.
+a Suggest whether the upper or lower layer
+is likely to contain the organic product.
+Explain your reasoning.
+(1 mark)
+The organic layer was shaken
+with a dilute solution of sodium
+hydrogencarbonate, NaHCO,. A gas was
+evolved.
+Identify this gas.
+(1 mark)
+c Suggest the chemical that could have
+reacted with the NaHCO, to form the gas.
+(1 mark)
+d The resulting impure organic liquid was
+dried with anhydrous calcium chloride
+and then distilled. 2.22 g of pure
+2-chloro-2-methylpropane was produced.
+(i) At what temperature would you
+expect the pure organic product
+to distil?
+(1 mark)
+(ii) Calculate the amount, in mol, of
+2-methylpropan-2-ol used in the
+experiment.
+(1 mark)
+(iii) Calculate the amount, in mol, of pure
+2-chloro-2-methylpropane that was
+produced.
+(1 mark)
+(iv) Calculate the percentage yield of
+2-chloro-2-methylpropane in this
+experiment.
+(1 mark)
+OCR 2812 Jan 01 (5(b)-(d) adapted
+A teacher provided the following instructions
+for her students so that they could prepare
+a sample of 1-bromobutane C,H,Br, (boiling
+point 102 °C).
+Reagents
+Concentrated sulfuric acid
+Sodium bromide
+• Butan-1-ol, C,H,OH
+Procedure
+1 Transfer 5 g of crushed sodium bromide to a
+100 cm round-bottomed flask: add 10 cm
+of distilled water and 5 cm of butan-1-ol
+(boiling point 117 °C). Swirl the flask gently
+to dissolve the sodium bromide.
+Carefully add 6 cm of concentrated sulfuric
+acid to the mixture in the flask. The sulfuric
+acid will react with the sodium bromide to
+form hydrogen bromide. If the contents of the
+flask become too hot then cool the flask in
+cold water.
+3 Fit a water-cooled condenser and boil the
+contents of the flask for 30 minutes.
+4 Allow the apparatus to cool and arrange it for
+distillation.
+Heat the flask gently and allow the mixture
+to distil over into a small conical flask. Collect
+the fraction boiling between 95 °C and 125 °C.
+Add sodium hydrogencarbonate solution to
+the distillate and shake the mixture until no
+more gas is given off. Two layers of liquid will
+form in the conical flask.
+7 Separate the two layers of liquid and collect
+the impure 1-bromobutane. Wash it with
+water. Separate the water layer before drying
+the 1-bromobutane.
+8 Re-distil and collect the fraction boiling
+between 101 °C and 103 °C.
+a Suggest hazards for concentrated sulfuric
+acid and butan-1-ol.
+(2 marks)
+b In stage 5, suggest what impurities might
+be present within the fraction collected.
+(3 marks)
+In stage 6, a gas is given off.
+Name the gas and explain why it is
+formed.
+d In stage 7, the two layers of liquid have
+to be separated from each other. The
+1-bromobutane is in the lower layer.
+Uc
+(2 marks)
+250
+16
+ORGANIC SYNTHESIS
++
+Ozonolysis
+Ozonolysis is a technique used in organic chemistry to break open a C=C
+double bond. The reaction is useful in organic synthesis for the preparation
+of aldehydes and ketones. During the ozonolysis of but-2-ene two molecules
+of ethanal are formed as shown below.
+H3C CH3
+H3C
+CEC
++ 0
++ H20
+-
+2 CEO + H2O
+Propanoic acid can be made in a two-step process starting from pent-3-ene.
+Step 1: Ozonolysis
+CHE CHE
+CEC + 03
+C2H5
+2 CEO + H202
++ H20
+-
+Step 2: Reflux with acidified potassium dichromate (VI) - oxidation
+C2H5
+CH
+C
+O
++ [0]
+=
+>
+c=
+0
+HO
+Suggest a two-stage synthesis of hexanedioic acid from cyclohexene. Use
+skeletal formula to illustrate any equations.
+Summary questions
+1 Identify the functional groups in the following molecules.
+3 Suggest two different synthetic routes that could be
+used to convert but-2-ene into butan-2-ol. (4 marks)
+For each of the reactions shown in the reaction
+scheme below, state the reagents and conditions,
+and give the chemical equation for each of the steps.
+(6 marks)
+CH3CH(OH)CH2OH
+H
+-I
+(3 marks)
+reaction 1
+reaction 3
+reaction 2
+CH3CH2CH2OH -CH3 = CHCH2OH- CH2CH(Br)CH2Br
+H
+0
+H
+(2 marks)
+2 State the reagents and conditions required to
+form 2-chloropropane from propan-2-ol. (2 marks)
+249
+16
+ORGANIC SYNTHESIS
+6 Place a second conical flask under the separating funnel to collect
+the other layer.
+7 You will now have one conical flask containing the organic layer
+and another containing the aqueous layer. Label the flasks so that
+you don't muddle them.
+In preparation using acids, your impure product may contain acid
+impurities. These can be removed by adding aqueous sodium
+carbonate and shaking the mixture in the separating funnel.
+Any acid present will react with sodium carbonate releasing carbon
+dioxide gas. The tap needs to be slowly opened, holding the stoppered
+separating funnel upside down, to release any gas pressure that may
+build up.
+Finally the aqueous sodium carbonate layer is removed and the
+organic layer washed with water before running both layers off into
+two separate flasks.
+Summary questions
+1 Name two drying agents that
+can be used to remove water
+from an organic product.
+(2 marks)
+Drying the organic product
+There may be some water left in the organic product. Traces of water are
+removed by adding a drying agent to the organic liquid. A drying agent
+is an anhydrous inorganic salt that readily takes up water to become
+hydrated. The most common drying agents are shown in Table 1.
+2 Outline the steps that you
+would need to carry out to
+separate the organic liquid
+1-bromobutane from a mixture
+of 1-bromobutane, water, and
+sulfuric acid. (3 marks)
+Table 1 Common inorganic salts used to dry organic liquids
+Formula
+Use
+Name of compound
+anhydrous calcium chloride
+anhydrous calcium sulfate
+anhydrous magnesium sulfate
+3 In many organic reactions,
+the materials are heated
+under reflux to increase the
+yield of products. Explain why
+the reactants are not heated
+under reflux when preparing
+a sample of ethanal from
+ethanol.
+(2 marks)
+CaCl2
+CaSO4
+MgSO4
+Drying hydrocarbons
+General drying
+General drying
+The procedure for drying an organic liquid is given below.
+1
+2
+3
+Add the organic liquid to a conical flask.
+Using a spatula, add some of the drying agent to the liquid and
+gently swirl the contents to mix together.
+Place a stopper on the flask to prevent your product from
+evaporating away. Leave for about ten minutes.
+If the solid has all stuck together in a lump, there is still some
+water present. Add more drying agent until some solid is dispersed
+in the solution as a fine powder.
+Decant the liquid from the solid into another flask. If the liquid is
+dry it should be clear.
+4
+4 To prepare a sample of
+1-bromobutane, butan-1-
+ol is heated under reflux
+with a mixture of sodium
+bromide and sulfuric acid.
+After distillation, the sample
+contains two layers. The
+densities of the components
+in these layers are: water,
+1.00 g cm 3; butan-1-ol,
+0.81 gcm3; 1-bromobutane,
+1.30 gcm3
+a Draw the displayed formula
+of 1-bromobutane. (1 mark)
+b Construct an equation for
+the reaction which takes
+place.
+(1 mark)
+C Explain which of the layers
+will contain your product.
+(1 mark)
+5
+Redistillation
+Sometimes organic liquids have boiling points that are relatively close
+together, so your prepared sample may still contain some organic
+impurities. The distillation apparatus is cleaned and dried and set up
+again so that a second distillation can be carried out. This time, only
+collect the product with the boiling point of the compound you are
+trying to make. The narrower the boiling range, the purer the product.
+You now will have separated your product from any impurities.
+243
+16
+ORGANIC SYNTHESIS
+11 Identify the functional groups in each of the
+following molecule A and B.
+H
+H
+H
+H—
+C—
+C—
+C—OH
+Suggest how the two layers might
+be separated.
+(2 marks)
+e In Stage 7, how could the 1-brombutane
+be dried?
+(1 mark)
+OCR 2813/04 Jun 06 adapted
+A student prepared an organic compound
+and distilled the crude product using the
+apparatus below. The crude distillate was
+obtained over the range 90°C to 130°C. The
+boiling point of the pure organic compound is
+116°C.
+9
+CIH
+A
+OH
+NB
+(5 marks)
+12 Propene can be converted into propan-2-ol
+by two different synthetic routes. One route
+can be carried out as a one-step process whilst
+the other route requires two steps.
+a State reagents, conditions and provide an
+equation for a one-step process. (3 marks)
+Draw a reaction scheme, including
+reagents and conditions for a two-step
+synthetic route.
+(3 marks)
+13 State the reagents, conditions and provide
+equations for each of the following two-step
+conversions.
+a propene to propanone
+(4 marks)
+b propan-2-ol to propane
+(4 marks)
+14 An organic synthetic route starting with
+pentan-1-ol is shown below.
+a Identify the reagents and conditions for
+each of the steps in the reaction scheme.
+(4 marks)
+CH3(CH2)2CH2CH OH
+impure mixture
+heat
+a
+b
+distillate
+Identify the apparatus labelled A and B.
+(2 marks)
+State and explain whether water should
+enter apparatus A at position C or D.
+(1 mark)
+The distillate contained an aqueous and
+an organic layer. The density of the layers
+is shown below.
+step 1
+c
+CH3(CH) CHCH, Step 2 CH3(CH),CHBECHz
+step 3
+aqueous layer
+organic layer
+Layer
+Density/gcm-3
+1.05
+0.72
+Explain how you would obtain a dry, pure
+sample of the organic product, starting from
+the two layers
+(4 marks)
+10 With the aid of equations and conditions,
+state how each of the following can be made
+from butan-1-ol.
+a but-1-ene
+b butanoic acid
+C1-bromobutane
+(6 marks)
+CH3(CH2),COCH, Step 4-CH3(CH2),CH(OH)CH;
+b State the type of reaction taking place in
+step 1.
+(1 mark)
+c Show the mechanism for step 2. (3 marks)
+d What would you observe in step 4.
+(1 mark)
+e How would you convert the product from
+step 1 into an alkane?
+(2 marks)
+251
+16
+ORGANIC SYNTHESIS
+Synthetic routes
+The flowchart in Figure 3 links together all of the functional groups
+that you have studied so far in your course. The flowchart will be
+useful for predicting reactions and in solving synthesis problems.
+Study tip
+You need to be able to suggest
+reagents, conditions, and
+equations for converting one
+compound into another.
+halogen/UV
+haloalkane
+alkane
+sodium halide
+and H2SO4
+hydrogen
+halide
+H2
+Ni catalyst
+NaOH(aq)
+reflux
+alkene
+Conc
+H.SO,
+H2O(g)/H2PO4
+catalyst
+alcohol
+primary
+secondary
+K,Cr,0 /H,SO
+reflux
+distil
+reflux
+carboxylic acid
+aldehyde
+ketone
+A Figure 3 Connections between the functional groups covered in AS Level chemistry
+Predicting properties and reactions
+Prenol, (CH),CCHCH,OH, is a natural compound found in many
+fruits and widely used in organic synthesis. By drawing out its
+structure, you can identify its functional groups (Figure 4).
+After identifying the functional groups, you can now predict properties
+and reactions of prenol.
+Solubility
+Reactions of alkene
+Reactions of primary alcohol
+→
+alkane
+alkene
+alkene
+soluble in water:
+the –OH group will
+form hydrogen
+bonds with water
+haloalkane
+alcohol
+primary
+alcohol
+OH
+haloalkane
+aldehyde
+carboxylic acid
+→
+A Figure 4 Functional groups in prenol
+245
+16.2 Synthetic routes
+Target molecules
+The term target molecule is used to describe the compound that
+the chemist is attempting to prepare by organic synthesis.
+In a simple synthesis, the target molecule can be obtained by reacting
+a readily available starting material with a readily available reagent
+in a one-step reaction. However, in most cases synthesis is not that
+straightforward. Some organic syntheses require many steps to change
+functional groups or to add carbon atoms to the chain length in order
+to obtain the target molecule.
+Two stage synthesis
+To convert a starting molecule into the target molecule, you need to:
+Study tip
+At AS you will only be required
+to solve synthesis questions with a
+maximum of two steps. At A Level,
+multi-step synthesis may be
+required.
+•
+identify the functional groups in your starting and target molecules
+identify the intermediate that links the starting and target molecules
+state the reagents and conditions for each step.
+O Worked example: Synthesis of propanal
+State the reagents and conditions for the two-stage synthesis of propanal from l-chloropropane.
+Give equations for each stage.
+Step 1: Identify the functional groups in the starting and target molecule.
+H H H
+HH
+stage 1
+stage 2
+C— C— C— C -
+INTERMEDIATE
+H-
+HC-
+H H H
+STARTING MOLECULE
+haloalkane
+H H
+TARGET MOLECULE
+aldehyde
+Step 2: Identify the intermediate compound that links the target and starting molecules together.
+H
+H
+H
+-C
+-C-
+OH
+• An aldehyde (TARGET) can be made from the oxidation
+of a primary alcohol.
+A primary alcohol can be made by the hydrolysis of
+a haloalkane (STARTING MOLECULE).
+Step 3: Identify the reagents and conditions.
+H
+H
+H
+INTERMEDIATE
+primary alcohol
+Stage 1: Reagents: NaOH(aq); Conditions: Reflux
+HHH
+HHH
+H—
+C—
+C—
+C—
+C
++ NaOH -
+H—
+C—
+C—
+C—OH
++ Naci
+HHH
+H
+H
+Stage 2: Reagents: Potassium dichromate(VI) and sulfuric acid; Conditions: Distil
+H
+H
+.- 11
+.-H
+.
+.
+H
+HH
+-C—
+C—OH
++
+[O] -
+H
+-0
+-U
++
+H2O
+-
+H
+H
+H
+À
+I
+H
+246
+16.2 Synthetic routes
+Does nature really provide a cure for everything?
+Some people believe that the natural resources of our planet provide cures
+for every disease or illness, and only time and the limits of our knowledge
+prevent us from finding a cure for every illness. You may already know that
+the bark of the willow tree had been used for centuries for the treatment of
+fever and pain. Salicylic acid was found to be the active component in willow
+bark, from which aspirin was developed. As far back as 400 BC willow leaf
+tea was used to relieve the pain of childbirth.
+Just 50 years ago, paclitaxel was obtained from the bark of the Pacific yew tree
+(Figure 5). Taxol is currently used as an anti-cancer drug, specifically for the
+treatment of ovarian, breast, and colon cancer. Demand for Taxol is much higher
+than the small amounts that can be obtained from yew bark. To meet this
+demand, chemists synthesise Taxol from more readily available substances.
+About 45 years ago, ibuprofen was introduced in the UK as an anti-inflamatory
+drug. Its structure has some similarities to the structure of aspirin. Ibuprofen
+is also marketed under several other names such as Nurofen.
+00
+OOO
+Synoptic link
+A Figure 5 The Pacific yew tree (left), Taxus brevifolia, the source of the anti-
+cancer drug Taxol (right)
+A good knowledge of the functional
+groups and their reactions is
+important when studying organic
+synthesis.
+The skeletal formulae of the painkiller drugs aspirin and ibuprofen are
+shown below. Both structures contain a benzene ring and functional groups
+on their side chains.
+um
+WWW
+0A
+OH
+aspirin
+ibuprofen
+OH
+1 What functional group is present in both molecules?
+2 What is the molecular formula of each molecule?
+3 Predict a two-stage synthesis of ibuprofen from the compound shown
+in Figure 6
+A Figure 6
+248
+16
+ORGANIC SYNTHESIS
+2) Worked example: Synthesis of butanone
+State the reagents and conditions for the two-stage synthesis of butanone from but-2-ene. Show
+skeletal formulae throughout and Give equations for each stage.
+Step 1: Identify the functional groups in your starting and target molecule.
+stage 1
+stage 2
+INTERMEDIATE
+STARTING MOLECULE
+alkene
+TARGET MOLECULE
+ketone
+OH
+Step 2: Identify the intermediate compound that links the target and starting molecules together.
+• A ketone (TARGET) can be made from the oxidation
+of a secondary alcohol.
+A secondary alcohol can be made by the hydration
+of an alkene (STARTING MOLECULE).
+INTERMEDIATE
+Step 3: Identify the reagents and conditions.
+secondary alcohol
+• Stage 1: Reagents: steam, H2O(g); Conditions: Acid catalyst, e.g. H,PO, or H,SO4
+OH
++ H20
+Stage 2: Reagents: Potassium dichromate(VI) and sulfuric acid; Conditions: Reflux
+OH
++
+[0]
++ H2O
+O Worked example: Predicting reactions
+In this worked example, you are provided with a synthetic route. This time, the starting molecule has
+two functional groups.
+step1
+step 2
+step 3
+CH2=CHCHBrCH, — CH,CH,CHBICH, → CH,CH,CH(OH)CH2 - CH,CH,COCH,
+Predict the reagents and conditions for each of each step.
+Study tip
+Step 1: Requires H/Ni catalyst to convert the alkene into an alkane.
+All the information used for these
+Step 2: Requires NaOH(aq) and reflux to convert the haloalkane
+three reaction steps has been
+into an alcohol.
+taken from Figure 5. It is important
+Step 3: Requires K,Cr, 0,/H,SO, and reflux convert the secondary that you learn all these reactions
+alcohol into a ketone.
+and conditions
+247

@@ -1,0 +1,3041 @@
+BIOLOGICAL MOLECULES
+of hydrogen atoms, resulting in a solid that is less dense than liquid
+water. For this reason, ice floats.
+Water therefore has cohesive properties. It moves as one mass because
+the molecules are attracted to each other (cohesion). It is in this
+way that plants are able to draw water up their roots and how you
+are able to drink water through a straw. Water also has adhesive
+properties - this is where water molecules are attracted to other
+materials. For example, when you wash your hands your hands
+become wet, the water doesn't run straight off.
+Figure 4 This pond skater (Gerris
+lacustris) inhabits the surface of water,
+supported by surface tension
+Water molecules are more strongly cohesive to each other than they
+are to air, this results in water having a 'skin' of surface tension.
+(Figure 4)
+Study tip
+Water for life
+The characteristics and properties of water are critical in sustaining life.
+In this way, water is unique. Some of the ways in which water is vital
+for life are summarised below.
+Do not confuse polarity with
+"charged' or 'ionic'. In polar bonds
+electrons are shared, albeit
+unequally, but if atoms actually lose
+an electron to another atom they
+both become charged and are called
+ions. In ionic bonding, the atom
+that gains the electron becomes a
+negative ion and the atom that loses
+the electron becomes a positive ion.
+Because it is a polar molecule, water acts as a solvent in which many of
+the solutes in an organism can be dissolved. The cytosol of prokaryotes
+(bacterial) and eukaryotes is mainly water. Many solutes are also polar
+molecules, amino acids, proteins (Topic 3.6, Structure of proteins) and
+nucleic acids (Topic 3.8, Nucleic acids). Water acts as a medium for
+chemical reactions and also helps transport dissolved compounds into
+and out of cells.
+Synoptic link
+You will learn more about how
+temperature affects enzyme
+activity in Topic 4.2, Factors
+affecting enzyme activity.
+Water makes a very efficient transport medium within living things.
+Cohesion between water molecules means that when water is
+transported though the body, molecules will stick together. Adhesion
+occurs between water molecules and other polar molecules and
+surfaces. The effects of adhesion and cohesion result in water
+exhibiting capillary action. This is the process by which water can
+rise up a narrow tube against the force of gravity.
+Summary questions
+1 Explain how hydrogen
+bonds form. (3 marks)
+Water acts as a coolant, helping to buffer temperature changes
+during chemical reactions in prokaryotic and eukaroytic cells
+because of the large amounts of energy required to overcome
+hydrogen bonding. Maintaining constant temperatures in cellular
+environments is important as enzymes are often only active in a
+narrow temperature range.
+2 Explain why water is
+a polar molecule. (2 marks)
+3 Suggest, with reasons, which
+properties of water make it
+such an important
+component of blood. (5 marks)
+Many organisms, such as fish, live in water and cannot survive out
+of it. Water is stable - it does not change temperature or become a
+gas easily, therefore providing a constant environment. Because ice
+floats, it forms on the surface of ponds and lakes, rather than from
+the bottom up. This forms an insulating layer above the water below.
+Aquatic organisms would not be able to survive freezing temperatures
+if their entire habitat froze solid. Some organisms also inhabit the
+surface of water. Surface tension is strong enough to support small
+insects such as pond skaters.
+4 Water forms the basis of the
+stroma in chloroplasts and the
+matrix in mitochondria.
+Describe which properties of
+water make it such an important
+component of these particular
+organelles. (5 marks)
+3.4 Testing for carbohydrates
+Specification reference: 2.1.2
+Chemical tests
+Benedict's test for reducing sugars
+In chemistry reduction is a reaction involving the gain of electrons.
+All monosaccharides and some disaccharides (for example maltose
+and lactose) are reducing sugars. This means that they can donate
+electrons, or reduce another molecule or chemical.
+In the chemical test for a reducing sugar, this chemical is Benedict's
+reagent, an alkaline solution of copper(II)sulfate.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ how to carry out and interpret
+the results of:
+Benedict's test
+reagent test strips
+. iodine test
+quantitative methods to
+determine the concentration
+of a chemical substance
+in a solution.
+The test is carried out as follows:
+1
+Place the sample to be tested in a boiling tube. If it is not in liquid
+form, grind it up or blend it in water.
+Add an equal volume of Benedict's reagent.
+Heat the mixture gently in a boiling water bath for five minutes.
+2
+3
+Reducing sugars will react with the copper ions in Benedict's reagent.
+This results in the addition of electrons to the blue Cu2+ ions, reducing
+them to brick red Cutions. When a reducing sugar is mixed with
+Benedict's reagent and warmed, a brick-red precipitate is formed
+indicating a positive result.
+Study tip
+To remember what the colour
+changes in the Benedict's test
+indicate, just remember traffic lights:
+The more reducing sugar present, the more precipitate formed and the
+less blue Cu2+ ions are left in solution, so the actual colour seen will be
+a mixture of brick-red (precipitate) and blue (unchanged copper ions)
+and will depend on the concentration of the reducing sugar present
+(Figure 1). This makes the test qualitative.
+green (low concentration
+of reducing sugar)
+yellow/amber/orange
+(medium concentration
+of reducing sugar)
+red (high concentration
+of reducing sugar).
+Using Benedict's test for non-reducing sugars
+Non-reducing sugars do not react with Benedict's solution and the
+solution will remain blue after warming, indicating a negative result.
+Sucrose is the most common
+non-reducing sugar.
+If sucrose is first boiled with
+dilute hydrochloric acid it will
+then give a positive result when
+warmed with Benedict's solution.
+This is because the sucrose has
+none very low low medium high
+been hydrolysed by the acid to
+glucose and fructose, both
+Figure 1 Colour changes in a
+Benedict's test according to the
+reducing sugars.
+concentration of reducing sugar present
+lodine test for starch
+The iodine test is used to detect the presence of starch. To carry out
+the test, a few drops of iodine dissolved in potassium iodide solution
+are mixed with a sample. If the solution changes colour from yellow/
+brown to purple/black starch is present in the sample.
+Figure 2 A positive test result for
+starch using iodine
+3.4 Testing for carbohydrates
+If the iodine solution remains yellow/brown it is a negative result and
+starch is not present.
+Reagent strips
+Manufactured reagent test strips can be used to test for the presence of
+reducing sugars, most commonly glucose. The advantage is that, with
+the use of a colour-coded chart, the concentration of the sugar can be
+determined
+Quantitative methods to determine concentration:
+Colorimetry
+4 The resulting solutions were filtered to remove
+the precipitate.
+In a Benedict's test, the colour produced is dependent on
+5 The % transmission of each of the solutions of glucose
+the concentration of reducing sugar present in the sample.
+was measured using the colorimeter.
+A colorimeter is a piece of equipment used to quantitatively Using this information a calibration curve was plotted.
+measure the absorbance, or transmission, of light by a
+Steps 3-6 were repeated using the solution with the
+coloured solution. The more concentrated a solution is the
+unknown concentration of glucose.
+more light it will absorb and the less light it will transmit.
+Table 1 Shows the results of the experiment
+This can be used to calculate the concentration of reducing
+sugar present.
+Absorbance Concentration of
+glucose/mM
+1.0
+2.0
+3.0
+40
+5.0
+68
+56
+47
+4.0
+27
+17
+6.0
+2.0
+Unknown solution
+DIGITAL COLORIMETER
+44
+A Figure 3 A colorimeter measures the colour of a liquid.
+It passes filtered light through the sample and the results
+can be transmitted to a graph plotter or computer
+A student was asked to determine the concentration of a
+solution of glucose.
+1 Describe how you would calculate % absorbance
+from a % transmission reading.
+2 Explain why it is important to use the correct
+filter (step 1).
+3 Describe how you calibrate a colorimeter (step 2).
+4 Describe what you have after the solutions have
+been filtered (step 4).
+5 Plot a graph of the results from Table 1 and draw a
+calibration curve.
+6 Estimate the concentration of glucose in the
+unknown solution.
+The procedure was carried out as follows:
+1 A filter was placed in the colorimeter.
+2 The colorimeter was calibrated using distilled water.
+3 Benedict's test was performed on a range of known
+concentrations of glucose.
+3.3 Carbohydrates
+Specification reference: 2.1.2
+Carbohydrates are molecules that only contain the elements carbon,
+hydrogen, and oxygen. Carbohydrate literally means 'hydrated
+carbon' (carbon and water). The elements in carbohydrates usually
+appear in the ratio Cx(H20)y. This is known as the general formula of
+carbohydrates.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the ring structure and
+properties of glucose
+► the structure of ribose
+► the synthesis and breakdown
+of a disaccharide and
+polysaccharide by the
+formation and breakage of
+glycosidic bonds
+the structures and properties
+of glucose, starch, glycogen
+and cellulose molecules.
+Carbohydrates are also known as saccharides or sugars. A single sugar
+unit is known as a monosaccharide, examples include glucose,
+fructose, and ribose. When two monosaccharides link together they
+form a disaccharide, for example lactose and sucrose. When two or
+more (usually many more) monosaccharides are linked they form a
+polymer called a polysaccharide. Glycogen, cellulose, and starch are
+examples of polysaccharides.
+Glucose
+The basic building blocks, or monomers, of some biologically
+important large carbohydrates are glucose molecules, which have the
+chemical formula C H, 0Glucose is a monosaccharide composed
+of six carbons and therefore is a hexose monosaccharide (hexose
+sugar) (Figure 1).
+In molecular structure diagrams, the carbons are numbered clockwise,
+beginning with the carbon to the right (clockwise) of the oxygen atom
+within the ring.
+There are two structural variations of the glucose molecule, alpha (a)
+and beta (1) glucose, in which the OH (hydroxyl) group on carbon 1 is
+in opposite positions, as shown in Figure 1.
+u-glucose
+B-glucose
+CH,OH
+CH,OH
+H
+TOH
+KOH H1
+VH V
+4K OH H1
+HO 13 2 OH HO 3 2 H
+H OH
+H OH
+A Figure 1 The sugars alpha and beta glucose, which are examples of monosaccharides
+(single sugar units). Note the different position of the OH group on carbon 1
+Glucose molecules are polar and soluble in water. This is due to the
+hydrogen bonds that form between the hydroxyl groups and water
+molecules. This solubility in water is important, because it means
+glucose is dissolved in the cytosol of the cell.
+Condensation reactions
+When two alpha glucose molecules are side by side, two hydroxyl
+groups interact (react). When this happens bonds are broken and new
+bonds reformed in different places producing new molecules.
+46
+3.10 Protein synthesis
+Study tip
+arginine
+serine
+leucine
+www
+asparagine
+ACUGAC
+proline
+lysine
+Compare Figure 4 from the
+previous topic with Figure 4 here.
+It is important to check whether
+you have been given DNA codons
+or RNA codons in a question.
+Remember, RNA contains uracil (U)
+in place of thymine (T).
+ACUGAT
+glutamine
+threonine
+histidine
+isoleucine
+arginine
+start codon -
+methionine
+U 7 ACT
+1st base of codon –
+3rd
+A
+leucine
+glycine
+peptide bond forms
+Xohenylalanine
+met
+thr
+asp
+aspartic
+acid
+serine
+glutamic
+acid
+UCAGLUC
+stop
+alanine
+cysteine
+valine
+tyrosine
+stop
+tryoptophan
+ribosome
+ribosome moves
+along mRNA
+Figure 4 The codon-amino acid wheel, as seen in Topic 3.9, DNA replication and the
+genetic code. This time RNA codons are shown
+met
+thr
+asp
+1
+The mRNA binds to the small subunit of the ribosome at its start
+codon (AUG).
+A tRNA with the complementary anticodon (UAC) binds to the
+mRNA start codon. This tRNA carries the amino acid methionine.
+Another tRNA with the anticodon UGC and carrying the
+corresponding amino acid, threonine, then binds to the next codon
+on the mRNA (ACG). A maximum of two tRNAs can be bound at
+the same time.
+The first amino acid, methionine, is transferred to the amino acid
+(threonine) on the second tRNA by the formation of a peptide
+bond. This is catalysed by the enzyme peptidyl transferase, which is
+an rRNA component of the ribosome.
+The ribosome then moves along the mRNA, releasing the first
+tRNA. The second tRNA becomes the first.
+4
+ribosome
+ribosome
+moves
+along
+mRNA
+when the
+ribosome
+reaches a
+stop
+tripeptide
+codon the
+polypeptide
+is released
+met
+thr
+asp
+5
+Stages 3–5 are repeated, with another amino acid added to the chain
+each time. The process keeps repeating until the ribosome reaches the
+end of the mRNA at a stop codon and the polypeptide is released.
+mRNA
+ribosome
+As the amino acids are joined together forming the primary structure
+of the protein, they fold into secondary and tertiary structures. This
+folding and the bonds that are formed are determined by the sequence
+A Figure 5 A summary of translation
+78
+3.3 Carbohydrates
+Study tip
+Make sure you know the positions
+of the OH groups on carbon 1
+and carbon 4 for both alpha and
+beta glucose.
+Cellulose molecules make hydrogen bonds with each other forming
+microfibrils. These microfibrils join together forming macrofibrils,
+which combine to produce fibres (Figure 8). These fibres are strong
+and insoluble and are used to make cell walls. Cellulose is an
+important part of our diet, it is very hard to break down into its
+monomers and forms the 'fibre' or 'roughage' necessary for a healthy
+digestive system.
+Remember that most of the bonds
+you will learn about are formed
+from condensation reactions.
+cellulose fibres
+The reverse of a condensation
+reaction is hydrolysis.
+macrofibril
+microfibril
+www.
+www
+w
+w
+ww.
+chains of
+cellulose
+molecules
+DUUU
+Coco
+OUUU
+www
+A Figure 8 Formation of cellulose fibres
+Summary questions
+1 Describe the difference between alpha and beta glucose.
+(2 marks)
+2 Describe the formation of a glycosidic bond.
+(4 marks)
+3 Explain how the structure of cellulose is related to its function. (4 marks)
+4 Explain why beta glucose, when polymerised, leads to the
+production of cellulose instead of starch.
+(6 marks)
+50
+3.2 Water
+Specification reference: 2.1.2
+.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ how hydrogen bonding occurs
+between water molecules
+how the properties of water
+relate to its roles in living
+organisms.
+The bonds of life
+Atoms join together to form molecules by making bonds with each
+other. As you learnt in the previous topic, in ionic bonds, atoms give
+or receive electrons. They form negative or positive ions that are held
+together by the attraction of the opposite charges. Covalent bonds
+occur when atoms share electrons. However, the negative electrons are
+not always shared equally by the atoms of different elements. In many
+covalent bonds, the electrons will spend more time closer to one of the
+atoms than to the other. The atom with the greater share of negative
+electrons will be slightly negative (8) compared with the other atom
+in the bond, which will therefore be slightly positive (8+) (Figure 1).
+oxygen
+hydrogen
+Molecules in which this happens are said to be polar - they have
+regions of negativity and regions of positivity.
+O:
+electrons
+Oxygen and hydrogen are examples of elements that do not share
+electrons equally in a covalent bond. Oxygen always has a much
+greater share of the electrons in an 0-H bond. Many organic
+molecules contain oxygen and hydrogen bonded together in what
+are called hydroxyl (OH) groups and so they are slightly polar. Water
+(H,O) is an example of such a molecule, in fact, water contains two of
+these hydroxyl groups (Figure 2).
+Figure 1 Covalent bond between
+oxygen and hydrogen. The unequal
+sharing of the electrons leads to oxygen
+being more negative compared with
+hydrogen
+Polar molecules, including water, interact with each other as the
+positive and negative regions of the molecule attract each other and
+form bonds, called hydrogen bonds. Hydrogen bonds are relatively
+weak interactions, which break and reform between the constantly
+moving water molecules.
+oxygen
+Polar covalent bonds
+8+
+0
+0
+8+
+Although hydrogen bonds are only weak interactions, they occur in
+high numbers. Hydrogen bonding gives water its unique characteristics,
+which are essential for life on this planet. These characteristics are
+explored further below.
+hydrogen
+hydrogen
+Figure 2 The polar covalent bonds
+make water a polar molecule
+Characteristics of water
+Water has an unusually high boiling point. Water is a small molecule,
+much lighter than the gases carbon dioxide or oxygen, yet unlike
+oxygen and carbon dioxide, water is a liquid at room temperature.
+This is due to the hydrogen bonding between water molecules. It takes
+a lot of energy to increase the temperature of water and cause water
+to become gaseous (evaporate).
+hydrogen
+bonds
+.
+When water freezes it turns to ice. Most substances are more dense in
+their solid state than in their liquid state, but when water turns to ice
+it becomes less dense. This is because of the hydrogen bonds formed.
+As water is cooled below 4°C the hydrogen bonds fix the positions of
+the polar molecules slightly further apart than the average distance
+in the liquid state. This produces a giant, rigid but open structure,
+with every oxygen atom at the centre of a tetrahedral arrangement
+A Figure 3 Five water molecules
+interacting via hydrogen bonds
+44
+BIOLOGICAL MOLECULES
+Summary questions
+1 Explain how atoms join together to form molecules.
+(2 marks)
+2 Explain the difference between a cation and an anion.
+(4 marks)
+3 Explain how the bonds between the atoms in both water
+and carbon dioxide molecules fulfil the 'bonding rules' (4 marks)
+4 The image below, obtained in 1953, helped confirm the recently
+proposed structure of DNA. The equipment that was used to obtain
+the image is also shown, X-ray diffraction photograph of DNA
+(deoxyribonucleic acid). This image was obtained in 1953 and results
+from a beam of X-rays being scattered onto a photographic plate by the
+DNA. Various features about the structure of the DNA can be determined
+from the pattern of spots and bands. The cross of bands indicates the
+helical nature of DNA.
+X-ray tube
+lead screen
+spots from
+diffracted
+X-rays
+crystalline solid
+like DNA
+spot from
+X-ray beam
+photographic
+plate
+a Suggest why the X-ray diffraction technique used to produce
+this image was not considered a form of microscopy but the
+use of electrons to produce images is called electron
+microscopy.
+(3 marks)
+b Explain why cells are visible with light microscopes but
+electron microscopes are needed to see ribosomes. (3 marks)
+BIOLOGICAL MOLECULES
+animals are mobile, unlike plants. The coiling or branching of these
+polysaccharides makes them very compact, which is ideal for storage.
+The branching also means there are many free ends where glucose
+molecules can be added or removed. This speeds up the processes of
+storing or releasing glucose molecules required by the cell.
+So, the key properties of amylopectin and glycogen are that they are
+insoluble, branched, and compact. These properties mean they are
+ideally suited to the storage roles that they carry out.
+Hydrolysis reactions
+Glucose is stored as starch by plants or glycogen by animals and fungi,
+until it is needed for respiration - the process in which biochemical
+energy in these stored nutrients is converted into a useable energy
+source for the cell.
+To release glucose for respiration, starch or glycogen undergo
+hydrolysis reactions, requiring the addition of water molecules.
+The reactions are catalysed by enzymes. These are the reverse of the
+condensation reactions that form the glycosidic bonds.
+Synoptic link
+You will learn about cellular
+respiration in more detail in
+Chapter 18, Respiration.
+Cellulose
+Beta glucose molecules are unable to join together in the same
+way that alpha glucose molecules can. As you can see in Figure 5,
+the hydroxyl groups on carbon 1 and carbon 4 of the two glucose
+molecules are too far from each other to react.
+Synoptic link
+You will learn more about ATP in
+Topic 3.11, ATP.
+CH,OH
+1/
+H
+/H
+The only way that beta glucoses molecules can join together and form
+a polymer is if alternate beta glucose molecules are turned upside
+down as in Figure 6.
+B-glucose
+B-glucose
+B-glucose
+B-glucose
+H OH
+CH,OH
+CH,OH
+H0 OH SO OH
+Ho OH HOH
+V
+V
+OH HV
+4K OH HIKOH H1
+4K OH H1
+HO 13 21
+H
+HO
+HO 32H
+13 21 H
+10 OH
+H 5
+H OH
+H OH
+H OH
+CH,OH
+A Figure 5 Note how far apart the OH groups are
+A Figure 6 The OH groups of the two B-glucoses are now
+on these two B-glucose molecules
+close enough to react and a 1,4 glycosidic bond is formed
+When a polysaccharide is formed from glucose in this way it is unable
+to coil or form branches. A straight chain molecule is formed called
+cellulose (Figure 7).
+CH,OH
+H
+OH
+CH OH
+H
+OH
+HOOGH HT
+VOH HV
+KOH H
+KH
+KOH
+OH HV
+H
+LO-
+HH
+H
+OH
+CH OH
+H
+OH
+CH OH
+Figure 7 The cellulose molecule is straight and unbranched
+BIOLOGICAL MOLECULES
+This mRNA molecule then travels to a ribosome in the cell cytoplasm
+for the next step in protein synthesis.
+Study tip
+Translation
+In eukaryotic cells, ribosomes are made up of two subunits, one
+large and one small. These subunits are composed of almost equal
+amounts of protein and a form of RNA known as ribosomal (r)RNA.
+rRNA is important in maintaining the structural stability of the
+protein synthesis sequence and plays a biochemical role in catalysing
+the reaction.
+Make sure you can compare the
+similarities and differences in
+biological processes, so be sure
+you are very clear about the steps
+in DNA replication, translation and
+transcription.
+Remember, transcription and
+translation involve RNA, which
+contains the base uracil instead
+of thymine.
+After leaving the nucleus, the mRNA binds to a specific site on the
+small subunit of a ribosome. The ribosome holds mRNA in position
+while it is decoded, or translated, into a sequence of amino acids. This
+process is called translation.
+- point of attachment
+of amino acid
+paired bases
+ş
+VI
+unpaired
+bases
+anticodon
+Figure 2 Large and small subunits of the ribosome with
+loop
+proteins shown in purple, ribosomal RNA in pink and yellow and
+the site that catalyses the formation of peptide bonds in green
+The 3 bases forming the anticodon
+Figure 3 The structure of tRNA
+Transfer (t)RNA is another form of RNA, which is necessary for the
+translation of the mRNA. It is composed of a strand of RNA folded in
+such a way that three bases, called the anticodon, are at one end of the
+molecule (Figure 3). This anticodon will bind to a complementary codon
+on mRNA following the normal base pairing rules. The tRNA molecules
+carry an amino acid corresponding to that codon (Figure 4).
+When the tRNA anticodons bind to complementary codons along the
+mRNA, the amino acids are brought together in the correct sequence
+to form the primary structure of the protein coded for by the mRNA.
+This cannot happen all at once. Instead amino acids are added one
+at a time and the polypeptide chain (protein) grows as this happens.
+Ribosomes act as the binding site for mRNA and tRNA and catalyse
+the assembly of the protein. The sequence of events in translation is
+summarised on the next page and in Figure 5.
+BIOLOGICAL MOLECULES
+Biosensors
+Biosensors use biological components to determine the
+presence and concentration of molecules such as glucose.
+Display - this then produces a visible, qualitative or
+quantitative signal such as a particular colour on a
+test strip or reading on a test machine.
+The basic components of a biosensor are shown
+in Figure 4.
+The analyte is the compound under investigation.
+• Molecular recognition - a protein (enzyme or
+antibody) or single strand of DNA (ssDNA) is
+immobilised to a surface, for example a glucose test
+strip. This will interact with, or bind to, the specific
+molecule under investigation.
+Transduction - this interaction will cause a change
+in a transducer. A transducer detects changes, for
+example in pH, and produces a response such as
+the release of an immobilised dye on a test strip
+or an electric current in a glucose-testing machine.
+1 Canaries used to be used in the coal mining
+industry to detect the presence of harmful gases
+such as carbon monoxide. Miners would take the
+canaries, in cages, into the mines where they were
+working, and if the birds started to show signs of
+distress this signalled the presence of harmful
+gas. Discuss whether a canary in a cage is a
+biosensor and suggest a disadvantage of the use
+of this method to detect toxic gases.
+enzyme reaction
+Ab
+sample (analyte)
+immunological
+reaction
+transducer
+signal
+data
+processing
+SSDNA
+DNA hybrid
+A Figure 4 The main components in a biosensor
+Summary questions
+1 Describe the feature of enzymes essential to their role as
+components in a biosensor.
+(3 marks)
+2 Why does Benedict's reagent turn red when warmed
+with a reducing sugar?
+(2 marks)
+3 Explain why an iodine test is used in experiments to show
+that plants require light for photosynthesis.
+(3 marks)
+Suggest how reagent strips might be useful in the
+management of the medical condition diabetes, where a
+person's blood sugar level can become too high.
+(4 marks)
+BIOLOGICAL MOLECULES
+3 Which of the following sequences is correct in terms
+of increasing bond strength?
+a ionic bonds, disulfide bonds, hydrogen bonds
+b hydrogen bonds, ionic bonds, disulfide bonds
+c disulfide bonds, ionic bonds, hydrogen bonds
+1 Suggest what property the arrangement of collagen
+fibres into large bundles gives to tendons.
+2 As we age the collagen in our skin starts to break
+down. This leads to the loss of skin structure and
+the formation of wrinkles. Many beauty products
+are available that contain collagen in the form of
+creams and capsules. Using your knowledge of the
+structure of collagen, suggest why these products
+are unlikely to have any beneficial effect in reducing
+or preventing wrinkles.
+Summary questions
+Study tip
+1 Explain the difference between a simple protein and a
+conjugated protein.
+(3 marks)
+Make sure you are able to compare
+globular and fibrous proteins using
+named examples.
+2 Describe the differences in properties and functions of insulin,
+a hormone, and keratin present in hair and nails.
+(4 marks)
+3 Describe why globular proteins are soluble in water but
+fibrous proteins are not.
+(3 marks)
+4 Myoglobin is an oxygen carrying molecule found primarily in muscle
+tissue. It is formed from a single polypeptide chain which is folded to form
+eight alpha helices. This chain is further folded around a central prosthetic
+group which binds reversibly with oxygen. The hydrophobic R groups of the
+amino acids are positioned towards the centre of the molecule.
+Discuss the similarities and differences in the structures of
+haemoglobin and myoglobin.
+(6 marks)
+3.8 Nucleic acids
+Specification reference: 2.1.2, 2.1.3
+Nucleic acids are large molecules that were discovered in cell nuclei –
+hence their name. There are two types of nucleic acid - DNA and
+RNA, and both have roles in the storage and transfer of genetic
+information and the synthesis of polypeptides (proteins). They are
+the basis for heredity.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the structure of a nucleotide
+► the synthesis and breakdown
+of polynucleotides
+► the structure of DNA
+(deoxyribonucleic acid)
+practical investigations into
+the purification of DNA by
+precipitation.
+Nucleotides and nucleic acids
+Nucleic acids contain the elements carbon, hydrogen, oxygen,
+nitrogen and phosphorus. They are large polymers formed from
+many nucleotides (the monomers) linked together in a chain.
+An individual nucleotide is made up of three components, as shown
+in Figure 1:
+(a)-
+phosphate
+sugar
+base
+a pentose monosaccharide (sugar), containing five carbon atoms
+a phosphate group, -PO,2-, an inorganic molecule that is acidic
+and negatively charged
+sugar-phosphate backbone
+a nitrogenous base - a
+complex organic molecule
+phosphate
+containing one or two carbon
+rings in its structure as well
+base
+sugar
+as nitrogen.
+0--P-0-
+O=
+OH
+OH
+base
+phosphodiester
+bond
+base
+3
+OH
+Figure 1 (a) A nucleotide and its three
+component parts: a sugar, a phosphate
+and a base (the numbers in blue denote
+the standard numbering of the five
+carbons in the sugar). (b) A simple
+representation of a nucleotide
+Nucleotides are linked together
+by condensation reactions
+to form a polymer called a
+polynucleotide. The phosphate
+group at the fifth carbon of
+the pentose sugar (5') of one
+nucleotide forms a covalent bond
+with the hydroxyl (OH) group
+at the third carbon (3') of the
+pentose sugar of an adjacent
+nucleotide. These bonds are
+called phosphodiester bonds.
+This forms a long, strong sugar-
+phosphate 'backbone' with a base
+attached to each sugar (Figure 2).
+The phosphodiester bonds are
+broken by hydrolysis, the
+reverse of condensation, releasing
+the individual nucleotides.
+nucleotide added
+to the chain
+base
+Figure 2 Nucleotides (monomers)
+are linked together to form the polymer,
+nucleic acid (polynucleotide). Note the
+sugar-phosphate backbone with all the
+bases projecting from the opposite side
+Study tip
+You do not need to remember
+the detailed chemical structure
+of nucleotides or nucleic acids,
+but you should learn the basic
+structures of phosphate, sugars
+and bases.
+Deoxyribonucleic acid (DNA)
+As the name suggests, the sugar in deoxyribonucleic acid (DNA)
+is deoxyribose - a sugar with one fewer oxygen atoms than ribose, as
+shown in Figure 3.
+68
+BIOLOGICAL MOLECULES
+3.1 Biological elements
+Specification reference: 2.1.2
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+the chemical elements that
+make up biological molecules :
+► the key inorganic ions that
+are involved in biological
+processes
+→ monomers and polymers as
+biological molecules.
+The building blocks of life
+In section 2 you looked at cells and cellular components, however,
+these too are composed from smaller components called molecules,
+Molecules are built from even smaller components called atoms. In
+fact, atoms are built from yet smaller components including protons,
+neutrons, and electrons, which you will have learned about in your
+GCSE science or chemistry studies.
+Knowledge of biochemistry is essential, as it underpins a proper
+understanding of the metabolic processes, structures, and limitations
+of biology, for example the complex series of reactions and molecules
+involved in cellular respiration. You do not need to be a chemist to
+understand basic biochemistry, as you will see in coming topics, but
+you do need to understand some essential chemical concepts and
+rules, which will be explored in this chapter.
+HYDROGEN
+atomic nucleus
+proton
+(positively charged)
+Elements
+electron
+(negatively charged)
+in a 3-dimensional
+orbit around the
+nucleus
+Different types of atoms are called elements. Elements are distinguished
+by the number of protons in their atomic nuclei. There are over a hundred
+known elements in the universe but only a small percentage of these are
+present in the living world.
+electron shell
+atomic number
+number of protons
+number of neutrons
+number of electrons
+mass number
+If you have ever built a model using interlocking bricks you will know
+how useful the bricks that make the most connections are, at the start
+of a new build.
+CARBON
+atomic number
+number of protons 6
+number of neutrons 6
+number of electrons 6
+mass number 12
+In the same way that complex models can be built from a small range
+of simple bricks, all living things are made primarily from four key
+elements - carbon (C), hydrogen (H), oxygen (0) and nitrogen (N).
+In addition, phosphorus (P) and sulfur (S) also have important roles
+in the biochemistry of cells. These six elements are by far the most
+abundant elements present in biological molecules.
+Other elements, including sodium (Na), potassium (K), calcium (Ca),
+and iron (Fe), also have important roles in biochemistry. You will learn
+about some of the roles of these elements later in this chapter.
+OXYGEN
+atomic number
+number of protons 8
+number of neutrons 81
+number of electrons 8
+mass number 16
+Bonding
+Atoms connect with each other by forming bonds. Atoms can
+bond to other atoms of the same element, or atoms of different
+elements, provided this follows the 'bonding rules' (described on the
+next page). When two or more atoms bond together the complex is
+called a molecule.
+Figure 1 Atomic structure of hydrogen,
+carbon and oxygen which are common
+biological elements
+A covalent bond occurs when two atoms share a pair of electrons. The
+electrons used to form bonds are unpaired and present in the outer
+orbitals of the atoms.
+40
+3.5 Lipids
+Specification reference: 2.1.2
+Lipids, commonly known as fats and oils, are molecules containing
+the elements carbon, hydrogen, and oxygen. Generally, fats are lipids
+that are solid at room temperature and oils are lipids that are liquid at
+room temperature.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the structure of a triglyceride
+and a phospholipid
+► the synthesis and breakdown
+of triglycerides
+properties of triglyceride,
+phospholipid, and cholesterol
+molecules
+how to carry out and interpret
+the results of an emulsion
+test for lipids.
+Lipids are non-polar molecules as the electrons in the outer orbitals
+that form the bonds are more evenly distributed than in polar
+molecules. This means there are no positive or negative areas within
+the molecules and for this reason lipids are not soluble in water. Oil
+and water do not mix.
+Lipids are large complex molecules known as macromolecules, which
+are not built from repeating units, or monomers, like polysaccharides.
+In this topic we will be looking at the lipids, triglycerides, phospholipids,
+and sterols.
+Triglycerides
+A triglyceride is made by combining one glycerol molecule with
+three fatty acids. Glycerol is a member of a group of molecules called
+alcohols. Fatty acids belong to a group of molecules called carboxylic
+acids – they consist of a carboxyl group (-COOH) with a hydrocarbon
+chain attached.
+As you can see in Figure 1, both of these molecules contain
+hydroxyl (OH) groups. The hydroxyl groups interact, leading to the
+formation of three water molecules and bonds between the fatty
+acids and the glycerol molecule. These are called ester bonds and
+this reaction is called esterification. Esterification is another example
+of a condensation reaction, which you learnt about in Topic 3.3,
+Carbohydrates.
+glycerol
+H
+H.
+H-C-0-H
+fatty acids
+triglyceride (fat)
+HO C-(CH2), CH3
+H-C-0-C-(CH2), CH3
+condensation
+HO-C-(CH2), CH3 (water removed) H-C0C-(CH2), CH3
+0
+H-C-0-H
+H-0-0-H
+HO-C-(CH2), CH3
+H-C- C-(CH2), CH3
+H
+3H20
+ester bond
+Figure 1 Synthesis of a triglyceride from glycerol and three fatty acids by the
+formation of three ester bonds, producing three water molecules
+When triglycerides are broken down, three water molecules need to
+be supplied to reverse the reaction that formed the triglyceride.
+This is another example of a hydrolysis reaction (Topic 3.3,
+Carbohydrates).
+54
+3
+3.1 Biological elements
+Ions in solution are called electrolytes. The following tables list some of
+the important roles of ions in living organisms.
+Table 2 Roles of cations
+Cations
+Necessary for
+calcium ions (Ca2+)
+nerve impulse transmission
+muscle contraction
+sodium ions (Na+)
+potassium ions (K+)
+nerve impulse transmission
+kidney function
+nerve impulse transmission
+stomatal opening
+catalysis of reactions
+pH determination
+production of nitrate ions by bacteria
+hydrogen ions (H+)
+ammonium ions (NH +)
+Table 3 Roles of anions
+Anions
+Necessary for
+nitrogen supply to plants for amino
+acid and protein formation
+nitrate ions (NO3-)
+hydrogen carbonate ions (HCO3-)
+maintenance of blood pH
+chloride ions (CI+)
+balance positive charge of sodium
+and potassium ions in cells
+phosphate ions (PO3-)
+cell membrane formation
+nucleic acid and ATP formation
+bone formation
+hydroxide ions (OH)
+catalysis of reactions
+pH determination
+Biological molecules
+Below is a summary of the elements present in some of the key biological
+molecules. You will learn more about each of these classes of molecule in
+the coming topics of this chapter.
+Carbohydrates - carbon, hydrogen, and oxygen, usually in the
+ratio C (H20),
+Lipids - carbon, hydrogen, and oxygen.
+Proteins - carbon, hydrogen, oxygen, nitrogen, and sulfur.
+Nucleic acids - carbon, hydrogen, oxygen, nitrogen, and phosphorus.
+Polymers
+Biological molecules are often polymers. Polymers are long-chain
+molecules made up by the linking of multiple individual molecules
+(called monomers) in a repeating pattern. In carbohydrates the
+monomers are sugars (saccharides) and in proteins the monomers
+are amino acids.
+42
+3.5 Lipids
+Synoptic link
+As a result of their dual hydrophobic/hydrophilic structure, phospholipids
+behave in an interesting way when they interact with water.
+You will learn about the role of
+surfactants in the lungs in
+Topic 6.2, The mammalian gaseous
+exchange system.
+They will form a layer on the surface of the water with the phosphate
+heads in the water and the fatty acid tails sticking out of the water
+(Figure 4). Because of this they are called surface active agents or
+surfactants for short.
+hydrophilic
+head of
+phospholipid
+molecule
+hydrophobic
+tail of
+phospholipid
+molecule
+They can also form structures based on a two-layered sheet formation
+(a bilayer) with all of their hydrophobic tails pointing toward the
+centre of the sheet, protected from the water by the hydrophilic heads
+(Figure 5).
+It is as a result of this bilayer arrangement that phospholipids play
+a key role in forming cell membranes. They are able to separate an
+aqueous environment in which cells usually exist from the aqueous
+cytosol within cells. It is thought that this is how the first cells were
+formed and, later on, membrane-bound organelles within cells.
+water
+Figure 4 A phospholipid monolayer
+in water
+Sterols
+Sterols, also known as steroid alcohols, are another type of lipid
+found in cells. They are not fats or oils and have little in common with
+them structurally. They are complex alcohol molecules, based on a
+four carbon ring structure with a hydroxyl (OH) group at one end.
+Like phospholipids, however, they have dual hydrophilic/hydrophobic
+characteristics. The hydroxyl group is polar and therefore hydrophilic
+and the rest of the molecule is hydrophobic.
+water
+A Figure 5 Phospholipid bilayer
+structure in water
+CH,CH, CH, CH
+Cholesterol is a sterol. The body manufactures cholesterol primarily
+in the liver and intestines. It has an important role in the formation
+of cell membranes, becoming positioned between the phospholipids
+with the hydroxyl group at the periphery of the membrane. This adds
+stability to cell membranes and regulates their fluidity by keeping
+membranes fluid at low temperatures and stopping them becoming
+too fluid at high temperatures.
+cholesterol
+CH CH, CH
+CH3
+CH3
+Vitamin D, steroid hormones, and bile are all manufactured
+using cholesterol.
+HO
+hydrophilic hydrophobic
+Figure 6 Cholesterol has a characteristic
+hydroxyl group and four carbon rings
+Roles of lipids
+Due to their non-polar nature, lipids have many biological roles.
+These include:
+membrane formation and the creation of hydrophobic barriers
+• hormone production
+electrical insulation necessary for impulse transmission
+waterproofing, for example in birds' feathers and on plant leaves.
+Synoptic link
+You will learn about the roles
+of lipids in cell membranes in
+topic 5.1, The structure and
+function of membranes.
+Lipids, triglycerides in particular, also have an important role in
+long-term energy storage. They are stored under the skin and around
+vital organs, where they also provide:
+thermal insulation to reduce heat loss for example, in penguins
+cushioning to protect vital organs such as the heart and kidneys
+buoyancy for aquatic animals like whales.
+56
+BIOLOGICAL MOLECULES
+Saturated and unsaturated
+Fatty acid chains that have no double bonds present between the
+carbon atoms are called saturated, because all the carbon atoms form
+the maximum number of bonds with hydrogen atoms (i.e., they are
+saturated with hydrogen atoms).
+saturated
+(no double bonds between carbon atoms)
+H H H H H H H H H.
+0
+H
+H
+H
+H
+H
+H
+H
+H
+H
+A fatty acid with double bonds between some of the carbon atoms
+is called unsaturated. If there is just one double bond it is called
+monounsaturated. If there are two or more double bonds it is called
+polyunsaturated. The presence of double bonds causes the molecule
+to kink or bend (Figure 2) and they therefore cannot pack so closely
+together. This makes them liquid at room temperature rather than
+solid, and they are therefore described as oils rather than fats.
+mono-unsaturated
+(one double bond between carbon atoms)
+o H H H H H H
+C-C-C-C-C-C-Csi
+OHHHHH
+HH
+Plants contain unsaturated triglycerides, which normally occur as
+oils, and tend to be more healthy in the human diet than saturated
+triglycerides, or (solid) fats. There has been some evidence that in
+excess, saturated fats can lead to coronary heart disease, however the
+evidence remains inconclusive. An excess of any type of fat can lead to
+obesity, which also puts a strain on the heart.
+polyunsaturated
+(more than one double bond between
+carbon atoms)
+o H H H
+C-C-C-C
+I-Oo
+0-I
+Phospholipids
+Phospholipids are modified triglycerides and contain the
+The double bonds cause the molecule
+element phosphorus along with carbon, hydrogen, and oxygen.
+to bend. They cannot therefore pack
+Inorganic phosphate ions (PO3-) are found in the cytoplasm of
+together so closely making them liquid
+every cell. The phosphate ions have extra electrons and so are
+at room temperature, i.e they are oils.
+negatively charged, making them soluble in water.
+A Figure 2 Saturated and unsaturated
+One of the fatty acid chains in a triglyceride molecule is replaced
+fatty acids
+with a phosphate group to make a phospholipid.
+(a) chemical structure of a phospholipid
+non-polar long chain
+CH,COO
+fatty acid
+hydrocarbons
+hydrophobic
+CHCOO
+fatty acid
+(repel water)
+charged end of
+molecule
+hydrophilic
+---CH2
+(attracts water)
+phosphate
+Study tip
+(b) simplified way to draw a phospholipid
+Polar or charged molecules and
+non-polar molecules should not
+be described as 'water loving'and
+'water hating' but as hydrophilic
+and hydrophobic.
+charged (hydrophilic) head non-polar (hydrophobic) tails
+A Figure 3 Structure of a phospholipid
+Phospholipids are unusual because, due to their length, they have
+a non-polar end or tail (the fatty acid chains) and a charged end or
+head (the phosphate group). The non-polar tails are repelled by water
+(but mix readily with fat). They are hydrophobic. The charged
+heads (often incorrectly called polar ends) will interact with, and are
+attracted to, water. They are hydrophilic.
+55
+BIOLOGICAL MOLECULES
+Bonding follows some simple rules, determined by the number of
+unpaired electrons present in the outer orbitals of different elements:
+Carbon atoms can form four bonds with other atoms.
+Nitrogen atoms can form three bonds with other atoms.
+Oxygen atoms can form two bonds with other atoms.
+• Hydrogen atoms can only form one bond with another atom.
+Table 1 Hydrogen atoms can only form one bond with other atoms. Carbon atoms can form four bonds,
+nitrogen three and oxygen two. The dots and crosses represent electrons and which atom they belong to
+Molecule
+Electron diagram
+Displayed formula
+'Ball and stick' model
+Hydrogen (H)
+H—
+H
+Water (H,0)
+Carbon dioxide (CO)
+o=c=0
+Methane (CH)
+H-
+C-
+H
+H-
+N-
+H
+Ammonia (NH)
+The number of bonds formed by these elements can be no more or less
+than stated. There are, however, exceptions to this rule, which you
+will learn about in later sections. Life on this planet is often referred
+to as being 'carbon-based' because carbon, which can form four bonds,
+forms the backbone of most biological molecules.
+lons
+An atom or molecule in which the total number of electrons is not
+equal to the total number of protons is called an ion. If an atom or
+molecule loses one or more electrons it has a net positive charge and
+is known as a cation. If an atom or molecule gains electrons, it has a
+net negative charge and is known as an anion.
+In ionic bonds, one atom in the pair donates an electron and the other
+and negative ions that are held together
+by the attraction of the opposite charges.
+BIOLOGICAL MOLECULES
+a Describe the relationship shown by
+the graph.
+(4 marks)
+b Explain why ribosomes are necessary in
+protein synthesis.
+(3 marks)
+C Assuming a constant rate of translation
+explain the trend shown by the graph.
+(4 marks)
+The diagram below summarises the flow of
+information between DNA, RNA and protein.
+Your drawing should show:
+• The bond(s) between the two molecules
+The name of the bond
+The charges on each atom (3 marks)
+OCR F212 2010
+8
+DNA
+A
+RNA -
+→ protein
+B
+a Suggest which processes are happening at
+A and B on the diagram. (2 marks)
+b Explain why there is no arrow between
+DNA and protein.
+(3 marks)
+Viruses are often incorporated into DNA
+within the nucleus of infected cells.
+c Suggest why an arrow could also be
+drawn going from RNA to DNA. (2 marks)
+9 Compare the structure and function of ATP
+and a DNA nucleotide.
+(5 marks)
+10 The diagram represents a water molecule
+Water molecules are polar. As a result, they
+attract each other.
+Draw a second water molecule on the
+diagram
+11 a Ponds provide a very stable environment
+for aquatic organisms.
+Three properties that contribute to this
+stability are as follows:
+• The density of water decreases as the
+temperature falls below 4 °C so ice floats
+on the top of the bond
+It acts as a solvent for ions such as
+nitrates (NO)
+A large quantity of energy is required to
+raise the temperature of water by 1°C.
+Explain how these three properties help
+organisms survive in the pond.
+In you answer you should make clear the links
+between the behaviour of the water molecules and
+the survival of the organisms.
+(8 marks)
+b Water is important in many biological
+questions.
+Complete table 1 by writing an
+appropriate term next to each description.
+term
+description
+The type of reaction that
+occurs when water is added
+to break a bond in a molecule
+The phosphate group of a
+phospholipid that readily
+attracts water molecules
+OCR F212 2010
+BIOLOGICAL MOLECULES
+As water is involved in the removal of the phosphate group this is
+another example of a hydrolysis reaction.
+energy
+ATP +
+adenosine
+triphosphate
+H2O
+water
++ ADP
+adenosine
+diphosphate
++ P +
+inorganic
+phosphate
+The hydrolysis of ATP does not happen in isolation but in association
+with energy-requiring reactions. The reactions are said to be 'coupled'
+as they happen simultaneously.
+energy released for use by cells
+ATP is hydrolysed into adenosine diphosphate (ADP) and a phosphate
+ion, releasing energy.
+hydrolysis
+(H20
+ATP
+ADP + P
+adenosine
+triphosphate (ATP)
+P-P-P
+energy
+condensation
+> P + P-PG
+inorganic
+phosphate
+adenosine
+diphosphate (ADP)
+inorgan
+Figure 3 The hydrolysis of ATP to ADP releases energy
+energy supplied from respiration
+A Figure 4 Interconversion of ATP
+and ADP
+Study tip
+The instability of the phosphate bonds in ATP, however, means that
+it is not a good long-term energy store. Fats and carbohydrates are
+much better for this. The energy released in the breakdown of
+these molecules (a process called cellular respiration) is used to
+create ATP. This occurs by reattaching a phosphate group to an ADP
+molecule. The process is called phosphorylation. As water is removed
+in this process, the reaction is another example of a condensation
+reaction.
+Make sure you know the
+characteristics that make ATP
+so useful as the universal
+energy currency.
+Summary questions
+Due to the instability of ATP, cells do not store large amounts of
+it. However, ATP is rapidly reformed by the phosphorylation of
+ADP (Figure 4). This interconversion of ATP and ADP is happening
+constantly in all living cells, meaning cells do not need a large store of
+ATP. ATP is therefore a good immediate energy store.
+1 Describe the structure of ATP.
+(3 marks)
+2 Describe why ATP is
+called the universal
+energy currency. (3 marks)
+Properties of ATP
+The structure and properties of ATP mean that it is ideally suited
+to carry out its function in energy transfer. A summary of these
+properties is given below.
+Small – moves easily into, out of and within cells.
+• Water soluble-energy-requiring processes happen in aqueous
+environments.
+Contains bonds between phosphates with intermediate energy:
+large enough to be useful for cellular reactions but not so large
+that energy is wasted as heat.
+Releases energy in small quantities - quantities are suitable to
+most cellular needs, so that energy is not wasted as heat.
+• Easily regenerated - can be recharged with energy.
+3 People and other animals
+store excess energy in the
+form of fat. Explain why fat
+is stored, not ATP? (4 marks)
+4 a Outline how energy is
+transferred with reference
+to bond formation and
+cleavage. (2 marks)
+Discuss the validity of
+the statement: ATP is the
+universal energy currency.
+(4 marks)
+Chapter 3 Practice questions
+a
+Identify A, B, C and D on the diagram
+below.
+(4 marks)
+Practice questions
+Water has a very simple molecular structure but
+is a vital component of living organisms. Water
+has many roles such as metabolite, solvent and
+reaction medium. It is also the environment in
+which many organisms live.
+1 a Define the word 'molecule'. (2 marks)
+b Explain what is meant by the term
+'polar' with reference to water. (2 marks)
+c Water has an essential role as a transport
+medium in both plants and animals.
+Explain why water makes an ideal
+transport medium using two examples.
+(4 marks)
+2 A colorimeter can be used to estimate the
+concentration of a solution of reducing sugar.
+This is done by carrying out Benedict's test on
+the solution, allowing the precipitate to settle
+and measuring the absorbance of the liquid
+portion or supernatant.
+Describe how you could estimate the
+concentration of a solution of glucose without
+using a colorimeter.
+(5 marks)
+Copy and fill in the table below.
+The first row has been done for you.
+(3 marks)
+Feature
+Cellulose Collagen
+OH
+b Explain why nucleic acids are described
+as polymers.
+(2 marks)
+c Outline the differences between DNA
+and RNA.
+(2 marks)
+d Chargaff's rule states that the ratios of
+adenine to thymine and guanine to
+cytosine in DNA are equal.
+(i) Explain, using your knowledge of the
+structure of DNA why the bases in
+DNA always obey this rule.
+(4 marks)
+(ii) Suggest what has happened during
+replication if a section of DNA does
+not obey this rule.
+(3 marks)
+The graph below shows how the ratio of
+ribosome synthesis to total protein synthesis
+changes as the rate of cell division in a
+bacterial colony increases.
+Fibrous
+7
+Monomers joined by
+condensation reactions
+Monomers identical
+Branching
+0.3
+4
+a Describe the difference between
+hydrophobic and hydrophilic using
+phospholipid molecules as an example.
+(4 marks)
+b Describe how you would identify the
+presence of a lipid in an unknown sample.
+(4 marks)
+Explain the meaning of prosthetic group with
+reference to haemoglobin.
+(4 marks)
+ratio of ribosomal protein synthesis:
+total protein synthesis
+5
+2
+doublings per hour
+3.11 ATP
+Specification reference: 2.1.3 and 2.1.2
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the structure of ADP and
+ATP as nucleotides
+the hydrolysis and
+condensation reactions
+involving ATP and ADP.
+Universal energy currency
+Muscle contraction, cell division, the transmission of nerve impulses,
+and even memory formation are just some of the many biological
+processes that require energy. Energy comes in many forms, such
+as heat, light, and the energy in chemical bonds. Energy has to be
+supplied in the right form and quantity to the processes that
+require it.
+Cells require energy for three main types of activity:
+• synthesis – for example of large molecules such as proteins
+transport - for example pumping molecules or ions across cell
+membranes by active transport
+• movement - for example protein fibres in muscle cells that cause
+muscle contraction.
+Study tip
+You might be asked about the
+similarities and differences
+between ATP structure and DNA
+and RNA nucleotide structure.
+Make sure you understand these.
+Inside cells, molecules of adenosine triphosphate (ATP) are able to
+supply this energy in such a way that it can be used.
+An ATP molecule is composed of a nitrogenous base, a pentose sugar
+and three phosphate groups, as shown in Figure 1 - it is a nucleotide.
+You will notice that the structure of ATP is very similar to that of the
+nucleotides involved in the structure of DNA and RNA (Topic 3.8,
+Figure 1). However, in ATP the base is always adenine and there are
+three phosphate groups instead of one. The sugar in ATP is ribose, as
+in RNA nucleotides.
+O-P-0
+=0
+Phosphate group
+adenine
+HOCH
+OO-I
+ribose
+IO-
+OH
+OH
+A Figure 1 The structure of an ATP molecule
+Ribose
+NH
+ATP is used for energy transfer in all cells of all living things. Hence it
+is known as the universal energy currency.
+N-
+CN
+Adenine
+How ATP releases energy
+Energy is needed to break bonds and is released when bonds are
+formed. A small amount of energy is needed to break the relatively
+weak bond holding the last phosphate group in ATP. However,
+a large amount of energy is then released when the liberated
+phosphate undergoes other reactions involving bond formation.
+Overall a lot more energy is released than used, approximately
+30.6 kJ mol-1.
+Figure 2 The structure of a
+phosphate group, the pentose sugar
+ribose, and the nitrogenous base
+adenine
+80
+BIOLOGICAL MOLECULES
+1
+-
+2-
+3
+-4
+of amino acids in the primary structure. The protein may
+undergo further modifications at the Golgi apparatus
+(Topic 2.4, Eukaryotic cell structure) before it is fully
+functional and and ready to carry out the specific role for
+which it has been synthesised.
+polypeptide chain
+FZH-IT-01-6-8-1-9-
+Many ribosomes can follow on the mRNA behind the
+first, so that multiple identical polypeptides can be
+synthesised simultaneously (Figure 6).
+2-3-4-5-6-7-8-9-10-10
+3-14-15-16-17-18-
+tRNA
+-2-3
+- ribosome
+direction
+of movement
+of ribosome
+Figure 6 The formation of multiple identical proteins
+simultaneously by translation of one mRNA by several
+ribosomes
+VIU LTH
+mRNA
+Summary questions
+1 Copy and complete the diagram below to
+show the missing bases forming the tRNA
+anticodons.
+(4 marks)
+(2 marks)
+DNA
+TAC
+CGG
+AGT
+GCA
+3 a An enzyme forms part of the structure
+of ribosome. Suggest the role of this
+enzyme.
+b rRNA also forms part of the structure.
+Suggest why RNA needs to be present
+in a ribosome.
+c Ribosomes are either free floating within
+the cytoplasm or bound to endoplasmic
+reticulum. Suggest a reason for the
+different ribosomal sites.
+(2 marks)
+mRNA
+AUG
+GCC
+UCA
+CGU
+(2 marks)
+tRNA
+met
+ser
+2 Describe the roles of mRNA, RNA and rRNA in
+protein synthesis
+(5 marks)
+4 Post-transcriptional modification of mRNA is carried
+out before it can leave the nucleus. This involves
+'capping' each end to protect the mRNA from
+degradation in the cytoplasm and the removal of
+introns. Introns are non-coding sections of DNA and
+have no role in the formation of proteins.
+a Explain why unnecessary base sequences
+must be removed before protein synthesis
+begins.
+(4 marks)
+b Suggest an advantage of being able to
+edit mRNA
+(2 marks)
+c Suggest a reason for the presence of
+introns within genes.
+(4 marks)
+3.7 Types of proteins
+The structure of fibrous proteins
+elastin
+Elastin
+Elastin is made by linking many soluble tropoelastin
+protein molecules to make a very large, insoluble, and
+stable, cross-linked structure (Figure 4).
+Tropoelastin molecules are able to stretch and recoil
+without breaking, acting like small springs. They contain
+alternate hydrophobic and lysine-rich areas.
+relaxing
+stretching
+Elastin is formed when multiple tropoelastin molecules
+aggregate via interactions between the hydrophobic
+areas. The structure is stabilised by cross-linking
+covalent bonds involving the amino acid lysine, but the
+polypeptide structure still has flexibility.
+single tropoelastin molecule
+cross-link
+Elastin confers strength and elasticity to the skin and
+other tissues and organs in the body.
+Collagen
+Figure 4 The structure of elastin allows it to be stretched
+without breaking
+(a)
+Collagen molecules have three polypeptide chains
+wound around each other in a triple helix structure to
+form a tough, rope-like protein (Figure 5d and e).
+ligament tissue
+(b)
+Every third amino acid in the polypeptide chains is
+glycine, which is a small amino acid. Its small size allows
+the three protein molecules to form a closely packed
+triple helix. Many hydrogen bonds form between the
+polypeptide chains forming long quaternary proteins
+with staggered ends (Figure 5d). These allow the proteins
+to join end to end, forming long fibrils called tropocollagen
+(Figure 5c). The tropocollagen fibrils cross-link to
+produce strong fibres.
+multiple triple-helix proteins
+wound to form a microfibril
+cross-linking
+Collagen also contains high proportions of the amino
+acids proline and hydroxyproline. The R-groups in these
+amino acids repel each other and this adds to the stability
+of collagen
+In some tissues, multiple fibres of collagen aggregate
+into larger bundles (Figure 5a). This is the structure
+found in ligaments and tendons. In skin, collagen fibres
+form a mesh that is resistant to tearing
+staggered ends
+fropocollagen
+(d)
+three polypeptide chains form a triple helix - collagen
+(e)
+Figure 5 (a) A ligament is composed of a bundle of
+(b) collagen microfibrils. Each collagen microfibril is composed
+of (c) multiple triple-helix proteins wound together with
+staggered ends so that the individual polypeptides overlap,
+forming a very strong structure
+single polypeptide chain
+66
+3.9 DNA replication and
+the genetic code
+Specification reference: 2.1.3
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ semi-conservative DNA
+replication
+► the nature of the genetic code.
+Cells divide to produce more cells needed for growth or repair of
+tissues. The two daughter cells produced as a result of cell division
+are genetically identical to the parent cell and to each other. In other
+words, they contain DNA with a base sequence identical to the
+original parent cell.
+When a cell prepares to divide, the two strands of DNA double helix
+separate and each strand serves as a template for the creation of a
+new double-stranded DNA molecule. The complementary base pairing
+rules, which you learnt about in the previous topic, ensure that the
+two new strands are identical to the original. This process is called
+DNA replication.
+Synoptic link
+You will learn more about cell
+division in Topic 6.2, Mitosis.
+Semi-conservative replication
+For DNA to replicate, the double helix structure has to unwind and
+then separate into two strands, so the hydrogen bonds holding the
+complementary bases together must be broken (Figure 1c). Free
+DNA nucleotides will then pair with their complementary bases,
+which have been exposed as the strands separate. Hydrogen bonds
+are formed between them. Finally, the new nucleotides join to their
+adjacent nucleotides with phosphodiester bonds (Figure 1d).
+In this way, two new molecules of DNA are produced. Each one
+consists of one old strand of DNA and one new strand. This is known
+as semi-conservative (meaning half the same) replication.
+Synoptic link
+You will learn more about enzymes
+in Chapter 4, Enzymes.
+Roles of enzymes in replication
+DNA replication is controlled by enzymes, a class of proteins that act
+as catalysts for biochemical reactions. Enzymes are only able to carry
+out their function by recognising and attaching to specific molecules or
+particular parts of the molecules.
+Before replication can occur, the unwinding and separating of
+the two strands of the DNA double helix is carried out by the
+enzyme DNA helicase. It travels along the DNA backbone,
+catalysing reactions that break the hydrogen bonds between
+complementary base pairs as it reaches them. This can be thought
+of as the strand 'unzipping'.
+Free nucleotides pair with the newly exposed bases on the
+template strands during the 'unzipping process. A second enzyme,
+DNA polymerase catalyses the formation of phosphodiester bonds
+between these nucleotides.
+72
+BIOLOGICAL MOLECULES
+Hy
+O
+-
+I
+To get around this problem, the relatively short section of the long
+DNA molecule corresponding to a single gene is transcribed into a
+base
+similarly short messenger RNA (mRNA) molecule. Each individual
+mRNA is therefore much shorter than the whole chromosome of
+DNA. It is a polymer composed of many nucleotide monomers.
+uracil
+phosphate
+RNA nucleotides are different to DNA nucleotides as the pentose
+sugar is ribose rather than deoxyribose (Figure 3) and the
+0-- P— 0+
+thymine base is replaced with the base uracil (U) (see Figure 9).
+ribose
+Like thymine, uracil is a pyrimidine that forms two hydrogen
+bonds with adenine. Therefore the base pairing rules still apply
+sugar
+when RNA nucleotides bind to DNA to make copies of particular
+TH
+sections of DNA.
+OH
+A Figure 8 The thymine base is replaced with
+The RNA nucleotides form polymers in the same way as DNA
+uracil in RNA nucleotides. The sugar is ribose
+nucleotides - by the formation of phosphodiester bonds in
+not deoxyribose
+condensation reactions. The RNA polymers formed are small
+enough to leave the nucleus and travel to the ribosomes, where they
+are central in the process of protein synthesis.
+Synoptic link
+After protein synthesis the RNA molecules are degraded in the
+You will learn more about
+cytoplasm. The phosphodiester bonds are hydrolysed and the RNA
+transcription and translation in
+nucleotides are released and reused.
+protein synthesis in Topic 3.9, DNA
+replication and the genetic code
+and Topic 3.10, Protein synthesis.
+OH
+DNA extraction
+DNA can be extracted from plant material using the following procedure:
+Summary questions
+1 Describe the differences
+between DNA and RNA
+nucleotides. (2 marks)
+• Grind sample in a mortar and pestle -
+this breaks down the cell walls.
+Mix sample with detergent - this
+breaks down the cell membrane,
+releasing the cell contents into solution.
+Add salt - this breaks the hydrogen
+bonds between the DNA and
+water molecules.
+Add protease enzyme - this will
+break down the proteins associated
+with the DNA in the nuclei.
+Add a layer of alcohol (ethanol) on top
+of the sample - alcohol causes the
+A Figure 9 DNA as a white
+precipitate
+DNA to precipitate out of solution.
+The DNA will be seen as white strands forming between the layer of
+sample and layer of alcohol (Figure 9). The DNA can be picked up by
+'spooling' it onto a glass rod.
+2 Explain the base
+pairing rule. (3 marks)
+3 Explain how the structure
+of DNA is ideally suited
+to its role.
+(4 marks)
+A sample of DNA was tested
+and 17% of the total bases
+present were found to
+be adenine.
+Calculate the percentages
+of each of the other three
+bases present in this
+sample. Show all of
+your working. (3 marks)
+1 The temperature should be kept low throughout this DNA extraction
+procedure. Suggest why.
+2 Explain why detergent breaks down cell membranes.
+BIOLOGICAL MOLECULES
+Catalase
+Catalase is an enzyme. Enzymes catalyse reactions, meaning they
+increase reaction rates, and each enzyme is specific to a particular
+reaction or type of reaction.
+Synoptic link
+You will learn more about
+haemoglobin and its role in the
+transport of oxygen in Topic 8.4,
+Transport of oxygen and carbon
+dioxide in the blood.
+Catalase is a quaternary protein containing four haem prosthetic groups.
+The presence of the iron II ions in the prosthetic groups allow catalase to
+interact with hydrogen peroxide and speed up its breakdown. Hydrogen
+peroxide is a common byproduct of metabolism but is damaging to cells
+and cell components if allowed to accumulate. Catalase makes sure this
+doesn't happen.
+Synoptic link
+You will learn about enzymes in
+Chapter 4, Enzymes.
+Fibrous proteins
+Fibrous proteins are formed from long, insoluble molecules. This
+is due to the presence of a high proportion of amino acids with
+hydrophobic R-groups in their primary structures. They contain a
+limited range of amino acids, usually with small R-groups. The amino
+acid sequence in the primary structure is usually quite repetitive.
+This leads to very organised structures reflected in the roles fibrous
+proteins often have. Keratin, elastin, and collagen are examples of
+fibrous proteins.
+Study tip
+You are not required to learn
+the detailed structure of fibrous
+proteins, but an overview is useful
+in understanding their properties
+and functions. Details of the
+structure of fibrous proteins are
+given in the Extension.
+Fibrous proteins tend to make strong, long molecules which are not
+folded into complex three-dimensional shapes like globular proteins.
+Keratin
+Keratin is a group of fibrous proteins present in hair, skin, and nails.
+It has a large proportion of the sulfur-containing amino acid, cysteine.
+This results in many strong disulfide bonds (disulfide bridges) forming
+strong, inflexible, and insoluble materials. The degree of disulfide
+bonds determines the flexibility - hair contains fewer bonds making it
+more flexible than nails, which contain more bonds. The unpleasant
+smell produced when hair or skin is burnt is due to the presence of
+relatively large quantities of sulfur in these proteins.
+Elastin
+Elastin is a fibrous protein found in elastic fibres (along with small
+protein fibres). Elastic fibres are present in the walls of blood
+vessels and in the alveoli of the lungs - they give these structures
+the flexibility to expand when needed, but also to return to their
+normal size. Elastin is a quaternary protein made from many stretchy
+molecules called tropoelastin (see the Extension, The structure of
+fibrous proteins, for further detail of structure).
+Figure 3 A coloured SEM image of
+eyelash hairs growing from the surface of
+human skin. The shafts of hair are made
+up of the fibrous protein, keratin. x 50
+magnification
+Collagen
+Collagen is another fibrous protein. It is a connective tissue found in
+skin, tendons, ligaments and the nervous system. There are a number
+of different forms but all are made up of three polypeptides wound
+together in a long and strong rope-like structure. Like rope, collagen
+has flexibility (see the Extension, The structure of fibrous proteins, for
+further detail of structure).
+Synoptic link
+You will learn more about the role
+of elastin in blood vessels in
+Topic 8.2, Blood vessels.
+3
+BIOLOGICAL MOLECULES
+Identification of lipids
+Lipids can be identified in the laboratory by a simple test known as the
+emulsion test. First, the sample is mixed with ethanol. The resulting
+solution is mixed with water and shaken. If a white emulsion forms as
+a layer on top of the solution this indicates the presence of a lipid. If
+the solution remains clear the text is negative.
+Changing health advice
+It can be confusing because health advice constantly changes. The
+way that new advice is issued in the media from new findings is
+partly responsible. The validity of the research has not usually been
+evaluated, the science is often not easy to explain, and as the majority
+of the general public do not have scientific background they are
+not aware of the fluid nature of scientific understanding. Scientific
+knowledge is also constantly changing as technology develops and so
+our understanding of biological processes increases.
+It is often difficult to isolate the effect of just one nutrient and, in fact,
+it is now generally believed that nutrients do not work in isolation but
+as part of the combined effect of a whole range of nutrients. This is
+called food synergy. For example whole grains are believed to have a
+greater beneficial effect than any of their individual components and
+it is the combined effect of fish, fruit and vegetables that help prevent
+certain types of heart disease.
+The data used in reports is often flawed, particularly where diet is
+concerned, as the subjects involved in studies often do not provide
+accurate information. People tend to underestimate what they eat,
+they forget what they have eaten and don't often know the exact
+ingredients of meals, particularly if they are eating out. People are
+also different due to their genetic make up and therefore respond
+differently to different nutrients.
+The studies that catch the headlines often involve small numbers
+of subjects and these inherent differences distort the findings. The
+resulting headlines can be eye-catching, but not very accurate, and are
+often contradicted by the next study.
+Fats in our diet
+Previously it was thought that saturated fats did cause heart
+disease, but more recent evidence has contradicted this.
+The presence of a double bond in a fatty acid leads to a
+kink in the chain causing the lipid to be more liquid in
+nature and, as you will discover in later sections, a more
+healthy component of the diet than saturated fats.
+Plants contain unsaturated triglycerides, which normally
+occur as oils.
+Margarine versus butter
+Butter is an animal fat made from cows' milk and is
+therefore high in saturated lipids. Various alternatives to
+butter have been developed over the last 200 years with
+the focus initially being to find cheaper or longer-lasting
+substitutes. More recently the aim has been to produce
+a more 'healthy' substitute for butter.
+Animals (but generally not fish) contain saturated
+triglycerides, or (solid) fats. As mentioned, the evidence
+that saturated fats cause heart diseases is inconclusive.
+BIOLOGICAL MOLECULES
+deoxyribose
+The nucleotides in DNA each have one of
+four different bases. This means there are four
+different DNA nucleotides, see Figure 4. The four
+bases can be divided into two groups:
+HOHC
+O
+OH
+Figure 3 The sugar in DNA is
+deoxyribose (top) and the sugar
+in RNA is ribose (bottom).
+Deoxyribose has one less oxygen
+atom than ribose
+ribose
+OH
+. Pyrimidines – the smaller bases, which
+contain single carbon ring structures -
+thymine (T) and cytosine (C)
+Purines - the larger bases, which contain
+double carbon ring structures - adenine (A)
+and guanine (G).
+HOHC
+0
+OH
+OH
+OH
+pyrimidines
+purines
+Study tip
+----HN
+Hąc
+NCH
+You do not need to remember the
+chemical structure of the bases,
+but you should remember that:
+NO
+NH-====
+deoxyribose
+deoxyribose
+thymine
+adenine
+The comparative sizes of
+pyrimidines and purines is
+due to the presence of either a
+single ring or a double ring. The
+complementary pair thymine
+and adenine form two hydrogen
+bonds and the complementary pair
+cytosine and guanine form three
+hydrogen bonds and purines pair
+with pyrimidines.
+==HN
+deoxyribose
+deoxyribose
+-===-H.N
+cytosine
+guanine
+Figure 4 The chemical structure of the four different bases in DNA showing
+hydrogen bonding between complementary pairs
+The double helix
+The DNA molecule varies in length from a few nucleotides to millions
+of nucleotides. It is made up of two strands of polynucleotides coiled
+into a helix, known as the DNA double helix, see Figure 6.
+The two strands of the double helix are held together by hydrogen
+bonds between the bases, much like the rungs of a ladder. Each
+strand has a phosphate group (5') at one end and a hydroxyl
+group (3') at the other end. The two parallel strands are arranged
+so that they run in opposite directions (Figure 5) - they are said to
+be antiparallel.
+Study tip
+When referring to DNA, the
+molecule is the double helix
+composed of two antiparallel
+strands. Each strand is one chain
+of nucleotides (a polynucleotide).
+The pairing between the bases allows DNA to be copied and
+transcribed - key properties required of the molecule of heredity.
+BIOLOGICAL MOLECULES
+This test is known as the biuret test. A mixture of an alkali and copper
+sulfate solution is called biuret reagent and can be used instead of adding
+the solutions individually.
+1 State the colour you would expect to see on addition of the copper
+sulfate solution if protein is present in the sample.
+2 State the colour you would expect to see if the sample contained
+amino acids instead of proteins.
+Explain the reason for this colour.
+3 Suggest why this test is not used quantitatively.
+Summary questions
+1 Draw the structure of an amino acid.
+(3 marks)
+2 Describe the formation of a peptide bond.
+(3 marks)
+3 a Draw a box identifying the peptide bond in the diagram below.
+(1 mark)
+HH OHH O
+N—C—C—N—C—C
+DOS
+HR
+OH
+(2 marks)
+b Describe how hydrogen bonds form within the secondary
+structure of proteins.
+Alpha keratin, a protein found in sheep's wool, is primarily
+composed of alpha helices. Explain why alpha keratin
+has a more regular structure than the quaternary protein
+haemoglobin.
+(3 marks)
+4 Compare and contrast the role of R-group interactions in the
+formation of the tertiary and quaternary structures of proteins. (6 marks)
+3.7 Types of proteins
+Specification reference: 2.1.2
+In the previous topic you saw how the complex tertiary and quaternary
+structures of proteins are built up. These structures determine the role
+the protein will play in the body. The two main groups are globular
+proteins and fibrous proteins.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the structure and function of
+globular proteins including a
+conjugated protein
+► the properties and functions
+of fibrous proteins.
+Globular proteins
+Globular proteins are compact, water soluble, and usually roughly
+spherical in shape. They form when proteins fold into their tertiary
+structures in such a way that the hydrophobic R-groups on the amino
+acids are kept away from the aqueous environment. The hydrophilic
+R-groups are on the outside of the protein. This means the proteins
+are soluble in water.
+This solubility is important for the many different functions of globular
+proteins. They are essential for regulating many of the processes necessary
+to life. As you will see in later sections, these include processes such as
+chemical reactions, immunity, muscle contraction, and many more.
+Insulin
+A Figure 1 Insulin. The complex shape
+of a globular protein formed from the
+folding of the primary structure into
+secondary structures (helices), which are
+further folded into the tertiary structure
+Insulin is a globular protein. It is a hormone involved in the regulation
+of blood glucose concentration. Hormones are transported in the
+bloodstream so need to be soluble. Hormones also have to fit into
+specific receptors on cell-surface membranes to have their effect and
+therefore need to have precise shapes.
+Synoptic link
+You will learn about hormones
+in Chapter 14, Hormonal
+communication
+Conjugated proteins
+Conjugated proteins are globular proteins that contain a non-protein
+component called a prosthetic group. Proteins without prosthetic
+groups are called simple proteins.
+There are different types of prosthetic groups. Lipids or carbohydrates
+can combine with proteins forming lipoproteins or glycoproteins.
+Metal ions and molecules derived from vitamins also form prosthetic
+groups. These are called cofactors when they are necessary for the
+proteins to carry out their functions.
+Haem groups are examples of prosthetic groups. They contain an iron i
+ion (Fe2+). Catalase and haemoglobin both contain haem groups.
+A Figure 2 Haemoglobin. Four subunits
+are each wrapped around a haem group
+(red), protecting it from being oxidised and
+destroyed by the oxygen it is intended to
+transport. The iron within each haem group
+reversibly bonds to oxygen in the blood.
+Four haemoglobin monomers (green,
+beige, purple, blue) usually bind together
+to form one large haemoglobin molecule
+Haemoglobin
+Haemoglobin is the red, oxygen-carrying pigment found in red
+blood cells. It is a quaternary protein made from four polypeptides,
+two alpha and two beta subunits (Figure 5, Topic 3.6, Structure of
+proteins). Each subunit contains a prosthetic haem group. The iron in
+ions present in the haem groups are each able to combine reversibly
+with an oxygen molecule. This is what enables haemoglobin to
+transport oxygen around the body. It can pick oxygen up in the lungs
+and transport it to the cells that need it, where it is released.
+64
+3.8 Nucleic acids
+5'
+covalent bond
+3
+The 'backbones' are composed
+of deoxyribose-phosphate
+molecules, and the rungs
+are pairs of bases.
+3.4 nm
+10 base pairs
+WMWM
+TA
+GCS
+hydrogen bonds are formed
+between two bases
+keys
+-deoxyribose Ⓡ-phosphate
+sugar
+- nitrogenous bases
+G
+2.0nm -
+>
+A Figure 5 A simplified diagram of base
+pairing in DNA
+Figure 6 The double helix structure of DNA
+5' end
+3' end
+Base pairing rules
+The bases bind in a very specific way (Figure 7). Adenine and thymine
+are both able to form two hydrogen bonds and always join with each
+other. Cytosine and guanine form three hydrogen bonds and so also only
+bind to each other. This is known as complementary base pairing.
+complementary
+base pairs
+Step
+hydrogen
+bonds
+These rules mean that a small pyrimidine base always binds to a larger
+purine base. This arrangement maintains a constant distance between
+the DNA backbones', resulting in parallel polynucleotide chains.
+P-
+-P-S
+P
+Complementary base pairing means that DNA always has equal
+amounts of adenine and thymine and equal amounts of cytosine and
+guanine. This was known long before the detailed structure of DNA
+was determined by Watson and Crick in 1953.
+A-SA------SA
+It is the sequence of bases along a DNA strand that carries the genetic
+information of an organism in the form of a code. In the next topic we
+will examine how the sequence of bases 'codes' for the sequences of
+amino acids that are needed to make different proteins.
+sugar-phosphate
+backbone
+A-S-AS-
+AS-A-
+PS-PS3
+X3'end
+Ribonucleic acid (RNA)
+Ribonucleic acid (RNA) plays an essential role in the transfer
+of genetic information from DNA to the proteins that make up
+the enzymes and tissues of the body. DNA stores all of the genetic
+information needed by an organism, which is passed on from
+generation to generation. However, the DNA of each eukaryotic
+chromosome is a very long molecule, comprising many hundreds
+of genes, and is unable to leave the nucleus in order to supply the
+information directly to the sites of protein synthesis.
+5' end
+Figure 7 The DNA double helix -
+showing complementary base pairing
+and antiparallel strands
+70
+3.5 Lipids
+With more focus on producing healthy alternatives to
+butter, and improvements in the manufacturing process,
+many spreads now contain less, if any, hydrogenated
+fats. Mono- and polyunsaturated plant oils are used
+instead and these have been shown to reduce high
+cholesterol levels, which are a factor in the development
+of coronary heart disease.
+The main problem faced initially by food scientists was
+that the vegetable oils used to produce the 'substitute
+butters' are more liquid than the animal fats in milk.
+This was overcome by using hydrogen to saturate, or
+removing the double bonds from, the unsaturated fatty
+acids in the vegetable oils. Solid hydrogenated fat was
+produced and the oil was said to be have been hardened.
+The fat was then coloured and sometimes mixed
+with butter to improve the taste. Different degrees of
+hardening, colouring and mixing with butter gave rise to
+the many different margarines on the market.
+An unwanted byproduct of the hardening process was
+the production of trans fats. These are unsaturated lipids
+in which the kinks that the double bonds naturally form
+in the fatty acid chains have been reversed. Trans fats,
+which actually increase the shelf life of baked products,
+have more recently been linked with the development
+of coronary heart disease and are now usually removed
+from foods.
+Reduced fat spreads
+Lipids release the same quantity of energy gram for gram
+when respired whether saturated or unsaturated, so
+butter and margarine have always had the same calorific
+value. More recently the focus has been to reduce the
+overall fat content in such spreads.
+1 Explain how hardening vegetable oils produces
+solid fats.
+2 Explain why it is considered more healthy to have
+a low overall fat content as well as a low saturated
+fat content in a spread.
+Summary questions
+1 Using your knowledge of the structure of fatty acids, describe why oils are liquid and fats are
+solid at room temperature.
+(4 marks)
+(4 marks)
+2 Describe the formation and the hydrolysis of an ester bond.
+3 Some bacteria are extremophiles
+meaning they live in extreme
+HC -O-P-0-
+environments that are very
+acidic or have very high
+CH2 -0-C-H 0
+temperatures. The phospholipids
+\CH2 – CH2
+present in other bacteria or
+eukaryotic cells would be
+C-0-CH2
+broken down in such
+extreme conditions.
+-C-0-C-H O
+Extremophiles have
+H.C—0-P-O
+membranes composed of
+modified phospholipids.
+a Identify which of the phospholipids in the diagram is present in the cell membrane of extremophiles. (1 mark)
+b Outline the similarities and differences between the two types of phospholipid.
+(3 marks)
+c Suggest why the phospholipids in the membranes of extremophiles can withstand extremes
+of temperature and pH.
+(2 marks)
+FOO=
+O=
+4 Read the following statements.
+Lipids are not soluble in water.
+Lipids and ethanol are soluble in water.
+Water is more soluble than lipids in ethanol.
+Use the information to explain how the emulsion test for lipids works.
+(4 marks)
+58
+3.9 DNA replication and the genetic code
+leading strand
+wwwww
+Replication errors
+Sequences of bases are not always matched exactly, and an incorrect
+parental DNA
+sequence may occur in the newly-copied strand. These errors occur
+-5 randomly and spontaneously and lead to a change in the sequence of
+3' bases, known as a mutation.
+Okazaki fragments
+lagging strand
+A Figure 2 As DNA polymerase only
+travels in the 3'to 5' direction, only the
+leading strand of DNA can be replicated
+continuously as the DNA unwinds but
+the lagging strand has to be replicated in
+the opposite direction in short sections
+called Okazaki fragments
+Genetic code
+DNA is contained within the cells of all organisms and scientists
+determined that this molecule was the means by which genetic
+information was passed from one generation to the next. But how
+does this happen? Scientists understood that DNA must carry the
+'instructions' or 'blueprint' needed to synthesise the many different
+proteins needed by these organisms. Proteins are the foundation for
+the different physical and biochemical characteristics of living things.
+They are made up of a sequence of amino acids, folded into complex
+structures. Therefore DNA must code for a sequence of amino acids.
+This is called the genetic code.
+codon
+G
+C
+A
+A triplet code
+The instructions that DNA carries are contained in the sequence of bases
+along the chain of nucleotides that make up the two strands of DNA.
+The code in the base sequences is a simple triplet code. It is a sequence
+of three bases, called a codon. Each codon codes for an amino acid.
+A section of DNA that contains the complete sequence of bases
+(codons) to code for an entire protein is called a gene.
+1 codon = 1 amino acid
+A Figure 3 A codon is a triplet of bases
+that code for an amino acid
+The genetic code is universal - all organisms use this same code,
+although the sequences of bases coding for each individual protein
+will be different.
+Degenerate code
+As you have learnt, there are four different bases, which means there
+are 64 different base triplets or codons possible (43 or 4 x 4 x 4). This
+includes one codon that acts as the start codon when it comes at the
+beginning of a gene, signalling the start of a sequence that codes for
+a protein. If it is in the middle of a gene, it codes for the amino acid
+methionine. There are also three 'stop' codons that do not code for
+any amino acids and signal the end of the sequence.
+Having a single codon to signal the start of a sequence ensures that the
+triplets of bases (codons) are read 'in frame'. In other words the DNA
+base sequence is 'read' from base 1, rather than base 2 or 3. So the
+genetic code is non-overlapping.
+Study tip
+Remember, the genetic code is
+a triplet code. Three bases = one
+codon. One codon codes for one
+amino acid.
+As there are only 20 different amino acids that regularly occur in
+biological proteins, there are a lot more codons than amino acids.
+Therefore, many amino acids can be coded for by more than one
+codon, see Figure 4. Due to this, the code is known as degenerate.
+74
+3
+3.6 Structure of proteins
+different shapes being produced. The very specific shapes of proteins
+are vital for the many functions proteins have within living organisms.
+If you look at the way protein structures are built up in stages, it is
+easier to understand what is happening.
+Separating amino acids using thin layer chromatography
+Thin layer chromatography (TLC) is a technique used to 6 The plate was left in the solvent until it had reached
+separate the individual components of a mixture. The
+about 2 cm from the top. The plate was then removed
+technique can be used to separate and identify a mixture and a pencil line drawn along the solvent front. The
+of amino acids in solution. There are two phases, the
+plate was then allowed to dry.
+stationary phase and the mobile phase which involves
+The plate was then sprayed, in a fume cupboard, with
+an organic solvent. The mobile phase picks up the amino ninhydrin spray. Amino acids react with ninhydrin
+acids and moves through the stationary phase and the
+and a purple/brown colour is produced. The centre of
+amino acids are separated.
+each spot present was then marked with a pencil.
+In the stationary phase a thin layer of silica gel (or another
+before spraying
+Results after spraying
+with ninhydrin
+with ninhydrin
+adhesive substance) is applied to a rigid surface, for
+solvent
+example a sheet of glass or metal. Amino acids are then
+front
+added to one end of the gel. This end is then submerged in
+organic solvent. The organic solvent then moves through
+the silica gel, this is known as the mobile phase.
+phenylalanine
+The rate at which the different amino acids in the organic
+5cm
+solvent move through the silica gel depends on the
+proline
+interactions (hydrogen bonds) they have with the silica
+in the stationary phase, and their solubility in the mobile
+glycine
+phase. This results in different amino acids moving
+different distances in the same time period resulting in
+them separating out from each other.
+Remember, when working with chemicals to take
+care, wear safety glasses and report any spillages!
+breakages to the teacher.
+Here you can see the TLC plate showing the separated
+amino acids appearing purple after spraying with ninhydrin.
+A student carried out the following procedure to separate
+and identify a mixture of amino acids in solution.
+c.
+1 Wearing gloves, the student drew a pencilline on the
+chromatography plate about 2 cm from the bottom
+edge. The plate was only handled by the edges.
+2 Four equally spaced points were marked at along the
+pencil line.
+3 The amino acid solution was spotted onto the first
+pencil mark using a capillary tube. The spot was
+allowed to dry and then spotted again. The spot was
+labelled using a pencil.
+4 The three remaining marks were spotted with
+solutions of three known amino acids.
+5 The plate was then placed into a jar containing the
+solvent. The solvent was no more than 1 cm deep.
+The jar was then closed.
+1 a Suggest why gloves were worn by the student
+and the plate was only handled by the edges.
+A mixture of solvents (such as hexane, water,
+acetic acid, and butanol) is usually used as the
+mobile phase when separating an unknown
+mixture of amino acids. Suggest why.
+C Explain why the solvent was no more than
+1 cm deep.
+d Suggest why the jar was sealed.
+2 a Using the information provided identify as many of
+the amino acids present in the solution as you can.
+The distance an amino acid travels is determined
+by the interactions it has with both the mobile
+phase and the stationary phase. Different amino
+acids will therefore move different distances in a
+set time. As long as the conditions are kept
+60
+3
+3.3 Carbohydrates
+Another type of starch is formed when glycosidic bonds form in
+condensation reactions between carbon 1 and carbon 6 on two glucose
+molecules.
+The other starch polysaccharide is called amylopectin. Amylopectin is
+also made by 1-4 glycosidic bonds between alpha glucose molecules, but
+(unlike amylose) in amylopectin there are also some glycosidic bonds
+formed by condensation reactions between carbon 1 and carbon 6 on
+two glucose molecules. this means that amylopectin has a branched
+structure, with the 1-6 branching points occurring approximately once
+in every 25 glucose subunits.
+HO
+CH,OH
+CH
+CH,OH
+(OH
+OH
++ H20
+condensation
+reaction
+OH HO
+OH
+HO
+OH
+OH
+OH
+glucose
+glucose
+(last in a glycogen molecule)
+OH
+OH
+glucose
+(last in a glycogen molecule)
+1,6 glycosidic bonds
+CH,OH 'CH,
+OH
+O
+CH,OH CH2OH
+1,4 glycosidic bonds
+CH_OH ÇH_04 CHzo'onze CH2014 CH2CM CH204 CHO CHzob theo
+KOH
+H
+KOH KOH KOH KOH
+OV OYO
+OH OH OH OH
+KOH OH
+OYOY SOLO
+OH OH OH OH OH
+OH
+Figure 4 Formation of glycogen. Note that a new glucose chain starts to form from the main chain forming a branch
+The functionally equivalent energy storage molecule to starch in
+animals and fungi is called glycogen (Figure 4). Glycogen forms
+more branches than amylopectin, which means it is more compact
+and less space is needed for it to be stored. This is important as
+48
+3
+BIOLOGICAL MOLECULES
+CH,OH
+-0
+H
+CH,OH
+CH,OH
+CHOH
+-OH
+condensation
+KOH C1 C4 OH
+KOH CI C4 OH
+OH OH OH OH OH
+1,4 glycosidic
+OH
+OH
+bond
+glucose
+glucose
+maltose
+water
+Figure 2 As the two OH are so close they react, forming a covalent bond called a glycosidic
+bond between the two glucose molecules
+OH
+OH
+As you can see in Figure 2, two hydrogen atoms and an oxygen atom
+are removed from the glucose monomers and join to form a water
+molecule. A bond forms between carbons 1 and 4 on the glucose
+molecules and the molecules are now joined.
+A covalent bond called a glycosidic bond is formed between two
+glucose molecules. The reaction is called a condensation reaction
+because a water molecule is formed as one of the products of the
+reaction. Because in this reaction carbon 1 of one glucose molecule is
+joined to carbon 4 of the other glucose molecule, the bond is known
+as a 1,4 glycosidic bond. In this reaction the new molecule is called
+maltose. This is an example of a disaccharide (a molecule made up
+of two monosaccharides).
+Other sugars
+Fructose and galactose are also hexose monosaccharides. Fructose
+naturally occurs in fruit, often in combination with glucose forming the
+disaccharide sucrose, commonly known as cane sugar or just sugar.
+Galactose and glucose form the disaccharide lactose. Lactose is
+commonly found in milk and milk products.
+Fructose is sweeter than glucose and glucose is sweeter than galactose.
+Synoptic link
+Pentose monosaccharides are sugars that contain five carbon
+atoms. Two pentose sugars are important components of biological
+molecules - ribose is the sugar present in RNA nucleotides and
+deoxyribose is the sugar present in DNA nucleotides.
+You will find out more about the
+structure of nucleotides in
+Topic 3.8, Nucleic acids.
+Starch and glycogen
+Many alpha glucose molecules can be joined by glycosidic bonds to
+form two slightly different polysaccharides known collectively as
+starch. Glucose made by photosynthesis in plant cells is stored as
+starch. It is a chemical energy store.
+One of the polysaccharides in starch is called amylose. Amylose is formed
+by alpha glucose molecules joined together only by 1-4 glycosidic bonds.
+The angle of the bond means that this long chain of glucose twists to
+form a helix which is further stabilised by hydrogen bonding within the
+molecule. This makes the polysaccharide more compact, and much less
+soluble, than the glucose molecules used to make it.
+Figure 3 The characteristic helix
+shape of amylose
+3.6 Structure of proteins
+Specification reference: 2.1.2
+Peptides are polymers made up of amino acid molecules (the
+monomers). Proteins consist of one or more polypeptides arranged as
+complex macromolecules and they have specific biological functions.
+All proteins contain the elements carbon, hydrogen, oxygen, and
+nitrogen.
+Amino acids
+All amino acids have the same basic structure (Figure 1). Different
+R-groups (variable groups) result in different amino acids. Twenty
+different amino acids are commonly found in cells. Five of these are
+said to be non-essential as our bodies are able to make them from
+other amino acids. Nine are essential and can only be obtained from
+what we eat. A further six are said to be conditionally essential as they
+are only needed by infants and growing children.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the general structure of an
+amino acid (monomer)
+the synthesis and
+breakdown of dipeptides and
+polypeptides (polymers)
+the levels of protein structure
+→ how to carry out and interpret
+the results of the biuret test
+for proteins.
+the principles of thin later
+chromatography
+amine group
+Synthesis of peptides
+Amino acids join when the amine and carboxylic acid groups
+connected to the central carbon atoms react. The R-groups are not
+involved at this point. The hydroxyl in the carboxylic acid group of
+one amino acid reacts with a hydrogen in the amine group of another
+amino acid. A peptide bond is formed between the amino acids and
+water is produced (this is another example of a condensation reaction,
+which you learnt about in Topic 3.3, Carbohydrates). The resulting
+compound is a dipeptide.
+R-group
+a range of chemical
+groups different in
+each amino acid
+amino
+acid 1
+R1 group-
+-
+R1 group-CO
+condensation
+peptide
+bond
+hydrolysis
+ON
+carboxyl group
+water
+molecule
+Rygroup
+-
+Figure 1 The general structure of an
+amino acid
+R2 group-
+-
+dipeptide
+amino
+acid
+200-
+A Figure 2 Condensation reaction to form a peptide bond
+Study tip
+Learn this structure and remember
+that the nitrogen-containing group is
+an amine group not an amino group.
+When many amino acids are joined together by peptide bonds a
+polypeptide is formed. This reaction is catalysed by the enzyme
+peptidyl transferase present in ribosomes, the sites of protein synthesis.
+Synoptic link
+The different R-groups of the amino acids making up a protein are able
+to interact with each other (R-group interactions) forming different
+types of bond. These bonds lead to the long chains of amino acids
+(polypeptides) folding into complex structures (proteins). The presence
+of different sequences of amino acids leads to different structures with
+You will learn about protein
+synthesis in the cell in Topic 3.10,
+Protein synthesis.
+BIOLOGICAL MOLECULES
+a A representative portion of DNA, which b An enzyme, DNA helicase, causes the
+is about to undergo replication.
+two strands of the DNA to separate.
+C DNA helicase completes the separation of the
+strand. Meanwhile, free nucleotides that have
+been activated are attracted to their
+complementary bases.
+G
+>free
+nucleotides
+e
+d Once the activated nucleotides are lined up, they are
+joined together by DNA polymerase (bottom three nucleotides).
+The remaining unpaired bases continue to attract their
+complementary nucleotides.
+Finally, all the nucleotides are joined to form a complete polynucleotide
+chain using DNA polymerase. In this way, two identical molecules of DNA
+are formed. Each new molecule of DNA is composed of one original strand
+and one newly formed molecule - semi-conservative replication.
+G
+5
+original new
+strandstrand
+new original
+strand ! strand
+A Figure 1 The semi-conservative replication of DNA
+Continuous and discontinuous replication
+This results in DNA being produced in sections (called
+Okazaki fragments), which then have to be joined. This
+strand is called the lagging strand and is said to undergo
+discontinuous replication.
+DNA polymerase always moves along the template strand
+in the same direction. It can only bind to the 3' (OH)
+end, so travels in the direction of 3' to 5'. As DNA only
+unwinds and unzips in one direction, DNA polymerase
+has to replicate each of the template strands in opposite
+directions. The strand that is unzipped from the 3' end
+can be continuously replicated as the strands unzip. This
+strand is called the leading strand and is said to undergo
+continuous replication.
+1 Describe the difference between continuous
+and discontinuous replication.
+(4 marks)
+Using your knowledge of enzymes, explain
+why DNA polymerase does not catalyse
+the joining of Okazaki fragments into
+a single strand but a different enzyme
+(DNA ligase) is used.
+(3 marks)
+The other strand is unzipped from the 5' end, so DNA
+polymerase has to wait until a section of the strand
+has unzipped and then work back along the strand.
+BIOLOGICAL MOLECULES
+the same, the same amino will always travel the
+same distance in the same time.
+The retention value (Rf) for each amino acid is
+the distance travelled by the pigment divided by
+the distance travelled by the solvent, it can be
+calculated using the formula:
+distance travelled by component
+R=-
+distance travelled by solvent
+This will be constant for each amino acid tested
+under identical conditions,
+Calculate the Rf value for the two unidentified
+spots and, using the standard Rf values below,
+identify the amino acid.
+Alanine 0.31
+Cysteine 0.40
+Aspartic acid 0.24
+Methionine 0.49
+Phenylalanine 0.59 Glutamine 0.13
+(a) alpha helix
+O=0
+Z-1
+Levels of protein structure
+Primary structure - this is the sequence in which the amino acids are
+joined. It is directed by information carried within DNA (discussed
+further in Topic 3.8, Nucleic acids and Topic 3.9, DNA replication and the
+genetic code). The particular amino acids in the sequence will influence
+how the polypeptide folds to give the protein's final shape. This in
+turn determines its function. The only bonds involved in the primary
+structure of a protein are peptide bonds.
+b=0---I-Z0-b=0---I-
+hydrogen
+bond
+I-
+H
+Z
+Secondary structure - the oxygen, hydrogen, and nitrogen atoms of
+the basic, repeating structure of the amino acids (the variable groups
+are not involved at this stage) interact. Hydrogen bonds may form
+within the amino acid chain, pulling it into a coil shape called an alpha
+helix (Figure 3a).
+NCCN
+Polypeptide chains can also lie parallel to one another joined by
+hydrogen bonds, forming sheet-like structures. The
+(b) beta pleated sheet
+pattern formed by the individual amino acids causes the
+structure to appear pleated, hence the name beta pleated
+C-
+NYC-C-
+NC-
+NC-
+NC-N
+sheet (Figure 3b).
+OH OH O HO
+C-
+NC-
+NC-
+NON CNC
+Secondary structure is the result of hydrogen bonds and
+forms at regions along long protein molecules depending
+on the amino sequences.
+Nell C1
+O-
+NENE
+Tertiary structure - this is the folding of a protein into
+OH 0
+its final shape. It often includes sections of secondary
+structure. The coiling or folding of sections of proteins into their
+Figure 3 Depending on the amino
+secondary structures brings R-groups of different amino acids closer
+acid composition, polypeptides initially
+together so they are close enough to interact and further folding of
+form either (a) alpha helices or beta
+these sections will occur. The following interactions occur between the
+(b) pleated sheets-types of secondary
+structure
+R-groups:
+• hydrophobic and hydrophilic interactions - weak interactions
+between polar and non-polar R-groups
+hydrogen bonds - these are weakest of the bonds formed
+ionic bonds - these are stronger than hydrogen bonds and form
+between oppositely charged R-groups
+disulfide bonds (also known as disulfide bridges) -
+these are covalent and the strongest of the bonds but only form
+between R-groups that contain sulfur atoms.
+BIOLOGICAL MOLECULES
+arginine serine
+| asparagine
+leucine
+www.
+proline
+lysine
+ACT|GAC
+TIGACT
+glutamine
+threonine
+histidine
+isoleucine
+arginine
+start codona
+methionine G
+10
+3rd
+T 7 AC
+- 2nd - 1st base of codon —
+GT
+E
+LI
+leucine
+glycine
+www
+Kphenylalanine)
+aspartic
+acid
+serine
+glutamic
+acid
+LTCAGLIC
+stop
+www
+alanine
+O tryoptophan
+cysteine
+tyrosine
+valine
+stop
+A Figure 4 The DNA code wheel shows how the genetic code is degenerate - different
+combinations of bases can code for the same amino acid
+Summary questions
+1 Explain why DNA replication is described as semi-conservative.
+(3 marks)
+2 Explain what is meant by the triplet code.
+(2 marks)
+3 Enzymes are cellular proteins that catalyse reactions - they
+have active sites in which specific substrates fit precisely.
+Suggest how a genetic mutation may result in an enzyme
+becoming non-functional.
+(4 marks)
+The sequences of bases in specific sections of DNA and the
+sequences of amino acids in specific proteins are both used to
+compare how closely related different species are. The fewer
+differences in the sequences the more closely related the species.
+Explain why there are likely to be more differences, overall,
+between base sequences of DNA than between amino acid
+sequences of proteins.
+(3 marks)
+3.10 Protein synthesis
+Specification reference: 2.1.3
+LE
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ transcription and translation
+of genes resulting in the
+synthesis of polypeptides.
+As you learnt in the previous topic, the amino acid sequence of a protein
+is coded for by triplets (codons) in the sequence of bases along a strand of
+a DNA molecule. A section of DNA that contains the complete sequence
+of codons to code for an entire protein is called a gene. In this topic you
+will explore how the information in a gene is 'transcribed into RNA
+molecules and then 'translated into a specific amino acid sequence.
+Synoptic link
+Refer back to Topic 2.4, Eukaryotic
+cell structure, to refresh your
+understanding of how some of
+the component structures of a
+eukaryotic cell are involved in
+protein synthesis.
+Transcription
+In a eukaryotic cell, DNA is contained within a double membrane
+called the nuclear envelope that encloses the nucleus. This protects the
+DNA from being damaged in the cytoplasm. Protein synthesis occurs
+in the cytoplasm at ribosomes, but a chromosomal DNA molecule is
+too large to leave the nucleus to supply the coding information needed
+to determine the protein's amino acid sequence.
+To get around this problem, the base sequences of genes have to be
+copied and transported to the site of protein synthesis, a ribosome.
+This process is called transcription and produces shorter molecules
+of RNA.
+Although transcription results in a different polynucleotide, it has
+many similarities with DNA replication. The section of DNA that
+contains the gene unwinds and unzips under the control of a DNA
+helicase, beginning at a start codon. This involves the breaking of
+hydrogen bonds between the bases.
+direction of
+movement of
+RNA polymerase
+area of
+effect of
+RNA
+polymerase
+nuclear
+pore
+Only one of the two strands of DNA contains the code for the protein
+to be synthesised. This is the sense strand and it runs from 5 to 3'.
+The other strand (3' to 5') is a complementary copy of the sense
+strand and does not code for a protein. This is the antisense strand
+and it acts as the template strand during transcription, so that the
+complementary RNA strand formed carries the same base sequence as
+the sense strand.
+template
+strand of
+DNA
+Free RNA nucleotides will base pair with complementary bases
+exposed on the antisense strand when the DNA unzips. As you learnt
+in Topic 3.8 Nucleic acids, the thymine base in RNA nucleotides is
+replaced with the base uracil (U). So RNA uracil binds to adenine on
+the DNA template strand.
+nuclear
+envelope
+Phosphodiester bonds are formed between the RNA nucleotides by the
+enzyme RNA polymerase. Transcription stops at the end of the gene
+and the completed short strand of RNA is called messenger (m)RNA.
+It has the same base sequence as the sequence of bases making up the
+gene on the DNA, except that it has uracil in place of thymine.
+pre-messenger
+RNA leaving nucleus
+The mRNA then detaches from the DNA template and leaves the
+nucleus through a nuclear pore. The DNA double helix reforms.
+Figure 1 Summary of transcription
+76
+3.6 Structure of proteins
+hydrophobic
+interaction
+This produces a variety of complex-shaped proteins, with
+specialised characteristics and functions (Figure 4).
+CH
+CH2
+H3C CH3
+HzC CH
+CH
+polypeptide
+backbone
+hydrogen
+bond
+Quaternary structure - this results from the association
+of two or more individual proteins called subunits.
+The interactions between the subunits are the same as
+in the tertiary structure except that they are between
+different protein molecules rather than within one
+molecule.
+C-OH
+CH-S-S-CH3
+CH2
+disulfide bridge
+The protein subunits can be identical or different.
+Enzymes often consist of two identical subunits whereas
+insulin (a hormone) has two different subunits.
+Haemoglobin, a protein required for oxygen transport in
+the blood, has four subunits, made up of two sets of two
+identical subunits (Figure 5).
+CH-CH-CH=CH
+NHO -C-CH2
+ionic bond
+Figure 4 The tertiary structures of proteins are very
+complex shapes involving multiple types of bonds and
+interactions between R-groups
+Hydrophilic and hydrophobic interactions
+Proteins are assembled in the aqueous environment
+of the cytoplasm. So the way in which a protein
+folds will also depend on whether the R-groups are
+hydrophilic or hydrophobic. Hydrophilic groups are on
+the outside of the protein while hydrophobic groups
+are on the inside of the molecule shielded from the
+water in the cytoplasm.
+beta chain
+beta chain
+Breakdown of peptides
+As you have learned, peptides are created by amino acids linking
+together in condensation reactions to form peptide bonds. Proteases
+are enzymes that catalyse the reverse reaction - turning peptides back
+into their constituent amino acids. A water molecule is used to break
+the peptide bond in a hydrolysis reaction, reforming the amine and
+carboxylic acid groups.
+alpha chain haem alpha chain
+Figure 5 Haemoglobin has a
+quaternary structure made up of four
+individual proteins (two alpha and
+two beta) as well as haem groups
+containing iron
+Identification of proteins
+Biuret test
+Peptide bonds form violet coloured complexes with copper ions in alkaline
+solutions. This can be used as the basis of a test for proteins.
+Synoptic link
+You will learn more about enzymes
+in Chapter 4, Enzymes.
+Remember, when working with chemicals:
+Take care, wear safety glasses and report any spillages/breakages to
+the teacher.
+Synoptic link
+You will learn more about
+haemoglobin in Topic 8.4, Transport
+of oxygen and carbon dioxide in
+the blood.
+A student carried out the following procedure to test a sample for the
+presence of protein.
+1 3 cm of a liquid sample was mixed with an equal volume of 10% sodium
+hydroxide solution.
+2 1% copper sulfate solution was then added a few drops at a time until the
+sample solution turned blue.
+3 The solution was mixed and left to stand for five minutes.
+62

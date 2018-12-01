@@ -1,0 +1,1598 @@
+8.2 Blood vessels
+Specification reference: 3.1.2
+Circulation in humans is typical of a mammalian circulatory system.
+It is estimated that if all the blood vessels of an average adult human
+were laid end to end they would stretch to 100 000 miles - that is the
+equivalent of about four times around the circumference of the Earth.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ The structure and functions of
+arteries, arterioles, capillaries,
+venules and veins.
+There are several different types of blood vessels in the body and
+their structural composition is closely related to their function. Some
+examples of different components utilised in some blood vessels are:
+Elastic fibres - these are composed
+of elastin and can stretch and recoil,
+providing vessel walls with flexibility.
+Smooth muscle - contracts or relaxes,
+which changes the size of the lumen
+(the channel within the blood vessel).
+Collagen - provides structural
+support to maintain the shape and
+volume of the vessel.
+The sections below detail which
+components are found in each of the
+blood vessel types.
+Arteries and arterioles
+The arteries carry blood away from
+the heart to the tissues of the body.
+They carry oxygenated blood except
+in the pulmonary artery, which carries
+deoxygenated blood from the heart to
+the lungs, and (during pregnancy) the
+umbilical artery, which carries deoxygenated blood from the fetus to
+the placenta. The blood in the arteries is under higher pressure than
+the blood in the veins.
+artery
+lumen
+endothelium
+elastic layer
+muscle layer
+Artery walls contain elastic fibres, smooth muscle and collagen (Figure 1).
+The elastic fibres enable them to withstand the force of the blood pumped
+out of the heart and stretch (within limits maintained by collagen) to
+take the larger blood volume. In between the contractions of the heart,
+the elastic fibres recoil and return to their original length. This helps to
+even out the surges of blood pumped from the heart to give a continuous
+flow. However, you can still feel a pulse (surge of blood) when the heart
+contracts, which the elastic fibres cannot completely eliminate. The lining
+of an artery (endothelium) is smooth so the blood flows easily over it.
+tough outer layer
+(collagen)
+Figure 1 The structure of the artery
+wall is closely related to its functions,
+and changes as the arteries get
+smaller, x 250 magnification
+Arterioles link the arteries and the capillaries. They have more
+smooth muscle and less elastin in their walls than arteries, as they
+have little pulse surge, but can constrict or dilate to control the flow of
+blood into individual organs. When the smooth muscle in the arteriole
+contracts it constricts the vessel and prevents blood flowing into a
+178
+8.3 Blood, tissue fluid, and lymph
+been absorbed into the lymph from the villi of the small intestine. The
+lymph capillaries join up to form larger vessels. The fluid is transported
+through them by the squeezing of the body muscles. One-way valves
+like those in veins prevent the backflow of lymph. Eventually the
+lymph returns to the blood, flowing into the right and left subclavian
+veins (under the clavicle, or collar bone).
+Along the lymph vessels are the lymph nodes. Lymphocytes build up
+in the lymph node when necessary and produce antibodies, which are
+then passed into the blood. Lymph nodes also intercept bacteria and
+other debris from the lymph, which are ingested by phagocytes found
+in the nodes. The lymphatic system plays a major role in the defence
+mechanisms of the body.
+Enlarged lymph nodes are a sign that the body is fighting off an invading
+pathogen. This is why doctors often examine the neck, armpits, stomach
+or groin of their patients - these are the sites of some of the major
+lymph nodes (which people often refer to as 'lymph glands').
+lymph
+lymphatic capillary
+tissue fluid containing
+carbon dioxide and
+waste materials
+blood
+plasma
+tissue fluid containing
+oxygen and nutrients
+ultrafiltration
+reabsorption
+arteriole
+venule
+return
+of lymph
+via
+lymph
+vessels
+tissue
+fluid
+capillary
+drainage
+blood from
+heart
+blood to
+heart
+lymph
+artery
+vein
+A Figure 4 The human lymphatic system
+Summary questions
+1 Describe the main functions of the blood.
+2 a What are platelets?
+b What is the role of platelets in the body?
+c What percentage of the cells/cell fragments in
+the blood is made up of platelets?
+(4 marks)
+(3 marks)
+(3 marks)
+(3 marks)
+3 Summarise the similarities and differences between
+plasma, tissue fluid, and lymph.
+(5 marks)
+4 Explain how hydrostatic and oncotic pressure affect the
+movement of fluids into and out of capillaries.
+(6 marks)
+184
+TRANSPORT IN ANIMALS
+Synoptic link
+Tissue fluid
+The substances dissolved in plasma can pass through the fenestrations
+in the capillary walls, with the exception of the large plasma
+proteins. The plasma proteins, particularly albumin, have an osmotic
+effect. They give the blood in the capillaries a relatively high solute
+potential (and so a relatively low water potential) compared with the
+surrounding fluid. As a result, water has a tendency to move into
+the blood in the capillaries from the surrounding fluid by osmosis.
+The tendency of water to move into the blood by osmosis is termed
+oncotic pressure and it is about -3.3 kPa.
+You will learn about temperature
+control in endotherms and
+ectotherms and about excretion
+in Chapter 15, Homeostasis. You
+will learn about hormones in Topic
+14.1, Hormonal communication.
+However, as blood flows through the arterioles into the capillaries, it is
+still under pressure from the surge of blood that occurs every time the
+heart contracts. This is hydrostatic pressure. At the arterial end of
+the capillary, the hydrostatic pressure forcing fluid out of the capillaries
+is relatively high at about 4.6 kPa (Figure 3). It is higher than the
+oncotic pressure attracting water in by osmosis, so fluid is squeezed
+out of the capillaries. This fluid fills the spaces between the cells and
+is called tissue fluid. Tissue fluid has the same composition as the
+plasma, without the red blood cells and the plasma proteins. Diffusion
+takes place between the blood and the cells through the tissue fluid.
+Synoptic link
+You learnt about hydrostatic
+pressure and osmosis in Topic 5.5,
+Osmosis.
+Study tip
+As the blood moves through the capillaries towards the venous
+system, the balance of forces changes. The hydrostatic pressure falls
+to around 2.3 kPa in the vessels as fluid has moved out and the pulse
+is completely lost. The oncotic pressure is still -3.3 kPa, so it is now
+stronger than the hydrostatic pressure, so water moves back into
+the capillaries by osmosis as it approaches the venous end of the
+capillaries. By the time the blood returns to the veins, 90% of the
+tissue fluid is back in the blood vessels.
+Filtration pressure = hydrostatic
+pressure - oncotic pressure
+arterial end:
+high hydrostatic pressure of 4.6 kPa
+4.6 -3.3 = 1.3 kPa
+... net flow of fluid out of capillary
+to form tissue fluid
+venous end:
+low hydrostatic pressure of 2.3 kPa
+2.3-3.3=-1.0 kPa
+... net flow of fluid back into capillary
+oncotic pressure of blood
+tissue fluid
+oncotic pressure
+of blood -3.3 kPa
+capillary
+A Figure 3 Diagram showing differences in hydrostatic pressure at arterial and
+venous end and how this results in movement into or out of the capillary
+Lymph
+Some of the tissue fluid does not return to the capillaries. 10% of
+the liquid that leaves the blood vessels drains into a system of blind-
+ended tubes called lymph capillaries, where it is known as lymph.
+Lymph is similar in composition to plasma and tissue fluid but has less
+oxygen and fewer nutrients. It also contains fatty acids, which have
+183
+TRANSPORT IN ANIMALS
+Blood is pumped from the heart to the lungs to pick up oxygen
+and unload carbon dioxide, and then returns to the heart.
+Blood flows through the heart and is pumped out to travel all
+around the body before returning to the heart again.
+lungs
+pulmonary
+circulation
+heart
+systemic circulation
+other
+organs
+Figure 5 The double closed
+circulatory system of a mammal
+So in a double circulatory system, the blood travels twice through
+the heart for each circuit of the body. Each circuit - to the lungs and to
+the body - only passes through one capillary network, which means a
+relatively high pressure and fast flow of blood can be maintained.
+Summary questions
+(3 marks)
+1 Describe the function of a circulatory system.
+2 Explain why circulatory systems are found in multicellular
+organisms but not unicellular organisms.
+(2 marks)
+3 Compare open and closed circulatory systems.
+(6 marks)
+Land predators such as foxes have a double closed circulatory
+system. Aquatic predators such as pike are effective with
+a single closed circulatory system. Explain why these two
+types of predator have different circulatory systems. (6 marks)
+Study tip
+Make sure you are clear about the
+differences between open and
+closed circulatory systems, and
+between single and double closed
+circulatory systems.
+Be aware of the advantages
+and disadvantages of the
+different systems.
+177
+8.4 Transport of oxygen and
+carbon dioxide in the blood
+Specification reference: 3.1.2
+The most specialised transport role of the blood is the transport of
+oxygen from the lungs to the cells of the body by the erythrocytes
+(red blood cells). The erythrocytes are also involved in the removal
+of carbon dioxide from the cells and its transport to the lungs for
+gaseous exchange.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the role of haemoglobin in
+transporting oxygen and
+carbon dioxide
+the oxygen dissociation
+curve for fetal and adult
+haemoglobin.
+Transporting oxygen
+The erythrocytes are very specialised, with a number of adaptations to
+their main function of transporting oxygen.
+Erythrocytes have a biconcave shape. This shape has a larger surface
+area than a simple disc structure or a sphere, increasing the surface
+area available for diffusion of gases. It also helps them to pass through
+narrow capillaries. In adults, erythrocytes are formed continuously
+in the red bone marrow. By the time mature erythrocytes enter the
+circulation they have lost their nuclei, which maximises the amount of
+haemoglobin that fits into the cells. It also limits their life,
+so they only last for about 120 days in the bloodstream.
+Erythrocytes contain haemoglobin, the red pigment that carries
+oxygen and also gives them their colour. Haemoglobin is a very large
+globular conjugated protein made up of four peptide chains, each
+with an iron-containing haem prosthetic group. There are about
+300 million haemoglobin molecules in each red blood cell and each
+haemoglobin molecule can bind to four oxygen molecules.
+The oxygen binds quite loosely to the haemoglobin forming
+oxyhaemoglobin. The reaction is reversible.
+Hb + 40 5 Hb(04
+haemoglobin + oxygen = oxyhaemoglobin
+Carrying oxygen
+When the erythrocytes enter the capillaries in the lungs, the oxygen
+levels in the cells are relatively low. This makes a steep concentration
+gradient between the inside of the erythrocytes and the air in the
+alveoli. Oxygen moves into the erythrocytes and binds with the
+haemoglobin. The arrangement of the haemoglobin molecule
+means that as soon as one oxygen molecule binds to a haem group,
+the molecule changes shape, making it easier for the next oxygen
+molecules to bind. This is known as positive cooperativity. Because the
+oxygen is bound to the haemoglobin, the free oxygen concentration in
+the erythrocyte stays low, so a steep diffusion gradient is maintained
+until all of the haemoglobin is saturated with oxygen.
+Synoptic link
+You learnt about haemoglobin as
+a globular conjugated protein in
+Topic 3.7, Types of proteins.
+When the blood reaches the body tissues, the situation is reversed.
+The concentration of oxygen in the cytoplasm of the body cells
+185
+TRANSPORT IN ANIMALS
+capillary bed. This is vasoconstriction. When the smooth muscle in
+the wall of an arteriole relaxes, blood flows through into the capillary
+bed. This is vasodilation.
+Synoptic link
+You learnt about the structure of
+elastin and collagen in Topic 3.6
+The structure of proteins.
+aorta
+medium-
+sized artery
+arteriole
+2.5 cm
+0.4 cm
+relative
+proportions of:
+30 um
+elastin fibres
+smooth muscle
+collagen
+A Figure 2 The differing proportions of components of the
+artery wall depending on how far the artery is from the heart
+and thus its role in the body
+Collagen, elastin, and aortic aneurysms
+An aneurysm is a bulge or weakness in a blood vessel. The most common
+places for aneurysms are in the aorta and in the arteries of the brain. Most
+people do not know they have an aneurysm until it bursts. This is very serious
+and can be fatal. High blood pressure is one factor that increases the risk
+of an aneurysm. However, scientists have also discovered changes in the
+proportion of collagen to elastin in the aorta wall. The ratio of collagen: elastin
+in a normal aorta is 1.85: 1. In a small aneurysm it increases to around 3.75:1
+and in large aortic aneurysms it is 7.91:1. Research is continuing to see if this
+apparent link is real - and, if so, whether it can be used to predict who is at
+risk so they can have regular aortic screening.
+red blood cell
+1 What hypothesis for the formation of aneurysms can you develop
+from these data?
+2 Suggest two possible ways in which patients might be treated to
+reduce the possibility of aneurysms developing or enlarging.
+capillary
+10um
+7-8
+um
+lumen
+capillary wall -
+Capillaries
+The capillaries are microscopic blood vessels that link the arterioles
+with the venules. They form an extensive network through all
+the tissues of the body. The lumen of a capillary is so small that red
+blood cells (which have a diameter of only 7.5-8 um) have to travel
+through in single file (Figure 3). Substances are exchanged through
+the capillary walls between the tissue cells and the blood. The gaps
+between the endothelial cells that make up the capillary walls in most
+areas of the body are relatively large. This is where many substances
+pass out of the capillaries into the fluid surrounding the cells. The
+exception is the capillaries in the central nervous system, which have
+very tight junctions between the cells.
+A Figure 3 The structure of capillaries
+means that they are small enough to
+form the immense networks needed to
+exchange substances between the blood
+and the tissues
+179
+8.2 Blood vessels
+In most organs of the body the blood entering the capillaries from
+the arterioles is oxygenated. By the time it leaves the capillaries
+for the venules it has less oxygen and more carbon dioxide (it is
+deoxygenated). Again, the lungs and the placenta are the exceptions,
+with deoxygenated blood entering the capillaries and oxygenated
+blood leaving in the venules.
+Ways in which capillaries are adapted for their role:
+They provide a very large surface area for the diffusion of substances
+into and out of the blood.
+The total cross-sectional area of the capillaries is always greater
+than the arteriole supplying them so the rate of blood flow falls.
+The relatively slow movement of blood through capillaries gives
+more time for the exchange of materials by diffusion between the
+blood and the cells.
+The walls are a single endothelial cell thick, giving a very thin
+layer for diffusion.
+Veins and venules
+The veins carry blood away from the cells
+of the body towards the heart and, with two
+exceptions, they carry deoxygenated blood.
+The pulmonary vein carries oxygenated
+blood from the lungs to the heart, and
+(during pregnancy) the umbilical vein
+carries oxygenated blood from the placenta
+to the fetus.
+Deoxygenated blood flows from the capillaries
+into very small veins celled venules and then
+into larger veins. Finally it reaches the two
+main vessels carrying deoxygenated blood
+back to the heart - the inferior vena cava
+from the lower parts of the body and the superior vena cava from
+the head and upper body.
+endothelium
+elastic layer
+Veins do not have a pulse – the surges from the heart pumping are lost
+as the blood passes through the narrow capillaries. However, they do
+hold a large reservoir of blood - up to 60% of your blood volume is in
+your veins at any one time.
+muscle layer
+tough outer layer
+(collagen)
+The blood pressure in the veins is very low compared with the pressure
+in the arteries. Medium-sized veins (the majority of the venous
+system) have valves to prevent the backflow of blood (see next page).
+The walls contain lots of collagen and relatively little elastic fibre, and
+the vessels have a wide lumen and a smooth, thin lining (known as
+the endothelium) so the blood flows easily (Figure 4).
+Figure 4 Veins do not have to
+withstand high pressures like arteries do
+but they need a big capacity and this is
+reflected in their structure
+Venules link the capillaries with the veins. They have very thin walls
+with just a little smooth muscle. Several venules join to form a vein.
+180
+8.4 Transport of oxygen and carbon dioxide in the blood
+Study tip
+is lower than in the erythrocytes. As a result, oxygen moves out
+of the erythrocytes down a concentration gradient. Once the first
+oxygen molecule is released by the haemoglobin, the molecule again
+changes shape and it becomes easier to remove the remaining oxygen
+molecules.
+Partial pressure is a useful way of
+talking about the concentration
+of a chemical when it is one of
+a mixture of gases. The whole
+mixture of gases has an overall
+pressure and each of the
+chemicals in the mixture can be
+thought of as contributing part
+of that pressure. If you were shut
+in an airtight room, as time went
+by the overall pressure of the air
+around you would not change but
+the partial pressure of oxygen
+(po,) would fall, and the partial
+pressure of carbon dioxide would
+rise (the partial pressure of
+nitrogen would not change). If you
+walk up a mountain the overall
+pressure of the air does decrease
+as the altitude increases. In
+this case the partial pressures
+of oxygen, carbon dioxide and
+nitrogen are all falling (but the
+proportions of each are not
+changing).
+An oxygen dissociation curve (Figure 1) is an important tool
+for understanding how the blood carries and releases oxygen. The
+percentage saturation haemoglobin in the blood is plotted against
+the partial pressure of oxygen (po). Oxygen dissociation curves
+show the affinity of haemoglobin for oxygen. A very small change
+in the partial pressure of oxygen in the surroundings makes a
+significant difference to the saturation of the haemoglobin with
+oxygen, because once the first molecule becomes attached, the
+change in the shape of the haemoglobin molecule means other
+oxygen molecules are added rapidly. The curve levels out at the
+highest partial pressures of oxygen because all the haem groups are
+bound to oxygen and so the haemoglobin is saturated and cannot
+take up any more.
+This means that at the high partial pressure of oxygen in the lungs
+the haemoglobin in the red blood cells is rapidly loaded with oxygen.
+Equally, a relatively small drop in oxygen levels in the respiring tissues
+means oxygen is released rapidly from the haemoglobin to diffuse into
+the cells. This effect is enhanced by the relatively low pH in the tissues
+compared with the lungs.
+a at low pO2, few
+haem groups
+are bound to
+oxygen, so
+haemoglobin
+does not
+carry
+much
+oxygen
+percentage saturation of haemoglobin with oxygen
+normal physiological range
+of oxygen partial pressures
+b at higher po,, more haem
+groups are bound to oxygen,
+making it easier for more
+oxygen to be picked up
+c the haemoglobin becomes
+saturated at very high po,
+as all the haem groups
+become bound
+10
+15
+partial pressure of oxygen/kPa
+Figure 1 The oxygen dissociation curve for human haemoglobin
+186
+8.5 The heart
+Dissecting a heart A
+The heart of a sheep or a pig is similar in shape and size
+to a human heart and is often used in dissection. By
+careful examination of a heart you can identify many
+of the important structures in the mammalian heart-
+although the real thing is much more complicated than
+the standard diagram in Figure 3.
+The external view of the heart enables you to see
+and trace the coronary arteries which supply the
+heart muscle with the blood it needs to beat. It is the
+narrowing or blockage of these blood vessels that cause
+the symptoms of coronary heart disease and even
+heart attacks.
+Figure 3 Anterior view of a sheep's heart
+However hearts obtained from the butcher are often not
+intact. The major blood vessels will have been cut right
+back and often the atria have been removed - people
+don't want to eat all the tubes. So when you examine,
+dissect and draw a heart, you have to be aware of which,
+if any, parts are missing.
+How does the dissected heart in Figure 4 differ
+from the diagram of the structures of the heart
+in Figure 2? Compare the two and explain the
+differences
+A Figure 4 A dissected sheep's heart, as you can see
+a dissected mammalian heart shows its more complex
+intricacies
+The structure and function of the heart
+Deoxygenated blood enters the right atrium of the heart from the
+upper body and head in the superior vena cava, and from the lower
+body in the inferior vena cava, at relatively low pressure. The atria
+have thin muscular walls. As the blood flows in, slight pressure builds
+up until the atrio-ventricular valve (the tricuspid valve) opens to let
+blood pass into the right ventricle. When both the atrium and ventricle
+are filled with blood the atrium contracts, forcing all the blood into the
+right ventricle and stretching the ventricle walls. As the right ventricle
+starts to contract, the tricuspid valve closes, preventing any backflow of
+blood to the atrium. The tendinous cords make sure the valves are not
+turned inside out by the pressures exerted when the ventricle contracts.
+The right ventricle contracts fully and pumps deoxygenated blood
+through the semilunar valves into the pulmonary artery, which
+transports it to the capillary beds of the lungs. The semilunar valves
+prevent the backflow of blood into the heart.
+At the same time oxygenated blood from the lungs enters the left
+atrium from the pulmonary vein. As pressure in the atrium
+builds the bicuspid valve opens between the left atrium and the
+190
+8.1 Transport systems in multicellular animals
+The amount of blood flowing to a particular tissue can be adjusted by
+widening or narrowing blood vessels. Most closed circulatory systems
+contain a blood pigment that carries the respiratory gases.
+Closed circulatory systems are found in many different animal
+phyla, including echinoderms (animals such as sea urchins
+and starfish), cephalopod molluscs including the octopods and
+squid, annelid worms including the common earthworm, and
+all of the vertebrate groups, including the mammals.
+capillaries
+in gills
+ventricle
+atrium
+capillaries in
+rest of body
+Single closed circulatory systems
+Single closed circulatory systems are found in a number
+of groups including fish and annelid worms. In single
+circulatory systems (Figure 3) the blood flows through the
+heart and is pumped out to travel all around the body before
+returning to the heart. In other words, the blood travels
+only once through the heart for each complete circulation of
+the body.
+A Figure 3 The single closed circulatory
+system of a fish
+In a single closed circulation, the blood passes through two sets of
+capillaries (microscopic blood vessels) before it returns to the heart.
+In the first, it exchanges oxygen and carbon
+dioxide. In the second set of capillaries, in
+the different organ systems, substances are
+exchanged between the blood and the cells.
+As a result of passing through these two sets
+of very narrow vessels, the blood pressure in
+the system drops considerably so the blood
+returns to the heart quite slowly. This limits
+the efficiency of the exchange processes so the
+activity levels of animals with single closed
+circulations tends to be relatively low.
+A Figure 4 The single closed
+circulatory system of a fish. Dissection
+of this trout shows the close proximity
+of the fish heart to the gills. Fish hearts
+have one atrium and one ventricle
+heart
+Fish are something of an exception. They
+have a relatively efficient single circulatory
+system, which means they can be very
+active. They have a countercurrent gaseous
+exchange mechanism in their gills that allows
+them to take a lot of oxygen from the water. Their body weight is
+supported by the water in which they live and they do not maintain
+their own body temperature. This greatly reduces the metabolic
+demands on their bodies and, combined with their efficient gaseous
+exchange, explains how fish can be so active with a single closed
+circulatory system.
+Synoptic link
+You learnt about the mechanisms
+of ventilation and gaseous
+exchange in fish in Topic 7.4,
+Ventilation and gas exchange in
+other organisms.
+Double closed circulatory systems
+Birds and most mammals are very active land animals that maintain
+their own body temperature. This way of life is made possible in
+part by their double closed circulatory system (Figure 5). This is the
+most efficient system for transporting substances around the body. It
+involves two separate circulations:
+176
+TRANSPORT IN ANIMALS
+• They have vessels that carry the transport medium.
+They have a pumping mechanism to move the fluid around
+the system.
+When substances are transported in a mass of fluid with a mechanism
+for moving the fluid around the body it is known as a mass transport
+system. Large, multicellular animals usually have either an open
+circulatory system or a closed circulatory system.
+Open circulatory systems
+In an open circulatory system there are very few vessels to contain
+the transport medium. It is pumped straight from the heart into
+the body cavity of the animal. This open body cavity is called the
+haemocoel. In the haemocoel the transport medium is under low
+pressure. It comes into direct contact with the tissues and the cells.
+This is where exchange takes place between the transport medium
+and the cells. The transport medium returns to the heart through an
+open-ended vessel (Figure 2).
+These open-ended circulatory systems are found mainly in invertebrate
+animals, including most insects and some molluscs. Remember that
+in insects, gas exchange takes place in the tracheal system. Insect
+blood is called haemolymph. It doesn't carry oxygen or carbon
+dioxide. It transports food and nitrogenous waste products and the
+cells involved in defence against disease. The body cavity is split by a
+membrane and the heart extends along the length of the thorax and the
+abdomen of the insect. The haemolymph circulates but steep diffusion
+gradients cannot be maintained for efficient diffusion. The amount of
+haemolymph flowing to a particular tissue cannot be varied to meet
+changing demands.
+heart
+heart
+haemocoel
+haemocoel in
+the body of the insect
+surrounding the organs
+A Figure 2 The open circulatory system of a locust supplies the cells with food and
+removes the nitrogenous waste products
+Closed circulatory systems
+In a closed circulatory system, the blood is enclosed in blood vessels
+and does not come directly into contact with the cells of the body. The
+heart pumps the blood around the body under pressure and relatively
+quickly, and the blood returns directly to the heart. Substances leave
+and enter the blood by diffusion through the walls of the blood vessels.
+Synoptic link
+You learnt about mechanisms of
+ventilation and gaseous exchange
+in insects in Topic 7.4, Ventilation
+and gas exchange in other
+organisms.
+175
+8.5 The heart
+Specification reference: 3.1.2
+The heart is the organ that moves the blood around the body. In some
+animal groups it is no more than a simple muscular tube. In mammals
+the heart is a complex, four-chambered muscular 'bag' found in the
+chest, enclosed by the ribs and sternum.
+The human heart
+The heart consists of two pumps, joined and working together.
+Deoxygenated blood from the body flows into the right side of the
+heart, which pumps it to the lungs. Oxygenated blood from the lungs
+returns to the left side of the heart, which pumps it to the body. The
+blood from the two sides of the heart does not mix.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the external and
+internal structure of the
+mammalian heart
+the cardiac cycle and how
+the heart action is initiated
+and coordinated
+the use and interpretation of
+electrocardiogram (ECG) traces.
+The heart is made of cardiac muscle, which contracts and relaxes in
+a regular rhythm. It does not get fatigued and need to rest like skeletal
+muscle. The coronary arteries supply the cardiac muscle with the
+oxygenated blood it needs to keep contracting and relaxing all the
+time. The heart is surrounded by inelastic pericardial membranes,
+which help prevent the heart from over-distending with blood.
+vena cava
+aortic arch
+pulmonary
+artery
+right
+atrium
+pulmonary
+veins
+-left
+right
+coronary
+artery
+coronary
+artery
+carotid arteries
+Meft
+aorta
+ventricle
+right -
+ventricle
+superior
+vena cava
+cardiac
+vein
+- left pulmonary artery
+vena cava
+descending aorta
+right
+pulmonary
+artery
+A Figure 1 Diagram showing the
+external structure of the heart
+pulmonary veins
+left atrium
+cardiac
+muscle
+right atrium
+semilunar valves
+bicuspid valves
+(left atrioventricular valve)
+- septum
+left ventricle
+tricuspid
+valve (right
+atrioventricular
+valve)
+tendinous
+cords
+right-
+ventricle
+inferior
+vena cava
+very thick
+muscular
+wall of left
+ventricle
+Figure 2 The structure of the human heart is closely related to its function. In an
+average lifetime it will beat around 3 x 10 times, and each ventricle will pump around
+200 million litres of blood
+189
+TRANSPORT IN ANIMALS
+1007 Pco2 = 3 kPa
+When you are not very active, only about 25% of the oxygen carried
+in your erythrocytes is released into the body cells. The rest acts as a
+reservoir for when the demands of the body increase suddenly.
+The effect of carbon dioxide
+As the partial pressure of carbon dioxide rises in other words, at
+higher partial pressures of CO2), haemoglobin gives up oxygen more
+easily (Figure 2). This change is known as the Bohr effect. The
+Bohr effect is important in the body because as a result:
+percentage saturation of haemoglobin
+with oxygen
+Pco2 = 6 kPa
+in active tissues with a high partial pressure of carbon dioxide,
+haemoglobin gives up its oxygen more readily
+in the lungs where the proportion of carbon dioxide in the air
+is relatively low, oxygen binds to the haemoglobin molecules
+easily.
+5 10 15
+partial pressure of oxygen/kPa
+A Figure 2 The Bohr shift - as the
+proportion of carbon dioxide increases,
+the oxygen dissociation curve for
+haemoglobin moves to the right
+fetal
+haemoglobin
+Fetal haemoglobin
+When a fetus is developing in the uterus it is completely dependent
+on its mother to supply it with oxygen. Oxygenated blood from
+the mother runs close to the deoxygenated fetal blood in the
+placenta. If the blood of the fetus had the same affinity for oxygen
+as the blood of the mother, then little or no oxygen would be
+transferred to the blood of the fetus. However, fetal haemoglobin
+has a higher affinity for oxygen than adult haemoglobin at each
+point along the dissociation curve (Figure 3). So it removes
+oxygen from the maternal blood as they move past each other.
+percentage saturation with oxygen
+adult
+haemoglobin
+Transporting carbon dioxide
+Carbon dioxide is transported from the tissues to the lungs in
+three different ways:
+oź § 10
+partial pressure of oxygen/kPa
+Figure 3 The oxygen dissociation curves for
+adult and fetal haemoglobin show how the fetus
+can gain oxygen from the mother
+About 5% is carried dissolved in the plasma.
+10-20% is combined with the amino groups in the
+polypeptide chains of haemoglobin to form a compound
+called carbaminohaemoglobin.
+75-85% is converted into hydrogen carbonate ions (HCO,
+in the cytoplasm of the red blood cells.
+Most of the carbon dioxide that diffuses into the blood from the cells is
+transported to the lungs in the form of hydrogen carbonate ions.
+Carbon dioxide reacts slowly with water to form carbonic acid (H,CO,).
+The carbonic acid then dissociates to form hydrogen ions and hydrogen
+carbonate ions.
+CO + H2O=H,CO, > H+ + HCO,
+In the blood plasma this reaction happens slowly. However, in the
+cytoplasm of the red blood cells there are high levels of the enzyme
+carbonic anhydrase. This enzyme catalyses the reversible reaction
+between carbon dioxide and water to form carbonic acid. The carbonic
+acid then dissociates to form hydrogen carbonate ions and hydrogen ions.
+187
+8.4 Transport of oxygen and carbon dioxide in the blood
+The negatively charged hydrogen carbonate ions move out of the
+erythrocytes into the plasma by diffusion down a concentration
+gradient and negatively charged chloride ions move into the
+erythrocytes, which maintains the electrical balance of the cell. This
+is known as the chloride shift.
+CO, diffuses
+into bloodstream
+5% remains
+dissolved in
+plasma (as CO2)
+By removing the carbon dioxide and converting
+it to hydrogen carbonate ions, the erythrocytes
+maintain a steep concentration gradient for
+carbon dioxide to diffuse from the respiring tissues
+into the erythrocytes.
+95% diffuses
+into rbcs
+10-20% binds to
+Hb forming
+carbaminohaemoglobin,
+Hb-CO2
+75-85% converted
+to H2CO3 by
+carbonic anhydrase
+When the blood reaches the lung tissue where
+there is a relatively low concentration of carbon
+dioxide, carbonic anhydrase catalyses the reverse
+reaction, breaking down carbonic acid into carbon
+dioxide and water. Hydrogen carbonate ions
+diffuse back into the erythrocytes and react with
+hydrogen ions to form more carbonic acid. When
+this is broken down by carbonic anhydrase it
+releases free carbon dioxide, which diffuses out of
+the blood into the lungs. Chloride ions diffuse out
+of the red blood cells back into the plasma down
+an electrochemical gradient.
+H2CO, dissociates
+into H and HCO,
+H+ removed
+by buffers,
+especially Hb
+HCO3 moves out
+of rbc in exchange
+for CI (chloride shift)
+Figure 4 The transport of carbon dioxide in the blood is a
+complex process
+Haemoglobin in the erythrocytes also plays
+a role in this process. It acts as a buffer and
+prevents changes in the pH by accepting free
+hydrogen ions in a reversible reaction to form
+haemoglobinic acid.
+Summary questions
+1 Explain how the structure of erythrocytes is adapted to their
+function in the body.
+(3 marks)
+2 a Draw the oxygen dissociation curve for normal adult
+haemoglobin and fetal haemoglobin.
+(2 marks)
+b What is the difference in the oxygen saturation of adult
+and fetal haemoglobin at a partial pressure of oxygen
+of 6 kPa? Explain the importance of this difference in the
+survival of the fetus.
+(3 marks)
+3 Myoglobin is an oxygen-binding molecule found in the muscles.
+a Sketch a graph to showing myoglobin oxygen affinity
+and haemoglobin oxygen affinity.
+(2 marks)
+b Explain the differences between the two curves. (2 marks)
+4 Use a flow chart to summarise how the carbon dioxide produced
+in the cells is carried to the lungs in the red blood cells. (6 marks)
+188
+TRANSPORT IN ANIMALS
+8.1 Transport systems in
+multicellular animals
+Specification reference: 3.1.2
+In the previous chapter you looked at why multicellular organisms
+need exchange surfaces. They also need transport systems to supply
+oxygen and nutrients to the sites where they are needed and to remove
+waste products from the individual cells.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the need for transport systems
+in multicellular animals
+the different types of
+circulatory systems found in
+multicellular animals.
+The need for specialised transport systems
+in animals
+In single-celled organisms, processes such as diffusion, osmosis, active
+transport, endocytosis and exocytosis can supply everything the cell
+needs to import or export. These processes are also important in
+multicellular organisms, transporting substances within and between
+individual cells. However, as organisms get bigger, the distances
+between the cells and the outside of the body get greater. Diffusion
+would transport substances into and out of the inner core of the
+body, but it would be so slow that the organism would not survive.
+Specialised transport systems are needed because:
+A Figure 1 When a multicellular animal
+takes in food, the nutrients have to be
+transported to all the cells in the body
+the metabolic demands of most multicellular animals are high
+(they need lots of oxygen and food, they produce lots of waste
+products, so diffusion over the long distances is not enough to
+supply the quantities needed
+the surface area to volume (SA:V) ratio gets smaller as multicellular
+organisms get bigger so not only do the diffusion distances get
+bigger but the amount of surface area available to absorb or remove
+substances becomes relatively smaller
+molecules such as hormones or enzymes may be made in one place
+but needed in another
+food will be digested in one organ system, but needs to be transported
+to every cell for use in respiration and other aspects of cell metabolism
+waste products of metabolism need to be removed from the cells
+and transported to excretory organs.
+Synoptic link
+You learnt about surface area
+to volume ratio in Topic 71,
+Specialised exchange surfaces.
+Synoptic link
+It will be useful now to recap your
+understanding of the various
+mechanisms for the movement of
+molecules across membranes in
+Topics 4.3-4.5 Diffusion, Active
+transport, and Osmosis.
+Types of circulatory systems
+Most large, multicellular animals have specialised circulatory systems
+(transport systems) which carry gases such as oxygen and carbon
+dioxide, nutrients, waste products and hormones around the body.
+Most circulatory systems have features in common:
+•
+They have a liquid transport medium that circulates around the
+system (blood).
+174
+TRANSPORT IN ANIMALS
+left ventricle so the ventricle also fills with oxygenated blood. When
+both the atrium and ventricle are full the atrium contracts, forcing all
+the oxygenated blood into the left ventricle. The left ventricle then
+contracts and pumps oxygenated blood through semilunar valves into
+the aorta and around the body. As the ventricle contracts the tricuspid
+valve closes, preventing any backflow of blood.
+The muscular wall of the left side of the heart is much thicker than
+that of the right. The lungs are relatively close to the heart, and the
+lungs are also much smaller than the rest of the body so the right side
+of the heart has to pump the blood a relatively short distance and only
+has to overcome the resistance of the pulmonary circulation. The left
+side has to produce sufficient force to overcome the resistance of the
+aorta and the arterial systems of the whole body and move the blood
+under pressure to all the extremities of the body.
+The septum is the inner dividing wall of the heart which prevents the
+mixing of deoxygenated and oxygenated blood.
+The right and left side of the heart fill and empty together.
+A hole in the heart
+The development of the septum is not completed until after birth. In the
+fetus the blood is oxygenated in the placenta, not in the lungs. As a result,
+all the blood in the heart is very similar and so mixes freely. In the days
+after birth the gap in the septum closes to ensure that the deoxygenated
+and oxygenated bloods are kept completely separate. Any gap remaining
+in the septum after the first few weeks of life is referred to as a 'hole in the
+heart' and it can often be heard with a stethoscope as a heart murmur.
+Many people have a small hole in their septum without knowing about it.
+However, if the hole is large it can lead to severe health problems unless it is
+diagnosed and repaired by surgery.
+1 Explain why a small hole in the septum of the heart might not have
+any adverse effects but a large hole will cause health problems.
+The cardiac cycle and the heartbeat
+The cardiac cycle describes the events in a single heartbeat, which
+lasts about 0.8 seconds in a human adult.
+In diastole the heart relaxes. The atria and then the ventricles fill
+with blood. The volume and pressure of the blood in the heart build
+as the heart fills, but the pressure in the arteries is at a minimum.
+In systole the atria contract (atrial systole), closely followed by
+the ventricles (ventricular systole). The pressure inside the heart
+increases dramatically and blood is forced out of the right side of the
+heart to the lungs and from the left side to the main body circulation.
+The volume and pressure of the blood in the heart are low at the end
+of systole, and the blood pressure in the arteries is at a maximum.
+191
+TRANSPORT IN ANIMALS
+8
+heart
+stomach
+artery
+to foot
+5
+gills
+foot
+vein from foot
+different than that of haemoglobin.
+(2 marks)
+(ii) Suggest why the curve for myoglobin
+is not sigmoidal.
+(2 marks)
+(iii) Draw a curve on the graph for fetal
+haemoglobin.
+(2 marks)
+The majority of carbon dioxide released
+by respiring cells diffuses into red
+blood cells, Carbon dioxide can bind to
+haemoglobin forming a compound called
+carbaminohaemoglobin. About 10% of
+carbon dioxide is transported to the lungs by
+this method.
+The remaining carbon dioxide undergoes an
+enzyme controlled reaction once inside a red
+blood cell.
+a State what type of molecule forms an
+enzyme.
+(2 marks)
+b Describe what an enzyme does. (2 marks)
+c Outline the fate of carbon dioxide after it
+has entered a red blood but does not bind
+to haemoglobin.
+(3 marks)
+4
+State, with reasons, which type of circulatory
+system is present in a mollusc. (4 marks)
+Varicose veins occur when the valves in the
+veins fail to work correctly and blood starts to
+pool in the veins. This occurs most commonly
+in the legs and feet.
+a State the function of the valves in
+the veins.
+(1 mark)
+b Suggest why you do not see 'varicose
+arteries'.
+(2 marks)
+(i) Explain why haemoglobin is known
+as a conjugate protein. (2 marks)
+(ii) Explain why an oxygen dissociation
+curve is sigmoidal (s shaped).
+(4 marks)
+d Name the molecule formed when carbon
+dioxide binds to haemoglobin. (1 mark)
+Myoglobin is a molecule with one haem
+group that binds to oxygen and only
+releases it at low oxygen levels. It effectively
+acts as store of oxygen in muscles.
+100
+myoglobin
+hemoglobin
+percentage saturation with oxygen
+0
+ITT
+5 10
+partial pressure of oxygen/kPa
+(i) Explain why the position of the
+dissociation curve for myoglobin is
+197
+8.5 The heart
+contracting
+left atrium
+relaxing
+relaxing
+contracting
+relaxing
+semilunar
+valve closes
+1
+-
+-
+-
+left ventricle
+relaxing
+aortic pressure rises when
+semilunar
+ventricles contract as blood
+valve opens
+is forced into the aorta. It
+then gradually falls, but
+never below around 12 kPa.
+because of the elasticity of
+its wall, which creates a
+recoil action - essential if
+blood is to be constantly
+delivered to the tissues. The
+recoil produces a temporary
+rise in pressure at the start
+of the relaxation phase.
+-
+-
+-
+pressure / kPa
+-
+ventricular pressure is low
+at first, but gradually
+increases as the ventricles
+fill with blood as the atria
+contract. The left
+atrioventricular valves
+close and pressure rises
+dramatically as the thick
+muscular walls of the
+ventricle contract. As
+pressure rises above that
+of the aorta, blood is
+forced into the aorta past
+the semilunar valves.
+Pressure falls as the
+ventricles empty and the
+walls relax.
+-
+-
+atrioventricular
+valve
+closes
+atrioventricular
+valve
+opens
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+atrial pressure is always
+relatively low because the
+thin walls of the atrium
+cannot create much force.
+It is highest when they are
+contracting, but drops
+when the left
+atrioventricular valve closes
+and its walls relax. The
+atria then fill with blood,
+which leads to a gradual
+build-up of pressure until a
+slight drop when the left
+atrioventricular valve opens
+and some blood moves into
+the ventricle.
+volume of left ventricle / cm3
+ventricular volume rises
+as the atria contract
+and the ventricles fill
+with blood, and then
+drops suddenly as blood
+is forced out into the
+aorta when the
+semilunar valve opens.
+Volume increases again
+as the ventricles fill
+with blood.
+-
+-
+-
+-
+0
+0.1
+0.2
+0.3
+0.5
+0.6
+0.7
+0.8
+0.4
+time / s
+heart sounds
+electrocardiogram
+(ECG) - shows
+electrical activity
+in the heart
+atrial
+systole
+P 0.1
+ventricular
+systole
+0.2 0.3 0.4
+diastole
+0.5
+0.6 Time/s
+A Figure 5 Some of the pressure
+changes in the heart during the cardiac
+cycle, as well as the heart sounds and
+an ECG trace
+Heart sounds
+The sounds of the heartbeat, which can be heard through a
+stethoscope, are made by blood pressure closing the heart valves. The
+two sounds of a heartbeat are described as 'lub-dub'. The first sound
+comes as the blood is forced against the atrio-ventricular valves as
+the ventricles contract, and the second sound comes as a backflow of
+blood closes the semilunar valves in the aorta and pulmonary artery as
+the ventricles relax.
+192
+TRANSPORT IN ANIMALS
+A stethoscope is positioned over the blood vessels at the
+elbow. Air is slowly let out of the cuff. The pressure at which
+the blood sounds first reappear as a slight tapping sound
+is recorded. The first blood to get through the cuff is that
+under the highest pressure - in other words, when the left
+ventricle of the heart is contracting strongly. The height of
+the mercury at this point gives the systolic blood pressure
+in mmHg (the height of the mercury column). The blood
+sounds return to normal at the point when even the lowest
+pressure during diastole is sufficient to get through the
+cuff. This gives the diastolic blood pressure. A reading of
+120/80 mmHg is regarded as being normal. More recently
+a simpler, digital sphygmomanometer is often used - but
+the same principles apply. The stethoscope is simply built
+into the cuff applied around the arm.
+A Figure 8 Measuring blood pressure with a aneroid
+sphygmomanometer
+1 Blood pressure is used as an indicator of the
+health of both the heart and the blood vessels.
+A weakened heart may produce a low blood
+pressure, whereas damaged blood vessels that
+are closing up or becoming less elastic will give
+a raised blood pressure. Explain how these
+symptoms might be produced.
+Summary questions
+1 Explain why healthy coronary arteries are important for
+maintaining a regular heart rhythm.
+(2 marks)
+(2 marks)
+2 a What causes the heart sounds?
+b Explain the relationship between the heart sounds and
+the events of the cardiac cycle.
+(6 marks)
+3 Explain the following responses:
+a Bradycardia is common in diving mammals such as whales
+and seals.
+(5 marks)
+b Many people experience tachycardia when they travel to
+high altitudes.
+(5 marks)
+4 Look carefully at Figure 7:
+a Work out the heart rate of the individuals with i) a normal heart
+rhythm ii) bradycardia and iii) tachycardia.
+(4 marks)
+b What is the percentage decrease or increase in the heart
+rate over the normal rate in these patients?
+(3 marks)
+195
+Chapter 8 Practice questions
+3
+The diagram below summarises the formation
+of tissue fluid.
+Practice questions
+1 In mammals, the lungs are adapted to enable
+efficient gaseous exchange.
+The table below lists some of the adaptations
+of the lungs.
+Complete the table explaining how each
+adaptation improves the efficiency of gaseous
+exchange.
+net hydrostatic 33 A
+pressure
+net -20
+osmotic
+pressure
+net 13
+hydrostatic
+pressure
+-20
+net
+osmotic
+pressure
+blood flow
+Adaptation
+arterial end
+venous end
+How this adaptation improves
+efficiency of gaseous exchange
+squamous epithelium
+large number of alveoli
+good blood supply
+good ventilation
+(4 marks)
+OCR F211/01 2013
+(i) Calculate the net filtration pressures
+(NFP) at either end of the capillary in
+the diagram above:
+arterial end
+venous end
+(2 marks)
+Interstitial fluid is constantly being formed
+at the arterial ends of capillary networks.
+Approximately 90% of this fluid is
+reabsorbed at the venous end.
+(ii) Describe what happens to the other
+10% and explain what could happen
+if this process did not occur.
+(4 marks)
+Transport systems are essential in
+multicellular organisms to overcome the
+limitations of diffusion.
+b
+Animals and fish live in completely different
+environments. However their cells respire
+in the same way and depend on a constant
+supply of oxygen.
+a Explain how both gills and lungs are
+designed to maximise the rate of diffusion
+in gaseous exchange.
+(4 marks)
+b Using the simple representations of the
+two systems below, discuss the different
+way that gills and lungs are designed to
+maximise the rate of gaseous exchange.
+(3 marks)
+Using a mammalian transport system as
+an example, explain why diffusion is still
+an essential process.
+(3 marks)
+The diagram shows the circulatory system
+of a mollusc.
+water
+body inside
+body inside
+gills
+lungs
+196
+8.5 The heart
+TV
+Heart rhythm abnormalities that commonly show up on
+ECGs include:
+-1.0 s-
+(a) Normal ECG - beats evenly spaced, rate 60-100/min
+Tachycardia - when the heartbeat is very rapid, over
+100 bpm. This is often normal, for instance when you
+exercise, if you have a fever, if you are frightened or
+angry. If it is abnormal it may be caused by problems
+in the electrical control of the heart and may need to
+be treated by medication or by surgery.
+(b) Bradycardia – slow heart rate – beats evenly spaced,
+rate <60/min
+• Bradycardia - when the heart rate slows down to
+below 60 bpm. Many people have bradycardia because
+they are fit - training makes the heart beat more
+slowly and efficiently. Severe bradycardia can be
+serious and may need an artificial pacemaker to keep
+the heart beating steadily.
+(c) Tachycardia - fast heart rate-beats evenly spaced,
+rate >100/min
+Ectopic heartbeat - extra heartbeats that are out of
+the normal rhythm. Most people have at least one a
+day. They are usually normal but they can be linked to
+serious conditions when they are very frequent.
+extrasystole pause
+(d) Ectopic heart beat - altered rhythm, extra beat followed
+by longer than normal gap before the next beat
+Atrial fibrillation - this is an example of an
+arrhythmia, which means an abnormal rhythm of
+the heart. Rapid electrical impulses are generated in
+the atria. They contract very fast (fibrillate) up to 400
+times a minute. However, they don't contract properly
+and only some of the impulses are passed on to the
+ventricles, which contract much less often. As a result
+the heart does not pump blood very effectively.
+(e) Atrial fibrillation - abnormal irregular rhythm from atria,
+ventricles lose regular rhythm
+Figure 7 Normal and abnormal ECGs
+Blood pressure
+The blood travels through the arterial system at
+pressures that vary as the ventricles contract. The blood
+pressure is also affected by the diameter of the blood
+vessels themselves. Narrowing the arteries is one way in
+which the body affects and controls local blood flow, but
+permanent changes can cause severe health problems.
+as two figures, the first higher than the second. But
+what is being measured? Traditionally blood pressure is
+measured using a manual sphygmomanometer. A cuff,
+which is connected to a mercury manometer (a way
+of measuring pressure using the height of a column of
+mercury), is placed around the upper arm. The cuff is
+then inflated until the blood supply to the lower arm is
+completely cut off.
+Most people will have their blood pressure taken at
+some point in their lives. Blood pressure is expressed
+194
+8.3 Blood, tissue fluid, and lymph
+Specification reference: 3.1.2
+Blood is the main transport medium of the human circulatory system,
+but it is only part of the story. Tissue fluid is the other important
+player in the exchange of substances between the blood and the cells.
+A third liquid, lymph, is also part of the complex system that makes up
+the circulation of the body.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the differences in the
+composition of blood, tissue
+fluid and lymph
+► the formation of tissue fluid
+from plasma.
+Blood
+Blood consists of a yellow liquid - plasma - which carries a wide
+variety of other components including dissolved glucose and
+amino acids, mineral ions, hormones, and the large plasma proteins
+including albumin (important for maintaining the osmotic potential
+of the blood), fibrinogen (important in blood clotting) and globulins
+(involved in transport and the immune system). Plasma also transports
+red blood cells (which carry oxygen to the cells and also give the blood
+its red appearance) and the many different types of white blood cells.
+It also carries platelets. Platelets are fragments of large cells called
+megakaryocytes found in the red bone marrow, and they are involved
+in the clotting mechanism of the blood. Plasma makes up 55% of the
+blood by volume - and much of that volume is water. Only the plasma
+and the red blood cells are involved in the transport functions of the
+blood. The other components have different functions.
+308002
+C
+blood by volume and much of the
+A Figure 1 Human blood under the
+light microscope
+Functions of the blood
+The composition of the blood is closely related
+to its functions in the body, many of which
+involve transport. They include transport of:
+55%
+45%
+erythrocytes
+(red blood cells, rbcs)
+plasma
+platelets - fragments of large
+megakaryocytes found in the
+red bone marrow, platelets are
+involved in blood clotting
+leucocytes
+(white blood cells, wbcs)
+there are many different types
+with different functions
+oxygen to, and carbon dioxide from, the
+respiring cells
+digested food from the small intestine
+nitrogenous waste products from the
+cells to the excretory organs
+chemical messages (hormones)
+food molecules from storage compounds
+to the cells that need them
+platelets to damaged areas
+cells and antibodies involved in the
+immune response.
+A Figure 2 The main cellular components of the blood. 1 mm of healthy
+blood contains around 5 million erythrocytes, 7000 leucocytes and
+250 000 platelets, which are cell fragments
+Synoptic link
+The blood also contributes to maintenance of a steady body temperature
+and acts as a buffer, minimising pH changes.
+You will learn more about clotting
+of the blood, phagocytosis, and
+the immune system in Topic 12.5,
+The specific immune system.
+182
+TRANSPORT IN ANIMALS
+large vein
+venule
+medium-
+sized vein
+>lcm
+<lcm
+relative
+proportions of:
+0.1 mm
+elastin
+smooth muscle
+collagen
+A Figure 5 The differing proportions of components of the
+vein and venule walls depending on how far the vein is from the
+heart and thus its role in the body
+wall of vein
+Deoxygenated blood in the veins must be returned to the heart to be
+pumped to the lungs and oxygenated again. However, the blood is
+under low pressure and needs to move against gravity. There are three
+main adaptations that enable the body to overcome this problem:
+valve flap
+valve open
+blood flowing towards the heart passes
+easily through the valves
+The majority of the veins have one-way valves at intervals. These
+are flaps or infoldings of the inner lining of the vein. When blood
+flows in the direction of the heart, the valves open so the blood
+can pass through. If the blood starts to flow backwards, the valves
+close to prevent this from happening.
+Many of the bigger veins run between the big, active muscles in
+the body, for example in the arms and legs. When the muscles
+contract they squeeze the veins, forcing the blood towards the
+heart. The valves prevent backflow when the muscles relax.
+The breathing movements of the chest act as a pump. The pressure
+changes and the squeezing actions move blood in the veins of the
+chest and abdomen towards the heart.
+blood flowing away
+from the heart pushes
+flaps of valve closed
+--valve closed
+blood flowing away from the heart
+pushes valves closed and so blood is
+prevented from flowing any further
+in this direction
+Figure 6 The valves in a vein prevent
+the backflow of blood
+In combination, these adaptations assist in the return of deoxygenated
+blood to the heart.
+Summary questions
+1 Veins have valves but arteries do not explain why.
+(3 marks)
+2 The structure of an arteriole is different from the structure of
+an artery. Describe the differences in structure and explain
+how they are related to the functions of the vessels.
+(2 marks)
+3 a Explain how the different structures of large veins,
+medium veins and venules are related to their functions
+in the body.
+b Explain why the venules and veins in the lungs are
+so unusual.
+(6 marks)
+ve
+(2 marks)
+181
+TRANSPORT IN ANIMALS
+The basic rhythm of the heart
+Study tip
+Cardiac muscle is myogenic – it has its own intrinsic rhythm at
+Don't just describe the sino-atrial
+around 60 beats per minute (bpm). This prevents the body wasting
+resources maintaining the basic heart rate. The average resting heart
+node (SAN) as the pacemaker of
+the heart. It initiates the heartbeat
+rate of an adult is higher, at around 70 bpm. This is because other
+factors including exercise, excitement, and stress also affect our
+by producing a wave of electrical
+excitation which causes both of
+heart rate.
+the atria to contract followed by
+The basic rhythm of the heart is maintained by a wave of electrical
+the ventricles as a result of the
+excitation, rather like a nerve impulse (Figure 6).
+AVN delay.
+A wave of electrical excitation begins in the pacemaker area called
+the sino-atrial node (SAN), causing the atria to contract and so
+Study tip
+initiating the heartbeat. A layer of non-conducting tissue prevents
+the excitation passing directly to the ventricles.
+Be clear about the role of the SAN-
+The electrical activity from the SAN is picked up by the atrio-
+explain the two effects of the wave
+ventricular node (AVN). The AVN imposes a slight delay before
+of excitation generated there.
+stimulating the bundle of His, a bundle of conducting tissue
+made up of fibres (Purkyne fibres), which
+penetrate through the septum between the
+ventricles.
+The bundle of His splits into two branches and
+sino-atrial -
+node*
+conducts the wave of excitation to the apex
+bundle of His
+(bottom) of the heart.
+atrio-ventricular T
+node
+At the apex the Purkyne fibres spread out
+through the walls of the ventricles on both sides.
+right and left branches
+The spread of excitation triggers the contraction
+of Purkyne tissue
+of the ventricles, starting at the apex. Contraction
+starting at the apex allows more efficient
+emptying of the ventricles.
+Purkyne fibres
+*The sino-atrial node (SAN) or natural pacemaker sets up a wave
+The way in which the wave of excitation spreads of electrical excitation.
+through the heart from the SAN, with AVN delay,
+The atrioventricular node (AVN) is excited by the SAN. From here
+the excitation passes into the Purkyne tissue.
+makes sure that the atria have stopped contracting
+before the ventricles start.
+Figure 6 The SAN initiates the heartbeat
+Electrocardiograms
+You can measure the spread of electrical excitation through the heart
+as a way of recording what happens as it contracts. This recording
+of the electrical activity of the heart is called an electrocardiogram
+(ECG). An ECG doesn't directly measure the electrical activity of your
+heart. It measures tiny electrical differences in your skin, which result
+from the electrical activity of the heart.
+Study tip
+Learn to recognise normal and
+abnormal ECG patterns.
+To pick up these tiny changes, electrodes are stuck painlessly to clean
+skin to get the good contacts needed for reliable results. The signal
+from each of the electrodes is fed into the machine, which produces
+an ECG. A normal ECG is shown in Figure 5 and Figure 7(a). ECGS
+are used to help diagnose heart problems. For example, if someone
+is having a heart attack, recognisable changes take place in the
+electrical activity of their heart, which can be used to diagnose the
+problem and treat it correctly and fast.
+193

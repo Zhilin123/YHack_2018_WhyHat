@@ -1,0 +1,1663 @@
+24
+TRANSITION ELEMENTS
+The equation for the ligand substitution reaction is shown below:
+[Cr(H2O)]3+ (aq) + 6NH, (aq) → [Cr(NHz)]3+ (aq) + 6H2O(1)
+violet
+purple
+The observations for this reaction are shown in Figure 6.
+haem
+Fe
+CH
+protein
+Figure 7 Oxygen binds to the Fe2+
+ion by the formation of a coordinate
+bond. For clarity, the 2+ charge has been
+omitted
+Ligand substitution and haemoglobin
+Blood carries oxygen around the body due to presence of haemoglobin,
+the iron-containing protein present in all red blood cells. Haemoglobin
+contains four protein chains held together by weak intermolecular
+forces. Each protein chain has a haem molecule within its structure. The
+central metal ion in a haem group is Fe2+ which can bind to oxygen gas,
+0, (Figure 7).
+As blood passes through the lungs, the haemoglobin bonds to oxygen
+because of the increased oxygen pressure in the capillaries of the
+lungs. A compound called oxyhaemoglobin forms, which releases this
+oxygen to body cells as and when required (Figure 8). In addition, the
+haemoglobin in red blood cells can bond to carbon dioxide, which is
+carried back to the lungs. Carbon dioxide is then released from the red
+blood cells and carbon dioxide is exhaled.
+Carbon monoxide can also bind to the Fe2+ ion in haemoglobin.
+The complex formed is known as carboxyhaemoglobin. If carbon
+monoxide is breathed in, a ligand substitution reaction takes place
+where the oxygen in haemoglobin is replaced by carbon monoxide.
+Carbon monoxide binds to haemoglobin more strongly than oxygen,
+so a small concentration of carbon monoxide in the lungs can prevent
+a large proportion of the haemoglobin molecules from carrying
+oxygen. The bond is so strong that this process is irreversible. If the
+concentration of carboxyhaemoglobin becomes too high, oxygen
+transport is prevented, leading to death.
+Figure 8 Oxyhaemoglobin in red
+blood cells is responsible for carrying
+oxygen round the body
+Precipitation reactions
+A precipitation reaction occurs when two aqueous solutions
+containing ions react together to form an insoluble ionic solid, called a
+precipitate.
+Transition metal ions in aqueous solution react with aqueous sodium
+hydroxide and aqueous ammonia to form precipitates. However, some
+of these precipitates will dissolve in an excess of sodium hydroxide or
+ammonia to form complex ions in solution.
+A Figure 9 From left to right, solutions
+of Cu2+ (aq), Fe2+ (aq), Fe3+(aq), and
+Mn2+ (aq)
+Precipitation reactions with sodium hydroxide
+Figure 9 shows the colours of Cu2+ (aq), Fe2+ (aq), Fe3+ (aq), and
+Mn2+(aq) ions. Figure 10 shows the precipitates formed when these
+ions react with aqueous sodium hydroxide. None of these precipitates
+dissolve in an excess of aqueous sodium hydroxide.
+The observations and equations for the reactions between these
+transition metal ions and aqueous sodium hydroxide are shown
+in Table 1.
+A Figure 10 From left to right the
+precipitates of Cu(OH), Fe(OH),
+Fe(OH)3, and Mn(OH)
+415
+24
+TRANSITION ELEMENTS
+The electron configurations of the elements scandium to zinc are
+shown in Table 1. Notice how the 3d sub-shell is being filled.
+Table 1 The electron configurations of the elements from scandium to zinc
+Synoptic link
+See Topic 5.1, Electron structure,
+for details of filling orbitals.
+Element
+scandium
+Number of electrons
+21
+titanium
+22
+Study tip
+23
+24
+vanadium
+chromium
+manganese
+iron
+Electron configuration
+1s 2s22p63s23p63d-4s2
+1s 2s22p63s23p63d24s2
+1s22s22p63s 3p63d3452
+1s²2s22p63s23p63d5451
+1s22s22p63s 3p63d5452
+1s22s22p63s 3p63d5452
+1s22s22p63s23p63d²4s2
+| 1s22s 2p 3s 3p63d4s?
+1s²2s22p63s23p63d104s1
+1s22s22p63s23p63d10452
+Remember that the 4s sub-shell
+has a lower energy than the
+3d sub-shell. Atoms of d-block
+elements fill their 4s sub-shell
+before they fill their 3d sub-shell.
+25
+26
+cobalt
+27
+nickel
+copper
+zinc
+28
+29
+30
+The special case of chromium and copper
+In Table I the electron configurations of chromium and copper do not
+follow the expected principle for placing electrons singly in orbitals
+before pairing. A simplistic explanation is one of stability. It is believed
+that a half-filled d sub-shell and a fully filled dio sub-shell give
+additional stability to atoms of chromium and copper.
+Study tip
+When forming ions of d-block
+elements, the 4s electrons are
+removed before any of the 3d
+electrons are removed.
+Electron configuration of d-block ions
+When the d-block elements, scandium to zinc, form positive ions
+from their atoms, they lose their 4s electrons before losing any of the
+3d electrons. This means that:
+when forming an atom, the 4s orbital fills before the 3d orbitals
+when forming an ion, the 4s orbital empties before the 3d orbitals.
+The electron configurations of an iron atom and its common ions, Fe2+
+and Fest, are shown below.
+Fe atom 1s 2s 2p 3s 3p 3d 4s2
+Fe2+ ion 1s 2s 2p 3s 3p 3d Two 4s electrons lost.
+Fe3+ ion 15²2s22p 3s 3p63d Two 4s and one 3d electron lost
+Transition elements
+Transition elements are defined as d-block elements that form at
+least one ion with a partially filled d-orbital. Although scandium and
+zinc are d-block elements, they do not match this definition and are
+not classified as transition elements.
+Scandium only forms the ion Sc+ by loss of two 4s electrons and one
+3d electron
+• The electron configuration of Sc is 1s²2s²2p63s 3p 3d'45.
+SC3+ has an electronic configuration of 1s 2s 2p 3s 3p6.
+401
+24
+24.1 d-block elements
+Zinc only forms the Zn2+ ion by the loss of its two 4s electrons.
+• The electron configuration of Zn is 1s22s 2p 3s 3p 3d104s2.
+• Zn2+ has an electronic configuration of 1s 2s 2p 3s 3p63d10.
+Sc3+ ions have empty d-orbitals and Zn2+ ions have full d-orbitals.
+So scandium and zinc do not form ions with partially filled d-orbitals
+and are not therefore classified as transition elements.
+Study tip
+You are expected to be able to list
+these properties and give suitable
+examples.
+Properties of the transition metals and their
+compounds
+The transition elements have a number of characteristic properties that
+are different from other metals.
+They form compounds in which the transition element has
+different oxidation states.
+They form coloured compounds.
+The elements and their compounds can act as catalysts.
+Variable oxidation states
+Transition elements form compounds with more than one oxidation
+state. For example, iron forms two chlorides - iron (II) chloride, FeCl,,
+and iron(III) chloride, FeCl,
+The number of oxidation states increases across the transition
+elements series to manganese, and then decreases. All of the
+transition elements form compounds with an oxidation number
+of +2, resulting from the loss of two electrons. Each oxidation
+state often has a characteristic colour. The common oxidation
+states of the ions of transition elements are shown in Table 2,
+together with their typical colours.
+Table 2 Common oxidation states and colours in transition element compounds
+and ions
+Element
+Common oxidation states and their colours
+Sc
++3
++3
++3
+v
+Cr
++3
+By definition not a transition element
++4 +5
++4 +5
++4
++5 +6
++4
++6
++5 +6
++4
++5
+|
++5
++2
++2
++2
++2
++2
++2
++2
++1
++2
+Mn
+Fe
++4
++3
++3
++3
++3
+Co
++4
+Ni
+Cu
+Zn
++2
++3
+By definition not a transition element
+A Figure 4 Transition metal compounds
+are often brightly coloured solids.
+A species containing a transition element in its highest oxidation state
+is often a strong oxidising agent.
+402
+24
+24.4 Ligand substitution and precipitation
+Table 1 The reactions of the aqueous transition metal ions with aqueous sodium hydroxide
+lon
+Observation(s) with NaOH(aq)
+Equations(s)
+Blue solution reacts to form a blue precipitate of copper(11) Cu2+(aq) + 20H-(aq) — Cu(OH)2(s)
+Cu2+ hydroxide.
+blue
+The precipitate is insoluble in excess sodium hydroxide.
+precipitate
+Pale green solution reacts to form a green precipitate of iron (11) Fe²+(aq) + 20H+ (aq) → Fe(OH)2(s)
+hydroxide.
+green
+The precipitate is insoluble in excess sodium hydroxide but turns
+precipitate
+Fe2+ brown at its surface on standing in air as iron(I) is oxidised to In air:
+iron (II).
+Fe(OH)2(s) — Fe(OH),(s)
+orange-brown
+precipitate
+Pale yellow solution reacts to form an orange-brown precipitate of Fe3+ (aq) + 3OH- (aq) FeOH).(s)
+iron(III) hydroxide.
+orange-brown
+The precipitate is insoluble in excess sodium hydroxide.
+precipitate
+Pale pink solution reacts to form a light brown precipitate of
+Mn2+(aq)
+Mn2+ manganese(II) hydroxide which darkens on standing in air.
+light-brown
+The precipitate is insoluble in excess sodium hydroxide.
+precipitate
+Equations(s)
+Table 2 The reactions of Cr3+ (aq) ions with NaOH(aq)
+lon
+Observation(s) with NaOH(aq)
+Violet solution reacts to form a grey-green precipitate of
+chromium(III) hydroxide.
+The precipitate is soluble in excess sodium hydroxide forming a
+dark green solution.
+Cr3+(aq) → Cr(OH)>(s) — [Cr(OH)13-(aq)
+Cr3+
+Cr3+(aq) + 30H-(aq) Cr(OH)3(s)
+green
+precipitate
+Cr(OH)>(s) + 3OH- (aq) — [Cr(OH),13-(aq)
+dark-green
+solution
+A Figure 11 The reaction of Cr3+(aq)
+with NaOH
+Precipitation reactions with ammonia
+You will recall from earlier in this topic the ligand substitution reactions
+of [Cu(H2O),]+(aq) and [Cr(H,0),]+(aq) with an excess of aqueous
+ammonia. In the first stage of these reactions precipitation takes place.
+For copper the precipitation reaction is shown below:
+Cu2+ (aq) + 20H-(aq) → Cu(OH),(s)
+416
+24
+TRANSITION ELEMENTS
+24.1 d-block elements
+Specification reference: 5.3.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of: :
+► d-block elements and transition:
+elements
+→ electron configurations of
+atoms and ions
+variable oxidation state,
+the formation of coloured
+compounds, and catalytic
+behaviour.
+The d-block elements
+The d-block elements are located between Group 2 and Group 13
+of the periodic table. Across the periodic table from scandium
+to zinc, the 3d sub-shell has the highest energy and electrons are
+added to 3d orbitals – hence the name d-block elements.
+In this topic you will study the first row of the d-block elements,
+scandium to zinc in Period 4 of the periodic table (Figure 1).
+18
+B
+H2
+13
+14
+17
+He
+15 16
+p-block
+s-block
+3
+4
+5
+6
+7
+8
+9
+10
+11 12
+12
+IN
+A Figure 1 Part of the periodic table showing the first row of the d-block elements
+The d-block elements are all metallic, displaying the typical physical
+properties of metals. They have high melting points and boiling points,
+are shiny in appearance, and conduct both electricity and heat. Their
+metallic properties give rise to some of their uses.
+Elements such as copper, silver, nickel, and zinc have been used in
+coinage for many years - iron is used extensively in construction and
+the production of tools, and copper for electrical cables and water pipes.
+Titanium is known for its great strength and is used in the aerospace
+industry as well as in medical applications such as joint replacement
+and in cosmetic dentistry. Figure 2 shows some of the common uses of
+d-block elements.
+n=4
+energy
+A Figure 2 Most of the coinage used in the UK is a mixture of copper, nickel, and
+zinc, whilst iron is used in construction and tools and copper is used in electrical
+installations and plumbing
+n=1
+Electron configuration of d-block elements and their ions
+The electron configuration of an atom or ion shows the arrangement
+of electrons in shells and sub-shells. Electrons occupy orbitals in order
+of increasing energy (Figure 3).
+-----
+ls
+Figure 3 Energy level diagram showing
+the overlap of the 3d and 4s sub-shells
+400
+24
+24.4 Ligand substitution and precipitation
+[Cu(H20).12+
+[CuC1,12-
+Figure 3 The addition of
+concentrated HCl to [Cu(H,0).]2+
+Ligand substitution with chloride ions
+Concentrated hydrochloric acid, HCl, can be used as a source of
+chloride ions. When an excess of concentrated hydrochloric acid is
+added to a solution containing [Cu(H20)]2+, the pale blue solution
+changes colour to form a yellow solution. This is another example of
+a ligand substitution reaction as six water ligands have been replaced
+with four chloride ligands.
+If water is added to the yellow solution, a blue solution will be formed,
+although more dilute and paler in colour than the original blue solution.
+If you take care making your observations, you will notice that an
+intermediate green solution is formed. This is not a new species but is
+the result of the yellow solution mixing with the blue solution to give
+a green colour as the reaction proceeds (Figure 3).
+The equation below shows that the reaction is in equilibrium.
+[Cu(H2O),12+ (aq) + 4C1-(aq) = [CuCl,12-(aq) + 6H2O(l)
+pale blue solution
+yellow solution
+octahedral
+tetrahedral
+OH 12+
+H2O ...MOHz
+H20OH
+Cu:
+CU.HCI
+ci
+i
+OH2
+A Figure 4 The shapes of the octahedral [Cu(H20)]2+ and tetrahedral (Cuci,]2-ions
+In this reaction, you will notice a change in coordination number, a
+change in colour, and a change in shape. However, the oxidation state
+of the copper remains as +2. Chloride ligands are larger in size than
+the water ligands, so fewer chloride ligands can fit round the central
+Cu2+ ion. This explains the change in coordination number (Figure 4).
+Reactions of aqueous chromium(III) ions
+When chromium(III) potassium sulfate, KCr(SO2), 12(H,O),
+also known as chrome alum, is dissolved in water, the complex
+ion [Cr(H,O).]3+ is formed. This is a pale purple solution. When
+chromium(III) sulfate is dissolved in water, a green solution containing
+chromium(III) is formed. However, this solution is not [Cr(H,O) 15+,
+rather it is the complex ion [Cr(H,O) S0,1t, where one of the water
+ligands has been replaced by the sulfate ion, SO -. Both the purple
+and green solutions, contain chromium(III) ions in oxidation state +3.
+A Figure 5 The colours of aqueous
+solutions of chrome alum (left) and
+chromium(III) sulfate (right)
+Cr(OH) [Cr(NH3)3+
+I
+Reaction with ammonia
+[Cr(H,0))+ takes part in a ligand substitution reaction with an excess
+of aqueous ammonia forming the complex ion [Cr(NH2).]3+. When
+the ammonia is added drop-wise to the chromium(III) solution, the
+reaction takes place in two distinct steps.
+1 Initially a grey-green precipitate of Cr(OH)2 is formed.
+2 The Cr(OH), precipitate dissolves in excess ammonia to form
+the complex ion [Cr(NH3),13+.
+A Figure 6 The colours of the Cr(OH
+precipitate and [Cr(NH3)]3+ ions
+414
+24.4 Ligand substitution and
+precipitation
+Specification reference: 5.3.1
+Ligand substitution reactions
+A ligand is a molecule or ion that donates a pair of electrons to a
+central metal ion to form a coordinate or dative covalent bond.
+A ligand substitution reaction is one in which one ligand in a
+complex ion is replaced by another ligand.
+Reactions of aqueous copper(11) ions
+When copper(II) sulfate is dissolved in water, the pale blue complex
+ion, [Cu(H2O),12+ is formed in aqueous solution.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ ligand substitution reactions
+of [Cu(H,0)]2+ and
+[Cr(H20)613+
+biological importance of iron
+in haemoglobin
+→ precipitation reactions with
+aqueous sodium hydroxide
+and aqueous ammonia.
+Ligand substitution with ammonia
+When an excess of aqueous ammonia is added to a solution containing
+[Cu(H,0).12+ the pale blue solution changes colour to form a dark blue
+solution. The equation below shows this ligand substitution reaction.
+[Cu(H20).12+ (aq) + 4NH3(aq) → [Cu(NH3)4 (H20)2]2+ (aq) + 4H2O(1)
+pale blue solution
+dark blue solution
+In the reaction, four ammonia ligands have replaced four of the water
+ligands. Both [Cu(H20),12+ (aq) and [Cu(NH3)4(H20),]2+(aq) are
+octahedral complex ions.
+The chemistry of this reaction is a little more complex than it first seems.
+When carrying out qualitative analysis, you should always add the
+reagent (ammonia) drop-wise to the solution under test (in this case,
+the [Cu(H2O),12+(aq) solution) so that all observations are recorded.
+If you are careful you will see two different reactions taking place:
+• A pale blue precipitate of Cu(OH), is formed in the first stage of
+the reaction.
+The Cu(OH), precipitate then dissolves in excess ammonia to form
+a dark blue solution.
+The colour changes are shown in Figure 1.
+[Cu(H,0)612+ Cu(OH); [Cu(NH3),(1,0),12-
+OH
+12+
+Cu
+H2011), OH
+SOHz
+OH2 ]
+H2O
+OH 12+
+H3N/m, .NH3
+HENNHE
+**Cu
+OH2
+Figure 2 The complexions
+[Cu(H,0)]2+ and [Cu(NH,) (H20),12+
+both have octahedral shapes. In
+[Cu(NH2).(H20),12+, the four NH, ligands
+are arranged in the same plane with the
+two H, ligands above and below
+A Figure 1 The stepwise addition of ammonia to [Cu(H,0).]2+
+413
+24
+TRANSITION ELEMENTS
+Study tip
+B Worked example: Oxidation numbers of ions
+containing transition elements
+Find the oxidation number of the transition element in each of
+the ions MnO,, Cr,0,2-, and Voz
+Mno, (Mn) + (-2 x 4) = -1 Mn has an oxidation number
+of +7.
+Cr,0,2- (Cr x 2) + (-2 x 7) =-2 Each Cr has an oxidation
+2Cr = +12.
+number of +6.
+vo, (V) + (-2 x 3) = -1 V has an oxidation number
+of +5.
+You will be expected to work out
+the oxidation states of transition
+metal ions in compounds using
+the rules for assigning oxidation
+states that you first met in
+Topic 4.3, Redox.
+Figure 5 Transition metal compounds
+dissolve in water to form brighly
+coloured solutions
+Formation of coloured compounds
+Compounds and ions of transition elements are frequently coloured.
+Potassium dichromate(VI) is bright orange, cobalt(II) chloride is
+pink-purple, nickel(II) sulfate is green, whilst hydrated copper(II)
+sulfate is blue. The solid compounds can be dissolved in water to
+produce coloured solutions.
+The colour of a solution is linked to the partially filled d-orbitals of the
+transition metal ion. The colour of a solution can vary with different
+oxidation states.
+For example, iron forms two common oxidation states, +2 and +3, in
+its compounds. The oxidation states form different coloured solutions:
+Iron (II) Fe2+ 1s22s22p 3s 3p%3d - pale green
+Iron(III) Fe3+ 1s 2s 2p 3s 3p 3d - yellow
+Chromium forms two common oxidation states, +3 and +6 in its
+compounds. The oxidation states form different coloured solutions:
+Cr(III) - green
+Cr(VI) - yellow or orange
+Figure 6 The colours of iron in
+oxidation state +2 (left) and +3 (right)
+Transition metals as catalysts
+A catalyst is a substance that increases the rate of a chemical reaction
+without itself changing. A catalyst works by providing an alternative
+reaction pathway with a lower activation energy.
+Transition metals and their compounds are important catalysts used in
+a variety of industrial processes and in the laboratory.
+The Haber process for the manufacture of ammonia from the
+reaction between nitrogen and hydrogen. The reaction is catalysed
+by a finely divided iron catalyst:
+N2(g) + 3H2(g) = 2NH2(g)
+The Contact process in the production of sulfur trioxide from
+the oxidation of sulfur dioxide. The reaction is catalysed by
+vanadium(V) oxide, V,05(s):
+2502(g) + O2(g) = 2503(g)
+Figure 7 The colours of chromium in
+oxidation state as Cr,0,2, +6 (left) and
+as Cr3+, +3 (right)
+403
+24.3 Stereoisomerism in
+complex ions
+Specification reference: 5.3.1
+Stereoisomers
+Stereoisomers have the same structural formula but a different
+arrangement of the atoms in space. Complex ions can display two
+types of stereoisomerism:
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ cis-trans isomerism
+→ optical isomerism
+→ the role of cis-platin in the
+treatment of cancer.
+cis-trans isomerism
+optical isomerism.
+Stereoisomerism is also very important for organic chemistry.
+For complex ions, the type of stereoisomerism depends on the number
+and type of ligands that are attached to the central metal ion, and the
+shape of the complex.
+Some four-coordinate and six-coordinate complex ions containing
+two different monodentate ligands show cis-trans isomerism.
+Some six-coordinate complex ions containing monodentate and
+bidentate ligands can show both cis-trans and optical isomerism.
+Synoptic link
+In Topic 13.2, Stereoisomerism,
+you met cis-trans and E/Z
+stereoisomerism in alkenes. You
+will meet optical isomerism in
+organic chemistry in Topic 27.2,
+Amino acids, amides, and chirality.
+Cis-trans isomerism in complex ions
+In organic chemistry, cis-trans stereoisomerism requires the presence
+of a C=C double bond which prevents rotation of groups attached to
+each carbon atom of the C=C bond.
+In complex ions, no double bond is involved and the shape of the
+complex holds groups in different orientations about the central
+metal ion.
+Cis-trans isomerism occurs in some square planar and octahedral
+complex ions.
+Cis-trans isomerism in square planar complexes
+The simplest example of cis-trans isomerism is found in four coordinate
+square planar complexes that have no more than two identical ligands
+attached to the central metal ion. The complex [Pd(NH),Cl2], formed
+from the Pd2+ ion, two NH, ligands and two Cl- ligands, shows cis-trans
+isomerism (Figure 1).
+In square planar complexes the ligands are arranged in the same plane
+at the corners of a square with 90° bond angles. In the cis-isomer,
+the two identical groups are adjacent to each other, whereas in the
+trans-isomer the two identical groups are opposite each other. In the
+cis-isomer the coordinate bonds between the identical ligands are 90°
+apart. In the trans-isomer the coordinate bonds between the identical
+ligands are 180° apart.
+Synoptic link
+See Topic 24.2, The formation and
+shapes of complex ions, for details
+of square planar complex ions.
+409
+24
+24.3 Stereoisomerism in complexions
+1800
+H3N
+H3N
+33$*******
+wum C/
+IZUZEU
+Pd
+900
+Pd
+H3N
+NH3
+cis
+trans
+A Figure 1 The cis and trans isomers of [Pd(NH3)2012]
+You should represent these isomers in three dimensions as shown in
+Figure 2.
+HaN
+Han med?
+.
+PM ****|||II C
+HƏN
+NH
+cis
+trans
+Figure 2 The cis and trans isomers of [Pd(NH),C1,) shown in three dimensions
+Cis-trans isomerism in octahedral complexes
+Monodentate ligands
+Octahedral complexes containing four of one type of ligand and two
+of another type of ligand can also exist as cis and trans isomers. Alfred
+Werner, a chemist studying in Zurich, successfully explained that there
+were two isomers of the compound, [CO(NH),C1,]+, one violet in
+colour, the other green. The cis and trans isomers of [Co(NH2),C1,]+ are
+shown in Figure 3.
+H3N
+HƏN
+Co
+kumam NH
+1800
+HƏN
+NH:
+H3N
+NH3
+NH3
+cis
+trans
+green
+violet
+Figure 3 The cis and trans isomers of (Co(NH) C1,1+
+In the cis-isomer the two chloride ligands are adjacent to each
+other with their coordinate bonds separated by 90°, whereas in the
+trans-isomer the two chloride ligands are at opposite corners of the
+octahedron, with their coordinate bonds 180° apart. You will need to
+draw the two isomers showing the three-dimensional arrangement of
+the atoms as shown in Figure 4.
+410
+24
+24.1 d-block elements
+Synoptic link
+Catalysis was discussed in detail
+in Topic 10.2, Catalysts.
+The hydrogenation of vegetable fats in the manufacture of
+margarine uses nickel as the catalyst:
+H H
++ H2
+H
+The catalytic decomposition of hydrogen peroxide forming oxygen
+uses manganese (IV) oxide, MnO,(s), as the catalyst:
+24,02(aq) → 2H2O(l) + O2(g)
+These are all examples of heterogeneous catalysis, as the catalyst is
+in a different state to the reactants. However, some chemical reactions
+are catalysed by homogeneous catalysts where the catalyst is in
+the same physical state as the reactants. For example, the reaction
+between iodide ions and peroxodisulfate ions, S,0,2-, is catalysed by
+Fe2+(aq) ions, with reactants and catalyst all in aqueous solution. The
+overall reaction is shown below.
+,0,-(aq) + 21- (aq) → 250,- (aq) + 1(aq)
+When the reaction is carried out with a trace of starch, a blue-black
+colour forms showing the formation of iodine. If this experiment
+is repeated, with a small amount of Fe2+(aq) added, the blue-black
+solution forms much more quickly demonstrating the catalytic action
+of the transition metal ion. The equations below show how Fe2+(aq)
+ions catalyse the reaction:
+Fe2+ (aq) reacts 3,0,2-(aq) + Fe2+ (aq) + 250,- (aq) + Fe3+(aq)
+Fe2+ (aq) regenerated Fe3+ (aq) + 21- (aq) → 12(aq) + Fe2+ (aq)
+So although Fe2+ is used up in the first step, it is regenerated in the
+second step. Overall Fe2+ ions are not consumed.
+The reaction of zinc metal with acids is catalysed by the presence of
+Cu2+(aq) ions, for example:
+Zn(s) + H2SO4(aq) → ZnSO4(aq) + H2(g)
+Study tip
+You should be able to combine the
+equations from each step to obtain
+the overall equation.
+Summary questions
+1 State three properties of the transition elements that are different
+from other metals.
+(3 marks)
+2 Scandium is classified as a d-block metal but not as a transition metal.
+Explain why.
+(2 marks)
+3 What is the oxidation state of:
+a iron in Fe,
+b chromium in K, Cro
+C vanadium in VOCI,
+d copper in Cuci, 2-
+(1 mark)
+(1 mark)
+(1 mark)
+(1 mark)
+4 Explain why zinc compounds dissolve in water to form colourless
+solutions.
+(2 marks)
+404
+24
+24.3 Stereoisomerism in complexions
+Optical isomers can also be seen in complexes containing three
+bidentate ligands. Figure 8 shows the two optical isomers of
+[Ru(NH,CH,CH_NH_)312+.
+HC
+NH2 Hy
+HON
+H NI. LUNCH
+H2C — NI
+NH
+D...
+HNL HK
+N-CH2
+NH2
+H2 HN
+HC
+NH, H2
+CH2
+Ha
+A Figure 8 The two optical isomers of (Ru(NH2CH2CH2NH2) 312+
+The role of cis-trans isomerism in medicine
+Scientists researching the effect of electric fields on
+bacteria found that when platinum electrodes were used
+to apply an electrical current to a colony of E.coli, the
+E.coli failed to divide but continued to grow.
+How does cis-platin work?
+Cis-platin works by forming a platinum complex inside
+of a cell which binds to DNA and prevents the DNA of the
+cell from replicating. Activation of the cell's own repair
+mechanism eventually leads to apoptosis, or systematic
+cell death.
+H3N
+..
+The scientists initially thought
+that the electric current was
+preventing cell division. It
+was later discovered that
+a platinum compound was
+being formed at an electrode.
+This compound is cis-platin
+(Figure 9).
+| HN
+Oxaliplatin (Figure 10) is used for treatment of
+colorectal cancer.
+Figure 9 The structure
+of cis-platin
+Pt
+1
+After carrying out further research and clinical tests it
+was proven that cis-platin did indeed attack tumours and
+in many cases the tumours were seen to shrink in size.
+Unfortunately cis-platin has many unpleasant side effects
+and can lead to kidney damage.
+A Figure 10 Oxaplatin
+Cis-platin is still used extensively in the treatment of
+cancer, whilst other clinical trials continue into finding
+other platinum-based drugs that may inhibit tumour
+growth without the side effects.
+a Identify the ligands that make up oxaliplatin by
+name and structure.
+b What is the coordination number and the charge of
+the platinum ion in oxalaplatin?
+Summary questions
+1 Draw the structure of the following complexions:
+a cis-[Co(NH).(H,0), 12+
+b trans-[Ru(NH,CH_CH_NH_),CI»).
+(1 mark)
+(1 mark)
+2 Describe the role of cis-platin as a medicine.
+(2 marks)
+3 Show the structures of the types of isomerism found in the transition
+metal complex [Co(C20)2(H20)2].
+(2 marks)
+412
+24
+24.2 The formation and shapes of complexions
+Study tip
+Ligands usually contain a lone pair
+of electrons.
+Common ligands in transition metal chemistry
+A ligand is any molecule or ion that can donate a pair of electrons to
+a central metal ion. Some ligands like water are neutral and have no
+charge, whereas other ligands like the hydroxide ion are negatively
+charged
+Monodentate ligands
+A ligand that is able to donate one pair of electrons to a central metal
+ion is called a monodentate ligand. Some monodentate ligands are
+shown in Table 1.
+Table 1 Common monodentate ligands
+Name
+water
+ammonia
+Monodentate ligands
+Formula _ Charge on ligand
+H,0:
+neutral
+:NH,
+neutral
+:C1-
+-1
+: CN
+-1
+:OH
+chloride
+cyanide
+hydroxide
+Bidentate ligands
+Some ligands can donate two lone pairs of electrons to the central
+metal ion, forming two coordinate bonds. These ligands are called
+bidentate ligands. The most common bidentate ligands are
+1,2-diaminoethane (frequently shortened to en) and the ethanedioate
+(oxalate) ion. Figure 3 shows these ligands and lone pairs that may be
+able to bond to the central metal ion.
+Study tip
+HH
+HN—C—C—NH2
+If you are given an unfamiliar
+ligand, it is important that you
+show how the ligands bond to the
+central metal ion. A good place to
+start is with nitrogen and oxygen
+atoms as they often have lone
+pairs of electrons.
+HH
+1,2-diaminoethane
+ethanedioate ion
+(oxalate ion)
+Ha
+H2G
+NH2 H2
+H2N/1/11
+Co.
+Figure 3 The structures of the 1,2-diaminoethane and
+ethanedioate (oxalate) ligands
+In 1,2-diaminoethane, each nitrogen atom donates a pair of
+electrons to the central metal ion forming a coordinate bond. In the
+ethanedioate ion each negatively-charged oxygen atom donates a
+lone pair of electrons to the central metal ion.
+An example of a complex ion containing a bidentate ligand is
+[CO(NH,CH,CHNH_)31+ (Figure 4).
+In this complex:
+the oxidation number of Co is +3
+the coordination number is 6 because there are three
+1,2-diaminoethane ligands and each ligand forms two
+coordinate bonds.
+HON
+-
+CH,
+7
+NH2 H2
+H2
+Figure 4 The complexion
+[CO(NH,CH,CH_NH);]3+ is an example
+of a complex containing a bidentate
+ligand
+406
+24.2 The formation and shapes of
+complex ions
+Specification reference: 5.3.1
+Complex ions
+One of the most important properties of the d-block elements is their
+ability to form complex ions. When solid hydrated copper(II) sulfate,
+CuS0, 51,0, is dissolved in water, a blue solution forms containing
+the complex ion [Cu(H2O),12+ (Figure 1). Complex ions are not
+restricted to d-block elements - other elements such as aluminium can
+also form complex ions.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the formation of dative
+covalent bonds between
+metal ions and ligands in the
+formation of complex ions
+examples of complex ions
+with four and six coordination
+and their associated shapes.
+The formation of complex ions
+A complex ion is formed when one or more molecules or negatively
+charged ions bond to a central metal ion. These molecules or ions are
+known as ligands.
+A ligand is defined as a molecule or ion that donates a pair of
+electrons to a central metal ion to form a coordinate bond or
+dative covalent bond.
+A dative covalent bond or coordinate bond, a special kind of
+covalent bond, is formed when one of the bonded atoms provides
+both of the electrons for the shared pair.
+The coordination number indicates the number of coordinate
+bonds attached to the central metal ion.
+Representing complexions
+In its formula, the complex ion is enclosed inside square brackets
+with the overall charge of the complex shown outside of the square
+brackets. The overall charge on a complex ion is the sum of the
+charges on the central metal ion and any ligands present.
+Figure 1 Hydrated copper(II) sulfate,
+CuSO, 5H20, dissolves in water to form
+a blue solution containing [Cu(H20)]2+
+complex ions
+An example of a complex ion is [Cr(H2O),]+, formed when
+CrCl,H,O is dissolved in water. Cr3+ is the central metal ion - water
+acts as a ligand with each water molecule donating a lone pair of
+electrons from the oxygen atom to the central metal ion to form
+a coordinate bond. The coordination number is 6 as there are six
+coordinate bonds to the central metal ion (Figure 2).
+OH
+3+
+OH2
+Square brackets
+are used to group
+all of the parts of
+the complex ions
+together.
+The overall charge
+of the complex
+is shown outside
+square brackets.
+Cr
+OH2
+The ligand is inside round
+brackets. The number of
+ligands is shown outside
+the round brackets.
+Figure 2 The complexion (Cr(H20)]3+
+Each water ligand donates a lone pair to the
+chromium ion to form a coordinate bond
+405
+24
+TRANSITION ELEMENTS
+Study tip
+HaN M
+ass
+Countill C/
+".co
+... ****00011 NH
+HIN
+NH3
+H2N
+NH3
+When drawing isomers you should
+ensure that the bond to the metal
+ion comes from the atom in the
+ligand that has the lone pair. In
+Figure 4, this is from the chloride
+ions and the nitrogen atom of the
+NH, ligands.
+NH3
+cis
+trans
+A Figure 4 Three-dimensional diagrams to illustrate the cis and trans isomers of
+[CO(NH3),C1,]+
+HH
+Bidentate ligands
+Octahedral complexes containing bidentate ligands can also show
+cis-trans isomerism. Figure 5 shows the structure of the bidentate
+ligand 1,2-diaminoethane, NH,CH,CH NH,. Each nitrogen atom in
+H2NCH,CH,NH, can form a coordinate bond to the central metal ion.
+The complex ion [CO(NH,CH,CH,NH,),C1,1+ has cis and trans isomers.
+These are shown in Figure 6.
+H N—_—¢-NH2
+H H
+Figure 5 The ligand 1,2-diaminoethane
+C1
+Hz
+HC -
+CH
+H2C-N7W,
+| H2CM
+JICI
+NH2
+NH,
+H.C-NL
+-
+N-CH
+H2 HN
+CH2
+Study tip
+1,2-diaminoethane, NH,CH,CH_NH,
+is such a common bidentate ligand
+that it is often abbreviated to en.
+So you may see the formula for the
+complex [Co(NH,CH,CH_NH2),CI_]*
+shown more simply as
+[Co(en),C1,]*. Unless otherwise
+told, you should show the full
+formula of NH,CH_CH_NHz.
+cis
+trans
+A Figure 6 The cis and trans isomers of [CO(NH2CH2CH2NH2)2C1_]+
+Optical isomerism in octahedral complexes
+Optical isomerism only occurs in octahedral complexes containing two
+or more bidentate ligands. Optical isomers, called enantiomers, are
+non-superimposable mirror images of each other, like a left hand and
+a right hand.
+The cis isomer with formula [Co(NH,CH,CH,NH,),C1,]+ shown in
+Figure 6 also exists as two optical isomers. Trans-isomers cannot form
+optical isomers as a mirror image is exactly the same and can be
+superimposed. The two optical isomers of [Co(NH,CH,CH,NH2),C1,]
+are shown in Figure 7.
+7
+CI
+H2
+1
+CI
+Cl.........N
+ÇH2
+Co
+H2C— NICI
+H2C-N INH,
+N – CH2
+H2 H N
+NH, H2
+HC
+CH2
+A Figure 7 The two optical isomers of [CO(NH_CH_CH_NH)2C1_]+
+411
+24
+Chapter 24 Practice questions
+Practice questions
+1 Elements in the d-block of the periodic table
+form ions that combine with ligands to form
+complex ions. Most d-block elements are also
+classified as transition elements.
+a Explain why two of the Period 4 d-block
+elements (Sc-Zn) are not also transition
+elements. In your answer you should
+link full electron configurations to your
+explanations.
+(6 marks)
+b The cobalt(III) ion, Co3+, forms a complex
+ion A with two chloride ligands and two
+1,2-diaminoethane, H,NCH,CH,NH,,
+ligands. The structure of 1,2-diaminoethane
+is shown below.
+Experiment 1 Aqueous sodium hydroxide
+is added to solution X. An orange-brown
+precipitate B forms.
+Experiment 2 Excess zinc powder is added
+to solution X and the mixture is heated. The
+excess zinc is removed leaving a pale-green
+solution containing the complex ion C and
+aqueous Zn2+ ions.
+Experiment 3 An excess of aqueous
+potassium cyanide, KCN(aq), is added to
+solution X. The solution turns a yellow colour
+and contains the complex ion E. E has a
+molar mass of 211.8 g mol-.
+Experiment 4 An aqueous solution
+containing ethanedioate ions, (COO), is
+added to solution X. A coloured solution
+forms containing a mixture of optical isomers
+F and G. The structure of the ethanedioate
+ion is shown below.
+H2N
+NH2
+(i) Explain how ethanediamine is able to
+act as a bidentate ligand. (2 marks)
+(ii) Write the formula of complex ion A.
+(1 mark)
+(iii) What is the coordination number of
+cobalt in complex ion A? (1 mark)
+(iv) Complex ion A has cis and trans
+stereoisomers. One of these
+stereoisomers also has an optical
+isomer.
+Draw 3-D diagrams to show the three
+stereoisomers.
+(3 marks)
+c The equilibrium reaction for the transport
+of oxygen by haemoglobin (Hb) in blood
+can be represented as Equation 1.
+Hb(aq) + 0,(aq) → HbO, (aq) Equation 1
+Explain how ligand substitution
+reactions allow haemoglobin to
+transport oxygen in blood. (2 marks)
+OCR F325 June 14 Q5
+Iron is heated with chlorine to form an
+orange-brown solid, A. Solid A is dissolved in
+water to form an orange-brown solution, X,
+containing the complex ion [Fe(H,0),]+.
+Separate portions of solution X are reacted as
+shown in Experiments 1-4 below.
+a Write an equation for the formation
+of solid A.
+(1 mark)
+b In Experiment 1, write an ionic equation
+for the formation of precipitate B. (1 mark)
+In Experiment 2:
+(i) write an equation for the formation
+of complex ion C
+(2 marks)
+(ii) state the type of reaction taking place.
+(1 mark)
+In Experiment 3:
+(i) write an equation for the formation
+of complex ion E
+(ii) state the type of reaction taking place.
+(3 marks)
+e In Experiment 4, optical isomers F and
+G are formed.
+Show the 3-D shapes of F and G. In your
+diagrams, show the ligand atoms that are
+bonded to the metal ions and any overall
+charges.
+(3 marks)
+2
+422
+24
+TRANSITION ELEMENTS
+Table 3 Tests for solutions containing one or more unknown anions
+Anion Chemical test Observations and equations
+add dilute nitric effervescence as carbon dioxide is evolved:
+carbonate, CO,?-
+acid, HNO (aq) CO2-(aq) + 2H+(aq) 60, (g) +H,00
+white precipitate of BaSO, is formed:
+add Ba2+(aq)
+sulfate, 50,-
+ions
+Ba2+(aq) + S0, ?- (aq) BaSO4(s)
+• white precipitate of AgCl if Clions
+present, soluble in dilute NH, (aq):
+Ag+ (aq) + C1- (aq) AgCl(s)
+cream precipitate of AgBr if Brions
+halide ions add Ag+ (aq)
+present, soluble in concentrated
+Cl, Br", or ions
+NH, (aq).
+yellow precipitate of Agl if l-ions
+present, soluble in concentrated
+NH3(aq).
+Summary questions
+(1 mark)
+1 a What is meant by the term disproportionation?
+b Use oxidation states to show that the following reaction is
+an example of disproportionation:
+CI, (g) + H20(1) HCl(aq) + HOCI (aq)
+(2 marks)
+2 Describe a simple chemical test to distinguish between each
+of the following pairs of compounds:
+a NaCl and Nal
+b Cuso, and FeSO4
+c CuO and Cu,o
+d FeCl, and FeCl
+(1 mark)
+(1 mark)
+(1 mark)
+(1 mark)
+3 Using the following redox systems, write equations for six reactions that
+can occur.
+(6 marks)
+EⓇ/V
+-0.76
+Redox system
+Zn2+(aq) + 2e =Zn(s)
+Cr3+ (aq) + e = Cr2+(aq)
+Cr,0,-(aq) + 14H+ (aq)+ 6 = 2Cr3+ (aq) +7H,00)
+H,0, (aq) + 2H+(aq) + 2 =2H,000
+-0.41
++1.33
++1.77
+421
+24
+TRANSITION ELEMENTS
+Study tip
+For practice, combine the half
+equations from Table 1 to give the
+overall equations shown for the
+reaction of Fe2+ with MnO,/Hand
+the reaction of Fe3+ with I.
+Reactions of dichromate(VI), Cr,0,2-, and
+chromium(III), Cr3+
+Reduction of Cr,0,2-to Cr3+
+Aqueous dichromate(VI) ions, Cr, 0.-(aq), have an orange colour
+and aqueous chromium(III) ions, Cr+ (aq), have a green colour,
+Acidified Cr, 0.-(aq) ions can be reduced to Cr3+(aq) ions by the
+addition of zinc as shown in Figure 2. The equation for the reaction
+is shown below:
+Cr,02-(aq) + 14H+ (aq) + 3Zn(s) → 2Cr3+ (aq) + 7H,O(1) + 3Zn2+ (aq)
+orange
+green
+With an excess of zinc, chromium(III) ions are reduced further to
+chromium(II), which is a pale blue colour (Figure 2).
+Zn(s) + 2Cr3+(aq) → Zn2+ (aq) + 2Cr2+ (aq)
+green
+pale blue
+Table 2 shows the relevant standard electrode potentials for these two
+reactions.
+A Figure 2 Cr,0?- (left), Cr3+ (centre)
+and Cr2+(right)
+Table 2 Standard electrode potentials for chromium redox reactions
+EⓇ/V
+More positive E value.
+-0.76
+Redox system
+Zn2+(aq) + 2e = Zn(s)
+Cr3+(aq) + = Cr2+(aq)
+Cr,0,2-(aq) + 14H+(aq)+6e = 2Cr3+(aq) + 7H,0(1)
+-0.41
+Equilibrium more likely to gain electrons,
+shift to the right and undergo reduction.
++1.33
+Synoptic link
+You will recall the use of electrode
+potentials from Topic 23.4,
+Electrode potentials.
+In Table 2, zinc is the most powerful reducing agent and is capable
+of reducing both Cr, 0,2- to Cr3+ and Cr3+ to Cr2+. This explains why
+Cr, 0,2- can be reduced down to Cr2+.
+Oxidation of Cr3+
+Hot alkaline hydrogen peroxide, H,O,, is a powerful oxidising agent
+and can be used to oxidise chromium(III) in Cr3+ to chromium(VI) in
+Cro,-. The overall equation is shown below.
+31,0, + 2 Cr3+ + 100H → 2Cr0,- + 8H,
+Chromium is oxidised from +3 in Cr3+ to +6 in Cro -
+Oxygen is reduced from -1 in H,0, to –2 in Cro,
+Reactions of copper(11), Cu2+, and copper(i), Cut
+Reduction of Cu2+ to Cut
+When aqueous copper(II) ions, Cu2+, react with excess iodide ions,
+I(aq), a redox reaction occurs.
+. I is oxidised to brown iodine, I,
+Cu2+ is reduced to Cut
+The Cut forms a white precipitate of copper(I) iodide. The
+equation for the reaction is shown below:
+2Cu2+ (aq) + 41- (aq) + 2Cul(aq) + 12 (5)
+pale blue
+white precipitate brown
+Synoptic link
+The oxidation of Cr3+ to CrO2-
+by alkaline hydroxide ion was
+discussed in detail in Topic 23.1,
+Redox reactions.
+419
+24
+TRANSITION ELEMENTS
+Synoptic link
+Shapes of complex ions
+The shape of a complex ion depends upon its coordination number.
+The commonest coordination numbers are six and four giving rise to
+six-coordinate and four-coordinate complexes.
+See Topic 6.1, Shapes of molecules
+and ions, for further details of
+showing 3D shapes.
+OH,
+90°
+H2011111
+OH2
+Six-coordinate complexes
+Many complex ions have a coordination number of six, giving an
+octahedral shape.
+When manganese sulfate, MnSox, is dissolved in water, the complex
+ion [Mn(H20),]2+ is formed. This has an octahedral shape with bond
+angles around the manganese of 90° (Figure 5). The complex ion
+[Co(H,NCH,CH NH,)313+ shown in Figure 4 is also octahedral, with
+bond angles of 90°, as it has six coordinate bonds.
+H 0
+OH2
+OH2
+A Figure 5 (Mn(H20) 12+ has an
+octahedral shape with a bond angle
+of 90°
+Four-coordinate complexes
+Complexes with a coordination number of four have two common
+shapes - tetrahedral and square planar.
+Tetrahedral complexes
+The tetrahedral shape is by far the more common of the two shapes,
+with bond angles of 109.5° around the central metal ion. [CoCl212- and
+[Cucl,12- are common examples of complexes that have a tetrahedral
+shape (Figure 6).
+CI 12-
+109.5°
+CI 72-
+109.5°
+COMICI
+Cu.,)
+La
+CI
+CI
+[CoC1412-
+[CuC1412-
+A Figure 6 [CoCl, 12- and [Cuci,]2- have a tetrahedral shape with a bond angle of 109.5°
+Study tip
+You will be expected to draw 3D
+shapes of complex ions.
+Square planar complexes
+A square planar shape occurs in complex ions of transition metals
+with eight d-electrons in the highest energy d-sub-shell. Platinum(II),
+palladium(II), and gold (III) fall in this category and tend to form
+square planar complexes. The structure of the [Pt(NH).12+ complex
+ion is shown in Figure 7. In this shape, the ligands are arranged at the
+corners of a square, similar to the octahedral shape but without the
+ligands above and below the plane.
+H3N
+90°
+INH, 12+
+H3N
+NH3
+A Figure 7 [Pt(NH3).]2+ has a square planar shape with a bond angle of 90°
+407
+24
+24.2 The formation and shapes of complexions
+Colours in transition metal chemistry
+In general, the colour of a complex ion depends upon the
+metal at the centre of the complex, its oxidation state, and
+the ligands that are coordinately bonded to the central
+metal ion. For a compound to have colour it must absorb
+visible light. The visible spectrum is shown in Figure 8.
+When a compound absorbs visible light, the colour seen is
+the sum of the remaining colours that are not absorbed. If
+a compound absorbs all wavelengths of visible light, the
+compound will appear black. If a compound absorbs the
+wavelengths of every colour except blue, the compound
+will appear blue.
+If magenta is absorbed by a sample then the colour
+observed is green, on the opposite side of the colour chart
+(Figure 9). Similarly if the wavelengths of blue and red
+light are absorbed, the compound will appear green.
+700 600 500
+wavelength/nm
+A Figure 8 The visible spectrum
+400
+Solutions containing [Cu(H,0)]2+ ions absorbs red
+light. The colour on the opposite side of the chart, the
+complementary colour, is cyan (Figure 9). [Cu(H,
+forms a pale blue solution.
+red
+red
+yellow
+green
+greer
+white
+Chromium(VI) solutions absorb green, cyan, blue, and
+magenta. Chromium(VI) is orange.
+magenta
+Cyan
+blue
+What colour are the following complexes?
+a [Co(NH), H,0]3+ which absorbs cyan.
+b [Co(CN) 13-which absorbs blue.
+Figure 9 Colour chart. The complementary colour to blue
+is yellow as it is on the opposite side of the diagram
+Summary questions
+1 Define the terms:
+a complexion
+b coordination number
+c ligand.
+(1 mark)
+(1 mark)
+(1 mark)
+2 A complex of chromium contains a chromium(III) ion bonded to four
+water molecules and two chloride ions.
+a State the formula of the complex ion.
+(1 mark)
+b Draw the complex ion, state the shape of the complex, and indicate
+on the diagram appropriate bond angles.
+(3 marks)
+3 [Fe(H,0).]2+ reacts with the bidentate ligand 1,10-phenanthroline
+(phen) to form an orange-red complex [Fe(phen)]2+. The structure of
+1,10-phenanthroline is shown below.
+Draw the structure of the complex.
+(2 marks)
+408
+24
+24.5 Redox and qualitative analysis
+copper(II), Cu2+ iodide ions,
+iodine, l
+If you look carefully in Figure 3, you can see the white precipitate
+of copper(I) iodide at the bottom of the brown solution that forms.
+The white colour is somewhat masked though by the brown iodine
+colour.
+Disproportionation of Cutions
+When solid copper(I) oxide, Cu,O, reacts with hot dilute sulfuric
+acid, a brown precipitate of copper is formed together with a
+blue solution of copper (II) sulfate. In this reaction copper(I)
+ions, Cut, have been simultaneously oxidised and reduced. As
+the same element has been reduced and oxidised, this reaction is
+disproportionation.
+copper(I) iodide
+precipitate
+Figure 3 Copper(11) ions reacts with
+iodide ions to form copper(1) iodide and
+iodine
+reduction
+Cu: +1 -0
+blue solution
+Cuso (aq)
+Cu 0(s) + H,50,(aq) +
+Cu(s)
++
++
+H2O(1)
+Synoptic link
+brown solid
+oxidation
+Cu: +1 +2
+See Topic 23.3, lodine/thiosulfate
+titrations, for the use of the reaction
+between Cu2+ and I in analysis.
+Qualitative analysis
+Identifying positive ions
+Synoptic link
+See Topic 8.2, The halogens, for other
+examples of disproportionation.
+Transition metal ions
+Aqueous sodium hydroxide produces precipitates with aqueous transition
+metal ions. These reactions can be used for identifying transition metal
+ions in an unknown solution. The observations for these reactions are
+summarised in Topic 24.4, Table 1.
+Ammonium ions, NH +
+When heated with hydroxide ions, NH, reacts to produce ammonia
+gas, NH3-
+NH,+ (aq) + OH(aq) → NH3(g) + H2O(l)
+To test for the ammonium ion, aqueous sodium hydroxide, NaOH(aq).
+is heated gently with the solution being analysed. If ammonia is
+evolved, damp red pH indicator paper will turn blue, confirming the
+presence of NH + ions.
+Synoptic link
+See Topic 8.3, Qualitative analysis,
+for further details of the cation test
+for ammonium ions, NH, +, and the
+anion tests for carbonate, C0-,
+sulfate, SO2-, and halide ions,
+CI-, Br,l.
+Identifying anions (negative ions)
+Tests can be used to identify anions in solutions of unknown
+compounds. Where the tests are being carried out on the same
+solution it is important to carry them out in the same order as they are
+presented in Table 3.
+420
+24.5 Redox and qualitative analysis
+Specification reference: 5.3.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the redox reactions and the
+accompanying colour changes
+for the Fe2+ / Fe3+ and
+Cr3+ / Cr,0,2-systems
+the redox and
+disproportionation reactions of :
+copper
+→ qualitative analysis of ions on :
+a test-tube scale.
+Redox reactions involving transition metal ions
+Reactions of iron (11), Fe2+, and iron(ili), Fe3+
+Oxidation of Fe2+ to Fe3+
+The redox reaction between iron (II) ions, Fe2+(aq), and manganate(VII)
+ions, MnO,, in acid conditions is used as a basis for a redox titration.
+In this reaction:
+Fe2+ is oxidised to Fe3+
+• MnO,- is reduced to Mn2+.
+The solution containing MnO,-ions is purple and is decolourised by
+Fe2+(aq) ions to form a colourless solution containing Mn2+(aq) ions.
+The equation for the reaction is shown below:
+Mn0,- (aq) + 8H+ (aq) + 5Fe2+(aq) → Mn +(aq) + 5Fe3+ (aq) + 4H2O(l)
+purple
+colourless
+100 m
+Reduction of Fe3+ to Fe2+
+When a solution of Fe3+(aq) reacts with iodide ions, I-(aq), the
+orange-brown Fe3+ (aq) ions are reduced to pale green Fe2+ (aq) ions.
+Unfortunately this colour change is obscured by the the oxidation
+of iodide ions to form iodine, I. (aq), which has a brown colour. The
+equation for this reaction is shown below:
+2Fe3+ (aq) + 21 (aq) →2Fe2+ (aq) + 1,(aq)
+orange-brown
+pale-green brown
+In this reaction:
+Fe3+ is reduced to Fe2+
+. I is oxidised to I,.
+A Figure 1 Mn0,- (left) and Mn2+
+(right)
+Synoptic link
+For more information see Topic 23.2,
+Manganate(VII) redox titrations.
+Using electrode potential to explain redox reactions
+You can use the standard electrode potentials in Table 1 to explain
+why the two redox reactions of iron ions above take place.
+E
+Table 1 Standard electrode potentials for iron redox reactions
+Redox system
+1,(aq) + 2e = 21- (s)
++0.54 V
+Fe3+ (aq) + = Fe2+(aq)
++0.77 V
+MnO, (aq) + 8H+(aq) + 5e = Mn2+(aq) + 4H20 (1) +1.33 V
+More positive Evalue.
+Equilibrium more likely to gain electrons,
+shift to the right and undergo reduction.
+Synoptic link
+See also Topic 23.5 Predictions
+from electrode potential.
+For the reaction of Fe2+ and Mno, in acid conditions:
+. E for MnO, Mn2+ is more positive than for Fe3+ / Fe2+
+• so Fe2+ is oxidised to Fe3+ and MnO, is reduced to Mn²+.
+For the reaction of Fe3+ with 1:
+• E® for Fe3+ / Fe2+ is more positive than for 12/11
+so I is oxidised to I, and Fe3+ is reduced to Fe2+.
+418
+24
+TRANSITION ELEMENTS
+4
+a
+3
+f In a separate experiment, iron metal is
+heated with potassium nitrate, KNO,
+a strong oxidising agent. A reaction
+takes place and the resulting mixture is
+poured into water. A dark red solution
+forms containing ferrate(VI) ions. The
+ferrate(VI) ion has a 2-charge.
+Suggest a possible formula for the
+ferrate(VI) ion.
+(1 mark)
+OCR F325 June 2013 Q5
+This question refers to chemistry of d-block
+elements in Period 4 (Sc-Zn).
+a For each statement below, select the
+symbols of the correct element(s).
+(i) The element that has atoms containing
+six electrons in the 3d sub-shell.
+(1 mark)
+(ii) Two elements that have atoms with
+two unpaired d-electrons. (2 marks)
+(iii) The element with ions that form a
+purple complex with excess ammonia
+(1 mark)
+(iv) The element X that forms an oxide
+with the formula X, 0, with the
+molar mass of 228.7 g mol-l. (1 mark)
+(v) The element that has atoms with an
+average mass of 8.64 x 10-23 g.
+(1 mark)
+b The flowchart below shows three reactions
+of the complex ion [Cu(H,O)]2+.
+In the boxes below, write down the
+formulae of the species formed.
+b
+(iii) Show the 3-D shapes of the
+stereoisomers of the complex ion
+[Ni(en)312+.
+(en = H,NCH,CH NH) (3 marks)
+OCR F325 Jan 2013 QI
+A purple solid, A, containing 13.82%
+Fe, 4.49% H, 10.40% N and 71.28%
+O is dissolved in water to form a pale
+yellow solution, B. 40.12% of the mass
+of A is water. When aqueous sodium
+hydroxide is added to solution B, a brown
+precipitate, C, is formed. When NaSCN
+is added to B, one ligand in B is replaced
+resulting in the formation of a deep red
+solution containing a complex ion, D.
+(i) Deduce the empirical formula of A and
+the number of waters of crystallisation
+in A, showing all working. (4 marks)
+(ii) Identify B, C, and D. (3 marks)
+Niso,•6H,0 is dissolved in water forming
+a green solution containing the complex
+ion, [Ni(H2O).]2+. When the monodentate
+ligand NH, is added to [Ni(H,O),12+,
+a blue complex E is formed where all
+six water ligands have been replaced.
+However when 1,2-diaminoethane, a
+bidentate ligand is added to [Ni(H,O),12+,
+four water molecules are replaced
+resulting in the formation of a purple
+solution F.
+(i) Give the formulae of the complex
+ions E and F.
+(2 marks)
+(ii) Write an equation for the formation
+of E from [Ni(H,O),12+. (1 mark)
+(iii) Explain how 1,2-diaminoethane acts
+as a bidentate ligand. (1 mark)
+(iv) F can form a number of
+stereoisomers.
+Draw and label all of the stereoisomers
+of F and state the type of isomerism.
+(4 marks)
+NH3(aq)
+[Cu(H20)612+
+pale blue solution
+deep blue solution
+HCl(aq)
+NaOH(aq)
+yellow solution
+|| pale blue precipitate
+c
+(3 marks)
+The answers to this question all refer to
+complex ions of nickel.
+(i) State the shape of the complex ion
+[Ni(H20)]2+.
+(1 mark)
+(ii) What is the formula of the complex
+ion of Ni2+ containing six fluoride
+ligands?
+(1 mark)
+423
+24
+TRANSITION ELEMENTS
+Cu(OH),(s) is a blue precipitate which dissolves in excess ammonia to
+form a deep blue solution with the formula, [Cu(NH,) (H,O),]2+ (aq).
+You will find these colour changes in Figure 1.
+For chromium the precipitation reaction is shown below:
+Cr3+ (aq) + 3OH- (aq) → Cr(OH)3(s)
+Cr(OH), is a green precipitate which dissolves in excess ammonia to
+form [Cr(NHz)]3+ (aq) which is a purple solution. You will find these
+colour changes in Figure 6.
+Fe2+, Fe3+, and Mn2+ react with an excess of aqueous ammonia in
+the same way as they react with aqueous sodium hydroxide, forming
+precipitates of Fe(OH),(s), Fe(OH),(s), and Mn(OH),(s). There is no
+further reaction with aqueous ammonia and so these precipitates do
+not dissolve.
+e
+Summary questions
+1 a Write an ionic equation, with state symbols, for the reaction between
+Mn2+ (aq) and aqueous sodium hydroxide.
+(1 mark)
+b A solution of an iron salt reacts with aqueous sodium hydroxide to
+form a red-brown precipitate. Give the formula of the ion present in
+the solution. Write the electron configuration of this ion. (1 mark)
+c Why does an iron(II) hydroxide precipitate changes colour after
+standing in air.
+(1 mark)
+2 When a small amount of ammonia solution is added to Cu2+(aq), the
+reaction taking place is identical to that of Cu2+ (aq) with NaOH(aq).
+a Name, and give the formula of, the preciptate formed when aqueous
+sodium hydroxide (or a small amount of ammonia) is added
+Cu2+ (aq).
+(1 mark)
+b Write an ionic equation, with state symbols, for the formation of this
+product.
+(2 marks)
+c Cu2+(aq) contains the [Cu(H20)]2+ complex ion. When an excess of
+aqueous ammonia solution is added a ligand substitution reaction
+takes place. State the colour change you would expect in this reaction
+and give the formula of the coloured product formed. (1 mark)
+3 When excess concentrated hydrochloric acid is added to an aqueous
+solution of copper(II) ions, the following equilibrium reaction occurs:
+[Cu(H20)]2+(aq) + 4C1-(aq) = [Cuci,]2-(aq) + 6H 0(1)
+a State the colours of [Cu(H,0)]2+(aq) and (Cuci, 12-(aq). (2 marks)
+b The [Cuci, 12-ion formed is tetrahedral in shape. Draw a
+three-dimensional diagram to show the complex ion. State the
+bond angles and coordination number of this complex ion. (3 marks)
+c What type of reaction does the equation above represent? (1 mark)
+d State and explain the expected change in appearance if water is now
+added to the solution.
+(2 marks)
+417

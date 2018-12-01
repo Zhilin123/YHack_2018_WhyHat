@@ -1,0 +1,1358 @@
+16
+PLANT RESPONSES
+High concentrations of auxins suppress the growth of lateral
+shoots. This results in apical dominance. Growth in the main shoot
+is stimulated by the auxin produced at the tip so it grows quickly.
+The lateral shoots are inhibited by the hormone that moves back
+down the stem, so they do not grow very well. Further down the
+stem, the auxin concentration is lower and so the lateral shoots
+grow more strongly. There is a lot of experimental evidence for the
+role of auxins in apical dominance. For example, if the apical shoot
+is removed, the auxin-producing cells are removed and so there is
+no auxin. As a result, the lateral shoots, freed from the dominance
+of the apical shoot, grow faster. If auxin is applied artificially to the
+cut apical shoot, apical dominance is reasserted and lateral shoot
+growth is suppressed.
+Low concentrations of auxins promote
+root growth. Up to a given concentration,
+active
+the more auxin that reaches the roots, the
+apical bud
+more they grow. Auxin is produced by the
+dormant
+root tips and auxin also reaches the roots lateral bud v
+in low concentrations from the growing
+shoots. If the apical shoot is removed, then
+the amount of auxin reaching the roots is
+greatly reduced and root growth slows and
+stops. Replacing the auxin artificially at the
+cut apical shoot restores the growth of the
+with apical bud in place with apical bud removed
+roots. High auxin concentrations inhibit root
+Figure 6 Apical dominance affects the form of a plant and can
+growth.
+clearly be seen in conifers
+Gibberellins
+As you have learnt, gibberellins are involved
+apical bud
+lateral bud
+in the germination of seeds. They are also
+important in the elongation of plant stems
+root
+during growth. Gibberellins affect the length
+of the internodes – the regions between
+the leaves on a stem. Gibberellins were
+discovered because they are produced by a
+auxin concentration
+fungus from the genus Gibberella that affects
+rice. The infected seedlings grew extremely
+tall and thin. Scientists investigated the rice
+and isolated chemicals - gibberellins - which
+produce the same spindly growth in the
+plants. It was then discovered that plants
+Figure 7 Different concentrations of hormones affect different
+themselves produce the same compounds. tissues in different ways - the graph shows the effect of auxin on
+Plants that have short stems produce few or roots, lateral buds, and apical buds
+no gibberellins. There are well over a hundred
+different naturally produced gibberellins. Scientists have bred many Synoptic link
+dwarf varieties of plants where the gibberellin synthesis pathway is
+You learnt about the use of
+interrupted. Without gibberellins the plant stems are much shorter.
+standard deviation to measure
+This reduces waste and also makes the plants less vulnerable to
+the spread of data in Topic 10.6,
+damage by weather and harvesting.
+Representing variation graphically.
+stimulation
+inhibition
+II
+443
+16
+PLANT RESPONSES
+Pheromones
+A pheromone is a chemical made by an organism which affects the
+social behaviour of other members of the same species. Because
+plants do not behave socially, they do not rely a lot on pheromones.
+There are a few instances where they could be regarded as using
+pheromones to defend themselves:
+If a maple tree is attacked by insects, it releases a pheromone which
+is absorbed by leaves on other branches. These leaves then make
+chemicals such as callose to help protect them if they are attacked.
+Scientists have observed that leaves on the branches of nearby trees
+also prepare for attack in response to these chemical signals.
+Figure 3 Human uses for some of the
+compounds produced by plants
+There is some evidence that plants communicate by chemicals
+produced in the root systems and one plant can tell' a neighbour
+if it is under water stress.
+However, plants do produce chemicals called volatile organic compounds
+(VOCs) which act rather like pheromones between themselves and
+other organisms, particularly insects. They diffuse through the air in and
+around the plant. Plants use these chemical signals to defend themselves
+in some amazing ways. They are usually only made when the plant
+detects attack by an insect pest through chemicals in the saliva of the
+insect. This may elicit gene switching. For example:
+When cabbages are attacked by the caterpillars of the cabbage white
+butterfly, they produce a chemical signal which attracts the parasitic
+wasp Cotesia glomerata. This insect lays its eggs in the caterpillars which
+are then eaten alive, protecting the plant. The signal from the plant
+also deters any other female cabbage white butterflies from laying
+their eggs. Scientists estimate up to 90% of cabbage white caterpillars
+are affected by the parasite. If the cabbage is attacked by the mealy
+cabbage greenfly, it sends out a different signal which attracts the
+parasitic wasp Diaretiella rapae which only attacks greenfly.
+When apple trees are attacked by spider mites, they produce VOCs
+which attract predatory mites that come and destroy the apple
+tree pests.
+Figure 4 Foxgloves produce a
+chemical, digitalis, which is toxic to
+mammals - it slows the heart rate. It
+also contains chemicals which cause
+vomiting, so after eating a foxglove leaf
+a small mammal will feel very ill but
+then vomit, removing the toxins. Digitalis
+can kill people too, but drugs based
+on the chemical are also used to treat
+human heart problems and save lives
+Some types of wheat seedling produce VOCs when they have been
+attacked by aphids and these repel other aphids from the plant.
+Sometimes a VOC produced by a plant that has been attacked will
+not only attract predators of the pest organism - it may also act as a
+'pheromone' so that neighbouring plants begin to produce the VOC
+before they are actually attacked.
+Folding in response to touch
+Most plants, with the exception of a few insectivorous plants such as
+the Venus fly trap, move so slowly you cannot follow the movement
+with the naked eye. It is revealed over hours or days, or by time-lapse
+photography. There are, however, some exceptions – the sensitive
+plant Mimosa pudica is one of a small number of plants which move
+at a speed you can see. This plant uses conventional defences against
+herbivores - it contains a toxic alkaloid and the stem has sharp prickles,
+449
+16
+16.3 Plant responses to herbivory
+but if the leaves are touched, they fold down and collapse. Scientists
+think this frightens off larger herbivores, and dislodges small insects
+which have landed on the leaves. The leaf falls in a few seconds, and
+recovers over 10-12 minutes as a result of potassium ion movement
+into specific cells, followed by osmotic water movement. The exact
+causes of the dramatic change in the leaves are still being researched.
+T
+Mimosa pudica - nerves and muscles in plants
+central vascular
+core
+flexor side
+flexor side
+The dramatic leaf-folding in response to touch
+seen in Mimosa pudica seems to be the result of
+chemical changes in some large, fairly thin-walled
+cells found at the bases of the leaves and the
+individual leaflets. These special cells have relatively
+elastic walls and they surround a vascular bundle to
+form a thickened region called a pulvinus, which acts
+rather like a joint (Figure 5). The cells at the top are
+the flexor region and the cells at the bottom are the
+extensor region.
+extensor side
+extensor side
+relaxed state
+bending
+pulvinus relaxed
+pulvinus flexed
+and extended
+and bent
+A Figure 5 The structure of a pulvinus when extended and
+flexed. The best current model for the cellular basis of the
+rapid folding response of Mimosa pudica to touch
+When the leaf is touched, scientists think there is an
+electrochemical change in the cells which results in
+something rather like the action potential in nerve
+cells which causes the active movement of potassium
+ions into the cells on the upper, flexor side of the
+pulvinus, while potassium ions are similarly moved
+out of cells on the lower, extensor side. Water follows
+the potassium ions by osmosis, so turgor in the top
+cells increases and in the lower cells decreases.
+There are elastic tissues in the cells that increase
+this effect. They include actin, one of the proteins
+found in mammalian muscle cells. As a result the
+leaflet, or whole leaf, bends down. When the plant
+recovers the situation is reversed - potassium ions
+return to their resting levels down concentration
+and electrochemical gradients and water follows by
+osmosis. (Figure 6).
+2 min
+3 min
+4 min
+6 min
+12 min
+A Figure 6 The change in angle of pulvinus during recovery
+The initial leaf folding of Mimosa pudica takes seconds
+but recovery takes 10-12 minutes. Both involve similar
+changes in potassium levels. Suggest why such different
+rates of change may have evolved.
+Summary questions
+1 What is herbivory?
+(1 mark)
+2 Describe two examples of chemical defences against
+herbivory by animals, explaining how they protect the
+plant and how they are used by people. (5 marks)
+3 a Why are the chemicals sometimes known as plant
+pheromones not strictly pheromones? (2 marks)
+b Why is it so important that these chemicals are
+volatile?
+(2 marks)
+Give two examples of how these chemicals may be
+used to protect a plant against herbivory, including
+a discussion as to whether your examples are
+pheromones or not.
+(6 marks)
+450
+16
+16.1 Plant hormones and growth in plants
+Investigating the effect of hormones on plant growth
+There are many different ways to investigate the effect
+1 Suggest an advantage and a disadvantage of
+of plant hormones on the growth of the shoots, the roots,
+using serial dilutions of hormones in nutrient
+and the germination of seeds. These include growing
+solution to investigate the effect of a hormone
+seedlings hydroponically (in nutrient solution rather than
+on plant growth.
+soil) in serial dilutions of different hormones, or applying
+2 An experiment was conducted to investigate using
+different concentrations of hormones to the cut ends of
+plant hormones to increase the growth of cuttings.
+stems or roots and observing the effects.
+It was found that in the first experiment there
+In most experiments, it is important to make serial
+was a significant increase (p < 0.05) in fresh
+dilutions to observe the effects of different concentrations
+weight with potting medium 2, and leaf length with
+of the hormones, as they can have different effects on
+potting medium 1, both at 100 mg/LTAA. Explain
+growth at different concentrations.
+the meaning of the term significant increase
+(p < 0.05) and explain how it can be calculated.
+Experiments investigating the effect of hormones on plant
+growth usually involve large numbers of plants. When you
+have completed your measurements, the spread of data
+from each experimental group should be measured using
+standard deviation.
+Synoptic link
+You learnt about serial dilutions
+in Topic 4.2, Factors affecting
+enzyme activity.
+Synergism and antagonism
+Most plant hormones do not work on their own but by interacting
+with other substances. In doing so, very fine control over the responses
+of the plant can be achieved. If different hormones work together,
+complementing each other and giving a greater response than they would
+on their own, the interaction is known as synergism. If the substances
+have opposite effects, for example one promoting growth and one
+inhibiting it, the balance between them will determine the response
+of the plant. This is known as antagonism. Our knowledge of plant
+hormones and the mechanisms by which they have an effect is still far
+from complete - this is an active and important area of research.
+Summary questions
+1 Why are chemicals so important in coordinating the growth
+of plants?
+(3 marks)
+2 a Give three examples of plant hormones and for each give
+one function in the plant.
+b Why are the chemicals you have listed in answer
+2a described as plant hormones?
+(3 marks)
+(3 marks)
+3 Plant hormones have very different effects on different plant tissues.
+a Give an example with experimental evidence.
+(6 marks)
+b Explain the importance of these multifunction hormones
+in a plant.
+(2 marks)
+4 Explain how the data in Figure 5 appear to confirm our
+current model of auxin action.
+(6 marks)
+444
+16
+16.4 Tropisms in plants
+to unilateral light that only shines from one side, then the shoots of
+the plant will grow towards that light and the roots, if exposed, will
+grow away. Shoots are said to be positively phototropic and roots are
+negatively phototropic. This response has an obvious survival value for
+a plant. It helps to ensure that the shoots receive as much all-round
+light as possible, allowing the maximum amount of photosynthesis
+to take place. Also, if the roots should emerge from the soil - as they
+might do after particularly heavy rain, for example - they will rapidly
+turn back to the soil.
+Expt no.
+Method
+Result
+Explanation
+unilateral
+light
+shoot bends
+towards light
+The shoot is positively phototropic. Bending
+occurs behind the tip.
+plant
+shoot
+shoot tip
+removed
+light
+tip
+no response
+The tip must either detect the stimulus or produce
+the messenger (or both) as its removal prevents
+any response.
+discarded
+lightproof
+cover is
+placed
+over intact
+tip of shoot
+The light stimulus must be detected by the tip.
+light
+no response
+thin, impermeable
+barrier of mica
+movement of
+chemical
+down shaded
+side
+Mica on the illuminated side of the shoot allows
+the hormone to pass only down the shaded side
+where it increases growth and causes bending.
+light
+bends towards
+the light
+mica inserted
+on shaded
+movement of
+chemical down
+shaded side is
+prevented by mica
+side
+light
+no response
+tip removed,
+gelatin block
+inserted and
+tip replaced
+movement of
+chemical down
+shaded side
+As gelatin allows chemicals to pass through it,
+but not electrical messages, the bending which
+occurs must be due to a chemical passing from
+the tip.
+light
+gelatin block
+bends towards
+the light
+A Figure 1 Experimental observations such as these by Darwin and Boysen-Jensen are the basis of our understanding
+of phototropisms. Darwin's experiments helped to show that it is the tips of shoots which are the source of the phototropic
+response, meanwhile Boysen-Jensen helped show the nature of the 'messenger'in the phototropic response
+452
+16
+16.2 Plant responses to abiotic stress
+latent bud
+leaf petiole
+Abcission or leaf fall
+After a summer of long days, short nights, and warm temperatures,
+the nights lengthen, days shorten, and temperatures fall as autumn
+develops. The lengthening of the dark period triggers a number of
+changes, including abscission or leaf fall and a period of dormancy
+during the winter months.
+separation zone
+protective layer
+abscission zone
+The falling light levels result in falling concentrations of auxin. The
+leaves respond to the falling auxin concentrations by producing the
+gaseous plant hormone ethene. At the base of the leaf stalk is a region
+called the abscission zone, made up of two layers of cells sensitive
+to ethene. Ethene seems to initiate gene switching in these cells
+resulting in the production of new enzymes. These digest and weaken
+the cell walls in the outer layer of the abscission zone, known as the
+separation layer.
+vascular
+tissue
+Figure 1 The abscission layer in a
+leaf stalk
+The vascular bundles which carry materials into and out of the leaf
+are sealed off. At the same time fatty material is deposited in the cells
+on the stem side of the separation layer. This layer forms a protective
+scar when the leaf falls, preventing the entry of pathogens. Cells deep
+in the separation zone respond to hormonal cues by retaining water
+and swelling, putting more strain on the already weakened outer
+layer. Then further abiotic factors such as low temperatures or strong
+autumn winds finish the process - the strain is too much and the leaf
+separates from the plant. A neat, waterproof scar is left behind.
+A Figure 2 The scar where a leaf has
+fallen from this horse chestnut twig
+is clear to see, including the dark dots
+which are the sealed ends of the xylem
+and phloem vessels
+Preventing freezing
+Another major abiotic factor which affects plants is a decrease in
+temperature. If cells freeze, their membranes are disrupted and they
+will die. Many plants, however, have evolved mechanisms that protect
+their cells in freezing conditions. The cytoplasm of the plant cells and
+the sap in the vacuoles contain solutes which lower the freezing point.
+Some plants produce sugars, polysaccharides, amino acids, and even
+proteins which act as antifreeze to prevent the cytoplasm from freezing,
+or protect the cells from damage even if they do freeze.
+Most species only produce the chemicals which make them hardy
+and frost resistant during the winter months. It appears that different
+genes are suppressed and activated in response to a sustained fall
+in temperatures along with a reduction in day length, effectively
+preparing the plants to withstand frosty conditions. A sustained spell
+of warm weather along with extended day length reverses these
+changes in the spring.
+Synoptic link
+You learnt about the mechanism of
+opening and closing the stomata
+as a result of turgor changes in
+Topic 9.3, Transpiration.
+Stomatal control
+As you have already learnt, heat and water availability are major
+abiotic stresses for plants. One of the major ways in which plants can
+respond to these stresses is to open the stomata to cool the plant as
+water evaporates from the cells in the leaves in transpiration, or to
+close the stomata to conserve water.
+446
+16.2 Plant responses to abiotic stress
+Specification reference: 5.1.5
+When the environmental conditions around plants change, they
+have to cope or die. Abiotic stresses include changes in day length,
+cold and heat, lack of water, excess water, high winds, and changes
+in salinity. Plants need to be able to cope with these changes. As
+you have already learnt, plant responses involve both physical and
+physiological adaptations. They may have very thick cuticles, hairy
+leaves, sunken stomata or a wilting response in hot, dry or extremely
+windy conditions, or develop aerenchyma if they grow in an aquatic
+environment.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the types of plant responses
+► the roles of plant hormones.
+Synoptic link
+You learnt about the way plants
+respond to very dry and to watery
+conditions in Topic 9.5, Plant
+adaptations to water availability.
+Leaf loss in deciduous plants as a response
+to abiotic stress
+Plants that grow in temperate climates experience great
+environmental changes during the year. For example, the range
+of daylight hours in parts of northern Scotland ranges from
+about 6.5 hours midwinter to just under 18.5 hours midsummer.
+Temperatures vary as well – in England the mean temperature is
+3-6°C in winter and 16-21°C in summer. As light and temperature
+affect the rate of photosynthesis, seasonal changes have a big
+impact on the amount of photosynthesis possible. The point comes
+when the amount of glucose required for respiration to maintain
+the leaves, and to produce chemicals from chlorophyll that might
+protect them against freezing is greater than the amount of
+glucose produced by photosynthesis. In addition, a tree that is in
+leaf is more likely to be damaged or blown over by winter gales.
+This means deciduous trees in temperate climates lose all of their
+leaves in winter and remain dormant until the days lengthen and
+temperatures rise again in spring.
+Synoptic link
+You will learn more about
+photosynthesis in Chapter 17,
+Energy for biological processes.
+Daylength sensitivity
+Scientists have discovered that plants are sensitive to a lack of light
+in their environment. This is known as photoperiodism. For many
+years it was assumed that plants responded to the length of daylight,
+but more recent evidence suggests that it is lack of light that is the
+trigger for change. Many different plant responses are affected by the
+photoperiod including the breaking of the dormancy of the leaf buds
+so they open up, the timing of flowering in a plant and when tubers
+are formed in preparation for overwintering.
+The sensitivity of plants to day length (or dark length) results from a
+light-sensitive pigment called phytochrome. This exists in two forms –
+P. and P. Each absorbs a different type of light and the ratio of P to Por
+changes depending on the levels of light.
+445
+16.4 Tropisms in plants
+Specification reference: 5.1.5
+Plant growth responses to stimuli from one direction are known as
+tropisms. The growth of plants in response to light which comes from
+one direction only is called phototropism; the response to gravity
+is called geotropism; the response to chemicals chemotropism; and
+to touch thigmotropism. Tropisms involve differential growth of
+plant cells triggered by chemical messages produced in response to a
+particular stimulus.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the types of plant responses
+practical investigations
+into phototropism and
+geotropism.
+Tropisms as a response to environmental cues
+To be able to make the maximum use of the environmental
+conditions, plants must grow and respond to variations in those
+conditions. For example, once a seed begins to germinate in the soil,
+the shoot and root must keep growing in the right direction if the
+developing plant is to survive. The shoot must grow up towards the
+light source for photosynthesis to take place. The roots must grow
+downwards into the soil which will provide support, minerals, and
+water for the plant. The movements of the root and shoot take place
+in direct response to environmental stimuli. The direction of the
+response is related to the direction from which the stimulus comes.
+These responses are examples of tropisms.
+Much of the research on tropisms uses germinating seeds and very
+young seedlings. They are easy to work with and manipulate and
+as they are growing and responding rapidly, any changes show up
+quickly. Changes also tend to affect the whole organism rather than a
+small part (as with a mature plant) and this makes any tropisms much
+easier to observe and measure. The seedlings of monocotyledonous
+plants - usually cereals such as oats and wheat - are most commonly
+used as the shoot that emerges is a single spike with no apparent
+leaves known as a coleoptile. It is easier to manipulate and observe
+than a dicotyledonous shoot. However, coleoptiles are relatively simple
+plant systems, so it is important to remember that the control of the
+responses to light in an intact adult plant may be more complex.
+Synoptic link
+You learnt about dicotyledonous
+plants in Topic 9.1, Transport
+systems in dicotyledonous plants.
+Phototropism
+The basic model of the way plants respond to light as they grow was
+based on experiments where shoots were kept entirely in the dark
+or in full illumination. However, this is rarely the case in real life.
+Phototropisms are the result of the movement of auxins across the
+shoot or root if it is exposed to light that is stronger on one side than
+the other.
+If plants are grown in bright, all-round light in normal conditions
+of gravity they grow more or less straight upwards. In even but low
+light they will also grow straight upwards – in fact in these conditions
+they will grow faster and taller than in bright light. If plants, however,
+are exposed to light which is brighter on one side than another, or
+451
+16
+PLANT RESPONSES
+positively geotropic (grow towards gravitational pull). This adaptation
+ensures that the roots grow down into the soil and the shoots grow up
+to the light. Geotropisms are also known as gravitropisms.
+Practical investigations into geotropisms
+Figure 5 shows two ways in which geotropic responses
+can be demonstrated. These basic techniques can be
+adapted to investigate different aspects of the geotropic
+response.
+Alternatively, the seeds can be placed in petri dishes
+stuck to the wall of the lab, and the dishes rotated
+90° at intervals as the seedlings grow. A geotropic
+response in the roots can be seen within about
+two hours.
+•
+The geotropic response can be investigated in shoots
+and roots using a rotating drum known as a clinostat.
+The plants can be grown on a slowly rotating clinostat
+(about four revolutions per hour) so the gravitational
+stimulus is applied evenly to all sides of the plant -
+and the root and in the dark) shoot grow straight.
+Investigations into geotropisms are usually carried
+out with the plants exposed to all round light or in the
+dark. Suggest a reason for these conditions.
+geotropism in shoots
+geotropism in roots
+direction
+of turn
+moist cotton wool
+(top layer removed
+for this diagram)
+petri dish
+result after 2 days
+clinostat
+A Figure 5 Simple investigations can demonstrate geotropisms in shoots (left) and roots (right)
+Summary questions
+1 a What is a tropism?
+(1 mark)
+bExplain what is meant by phototropisms and geotropisms. (2 marks)
+c Describe the different phototropic and geotropic responses
+in shoots and roots.
+(2 marks)
+2 Produce a flow diagram to explain the events which bring
+about a phototropic response in a shoot.
+(1 mark)
+3 If a block of butter is used in Figure 1 instead of the gelatin block,
+there is no response in the decapitated shoot. Explain how
+this informs scientists that the message is water soluble. (5 marks)
+Originally scientists thought geotropisms were the result of auxin
+movements in response to gravity. Investigate current models
+of how geotropisms occur and write a brief report.
+(6 marks)
+455
+PLANT RESPONSES
+16
+Synoptic link
+Plants produce chemicals which signal to other species – for example, to
+protect themselves from attack by insect pests – and may communicate
+with other plants. They also produce chemical defences against
+herbivores. In plant responses, chemicals are essential.
+You learnt about plant transport
+systems in Chapter 9, Transport in
+plants.
+The growth of plants, from the germination of a seed to the long-term
+growth of a tree, is controlled by plant hormones. You will look at the
+different chemicals and their roles in isolation, but in fact the growth
+and form of a plant are the result of the interaction of many different
+hormonal and environmental factors.
+Scientists are still unsure about the details of many plant responses.
+There are a number of reasons for this. Plant hormones work at
+very low concentrations, so isolating them and measuring changes
+in concentrations is not easy. The multiple interactions between
+the different chemical control systems also make it very difficult
+for researchers to isolate the role of a single chemical in a specific
+response.
+A Figure 1 Plants' responses enable
+them to grow and flower in almost every
+land environment
+Outlined are a number of key aspects of plant growth with the role of
+hormones highlighted.
+Synoptic link
+Plant hormones and seed germination
+For a plant to start growing, the seed must germinate.
+When the seed absorbs water, the embryo is activated and begins
+to produce gibberellins. They in turn stimulate the production of
+enzymes that break down the food stores found in the seed. The
+food store is in the cotyledons in dicot seeds and the endosperm
+in monocot seeds. The embryo plant uses these food stores to
+produce ATP for building materials so it can grow and break
+out through the seed coat. Evidence suggests that gibberellins
+switch on genes which code for amylases and proteases - the
+digestive enzymes required for germination. There is also
+evidence suggesting that another plant hormone, ABA, acts
+as an antagonist to gibberellins (interferes with the action of
+gibberellin), and that it is the relative levels of both hormones
+which determine when a seed will germinate.
+You learnt about the role of
+cotyledons as food stores in
+the seeds of dicotyledenous
+plants in Topic 9.1, Transport
+systems in dicotyledonous plants.
+layer
+containing
+protein
+acids-amylase
+seed coat
+proteinsam
+starch -
+maltose
+maltose
+glucose
+Experimental evidence
+Experimental evidence supporting the role of gibberellins in
+the germination of seeds includes:
+Mutant varieties of seeds have been bred which lack
+the gene that enables them to make gibberellins. These
+seeds do not germinate. If gibberellins are applied to the
+seeds externally, they then germinate normally.
+If gibberellin biosynthesis inhibitors are applied to
+seeds, they do not germinate as they cannot make the
+gibberellins needed for them to break dormancy. If the
+inhibition is removed, or gibberellins are applied, the
+seeds germinate.
+gibberellin
+made
+here
+starchy
+food store
+water-
+embryo
+root
+Figure 2 The role of gibberellins in germination
+441
+16
+16.1 Plant hormones and growth in plants
+Plant hormones, growth, and apical
+dominance
+The growth of a plant shoot after a seed has germinated is
+controlled by a number of plant hormones.
+rate of c-amylase synthesis
+(enzyme units per 120 min)
+treated with
+gibberellin
+www
+no gibberellin
+treatment
+OH
+lo
+5
+15
+duration of exposure to gibberellin (h)
+Figure 3 The effect of gibberellins on the
+synthesis of amylase, a starch-digesting enzyme,
+in isolated tissue from barley seeds
+Auxins
+Auxins such as indoleacetic acid (IAA) are growth
+stimulants produced in plants. Small quantities can have
+powerful effects. They are made in cells at the tip of the
+roots and shoots, and in the meristems. Auxins can move
+down the stem and up the root both in the transport tissue
+and from cell to cell. The effect of the auxin depends on
+its concentration and any interactions it has with other
+hormones. Auxins have a number of major effects on
+plant growth.
+They stimulate the growth of the main, apical shoot. Evidence
+suggests that auxins affect the plasticity of the cell wall – the
+presence of auxins means the cell wall stretches more easily.
+Auxin molecules bind to specific receptor sites in the plant
+cell membrane, causing a fall in the pH to about 5. This is the
+optimum pH for the enzymes needed to keep the walls very
+flexible and plastic. As the cells mature, auxin is destroyed. As
+the hormone levels fall, the pH rises so the enzymes maintaining
+plasticity become inactive. As a result, the wall becomes rigid and
+more fixed in shape and size and the cells can no longer expand
+and grow.
+zone of cell
+division
+auxins synthesised in meristem cells
+OOOO
+7-7- 7- -
+auxins diffuse away from tip
+auxins bind to receptor sites
+vacoules form and low
+pH develops
+zone of cell
+elongation
+pH
+length
+low pH of cell walls keeps them
+flexible allowing cells to expand
+as they absorb water. Vacuoles
+get bigger + cell walls stretch
+Hd
+elongation /um
+4.5 -IAA
+large central vacuole formed.
+Auxins destroyed by enzymes.
+Cell walls become rigid.
+No futher cell elongation is
+possible
+0 10 20 30 40 50 60
+time/min
+Figure 5 Graph to show the effect
+of an external application of auxin on
+pH levels in the cell walls and on shoot
+growth
+zone of cell
+differentiation
+Figure 4 The effect of auxin on apical shoot growth
+442
+16.5 The commercial use
+of plant hormones
+Specification reference: 5.1.5
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of: :
+► the commercial use of plant
+hormones.
+Plant hormones are involved in the control of many different aspects
+of plant life, from germination of the seeds and growth of the stems
+to ripening of the fruit and the fall of the leaves. As scientists have
+unravelled more and more about the role of these fascinating chemicals
+in the life of plants, people have developed a number of ways of using
+plant hormones commercially in agriculture and horticulture.
+concentration / arbitrary units
+Control of ripening
+The gaseous plant hormone ethene is involved in the
+carbon dioxide
+ripening of climacteric fruits. These are fruits that continue
+production
+to ripen after they have been harvested. Their ripening is
+linked to a peak of ethene production triggering a series of
+chemical reactions including a greatly increased respiration
+rate. Climacteric fruits include bananas, tomatoes, mangoes,
+ethene production
+and avocados. Non-climacteric fruit (such as oranges,
+strawberries, and watermelon) do not produce large
+amounts of ethene and do not ripen much after picking.
+0 + +
+1 2 3 4 5 6 7 8 9 The effect of ethene on climacteric fruit can easily be seen if
+days of ripening
+part of a bunch of green bananas is put in a bag with a single
+Figure 1 Graph to show the effect of ethene on ripe banana. The bunch with the ripe banana will ripen
+respiration rate of ripening fruit
+faster than the rest of the bunch, even if the temperature is
+exactly the same in both cases. Ethene from the ripe banana
+stimulates the rapid ripening of the green ones.
+Ethene is widely used commercially in the production of perfectly ripe
+climacteric fruit for greengrocers and supermarkets. These fruit are
+harvested when they are fully formed but long before they are ripe,
+and then cooled, stored, and transported. The unripe fruit is hard and
+much less easily damaged during transport around the world than the
+ripe versions. When the fruit are needed for sale, they are exposed to
+ethene gas under controlled conditions. This ensures that each batch
+of fruit ripens at the same rate and are all at the same stage to be put
+on the shelves for sale to the public. This careful control of ripening
+prevents a lot of wastage of fruit during transport, and increases the
+time available for them to be sold.
+Hormone rooting powders and micropropagation
+Auxin affects the growth of both shoots and roots. Scientists have
+discovered that the application of auxin to cut shoots stimulates the
+production of roots. This makes it much easier to propagate new
+plants from plant cuttings. A cutting is a small piece of the stem of a
+plant, usually with some leaves on. If this is placed in compost or soil –
+or even water – roots may eventually appear and a new plant forms.
+Dipping the cut stem into hormone rooting powder increases the
+456
+PLANT RESPONSES
+16.1 Plant hormones and growth
+in plants
+Specification reference: 5.1.5
+People often regard plants as passive objects in the environment that
+simply grow and sometimes flower. However, plants are dynamic systems,
+not only photosynthesising and producing food but also responding to
+their environment in many different ways. They have evolved to cope
+with abiotic stresses such as lack of water, and they have a range of
+adaptations to protect them against the attentions of herbivores. They also
+show directional growth in response to environmental cues such as light
+and gravity – these are known as tropisms.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the roles of plant hormones
+the experimental evidence
+for the role of auxins in the
+control of apical dominance
+the experimental evidence
+for the role of gibberellin in
+the control of stem elongation
+and seed germination
+practical investigations into
+the effect of plant hormones
+on growth.
+Chemical coordination
+Plants are multicellular organisms living in a complex and ever-
+changing environment. The key limitations on plants are that they
+are rooted - they are not mobile, and they do not have a rapidly
+responding nervous system. They are, however, coordinated organisms
+that show clear responses to their environment, communication
+between cells, and even communication between different plants.
+The timescales of most plant responses are slower than animal
+responses, but they still respond as a result of complex chemical
+interactions. Plants have evolved a system of hormones – chemicals
+that are produced in one region of the plant and transported both
+through the transport tissues and from cell to cell and have an effect in
+another part of the plant. Important plant hormones include auxins,
+gibberellins, abscisic acid (ABA), and ethene. These chemicals have a
+wide range of functions within the plant.
+Table 1 Some of the roles of plant hormones
+Hormone
+auxins
+Some of their known roles in plants
+control cell elongation, prevent leaf fall (abscission),
+maintain apical dominance, involved in tropisms,
+stimulate the release of ethene, involved in fruit ripening
+gibberellin
+cause stem elongation, trigger the mobilisation of food
+stores in a seed at germination, stimulate pollen tube
+growth in fertilisation
+ethene
+causes fruit ripening, promotes abscission in
+deciduous trees
+ABA (abscisic acid)
+maintains dormancy of seeds and buds, stimulates
+cold protective responses, for example, antifreeze
+production, stimulates stomatal closing
+440
+16
+16.4 Tropisms in plants
+Practical investigations into phototropisms
+There are many different ways to investigate
+phototropisms. Some of them are listed here.
+• Germinate and grow seedlings in different conditions
+of dark, all-round light, and unilateral light. Observe,
+measure, and record the patterns of growth. Time-
+lapse photography can give a good record of the
+changes as they take place.
+Germinate and grow seedlings in unilateral light with
+different colour filters to see which wavelengths of
+light trigger the phototropic response.
+Repeat some of the classic experiments (Figure 1) -
+cover the tips of coleoptiles with foil, remove the tips
+of some coleoptiles, place auxin-impregnated agar
+jelly blocks or lanolin on decapitated coleoptiles, place
+auxin-impregnated agar blocks on one side only of
+decapitated coleoptiles.
+A Figure 4 Experiments on phototropisms can be done
+on dicot seedlings as well as coleoptiles - these cress
+seedlings have been grown in all-round light, the dark, and
+unilateral light from left to right respectively
+Discuss potential advantages and disadvantages
+of using new technology such as smart phones and
+tablets in recording and displaying data in practical
+investigations into phototropisms.
+Growing in the dark
+The fact that plants grow more rapidly in the dark than when they
+are illuminated can at first seem illogical. If a plant, however, is in the
+dark the biological imperative is to grow upwards rapidly to reach the
+light to be able to photosynthesise. The seedlings that break through
+the soil first will not have to compete with other seedlings for light.
+Evidence suggests that it is gibberellins that are responsible for the
+extreme elongation of the internodes when a plant is grown in the
+dark. Once a plant is exposed to the light, a slowing of upwards
+growth is valuable. Resources can be used for synthesising leaves,
+strengthening stems, and overall growth. Scientists have demonstrated
+that levels of gibberellin fall once the stem is exposed to light.
+Gardeners sometimes use this response to 'force' growth in plants -
+early rhubarb is famously grown in dark sheds in Yorkshire. The rapid
+upward growth which takes place in a plant grown in the dark is
+known as etiolation. Etiolated plants are thin and pale - because the
+plant is deprived of light little chlorophyll develops in the leaves.
+Geotropisms
+Light is not the only thing to which plants are sensitive. Plants are also
+sensitive to gravity, and the different responses of the roots and shoots
+are very important in the control of plant growth.
+In normal conditions, plants always receive a unilateral gravitational
+stimulus – gravity always acts downwards. The response of plants
+to gravity can be seen in the laboratory using seedlings placed on
+their sides either in all-round light or in the dark. Shoots are usually
+negatively geotropic (grow away from gravitational pull) and roots are
+454
+PLANT RESPONSES
+16
+The effect of unilateral light
+Examples of the response of plants to unilateral light can be seen in
+any garden or woodland. Where plants are partially shaded the shoots
+grow towards the light and then grow on straight towards it. This
+response appears to be the result of the way auxin moves within the
+plant under the influence of light.
+elongated lateral
+cells movement
+of auxin
+apical
+meristem
+auxin
+tip of
+coleoptile
+peripheral
+cells in
+shoot
+light
+Figure 2 shows that the side of a shoot exposed to
+light contains less auxin than the side which is not
+illuminated. It appears that light causes the auxin to
+move laterally across the shoot, so there is a greater
+concentration on the unilluminated side. This in turn
+stimulates cell elongation and growth on the dark
+side, resulting in observed growth towards the light.
+Once the shoot is growing directly towards the light,
+the unilateral stimulus is removed. The transport of
+auxin stops and the shoot then grows straight towards
+the light. The original theory was that light destroyed
+the auxin, but this has been disproved by experiments
+showing that the levels of auxin in shoots are much
+the same regardless of whether they have been kept
+in the dark or under unilateral illumination.
+► movement of auxin
+auxin
+Note-auxin alone may not control
+phototropic movement of coleoptiles
+Figure 2 In unilateral light, auxin moves laterally across
+the tip of the shoot away from the light. This stimulates
+growth on the shady side, so the shoot grows asymmetrically
+towards the light
+intact
+shoot
+split
+shoot
+Shoots kept in the dark - total auxin
+produced approximately the same
+whether shoot split or not.
+24.1
+total auxin levels
+Shoot in unilateral light - total auxin
+produced approximately the same
+whether shoot split or not.
+26.2
+23.4
+total auxin levels
+Shoot in unilateral light but
+undivided - auxin accumulates
+on the dark side and lower on the
+lit side when the shoot is intact,
+but when it is divided the auxin
+concentration is approximately
+the same both sides. This suggests
+that normally auxin is transported
+EG total auxin levels
+across the shoot in unilateral light
+31.0 12.5 23.0 24.7
+from the lit side to the dark side.
+Figure 3 Experiments such as these with maize coleoptiles help us to determine
+what happens to auxin levels within a shoot illuminated by unilateral light
+453
+16
+Chapter 16 Practice questions
+Practice questions
+1a Plant responses to environmental
+changes are co-ordinated by plant growth
+substances (plant hormones).
+Explain why plants need to be able to
+respond to their environment. (2 marks)
+b The following investigation was carried
+out into the effects of plant growth
+substances on germination:
+A large number of lettuce seeds was
+divided into eight equal batches
+Each batch of seeds was placed on
+moist filter paper in a Petri dish and
+given a different treatment.
+The different treatments are shown in the
+table. Each tick represents one of the eight
+batches of seeds.
+2
+(i) Describe, with reference to the
+graph, the effects of the plant growth
+substances on the germination of
+lettuce seeds.
+(4 marks)
+(ii) Explain how the plant hormones
+have these effects.
+(4 marks)
+(iii) Explain why all the lettuce seeds
+were kept at 25°C.
+(2 marks)
+(iv) State three variables, other than
+temperature, that needed to be
+controlled in the investigation.
+(3 marks)
+State two commercial uses of plant
+growth substances.
+(2 marks)
+OCR F215 2010 (apart from 1b(ii))
+Plants are able to respond to changes in their
+environment.
+(i) Describe two ways in which
+hormones may alter a plants growth
+in response to overcrowding by other
+plants.
+(4 marks)
+OCR F215 2012
+(ii) Suggest how hormones alter
+the growth and morphology, or
+growth and development of
+a plant
+(4 marks)
+The growth and development of a fruit tree
+is controlled by plant growth regulators.
+The table shows the stages that occur as the
+tree grows and develops and indicates the
+stages at which giberellin is involved (green
+shading).
+treatment
+concentration of gibberellin
+(mol dm-3)
+0.00 0.05 0.50 5.00
+water
+Abscisic acid
+The batches of seeds were left to
+germinate at 25°C in identical conditions
+and the percentage germination was
+calculated. The graph shows the results of
+this investigation.
+3
+XA water
+germination (%)
+abscisic acid
+*--------------------------XB
+0 0.05 0.
+5 5
+concentration of gibberellin (moldm-3)
+(log scale)
+458
+16
+PLANT RESPONSES
+chances of roots forming, and of successful propagation taking place.
+This has made it much easier for horticulturists to develop cuttings to
+sell and for individuals taking their own cuttings.
+In both horticulture and agriculture, many plants are now propagated
+on a large scale by micropropagation, when thousands of new plants
+are grown from a few cells of the original plant. Plant hormones are
+essential in this process - they control the production of the mass of
+new cells and then the differentiation of the clones into tiny new plants.
+Synoptic link
+You will learn more about
+the use of plant hormones in
+taking cuttings in Topic 22.1,
+Natural cloning in plants and
+the use of plant hormones in
+micropropagation in Topic 22.2,
+Artificial cloning in plants.
+Hormonal weedkillers
+As you have seen, the interactions between the different plant
+hormones are finely balanced to enable the plant to grow. If this
+balance is lost it can interrupt the metabolism of the whole plant and
+may lead to plant death. Sometimes, this is exactly what we want to
+achieve, and plant hormones can help us. Weeds are plants that grow
+where they are not wanted. Commercial food crops are vital globally
+for producing the food people need to eat. Weeds interfere with crop
+plants, competing for light, space, water, and minerals.
+Figure 2 Using rooting powder on
+cuttings is very simple and effective
+Scientists have developed synthetic auxins which act as very effective
+weedkillers. Many of the main staple foods around the world are
+narrow-leaved monocot plants such as rice, maize, and wheat. Most
+of the weeds are broad-leaved dicots. If synthetic dicot auxins are
+applied as weedkiller, they are absorbed by the broad-leaved plants
+and affect their metabolism. The growth rate increases and becomes
+unsustainable, so they die. The narrow-leaved crop plants are not
+affected and continue to grow normally, freed from competition. The
+synthetic auxins used by farmers and gardeners are simple and cheap
+to produce, have a very low toxicity to mammals, and are selective.
+Summary questions
+1 How are plant hormones
+used to control the ripening
+of fruit?
+(4 marks)
+Other uses of plant hormones
+There are many different ways in which plant hormones are used
+commercially as well as those explored here. Examples include:
+2 Why is it commercially
+important to be able to
+control fruit ripening? (6 marks)
+Auxins can be used in the production of seedless fruit.
+3 Produce a table to summarise
+as many commercial uses
+as you can find for four named
+plant hormones. (6 marks)
+Ethene is used to promote fruit dropping in plants such as cotton,
+walnuts, and cherries.
+Cytokinins are used to prevent ageing of ripened fruit and
+products such as lettuces, and in micropropagation to control
+tissue development.
+Gibberellins can be used to delay ripening and ageing in fruit, to
+improve the size and shape of fruits, and in beer brewing to speed
+up the malting process.
+4 Look at the graph in Figure 1.
+a Describe the changes in
+ethene production and
+carbon dioxide production
+in the tomato as it ripens.
+(6 marks)
+b Suggest what is happening.
+(6 marks)
+c Why do cool conditions slow
+the rate of ripening even
+if ethene is present?
+(3 marks)
+457
+PLANT RESPONSES
+16
+Abscission
+Germination Growth to Flowering
+maturity
+Fruit
+development
+Seed
+dormancy
+Gibberellin
+Auxin
+Cytokinins
+Ethylene
+ABA
+The results are shown in the graph.
+leaf number
+PAN
+leaf surface area
+leaf number
+number of leaves
+control
+stressed
+TTTT
+total leaf area (cm2/plant)
+leaf surface area
++0
+0
+1
+2
+3
+4
+5
+9
+10 11 12 13 14
+6 7 8
+time (days)
+a
+a In the past plant chemicals such as auxins
+and gibberellins were referred to as plant
+hormones. At one stage this was changed
+to plant growth regulators. Now they are
+again generally referred to in university
+plant biology departments as plant
+hormones.
+Explain why plant hormone is a more
+accurate term than plant growth
+regulator.
+(5 marks)
+b Copy and complete the table and indicate
+which hormone(s) is/are involved at each
+stage, using crosses. Gibberellins have
+already been completed as an example.
+(4 marks)
+c Compare and contrast the activity of
+auxins and cytokinins.
+(6 marks)
+In an investigation into the effects of water
+stress, cowpea seeds were sown and the
+seedlings were thinned to one per pot. The
+plants were watered normally until mature
+then watering was completely stopped for
+14 days to induce water stress.
+The number of leaves and total leaf surface
+area were measured daily throughout this
+period.
+4
+b
+(i) Describe the changes in leaf number
+and surface area over the 14 day
+period shown in the graph. (3 marks)
+(ii) Describe and explain the effects
+of water stress on the growth and
+development of plants. (3 marks)
+Outline the process of leaf abscission
+including the roles of plant hormones.
+(5 marks)
+Compare and contrast the response of
+cowpeas to water stress to the loss of
+leaves by trees in the UK in autumn.
+(5 marks)
+459
+16
+PLANT RESPONSES
+Summary questions
+1 Why is it so important for
+plants to be able to respond to
+their surroundings? (2 marks)
+The opening and closing of the stomata in response to abiotic stresses
+is largely under the control of the hormone ABA. The leaf cells
+appear to release ABA under abiotic stress, causing stomatal closure.
+However, scientists now think that the roots also provide an early
+warning of water stresses through ABA. So, for example, when
+the levels of soil water fall and transpiration is under threat, plant
+roots produce ABA which is transported to the leaves where it binds
+to receptors on the plasma membrane of the stomatal guard cells.
+ABA activates changes in the ionic concentration of the guard cells,
+reducing the water potential and therefore turgor of the cells. As a
+result of reduced turgor, the guard cells close the stomata and water
+loss by transpiration is greatly reduced.
+2 Why do many trees in
+temperate climates lose all of
+their leaves in winter?
+(6 marks)
+3 Produce a flow diagram
+to explain the process of
+abscission.
+(6 m
+leaf water potential/Mpa
+stomatal resistance scm-1
+ABA concentration/ngcm-2
+4 a Explain how plant
+hormones are involved in
+protecting the plant cells
+from damage in freezing
+conditions. (5 marks)
+b Give two more adaptations
+by which plant cells may be
+protected against damage
+by freezing during the
+winter. (3 marks)
+c If there is a sudden spell of
+freezing weather early in
+the autumn, many plants
+which can normally survive
+the winter may be killed.
+Similarly, if there is a late
+frost after several weeks of
+warm spring weather, plants
+that have already survived
+a harsh winter can die.
+Explain the difference in
+the response of the plants
+in these circumstances
+compared with the winter
+months. (6 marks)
+rewatering
+i 2 3 4 5 6 7 8 9 10
+time (days)
+Figure 3 Changes in water potential, stomatal resistance, and ABA content in
+corn in response to water stress - stomatal resistance increases as stomata close.
+All measurements of stomatal resistance in excess of 20 s cm- are shown
+as 50 scm-1
+5 Explain how the experimental
+evidence shown in Figure 3
+supports the idea of ABA from
+the roots affecting stomatal
+opening in times of water
+stress.
+(6 marks)
+447
+16.3 Plant responses to herbivory
+Specification reference: 5.1.5
+Herbivores are animals that eat plants. They range from tiny insects
+to enormous animals such as elephants and rhinos. Herbivory is the
+process by which herbivores eat plants.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the types of plant responses.
+Responses to herbivory
+Plants cannot escape animals which want to eat them, so they have
+evolved a wide range of defences to prevent attack by herbivores or
+minimise the damage they do.
+Synoptic link
+You learnt about the responses
+of plants to attack by pathogens
+and the defensive chemicals they
+make in Topic 12.4, Plant defences
+against pathogens.
+Physical defences
+Common physical defences include thorns, barbs, spikes, spiny leaves,
+fibrous and inedible tissue, hairy leaves, and even stings to protect
+themselves and discourage herbivores from eating them.
+Chemical defences
+Plants have also evolved a wide range of chemical responses to herbivory
+- the stinging nettle manages to include both physical and chemical
+defences in its vicious trichomes (stinging hairs), but many other plants
+produce a cocktail of unpleasant chemicals too. These include:
+Tannins - part of a group of compounds called phenols produced
+by many plants. Tannins can make up to 50% of the dry weight
+of the leaves. They have a very bitter taste which puts animals
+off eating the leaves. They are toxic to insects - they bind to the
+digestive enzymes produced in the saliva and inactivate them. Tea
+and red wine are both rich in plant tannins.
+Figure 1 These thorns act to deter
+herbivores. The fruit, which have evolved
+to be eaten to spread the seeds, are held
+on thorn-free stalks
+Alkaloids - a large group of very bitter tasting, nitrogenous
+compounds found in many plants. Many of them act as drugs,
+affecting the metabolism of animals that take them in and
+sometimes poisoning them. Alkaloids include caffeine, nicotine,
+morphine, and cocaine. Caffeine is toxic to fungi and insects, and
+the caffeine produced by coffee bush seedlings spreads through the
+soil and prevents the germination of the seeds of other plants – so
+caffeine protects the plant both against herbivores and against plant
+rivals. Nicotine is a toxin produced in the roots of tobacco plants,
+transported to the leaves and stored in vacuoles to be released when
+the leaf is eaten.
+Terpenoids - a large group of compounds produced by plants
+which often form essential oils but also often act as toxins to
+insects and fungi that might attack the plant. Pyrethrin, produced
+by chrysanthemums, acts as an insect neurotoxin, interfering with
+the nervous system. Some terpenoids act as insect repellents, for
+example, citronella produced by lemon grass repels insects.
+Figure 2 A stinging nettle magnified
+20x, these hollow stinging hairs act
+like hypodermic needles and inject
+histamines and other irritant chemicals
+into animals that try to eat the leaves
+448

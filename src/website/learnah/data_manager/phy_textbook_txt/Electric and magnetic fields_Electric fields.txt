@@ -1,0 +1,938 @@
+7.1
+3
+Radial electric fields
+By the end of this section, you should be able to...
+. define radial electric fields
+• draw and interpret diagrams of electric fields
+describe the relationship between electric field strength and
+electric potential
+use the equations relating to field strength and potential for
+radial electric fields
+Radial electric field strength
+We have seen that a radial field has its field lines spreading further
+apart simply due to geometry. This means that the equation
+for the field strength of a radial electric field must incorporate
+this weakening of the field with distance from the charge. The
+expression for radial field strength at a distance r from a charge Q is:
+EF ATTEN
+Radial fields
+Strictly speaking, this is only correct for a field that is produced
+in a vacuum, as the value €o- the permittivity of free space - is a
+constant which relates to the ability of the fabric of the universe
+to support electric fields. Its value is Ep = 8.85 x 10-12 Fm-!
+Other substances, for example water, may be better or worse
+at supporting electric fields, so an extra factor (the relative
+permittivity, e) would appear in the equation to account for this.
+Air is considered to be near enough a vacuum that we use the
+equation given above for electric fields in air.
+WORKED EXAMPLE
+What is the electric field strength at a distance of 1 angstrom
+(1 x 10-10 m) from a proton?
+E460P2
+(1.610-19
+4* 3.14 x 8.85 x 10-12 x (1 x 10-10)
+E = 1.44 x 1011 Vm1
+Potential in a radial electric field
+Electric field strength tells us how quickly the electric potential
+is changing. A stronger field will have the equipotentials closer
+together. This equation states that the electric field strength, E, is
+equal to the rate of change of potential, V, with distance, x.
+dx
+This leads to the expression for radial field potential at a distancer
+from a charge Q:
+1-
+Q
+V= ATTENT
+fig A The radial electric field around a proton (or any positively charged
+sphere)
+In the region around a positively charged sphere, or point
+charge such as a proton, the electric field will act outwards in
+all directions away from the centre of the sphere, as shown in
+fig A. You will see that the arrows in fig A get further apart as
+you move further away from the sphere, indicating that the field
+strength reduces as you move away from the centre. This means
+that the distance between equipotentials also increases as you
+move further away. The field is the means by which the potential
+changes, so if it is weaker, the potential changes less quickly
+Within a charged sphere, there is no electric field, as a charged
+particle would feel no resultant force on it. The overall effect of
+all the charges on the sphere cancel out within the sphere itself.
+Distance measurements for use in calculations should always be
+considered from the centre of a charged sphere.
+You will see from the equation above that the position of zero
+potential can be considered to be at infinity.
+WORKED EXAMPLE
+What is the electric potential at a distance of 1 angstrom
+(1 x 10-10 m) from a proton?
+V 410
+(1.6 x 10-19)
+4x 3.14 8.85 x 10-12 x (1 x 10-19)
+V = 14.4V
+7.1
+3
+Questions
+Learning tip
+The constant expression is sometimes written as the single letter,
+k (Coulomb's constant). The value for kis:
+k= 1 = 8.99 * 10°N m² C-2
+This means our expressions for radial field strength and potential can
+be written:
+kQ
+KATED
+A Van de Graaff generator is charged with 2.5 x 10-7 coulombs in a
+school lab demonstration. The spherical metal dome has a diameter
+of 30 cm.
+(a) Draw the electric field around the charged dome of the
+generator.
+(b) Add at least three equipotential lines to your diagram. Label
+these with their potential values, following the correct scale of
+your diagram.
+(c) What is the electric field strength at a distance of 5 cm from the
+surface of the charged dome?
+(d) What is the electric potential at a distance of 35 cm from the
+surface of the charged dome?
+Vako
+2
+Explain what would happen to an electron which found itself at the
+exact centre of the electric field shown in fig B(b).
+3
+Draw a pair of electrons 8 cm apart. On your diagram, add field
+lines to show the shape of the electric field produced by these two
+electrons. Also add in several equipotential lines.
+4 Why is the electric field in fig B(d) strongest near the point of the
+spike?
+Combining electric fields
+In a region where there are electric fields caused by more than
+one charged object, the overall field is the vector sum at each
+point of all the contributions from each field. If you imagine
+building the overall field up from the force effects of each
+contributing field, you can see that at every point you have to
+work out the resultant force, and in this way you know how a
+charged particle would be affected there. The sum of all of these
+individual force effects is the overall electric field.
+Charge is particularly concentrated in regions around spikes or
+points on charged objects. This means that they have close field
+lines and the field will be strong around them. For this reason,
+lightning conductors are spiked: the concentrated charge will
+more strongly attract opposite charges, so lightning is more likely
+to hit the lightning conductor than the building being protected. In
+fact, the field around a spiked lightning conductor is often strong
+enough that it can cause charge leakage through the conductor
+before charge builds up to a point to produce a lightning strike.
+The probability of lightning occurring is reduced, further
+protecting the building from these dangers.
+5
+If fig B(a) shows a hydrogen atom, then the separation of the
+charges would be 5.3 x 10-11 m.
+(a) What is the strength of the electric field caused by the proton,
+at the point where the electron is?
+(b) Calculate the force on the electron caused by the proton's
+electric field at this distance.
+(a)
+(b)
+(c)
+(d)
+18*** BV
++
+fig B Complex fields still have their equipotentials perpendicular to the field lines at all points.
+40
+TOPIC 7
+Electric and magnetic fields
+CHAPTER
+7.1
+Electric fields
+Introduction
+The usual explanation for the spiky hair caused by touching a Van de Graaff generator is that the excess charges it puts
+WP on the body all repel each other, so each hair feels a force pushing it away from the others and from the head. Whilst
+this is true, it is a bit of an over-simplification. The hair shows us the existence of an electric field emanating from the
+person's head, with the hair trying to follow the electric field lines. Gravity also affects the hair, so there is a resultant force
+effect. If your school has a Van de Graaff generator, you could try setting up an experiment where the person in contact with it
+is in different positions (i.e. lying down on a wooden bench, bending over at the waist etc.), so that the electrical and
+gravitational forces are not working against each other quite so much!
+In this chapter, we will see the difference between uniform and radial fields, and learn how to calculate the strength of both
+types of electric field. We will also explore the concept of electric potential, which relates to the storage and delivery of
+electrical energy.
+All the maths you need
+• Recognising and use of appropriate units in calculations (e.g. comparing NC- and Vm-1)
+• Use of trigonometric functions (e.g. in verifying Coulomb's law from angled strings)
+• Identifying uncertainties in measurements (e.g. the error in the conclusions from Millikan's oil drop experiment)
+• Solving quadratic equations (e.g. in calculations of radial electric field strength)
+• Changing the subject of an equation (e.g. finding the separation of two charges from Coulomb's law)
+• Plotting two variables from experimental data (e.g. from a Coulomb's law experiment)
+Exam-style questions
+1 A correct unit for electric field strength is:
+A Cm-1
+B kV m-1
+CNC
+D Vm
+5 Two identical table tennis balls, M and N, are attached to
+non-conducting threads and suspended from a point P. The
+balls are each given the same positive charge and they hang as
+shown in the diagram. The mass of each ball is 2.7 g.
+[1]
+[Total: 1]
+18.0 cm/135359
+20.6cm-
+2 The electric field strength from a negative point charge:
+A decreases in magnitude with the square of the charge
+B decreases in magnitude with the square of the distance
+from the charge
+C increases in magnitude with distance from the charge
+D increases in magnitude with the square of the distance from
+the charge.
+[1]
+[Total: 1]
+3 The force between two protons held 1 nm apart is:
+A 2.6 x 10-20 N
+B 2.3 X 10-19 N
+C 2.3 x 10-10N
+D 1.44 x 10°N
+(a) Draw a free-body force diagram for ball M, label your
+diagram with the names of the forces.
+[2]
+(b) (i) Show that the tension in one of the threads is about
+3 x 10-2 N.
+(ii) Show that the electrostatic force between the balls is
+about 2 x 10-2 N.
+(iii) Calculate the charge on each ball.
+(c) Explain what would have happened if the charge given
+to ball M was greater than the charge given to ball N. [2]
+[Total: 12]
+[1]
+[Total: 1]
+4 (a) Explain what is meant by a uniform electric field. [2]
+(b) Describe how a uniform electric field can be demonstrated
+in a laboratory
+[3]
+[Total: 5]
+46
+Thinking Bigger
+7.1
+Let us start by considering the nature of the writing in this report.
+Curvy
+Think about who the
+intended audience is for
+this information.
+1. a. Explain why the author has explained electric fields from first principles in this report. E
+b. Why has he still used a significant amount of technical terminology and high level
+vocabulary?
+2. The photograph shown here was not in the original report, but has been added for this
+textbook. Explain why there might be no pictures in the report produced by Mr Bracken.
+3. What is the importance in this report of including references to the effects of electric
+fields on living things?
+Now we will look at the physics in detail. Some of these questions will link to topics elsewhere in this
+book, so you may need to combine concepts from different areas of physics to work out the answers.
+4. a. What is the time period for a cycle of the alternating current in the USA?
+b. Why would the author have chosen to express field values in units of Vm- rather
+than the other correct possibility of NC-T?
+5. a. We have learned that the electric field around point charges is radial. Why could the
+field emanating from a long straight cable also be referred to as radial?
+b. Draw a diagram to show a high voltage power cable, 10 m above a human standing
+on the ground. Add electric field and equipotential lines to your diagram to show how it
+emerges from the cable, and connects to the ground. Assume a fixed instant in time,
+when the voltage in the cable is exactly 500 kV.
+6. a. What does this extract tell us about the comparative resistivities of bone and blood? E
+b. Explain why you think this difference exists.
+The proposed 500kV
+cable would be at a
+minimum height of Im.
+and a standard point
+where consideration is
+made is at a height of
+Im off the ground.
+Consider the differences
+in the substances making
+up blood and bone.
+Activity
+The author has written that'close to transmission-or distribution-line conductors, the field decreases
+rapidly with distance from the conductors.' Imagine a written question from the Washington State
+government in which senators ask for explanation of this claim. Write a letter in response which explains
+the mathematics involved in radial electric fields. Include some example calculations to illustrate the values
+involved, for comparison with other values already given in the report
+8.2
+8.3
+9.1
+10.1
+11.1
+12.1
+13.1
+45
+Exam-style questions
+7.1
+6 Liquid crystal displays (LCDs) are made from two parallel glass
+plates, 10 um apart, with liquid crystal molecules between
+them. The glass is coated with a conducting material.
+glass plate
+7 The charge on an electron was originally measured in an
+experiment called the Millikan Oil Drop experiment.
+In a simplified version of this experiment, an oil drop with a
+small electric charge is placed between two horizontal, parallel
+plates with a large potential difference (p.d.) across them. The
+p.d. is adjusted until the oil drop is stationary
+For a particular experiment, a p.d. of 5100 V was required to
+hold a drop of mass 1.20 x 10-14 kg stationary.
+- +5100V
+10 um
+1.5 V
+.-1.
+2.00 cm
+- oil drop
+glass plate molecules
+The molecules are positive at one end and negative at the
+other. They are normally aligned parallel with the glass plates,
+as shown.
+The switch S is closed and 1.5 V is applied across the glass
+plates.
+(a) Calculate the electric field strength between the plates. [2]
+(b) Explain what happens to the liquid crystal molecules. [3]
+[Total: 5]
+(a) Add to a copy of the diagram to show the electric field
+lines between the plates.
+[3]
+(b) State whether the charge on the oil drop is positive or
+negative.
+[1]
+(c) Complete the free-body force diagram to show the forces
+acting on the oil drop. You should ignore upthrust. [2]
+(d) (i) Calculate the magnitude of the charge on the oil drop.
+acting
+(ii) Calculate the number of electrons that would have
+to be removed or added to a neutral oil drop for it to
+acquire this charge.
+[Total: 12]
+[2]
+8 With the aid of a diagram, explain how the electrical potential
+varies within the space around a stationary electron. [5]
+[Total: 5]
+PANOS
+ng
+What have I studied before?
+• Electric charges and their movement
+Potential difference
+Electrical energy
+Gravitational potential energy
+What will I study later?
+• Charging and discharging capacitors
+Generating electricity
+• Alternating current and voltage
+• Alpha particle scattering by nuclear electric fields
+Accelerating subatomic particles using electric
+fields
+• Comparisons with gravitational fields
+What will I study in this chapter?
+• Electric fields causing forces on charges
+Coulomb's law and how to calculate the forces
+caused by electric fields
+Uniform electric fields expressed in terms of
+voltages
+Radial electric fields generated by point charges
+or charged spheres
+How to calculate field strength and electric
+potential
+How to draw electric fields, including lines of
+equipotential
+Electric fields in combination
+Millikan's oil drop experiment to find the charge
+on an electron
+33
+7.1
+Electric fields
+By the end of this section, you should be able to...
+define an electric field
+• use the equation E = 6 for electric field strength
+describe the concept of a uniform electric field
+use the equation E for uniform electric field strength
+between parallel plates
+A charged particle will feel a force when it is in an electric field.
+To visualise the forces caused by the field, we draw electric field
+lines which show the direction a positively charged particle will
+be pushed by the force the field produces. As with magnetic field
+patterns, indeed as with all field patterns - the closer together
+the lines are, the stronger the field is. A stronger field causes
+stronger forces.
+The force, F, that a charged particle will feel is the electric field
+strength (E) multiplied by the amount of charge in coulombs (Q),
+as given by the equation:
+F= EQ
+From this force equation, we can also see how quickly a charge
+would accelerate. Newton's second law is that F= ma, so we can
+equate the two equation
+F= EQ = ma
+Pushing charges
+Many machines function through the use of fast-moving charged
+particles. For example, in a hospital X-ray machine high speed
+electrons are crashed into a metal target in order to produce the
+X-rays. So how do we cause the electrons to move at high speed?
+A region of space that will cause charged particles to accelerate is
+said to have an electric field.
+EQ
+So: a= m
+WORKED EXAMPLE
+electric field lines
+tungsten
+target
++45000V
+(a) What force will an electron feel when it is in an X-ray machine's
+electric field which has a strength of 4.5 x 10 Vm-l?
+F = EQ
+= 4.5 x 105 x -1.6 x 10-19
+F=-7.2 x 10-14 N
+—
+—
+X-rays
+The minus sign indicates that the electron will feel a force trying
+to accelerate it towards the more positive end of the field. This is
+the opposite direction to the conventional field direction which,
+like electric current, goes from positive to negative.
+(b) How fast will the electron be travelling if this field accelerates it
+from rest and it is within the field for a distance of 10 cm?
+The kinematics equations of motion have v2 = 42 + 2as. 'From
+rest' means that u = 0, so:
+cathode
+anode
+fig A An electric field accelerates electrons in an X-ray machine.
+v=v2a5 =
+-
+2EOS
+m
+2 x (4.5 x 105)*(-1.6 x 10-19) (0.1)
+(9.11 x 10-31)
+V= -1.26 x 108 msi
+Again, the minus sign indicates that the motion is in the opposite
+direction to the electric field, i.e. towards the more positive end
+of it. Relativistic effects are ignored in this example.
+Electric potential
+In the worked example above, the kinetic energy gained by the
+electron was provided in a transfer from electrical potential
+energy that it had because of its location within the electric field.
+Every location within a field gives a charged particle a certain
+electric potential energy per unit of charge. This is called electric
+fig B An X-ray machine.
+34
+THINKING
+BIGGER
+POWER LINE PROBLEMS W
+In 2010, a 500 kV high voltage transmission line was proposed to carry electricity for 28 miles across
+Washington State in the USA. The Bonneville Power Administration commissioned various reports
+to investigate safety and other public interest issues related to the new power lines, to inform local
+government officers. Dan Bracken, an independent scientific consultant, wrote a substantial report on
+the impact of electric fields that might be generated by the power lines.
+ELECTRIC FIELD
+An electric field is said to exist in a region of space if an electrical
+charge, at rest in that space, experiences a force of electrical origin
+(i.e. electric fields cause free charges to move). Electric field is a
+vector quantity: that is, it has both magnitude and direction. The
+direction corresponds to the direction that a positive charge would
+move in the field. Sources of electric fields are unbalanced electrical
+charges (positive or negative) and time-varying magnetic fields.
+Transmission lines, distribution lines, house wiring, and appliances
+generate electric fields in their vicinity because of the unbalanced
+electrical charges associated with voltage on the conductors. On
+the power system in North America, the voltage and charge on the
+energized conductors are cyclic (plus to minus to plus) at a rate of 60
+times per second. This changing voltage results in electric fields near
+sources that are also time-varying at a frequency of 60 hertz (Hz, a
+frequency unit equivalent to cycles per second).
+As noted earlier, electric fields are expressed in units of volts per
+metre (V/m) or kilovolts (thousands of volts) per metre (kV/m).
+The spatial uniformity of an electric field depends on the source of
+the field and the distance from that source. On the ground, under a
+transmission line, the electric field is nearly constant in magnitude
+and direction over distances of several feet (1 metre). However,
+close to transmission- or distribution-line conductors, the field
+decreases rapidly with distance from the conductors. Similarly,
+near small sources such as appliances, the field is not uniform
+and falls off even more rapidly with distance from the device. If
+an energized conductor (source) is inside a grounded conducting
+enclosure, then the electric field outside the enclosure is zero, and
+the source is said to be shielded.
+Electric fields interact with the charges in all matter, including
+living systems. When a conducting object, such as a vehicle
+fig A Transmission lines can carry very high voltages, generating significant
+electric fields.
+or person, is located in a time-varying electric field near a
+transmission line, the external electric field exerts forces on the
+charges in the object, and electric fields and currents are induced
+in the object. If the object is grounded, then the total current
+induced in the body (the 'short-circuit current) flows to earth. The
+distribution of the currents within, say, the human body, depends
+on the electrical conductivities of various parts of the body: for
+example, inuscle and blood have higher conductivity than bone
+and would therefore experience higher currents.
+At the boundary surface between air and the conducting object, the
+field in the air is perpendicular to the conductor surface and is much,
+much larger than the field in the conductor itself. For example,
+the average surface field on a human standing in a 10 kV/m field
+is 27 kV/m; the internal fields in the body are much smaller:
+approximately 0.008 V/m in the torso and 0.45 V/m in the ankles.
+Section 3.1 from Appendix E, Electrical Effects of 'BIG EDDY -
+KNIGHT 500-KV TRANSMISSION PROJECT', by T. Dan Bracken, for
+Bonneville Power Administration, dated March 2010, http://efw.bpa.gov/
+environmental_services/Document_Library/Big_Eddy-Knight/pdf/Appendix E-
+ElectricalEffectsCombined.pdf
+Where else will I encounter these themes?
+Book 1 6.1
+6.2
+7.1
+YOU ARE
+HERE
+12
+7.3
+8.1
+44
+7.1
+Questions
+Learning tip
+Stokes' law
+Sir George Gabriel Stokes investigated fluid dynamics and derived an
+equation for the viscous drag (F) on a small sphere moving through
+a fluid at low speeds:
+F = 67Vr
+where r is the radius of sphere, v is the velocity of sphere, and n is the
+coefficient of viscosity of the fluid.
+1 Fig C shows a positively charged oil drop held at rest between two
+parallel conducting plates, A and B.
+oil droplet
+2.50 cm
+For Millikan's oil drops, the density of air in the chamber is so low
+that its upthrust is generally insignificant (although it would have
+to be considered if we wanted to do really accurate calculations).
+Under terminal velocity, the weight equals the viscous drag force:
+mg = 677/term
+where n is the viscosity of air, and r is the radius of the drop.
+When held stationary by switching on the electric field and
+adjusting the potential, V, until the drop stands still:
+weight = electric force
+VO
+mg = EQ=
+By eliminating the weight from the two situations, this means that:
+VO
+fig C
+(a) The oil drop has a mass of 9.79 X 10-15 kg. The potential
+difference between the plates is 5000 V and plate B is at a
+potential of O V. Is plate A positive or negative?
+(b) Draw a labelled free-body force diagram which shows the
+forces acting on the drop.
+(c) Calculate the electric field strength between the plates.
+(d) Calculate the magnitude of the charge Q on the drop.
+(e) How many electrons would have to be removed from a neutral
+oil drop for it to acquire this charge?
+6TH]Vterm
+=
+d.
+6 TV/Vterd
+or: Q=-V
+Millikan could not measure r directly, so he had to eliminate it
+from the equations. Further development of Stokes' law tells us
+that a small drop falling at a low terminal velocity will follow the
+equation:
+2rg(poil - Pair)
+Veerm =
+which, if we again ignore the low density of air, rearranges to:
+911 Vier
+P=
+97)
+2gPoil)
+Overall then:
+6 TV)Ved /97/Verm
+O=-
+2g Poil)
+Millikan did the experiment several hundred times, including
+repeated measurements on each drop, over and over again letting
+it fall, halting it with an electric field, and then lifting it up again
+with a stronger field, before letting it fall again. From this data,
+he found that the charges on the droplets were always a multiple
+of 1.59 x 10-19C, which is less than 1% away from the currently
+accepted value of 1.602 x 10-19 C. For this (and work on the
+photoelectric effect) Millikan was awarded the 1923 Nobel Prize
+for Physics.
+38
+7.1
+2
+Millikan's oil drop experiment w
+By the end of this section, you should be able to...
+describe the experimental set-up which Robert Millikan used to determine the charge on
+an electron
+explain how different areas of physics can be brought together in one experiment to solve
+a problem
+In experiments to determine the nature of fundamental particles, scientists can use a mass
+spectrometer (see Section 7.3.3) to find the ratio of charge/mass for particles. This is a fundamental
+property of a charged particle and identifies it uniquely, but until the determination of the value
+of the charge on an electron, it was impossible to break down the ratio and find the mass of that
+particle. In 1909, Robert Millikan developed an experiment which determined the charge on a
+single electron
+Although Millikan had a variety of extra bits and pieces to make his experiment function successfully,
+the basic essence of the experiment is very simple. A charged droplet of oil has its weight balanced
+by the force from a uniform electric field. (He also undertook a variation in which there is no field
+and the terminal velocity is measured, and then one in which the field provides a stronger force than
+gravity and the terminal velocity upwards is measured.) When oil is squirted into the upper chamber
+from the vaporiser, friction gives the droplets an electrostatic charge. This will be some (unknown)
+multiple of the charge on an electron, because electrons have been added or removed due to friction.
+As the drops fall under gravity, some will go through the anode and enter the uniform field created
+between the charged plates. If the field is switched off, they will continue to fall at their terminal
+velocity
+Learning tip
+The content in this section has
+been included to illustrate how
+different areas of physics can
+be brought together in one
+experiment to solve a problem.
+It is not required by the
+specification.
+vaporiser
+fig A Millikan's oil drop apparatus
+for finding the charge on an
+electron. The chamber shown
+was suspended in a trough of
+motor oil to reduce heat transfer
+within it, and thus reduce any
+problems of convection currents
+affecting falling oil droplets
+within the chamber.
+anode (+)
+charged oil droplets
+viewing microscope
+variable p.d.
+-
+light source
+cathode (-)
+fig B Schematic of Millikan's oil drop chamber.
+Electric fields
+7.1
+Questions
+By reducing the separation of the spheres, you will see the angle of
+the lighter hanging ball increase. You can investigate the force
+between charged spheres and confirm that there is an inverse square
+law involved, and that the force is proportional to the product of the
+charges.
+Fig D shows the forces on the hanging ball. By resolving and
+equating the horizontal and vertical components, we can develop a
+method for verifying Coulomb's law.
+1 What is the force of attraction between a uranium nucleus (atomic
+number 92) and an electron at a distance of 0.1 nm?
+(a) What is the strength of the electric field caused by a gold
+nucleus (atomic number 79) at a distance of 1 x 10-12 m (1 pm)
+from the centre of the nucleus?
+(b) What is the force of repulsion between an alpha particle and a
+gold nucleus when the alpha passes by the nucleus at a distance
+of 1 pm?
+---
+Explain a potential problem with the experimental set-up in fig B
+when comparing with Coulomb's law that F==
+(Hint: what would your ruler be measuring?) 476 am
+----
+L
+-
+Faulomb
+-T
+boulbant
+-
+I-
+Estimate the distance that you float above your bed at
+night as a result of the Coulomb repulsion between the
+electrons in the bedsheets and those in your pyjamas.
+WP
+Jasmin and Izaac undertook an experiment to test Coulomb's law,
+following the method of fig C. The measurements they took are
+given in table A.
+fig D Forces on the hanging charged ball.
+The horizontal component of the tension balances with the
+Coulomb force:
+Fcoulomb = Tsino
+And the weight balances the vertical component of tension:
+mg = Tcoso
+Dividing the two equations gives:
+Fcoulomb Tsino
+d/m
+0.002
+0.004
+0.006
+mg"TCOGA = tand
+0.008
+r/m
+0.036
+0.028
+0.024
+0.021
+0.019
+0.018
+0.016
+0.014
+For small anglest
+will need a long piece of thread to
+allow this simplification to be made):
+Fcoulomb d
+mgI
+mgd
+0.010
+0.012
+0.014
+Fooulomb =
+1
+0.016
+table A Experimental results from a Coulomb's law experiment.
+Draw an appropriate graph to analyse their results to show that the
+Coulomb force follows an inverse square relationship.
+Q.Q2 mgd
+4 Ter2 L
+For a fixed amount of charge on the spheres, you could vary rand
+measured, from which a plot of against d should produce a
+straight line. It is very difficult to specifically control the amount of
+charge placed on the spheres, but having charged them both up,
+touching one with a third, uncharged, sphere can remove half the
+charge on that one. Doing this several times, and measuring din
+each case, will allow you to confirm that Fcoulomb is proportional to
+the product of the two charges.
+43
+Electric fields
+7.1
+potential, V This is similar to the relationship between force and field strength: field strength
+is the force felt by a charged particle per unit of charge, expressed by the equation E = The
+difference between that and a new location that the electron might move to is called the potential
+difference through which the electron moves. You may remember (Book 1, Section 3.1.2) that we
+previously defined potential difference for a device in an electrical circuit as the energy transferred per
+coulomb of charge passing through the device. In an electric field, we can follow exactly the same idea
+in order to find out how much kinetic energy a charged particle will gain by moving within the field. This
+is given by the equation:
+Ex= VQ
+WORKED EXAMPLE
+(a) What is the kinetic energy of the electron in part (b) of the previous worked example above?
+Ex = mv2
+=) (9.11 x 10-31) (1.26 x 10)
+Ex = 7.2 x 10-15
+(b) What is the kinetic energy gained by an electron as it is accelerated through a potential difference
+of 45 kV?
+Ex = VQ = 45 x 108 x 1.6 x 10-19
+Ex = 7.2 x 10-15)
+These two answers are the same because they are actually calculations of the same thing, looked at
+from different perspectives.
+Uniform fields
++2000V
+- 2000V
+TILL II
+TI TT III
+TLT III
+III LIIT
+12
+TILL III
+II II 11
+IIIIIII
+EHT
+fig C The blue arrows show the direction of the uniform electric field produced between parallel plates that have a potential
+difference between them. The dashed lines indicate the equipotential lines along which the potential is constant.
+An electric field exists between any objects which are at different electrical potentials. Thus, if we
+connect parallel metal plates to a power supply, we can set up a potential difference, and therefore an
+electric field, between them. This is shown in fig C. The field is uniform if its field lines are parallel
+across the whole field.
+The strength of a uniform electric field is a measure of how rapidly it changes the potential over
+distance. The equation which describes this divides the potential difference, V. by the distance over
+which the potential difference exists, d:
+WORKED EXAMPLE
+In the X-ray machine shown in fig A, there is a potential difference of 45 000V between a cathode and
+an anode, which are 10 cm apart. What is the electrical field strength between the plates?
+F-V 45000
+Em 0.1
+E = 4.5 x 105V m-1
+7.
+14
+Coulomb's law
+By the end of this section, you should be able to...
+make calculations of the electrostatic force between charged particles
+verify Coulomb's law experimentally
+Charged particle interactions
+The attraction between a proton and an electron can be imagined as the proton creating an electric
+field because of its positive charge, and the electron feeling a force produced by the proton's field.
+(Note that it could also be thought of the other way round, with the proton feeling a force caused by
+the electron's electric field.)
+fig A A proton's field (shown in three dimensions) will cause a force on a negatively charged electron
+The force between two charged particles, Q, and Q2, which are separated by a distance r, is described
+by Coulomb's law and is given by the expression:
+- QQ2kQ,Q
+46,72 p2
+This can be seen as a logical consequence of the equations we have already seen for electric fields:
+EATER
+So, for one charge Q, creating a radial field in which another charge Q, sits at a distance r from Q,:
+0.0
+F= EQ - 4160P2
+Note that for charged spheres, the calculation of the force between them is also given by Coulomb's
+law, but the distance is measured between the centres of the spheres.
+Learning tip
+Take care to correctly include the charge signs in the calculation of force between charges, as the sign of
+the final answer will tell you whether they attract or repel. A negative force will be attractive, as the force is
+then in the opposite direction to that in which the separation was measured.
+WORKED EXAMPLE
+F
+=
+What is the force of attraction between the electron and proton in a hydrogen atom?
+r = 5.3 * 10-11m Q2 = 1.6 x 10-19C Q2 = -1.6 x 10-19
+Q.Q2
+4TEOP2
+(8.99 x 10°) (1.6 x 10-19) (-1.6 x 10-19)
+(5.3 * 10-1192
+F=-8.2 x 10-'N
+7.1
+WP
+Investigation
+Investigating Coulomb's law
+Assume each shoe atom electron repels a corresponding one in
+the floor surface, and oxygen, with eight electrons, is the most
+abundant element. So estimate the force per atom that is shared
+between four electrons (with the other four being on the opposite
+side of the atom at any given moment).
+Foto
+Felectron atom = 3.77 x 10-17N
+Felectron = coulomb force repelling shoe electron and
+floor electron - 9:02
+4180
+fig B Measuring the force between two charges.
+A pair of insulated metalised spheres can be charged using a Van de
+Graaff generator, or simply by induction using a charged plastic rod.
+Clamping the spheres close to each other will cause a force between
+them which can be measured using an electronic balance. By
+adjusting the distance of separation and measuring the force at each
+distance, this apparatus can be used to confirm that Coulomb's law
+follows an inverse square law. See also an alternative method for
+verifying Coulomb's law below.
+Q1 Q2
+(-1.6 10-19) (-1.6 x 10-19)
+4TT Felectron 4* 3.14 x (8.85 x 10-12) (3.77 ® 10-17)
+Levitation height: r = 2.5 x 10-6m
+So the man will float a couple of micrometres above the floor
+surface; a distance equal to about a tenth of the size of a human
+red blood cell, or the size of a bacterium such as Escherichia coli.
+There are a number of assumptions in this calculation, not least of
+which is that the positive charge of the nuclei of the atoms involved
+has not been considered. Also, the compression of atomic bonds
+within each material will mean that the force is supported across
+more atoms than just those considered. However, it is true that the
+repulsion of atomic electrons, which increases with the square of a
+decreasing separation, provides the majority of contact forces with
+which we are familiar in everyday life, and genuinely does mean
+that you can never truly touch anything!
+WP
+Investigation
+Verifying Coulomb's law
+In 1785, Charles Augustine de Coulomb published a paper in which
+he provided experimental evidence for the equation to calculate the
+force between two charges. His experiments involved measuring
+the force between charged spheres on a torsion (rotating) balance
+and fixed charged spheres. A simplification of his method, which can
+be carried out in a school lab, is shown in fig C.
+Everyday levitation
+All materials are made of atoms, and the outer part of atoms is
+considered to be the region of electron orbits - the location of the
+negative charge. We can therefore imagine the top of any surface
+to consist of a sheet of negative charges. So, the surface of the
+floor and the bottom of a man's shoe will both be planes covered
+with negative charge. The repulsion between these two surfaces
+will cause the man to levitate ever so slightly above the floor,
+rather than actually touching it.
+WORKED EXAMPLE
+Estimate the height at which a man levitates.
+Estimate of man's weight = 800 N
+Therefore each shoe supports 400N.
+Estimate of shoe surface area = 10 cm by 30 cm
+Area of shoe surface = 0.1 0.3 = 0.03 m2
+Estimate of average diameter of atoms in each surface,
+datom = 1.2 x 10-10m
+Cross-sectional area of each atom = aratom
+Aatom = 7(0.6 x 10-102
+Aatom = 1.13 x 10-20 m2
+Number of atoms in bottom surface of shoe =
+area of shoe
+area one atom
+0.03
+N =
+force supported by shoe
+Force supported by each shoe atom = =
+N
+= 1.51 x 10-16N
+" 2.65 x 1018
+0
+10
+30
+40
+50 60 70
+1.13 x 10-20 ~ 2.65 * 1018 atoms
+100
+Fate
+=
+400
+fig C A simple method to verify Coulomb's law.
+1.1
+WP
+Learning tip
+Uniform electric field strength can be defined in two ways:
+Investigation
+Investigating equipotentials
+EF
+EV
+This gives rise to two equally valid Sl units for electric field strength:
+NC- and Vm-!
+Investigation
+Investigating electric fields
+fig E Apparatus for investigating equipotentials.
+You can investigate how electrical potential varies across an electric
+field by measuring the voltage between zero and the point within
+the field that you are interested in. A simple experiment using
+conducting paper and a low voltage power supply to set up an
+electric field will allow you to map out equipotentials, and this will
+enable you to produce a picture of the electric field. Again, you can
+try it with differently shaped electrodes in order to see how they
+change the field shape.
+Questions
+1 What is the force on an electron in an electric field of 300 V m-?
+2
+What is the strength of an electric field that will put a force of
+1.28 x 10-15 N on a proton?
+fig D Finding electric field lines in the lab.
+Make sure you know how to use an EHT power supply safely before
+conducting this experiment. Only use an EHT power supply provided
+by the technicians.
+You can investigate the shapes of electric fields using an EHT power
+supply to provide a potential difference, and castor oil with floating
+semolina to show the field lines. The semolina becomes slightly
+charged, and the charges on the semolina grains cause them to line
+up, thereby showing the lines of action of the forces produced by the
+field. Try it with different shaped electrodes to see uniform and non-
+uniform fields.
+How much acceleration will an alpha particle undergo whilst in an
+electric field of 10 kV m-l?
+In the electron beam of a cathode ray oscilloscope, electrons are
+accelerated through a potential difference of 3000 V, which is set up
+between parallel plate electrodes that are 3 cm apart.
+(a) Calculate the electric field strength between these electrodes,
+assuming it is a uniform field.
+(b) How much faster will the electrons be moving when they
+emerge from this field?
+(c) Draw a diagram to illustrate the field produced by these plates.
+(d) Explain how the field's effects would be different if a proton
+were placed in it.
+Equipotentials
+As we move through an electric field, the electrical potential
+changes from place to place. Those locations that all have the
+same potential can be connected by lines called equipotentials.
+These are very much like the contours on a map, which are
+lines of equal height, and thus indicate lines of gravitational
+equipotential. The field will always be perpendicular to the
+equipotential lines, as a field is defined as a region which changes
+the potential. How close the equipotentials are indicates the
+strength of the electric field, as this shows how rapidly the electric
+potential is changing.
+Learning tin
+Field lines can never cross each other. Equipotentials can never cross
+either.
+Kev definitions
+An electric field is a region of space that will cause charged particles
+to experience a force.
+Electric field lines are imaginary visualisations of the region of
+influence of an electric field.
+Electric field strength is the force-to-charge ratio for a charged
+particle experiencing a force due to an electric field.
+Potential is a measure of possible field energy in a given location within
+that field. Electric potential is the energy per unit charge at that location.
+Potential difference is the change in potential between two
+locations in a given field.
+Equipotentials are positions within a field with zero potential
+difference between them.
+36

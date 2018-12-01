@@ -1,0 +1,1655 @@
+22
+ENTHALPY AND ENTROPY
+Cold packs - where does the heat go?
+Cold packs are used for sporting injuries to reduce swelling to muscles and
+sprains. They are made of a pouch containing two compartments - one
+containing a chemical, the other water. The cold pack is activated by squeezing
+the pack to break the seal between the two compartments. The pack is then
+shaken vigorously. The chemical dissolves in the water, cooling the pack and the
+area around the injury.
+Various chemicals can be used, the most common being the ionic compound
+ammonium nitrate, NH, NOZ-
+Figure 7 Applying a coolice pack
+to an injured elbow
+In terms of bond breaking and bond making, how do you think the cold pack
+works?
+Summary questions
+1 Define the terms:
+i enthalpy change of solution
+ii enthalpy change of hydration.
+(2 marks)
+2 You are provided with the following enthalpy changes:
+K+(g) + F-(g) - KF(s) AH = -801 kJ mol-1
+K+(g) + aq - K+(aq) AH = -320 kJ mol-1
+F-(g) + aq F-(aq)
+AH = -524 kJ mol-1
+a Name each enthalpy change.
+(3 marks)
+b Write an equation, including state symbols, that represents the
+enthalpy change of solution of KF.
+(1 mark)
+c Construct an energy cycle for KF that links the enthalpy changes in
+a and b (4 H (KF) is exothermic).
+(3 marks)
+d Calculate the enthalpy change of solution of KF.
+(1 mark)
+3 5.18 g of solid lithium fluoride were dissolved in 50.0 cm of water in
+a polystyrene cup of negligible heat capacity. The temperature of the
+solution increased by 29.0°C. Calculate the enthalpy change of solution
+of lithium fluoride, showing all your working.
+(Assume that the density of water = 1.00 g cm-and the specific heat
+capacity of solution = 4.18 Jg-1K-1.)
+(3 marks)
+4 You are provided with the information below.
+A H(Ca2+) = -1579 kJ mol-1
+AnydH(F) = -524 kJ mol-1
+4.,H(CaF,) =-16 kJmol-1
+a Construct an energy cycle that would allow you to find the lattice
+enthalpy of calcium fluoride using these enthalpy changes. Show all
+species with state symbols and label all energy gaps. (5 marks)
+b Calculate the lattice enthalpy of calcium fluoride. (2 marks)
+357
+22
+ENTHALPY AND ENTROPY
+Synoptic link
+Successive electron affinities
+The example for magnesium chloride included two ionisation energies
+to account for the formation of Mg2+(g). When an anion has a greater
+charge than 1-, such as 02-, successive electron affinities are required.
+These are dealt with in a similar way to successive ionisation energies.
+For details of successive ionisation
+energies, see Topic 7.2, lonisation
+energies.
+The first two electron affinities (EA) for oxygen are shown below.
+First EA O(g) + ( + 0-(g) AA, H = -141 kJ mol-1
+02-(0)
+gaseous
+gaseous
+atoms
+1-ions
+Second EA
+0-(g) + 2e-
+0(g) + e - 02-(g) A H = +790 kJ mol-1
+2nd electron affinity.
+gaseous
+gaseous
+Ist electron affinity,
+AEA2 HP(O) = +790
+1- ions
+2-ions
+AEAL H(0) = -141
+O(g) +
+Second electron affinities are endothermic. A second electron is
+being gained by a negative ion, which repels the electron away. So
+Figure 5 Energy changes for
+energy must be put in to force the negatively-charged electron onto
+formation of 02-(g). All enthalpy
+changes have units of kJ mol-1. The first
+the negative ion. A Born-Haber cycle including 02-(g) would contain
+electron affinity is exothermic, but the
+the two energy changes shown in Figure 5.
+second electron affinity is endothermic
+Summary questions
+1 a State the name of the enthalpy changes for the
+following:
+i Ca(g) - Ca+(g) + e
+ii S-(g) + e -52-(g)
+iii Ca(s) + Cl (g) - CaCl (s) (3 marks)
+b Write equations for the changes that accompany
+the following:
+i lattice enthalpy of magnesium oxide
+ii first electron affinity of fluorine
+iii enthalpy change of atomisation of oxygen.
+(3 marks)
+2 You are provided with the information below:
+Enthalpy
+Equation
+AHⓇ/kJ mol-1
+change
+A Na(s) + Br(0) — NaBr(s) -361
+Br(g) + Br(g)
+-325
+Na(s) - Na(g)
++108
+D Na(g) - Na*(g) + e
++496
+Brą(0) -- Br(g)
++112
+3 a Draw a Born-Haber cycle for the formation of
+sodium oxide, Na,0, showing all species with state
+symbols and labelling all energy gaps. (5 marks)
+b Use your Born-Haber cycle and the data below to
+calculate the lattice enthalpy of sodium oxide.
+A H® (Na) = +108 kJ mol-1
+A H (0) = +249 kJmol-1
+AH(Na) = +496 kJ mol-1
+4H® (Na,0)=-414 kJmol-1
+AAH® (0)=-141 kJ mol-1
+AFAZH® (O) = +790 kJmol-1
+(2 marks)
+B
+Brlohre
+a State the name of each enthalpy change A to E.
+(5 marks)
+b Construct a Born-Haber cycle for sodium bromide.
+(5 marks)
+c Calculate the lattice enthalpy of sodium bromide.
+(2 marks)
+351
+22.2 Enthalpy changes in solution
+Specification reference: 5.2.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ enthalpy changes in solution
+► enthalpy cycles related to
+hydration
+Dissolving ionic compounds
+Water molecules are able to break up the giant ionic lattice structure and
+overcome the strong electrostatic attractions between oppositely-charged
+ions. This is what happens when salt dissolves in water.
+Synoptic link
+Enthalpy change of solution
+The overall energy change associated with the dissolving process is
+called the enthalpy change of solution.
+The standard enthalpy change of solution A H® is the enthalpy
+change that takes place when one mole of a solute dissolves in a
+solvent. If the solvent is water, the ions from the ionic lattice finish up
+surrounded with water molecules as aqueous ions.
+The equation below represents the enthalpy change of solution of sodium
+chloride in water. In the equation, aq represents an excess of water.
+NaCl-(s) + aq — Na+ (aq) + Cl-(aq) 4 HⓇ = +4 kJmol-1
+In Topic 5.2, lonic bonding and
+structure, you learnt that ionic
+compounds tend to dissolve in
+polar solvents.
+solid ionic lattice
+aqueous ions
+The enthalpy change of solution can be exothermic or endothermic.
+Figure 1 shows part of the sodium chloride lattice and compares the
+ions in the ionic lattice and in solution. Remember that the attraction
+exists in three dimensions, so there will also be ions and water
+molecules above and below the plane of the paper.
+NaCl(s): Na+ and Cl ions attracted together in a giant ionic lattice
+NaCl(aq): Na+ and Clions are separate, but now surrounded by water
+molecules.
+H&+
+OH HO
+O
++ HO
+0+ 8+
+Nat cr Nach
+a cr at cr Nat
+Na+ cr Nat CT
+CCF Nat Cr Nat
+Na+ ci Na+ cr
+CT Na Cl Nat
+Nat cr NatCT
++ 10 VAI
+Cl
++HO
+-OH
+"HO
+HO &
+H8+
+A Figure 1 Comparison of positive and negative ions in ionic lattice and aqueous ions
+In the aqueous ions, the 8+ and 8- partial charges in the water
+molecules are attracted towards the positive and negative ions.
+The 8- oxygen atom is attracted to the positive sodium ion.
+The d+ hydrogen atoms is attracted to the negative chloride ion.
+352
+22.3 Factors affecting lattice
+enthalpy and hydration
+Specification reference: 5.2.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ factors affecting lattice
+enthalpy and hydration
+enthalpy.
+lonic compounds
+Ionic compounds tend to have the following general properties:
+• high melting and boiling points
+soluble in polar solvents
+conduct electricity when molten or in aqueous solution.
+Amongst the many ionic compounds, there is actually a wide range in
+melting points and solubilities.
+Synoptic link
+In Topic 5.2, lonic bonding and
+structure, you learnt about the
+giant ionic lattice structures and
+their properties.
+Some ionic compounds can be melted with the heat of a Bunsen
+burner, whilst others have such high melting points that they can
+be used to coat the inside of furnaces. There are even some ionic
+compounds that are liquids at room temperature - these are called
+ionic liquids.
+Although many ionic compounds are soluble in polar solvents such as
+water, others are insoluble.
+The relative magnitude of lattice and hydration enthalpies helps
+to explain the variety of melting and boiling points and trends in
+solubility seen in ionic solids.
+Factors affecting lattice enthalpy
+The values of lattice enthalpies depend upon ionic size and ionic
+charge.
+Effect of ionic size
+The effect of increasing ionic size can be seen by comparing the lattice
+enthalpies of Group 1 chlorides (Table 1).
+Table 1 Effect of ionic size on lattice enthalpy
+Cation size
+Compound
+Lattice Melting
+enthalpy/kJ mol-1 point/°C
+Effect of ionic size
+Na+
+NaCl
+-786
+801
+-715
+771
+. ionic radius increases
+attraction between ions decreases
+lattice energy less negative
+melting point decreases
+Rb+
+RbCI
+-689
+718
+358
+22
+22.1 Lattice enthalpy
+6) Worked example: Calculating the lattice enthalpy of magnesium chloride
+This example is similar to the first example of sodium chloride but
+with some differences:
+The magnesium ion has a 2+ charge. Its formation will involve
+the first and second ionisation energies of magnesium, A., H®(Mg)
+and A, H®(Mg). So there is another step in the energy cycle.
+• Two chlorine atoms are involved throughout. You need to
+multiply anything involved with Cl or Cl- by a factor of 2.
+You are provided with the following enthalpy changes. All values are
+in units of kJ mol-!.
+Construct a Born-Haber cycle and calculate the lattice enthalpy of
+magnesium chloride.
+4_HⓇ (MgCl2) 4H®(Mg) 4H® (CI) AL H® (Mg) A2 H® (Mg) ALAH (CI)
+-642 +150 +121 +736 +1450 -346
+Step 1: Construct a Born-Haber.
+Mg2+(g) +2e + 2Cl(g)
+A1E2 He(Mg) = +1450
+E 2 x AEA H®(CI) = 2 x -346
+Mg+(g) + e + 2Cl(g)
+A EI H®(Mg) = +736 C
+Mg2+(g) + 2C1-(g)
+Mg(g) + 2Cl(g)
+2 x Ag H®(CI) = 2 x +121 B
+Mg(g) + Cl2(g)
+FALE H®(MgCl2)
+Aat H®(Mg) = +150
+Mg(s) + Cl2(g)
+AfH (MgCl2)=-642
+G
+MgCl(s)
+Figure 4 Born-Haber cycle for MgCl,(s). All enthalpy changes have units of kJ mol-1
+Step 2: Calculate the lattice enthalpy of magnesium chloride.
+Route 1:
+A + B + C + D + E + F, A, HⓇ
+Route 2:
+Using Hess's law: A+B+C+D+ E + ALEH = G
+A H®(Mg) + 2 x 4, H® (Cl) + ALE H®(Mg) + A12H® (Mg) + 2 x ALAH® (CI) + ALEH (MgCl2) = 4,H® (MgCl)
++150 + 2 x 121 + 736 + 1450 + (2x-346) + ALEH®(MgCl2) = -642
+A H® (MgCl,) = -642 - {+150 + 2 x 121 + 736 + 1450 + (2 -346)} = -2528 kJ mol-!
+350
+22
+22.2 Enthalpy changes in solution
+O Worked example: Calculating the enthalpy change of
+hydration of Ca2+ ions
+This approach is similar to the first example of sodium chloride
+but there is two important differences
+1 Two Br ions are involved. As such, you need to multiply
+enthalpy changes involving 2Br-by a factor of 2.
+The enthalpy change of solution of calcium bromide is
+exothermic. This affects the positioning of the energy levels in
+the energy cycle and the direction of change D.
+Compare the energy cycles in Figure 5 and Figure 6 to see the
+difference.
+You are provided with the following enthalpy changes. All values
+are in units of kJ mol-1. Construct an energy cycle and calculate
+the enthalpy change of hydration of Ca2+ ions.
+AFH(CaBr)
+- 2176
+sol
+AH® (Br)
+-348
+-99
+Step 1: Construct the energy cycle.
+Ca2+(g) + 2Br (g)
+gaseous ions
+B Enthalpy change of hydration of Ca2+,
+Anyd H®(Ca2+)
+Lattice enthalpy of CaBr2,
+ALE H®(CaBra) = -2176
+Ca2+(aq) + 2Br-(g)
+CaBry(s)
+2 x Enthalpy change of
+ionic lattice
+hydration of Br
+Enthalpy change of
+2 x Ahyd H®(Br) =
+solution of CaBro,
+2 X-348
+Aso H®(CaBry) = -99 Ca2+(aq) + 2Br (aq) V
+aqueous ions
+A Figure 6 Energy cycle for CaCl (s), all enthalpy changes have units of kJ mol-1
+Between each horizontal energy level:
+only one species has changed, matching the enthalpy change
+that has taken place
+all the species are balanced.
+Step 2: Calculate the enthalpy change of hydration.
+Route 1:
+A +D
+Route 2:
+B + C
+Using Hess's law: A+D = B+C
+A_H (CaBry) + 4,,H(CaBr) = AnydH (Ca2+) + 2 x AnyaHⓇ(Br)
+(-2176) + (-99) = AbydH® (Ca2+) + (2x -348)
+AnydH® (Ca2+) = (-2176) + (-99) - (2 x -348) = -1579 kJ mol-!
+356
+22
+ENTHALPY AND ENTROPY
+Determination of unknown enthalpy changes
+You can use the energy changes from Figure 3 as a basis for constructing
+an energy cycle to calculate an unknown enthalpy change.
+2 Worked example: Calculating the lattice enthalpy of
+sodium chloride
+Construct an energy cycle and calculate the lattice enthalpy of
+sodium chloride, NaCl. You are provided with the following
+enthalpy changes.
+Na*(g) + aq — Nat(aq)
+Anya HⓇ = -406 kJ mol-1
+Cl-(g) + aq - Cl(aq)
+Ahya HⓇ = -378 kJ mol-1
+Na+Cl-(s) + aq - Na+ (aq) + Cl(aq) HⓇ = +4 kJ mol-1
+Step 1: Construct the energy cycle.
+Na+(g) + Cl (g)
+gaseous ions
+Enthalpy change of hydration of Nat
+Anyd H®(Na+) = 406 kJ mol-1
+Na+(aq) + CI+(g)
+Enthalpy change of hydration of CI-
+Lattice enthalpy A
+ALE H (NaCl)
+Ahyd H®(CF)=-378kJmol-1
+Na+(aq) + Cl (aq)
+aqueous ions
+Figure 4 Sodium chloride crystals
+Study tip
+Remember that between each
+horizontal energy level only one
+species changes and all the
+species are balanced.
+Enthalpy change of solution
+Asol He(NaCl) = +4 kJ mol-1
+NaCl(s)
+ionic lattice
+A Figure 5 Energy cycle for NaCl(s). All enthalpy changes have units of kJ mol-1
+Between each horizontal energy level:
+only one species has changed, matching the enthalpy change
+that has taken place
+all the species are balanced.
+Step 2: Calculate the lattice enthalpy.
+Route 1:
+A
++D
+Route 2:
+B+C
+Using Hess's law: A + D = B + C
+AFH (NaCl) + 43.H(NaCl) = AnydH® (Na+) + AbydH® (CH)
+ALEH® (NaCl) + (+4) = (-406) + (-378)
+ALEH® (NaCl) = (-406) + (-378) - (+4) = -788kJ mol-1
+355
+22
+ENTHALPY AND ENTROPY
+Na+(g) + e + Cl(g)
+First electron affinity of CI
+AEAH(CI) = -346
+First ionisation energy of Na
+AIE H®(Na) = +496
+Na+(g) + CI+(g)
+gaseous ions
+Na(g) + Cl(g)
+gaseous atoms
+Enthalpy change of atomisation of CI
+AtHⓇ (CI) = +121
+Na(g) + Cl (g)
+Enthalpy change of atomisation of Na
+AaH(Na) = +108
+Lattice enthalpy of NaCl
+ALEH(NaCl)
+Na(s) + Cl2(g)
+elements in standard states
+Enthalpy change of formation of NaCl
+A He(NaCl) = -411
+NaCl(s)
+ionic lattice
+A Figure 3 Born-Haber cycle for NaCl(s). All enthalpy changes have units of kJ mol-1
+Between each horizontal energy level:
+only one species has changed, matching the enthalpy change
+that has taken place
+all the species are balanced.
+For example, for change A, Na(s) has been atomised to Na(g) and
+the enthalpy change is the atomisation of Na.
+Cl,(g) has not changed but it is still included to account for all the
+species that are present.
+Step 2: Calculate the lattice enthalpy of sodium chloride.
+Route 1:
+A + B + C + D + E, ALEH® (NaCl)
+Route 2:
+Using Hess' law: A + B + C + D + ALEH® (NaCl) = F
+4. H® (Na) + 4H® (Cl) + AFH® (Na) + ALAH® (CI) + ALEH® (NaCl) = 4_H® (NaCl)
+108 + 121 + 496 + (-346) + ALEH® (NaCl) = -411
+ALEHⓇ(NaCl) = -411 - {108 + 121 + 496 + (-346)) = -790 kJ mol-!
+349
+2
+ENTHALPY AND ENTROPY
+Effect of ionic charge
+Table 2 summarises the effect on increasing ionic charge by comparing
+sodium oxide with calcium oxide, chosen for the similar sizes of the
+cations Na+ and Ca2+.
+Table 2 Effect of ionic charge on lattice enthalpy
+Compound
+Na, 0
+Cal
+Cation charge
+Nat
+Ca2+
+-2455
+-3414
+Lattice enthalpy
+/kJ mol-1
+Melting point/°C
+Study tip
+1132
+2900
+Although there are more ions in
+one mole of Na, 0 than one mole
+of Cao, this does not outweigh the
+increased attraction from the 2+
+charge in Ca2+ which is much more
+significant
+Effect of cation
+charge
+. lonic charge increases
+Attraction between ions increases
+· Lattice energy becomes more negative
+• Melting point increases
+cr
+Table 3 shows the change in ionic size and ionic charge across Period 3
+in the periodic table. The effects of both ionic size and charge affect the
+attraction of these ions for oppositely charged ions. Across Period 3,
+the ionic size of the cations Na+, Mg2+, and Al3+ decreases as there are
+more protons attracting the same number of electrons.
+Table 3 Effect of ionic charge and size across Period 3
+Na2+
+Mg2+
+S2-
+Two supporting effects:
+increasing charge gives more attraction
+• decreasing size gives more attraction
+Two opposing effects:
+• increasing charge gives more attraction
+• increasing size gives less attraction
+Predicting melting points
+The magnitude of lattice energy gives a good indication of the melting
+point of an ionic compound, as shown in Table 1 and Table 2. Some
+metal oxides, such as MgO, Al,0%, and Zro, have very exothermic
+lattice enthalpies and very high melting points. These stable metal
+oxides find a use as a protective coating for the inside of furnaces and
+refractories. Lattice enthalpy is a very good indicator for the size of the
+melting point but other factors, such as the packing of ions in an ionic
+lattice, may need to be considered as well.
+Figure 1 Rubies and sapphires are
+mainly aluminium oxide, Al0, with traces
+of elements giving the different colours. The
+very exothermic lattice enthalpy of A1,0,
+ensures that the jewels are long lasting
+359
+22
+22.3 Factors affecting lattice enthalpy and hydration
+Factors affecting hydration
+Hydration enthalpies are affected by ionic size and ionic charge in a
+similar way as lattice enthalpies. Tables 4 and 5 summarise the effects
+of increasing ionic size and charge on hydration enthalpies.
+Table 4 Effect of ionic size on hydration enthalpy down Group 1
+Cation size
+Hydration
+enthalpy
+/kJ mol-1
+Effect of ionic size
+Nat
+-406
+-320
+ionic radius increases
+attraction between ion and
+water molecules decreases
+hydration energy less negative
+Rb+
+-296
+Table 5 Effect of ionic charge on hydration enthalpy
+lonic charge
+Nat
+Ca2+
+Hydration
+enthalpy
+/kJ mol-1
+-406
+- 1579
+Effect of ionic
+charge
+ionic charge increases
+attraction with water molecules increases
+• hydration energy becomes more negative
+Synoptic link
+Predicting solubility
+In Topic 22.2, Enthalpy changes
+in solution, you learnt about the
+energy processes involved in
+dissolving an ionic compound.
+To dissolve an ionic compound in water, the attraction between the
+ions in the ionic lattice must be overcome. This requires a quantity of
+energy equal to the lattice enthalpy. Water molecules are attracted to
+the positive and negative ions, surrounding them and releasing energy
+equal to hydration enthalpy.
+If the sum of the hydration enthalpies is larger than the magnitude of
+the lattice enthalpy, the overall enthalpy change (the enthalpy change
+of solution) will be exothermic and the compound should dissolve.
+Synoptic link
+In Topic 22.5, Free energy, you will
+find out why some endothermic
+processes are able to take place on
+their own at room temperature.
+However, many compounds with endothermic enthalpy changes
+of solution are soluble so this does not provide the total picture.
+The reasons for solubility also depends on temperature and another
+variable called entropy, which is discussed in the Topic 22.4 and 22.5.
+360
+ENTHALPY AND ENTROPY
+22.1 Lattice enthalpy
+Specification reference: 5.2.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ lattice enthalpy
+→ Born-Haber cycles
+→ calculation of lattice
+enthalpy.
+Lattice enthalpy
+Solid ionic compounds tend to be very stable - the stability arises
+from the strength of the ionic bonds, electrostatic attractions
+between oppositely-charged ions in the ionic lattice structure. This
+creates a substantial energy barrier that must be overcome to break
+down the lattice, reflected in the high melting points of many ionic
+compounds. Lattice enthalpy is a measure of the strength of ionic
+bonding in a giant ionic lattice.
+Lattice enthalpy is the enthalpy change that accompanies the
+formation of one mole of an ionic compound from its gaseous ions
+under standard conditions. For example:
+gaseous ions
+K+(g) + Cl (g) → KCl(s)
+ALEH = -711 kJmol-1
+AH is negative
+lattice enthalpy
+lattice formation
+from gaseous ions
+gaseous
+ions
+solid ionic
+compound
+Lattice enthalpy involves ionic bond formation from separate gaseous
+ions. It is an exothermic change and the value for the enthalpy change
+will always be negative (Figure 1).
+ionic lattice
+A Figure 1 Lattice enthalpy is
+exothermic
+Synoptic link
+In Topic 5.2, lonic bonding and
+structure, you learnt that the solid
+structure of an ionic compound is
+a giant ionic lattice.
+The Born-Haber cycle
+Lattice enthalpy cannot be measured directly and must be
+calculated indirectly using known energy changes in an energy
+cycle. You have seen how to calculate enthalpy changes indirectly.
+The indirect determination of lattice enthalpy requires a special
+type of energy cycle called a Born-Haber cycle. Figure 2 shows
+two routes for changing elements in their standard states into an
+ionic lattice.
+gaseous ions
+fomation of
+gaseous ions
+gaseous atoms
+Route 1
+fomation of
+gaseous atoms
+elements in
+standard states
+lattice enthalpy
+lattice formation
+from gaseous ions
+lattice formation
+from elements
+Route 2
+Synoptic link
+See Topic 9.4, Hess' law and
+enthalpy cycles, for details of the
+indirect determination of enthalpy
+changes.
+ionic lattice
+A Figure 2 Energy cycle linking elements to ionic lattice and gaseous ions
+346
+22.4 Entropy
+Specification reference: 5.2.2
+What is entropy?
+Entropy S can be used to explain things that occur naturally:
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ entropy changes
+→ calculation of entropy
+changes.
+a gas spreading through a room
+heat from a fire spreading through a room
+ice melting in a hot room.
+In all these examples, energy is being dispersed and becoming more
+spread out. There is always a natural tendency for energy to spread
+out rather than be concentrated in one place.
+The greater the entropy, the greater the dispersal of energy and the
+greater the disorder.
+The term entropy is used for the dispersal of energy within the
+chemicals making up the chemical system.
+The units of entropy are JK-mol-!. The greater the entropy value, the
+greater that energy is spread out per Kelvin per mole.
+In general:
+solids have the smallest entropies
+liquids have greater entropies
+gases have the greatest entropies.
+These are very general rules though. Each state has substances that
+can have very different entropies.
+Predicting entropy changes
+At OK, there would be no energy and all substances would have an
+entropy value of zero. Above OK, energy becomes dispersed amongst
+the particles and all substances have positive entropy.
+Systems that are more chaotic have a higher entropy value.
+• If a system changes to become more random, energy can be spread
+out more - there will be an entropy change AS which will be
+positive.
+If a system changes to become less random, energy becomes more
+concentrated – the entropy change AS will be negative.
+In an equation for a physical or chemical change, you can predict
+whether entropy increases or decreases by comparing the physical
+states and amount of gas molecules on either side of an equation.
+Changes of state
+Entropy increases during changes in state that give a more random
+arrangement of particles:
+solid
+liquid → gas
+362
+22
+22.1 Lattice enthalpy
+The first ionisation energy A H is the enthalpy change required to
+remove one electron from each atom in one mole of gaseous atoms to
+form one mole of gaseous 1+ ions. For example:
+A, H
+= +496 kJ mol-1
+Na(g) → Nat(g) + e-
+gaseous gaseous
+atoms 1+ ions
+Study tip
+You need to learn the definitions
+for lattice enthalpy, first ionisation
+energy, and enthalpy change
+of formation only. For the other
+enthalpy changes, you are not
+required to recall the definition but
+you must understand what the
+energy changes are and use them
+in constructing energy cycles and
+in calculations.
+Ionisation energies are endothermic because energy is required to
+overcome the attraction between a negative electron and the
+positive nucleus.
+Electron affinity is the opposite of ionisation energy.
+• Electron affinity measures the energy to gain electrons.
+Ionisation energy measures the energy to lose electrons.
+The first electron affinity AF H® is the enthalpy change that takes
+place when one electron is added to each atom in one mole of gaseous
+atoms to form one mole of gaseous l-ions. For example:
+Cl(g) + e + Cl (g)
+A H = -346 kJ mol-1
+gaseous gaseous
+atoms l-ions
+First electron affinities are exothermic because the electron being added
+is attracted in towards the nucleus.
+Determination of lattice enthalpies
+By constructing a full Born-Haber cycle you can calculate lattice
+enthalpies.
+O Worked example: Calculating the lattice enthalpy of
+sodium chloride
+You are provided with the following enthalpy changes.
+Construct a Born-Haber cycle and calculate the lattice enthalpy
+of sodium chloride, NaCl.
+Na(s) +-C12(9) - NaCl(s) AH = -411 kJ mol-1
+Na(s) - Na(g)
+4 H = +108 kJ mol-1
+C12(g) – Cl(g)
+4,HⓇ = +121 kJ mol-1
+Na(g) → Na+(g) + e
+AH = +496 kJ mol-1
+Cl(g) + - CH-(g)
+AAH = -346 kJ mol-1
+Step 1: Construct a Born-Haber cycle. Use Figure 2 as a guide.
+• The formation of gaseous atoms requires two separate energy
+changes, 4 H (Na) and 4 H®(CI).
+The formation of gaseous ions requires two separate energy
+changes, A.H (Na) and ALAH(CI).
+Study tip
+Enthalpy change of atomisation is
+endothermic.
+Study tip
+lonisation energies are endothermic.
+First electron affinity is exothermic.
+348
+22
+ENTHALPY AND ENTROPY
+Route 1
+Route 1 requires three different processes.
+Formation of gaseous atoms:
+Changing the elements in their standard states into gaseous atoms.
+This change is endothermic as it involves bond breaking.
+Formation of gaseous ions:
+Changing the gaseous atoms into positive and negative
+gaseous ions.
+Overall, this change is endothermic.
+Lattice formation:
+Changing the gaseous ions into the solid ionic lattice.
+This is the lattice enthalpy and is exothermic.
+Route 2
+Route 2 converts the elements in their standard states directly to the
+ionic lattice. There is just one enthalpy change, the enthalpy change of
+formation AH, and this is exothermic.
+Key enthalpy changes
+The key enthalpy changes involved in a full Born-Haber cycle are
+listed below. Some, such as ionisation energies and enthalpy change
+of formation, will be familiar. The example equations all apply to
+enthalpy changes in the Born-Haber cycle for sodium chloride.
+Synoptic link
+To revise ionisation energies,
+look back at Topic 7.2, lonisation
+energies. To revise enthalpy
+change of formation, see Topic 9.1,
+Enthalpy changes.
+The standard enthalpy change of formation Ac HⓇ is the enthalpy
+change that takes place when one mole of a compound is formed from
+its elements under standard conditions, with all reactants and products
+in their standard states.
+Na(g) + C12(g) → NaCl(s) A.HⓇ = -711 kJ mol-1
+elements in
+standard states
+one mole of
+compound
+The compound will always be an ionic compound in its solid lattice.
+The standard enthalpy change of atomisation A H® is the enthalpy
+change that takes place for the formation of one mole of gaseous atoms
+from the element in its standard state under standard conditions.
+Na(s) → Na(g) 4 HⓇ = +107 kJ mol-1
+-C12(g) → Cl(g) 4 H = +121 kJ mol-1
+element in Imole of
+standard state gaseous atoms
+4 H® is always an endothermic process because bonds are broken to
+form gaseous atoms. When the element is a gas in its standard state,
+4, H® is related to the bond enthalpy of the bond being broken.
+For example, for CI,(g) 2Cl(g), a CL-Cl bond is being broken,
+which has a bond enthalpy of +242 kJ mol-!. So for C12(g), the
+enthalpy change is +121 kJ mol-?.
+Study tip
+Take care. A His for the formation
+of one mole of gaseous atoms.
+Only mol of Cl, is needed to
+form 1 mol of Ci.
+NI
+347
+2
+ENTHALPY AND ENTROPY
+lonic liquids
+You have learnt that ionic compounds generally have high melting and
+boiling points, but ionic liquids have a low enough melting point that they
+are liquids below 100 °C. So what is an ionic liquid?
+Most ionic compounds have regular-shaped ions of reasonably similar size
+so they can pack together tightly to form a solid ionic lattice.
+In an ionic liquid, the ions can have irregular shapes and can be very
+different sizes. This means that they are unable to pack together into a
+lattice and can be liquids at room temperature.
+lonic liquids conduct electricity, do not vaporise easily, and can dissolve
+an amazing range of substances. The chemical structure of an ionic liquid
+typically contains an organic ion as shown by the ionic liquid [EMIM]CI in
+Figure 2. lonic liquids can be made from biomass, and are seen as potential
+green solvents in the future to replace oil-derived solvents.
+A Figure 2 Structures of the ionic liquid, (EMIM]CI
+a Why doesn't the ionic liquid (EMIM]CI form an ionic lattice?
+b What is the empirical formula of the ionic liquid (EMIM]CI?
+c Carry out an Internet search to find some potential uses for ionic
+liquids and their synthesis from biomass.
+Summary questions
+1 State and explain the factors that affect the values of hydration
+enthalpies.
+(4 marks)
+2 Explain the differences between the following lattice enthalpies:
+a 4, H(NaCl) and A H(KCI)
+(2 marks)
+b A H(NaCl) and AH(MgCl2)
+(2 marks)
+3 Explain why it is difficult to predict which compound in the following
+pairs of compounds has the more exothermic lattice enthalpy:
+a 4 H(NaBr) and AH(KCI)
+(2 marks)
+b A H(Mg0) and AH(MgF,)
+(2 marks)
+361
+22
+ENTHALPY AND ENTROPY
+b
+Standard entropies are given in the
+table below.
+c
+Substance
+S/JK-1 mol-1
+NH3(g)
+192
+02(g)
+205
+NO(g) H20(g)
+211189
+Explain the difference between the AH
+hydration values for Nat and Mg2+.
+(3 marks)
+(i) The energy cycle below links
+enthalpy change of solution of MgBr,
+with the lattice enthalpy of MgBr,
+using hydration enthalpies,
+On the two dotted lines, add the
+species present, including state
+symbols.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+lattice
+enthalpy
+*
+....+=+=+=+*++++++++++
++...
+HELIEIEI. ELEIEEEEEEEEEEIIIIIIIIII
+Calculate the standard entropy change, in
+JK-mol-, for this oxidation of ammonia.
+(2 marks)
+d The exothermic reaction below occurs
+spontaneously at low temperatures but
+does not occur at very high temperatures.
+250,(g) +0,(g) 250,(g)
+Explain why.
+(2 marks)
+e The main ore of iron contains iron (III)
+oxide, Fe, Oz. Iron is extracted from this
+ore by heating with carbon. The equation
+below shows one of the reactions which
+take place.
+Fe,0,(s) + 3C(s) + 2Fe(s) + 3CO(g)
+AS = +543 JK-mol-' and
+AH = +493 kJ mol-1
+Calculate the minimum temperature at
+which this reaction becomes feasible.
+Show all your working. (3 marks)
+F325 Jan 2012 Q6
+The reaction below is the thermal
+decomposition of lead nitrate, Pb(NO3)2.
+2Pb(NO3),(s) — 2PbO(s) + 4NO2(g) + O2(g)
+Substance Pb(NO3)2(s) Pb(s) NO2(g) 02(g)
+4H/kJ mol-1 -452 -217 | 330
+S/JK-1 mol-1 213 69 240 205
+MgBr2(aq)
+(3 marks)
+(ii) Calculate the lattice enthalpy of
+(2 marks)
+Free energy changes can be used to predict
+the feasibility of processes.
+MgBrz:
+4
+5
+a Write down the equation that links the
+free energy change with the enthalpy
+change and temperature. (1 mark)
+You are provided with equations for five
+processes. For each process, predict the
+sign of AS.
+b
+a
+Process
+Sign of AS
+200(g) + O2(g) 2002 (8)
+NaCl(s) + aq - NaCl(aq)
+H200) H20(s)
+Mg(s) +H,50,(aq) → Mg50,(aq) + H2(g)
+CuSO,(s) + 5H20(1) CuSO4.5H20(s)
+(2 marks)
+Ammonia can be oxidised as shown in the
+equation below.
+4NH3(g) + 50,(g) → 4NO(g) + 6H2O(g)
+Calculate the standard enthalpy change,
+the standard entropy change, and the free
+energy change for this reaction
+at 25°C.
+(6 marks)
+State the condition for feasibility and
+calculate the minimum temperature
+needed for this reaction to be feasible.
+(2 marks)
+371
+ENTHALPY AND ENTROPY
+22
+O
+Diamonds are forever
+... or are they?
+Step 1: Calculate AS at 25°C.
+AS = ES (products) - ES (reactants)
+= { (SⓇ (K+) + (S® (CH) } - S(KCI)
+= { 103 +57 } - 83 = +77 JK-mol-' = +0.077 kJK-mol-!
+Step 2: Use Gibbs' equation to calculate AG at 25°C.
+T = 273 + 25 = 298 K
+AG = +16 - 298 x 0.077 = -7 kJ mol!
+As AG < 0, the process is feasible.
+You may have heard the phrase
+'diamonds are forever', but this
+is not quite correct. Diamond
+and graphite are two different
+structures of the same element,
+carbon. Consider the free energy
+for the conversion of diamond
+into graphite:
+C(s, diamond) — C(s, graphite)
+AGⓇ = -3 kJ mol-1
+As AGⓇ <0, the reaction for
+converting diamond into
+graphite is feasible!
+Limitations of predictions made for feasibility
+The free energy change is useful for predicting feasibility, but many
+reactions have a negative AG and do not seem to take place.
+For example, the equation for the decomposition of hydrogen
+peroxide is shown below, together with its AG value at 25°C.
+H,02(1)→ H20(1) + O2(g) AG = -117 kJ mol-1
+But hydrogen peroxide does not decompose spontaneously at 25°C. So
+why doesn't the reaction take place? The answer lies with the very large
+activation energy resulting in a very slow rate. If hydrogen peroxide is
+left for long enough, it would decompose. The reaction does take place
+by addition of a trace of a Mno, catalyst, which allows the reaction to
+take place via an alternative route with a lower activation energy. The
+reduced energy barrier then allows the reaction to take place.
+So, although the sign of AG indicates the thermodynamic feasibility, it
+takes no account of the kinetics or rate of a reaction.
+Figure 2 Diamond ring
+If the chemistry is correct,
+why do you not need to worry
+about a diamond ring turn
+into graphite?
+3 You are provided with the following information:
+Summary questions
+1 a State the Gibbs' equation.
+(1 mark)
+b State the condition for a reaction to be feasible.
+(1 mark)
+c State the limitations of making predictions about
+feasibility based on AG.
+(1 mark)
+2 You are provided with the following information:
+2NaHCO (s) Na,Co,(s) + H20(1) + CO2(g)
+AH = +91 kJ mol-1
+S® values in JK-1 mol-1:
+NaHCO3, +102; Na2CO3(s), +135; H20(1), +70;
+CO, (g), +214
+a Calculate AS and AG at 25°C. (3 marks)
+b Show whether or not this reaction is feasible
+at 25 °C.
+(1 mark)
+c Calculate the minimum temperature, in °C,
+for this reaction to take place. (1 mark)
+S/JK-mol-1 A.HⓇ/kJ mol-1
+NH,Cl(s) +95
+-314
+Ca(OH),(s)
++83 1
+-986
+CaCl (s)
++105
+-796
+NH3(g)
++192
+-46
+H,00
++70
+-286
+a Calculate AS and AH for this reaction. (2 marks)
+b Show whether the reaction is feasible at 25°C.
+(2 marks)
+c Calculate the minimum temperature, in °C,
+for this reaction to take place. (1 mark)
+369
+22
+ENTHALPY AND ENTROPY
+So when any substance changes state from solid to liquid to gas, its
+entropy increases:
+• Melting and boiling increase the randomness of particles.
+Energy is spread out more and AS is positive.
+Figure 1 shows the values for the entropy S of the three states of H,O
+and shows that the entropy change AS is positive as the molecules
+become more disordered in changing from solid to liquid to gas.
+Table 1 Entropy increases as H20 changes to more random states
+State
+Entropy
+/JK +mol-1
+Entropy change AS
+/JK-1 mol-1
+H20(s)
++41
+70-41 = +29
+increasing
+disorder
+H20(1)
++70
+189 - 70 = +119
+H20(g)
++189
+Change in the number of gaseous molecules
+Reactions that produce gases result in an increase in entropy, for
+example, calcium carbonate reacting with hydrochloric acid:
+Caco (s) + 2HCl(aq) +CaCl(aq) + CO,(g) + H2O(1)
+Production of a gas increases the disorder of particles.
+Energy is spread out more and AS is positive.
+You can predict the sign of the entropy change for reactions where
+the reactants and products have different numbers of gas molecules.
+For example, the reaction of nitrogen and hydrogen gases to produce
+ammonia results in a decrease in the number of gas molecules:
+N2(g) + 3H2(g) → 2NH2(g)
+4 moles of gas 2 moles of gas
+There is a decrease in the randomness of particles.
+• The energy is spread out less and AS is negative.
+Figure 1 Reaction producing a gas
+and increasing entropy
+Standard entropies
+Every substance has a standard entropy se, which can be found in
+data books.
+The standard entropy se of a substance is the entropy of one mole of a
+substance, under standard conditions (100kPa and 298K).
+Standard entropies have units of JK-mol-1.
+Standard entropies are always positive.
+363
+22
+22.4 Entropy
+Synoptic link
+This calculation is similar to
+finding the enthalpy change of
+reaction using enthalpy changes o
+formation. See Topic 9.4, Hess' law
+and enthalpy cycles.
+Calculating entropy changes
+Standard entropies can be used to calculate the entropy change of a
+reaction AS
+ASⓇ = 25° (products) – ES® (reactants) (E = sum of)
+O Worked example: Calculating an entropy change of
+reaction
+Calculate the entropy change of reaction for the reaction below:
+2NO(g) + O2(g) → 2NO2(g)
+You are provided with the standard entropies in Table 2.
+Table 2 Standard entropies
+Substance S/JK-1 mol-1
+NO(g)
++211
+0,(g)
++205
+NO,(g)
++240
+Study tip
+The final entropy change has a
+negative value. This is expected
+as 3 moles of gas molecules are
+forming 2 moles of gas molecules
+Step 1: Link the standard entropies with the equation.
+ASⓇ = ES® (products) - IS®(reactants)
+= (2 S (NO2) - {(2 x SⓇ (NO) + Sº (02)}
+Step 2: Calculate AS.
+AS = (2 x 240) – ((2 x 211) + 205) = -147JK-mol-1
+Summary questions
+1 State and explain whether the following changes would be accompanied
+by an increase or decrease in entropy:
+a H2O(g) H20(1)
+(1 mark)
+b Mg(s) + 2HCl(aq) → MgCl2(aq) + H2(g)
+(1 mark)
+c N2(g) + 3H2(g) → 2NH3(g)
+(1 mark)
+2 Use the data in Table 3 to calculate ASⓇ for the following reactions.
+a 2502(g) + O2(g) 250,00
+(1 mark)
+b 2H,S(g) + 302(g) → 2502(g) + 2H20 (1)
+(1 mark)
+Table 3 Standard entropies
+SO2(g) 0,(g) 50,0 H,S(g) H,00 Co2(g)
+se /JK-1 mol-1 +248 +205 +96 +206 +70 +214
+3 Calculate the standard entropy of C, H. (g) from Table 3 and the
+information below.
+(2 marks)
+2C, H.(g) + 70, (g) →400, (g) + 6H20(1) ASⓇ=-619JK-1 mol-1
+364
+22
+Chapter 22 Practice questions
+Practice questions
+1 Lattice enthalpy can be used as a measure of
+ionic bond strength. Lattice enthalpies are
+determined indirectly using an enthalpy cycle
+called a Born-Haber cycle.
+The table below shows the enthalpy changes
+that are needed to determine the lattice
+enthalpy of magnesium chloride, MgCl,.
+b Use the Born-Haber cycle to calculate the
+lattice enthalpy of magnesium chloride.
+(2 marks)
+c Deduce the value for the bond enthalpy
+for C1-C1.
+(1 mark)
+d Magnesium chloride has stronger ionic
+bonds than sodium chloride. Explain why.
+(3 marks)
+F325 June 2010 Q1
+The lattice enthalpy of potassium bromide,
+KBr, can be calculated by a Born-Haber cycle.
+a (i) Complete the table below to show
+the types of energy change which
+take place in this cycle.
+Energy/kJ mol-1
+2
+-349
++736
++150
+Process
+Energy change
+Enthalpy change
+1st electron affinity of
+chlorine
+1st ionisation energy of
+magnesium
+atomisation of chlorine
+formation of magnesium
+chloride
+atomisation of magnesium
+cium
+2nd ionisation energy of
+magnesium
+| lattice enthalpy of
+magnesium chloride
+-642
++76
++1450
+a On the cycle below, write the correct
+letter in each box.
+Mg2+(g) + 2Cl(g) + 2e-
+k(s) - K(g)
+K(g) → K*(g) +
+Brz(1) Br(g)
+Br(g) +e – Br(g)
+K*(g) + Br (g) → KBr(s)
+K(s) + Br2() —- KBr(s)
+(6 marks)
+(ii) Draw a labelled energy diagram of
+this Born-Haber cycle. (6 marks)
+b The lattice enthalpy of NaBr is more
+exothermic than for KBr.
+(i) Define the term lattice enthalpy. (1 mark)
+(ii) Explain why the lattice enthalpy
+of NaBr is more exothermic that
+for KBr.
+(2 marks)
+You are provided with the following
+information.
+Mg2+(g) + 2C1-(g)
+Mg+(g) + 2Cl(g) + e-
+Mg(g) + 2Cl(g)
+Mg(g) + Cl2(g)
+3
+lon
+AH hydration/kJ mol-1
+Mg(s) + Cl2(g)
+Na+
+-405
+Mg2+
+- 1926
+Br-
+-368
+MgCl2(s)
+The enthalpy change of solution of MgBr,
+is -256 kJ mol-1
+(3 marks)
+a
+Define the terms enthalpy change of solution
+and enthalpy change of hydration. (3 marks)
+370
+22
+22.2 Enthalpy changes in solution
+If you were to have used 25.0g instead of 28.73g in the calculation,
+you would have obtained an final enthalpy change of +13.6 kJ mol-!
+rather than +15.6 kJ mol-l, a 13% error.
+The dissolving process
+When a solid ionic compound dissolves in water, two processes take place
+• the ionic lattice breaks up
+water molecules are attracted to, and surround, the ions.
+Two types of energy change are involved.
+1 The ionic lattice is broken up forming separate gaseous ions.
+This is the opposite energy change from lattice energy, which forms
+the ionic lattice from gaseous ions.
+Breaking up lattice:
+endothermic
+AH = +788 kJ mol-1
+NaCl(s) + Na+(g) + C-(g)
+Lattice enthalpy = -788 kJ mol
+Formation of lattice:
+exothermic
+Figure 2 Energy transfers
+involved in the formation of a lattice
+and the breaking up of a lattice
+2 The separate gaseous ions interact with polar water molecules to
+form hydrated aqueous ions. The energy change involved is called
+the enthalpy change of hydration.
+The enthalpy change of hydration Anya H is the enthalpy change that
+accompanies the dissolving of gaseous ions in water to form one mole
+of aqueous ions. The equations below show the two enthalpy changes
+of hydration that are involved during the dissolving of NaCl(s). In the
+equations, aq represents an excess of water.
+Nat(g) + aq – Na+(aq)
+AUHⓇ = -406 kJ mol-1
+gaseous ions aqueous ions
+Cl-(g) + aq – Cl(aq)
+Anya HⓇ = -378 kJ mol-1
+gaseous ions aqueous ions
+Figure 2 shows the energy cycle that links enthalpy change of
+solution, lattice enthalpy, and hydration enthalpies.
+The enthalpy change of solution AH can be exothermic or
+endothermic, depending on the relative sizes of the lattice enthalpy
+and the enthalpy changes of hydration. The enthalpy change of
+solution in Figure 3 is endothermic.
+gaseous ions
+Hydration
+aqueous ions
+from gaseous ions
+Route 2
+Lattice enthalpy
+lattice formation
+from gaseous ions
+aqueous ions
+Route 1
+Dissolving
+aqueous ions from ionic lattice
+ionic lattice
+Figure 3 Enthalpy changes involved in the dissolving of an ionic compound in water
+354
+22
+22.5 Free energy
+Study tip
+In the Gibbs' equation, the value and units of AS must be changed to
+KJK-'mol- by dividing by 1000. This then matches the kJ in the AH.
+To convert 25 °C to Kelvin, add 273:
+25°C = 25 + 273
+= 298 K
+For the reaction of carbon and oxygen to form carbon dioxide, at 25°C:
+AG = -393.5 - 298 x 0.9 = -393.8 kJ mol-1
+* 1000
+For many reactions at room temperature, AH has a much larger
+magnitude that TAS and so AG is largely dependent on AH. As
+temperature increases, the TAS term clearly becomes more important.
+The worked example below shows how feasibility can change as
+temperature increases and TAS becoming more significant.
+Study tip
+Ensure that the units are
+consistent
+AH: kJ mol-1 AS: JK-1 mol-1
+) Worked example: Feasibility at different
+temperatures
+The AH and AS values for the decomposition of calcium carbonate
+are shown below.
+Convert AS into KJK-mol-1
+To convert JK-1 mol-1 to
+KJK-1mol-1, divide by 1000.
+CaCO3(s) — CaO(s) + CO2(g)
+AH = +178 kJ mol-1;
+AS = 161JK-Imol-1
+Remember that TAS uses
+temperature in K, not °C.
+Determine the feasibility of this reaction at 25°C and at 1000°C.
+Step 1: Make units consistent.
+Convert T to K:
+T= 273 + 25 = 298 K
+Convert AS to kJK-Imol-1: AS = 161
+1000
+= 0.161 kJK-l mol-1
+Step 2: Use Gibbs' equation to calculate AG at 25°C.
+AG = +178 - 298 x 0.161
+= +130 kJ mol-1
+As AG > 0, the reaction is not feasible at 25°C
+Step 3: Use Gibbs' equation to calculate AG at 1000°C.
+Figure 1 Alimestone quarry.
+At high temperatures, limestone is
+processed into cement which
+contains calcium oxide
+T = 273 + 1000 = 1273K
+AG = AH - TAS
+AG = +178 - 1273 x 0.161
+= -27.0 kJmol-1
+Study tip
+For this reaction at 883 °C, AG = 0
+As AG < 0, the reaction is feasible at 1000°C
+The reaction can proceed at the high temperature of 1000°C. This
+fits with the process for making calcium oxide (lime) by heating
+calcium carbonate (limestone) in a furnace or lime kiln.
+You should be able to prove this
+using the Gibbs' equation.
+At temperatures above 883 °C,
+AG <0 and the reaction is feasible.
+The worked example on the next
+page shows how to calculate
+the minimum temperature for a
+reaction to be feasible.
+At 25 °C, AG is positive.
+The reaction is not feasible and does not take place.
+Above 833°C (inside the lime kiln), AG is negative.
+The reaction is feasible and does take place.
+366
+22.5 Free energy
+Specification reference: 5.2.2
+Why do reactions happen?
+Feasibility
+Some reactions happen whereas others do not. What factors control
+whether a reaction is able to occur? The answer comes from energy
+- a reaction can happen if the products have a lower overall energy
+than the reactants. The term feasibility is used to describe whether
+a reaction is able to happen and is energetically feasible. The word
+spontaneous may also be used for energetically feasible.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ free energy
+→ the Gibbs' equation
+→ using free energy to predict
+feasibility.
+Free energy
+The overall change in energy during a chemical reaction is called the
+free energy change AG and is made up of two types of energy.
+1
+The enthalpy change AH. This is the heat transfer between the
+chemical system and the surroundings.
+The entropy change at the temperature of the reaction TAS. This is
+the dispersal of energy within the chemical system itself.
+2
+The Gibbs' equation
+The relationship between the two types of energy, AH and TAS, is
+given by the Gibbs' equation.
+free energy change
+temperature in K
+Study tip
+AG = AH - TAS
+Make sure that you learn the Gibbs'
+equation.
+enthalpy change
+with surroundings
+entropy
+change of system
+Condition for feasibility
+The feasibility of a reaction depends on the balance between AH and
+TAS in the Gibbs' equation. For a reaction to be feasible, there must be
+a decrease in free energy:
+AG < 0
+The value for AH is usually much larger than for AS and often
+dominates the Gibbs' equation. Typically AH values are shown in
+units of kJ mol-' whereas the much smaller AS values are shown
+in units of JK-'mol-1. For example, the AH and AS values for the
+reaction between carbon and oxygen to form carbon dioxide are
+shown below.
+C(s) + O2(g) + CO2(g) AH = -393.5 kJ mol-!
+AS = 0.9 JK-mol-1
+365
+ENTHALPY AND ENTROPY
+m
+2
+Å Experimental determination of the enthalpy change of solution
+The enthalpy change of solution can be easily determined Calculation
+directly in the laboratory using the procedure below
+Step 1: Calculate the energy change q in the solution
+for potassium chloride, KCl. The thermometer used is
+in kJ.
+graduated in 1 °C units so that the temperature can be
+estimated to the nearest 0.5 °C.
+density of water = 1.00 g cm3
+so 25.0 cm of water has a mass of 25.0g
+. The same procedure can be used for any ionic
+mass of solution = mass of water + mass KCI
+compound
+= 25.0+ 3.73 = 28.73 g
+Take care in the calculation to get the sign correct.
+Remember that 45, H can be exothermic or
+For the solution, specific heat capacity c is close
+endothermic.
+to that of water = (4.18 Jg=+K-1)
+In the example, the mass of potassium chloride has
+q=mcAT = 28.73 x 4.18 x 6.5
+been chosen as a direct multiple of the molar mass.
+= 780.5941 J = 0.780 594 1 kJ
+This is good and common practice as it makes the
+Step 2: Calculate the amount, in moles, of KCl that
+calculation easier.
+dissolved.
+Procedure
+n(KCI) = m = 323 = 0.0500 mal
+1 Weigh out a sample of KCl(s).
+Step 3: Calculate Asnih in komor-
+2 Using a measuring culinder, pour 25.0 cm3 of distilled
+water into the plastic cup in the beaker. Measure the A H is for the reaction: KCl(s) + K+(aq) + C1-(aq)
+temperature of the water, to the nearest 0.5 °C.
+1 mol + aqueous ions
+Quickly tip all of the KCl(s) into the water in the
+plastic cup. Stir the mixture with the thermometer
+In the experiment, 0.0500 mol KCl(s) gains
+until all of the KCl has dissolved and the temperature
+0.780 594 1 kJ of energy from the solution.
+no longer changes.
+: 0.7805941
+Record this value to the nearest 0.5 °C.
+= 15.6 kJ of energy from the solution
+Results
+4 H = +15.6 kJ mol-1
+mass of potassium chloride = 3.73 g
+initial temperature of water
+22.0°C
+Calculate the enthalpy change of solution from the
+following results.
+final temperature of solution = 15.5°C
+a 6.40 g of NH NO, is dissolved in 25.0 g of water.
+temperature change AT of solution = 6.5°C
+The temperature decreased by 17.5°C.
+3.00 g of NaOH is dissolved in 50.0 g of water.
+The temperature increased by 14.0°C.
+1 mol KCl would gain
+0.0500
+What mass is used in enthalpy calculations?
+In the application box, 3.73g of solid was added and dissolved in 25.0g
+of water.
+When using the equation q = MCAT to calculate the energy change,
+m is the mass that is changing temperature (where the thermometer
+is). The thermometer is in the solution that is changing temperature
+and so the mass should be the mass of the solution and not the mass
+of water.
+Whenever you carry out an enthalpy experiment, you should consider
+what is changing temperature before using q = MCAT.
+Synoptic link
+See Topic 9.2, Measuring enthalpy
+changes, for examples of other
+experiments to determine enthalpy
+changes directly.
+353
+2
+ENTHALPY AND ENTROPY
+The balance between AH and TAS
+The feasibility of a reaction depends upon the balance between AH
+and TAS.
+Table 1 summarises shows how feasibility can vary with different signs
+for AH and AS.
+Table 1 Feasibility differences at high and low temperatures
+AH
+AS
+T
+A G = AH-TAS
+Feasible?
+Study tip
+negative
+positive
+low or high
+negative
+yes
+Look carefully at each row in Table 1
+positive
+negative
+low or high
+positive
+no
+Feasibility is supported when:
+• AH is negative
+low
+negative
+yes
+negative
+negative
+high
+positive
+no
+• AS is positive.
+low
+positive
+no
+positive
+positive
+high
+negative
+yes
+But Tincreases the significant of
+AS because TAS is in the Gibbs'
+equation.
+The worked example below shows how the minimum temperature for
+feasibility can be calculated.
+O Worked example: Minimum temperature for
+feasibility
+The equation for the reduction of aluminium oxide with carbon
+is shown below.
+Al,0,(s) + 3C(s) 2Al(s) + 3CO(g)
+Table 2 Entropy and enthalpy data for the reduction of aluminium oxide
+A1,0,(s) c(s) Al(s) CO(g)
+S/JK-1 mol-1 +51
++28 +198
+A.HⓇ/kJ mol-1 -1676 0
+-111
++6
+Show whether the reaction is feasible at 25°C. Calculate the
+minimum temperature, in °C, for feasibility and whether this is a
+realistic method for extracting aluminium from its ore.
+The key to this problem is the Gibbs' equation. You will first need
+to calculate AH and As for the reaction.
+Step 1: Calculate AS.
+AS = ES® (products) – ES® (reactants)
+= { (2 x 5° (AI)) + (3 x 5° (CO)) } - {S® (A1,0z) + (3 x 5° (C))}
+ASⓇ = {(2 x 28) + (3 x 198) }-{51 + (3 x 6) }
+= +581 JK-mol-1
+Synoptic link
+Refer back to Topic 22.4, Entropy,
+for details of how to calculate an
+entropy change of reaction from
+standard entropies. Look back to
+Topic 9.4, Hess' law and enthalpy
+changes, for calculating an
+enthalpy change of reaction from
+standard enthalpies of formation.
+367
+22
+22.5 Free energy
+Study tip
+Although a full energy cycle could
+have been used, here we are using
+the convenient equation that links
+AH with AH values for reactants
+and products.
+Step 2: Calculate AHⓇ.
+AH = {H® (products) - CH® (reactants)
+= (3 x 4,H (CO) - 4H® (A1,03)
+AHⓇ = (3x-111 - (-1676) = +1343J mol-1
+Step 3: Use the Gibbs' equation to calculate AG at 25°C.
+Convert T to K: T = 273 + 25 = 298 K
+Convert AS to KJK- mol-!
+AS = 381 = 0.581 kJK-'mol-?
+10000.d1 KJ Kºmol
+AG = AH - TAS
+AG = +1343 – 298 x 0.581 = +1170 kJ mol-1
+As AG > 0, the reaction is not feasible.
+Study tip
+You need to remember to convert
+the AS value into units of
+kJ mol-1 K-1 to match the kJ in the
+AH value. You cannot mix units. The
+calculated AG value will have units
+of kJ mol-1.
+Step 4: Calculate the minimum temperature, in °C, for thermal
+decomposition to take place.
+At the minimum temperature for decomposition,
+AG = AH - TAS = 0
+rearrange AH – TAS = 0:
+TAH
+substitute AH and AS:
+AS
+I = 1343
++ 0.581
+87 = 2312K
+T= 2316 - 273 = 2039°C
+convert K to °C:
+The very high temperature makes the reduction of aluminium
+oxide by carbon impracticable.
+Synoptic link
+For details of enthalpy changes
+during dissolving, see Topic 22.2,
+Enthalpy changes of solution.
+How can endothermic reactions take place at room
+temperature?
+Some ionic compounds dissolve in water at room temperature in
+an endothermic process, cooling down the water. For example,
+the enthalpy change of solution of potassium chloride, KCl(s), is
+endothermic (AH = +16 kJ mol-1).
+To find out why endothermic processes can take place at room
+temperature, you need to use entropy and free energy. The worked
+example below shows how an endothermic process can be feasible at
+room temperature.
+B Worked example: An endothermic feasible process
+The enthalpy change and standard entropies for KCl(s), K+ (aq),
+and Cl-(aq) are shown below.
+KCl(s) → K+(aq) + CH(aq) AH = +16 kJ mol-1
+SⓇIJK-mol-1 +83 +103 +57
+Show that this process is feasible at 25°C.
+368

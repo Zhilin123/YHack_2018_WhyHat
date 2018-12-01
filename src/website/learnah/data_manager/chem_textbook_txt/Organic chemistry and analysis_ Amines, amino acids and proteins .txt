@@ -1,0 +1,1301 @@
+27
+27.2 Amino acids, amides, and chirality
+B Worked example: Identifying chiral centres in
+molecules
+Identify any chiral carbon atoms, with an asterisk *, in the
+following molecules:
+NH2
+H
+H
+H
+HOY toy
+HC-
+ISO-I
+-C-
+C—
+C-
+NH2
+H
+H
+Br
+H
+Step 1: Identify any chiral carbon atoms.
+On the skeletal structures, remember that there will be
+hydrogen atoms also. You may find it easier to mark
+these on the structures.
+Step 2: Identify the chiral carbon atoms as those that are
+attached to four different groups or atoms and label the
+chiral carbon atoms with an asterisk.
+Here all groups have been shown at the chiral carbon
+atoms. Take care not to label the carbon atoms with two
+methyl groups. The hardest to see is in the right-hand
+structure where the side chain is attached to the ring.
+NH2 CH3
+CH3
+H
+H
+H
+H
++
+CH
+OH
+HC-
+NH2
+H
+H
+Br
+H
+Summary questions
+1 Write equations for the reaction of 2-aminobutanoic acid with:
+a sodium hydroxide
+b ethanol in the presence of concentrated sulfuric acid
+C nitric acid
+(1 mark)
+(1 mark)
+(1 mark)
+2 Draw displayed formulae for the following molecules and label
+any chiral carbon atoms with an asterisk.
+a CH,CH,CHBrCH,CH,CI
+b CH,CH,CH(OH)CH
+(1 mark)
+(1 mark)
+3 For each of the molecules below, draw the three-dimensional
+arrangement of two optical isomers.
+a 2-aminopentanoic acid
+b 2-hydroxypropanoic acid
+(1 mark)
+(1 mark)
+Write an equation for the reaction of aspartic acid,
+HOOCCI
+OH, with an excess of methanol
+and a small quantity of concentrated sulfuric acid.
+(2 marks)
+482
+27
+AMINES, AMINO ACIDS, AND POLYMERS
+Drawing optical isomers
+Optical isomers are drawn to show the 3D tetrahedral arrangement of
+the four different groups around the central chiral carbon atom. Once
+one isomer has been drawn, the other isomer is drawn as a mirror
+image, reflecting the first structure. The two optical isomers of
+butan-2-ol, CH CH CH(OH)CH2, are shown in Figure 9.
+CH3
+CH3
+Synoptic link
+C
+IH
+CH2CH2
+IH : H
+OH
+CH CH3
+See Topic 6.1 Shapes of molecules
+and ions for details of drawing 3-D
+shapes using wedges.
+HO
+mirror
+mirror
+A Figure 9 Three-dimensional arrangement of the four different groups around a chiral
+carbon atom (left) and a simplified arrangement of two optical isomers (right) showing that
+they are non-superimposable mirror images of each other
+Identifying a chiral carbon atom
+You should be able to identify chiral centres in a molecule of any
+organic compound.
+YOS
+Optical isomerism - testing our senses
+Our senses of taste and smell are regulated by
+chiral molecules, which interact with receptor sites
+in our mouths and noses. Optical isomers interact
+differently with our receptors, inducing different
+taste and smell sensations. The two optical isomers
+of the amino acid leucine, (CH),CHCHCH,CH(NH)
+COOH, have different tastes, one being bitter
+whereas the other one is sweet. The bitter isomer is
+used as a food additive.
+smells of caraway
+smells of mint
+CH2CH(CH3)2
+CH2CH(CH3)2
+C.
+COOH
+HOOC
+HN
+NH2
+A Figure 11 Caraway seeds (left) and mint leaves (right)
+sweet
+bitter
+Figure 10 The two optical isomers of leucine
+Carvone a naturally occurring ketone which exists as two different optical
+isomers, depending on its source. One optical isomer smells of caraway
+seeds, the other of peppermint.
+Study tip
+1 Limonene is responsible for the taste of oranges and lemons. Look
+up the structure of limonene and identify which optical isomers are
+responsible for each taste.
+2 Optical isomers are also important in many drugs and medicine. Find out
+the effects of the optical isomers of the drugs:
+a naproxen b propranolol c thalidomide.
+You may be asked to identify
+chiral centres in a molecule of any
+organic compound.
+481
+27
+AMINES, AMINO ACIDS, AND POLYMERS
+polypeptides or proteins. A polypeptide or protein contains many
+different amino acids all linked together by amide bonds. When an
+amide bond is formed water is lost. Figure 6 shows a section of a
+polypeptide made from a number of amino acids.
+H OH
+KKK
+CH3
+H
+OH
+H
+CH OH OH
+H20
+H20
+H
+0
+H
+0
+H
+0
+-N-
+C
+C-
+-C-
+C-
+N-
+C-
+0-
+CH3
+CHOH
+amide linkage
+A Figure 6 The formation of amide bonds in protein formation
+Polyamides from two monomers each with two functional groups
+Polyamides can be made by the reaction of a dicarboxylic acid (or acyl
+chloride) with a diamine.
+Figure 8 shows the formation of Nylon from the reaction of
+hexanedioic acid and 1,6-diaminohexane. Figure 9 shows the
+formation of nylon from the reaction of hexanedioyl chloride and
+1,6-diaminohexane. Different types of Nylon can be made by varying
+the carbon-chain length. During the condensation reaction an amide
+bond forms between the amine on one monomer and the carboxyl (or
+acyl chloride) group on the other monomer.
+A Figure 7 Nylon is a high strength
+fibre. It is used for making fishing nets,
+ropes, parachutes, and fabrics. It has
+also been used for classical guitar
+strings since the mid 1940s
+HH 0
+n N-(CH2)6-N C-(CH2)4 -
+HH HO
+1,6-diaminohexane hexanedioic acid
+H 0
+n N-(CH2)6-N n C-(CH2)4-C
+HH CI
+1,6-diaminohexane hexanedioyl chloride
+OH
+ty-ch)e-pe=é-cro-+ (20-140
+EN-(CH2)6-N-C-(CH2)4-C+
++ (2n-1) H2O
++N-(CH2)6-N-C-(CH2)4-C +
+do-Echan-ot+ (2n–13 HC
++ (2n-1) HCI
+LH
+LH
+Hamide
+bond
+Hamide
+bond
+A Figure 8 Synthesis of Nylon from the reaction of a
+diamine with a dicaboxylic acid
+A Figure 9 Synthesis of Nylon from the reaction of a
+diamine with a diacyl chloride
+Hydrolysing condensation polymers
+Polyesters and polyamides can be hydrolysed using hot aqueous
+alkali such as sodium hydroxide or by hot aqueous acid such as
+hydrochloric acid.
+485
+27
+AMINES, AMINO ACIDS, AND POLYMERS
+Esterification with alcohols
+Amino acids, like carboxylic acids, are easily esterified by heating with
+an alcohol in the presence of concentrated sulfuric acid.
+In Figure 4, the d-amino acid serine is reacted with excess ethanol and
+a small amount of a sulfuric acid. The carboxylic acid group is esterified,
+producing an ester. The acidic conditions protonate the basic amine group
+of the ester.
+CH2OH 0
+CH2OH 0
+H2N-
+C
+C
++ C2H5OH
++
+H+
+H3N+ —C-
++
+H2O
+0-C2H5
+A Figure 4 An ester forms when the amino acid, serine, undergoes esterification
+Zwitterions and the isoelec
+Within the structure of the amino acid, the basic amine group can accepta
+proton from the carboxylic acid group to form an ion containing both a positive
+and negative charge. This ion is known as a zwitterion. The zwitterion formed
+from the A-amino acid alanine is shown in Figure 5.
+HH
+N-CS
+K
+-
+HN-C-
+1
+H
+CHO-H
+CH3
+zwitterion
+Figure 5 The zwitterion formed from the c-amino acid alanine
+Zwitterions have no overall charge because the positive and negative charges
+cancel out. The isoelectric point is the pH at which the zwitterion is formed,
+and each amino acid has its own unique isoelectric point.
+If an amino acid is added to a solution with a pH greater than its isoelectric point,
+the amino acid behaves as an acid and loses a proton (Figure 6).
+Ifan amino acid is added to a solution with a pH lower than its isoelectric point,
+the amino acid behaves as a base and gains a proton (Figure 6)
+pH = 4
+isoelectric point = 6.02
+pH = 13
+H
+0
+HH
+acid
+base
+IN
+N
+-
+C-
+CH
+0-
+H
+CH3
+CH3
+positive
+ion
+zwitterion behaves as a base
+COO gains H+
+zwitterion behaves as an acid
+NH3+ loses H+
+negative
+ion
+Figure 6 Acid and base reactions of amino acids
+The isoelectric points of valine, (CHR),CHCH(NH,)COOH, is 5.97
+whereas that of aspartic acid, HOOCCH2CH(NH)COOH, is 2.76. Draw
+the structures of valine and aspartic acid at pH 2.76 and at pH 12.20.
+479
+27
+27.2 Amino acids, amides, and chirality
+Synoptic link
+For details of the preparation
+of amides from acyl chlorides,
+revisit Topic 26.4, Carboxylic acid
+derivatives.
+Amides
+Amides are the products of reactions of acyl chlorides with ammonia
+and amines. Amide groups are common in nature. For example, in
+proteins the amine and carboxylic acid groups of amino acids are
+bonded together to form amide groups.
+As with amines, there are primary, secondary, and tertiary amides
+(Figure 7).
+primary amide
+one carbon atom bonded to N
+secondary amide
+two carbon atoms bonded to N
+tertiary amide
+three carbon atoms bonded to N
+CH3CH2-C-NH2
+H3C —
+-N-CH3
+H—C—N—CH3
+CH3
+N,N-dimethylmethanamide
+propanamide
+N-methylethanamide
+A Figure 7 The structure of a primary, secondary, and tertiary amide
+Synoptic link
+See Topic 13.2, Stereoisomerism,
+for an introduction to
+stereoisomerism and E/Z
+isomerism.
+Stereoisomerism
+You should recall that stereoisomers are compounds with the same
+structural formula but a different arrangement of atoms. Another type
+of stereoisomerism is optical isomerism.
+Optical isomerism
+Optical isomerism is found in molecules that contain a chiral centre.
+In organic chemistry, the chiral centre is a carbon atom that is attached
+to four different atoms or groups of atoms.
+Synoptic link
+You have come across
+optical isomers in transition
+elements covered in Topic 24.3,
+Stereoisomerism in complex ions.
+The presence of a chiral carbon atom in a molecule leads to the
+existence of two non-superimposable mirror image structures. These
+two molecules are known as optical isomers or enantiomers. For
+each chiral carbon atom, there is always one pair of optical isomers.
+Chirality in C-amino acids
+Chiral carbon atoms exist widely in naturally occurring organic
+molecules. For example, all sugars, proteins, and nucleic acids contain
+chiral carbon atoms.
+COOH
+COOH
+CH
+With the exception of glycine, H,NCH,COOH, all
+C.-amino acids, RCH(NH,)COOH, contain a chiral
+carbon atom, with the C-carbon atom bonded to four
+different atoms or groups. In the structure, the chiral
+carbon atom is shown labelled with an asterisk *.
+H2N-
+C-COOH
+NH2
+NH2
+Chirality is not just reserved for carbon atoms and the term applies
+to any centre that holds attachments that can be arranged as two
+non-superimposable mirror image forms. Like a pair of hands, optical
+isomers can be considered as right- and left-handed forms and one
+optical isomer cannot be superimposed upon the other.
+A Figure 8 Two optical isomers of an
+amino acid and a pair of hands - both
+examples of chirality
+Figure 8 shows two hands above which are placed models of two
+optical isomers of an o-amino acid.
+480
+27
+27.3 Condensation polymers
+Synoptic link
+Hydrolysing polyesters
+Poly (Trimethylene Terephthalate) (PTT) is a polyester used in the
+manufacture of carpets and clothing fabrics. The acid and base
+hydrolysis of PTT is shown in Figure 9.
+See Topic 26.4 Carboxylic
+acid derivatives, for acid and
+alkaline hydrolysis of esters
+-0—0-CH2 - CH2 - CH2 -0+
+base hydrolysis
+NaOH/H20
+H+/H,0 acid hydrolysis
+n+Na-00C
+-COO Na+
+n HOCH2CH2CH2OH i nHOCH CH CH OH
+n HOOC
+COOH
+A Figure 9 The acid and base hydrolysis of PTT
+Hydrolysing polyamides
+Nomex is a synthetic heat and fire-retardant polyamide, used in
+oven gloves and in the fire-protective suits worn by Formula 1 racing
+drivers and pit crew. The acid and base hydrolysis of Nomex is shown
+in Figure 10.
+Figure 11 Oven gloves
+containing the fire-resistant
+polyamide Nomex
+-
+I
+base hydrolysis
+NaOH/H20;
+H+/H,O
+acid hydrolysis
++Na 00C
+COONa+
+HOOC
+COOH
++
+HON
+NH3
+v NH2 H3N
+A Figure 10 The acid and base hydrolysis of Nomex
+Identifying monomers and repeat units in polymers
+You should be able to identify monomers that could form polymer
+chains and to identify whether addition polymerisation or condensation
+polymerisation has taken place. Table 1 outlines what to look for when
+deciding the type of polymerisation.
+Table 1 Comparison of addition and condensation polymerisation
+Type
+addition
+polymerisation
+Example of monomer(s)
+CICH=CHCH
+Characteristics
+Monomer contains al=C double bond.
+Backbone of polymer is a continuous chain of carbon atoms.
+Two monomers, each with two functional groups.
+One monomer with two different functional groups.
+Polymer contains ester or amide linkages.
+condensation
+polymerisation
+HOOCCH_COOH and HOCH,CH,OH
+H_NCH,COOH
+486
+27.2 Amino acids, amides,
+and chirality
+Specification reference: 6.2.2
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of: :
+► the general formula for
+Cl-amino acids
+reactions of the carboxylic
+acid group and amine groups
+in amino acids
+→ structures of primary and
+secondary amides
+► optical isomerism and
+chirality.
+Amino acids
+An amino acid is an organic compound containing both amine, NH,,
+and carboxylic acid, COOH, functional groups. The body has 20 common
+amino acids that can be built into proteins. These amino acids are all
+C.-amino acids in which the amine group is attached to the C-carbon
+atom - the second carbon atom, next to the carboxyl group. These 20
+amino acids differ by the side chain, R, attached to the same a-carbon
+atom. The structure of an c-amino acid is shown in Figure 1.
+The general formula of an a-amino acid can be written as
+RCH(NH,)COOH. There are also less common amino acids in which
+the amine group is connected to the B-carbon atom (the third carbon)
+and the y-carbon atom (the fourth carbon).
+Since amino acids have both an acidic COOH and a basic NH,
+functional group, amino acids have similar reactions to both carboxylic
+acids and amines.
+HR
+H
+OH
+Reactions of the amine group
+The amine group is basic and reacts with acids to make salts. As such,
+amino acids will also react with acids to form salts. The amino acid
+alanine (2-aminopropanoic acid) reacts with hydrochloric acid to
+form an ammonium salt (Figure 2).
+A Figure 1 The structure of an a-amino
+acid. All amino acids contain a basic
+amine group and an acidic carboxylic
+acid group. Each amino acid has a
+different R group
+H
+CH3
+0
+H
+CH3
+0
+C—
+C
++
+HCI
+-
+H—
+N—
+C—
+C
++
+C-
+H
+O— H
+H OH
+A Figure 2 The reaction of 2-aminopropanoic acid with hydrochloric acid
+Synoptic link
+Reactions of the carboxylic acid group in amino acids
+The carboxylic acid group can react with alkalis to form salts and with
+alcohols to form esters.
+For details of reactions of salt
+formation and esterification of
+carboxylic acids, see Topic 26.3,
+Carboxylic acids, and Topic 26.4,
+Carboxylic acid derivatives.
+Reaction with aqueous alkalis
+An amino acid reacts with an aqueous alkali such as sodium or potassium
+hydroxide to form a salt and water. In Figure 3, glycine (aminoethanoic
+acid) reacts with sodium hydroxide to form a sodium salt.
+I-
+I-
+0
+H2N—
+0-
+C—
+C
++ NaOH
+-
+H N—
+C—
+C
++
+H2O
+OH
+O Na+
+Figure 3 An amino acid reacting with an aqueous base
+478
+27
+27.3 Condensation polymers
+CH3
+CH3 0
+-
+0—
+C—
+C—
+0—
+C—
+C
+Lactic acid, HOCH(CH3)COOH, also undergoes condensation
+polymerisation to form poly(lactic acid) (PLA) as shown in Figure 2.
+Both PLA and PGA are biodegradable polymers. Lactic acid is derived
+from maize, making its production much more sustainable than
+polymers derived from fossil fuels.
+A Figure 2 A section of the polymer,
+poly (lactic) acid (PLA)
+Polyesters made from two monomers each containing
+two functional groups
+For this type of a polyester formation, two different monomers are
+involved, each with different functional groups.
+• One monomer is a diol, with two hydroxyl groups.
+One monomer is a dicarboxylic acid, with two carboxyl groups.
+Terylene is a condensation polymer made from the reaction between
+the two monomers, benzene-1,4-carboxylic acid, HOOCCH COOH,
+and ethane-1,2-diol, HO(CH), OH. The formation of Terylene from
+its monomers is shown in Figure 4. During the condensation reaction
+a hydroxyl group on the diol reacts with a carboxyl group on the
+dicarboxylic acid forming an ester linkage and water,
+A Figure 3 Sutures are one of modern
+medicine's most simple inventions, used
+to close wounds after surgery or injury,
+aiding the healing process without
+leaving scars. The suture is a thread
+of PLA or PGA fibre seen here held with
+a pair of scissor forceps. The suture
+biodegrades, softening in about a week
+and will dissolve completely in several
+months
+Terylene (polyethylene terephthalate) is often shortened to PET, and
+has many diverse uses ranging from clothing to plastic PET bottles.
+Polyesters are also used for electrical insulation.
+H
+n
+C-
+no-
+C-C
+O
+H
+H
+Study tip
+HO
+A polyester can also be made
+using an diacyl chloride instead of
+a dicarboxylic acid. With an diacyl
+chloride, hydrogen chloride is lost,
+instead of water.
+HH
+HOLI
++
+(2n-1) H20
+ester linkage
+HH Jn
+A Figure 4 The formation of Terylene, a polyester
+Polyamides
+Polyamides are condensation polymers formed when monomers are
+joined together by amide linkages in a long chain to form the polymer.
+As with polyesters, polyamides can be made from one monomer
+containing both a carboxylic acid (or acyl chloride) and an amine
+group - or from two monomers, one containing two carboxylic acid
+groups (or acyl chlorides) and the other containing two amine groups.
+Figure 5 Items such as sports
+clothing, shirts, ties, and carpets are all
+made from Terylene
+Polyamides from one monomer with two functional groups
+Amino acids contain both an amine group and a carboxylic acid
+group. Amino acids undergo condensation polymerisation to form
+484
+27.3 Condensation polymers
+Specification reference: 6.2.3
+Polyesters and polyamides
+Alkenes can form polymers by addition polymerisation. In this
+topic, you will look at a different type of polymerisation called
+condensation polymerisation.
+Polyesters and polyamides are two important condensation polymers
+made on an industrial scale. Carboxylic acids and their derivatives are
+common starting materials for their preparation.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ condensation polymerisation
+to form polyesters and
+polyamides
+acid and base hydrolysis of
+the amide and ester group in
+polymers
+identifying repeat units
+and monomers from both
+addition and condensation
+polymerisation.
+Condensation polymerisation is the joining of monomers with loss
+of a small molecule, usually water (the condensation) or hydrogen
+chloride. In condensation polymerisation two different functional
+groups are needed.
+->
+Polyesters
+When making a polyester, monomers are joined together by ester
+linkages in a long chain to form the polymer. Polyesters can be made
+from one monomer containing both a carboxylic acid and an alcohol
+group, or from two monomers - one containing two carboxylic acid
+groups and the other containing two alcohol groups.
+Synoptic link
+You covered addition
+polymerisation in Topic 13.5,
+Polymerisation in alkenes.
+Polyesters made from one monomer containing two different
+functional groups
+For this type of a polyester formation, only one monomer is involved,
+containing both different functional groups, a hydroxyl group, -OH,
+and a carboxyl group, -COOH.
+Poly(glycolic acid) (PGA) is the simplest polyester of this type, made by
+condensation polymerisation of its monomer, glycolic acid, HOCH,COOH.
+Glycolic acid contains both a hydroxyl group and a carboxyl group.
+Study tip
+You do not need to learn any
+specific examples of condensation
+polymerisation, but you do need to
+understand the principles of how
+the polymers are formed.
+Figure 1 shows the formation of a section of poly(glycolic) acid from
+its monomer. The carboxylic acid group in one molecule of glycolic
+acid reacts with the alcohol group of another molecule of glycolic acid
+to form the ester linkage and water.
+OH
+OH
+OH
+H2O
+H2O
+Study tip
+When drawing a section of a
+polymer, it is important to leave
+open bonds at each end. The repeat
+unit is repeated time and time
+again along the whole polymer. It is
+usual to bracket the repeat unit as
+shown in Figure 1.
++
+0—
+C—
+C
++0—
+0
+H
+ester
+linkage
+repeat unit
+A Figure 1 Condensation polymerisation of glycolic acid, HOCH,COOH,
+showing three repeat units
+483
+27
+AMINES, AMINO ACIDS, AND POLYMERS
+Preparation of aromatic amines
+Phenylamine, C,H,NH, is made by the reduction of nitrobenzene,
+C H NO, Nitrobenzene is heated under reflux with tin and
+hydrochloric acid to form the ammonium salt, phenylammonium
+chloride, which is then reacted with excess sodium hydroxide to
+produce the aromatic amine, phenylamine. Tin and hydrochloric acid
+act as a reducing agent (Figure 7).
+NO2
+NH2
+1. Sn/conc HCI
++
+6[HI
++ 2H20
+2. excess NaOH(aq)
+Figure 7 The reduction of nitrobenzene to form phenylamine
+Summary questions
+Perkin's Mauveine
+1 State whether the following
+amines are primary,
+secondary, or tertiary amines.
+Name each structure.
+Until the mid-19th century, most dyes were obtained from nature. Dues
+such as indigo (blue-purple) and turmeric (orange) were extracted from
+plants whereas cochineal (pink) and shellfish purple (purple) were
+extracted from animals. Whilst these dyes could produce an amazing
+range of colours, they would often fade, run, or damage the materials
+they were meant to dye.
+a Hzc —N—CH3
+(1 mark)
+b H3C —
+N
+—
+H
+William Henry Perkin revolutionised the dye industry when he synthesised
+a purple substance, which he named mauveine. Mauveine was the first
+chemically produced dye which paved the way for the synthesis of many of
+the dyes used today. Mauvine is based upon the structure of phenylamine.
+(1 mark)
+CH3C —N—C2H5
+HON
+CH3
+(1 mark)
+2 Write equations for the
+reaction between an excess
+of ethylamine and:
+a nitric acid (1 mark)
+b sulfuric acid (1 mark)
+A Figure 8 The structure of Mauveine, together with some colour samples.
+Mauveine was the first synthetic dye, based on phenylamine
+What is the molecular formula of mauveine?
+3 The mechanism of the reaction
+between chloromethane
+and ethylamine is similar
+to that for a haloalkane and
+hydroxide ions. The lone
+pair on the nitrogen atom
+enables ethylamine to act as a
+nucleophile. Suggest a reaction
+mechanism for this reaction.
+(3 marks)
+477
+27
+AMINES, AMINO ACIDS, AND POLYMERS
+6 Worked example: Identifying monomers and repeat units in polymers 1
+CH3 H
+CH3 H
+CH3 H
+Example 1
+Identify the type of polymerisation, the repeat unit, and the
+monomer(s) for the polymer:
+-C—
+C—
+C—
+C
+—
+C—
+C-
+H OHH OHH OH
+Step 1: The polymer backbone is a continuous chain of carbon atoms.
+Therefore it is an addition polymer.
+CH2 H
+H3CH
+Step 2: The repeat unit is
+Step 3: The monomer is
+-
+CC-
+EC
+H
+OH
+H
+OH
+6 Worked Example: Identifying monomers and repeat units in polymers 2
+H
+H
+OHH OHH
+Example 2
+Identify the type of polymerisation, the repeat
+unit and the monomer(s) for the polymer:
+—C—C—0-
+-C—
+0
+0-
+C—
+C—
+0—
+C—
+C—
+0
+HH
+I=
+HH
+Step 1: The polymer contains ester linkages.
+Therefore is a condensation polymer.
+TICI
+Step 2: The repeat unit is
+H H O H
+Step 3: The monomers are
+HH
+0
+I
+H
+0
+H
+I-
+I—
+O-
+—0-C-C-0-6-6-6-6—
+HO—C—C—OH and
+—
+C—
+C—
+C
+O-
+H
+H
+H
+HOH
+OH
+I
+I
+Summary questions
+1 State the two functional groups that must be present in monomers to form:
+a a polyamide
+(2 marks)
+b a polyester.
+(2 marks)
+2 For the monomer(s) below, state the type of polymerisation and draw one
+repeat unit of the polymer.
+I-
+H
+0
+OHH
+H
+C
+-OCH3
+H—C—C—OH
+C-6
+and
+HOC-(-OH
+HO
+OH
+OH
+(2 marks)
+OH
+(2 marks)
+H
+H (2 marks)
+3 Draw structures for the products of acid and alkaline hydrolysis of the
+following polymers.
+LOUH
+N—C—
+C—N+
++0-(CH2)4-O-C-(CH2)2-C-
+H
+H
+H Han
+(4 marks)
+(4 marks)
+487
+27
+Chapter 27 Practice questions
+as nylon-6,6. A section of the polymer
+chain in a protein is shown below.
+Practice questions
+1 Phenylalanine is a naturally occurring
+al-amino acid. Its structure is shown below.
+H H
+_
+C
+CH,
+O
+H
+H OH O
+0
+OH
+...N—
+C—N—
+C—
+C—N—
+C-
+C—
+N—
+C—
+C-.
+a
+I_O_o_o
+CH2
+H
+H
+H
+H
+H
+CH3
+H NH2
+Phenylalanine has two stereoisomers.
+(i) What is the name of the type
+of stereoisomerism shown by
+phenylalanine?
+(1 mark)
+(ii) Complete the structures below to
+show the 3-D arrangement of the two
+stereoisomers of phenylalanine.
+(i) How many monomer units does this
+section contain?
+(1 mark)
+(ii) Draw a displayed formula for one
+of the monomer molecules that was
+used to form this section. (3 marks)
+(iii) The protein section shown above is
+reacted with hot aqueous acid.
+Draw the structures of the products
+of this reaction.
+(2 marks)
+Aspartame is a low calorie sweetener
+introduced in 1983. The structure of
+aspartame is shown below.
+O H H 0
+0
+1
+www
+4
+mirror
+(2 marks)
+2 Glutamic acid, an amino acid, can react with
+acids and bases as well as alcohols to form a
+variety of products. The structure of glutamic
+acid is shown below.
+HO—
+C-
+-
+CC-
+—C—N—C—C—0— CH3
+HN—C—COOH
+H
+NH2
+CH2
+CH,COOH
+Draw the structures for the reaction of
+glutamic acid and the following substances.
+a NaOH(aq)
+(1 mark)
+b HCl(aq)
+(1 mark)
+c C,H,OH and concentrated
+sulfuric acid
+(1 mark)
+3 Nylon-6,6 is a polymer made from two
+different monomers: hexane-1,6-diamine and
+hexanedioic acid.
+a Draw the skeletal formula for each
+monomer
+(2 marks)
+b Draw the structural formula for the
+repeat unit of nylon-6,6. (2 marks)
+c Name the functional group made during
+polymerisation to give nylon-6,6. (2 marks)
+d Wool is a protein. It is a natural polymer
+made by the same type of polymerisation
+Aspartame can be hydrolysed by aqueous HCl
+and aqueous NaOH.
+Predict the products of the hydrolysis of
+aspartame in
+a HCl(aq)
+(3 marks)
+b NaOH(aq)
+(3 marks)
+a Salicylic acid can be used to form a
+condensation polymer similar to Terylene®.
+5
+OH
+COOH
+salicylic acid
+(i) Explain what is meant by the term
+condensation polymer. (1 mark)
+488
+27
+AMINES , AMINO ACIDS,
+AND POLYMERS
+27.1 Amines
+Specification reference: 6.2.1
+What are amines?
+Amines are organic compounds, derived from ammonia, NH,, in
+which one or more hydrogen atoms in ammonia have been replaced
+by a carbon chain or ring.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of: :
+→ amines as bases
+→ preparation of amines
+→ reactions of amines.
+In an aliphatic amine, the nitrogen atom is attached to at
+least one straight or branched carbon chain (alkyl group, R).
+Methylamine, CH NH,, is the simplest aliphatic amine with one
+methyl group attached to the nitrogen atom.
+In an aromatic amine, the nitrogen atom is attached to an
+aromatic ring (aryl group, Ar). Phenylamine, C H NH, is the
+simplest aromatic amine, with a phenyl C H group attached to the
+nitrogen atom.
+Study tip
+When drawing the structure of
+an amine, you should show the
+lone pair.
+Classifying amines
+Amines are classified as primary, secondary, or tertiary by the number
+of alkyl or aryl groups attached to the nitrogen atom (Table 1).
+Table 1 Primary, secondary, and tertiary aliphatic amines
+Number of alkyl
+or aryl groups
+RN HRNH RNR"
+-
+Structure
+HO
+IM
+C
+R'
+NH2
+Classification
+Aliphatic
+primary
+CH,CH,CH, NH,
+CH NH
+secondary
+(CH3)2NH
+CH NH(CH)
+tertiary
+(CH),
+CH N(CH3)2
+Aromatic
+Amines occur commonly in nature with many being well known for
+their effects on the body.
+A Figure 1 The structure of serotonin
+OH
+Serotonin (Figure 1) acts as a neurotransmitter, responsible for
+the control of appetite, sleep, memory and learning, temperature
+regulation, muscle contraction, and depression.
+Pseudoephedrine (Figure 2) is an active ingredient in decongestion
+medications such as in nose drops and in cold remedies. It works by
+shrinking nasal membranes and inhibiting nasal secretions.
+HN
+Figure 2 The structure of
+pseudoephedrine
+474
+27
+27.1 Amines
+Salt formation
+Amines are bases and they neutralise acids to make salts. For
+example, propylamine reacts with hydrochloric acid to form the salt
+propylammonium chloride.
+Study tip
+The neutralisation of acids
+by amines is similar to the
+neutralisation of acids by ammonia:
+NH2 + HCI - NH, C1
+CH,CH,CHNH, + HCl + CH CH CH NH,Cl-
+Ethylamine reacts with sulfuric acid to form ethylammonium sulfate.
+2CH,CHNH, + H,30 – (CH,CH,NH," ) S0,2-
+Synoptic link
+Preparation of aliphatic amines
+Formation of primary amines
+Ammonia has a lone pair of electrons on the nitrogen atom which
+allows ammonia to act as a nucleophile in a substitution reaction
+with a haloalkane. The product of this reaction is an ammonium salt.
+Aqueous alkali is then added to generate the amine from the salt.
+See Topic 15.1, The chemistry
+of haloalkanes, for details of
+nucleophilic substitution reactions
+of haloalkanes.
+The equations below show the formation of propylamine from
+1-chloropropane and ammonia. Propylamine is a primary amine
+because there is one carbon atom attached to the nitrogen atom of the
+amine group.
+salt formation:
+CH,CH,CH, CI + NH, CH,CH,CH,NH,Cl-
+1-chloropropane propylammonium chloride (salt)
+amine formation:
+CH,CH,CH,NH, C1+ NaOH → CH,CH,CH,NH, + NaCl + H,O
+propylammonium chloride
+propylamine
+For this reaction to occur, there are some essential conditions.
+• Ethanol is used as the solvent. This prevents any substitution of
+the haloalkane by water to produce alcohols.
+Excess ammonia is used. This reduces further substitution of the
+amine group to form secondary and tertiary amines (see below).
+Formation of secondary and tertiary amines
+The reaction above is unsuitable for making a pure primary amine. The
+product still contains a lone pair of electrons on the nitrogen atom that
+can react further with a haloalkane to form a secondary amine. The
+product of this reaction is again an ammonium salt.
+CH,CH,CH,Cl + CH,CH,CH,NH, (CH,CH,CH,),NH,+CH
+propylamine dipropylammonium chloride (salt)
+The secondary amine is obtained from the salt by reacting the product
+with sodium hydroxide.
+(CH,CH,CH), NH,+C1- + NaOH (CH,CH,CH), NH + NaCl + H,O
+dipropylammonium chloride dipropylamine
+Tertiary amines can also be formed by further reaction of the
+secondary amine. In this example, further substitution would form
+tripropylamine, (CH_CH_CH_)N.
+476
+27
+AMINES, AMINO ACIDS, AND POLYMERS
+H
+Naming amines
+There are many different ways of naming the amines. One way to
+name a primary amine, with the -NH, group on the end of the chain,
+is by adding the suffix -amine to the name of the alkyl chain (Figure 3).
+H-
+C
+H
+H
+ethylamine
+HHH
+Where a primary amine contains an amine group on any other carbon
+but carbon-1, the amine is named using the prefix amino- and a
+number is added to indicate the position of the amine group along that
+chain (Figure 4).
+—
+C
+—
+C
+—
+In secondary or tertiary amines, containing the same alkyl group,
+the prefixes di- or tri- are used to indicate the number of alkyl
+groups attached to the nitrogen atom, for example, (CH3)2NH is
+dimethylamine.
+propylamine
+A Figure 3 The structures
+of the primary amines,
+ethylamine and propylamine
+H
+H
+H
+H
+When two or more different groups are attached to a nitrogen atom,
+the compound is named as a N-substituted derivative of the larger
+group, for example, CH NHCH,CH,CH, is N-methylpropylamine and
+CH,N(CH2CH3)CH,CH,CH, is N-ethyl-N-methylpropylamine.
+H-
+C-
+—
+C—
+H
+H NH2 H H
+2-aminobutane
+Figure 4 The structure of
+2-aminobutane
+The chemistry of decay
+The smell of a decomposing organism, for example, rotting fish, is made
+up of all sorts of compounds, but amines and compounds of sulfur give
+the characteristic smell of decay. Most of the amines come from the
+breakdown of proteins, and two of the amines have such unpleasant
+odours that they have been named putrescine (1,4-diaminobutane),
+after the process of putrefaction, and cadaverine (1,5-diaminopentane),
+after the Latin-derived word for a corpse - cadaver.
+Putrescine and cadaverine are also components of bad breath.
+Putrescine also has an industrial use - it is a raw material for producing
+some condensation polymers.
+Draw the skeletal formulae of putrescine and cadaverine.
+A Figure 5 Rotting fish release the
+amines putrescine and cadaverine
+whilst decomposing
+Reactions of amines
+Amines as bases
+Amines behave as bases in their chemical reactions as the lone pair of
+electrons on the nitrogen atom can accept a proton.
+When an amine accepts a proton, a dative covalent bond is formed
+between the lone pair of electrons on the nitrogen atom and the
+proton (Figure 6).
+Synoptic link
+You first encountered dative
+covalent bonds in Topic 5.3,
+Covalent bonding.
+C2H5 —
+N—
+H
++
+H+
+C2H5-
+N-
+034** -
+-
+ethylamine
+ethylammonium ion
+Figure 6 Reaction of ethylamine as a base
+475
+27
+AMINES, AMINO ACIDS, AND POLYMERS
+(ii) The repeat unit of Terylene® is shown
+below.
+HH
+—0—C—C—0+
+HH
+Draw the skeletal formulae of two
+monomers that can be used to form
+Terylene
+(2 marks)
+(iii) Salicylic acid reacts with
+3-hydroxypropanoic acid to form a
+mixture of condensation polymers.
+To form one polymer, the two
+monomers react in equal quantities.
+Draw the repeat unit of this polymer,
+displaying the link between the
+monomer units.
+(2 marks)
+OCR F324 June 2014 QI(d)
+6
+Penicillamine is an o-amino acid that is used
+as a drug to treat rheumatoid arthritis. The
+structure of penicillamine is shown below.
+CH3 H
+L
+/
+HaC—
+C—
+C—
+When polyester A is hydrolysed with
+aqueous acid, compound B is formed.
+Draw the skeletal formula of compound B.
+(1 mark)
+b Nylon-4,6 is a polyamide that can be
+prepared by reacting 1,4-diaminobutane,
+HN(CH2)2NH,, with hexanedioic acid,
+HOOC(CH),COOH.
+(i) H,N(CH,),NH, can be synthesised
+from 1,4-dichlorobutane, Cl(CH2)CI.
+State the reagents and conditions
+required for this synthesis. (1 mark)
+(ii) H N(CH),NH, can act as a base and
+forms salts with dilute acids.
+Explain how an amine can act as a
+base.
+Write the formula of the salt formed
+when H,N(CH,) NH, reacts with an
+excess of dilute hydrochloric acid.
+(2 marks)
+(iii) Draw the repeat unit of nylon-4,6.
+Clearly display the bonding that links
+the two monomers. (3 marks)
+OCR F324 Jun 2012 Q2
+A student was investigating the reactions and
+uses of organic amines.
+a The student found that amines such as
+ethylamine, CH NH,, and phenylamine,
+CH NH,, both behave as bases.
+Explain why amines can behave as bases.
+(1 mark)
+b The student reacted an excess of C,HNH,
+with two different acids.
+Write the formulae of the salts that would
+be formed when an excess of C,H-NH,
+reacts with
+(i) sulfuric acid
+(1 mark)
+(ii) ethanoic acid.
+(1 mark)
+cPhenylamine, CH NH,, can be prepared
+from nitrobenzene.
+State the reagents and conditions. Write
+the equation and state the type of reaction.
+(3 marks)
+a
+b
+SH NH OH
+Explain why penicillamine is described as
+an c-amino acid.
+(1 mark)
+Penicillamine reacts with dilute aqueous
+acid. Draw the structure of the product
+formed in this reaction.
+(1 mark)
+Penicillamine exists as optical isomers.
+Draw the two optical isomers of
+penicillamine.
+(2 marks)
+Penicillamine is able to undergo
+condensation polymerisation.
+Draw two repeat units of the polymer
+formed from penicillamine. (2 marks)
+OCR F324 Jan 2013 Q3
+c
+7
+This question looks at different types of
+condensation polymers – polyesters and
+polyamides.
+a Polyester A is a degradable polymer
+prepared by bacterial fermentation
+of sugars.
+489

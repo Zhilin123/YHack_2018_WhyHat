@@ -1,0 +1,2068 @@
+20
+20.5 Evolution
+sample of
+original population
+descendants
+founding population A
+founding population B
+Figure 3 Diagram illustrating how small samples from a population can lead to
+populations with very different, and reduced, gene pools
+The Afrikaner population in South Africa is descended mainly from
+a few Dutch settlers. The population today has an unusually high
+frequency of the allele that causes Huntington's disease. It is thought
+that just one of the original settlers carried the disease-causing allele.
+The Amish people of America have descended from 200 Germans who
+settled in Pennsylvania in the 18th century. They rarely marry and
+have children outside their own religion and are therefore a closed
+community. The Amish have unusually high frequencies of alleles that
+cause the normally rare genetic disorder Ellis-van Creveld syndrome.
+People with the syndrome are short, they often have polydactyly
+(extra fingers or toes), abnormalities of nails and teeth, and a hole
+between the two upper chambers of the heart. Ellis-van Creveld
+syndrome is an example of founder effect caused by one couple,
+Samuel King and his wife, who settled in the area in 1744.
+A Figure 4 Close-up of a baby's hand
+showing an extra finger. This condition is
+called polydactylism
+Evolutionary forces
+The traits or characteristics of all living organisms show variation
+within populations. The distribution of the different variants will take
+the form of a bell-shaped curve if plotted on a graph. This is known in
+statistics as a normal distribution.
+Stabilising selection
+Taking the birth weight of babies as an example,
+babies with an average birth weight will be the
+most common and therefore form the peak of the
+graph. Babies with very low birth weight are more
+prone to infections and very large babies result in
+difficult births. Both of these extremes in weight
+reduce the survival chances of babies so the
+numbers of survivals of very small or very large
+babies remains low forming the tails on Figure 5.
+99.7%
+95%
+68%
+w
+10.0
+11.0
+3.5 4.5 5.4 6.3 7.3 8.2 9.1
+birth weights (pounds)
+A Figure 5 Birth weights of baby girls in Europe
+This is natural selection, or survival of the fittest,
+at work. Babies with average birth weights
+are more likely to survive and reproduce than
+underweight or overweight babies. It is an
+540
+20
+20.2 Monogenic inheritance
+meiosis
+meiosis
+parental
+Haemophilia
+phenotypes normal female haemophiliac male
+XHXH
+Xh Y
+Haemophilia is an example of a sex-linked genetic disorder. Patients
+parental
+genotypes
+with haemophilia have blood which clots extremely slowly due to
+the absence of a protein blood-clotting factor in the majority of cases
+this is factor VIII). As a result injury can result in prolonged bleeding
+gametes X X X Y
+which, if left untreated, is potentially fatal.
+offspring
+genotypes
+o gametes
+If a male inherits the recessive allele that codes for haemophilia (on their X
+gametes
+chromosome) they cannot have a corresponding dominant allele on their
+Y chromosome, and so develop the condition. As a result the vast majority
+| XHX* XHY
+of haemophilia sufferers are males. Females who are heterozygous for the
+haemophilia coding gene are known as carriers. They do not suffer from
+XHXH XHY
+the disorder, however they may pass on the allele to their children. This
+can result in the birth of a son who suffers from haemophilia.
+offspring 50% carrier females (XHXH)
+phenotypes 50% normal males (XHY)
+When showing the inheritance of a sex-linked condition the alleles
+Figure 12 Inheritance of the
+are shown linked to the sex chromosome they are found on. In this
+haemophiliac allele from a haemophiliac example, haemophilia is linked to the X chromosome, therefore:
+male
+xH is used to represent the dominant 'healthy' allele.
+H = allele for production of clotting protein (rapid blood clotting)
+xh is used to represent the recessive allele coding
+h = allele for non-production of clotting protein (slow blood clotting)
+for haemophilia (through the non-production of a
+parental phenotypes normal female (carrier) normal male
+blood-clotting protein). This is often known as the
+parental genotypes
+xH xh
+XHY
+faulty allele.
+meiosis
+meiosis
+Y is used to represent the Y chromosome - it has
+no allele attached to it as it does not carry the gene
+gametes xH xh
+which produces the specific blood-clotting protein
+offspring
+o gametes
+(Figure 12).
+genotypes
+gametes
+If a carrier female and a normal male have children,
+then in theory half of the male offspring produced
+XH XH XHY
+will have the disorder (Figure 13). Half of the female
+offspring will be carriers. As male offspring only
+xH xh
+Xhy
+inherit an X chromosome from their mother, sons
+offspring
+25% normal female (xH xH) can only inherit the condition from their mother.
+phenotypes
+25% normal male
+(XH Y)
+However, an affected male can pass on the faulty
+25% normal female (carrier) (XHX")
+allele to his daughters, resulting in them becoming
+25% haemophiliac male (why)
+carriers of the disorder (Figure 12).
+A Figure 13 Inheritance of haemophilia
+from a normal female (carrier)
+Summary questions
+XH
+1 State the difference between a homozygous genotype
+and a heterozygous genotype.
+(1 mark)
+2 What is special about the phenotypes formed as a result of
+a gene which has codominant alleles?
+(2 marks)
+3 Using a genetic cross show the blood groups of the potential offspring of
+a father with blood group AB and a mother with blood group 0. (6 marks)
+4 Some individuals cannot distinguish between the colours red and green.
+This form of colour blindness is a sex-linked condition, linked to the X
+chromosome. The allele for red-green colour blindness is recessive to
+the normal allele. Show how colour blindness can be present in the son
+of two parents who do not display colour blindness. (6 marks)
+528
+20
+PATTERNS OF INHERITANCE AND VARIATION
+antigens present on the surface of red blood cells. There are three
+alleles of this gene:
+parental
+phenotypes
+parental
+genotypes
+Group A
+A 10
+Group B
+1310
+meiosis
+meiosis
+IA – results in the production of antigen A
+1B – results in the production of antigen B
+10 – results in the production of neither antigen
+IA and I are codominant whereas Tº is recessive to both of the
+other alleles. Different combinations of these alleles result in the
+four blood groups:
+gametes
+offspring
+genotypes
+gametes
+o gametes
+ABBO
+IA JO
+1010
+Blood group A -JAIA or IAIO
+Blood group B - IBIB or IBIO
+Blood group AB - IA1B
+Blood group 0 - 10
+There are many different possible crosses. Figure 8 shows how
+parents of blood group A and B can reproduce to produce children
+who may display any of the four blood groups.
+offspring
+phenotypes
+25% blood group A
+25% blood group B
+25% blood group AB
+25% blood group 0
+(A10)
+(1B 10)
+(1A 1B)
+(1010)
+A Figure 8
+Determining sex
+In humans and other mammals, as well as many other species, sex
+is genetically determined. Humans have 23 pairs of chromosomes
+of varying sizes and shapes. In 22 of the pairs, both members of the
+pair are the same but the 23rd pair, known as the sex chromosomes,
+are different. Human females have two X chromosomes, whereas
+a male has an X and a Y chromosome. The X chromosome is large
+and contains many genes not involved in sexual development. The Y
+chromosome is very small, containing almost no genetic information,
+but it does carry a gene that causes the embryo to develop as a male.
+Therefore the sex of the offspring will be determined by whether the
+sperm fertilising the egg contains a Y chromosome or an X.
+A Figure 9 An X and Y human
+chromosome viewed through a scanning
+electron microscope
+male
+female
+parental
+phenotypes
+parental
+genotypes
+XY
+XX
+Sex linkage
+Some characteristics are determined by genes carried on the
+sex chromosomes - these genes are called sex linked. As the Y
+chromosome is much smaller than the X chromosome, there are a
+number of genes in the X chromosome that males have only one
+copy of. This means that any characteristic caused by a recessive
+allele on the section of the X chromosome, which is missing in the Y
+chromosome, occurs more frequently in males. This is because many
+females will also have a dominant allele present in their cells.
+gametes
+offspring genotypes
+o
+gametes
+Y gametes
+TXX
+XY
+offspring phenotypes
+50% male (XY)
+50% female (XX)
+Figure 11 Sex inheritance in humans
+A Figure 10 This is a test used to determine whether a person is colour blind.
+Red green colour blindness is a sex-linked disorder. It is caused by a recessive
+allele carried on the X chromosome. It is therefore much more common in males
+527
+PATTERNS OF INHERITANCE AND VARIATION
+20
+2 Density-independent factors affect populations of all sizes in
+the same way including - climate change, natural disasters,
+time →
+seasonal change, and human activities (for example,
+deforestation).
+Large reductions in population size which last for at least one
+catastrophic event
+generation are called population bottlenecks (Figure 1). The
+A Figure 1 A natural disaster or epidemic
+gene pool, along with genetic diversity, is greatly reduced and
+can drastically reduce a population. The gene
+the effects will be seen in future generations. It takes thousands
+pool will be greatly reduced and the remaining
+of years for genetic diversity to develop in a population through individuals may not be representative of the
+the slow accumulation of mutations.
+original population as some rarer alleles may not
+have been present in any of the survivors. The
+Northern elephant seals were almost hunted to extinction in the
+'founder effect' and genetic drift will influence
+19th century. There were probably only about 20 seals left by
+genetic variation as the population grows again
+the time hunting stopped. They now have a population of about
+30000 but show much less genetic diversity than southern elephant
+seals that did not experience a genetic bottleneck.
+Cheetahs are thought to have experienced an initial population
+bottleneck about 10 000 years ago with other bottlenecks happening
+more recently. The species now shows low genetic diversity. Cheetahs
+face the same threats as many other African animals such as habitat
+loss and poaching, but while the population sizes of other animals are
+increasing thanks to the efforts of conservationists, cheetahs are not
+recovering as quickly. They are, in fact, close to extinction.
+The reduced genetic diversity of cheetahs means that they share around
+99% of their alleles with other members of the species, more than we
+share with members of our own family. Mammals usually share about
+80% of their alleles with other members of a species. As a result they
+are showing problems of inbreeding including reduced fertility.
+A Figure 2 Cheetah mother and cubs,
+Acinonyx jubatus, Masai Mara Reserve,
+Kenya
+Humans and chimpanzees split from a common ancestor about six
+million years ago. A small group of chimpanzees are likely to show
+more genetic diversity than all the humans alive today. It is believed
+that humans have experienced at least one genetic bottleneck, reducing
+our genetic diversity, as we have evolved into our present form.
+A positive aspect of a genetic bottleneck is that a beneficial mutation
+will have a much greater impact and lead to the quicker development
+of a new species. This is thought to have a played a role in the
+evolution of early humans.
+Founder effect
+Small populations can arise due to the establishment of new colonies
+by a few isolated individuals, leading to the founder effect. The
+founder effect is an extreme example of genetic drift.
+These small populations have much smaller gene pools than the
+original population and display less genetic variation. If carried to
+the new population, the frequency of any alleles that were rare in
+the original population will be much higher in the new, smaller
+population and so they will have a much bigger impact during
+natural selection.
+539
+20
+PATTERNS OF INHERITANCE AND VARIATION
+example of stabilising selection because the norm or average is
+selected for (positive selection) and the extremes are selected against
+(negative selection). Stabilising selection therefore results in a reduction
+in the frequency of alleles at the extremes, and an increase in the
+frequency of 'average' alleles.
+Directional selection
+Directional selection occurs when there is change in the environment
+and the normal (most common) phenotype is no longer the most
+advantageous. Organisms which are less common and have more
+extreme phenotypes are positively selected. The allele frequency then
+shifts towards the extreme phenotypes and evolution occurs.
+The changes seen in peppered moths during the industrial revolution
+are a good example of directional selection. During this period of
+time a lot of smoke was released from factories, which killed lichens
+growing on barks of trees, and the soot made the bark black. Peppered
+moths were originally light coloured meaning they were camouflaged
+by the lichen from predation by birds. There were always a few darker
+moths present, due to variation, but these were quickly eaten and the
+allele frequency maintained.
+When the lichens died and the trees became black the situation
+was reversed. The light-coloured moths were very visible and were
+eaten and the darker moths were camouflaged. Over time the allele
+frequency shifted due to natural selection and the majority of the
+peppered moths had the darker colour. The allele frequency had been
+shifted towards an extreme (less common) phenotype.
+As pollution has decreased again the allele frequency of the lighter
+coloured moths has increased.
+A Figure 6 Light and dark-coloured
+peppered moths
+Disruptive selection
+In disruptive selection the extremes are selected for and the norm
+selected against. The finches observed by Darwin in the Galapagos
+Islands had been subjected to disruptive selection. This is opposite to
+stabilising selection when the norm is positively selected.
+original population
+number of individuals
+phenotypes (shell color)
+evolved original
+population population
+stabilising selection directional selection diversifying selection
+A Figure 7 Graphs showing the different forms of selection. The arrows indicate a
+selection pressure
+Figure 8 Top: lazuli bird with bright,
+blue plumage, middle: lazuli bird with
+intermediate plumage, and bottom:
+lazuli bird with dull, brown plumage
+541
+20
+20.5 Evolution
+Although examples of disruptive selection are relatively rare, a well-
+documented example involves feather colour in male lazuli buntings
+(Passerina amoena), birds which are native to North America. The feather
+colour of young males can range from bright blue to dull brown.
+mean
+NNNNN
+frequency
+There are limited nesting sites in their habitat
+and so there is a lot of competition between
+male birds to establish territories and attract
+female birds. Dull, brown males are seen as
+non-threatening and bright, blue males too
+threatening by adult males. Both the brown
+and blue birds are therefore left alone but
+birds of intermediate colour are attacked by
+adult birds and so fail to mate or establish
+territories.
+dull
+bright
+Figure 9 The distribution of phenotypes as a result of disruptive
+selection pressures on lazuli buntings
+The extremes are selected for and the
+distribution of phenotypes shows two peaks
+as in Figure 9.
+Synoptic link
+Summary questions
+You learnt about natural selection in
+Topic 10.4, Evidence for evolution.
+1 Explain why evolution does not occur within single organisms but
+groups of organisms.
+(3 marks)
+2 Human beings tend to reproduce with individuals that are visibly similar
+to themselves. This happens because of personal choice or due to
+geographical reasons. This leads to positive assortative mating.
+a Explain why this might effect any conclusions drawn from the
+Hardy-Weinberg equation.
+(2 marks)
+b Suggest what happens in negative assortative mating. (1 mark)
+3 Explain why the allele frequency is changing so quickly in Figure 10.
+(4 marks)
+frequency of
+generation
+green trait
+17%
+25%
+Figure 10 An example
+of genetic drift happening
+rapidly over three
+3 DoOOOOOOOOOOOOOO 44% generations
+Eukaryotic organisms have large quantities of non-coding DNA whereas
+most prokaryotic organisms have very little.
+Suggest, with reference to the different forms of reproduction in
+eukaryotes and prokaryotes, why eukaryotes may have evolved to have
+more non-coding DNA.
+(4 marks)
+542
+20
+20.6 Speciation and artificial selection
+Offspring from this cross showing the best examples of the desired
+traits are then selected to breed. This breeding of closely related
+individuals is called inbreeding. The process is repeated over many
+generations resulting in changes to the frequency of alleles within the
+population and eventually speciation.
+Brassica oleracea is a wild mustard which has been selectively bred for
+many centuries producing a number of common vegetables.
+Problems caused by inbreeding
+Limiting the gene pool and so decreasing genetic diversity reduces the
+chances of a population of inbred organisms evolving and adapting to
+changes in their environment.
+Many genetic disorders are caused by recessive alleles, for example,
+cystic fibrosis, a condition where the digestive system and lungs
+become clogged with mucus. Recessive alleles are not uncommon in
+most populations but two recessive alleles are needed before they are
+expressed and most individuals will be heterozygous.
+Organisms that are closely related are genetically similar and are likely
+to have the same recessive alleles. The breeding of closely related
+organisms therefore results in offspring which have a greater chance
+of being homozygous for these recessive traits and being affected by
+genetic disorders. Over time this reduces the ability of these organisms
+to survive and reproduce. This results in the organisms being less
+biologically fit - in other words, less likely to survive and produce two
+surviving offspring to replace themselves.
+Pedigree dogs and the ethics of artificial selection 00
+herding animals. Different traits were selected for
+depending on whether they were used for hunting,
+fighting, herding, or even as status symbols, and so a
+range of dogs with different characteristics evolved.
+Domesticated dogs are all members of the same
+species, Canis familiaris. They are another, sometimes
+controversial, example of how selective breeding has
+created a variety of different looking individuals from
+one wild species. The wild species was the grey wolf and
+the process began between 18 000 and 32 000 years
+ago when humans were still leading a hunter-gatherer
+lifestyle.
+Many of those characteristics have been exaggerated
+by continued selective breeding and are most obvious
+in pedigree dogs seen today. Rather than being selected
+for the role they performed which was not dissimilar to
+natural selection, they began to be selected for their looks
+which took no account of any impact on their health.
+Interbreeding with wild wolves would have been common
+which can make tracing the evolution of dogs difficult.
+It is thought that wolves starting 'hanging around' human
+hunting parties because of the availability of scraps of
+leftover food. Over time, the more social wolves would
+have become integrated into the human groups and so
+the process of selective breeding began. The wolves that
+became integrated were eventually used to help catch
+animals during the hunts or served a protective role like
+modern-day guard dogs.
+Dachshunds were selected for small size and short
+legs so that they could follow prey such as foxes and
+badgers into burrows. Great Danes were selected for large
+size and strength for hunting and fighting.
+Hunter-gatherers eventually started forming settled
+communities and began the practice of farming. The
+evolving wolves would have had new roles such as
+The breeding of pedigree dogs is restricted to the
+descendants of dogs that were registered by the Kennel
+546
+PATTERNS OF INHERITANCE AND VARIATION
+20
+Blind mole rats live in a small area of northern Israel that
+allopatric speciation
+is part igneous basalt rock and part chalk bedrock. The
+new
+different types of soils formed above the bedrock support
+→ Species
+species
+a different range of plants. Blind mole rats found in both
+ancestral
+geographic barrier
+species
+types of soil are sometimes only separated by a few metres
+ancestral
+of the loose soil. Mole rats will only interbreed with mole
+species
+rats living in the same type of soil. DNA analysis has
+shown that the lack of gene flow between the two species
+sympatric speciation
+is already resulting in genetic differences even though
+new
+members of the different groups often come into contact
+ancestral
+species
+with each other as there is no physical barrier. Over time species
+ancestral
+the genetic differences could accumulate to the point that
+species
+the mole rats from different soil types will no longer be able A Figure 3 Diagram showing the formation of a new
+to interbreed and they will be separate species.
+species both with and without a geographical barrier
+Plants cross with plants of different species forming hybrids
+Einkorn wheat
+much more frequently than animals. The indiscriminate release
+diploid
+of large numbers of pollen grains by plants is one reason for this.
+(14
+The hybrids are reproductively isolated from each parent species
+chromosomes)
+but could still be present in the same habitat. The evolution of
+(AA)
+(BB)
+modern wheat has involved at least two hybridisation events
+and the formation of new species along the way.
+Emmer and durum
+goat
+wheats
+grasses
+Disruptive selection, mating preferences, and other
+behavioural differences can all result in individuals or small
+tetraploids
+(28
+diploids
+groups becoming reproductively isolated. They will, however,
+chromosomes)
+still be living in the same habitat so gene flow, even if
+reduced, often interferes with the process of speciation.
+(AABB)
+(DD)
+Reproductive barriers
+bread wheats
+Barriers to successful interbreeding can form within populations
+before or after fertilisation has occurred. Prezygotic reproductive
+hexaploids
+barriers prevent fertilisation and the formation of a zygote.
+(42 chromosomes)
+Postzygotic reproductive barriers, often produced as a result of
+hybridisation, reduce the viability or reproductive potential of
+(AABBDD)
+offspring.
+A Figure 4 The evolution of modern wheat
+including two hybridisation events which would
+Artificial selection
+have both led to sympatric speciation
+Populations are usually polymorphic (display more than one distinct
+phenotype) for most characteristics. The allele coding for the most
+common, or normal, characteristic is called the wild type allele. Other
+forms of that allele, resulting from mutations, are called mutants.
+Artificial selection (or selective breeding) is fundamentally
+the same as natural selection except for the nature of the selection
+pressure applied. Instead of changes in the environment leading
+to survival of the fittest, it is the selection for breeding of plants or
+animals with desirable characteristics by farmers or breeders.
+Farmers have been selectively breeding plants and animals since
+before genes were discovered or the theory of evolution was proposed.
+Individuals with the desired characteristics are selected and interbred.
+545
+20
+PATTERNS OF INHERITANCE AND VARIATION
+The colour of a Labrador varies depending on which alleles are present
+at each locus. The genes are not expressed independently and so this
+is an example of epistasis. The gene at the E locus is epistatic to the
+hypostatic gene at the B locus.
+The different phenotypes and genotypes are shown in Table 3.
+Table 3
+Phenotype
+Blocus E locus Fur Skin Overall
+genotype genotype colour colour colour
+BB/Be
+EE/Ee
+black
+black
+black
+BB/Be
+ee
+yellow
+black
+brown
+bb
+EE/Ee
+brown brown yellow
+ee
+yellow brown yellow
+There are only three registered colours, black, brown (chocolate), and
+yellow (golden). The yellow coat is an example of recessive epistasis
+and it ranges from deep gold to pale blond.
+Summary questions
+1 Explain what the chi-squared (?) test is used to measure.
+(3 marks)
+2 Horse coat colour is an example of epistasis. Two genes are involved. The
+different colours and the genotypes responsible are summarised here.
+G produces a grey horse
+gg E produces a black horse
+gg ee produces a chestnut horse.
+Explain, giving your reasons, which form of epistasis this represents.
+(5 marks)
+3 A biologist test crosses a plant that is heterozygous for the alleles Xx and
+Yy in order to see how far apart the gene loci are on a chromosome. The
+offspring of this cross contains 5.2% recombinant individuals.
+a State the distance between these alleles.
+(1 mark)
+b Describe how the biologist could determine where a third gene with
+the alleles Zz is on the chromosome relative to Xx and Yy. (4 marks)
+c Suggest why this sort of investigation is best carried out with
+genes that are relatively close to each other.
+(2 marks)
+537
+20.6 Speciation and artificial
+selection
+Specification reference: 6.1.2
+Speciation is the formation of new species through the process of
+evolution. The organisms belonging to the new species will no longer be
+able to interbreed to produce fertile offspring with organisms belonging
+to the original species. A number of events happen leading to speciation:
+Members of a population become isolated and no longer
+interbreed with the rest of the population resulting in no gene
+flow between the two groups.
+Alleles within the groups continue to undergo random
+mutations. The environment of each group may be different or
+change (resulting in different selection pressures) so different
+characteristics will be selected for and against.
+The accumulation of mutations and changes in allele frequencies
+over many generations eventually lead to large changes in
+phenotype. The members of the different populations become so
+different that they are no longer able to interbreed (to produce fertile
+offspring). They are now reproductively isolated and are different
+species.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the role of isolating
+mechanisms in the evolution
+of new species
+→ the principles of artificial
+selection and its uses
+the ethical considerations
+surrounding the use of
+artificial selection.
+Allopatric speciation
+Allopatric speciation is the more common form of speciation and
+happens when some members of a population are separated from the
+rest of the group by a physical barrier such as a river or the sea - they
+are geographically isolated. The environments of the different groups
+will often be different and so will the selection pressures resulting in
+different physical adaptations. Separation of a small group will often
+result in the founder effect leading to genetic drift further enhancing
+the differences between the populations.
+A famous example of allopatric speciation is the
+finches inhabiting the Galapagos Islands located in
+the Pacific Ocean off the coast of South America.
+For about two million years, small groups of finches,
+from an original population on the mainland, have
+flown to, and been stranded on, different islands. The
+finches, separated from finches on other islands and
+the mainland by the sea, have formed new colonies
+on the different islands.
+The finches have evolved and adapted to the
+different environments, particularly food sources,
+present on the islands and are an example of adaptive
+radiation - where rapid organism diversification takes
+place. As the finches are unable to breed with each
+other, new species have evolved with unique beaks
+adapted to the type of food available. Some species
+food source
+habitat
+insects
+trees
+birds and fruit
+ground
+- cactus and cactus seeds
+cacti
+seeds
+ancestral seed
+eating ground finch
+Figure 1 The range of beaks seen in species of finches found
+in the Galapagos Islands
+543
+20
+PATTERNS OF INHERITANCE AND VARIATION
+a
+b
+(iii) State what conclusions may be drawn
+from the probability found in (d)(ii).
+(3 marks)
+Experiments have shown that loci G/g
+and R/r are on the same chromosome of
+the tomato plant genome. The two loci
+are 44 map units apart.
+Explain how the results of the test cross
+shown in (d) could occur when the two
+loci are on the same chromosome.
+(3 marks)
+OCR 2805/02 2008
+Bread wheat is a hexaploid (6n) plant, with
+three sets of paired chromosomes.
+The likely origin of hexaploid bread wheat
+from diploid wild grasses is shown in the
+diagram.
+wild grass species 1 wild grass species 2
+(2n-14)
+(2n - 14)
+3
+(i) Copy the diagram and write into the
+spaces the numbers of chromosomes
+in the gametes involved in cross 1 and
+cross 2.
+(2 marks)
+(ii) With reference to the diagram,
+explain what happened at stages
+A and B to give emmer wheat and
+bread wheat respectively. (2 marks)
+For many years, plant breeders have
+selectively bred wheat varieties with
+progressively higher yields. However,
+bread wheat cannot be interbred with
+diploid species of grass to establish a
+variety of wheat with new traits.
+Explain why bread wheat cannot be
+interbred with diploid species of grass to
+establish new varieties of wheat. (2 marks)
+The International Maize and Wheat
+Improvement Centre (CIMMYT) in
+Mexico has re-created cross 2 and stage B
+of the diagram by interbreeding different
+varieties of wild emmer wheat and goat
+grass.
+In this way more than 1000 varieties of
+hexaploid 'synthetic wheat' have been
+produced which can then be interbred
+with bread wheat.
+Explain the need for CIMMYT to maintain
+seed banks of emmer wheat and goat
+grass.
+(8 marks)
+OCR 2805/02 2008
+cross 1
+gamete
+number of
+chromosomes - .........
+gamete
+number of
+chromosomes - ...
+diploid grass
+stage A
+emmer wheat (4n - 28)
+goat grass (2n - 14)
+cross 2
+gamete
+number of
+chromosomes - .........
+gamete
+number of
+chromosomes -
+triploid wheat
+stage B
+bread wheat (6n-42)
+549
+20
+20.6 Speciation and artificial selection
+have large, blunt beaks that can crack nuts, some have long, thin beaks
+for getting to the nectar in flowers, and some have medium-sized beaks
+which are ideal for catching insects.
+The honeycreepers (family Drepanidinae) of the islands of Hawaii are
+birds that are an even larger example of adaptive radiation. A single
+ancestor species has led to the evolution of at least 54 species that
+have filled every available niche in the different islands.
+Panama is a narrow strip of land (isthmus) that joins North and South
+America and separates the Atlantic and Pacific oceans, and was formed
+about three million years ago. This was due to the movement of
+tectonic plates and resulted in the separation of the organisms that had
+originally occupied the same habitat when the two oceans were joined.
+There were originally about 15 species of snapping shrimp present,
+now there are 15 species present on one side of the isthmus and 15
+different species present on the other side. Although the shrimp from
+either side appear to be identical if males and females are mixed they
+will snap at each other rather than mate.
+A Figure 2 Snapping shrimp
+In 1995 15 iguanas, Iguana iguana, survived a hurricane in the
+Caribbean on a raft of uprooted trees. They eventually reached the
+Caribbean island of Anguilla. These iguanas were the first of their
+species to reach the island. If these iguanas are successful in colonising
+the island it could be the start of an allopatric speciation. Of course, it
+could take thousands, if not millions, of years before this is known.
+Sympatric speciation
+Sympatric speciation occurs within populations that share the same
+habitat. It happens less frequently than allopatric speciation and is
+more common in plants than animals. It can occur when members of
+two different species interbreed and form fertile offspring - this often
+happens in plants. The hybrid formed, which is a new species, will
+have a different number of chromosomes to either parent and may no
+longer be able to interbreed with members of either parent population.
+This stops gene flow and reproductively isolates the hybrid organisms.
+Examples of sympatric speciation include fungus-farming ants and
+blind mole rats.
+Fungus-farming ants cultivate the growth of fungi, which is their
+source of nutrition, by supplying organic material to keep the fungi
+growing. Parasitic ants have been found in one colony of these
+industrious ants. Instead of helping in the growth of this fungus these
+parasitic ants spend their time eating the fungi and reproducing.
+The parasitic ants are sometimes ignored and at other times attacked
+and killed. Genetic analysis has shown that although genetically
+different from the fungus-farming ants the parasitic ants are, in fact,
+their descendants. They are not a species of ant that has evolved
+in geographic isolation but within the same habitat as a result of a
+change in behaviour. It is believed that the genetic division of the
+original species of ant only happened 37 000 years ago, not long in
+evolutionary terms.
+544
+20.5 Evolution
+Specification reference: 6.1.2
+Evolution, the change in inherited characteristics of a group of
+organisms over time, occurs owing to changes in the frequency of
+different alleles within a population.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the factors that can affect the
+evolution of a species.
+Factors affecting evolution
+There are a number of factors which lead to changes in the frequency
+of alleles within a population and so the rate of evolution:
+• Mutation is necessary for the existence of different alleles in the first
+place and the formation of new alleles leads to genetic variation.
+Sexual selection leads to alleles coding for characteristics which
+improve mating success increasing in frequency.
+Gene flow is the movement of alleles between populations.
+Immigration and emigration result in changes of allele frequency
+within a population.
+Genetic drift occurs in small populations. This is a change in allele
+frequency due to the random nature of mutation. The appearance of
+a new allele will have a greater impact is more likely to increase in
+number) in a smaller population than in a much larger population
+where there is a greater number of alleles present in the gene pool.
+Natural selection means that individuals having characteristics that
+improve their chances of survival and so reproduction rate will
+increase in number, as will the alleles coding for these characteristics.
+This is how changes in the environment can lead to evolution.
+Population genetics
+Population genetics investigates how allele frequencies within
+populations change over time. Changes in allele frequency are the
+basis of evolution.
+The gene pool of a large population ensures lots of genetic diversity
+owing to the presence of many different genes and alleles. Genetic
+diversity leads to variation within a population which is essential in
+the process of natural selection. Selection pressures such as changes in
+the environment, the presence of new diseases, prey, competitors, or
+even human influences lead to evolution. The population can adapt to
+change over time.
+Small populations with limited genetic diversity cannot adapt to
+change as easily and are more likely to become extinct. A new strain
+of pathogen could wipe out a whole population.
+The size of a population can be affected by many factors. Factors
+which limit or decrease the size of a population are called limiting
+factors. There are two types of limiting factors:
+1
+Density-dependent factors are dependent on population size and
+include competition, predation, parasitism, and communicable
+disease.
+538
+20
+PATTERNS OF INHERITANCE AND VARIATION
+Large chi-squared values mean there is a big (significant difference
+between the observed and expected results and the probability that
+these differences are due to chance is low. There must be a reason,
+other than chance, for the unexpected results.
+The number of categories being compared in an investigation affects
+the size of the chi-squared value calculated. The degrees of freedom
+is the number of comparisons being made and is calculated as n-1,
+where n is the number of categories or possible outcomes (phenotypes
+in the case of phenotypic ratios) present in the analysis. For example,
+if you were looking at yellow and green peas there would be two
+categories and therefore one degree of freedom.
+Study tip
+A full table of chi-squared values
+can be found in the appendix.
+Table 1 Table of chi-squared values and the probability of each occurring at
+different degrees of freedom (df)
+p values
+0.99 0.95 0.90 0.50 0.10 0.05 0.01
+0.02 0.0039 0.016 0.46 2.71 3.84 6.63
+0.02
+0.10
+0.21 1.39 4.60 5.99
+9.21
+0.12 0.35 0.58 2.37 6.25 781 11.35
+4 0.30 0.71 1.06 3 .36 2.78 9.49 13.28
+0.55 1.41 1.61 4.35 9.24 11.07 15.09
+|
+|
+0.001
+10.83
+13.82
+16.27
+18.46
+20.52
+1
+2
+3
+= null hypothesis
+accepted
+= null hypothesis not
+rejected - another
+factor involved
+5
+5
+If the calculated x2 value is greater than the critical value found in a table
+at 5% significance (p=0.05) we do not have sufficiently strong evidence
+to reject our null hypothesis. Therefore we accept the null hypothesis
+- there is no significant difference between what we observed and
+what we expected. However if the calculated x value is less than the
+critical value we reject the null hypothesis - some other factor, outside
+our original expectation, is likely to be causing a significant difference
+between expectation and observation.
+The minimum x value that gives a 5% probability is called the critical
+value. The critical value increases as the degrees of freedom increase.
+If y2 is less than the critical value there is no significant difference
+If x2 is greater than or equal to the critical value there is a significant
+difference
+Worked example: Calculating the chi-squared value
+A monohybrid cross involving two plants heterozygous for purple
+flowers was carried out.
+purple
+flowers
+purple
+flowers
+cross
+105
+purple
+flowers
+45
+white
+flowers
+533
+PATTERNS OF INHERITANCE AND VARIATION
+20
+some of the breed descriptions to prevent some of the
+worst examples of this practice.
+Selective breeding has been used for centuries in farming
+to improve the quality and yield of crops and animal
+produce.
+club in 1873 after the different types or breeds of dog
+had been developed by breeders and the standard
+characteristics of each breed identified. With the limited
+gene pool and lack of outbreeding it is inevitable that
+unwanted traits are selected for also. Big dogs often
+have hip or heart problems. The skull of the King
+Charles spaniel is too small to accommodate the brain
+comfortably leading to pain and discomfort. Bulldogs
+usually have breathing difficulties due to the shape of
+their noses. Dachshunds often have back problems and
+suffer from epilepsy. Diseased dogs have effectively been
+deliberately interbred. There are now moves to change
+Discuss the ethical considerations of using selective
+breeding to produce aesthetically pleasing show
+dogs and high-yielding plants and animals for
+agricultural use.
+Gene banks
+Seed banks keep samples of seeds from both wild type and
+domesticated varieties. They are an important genetic resource. Gene
+banks store biological samples, other than seeds, such as sperm or
+eggs. They are usually frozen.
+Owing to the problems caused by inbreeding, alleles from gene banks
+are used to increase genetic diversity in a process called outbreeding.
+Breeding unrelated or distantly related varieties is also a form of
+outbreeding. This reduces the occurrence of homozygous recessives
+and increases the potential to adapt to environmental change.
+Synoptic link
+You learnt about seed banks in
+Topic 11.8, Methods of maintaining
+biodiversity.
+Summary questions
+1 Describe, with examples, the difference between pre-zygotic
+and post-zygotic reproductive barriers.
+(4 marks)
+2 Asmall population of adders in Sweden underwent inbreeding
+depression when farming activities isolated them from other adder
+populations. The numbers of stillborn and deformed offspring increased
+as compared to the original population. Researchers introduced adders
+from other population and the isolated population recovered and
+produced a higher proportion of viable offspring.
+a Name the type of breeding carried out by the researchers. (1 mark)
+bExplain how this type of breeding reduces the problems
+caused by inbreeding.
+(3 marks)
+3 Discuss why variation within a species has to be present for
+speciation to occur.
+(5 marks)
+4 Allopatric speciation is considered by most biologists to be the most
+common way in which new species evolve.
+Outline the differences between sympatric speciation and allopatric
+speciation and suggest why some biologists think sympatric
+speciation is a rare event.
+(5 marks)
+547
+20
+Chapter 20 Practice questions
+Practice questions
+1 a The presence or absence of red
+pigmentation in the outer scales of
+onion bulbs is controlled by two genes,
+A/a and B/b.
+• The dominant allele, A, codes for
+the production of a red anthocyanin
+pigment.
+Onion bulbs homozygous for the
+recessive allele, a, produce no pigment
+and are white.
+The dominant allele, B, inhibits the
+expression of allele A.
+The recessive allele, b, allows
+anthocyanin production.
+(i) Describe the effect of allele B on
+allele A.
+(3 marks)
+(ii) Two onion plants with the genotypes
+AABB and aabb were cross-pollinated
+and the resulting Fl generation
+interbred to give an F2 generation.
+Draw a genetic diagram of this cross
+to show:
+• the phenotypes of the parent plants
+• the gametes
+the genotypes and phenotypes of the
+Fl and F2 generations
+the ratio of phenotypes expected in
+the F2 generation.
+(8 marks)
+b Most red-scaled onion bulbs produce a
+colourless substance which makes them
+resistant to a fungal infection called
+'smudge'. Most white onion bulbs are
+susceptible to 'smudge'. Suggest why:
+(i) Resistance to 'smudge' is almost
+always inherited together with red
+pigmentation
+(2 marks)
+(ii) Some white onion bulbs are resistant
+to 'smudge'.
+(2 marks)
+OCR 2805/02 2008
+2 A pure-breeding variety of tomato plant,
+variety A, produced red fruit which remained
+green at their bases even when ripe.
+Plants of variety A were crossed with another
+pure-breeding variety, B, with orange fruit
+which have no green bases when ripe.
+The Fl generation plants all had red fruit
+with green bases.
+a Describe the interaction of the alleles,
+(i) At the locus G/g, controlling green-
+based or not green-based fruit
+(1 mark)
+(ii) At the locus R/r, controlling red or
+orange fruit.
+(1 mark)
+b Using the symbols given in (a), state the
+genotype of variety B.
+(1 mark)
+Plants from the Fl generation were test
+crossed (backcrossed) to variety B. The
+ratio of phenotypes expected in a dihybrid
+test cross such as this is 1:1:1:1.
+Using the symbols given in (a), draw
+a genetic diagram of the test cross to
+show that the expected ratio of offspring
+phenotypes is 1:1:1:1. (4 marks)
+d Two hundred randomly chosen offspring
+from the test cross described in c had the
+following phenotypes:
+• red fruit with green bases 55
+• red fruit with no green bases 45
+• orange fruit with green bases 43
+• orange fruit with no green bases 57
+The x (chi-squared) test was performed
+on these data, giving a calculated value
+for x2 of 3.2.
+(i) State the number of degrees of
+freedom applicable to these data.
+(1 mark)
+Distribution of x2 values
+degrees of
+edom
+probability P
+0.10 0.05 0.02 0.01
+2.71
+3.84 5.41 6.64
+4.615.99 782 9.21
+6.25 7.82 9.84 11.35
+778 9.49 11.67 13.28
+2
+3
+0.001
+10.38
+13.82
+16.27
+18.47
+(ii) Use the calculated value of x2 and
+the table of probabilities provided in
+the table to find the probability of
+the results of the test cross departing
+significantly by chance from the
+expected ratio.
+(1 mark)
+548
+20
+20.4 Phenotypic ratios
+In this case, the null hypothesis is that any differences in the
+observed numbers of purple and white phenotypes from the
+expected numbers are due to chance.
+Step 1: The probability of getting each expected phenotype is
+calculated
+Purple is dominant to white, so there should be a 3:1
+ratio in the offspring.
+The chi-squared value is calculated based on this 3:1
+hypothesis.
+Step 2: The expected number of each phenotype based on the
+probabilities and total number of offspring is calculated
+by multiplying the expected proportion by the total:
+There are 150 offspring so 150 x 2 = 112.5
+150 x1 = 37.5
+Step 3: Next, put your calculated and observed values into a table:
+Phenotype Observed Expected
+purple
+105
+3 x 150 = 112.5
+white
+45
+1 x 150 = 37.5
+total
+150
+Step 4: Then the chi-squared value can be calculated:
+(O - E)
+y? = L
+E
+Study tip
+You do not need to learn the chi-
+squared formula but you need to
+know how apply it.
+(105 – 112.5)2 (45 – 37,5)2
+112.5
+37.5
+56.25 56.25
+K™ 112.5 * 37.5
+x2 = 0.5 + 1.5 = 2.0
+Step 5: The chi-square value is determined from the chi-squared
+distribution table at the 0.05 probability level (p) for the
+correct degrees of freedom. Remember this is n - 1. In
+this case there are only two phenotypes son = 2 and the
+degrees of freedom is 2 - 1 = 1.
+The table value is 3.84.
+Step 6: Because 2.0 < 3.84, the null hypothesis is accepted. The
+difference between the predicted and actual cross results
+is not significant (at the 5% probability level). Any
+difference between the expected results and the actual
+results is due to chance.
+If the xvalue had been greater than 3.84, it would
+indicate that the differences in the observed results were
+due to another factor such as gene linkage or a new or
+different way of inheriting alleles.
+534
+20
+PATTERNS OF INHERITANCE
+AND VARIATION
+20.1 Variation and inheritance
+Specification reference: 6.1.2
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the contribution of both
+environmental and genetic
+factors to phenotypic
+variation
+how sexual reproduction
+can lead to genetic variation
+within a species
+the meaning of the
+terms continuous and
+discontinuous variation and
+their genetic basis.
+Members of different species are, usually, clearly different from each
+other and even members of the same species are rarely identical
+so variation is an important feature of living organisms. Variation
+arises as a result of mutations - changes to the genetic code which
+are random and constantly taking place. Variation is essential for the
+process of natural selection - and therefore evolution.
+You have already learnt about how organisms within a species vary.
+It is important to remember that variation can occur both as a result
+of environmental variation and genetic variation. In the majority of
+cases both play a role in determining an organism's characteristics -
+examples of this include chlorosis in plants and the body mass of
+an animal.
+Chlorosis
+Most plants are genetically coded to produce large quantities of
+chlorophyll, the green pigment that is vital for photosynthesis and
+gives leaves their green colour. Some plants, however, suffer from a
+condition known as chlorosis, when the leaves look pale or yellow.
+This occurs because the cells are not producing the normal amount of
+chlorophyll. This lack of chlorophyll reduces the ability of the plant to
+make food by photosynthesis.
+Most plants which show chlorosis have normal genes coding for
+chlorophyll production. The change in their phenotype is the result of
+environmental factors. There are many different environmental factors
+which cause chlorosis, each having a different effect on the physiology of
+the plant but causing the same change in phenotype. Examples include:
+. Lack of light – for example, when a toy or gardening tool is
+left on a lawn. In the absence of light, plants will turn off their
+chlorophyll production to conserve resources. In this case,
+chlorosis only occurs where the plant gets no light.
+Mineral deficiencies - for example, a lack of iron or magnesium.
+Iron is needed as a cofactor by some of the enzymes that
+make chlorophyll, and magnesium is found at the heart of the
+chlorophyll molecule. If either of these elements are lacking in
+the soil, a plant simply cannot make chlorophyll and gradually
+all the leaves will become yellow.
+Virus infections – when viruses infect plants, they interfere with the
+metabolism of cells. A common symptom is yellowing in the infected
+tissues as they can no longer support the synthesis of chlorophyll.
+Figure 1 Normal leaf (left), leaf with
+chlorosis (right)
+520
+20
+20.4 Phenotypic ratios
+Consider the biochemical pathway shown in Figure 3, where four
+enzymes a, b, c, and d are required to produce a pigment responsible
+for the colour of a flower petal. Four genes a, b, c, and d need to
+be expressed to produce these enzymes. If one of these genes is not
+expressed then one step will be missing, and the petal will not have
+the expected colour.
+The lack of the enzyme normally produced when gene a, b, or c is
+expressed means the intermediate molecule necessary for the next
+reaction in the sequence is not produced. This results in a lack of
+substrate for the next enzyme in the pathway and so the expression of
+this gene will not be observed in the phenotype. The gene is effectively
+‘masked' by the lack of expression of the previous gene in the pathway.
+If enzyme d is not produced then precursor D will not be converted
+to a pigment. This means it is often hard to observe the expression of
+genes a, b, and c in the phenotype. The disabled gene d is likely to
+mask their expression.
+A gene that is affected by another gene is said to be hypostatic and a
+gene that affects the expression of another gene is said to be epistatic.
+precursor
+precursor
+precursor
+MC
+precursor
+Thiamine
+Enzyme
+Enzyme
+Enzyme
+Enzyme
+Gene a
+Gene b
+Genec
+Gened
+Figure 3 The genes a, b, and c code for enzymes that catalyse the production
+of the substrate needed for the next reaction in the sequence. Gene d produces an
+enzyme that catalyses the production of the pigment from precursor D
+Dominant and recessive epistasis
+An epistatic gene may influence the activity of other genes as result of
+the presence of dominant or recessive alleles.
+In the example previously, if the presence of two recessive alleles
+at a gene locus led to the lack of an enzyme then it would be called
+recessive epistasis.
+Dominant epistasis occurs if a dominant allele results in a gene having
+an effect on another gene. This would happen if an epistatic gene (not
+present in this pathway) coded for an enzyme that modified one of the
+precursor molecules in the pathway. The next enzyme in the pathway
+would then lack a suitable substrate molecule and so the pigment
+would again not be produced. All of the genes in the sequence would
+be effectively 'masked'.
+Labrador colours
+The colour of Labrador dogs is produced as a result of the pigment
+melanin being deposited in the skin and fur. One gene codes for the
+production of the pigment and has the alleles B (dominant, black
+pigment produced) and b (recessive, brown pigment produced).
+A second gene codes for where the pigment is deposited and, again,
+has two alleles E (dominant, pigment deposited in the skin and fur)
+and e (recessive, pigment deposited in the skin only).
+536
+20
+20.1 Variation and inheritance
+Any changes the environment makes to a person's phenotype are
+not inherited - these are referred to as modifications. Only mutations
+(changes to the DNA) in the gametes can be passed on to the offspring.
+A Figure 5 Dimples in your cheeks are
+caused by a dominant allele. By simply
+looking at this man you cannot tell if he
+is heterozygous or homozygous for this
+dominant allele
+It is not always possible to determine an organism's genotype from its
+phenotype owing to the dominance of particular alleles. A dominant
+allele is the version of the gene that will always be expressed if
+present in an organism. This means an individual showing the
+dominant characteristic in their phenotype could have one or two
+copies of the dominant gene - you can't tell from their appearance.
+A recessive allele, however, will only be expressed if two copies of
+this allele are present in an organism. This means if an individual has a
+recessive phenotype, you also know their genotype - they must have
+two alleles coding for the recessive phenotype.
+A number of key terms are used to describe an organism's genotype
+for a particular characteristic:
+Homozygous - they have two identical alleles for a characteristic.
+The organism could be homozygous dominant (contain two alleles
+for the dominant phenotype) or homozygous recessive contain two
+alleles for the recessive phenotype).
+Heterozygous - they have two different alleles for a characteristic.
+In this case the allele for the dominant phenotype will be expressed.
+Figure 6 In sexually reproducing
+organisms, most chromosomes
+occur in pairs known as homologous
+chromosomes (where one of each pair
+comes from each parent). The allele of
+a particular gene occurs in the same
+position on each of the homologous
+chromosomes. This is known as its locus.
+The diagram shows a pair of homologous
+chromosomes from a pea plant
+Continuous and discontinuous variation
+The variation of a characteristic displayed within a species can be
+divided into two groups - those which show continuous variation,
+and those which show discontinuous variation. Remember - in
+discontinuous variation individuals fall into distinct groups (for
+example, blood groups) and normally only one gene is involved and the
+environment has little, if any, effect (Figure 7). In continuous variation
+there are two extremes, with every degree of variation possible in
+between (Figure 8). Examples would include your height or weight.
+Many genes will be involved, and the environment has a large effect.
+Table 1 summarises some of the important differences between
+continuous and discontinuous variation.
+Table 1
+Synoptic link
+Continuous variation
+Discontinuous variation
+definition
+To remind yourself how meiosis
+creates variation, for example
+through crossing over and
+independent assortment, look
+back at Topic 6.3, Meiosis.
+a characteristic that can
+take any value within a
+range
+a characteristic that can
+only appear in specific
+(discrete) values
+cause of variation
+genetic control
+genetic and environmental mostly genetic
+polygenes - controlled by one or two genes
+a number of genes
+leaf surface area
+blood group
+animal mass
+albinism
+skin colour
+round and wrinkled pea shape
+examples
+522
+PATTERNS OF INHERITANCE AND VARIATION
+20
+In summary, even though genetic factors in a plant are likely to
+code for green leaves, the environment plays a key role in the final
+leaf appearance.
+Animal body mass
+Within a species, the body mass of individual animals varies. An
+organism's body mass is determined by a combination of both genetic
+and environmental factors. In the majority of cases dramatic variations
+in size such as obesity and being severely underweight are a result of
+environmental factors. For example, the amount (and quality) of foods
+eaten, the quantity of exercise which the organism gets, or the presence
+of disease can affect the body mass. Being extremely overweight or
+underweight can result in significant health problems for an animal.
+Figure 2 This severely obese cat has
+an extremely large body mass as a result
+of overfeeding and lack of exercise
+Occasionally obesity can be a result of the genetic make-up of
+an organism. The obese mouse in Figure 3 has a mutation on
+chromosome 7. This mutation causes the pattern of fat deposition in
+its body to be altered. Scientific studies have shown that this gene acts
+in conjunction with other genes that regulate the energy balance of
+the body, and as a result mice possessing the mutation grow 35-50%
+fatter by middle age than a normal mouse would.
+A Figure 3 Left - obese mouse with a
+mutated chromosome 7. Right - normal
+mouse with normal chromosome 7
+Creating genetic variation
+Genetic variation is created by the versions of genes you inherit
+from your parents. For most genes there are a number of different
+possible alleles or variants. The individual mixture of alleles an
+organism inherits influences the characteristics they will display. This
+combination is determined by sexual reproduction involving meiosis
+(the formation of gametes), and the random fusion of gametes at
+fertilisation. This results in the vast genetic variation seen between
+individuals of the same species.
+Synoptic link
+You learnt about genetic and
+environmental variation and
+examples of these in Topic 10.5,
+Types of variation. In this topic you
+also learnt about the detail of how
+sexual reproduction and meiosis
+lead to genetic variation.
+Study tip
+For most genes in your body two
+alleles are inherited (one from each
+parent). These alleles may be the
+same or different versions of the
+gene. The combination of alleles an
+organism inherits for a characteristic
+is known as their genotype-
+this is the genetic make-up of an
+organism in respect of that gene.
+The observable characteristics
+of an organism are known as
+its phenotype (you will learn
+more about two special cases of
+inheritance known as codominance
+and sex linkage in Topic 20.2,
+Monogenetic inheritance). The
+actual characteristics that an
+organism displays are also often
+influenced by the environment.
+Remember all individuals of the
+same species have the same
+genes but not necessarily the
+same alleles of these genes. Many
+people refer to alleles and genes
+interchangeably - make sure
+you understand the difference
+between these words, and use the
+terms correctly.
+A Figure 4 Doctors monitor the height
+of children at routine developmental
+check-ups. The genotype of this child
+may determine that they have the
+potential to grow to 1.9 m, but the child's
+final height is influenced greatly by their
+diet. For example, a shortage of calcium
+when the child is young can restrict bone
+development, therefore preventing them
+reaching their maximum potential height
+521
+20
+PATTERNS OF INHERITANCE AND VARIATION
+Corn and the chi-squared (x2) test of
+A genetic study was carried out to determine if these two
+genes are linked.
+There will almost always be differences between
+expected and observed results because of the random
+nature of the processes involved. Statistical tests like the
+chi-squared test are performed to determine whether
+these differences are due to chance alone or caused by
+some other factor that may not have been considered.
+Two maize plants that were heterozygous for both colour
+and texture were cross-fertilised and an ear of corn
+produced as a result of this cross was analysed.
+The results are shown in Table 2.
+Maize plants have been used for many years to study
+genetic crosses. An ear of corn contains around 500
+kernels, or seeds. The seeds are produced as the result of
+the cross-fertilisation of two maize plants. The colour of the
+seeds is controlled by one gene with a dominant (P. purple)
+allele and a recessive (p, yellow) allele. Another gene
+determines the texture of the seeds and there is again a
+dominant (R, round) allele and recessive (r, wrinkled) allele.
+1 State the ratio of phenotypes that you expect from
+this cross if the genes are not linked.
+2 Copy and complete the table.
+3 Show how you would use the chi-squared
+distribution table, shown in Table 1, to determine
+the critical value for these results.
+State, giving your reasons, the conclusions you
+would make from your statistical analysis of these
+results.
+Figure 3
+Table 2 Shows the number of each of the different types of kernel produced from a cross between two maize
+plants which are both heterozygous for colour and texture
+Grain phenotype
+Expected number
+Observed
+number
+Observed
+ratio
+Expected
+ratio
+(observed -
+expected]2 / expected
+purple and smooth
+216
+381 *
+381 x
+= 214
+=71
+purple and shrunken
+79
+yellow and smooth
+65
+yellow and shrunken
+21
+chi-squared value:
+Epistasis
+Epistasis is the interaction of genes at different loci. Gene regulation
+is a form of epistasis with regulatory genes controlling the activity of
+structural genes, for example, the lac operon. Gene interaction also
+occurs in biochemical pathways involving only structural genes.
+Synoptic Link
+You learnt about the lac operon
+in Topic 19.2, Control of gene
+expression.
+It was originally thought that all genes were expressed independently,
+and therefore their effects on the phenotype seen. Now it is known
+that many genes interact epistatically. It is the results of these
+interactions that we see in the phenotypes of living organisms. The
+characteristics of plants and animals that show continuous variation
+involve multiple genes and epistasis occurs frequently.
+535
+20.4 Phenotypic ratios
+Specification reference: 6.1.2
+The ratios of phenotypes that you would expect to see in the offspring
+produced from a dihybrid cross can be easily calculated as long as you
+know which alleles are dominant and which are recessive. The actual
+numbers may vary from those expected to some extent because the
+process is random but the differences should not be large. The larger
+the sample the closer the numbers will be to the expected ratio.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the use of phenotypic ratios
+to identify linkage (autosomal
+and sex linkage) and epistasis
+using the chi-squared (x2) test
+to determine the significance
+of the difference between
+observed and expected results.
+Linkage
+The ratios observed in many dihybrid crosses differ significantly
+from those expected. This is often due to linkage meaning that the
+genes are located on the same chromosome. In Topic 20.2 you met
+the idea of sex linkage, when a particular gene is located on the sex
+chromosomes. The effects of sex linkage can be seen in conditions
+such as haemophilia and red-green colour blindness.
+expected
+observed
+When the genes that are linked are found on one of the other pairs
+of chromosomes it is called autosomal linkage. Linked genes are
+inherited as one unit - there is no independent assortment during
+meiosis unless the alleles are separated by chiasmata. They tend to be
+inherited together.
+Linked genes cannot undergo the normal random 'shuffling' of alleles
+during meiosis and the expected ratios will not be produced in the
+offspring. The linked genes are inherited effectively as a single unit.
+Body colour and wing length, for example, are linked characteristics in
+fruit flies. The allele B is responsible for a brown body and is dominant
+to b which results in a black body. The allele V is responsible for long
+wings and is dominant to the allele v which results in short wings.
+A heterozygous brown bodied, long winged fly (BbVv) was crossed with A Figure 1 A test cross involving linked
+a homozygous black bodied, short winged fly (bbvv). The expected and genes does not produce the expected
+observed phenotypic ratios from this cross are shown in Figure 1.
+ratio of phenotypes in the offspring.
+There is a larger proportion of brown
+The homozygous parent can only produce by gametes and the
+flies with long wings and black flies with
+heterozygous parent produces mainly (BV) and (by) gametes as the
+short wings
+alleles are linked. The heterozygous parent will produce a few bV)
+gametes and Bv) gametes due to crossing over,
+which results in the separation of some of the
+recombinants
+linked genes. This is the reason for the small
+A Aaah
+number of brown flies with short wings and
+black flies with long wings. These are called
+recombinant offspring (they have different
+combinations of alleles than either parent).
+The closer the genes are on a chromosome homologous pair crossing over
+gametes
+the less likely they are to be separated during A Figure 2 During crossing over in prophase l of meiosis, non-sister
+crossing over and the fewer recombinant
+chromatids of a homologous pair of chromosomes may break and
+offspring produced.
+reform. As these chromatids break at the same point, any gene
+loci below the point of the break will be exchanged as a result of
+recombination creating new gene combinations
+531
+PATTERNS OF INHERITANCE AND VARIATION
+20
+G = allele for green pods
+g = allele for yellow pods
+All of the offspring are heterozygous. This
+means that all plants will have green pods as
+this is the dominant allele. These offspring are
+known as the F, generation.
+parental phenotypes
+parental genotypes
+green pods
+yellow pods
+GG
+(arbitrarily assumed (arbitrarily assumed
+as maleo)
+as female )
+meiosis
+meiosis
+Heterozygous genetic cross
+The cross in Figure 2 shows what happens if
+you take two of the heterozygous offspring
+from the first generation and cross them
+together.
+gametes
+offspring (F1)
+genotypes
+GG
+o gametes
+gametes G G
+gGgGg
+GgGg
+all plants have green pods (Gg)
+offspring (F1) phenotypes
+A Figure 1
+Study tip
+F1 offspring phenotypes
+F1 offspring genotypes
+green pods
+Gg
+meiosis
+green pods
+Gg
+meiosis
+Potential outcomes from genetic
+crosses can be expressed
+in different forms which are
+mathematically equivalent:
+gametes
+gametes
+o
+gametes G
+G GG
+Probability Ratio
+4 in 4 4:0
+3 in 4 3:1
+2 in 4 2:2
+(or 1 in 2) (or 1:1)
+Percentage
+100%
+75%
+50%
+offspring (F2)
+genotypes
+Gg
+Gg
+1 in 4
+1:3
+25%
+O in 4
+0:4
+0%
+offspring (F2) ratio of 3 plants with green (GG and Gg) pods
+phenotypes to 1 plant with yellow (gg) pods
+Figure 2
+The offspring produced from this cross are known as the F, generation.
+Offspring will be produced in a ratio of three pea plants with green
+pods to one pea plant with yellow pods.
+Codominance
+Codominance occurs when two different alleles occur for a gene -
+both of which are equally dominant. As a result both alleles of the
+gene are expressed in the phenotype of the organism if present.
+One example of this condition is the colour of snapdragon flowers.
+Two equally dominant alleles exist, each of which codes for the colour
+of the flower:
+An allele that codes for red flowers – the allele codes for the production
+of an enzyme which catalyses the production of red pigment from a
+colourless precursor.
+An allele that codes for white flowers - the allele codes for an altered
+version of the enzyme which does not catalyse the production of the
+pigment, therefore the flowers are white.
+A Figure 3 Red Snapdragon flowers
+are produced by a plant which is
+homozygous for the allele coding for the
+enzyme that catalyses the production of
+red pigment
+525
+20
+20.2 Monogenic inheritance
+In this example of codominance, three colours of flower can be produced:
+1 Red flowers - the plant is homozygous for the allele coding for the
+production of red pigment.
+White flowers – the plant is homozygous for the allele coding for
+no pigment production.
+Pink flowers - the plant is heterozygous. The single allele present
+which codes for red pigmentation produces enough pigment to
+produce pink flowers.
+The genetic cross in Figure 6 shows how pink flowers are produced.
+Two of the pink flowers produced in the F, generation are then
+crossed in the second cross.
+Figure 4 White snapdragon flowers
+are produced by a plant which is
+homozygous for the allele coding for the
+enzyme which does not catalyse the
+production of pigment
+When studying codominance, upper and lower case letters are not
+used to represent the alleles, as this would imply one allele is dominant
+and the other recessive. Instead a letter is chosen to represent the gene,
+in this example C for colour of flowers. The different alleles are then
+represented using a second letter which is shown as a superscript. In
+this example CR is used to represent the allele coding for red flowers
+and CW for the allele coding for white flowers.
+CR= allele for red pigment production
+CW = allele for no pigment production
+parental
+phenotypes
+parental
+genotypes
+red flowers white flowers
+CR CR CW CW
+parental
+phenotypes
+parental
+genotypes
+pink flowers pink flowers
+CRCW
+C C
+meiosis meiosis
+A Figure 5 Pink snapdragon flowers are
+produced by a plant which is heterozygous
+for both alleles
+meiosis
+meiosis
+gametes
+gametes
+offspring
+genotypes
+gametes
+offspring
+genotypes
+gametes
+o gametes
+o gametes
+CR
+CR CW
+CR CW
+(CR CW)
+offspring 100% pink flowers
+phenotypes
+Figure 6 Production of pink
+snapdragon flowers
+offspring 50% pink flowers (CR CW)
+phenotypes 25% red flowers (CR CR)
+25% white flowers (CW CW)
+Figure 7 Genetic cross between two
+snapdragons displaying pink flowers
+Multiple alleles
+In the previous examples, you have learnt about characteristics coded
+by a gene with two alleles. Some genes have more than two versions,
+they have multiple alleles. However, as an organism carries only two
+versions of the gene (one on each of the homologous chromosomes)
+only two alleles can be present in an individual.
+Your blood group is determined by a gene with multiple alleles. The
+immunoglobulin gene (Gene I) codes for the production of different
+526
+20
+20.4 Phenotypic ratios
+The recombination frequency is a measure of the amount of crossing
+over that has happened in meiosis.
+number of recombinant offspring
+Recombination frequency = -
+total number of offspring
+A recombination frequency of 50% indicates that there is no linkage
+and the genes are on separate chromosomes. Less than 50% indicates
+that there is gene linkage and the random process of independent
+assortment has been hindered. As the degree of crossing over reduces,
+the recombination frequency also gets smaller. The degree of crossing
+over is determined by how close the genes are on a chromosome. The
+closer they are the less likely they will be separated during crossing
+over and vice versa.
+The recombination frequencies for a number of characteristics coded
+for by genes on the same chromosome can be used to map the genes
+on the chromosome. A recombination frequency of 1% relates to a
+distance of one map unit on a chromosome.
+Chi-squared test
+The observed results from a genetic cross will almost always differ to
+some extent from the expected results and this will be due to chance.
+If you toss a coin 10 times you would be unlikely to get five heads and
+five tails. The observed ratio of heads to tails will probably be quite
+different from the expected ratio. This does not mean there is anything
+wrong with the coin. If the same coin were tossed a thousand
+times you would see less relative difference between the expected
+and observed ratios. The number of observations made, therefore,
+determines how chance affects the results.
+It is important when making comparisons between observed and
+expected results that it is known whether any differences are due to
+chance or if there is a reason for the differences (they are significant).
+The chi-squared (x2) test is a statistical test that measures the size of
+the difference between the results you actually get (observe) and those
+you expected to get. It helps you determine whether differences in the
+expected and observed results are significant or not, by comparing the
+sizes of the differences and the numbers of observations.
+The chi-squared test is conventionally used to test the null hypothesis.
+The null hypothesis is that there is no significant difference between
+what we expect and what we observe - in other words any differences
+we do see are due to chance. Calculated chi squared values are used to
+find the probability of the difference being due to chance alone.
+The chi-squared formula is:
+x = q (0-E)2
+Where:
+x2 = the test statistic
+X = the sum of
+O = observed frequencies
+E = expected frequencies
+532
+20.2 Monogenic inheritance
+Specification reference: 6.1.2
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► genetic diagrams to show
+patterns of inheritance.
+To explain how characteristics are inherited you need to be able to
+show how genes are passed on from one generation to the next.
+This is normally shown using a genetic cross. Most commonly the
+inheritance of a single gene is shown, this is known as monogenic
+inheritance. The basic laws by which characteristics are inherited
+were established by Gregor Mendel, a scientist and monk working in
+the 19th century.
+Performing a genetic cross
+There are a number of key steps you should follow when analysing
+a genetic cross. This ensures that your diagram explains fully what is
+happening to the genes of an organism during fertilisation (and helps
+you to avoid making errors):
+Step 1 - State the phenotype of both the parents.
+Step 2 - State the genotype of both parents. To do this, assign a letter
+code to represent the alleles of the gene being studied. A
+capital letter should be used to represent the dominant allele
+and its lower case form to represent the recessive allele.
+For example, if studying the inheritance of an animal's fur
+colour, you may choose B to represent brown fur (dominant)
+and b to represent white fur (recessive).
+Step 3 - State the gametes of each parent. It is common practice to
+circle the letters, for example, G.
+Step 4 - Use a Punnett Square to show the results of the random
+fusion of gametes during fertilisation. Remember to label the
+gametes on the edges of the square.
+Step 5 - State the proportion of each genotype which are produced
+among the offspring. This can be in the form of a percentage,
+ratio, or 'x out of y offspring ....
+Step 6 - State the corresponding phenotype for each of the possible
+genotypes. It must be clear that you know which phenotype
+results from each genotype.
+Study tip
+It is standard practice to always
+state the dominant allele
+(if present in a genotype) first.
+Do not use two different letters
+for the allele as this means the
+characteristic is codominant.
+Homozygous genetic cross
+Mendel carried out many of his famous experiments on pea plants.
+Pea pods come in two colours - green and yellow. The cross in
+Figure 1 shows what happens when a homozygous green pea pod
+plant is crossed with a homozygous yellow pea pod plant. The allele
+for green pea pods is dominant. Organisms that contain homozygous
+alleles for a particular gene are known as true breeding or pure
+breeding individuals. Therefore in this experiment Mendel was
+studying what happened when two true breeding individuals are
+crossed.
+524
+20
+20.3 Dihybrid inheritance
+Fi offspring phenotype
+Fi offspring genotype
+yellow round seeded
+YyRr
+Meiosis
+X yellow round seeded
+YyRr
+Meiosis
+gametes
+YR Yr yr yr
+YR
+Yr yr
+yr
+Y gametes
+offspring (F)
+genotypes
+gametes
+YR
+Yr
+YR D
+yr
+YR
+YYRR
+YYRr
+YYRR
+YyRr
+Yr
+YYRr
+YyRr
+Yyrr
+VYYTT
+YyRr
+YR
+YYRR
+YYRR
+yyRr
+yr
+YyRr
+Yyrr
+yyRr
+Wyrr
+offspring 9 yellow round seeded: 3 yellow wrinkled seeded: 3 green round seeded: 1 green wrinkled
+F2 phenotypes (YYRR, YYRr, YYRR, YyRr) (YYrr, Yyrr)
+(YYRR, yyRr) (yyrr)
+A Figure 3
+Synoptic Link
+Look back at Topic 6.3, Meiosis to
+remind yourself of the different
+stages of meiosis.
+When the phenotypes of the 16 possible combinations of alleles are
+identified (as shown in Figure 3), it is found that the expected ratio
+in the F, generation is nine pea plants producing yellow round seeds,
+to three pea plants producing yellow wrinkled seeds to three pea
+plants producing green round seeds, to one pea plant producing green
+wrinkled seeds.
+It is worth remembering that this is the expected ratio of the four
+different phenotypes. As with all genetic crosses the actual ratio of
+offspring produced can differ from the expected. This may because
+The fertilisation of gametes is a random process so in a small
+sample a few chance events can lead to a skewed ratio.
+The genes being studied are both on the same chromosome. These
+are known as linked genes. If no crossing over occurs the alleles
+for the two characteristics will always be inherited together.
+Summary questions
+1 State the difference between monogenic inheritance and
+dihybrid inheritance.
+(1 mark)
+2 State and explain two reasons why the offspring produced from a
+particular genetic cross may differ from the expected ratio. (2 marks)
+Work through a dihybrid genetic cross between a pea plant which
+produces green wrinkled seeds and a heterozygous pea plant which
+produces yellow round seeds to determine the expected ratio of the
+F, offspring.
+(6 marks)
+530
+20.3 Dihybrid inheritance
+Specification reference: 6.1.2
+In the previous topic you learnt how genes were inherited through
+monogenic inheritance. In reality, thousands of genes are inherited
+during fertilisation. Dihybrid crosses are used to show the inheritance
+of two genes and this is known as dihybrid inheritance.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+genetic diagrams to show
+patterns of inheritance
+including dihybrid inheritance.
+Dihybrid cross
+A dihybrid cross is used to show the inheritance of two different
+characteristics, caused by two genes, which may be located on
+different pairs of homologous chromosomes. Each of these genes can
+have two or more alleles.
+A dihybrid cross is set out in a very similar format to the one used
+when studying a monohybrid cross - however, four alleles (two for
+each characteristic) are shown at each stage instead of two.
+A classic example is the inheritance of seed phenotype in pea plants.
+The seeds a pea plant produces can be produced in two different
+colours - yellow or green. They are also produced in two different
+shapes - round or wrinkled.
+A Figure 1 Pea seeds can be round or
+wrinkled. Round seeds are caused by
+the dominant allele
+The following codes can be used to represent the alleles:
+Y - allele coding for yellow seeds (this is the dominant allele)
+y - allele coding for green seeds (this is the recessive allele)
+R- allele coding for round seeds (this is the dominant allele)
+r - allele coding for wrinkled seeds (this is the recessive allele)
+In the dihybrid cross in Figure 2, a true breeding homozygous
+pea plant with yellow round seeds is crossed with a true breeding
+homozygous pea plant with green wrinkled seeds.
+All of the offspring produced in the
+F, generation will have a heterozygous
+genotype - YyRr. Therefore, they will
+all produce yellow round seeds as they
+will all have inherited one of each of the
+dominant alleles from the yellow round
+seeded parent.
+parental phenotype
+parental genotype
+yellow round seeded x green wrinkled seeded
+YYRR
+yyrr
+meiosis
+meiosis
+gametes
+YR YR
+yr
+yr
+In the second example in Figure 2, two
+of the pea plants grown from the seeds of
+the F, generation are now crossed.
+gametes
+offspring Fı genotypes
+YR
+YR
+o gametes
+Yr
+YyRr
+YyRr
+Yr
+YyRr
+YyRr
+offspring F1 phenotypes all yellow round seeded
+A Figure 2
+529
+PATTERNS OF INHERITANCE AND VARIATION
+20
+women
+percentage of population
+frequency
+men
+AB
+blood group
+A Figure 7 An example of discontinuous variation showing
+individuals falling into distinct categories
+55 60 65 70 75 80 85
+height/inches
+A Figure 8 Graph showing the range of heights of a large sample
+of men and women. It should be noted that sex is a discontinuous
+characteristic but within each category (male or female) there is
+continuous variation (height)
+two genes
+three genes
+many genes
+one gene
+Aa
+AAaa
+AAAaaa
+percentage of population
+Aaaa
+AAAa
+AA
+aaaaaa
+AAAAAA
+aaaa
+AAAA
+variation in phenotype
+Figure 9 Series of graphs showing how the type of variation changes as the number of genes responsible for the production
+of a characteristic increases
+Summary questions
+Synoptic link
+1 State the difference between a homozygous and
+heterozygous genotype.
+(1 mark)
+Look back at Topic 10.6,
+Representing variation graphically
+for more examples of continuous
+and discontinuous variation.
+2 Explain the difference between the phenotype and
+genotype of an oak tree.
+(2 marks)
+3 Using named examples, state and explain the difference
+between continuous and discontinuous variation.
+(6 marks)
+523

@@ -1,0 +1,1047 @@
+8.3
+4
+Particle reactions
+By the end of this section, you should be able to...
+use the laws of conservation of charge, baryon number and lepton number to determine
+whether a particle interaction is possible
+.write and interpret particle equations given the relevant particle symbols
+. describe situations in which the relativistic increase in particle lifetime is significant
+Reactions conserve properties
+In order for any particle reaction to occur, the overall reaction must conserve various properties of the
+particles involved. The total combination of mass/energy must be the same before and after the reaction.
+Furthermore, momentum and charge must also be conserved. Momentum and mass/energy are difficult
+to check up on. A reaction can overcome any apparent mass difference by having the particles begin
+or end with more kinetic energy to make up the difference. This is essentially how accelerator collision
+experiments can create large mass particles: particles with high kinetic energies can have the energy
+converted into mass to generate a host of particles with less energy. Reactions can also have similar
+flexibility to ensure momentum conservation. We will see later that particles are also assigned values
+called baryon number and lepton number, and these must also be conserved in reactions.
+Charge conservation
+Charge must be conserved for any particle interaction to be possible. We can quickly see if charge
+is conserved by checking the reaction's equation. Consider two common nuclear reactions: alpha
+decay and beta-minus decay (fig A).
+alpha decay 23 U = 230 Th + ja
+charge: +92 +90 + +2 ✓
+beta-minus decay C = TN + -93 +7
+charge
++6 +7 + -1 + 0
+The reaction for beta-minus decay led to the development of the theory that neutrinos and anti-
+neutrinos exist. They are almost massless and have no charge, so are almost impossible to detect.
+Alpha decay uranium-235
+thorium-231
+alpha particle
+2 protons
+2 neutrons
+92 protons
+143 neutrons
+90 protons
+141 neutrons
+Beta-minus decay
+carbon-14
+nitrogen-14
+electron
+anti-neutrino
+6 protons
+8 neutrons
+7 protons
+7 neutrons
+fig A Alpha and beta decay conserve mass/energy and charge.
+116
+The particle zoo
+| 8.3
+Questions
+Learning tip
+The examination specification for the exchange bosons is limited to
+photons only.
+What is the difference in the quark composition of a proton and
+a neutron? Explain what you think happens to the quarks when a
+neutron undergoes beta minus decay.
+2 What is the difference between:
+(a) a meson and a baryon?
+(b) a hadron and a lepton?
+3 What is an exchange boson?
+How do you know that the W+boson cannot be its own anti-
+particle?
+5
+Describe what happens to make a proton repel another proton.
+fig C Gluons - in combination with virtual quark anti-quark pairs - are
+exchanged between quarks to hold the quarks together. In this example, the
+three quarks form a proton.
+Look at the boson mass column in table A. Why was it only
+in recent years that the weak nuclear force bosons could be
+experimentally confirmed?
+It may sound bizarre, but this has been shown experimentally to
+be an appropriate model for the electromagnetic, strong and weak
+forces. In the case of gravity, the so-called graviton has been
+theoretically invented to complete the model, but gravitons are yet
+to be discovered. Many experiments have been set up recently to
+try and detect gravitons.
+Force
+Exchange
+boson
+Boson
+symbol
+Boson
+charge
+Boson
+mass
+(GeV/c2)
+electromagnetic
+weak nuclear
+photon
+Wor Z boson
+SINO
+80.4
+80.4
+91.2
+Kev definitions
+Baryon is a particle made of a combination of three quarks.
+Meson is a particle made of a combination of a quark and an
+anti-quark.
+A pion is a meson created from any combination of up and down
+quark/anti-quark pairings.
+A kaon is a meson created from any combination of an up or down
+quark/anti-quark and a strange or anti-strange quark
+A hadron is a particle which can interact via the strong nuclear force.
+Exchange bosons are particles that enable the transfer of force.
+Each of the four fundamental forces has its own exchange boson.
+Gravity is the weakest of the four fundamental forces, transmitted by
+the (theoretical) graviton particle, and affecting all objects.
+The electromagnetic force is one of the four fundamental forces,
+transmitted by photons, acting between objects with charges.
+The strong nuclear force is the strongest of the four fundamental
+forces, transmitted by gluons acting at very short ranges (10-15 m)
+between hadrons.
+The weak nuclear force is one of the four fundamental forces,
+transmitted by Wor Z bosons, acting at extremely short ranges
+(10-18 m); it can affect all matter particles.
+Photons are the quantum of electromagnetic radiation, and force
+carrier for the electromagnetic force.
+A graviton is the force carrier particle (or exchange boson) for
+gravity.
+strong nuclear gluon
+gravity
+graviton
+undetermined
+table A The four forces of nature and their exchange bosons.
+Evidence for exchange bosons
+Whilst gravity is the force we experience most obviously, it
+WP) is the one scientists know the least detail about. The
+electromagnetic force is well understood, and the
+exchange of photons to make it work has also led to an
+understanding of the generation of photons such as light. The
+weak nuclear force is also fairly well understood, as the W and Z
+bosons predicted by theory have since been detected in
+accelerator experiments in which protons are crashed together.
+This is particularly strong science, as the existence of the weak
+nuclear force bosons had been theoretically predicted and then
+they were detected in later experiments. Many particle decays
+where other particles are formed, such as beta decay, occur via a
+weak nuclear force interaction.
+115
+The particle zoo
+8.3
+Questions
+For each of these reactions, confirm whether or not they can occur considering only conservation
+of charge:
+(a) phosphorus beta-plus decay.
+The phosphorus isotope is converted into a sulfur isotope and emits a positron and an electron
+neutrino:
+1P+ S+.98 + Owe
+(b) neutral pion decay.
+A neutral pion becomes an electron, a positron and a gamma photon:
+70 € + et + 7
+2 Amuon is generated in the atmosphere at a height of 10 km. Calculate how far it would travel down
+towards the ground if it was moving at 0.98 c and it decays after 2.2 10-s.
+Beta plus decay is similar to the better known beta-minus decay. In beta-plus decay, a proton is converted
+into a neutron, with the emission of a positron and an electron neutrino.
+Write the fundamental reaction for beta-plus decay and confirm that it is permitted by the conservation
+rules you have seen.
+4 One theoretical physicist at CERN has proposed that the LHC may see a neutron decay reaction in which
+a lambda zero particle (up, down, strange baryon) and a kaon (down/anti-strange meson) are produced:
+proposed reaction 1 in A+OK
+A second theoretical physicist at CERN has argued that the reaction will have to produce two kaons as
+well as a positron and an anti-neutrino:
+proposed reaction 2n=A+2K+ et +
+Work out which reaction, if any, is possible.
+Key definitions
+Alpha decay is the radioactive process in which a particle combination of two protons and two neutrons
+is ejected from a nucleus.
+Beta-minus decay is the radioactive process in which a nuclear neutron changes into a proton, and an
+electron is ejected from the nucleus.
+A baryon number is the quantum number for baryons, whereby each proton or neutron (or other baryon)
+has a value of B = 1.
+A lepton number is the quantum number for leptons, whereby each lepton has a value of L= 1.
+Strangeness is the quantum number for strange quarks, whereby each one has a value of S = -1.
+119
+The particle zoo
+| 8.3
+Only the first three quarks - up, down and strange - were known from the middle part of the twentieth
+century, and the charm quark was discovered in 1974. The symmetry of the Standard Model indicated
+to scientists that there were other particles they had never observed, which should exist - the bottom
+and top quark Experiments were carried out to find these and the accelerator experiments at Fermilab
+discovered bottom in 1977 and top in 1995.
+Current particle theory holds that all matter in the Universe is constructed from combinations of
+some of these 12 particles, and no others. Each of the 12 particles listed in tables A and B also has
+an anti-particle. The anti-particles have the same mass but all their other properties are opposite to
+those of the normal matter particle. To write the symbol for an anti-particle, it is the same as the
+normal particle, with a bar above the symbol. For example, the charge on an anti-down quark is +
+and its symbol is d. In a few cases, the anti-particle notation treats it as a different particle in its own
+right and the bar may not be used. The positron (anti-electron) does not use a bar but is written as et.
+Did you know?
+The Higgs boson
+One of the aims for CERN's Large Hadron Collider (LHC) experiment was that it would discover the Higgs
+boson. This was theoretically suggested independently by both Peter Higgs and the team of Francois
+Englert and Robert Brout, in 1964. Itself very massive, the Higgs particle is the means by which particles get
+mass. Remember that one of the key points about mass is that it gives objects inertia - the reluctance to
+change velocity. Thus, an electron suffers less of this effect from the Higgs field than a proton, and so it has
+less mass. The Higgs mechanism - how this field imparts mass - is not easy to describe in everyday terms.
+On 4 July 2012, two LHC experiment teams, ATLAS and CMS, jointly announced that they had discovered a
+particle which matched the predicted interactions of the Higgs boson, and the mass of this new particle
+was approximately 125 GeV/c2. Whilst the LHC scientists were reluctant to confirm it as the Higgs boson at
+the time, the new particle discovery was good enough for Higgs and Englert to be jointly awarded the
+2013 Nobel Prize in Physics. Brout had unfortunately died a year before the experimental discovery was
+confirmed.
+Questions
+| An anti-electron is called a positron. Why is it usually written with the symbol et?
+2 What is the difference between:
+(a) a quark and a lepton? (b) a quark and an anti-quark? (c) an electron and a muon?
+3 (a) Having discovered up, down, strange, charm and bottom quarks, why did scientists undertake similar
+experiments using higher and higher energies?
+(b) The properties of the top quark that they discovered are shown in table B. What properties would an
+anti-top quark have?
+4
+Look at fig A and consider the three generations of neutrino, compared with the other fundamental particles
+in the Standard Model.
+(a) Why are the masses of the neutrinos surprising?
+(b) How do the neutrinos' masses follow the same trends as the other particles in the three generations?
+Kev definitions
+Standard Model is the name given to the theory of all the fundamental particles and how they interact.
+This is the theory that currently has the strongest experimental evidence.
+Quarks are the six fundamental particles that interact with each other using the strong nuclear force (as
+well as all other forces).
+Leptons are the six fundamental particles which do not interact using the strong nuclear force, only the
+other three fundamental forces.
+The strong nuclear force is an extremely short range force between hadrons (such as protons and
+neutrons).
+For each particle there exists an anti-particle, which has the same mass but all their other properties are
+opposite to those of the normal matter particle.
+113
+8.3
+3
+Particles and forces
+By the end of this section, you should be able to...
+define baryons, mesons and photons in the Standard Model
+• explain why high energies are required to investigate
+fundamental particles
+speeds, so was a genuine and unexpected long lifetime. This did
+not fit the pattern generated by up, down and strange quarks, and
+it is thought to be a charm-anti-charm combination (CC). The two
+independent discoverers of this, Richter and Ting, shared the 1976
+Nobel Prize for their discovery of the fourth quark.
+Baryons
+If three quarks are combined together, the resulting particle is
+a baryon (fig A). Protons and neutrons are baryons. A proton
+consists of two up quarks and a down quark, whilst a neutron is
+two down quarks combined with an up quark. Other baryons are
+more obscure and have very short lives, as they decay through a
+strong nuclear force reaction that makes them highly unstable. Yet
+other baryons, like the sigma, omega and lambda particles, decay
+via the weak nuclear force and are longer lived, with lives as long
+as 10-10 seconds!
+fig B Mesons are formed from quark-anti-quark combinations.
+proton
+anti-proton
+Hadrons
+Quarks can interact via the strong nuclear force. Thus baryons
+and mesons can interact via the strong nuclear force. Any particle
+which feels the strong force is called a hadron. So, baryons and
+mesons are both hadrons. Leptons do not feel the strong force and
+so are in a separate class of particle from the hadrons.
+neutron
+lambda-zero
+fig A Three-quark baryons. Three anti-quarks in the anti-proton make it an
+anti-baryon.
+Mesons
+If a quark and an anti-quark are combined together, the resulting
+particle is known as a meson (fig B). The pion and the kaon are
+the most common examples of mesons. A m meson (ud) is made
+from an up quark (u) combined with an anti-down (d) quark. If a
+meson is a combination of a quark and its anti-quark, then the
+meson's charge must be zero. This is the case for the J/u particle,
+which was first discovered in 1974 by two independent researchers
+at separate laboratories. Its slow decay, with a lifetime of
+7.2 x 10-21s, occurred when it was not travelling at relativistic
+114
+The four forces of the apocalypse
+There are four other particles that we have not yet mentioned
+here, because they are not matter particles. These are known
+together as exchange bosons. The matter particles interact by
+the four forces of nature, which are gravity, the electromagnetic
+force, the strong nuclear force and the weak nuclear force.
+Each force acts on particles which have a certain property
+such as mass in the case of gravity, or electric charge for the
+electromagnetic force. The process by which these forces act has
+been modelled by scientists as an exchange of another type of
+particles - the exchange bosons. For example, for a proton and
+an electron to attract each other's opposite charge, they pass
+photons backwards and forwards between each other.
+THINKING
+BIGGER
+ANTI-MATTER MATTERS m
+Anti-matter was first proposed by Paul Dirac in 1928, and has long enjoyed a significant level of
+interest from science fiction writers and scientists alike, due to its elusive esoteric nature.
+Here, NASA's outreach activities include an explanation of the progress that has been made towards
+harnessing the potential of anti-matter.
+STATUS OF ANTI-MATTER
+Technology is now being explored to make anti-matter carrying
+cases, to consider using anti-matter for medical purposes, and to
+consider how to make anti-matter rockets.
+CONJECTURE) SPECULATION)SCIENCE TECHNOLOGY)APPLICATION
+HNI
+fig A The maturity of a scientific concept changes over time.
+Anti-matter is real stuff, not just science fiction. Anti-matter is
+firmly in the realm of science with some aspects even entering the
+technology realm. There is also a lot of speculation about what one
+might do with anti-matter.
+What is anti-matter?
+Anti-matter is matter with its electrical charge reversed. Anti-
+electrons, called "positrons,' are like an electron but with a positive
+charge. Antiprotons are like protons with a negative charge.
+Positrons, antiprotons and other antiparticles can be routinely
+created at particle accelerator labs, such as CERN in Europe, and
+can even be trapped and stored for days or weeks at a time. And
+just last year, they made antihydrogen for the first time. It didn't
+last long, but they did it. Also, anti-matter is NOT antigravity.
+Although it has not been experimentally confirmed, existing theory
+predicts that anti-matter behaves the same to gravity as does
+normal matter.
+The catch?
+Right now it would cost about one-hundred-billion dollars to
+create one milligram of anti-matter. One milligram is way beyond
+what is needed for research purposes, but that amount would be
+needed for large scale applications. To be commercially viable, this
+price would have to drop by about a factor of ten-thousand.
+And what about using anti-matter for power generation? - not
+promising.
+It costs far more energy to create anti-matter than the energy one
+could get back from an anti-matter reaction. Right now standard
+nuclear reactors, which take advantage of the decay of radioactive
+substances, are far more promising as power generating
+technology than anti-matter. Something to keep in mind, too, is
+that anti-matter reactions - where anti-matter and normal matter
+collide and release energy, require the same safety precautions as
+needed with nuclear reactions.
+Extract from the NASA website, at http://www.nasa.gov/centers/glenn/
+technology/warp/antistat.html posted on 2 May 2008
+Where else will I encounter these themes?
+Book 1 6.1
+6.2
+7.1
+7.2
+7.3
+8.1
+120
+8.3
+2
+The particle zoo
+Generation
+Name
+Symbol Charge Mass (GeV/c?)
+0.0023
+up
+down
+0.0048
+By the end of this section, you should be able to...
+define leptons and quarks in the Standard Model
+• describe that the symmetry of the Standard Model predicted
+the existence of top quark
+explain that every particle has an anti-particle
+deduce the properties of particles and their anti-particles
+strange
+0.095
+charm
+1.275
+bottom
+4.19
+| TIL
+top
+table B The family of quarks. These are subject to the strong nuclear force.
+fermions
+10
+top quark
+bottom quark
+charm quark
+The Standard Model
+After a century in which scientists rapidly discovered many sub-
+atomic particles, they have now established a theory for how
+these come together to build up the things we see around us.
+This theory is known as the Standard Model. As the idea of the
+atom as indivisible was swept aside by Rutherford and Thomson,
+so the idea of the proton and neutron as fundamental has also
+been overturned. We have probed inside these two nucleons and
+discovered that each is constructed from smaller particles known
+as quarks. The electron has so far survived as being considered
+fundamental. However, it has two partners - similar types of
+particles - and each has a neutrino associated with it, forming a
+group of six fundamental particles, known as leptons.
+Scientists like to see the Universe as balanced, or symmetrical,
+and we have now found that quarks are also a group of six,
+although only the lightest two are found in protons and neutrons.
+The heavier quarks are found in rarer particles. The two groups
+are distinct because quarks can undergo interactions via the
+strong nuclear force, whereas leptons do not feel the strong
+force. It is the strong nuclear force that binds nucleons together
+in the nucleus. In each group of six there are three pairs with a
+similar order of magnitude for mass, and these are known as the
+three generations of matter (fig A).
+Hall
+strange quark
+10-1
+muon
+down quark
+Mass/GeV
+up quark
+Generation
+ge Mass (MeV/c)
+0.511
+electron
+electron
+electron
+neutrino
+0
+0
+(<2.2 x 10)
+muon
+-1
+0
+106
+(<0.17)
+muon
+neutrino
+0
+10-10
+tau
+tau neutrino
+1780
+0(<20)
+tau-neutrino
+of
+0
+muon-neurino
+10-11
+table A The family of leptons. These do not feel the strong nuclear force.
+electron-neutrino
+10-12 L
+fig A The masses of particles in the Standard Model increase over generations.
+112
+8.3
+Here, we again see that this reaction must have an anti-lepton on the right-hand side to balance the
+electron, and thus we have further evidence for the suggestion that an anti-neutrino is produced.
+If we zoom in further and isolate the individual quark decay reaction in beta decay, we can check
+again:
+beta-minus decayd → u + -18 + 8
+charge:
+- + + - 1 + 0 ✓
+baryon number: + + + + 0 + 0
+lepton number: 0 + 0 + +1 + -1 ✓
+Again, everything is conserved.
++
++
+Strangeness
+The strange quark adds an additional property to reactions, which must usually also be conserved.
+This is called strangeness, S. Each strange quark has a strangeness of -1, each anti-strange
+quark has S = +1, and all other particles have zero strangeness. Strong and electromagnetic force
+interactions must conserve strangeness.
+WORKED EXAMPLE
+The lambda-plus particle is a baryon and consists of two up quarks and a strange quark (uus). It
+commonly decays via the strong force into a proton (uud) and a neutral pion (which can be ud or dd).
+True or false?
+proposed decay A = P +
+charge
++1 + 0
+baryon number: +1 → +1 + 0 ✓
+lepton number: 0 = 0 + 0 ✓
+strangeness: -1 = 0 + 0 X
+†
+†
+This reaction cannot occur via a strong force as it does not conserve strangeness.
+Relativistic lifetimes
+We have seen previously (Section 8.2.1) that when a particle is accelerated to a significant fraction
+of the speed of light, its mass appears to increase. Einstein also predicted that, at these speeds,
+time would be slower than it is for an external observer. This would suggest that for us monitoring
+very fast-moving particles, their lifetimes before they decay would be longer than the theoretical
+predictions.
+One early piece of evidence of these extended particle lifetimes came with the detection of muons
+at sea level. High energy cosmic rays interact with the nuclei of atoms high in the atmosphere to
+create muons, which have a lifetime of about 2 gs. These should all decay in much less than the time
+to travel down to the Earth's surface, and we should hardly detect any at sea level. However, they are
+detected at low altitudes in significant numbers. The reason is that they are travelling very fast (for
+example 0.98c). As far as the muons are concerned, they still decay in the same short time; but for us
+as external observers, their time moves slowly enough for them to travel tens of kilometres down to
+our experiments on the ground. This phenomenon was first confirmed experimentally by Rossi and
+Hall in 1940.
+This principle also affects the particle interactions observed in accelerator collision experiments. The
+particles live longer, and travel further than we might expect because they are moving so fast. This
+allows a host of additional interactions to happen, as they meet particles they might not otherwise
+have had time to come into contact with. Also, the fast-moving particles will travel much further
+through the detectors than non-relativistic lifetimes would allow, and so can be more easily observed.
+If the exotic particles produced in the LHC collision chamber decayed within the chamber before
+escaping it, none would be detectable, as the detector cannot be placed right at the collision point.
+118
+The particle zoo
+8.3
+If the same nuclear change were producing the same single
+particle every time, then for mass-energy to be conserved, the beta
+particles would have to have the same energy every time. This is the
+case for alpha particles. However, scientists found that beta particles
+from nuclei of the same isotope have a range of kinetic energies.
+This suggested that another particle was flying away with some
+kinetic energy, so that the total kinetic energy produced was always
+the same.
+WORKED EXAMPLE
+For each of these reactions, confirm whether or not they can occur
+through conservation of charge:
+(a) Beta-plus decay:
+N= C+.98 +ve
+Answer: +7 +6 + +1 +0 ✓
+This reaction is permitted as it conserves charge. It would need to
+also conserve mass/energy and momentum.
+(b) Positive pion decay:
+T = A + 0,
+Answer: +1 -1 +0 X
+This reaction is not permitted as it does not conserve charge.
+(NB: In fact, a positive pion decays into an anti-muon, wt, and a
+muon neutrino with a lifetime of some 26 nanoseconds.)
+Conservation of baryon and lepton numbers
+We can also check on the possibility of a reaction occurring, as
+the reaction must conserve baryon number and lepton number.
+Each quark has a baryon number, B, of +, and so a baryon has
+a value of B = +1. Each lepton has a lepton number, L, of +1.
+Anti-particles have the opposite number. As mesons are
+quark/anti-quark combinations, their total baryon number is zero
+(+ + 3 = 0).
+Particle reactions can also only occur if they conserve baryon and
+lepton numbers overall. This means the total for each property
+must be the same before and after any reaction, or else it cannot
+occur.
+Let us revisit alpha and beta decay and check on conservation of
+these numbers.
+alpha decay 2350 = 230Th + ja
+charge: +92 + +90 + +2 ✓
+baryon number: +235 +231 + +4 ✓
+lepton number: 0 + 0 + 0 ✓
+beta-minus decay C N + -93 + de
+charge:
++6 +7 + -1 + 0
+baryon number: +14 +14+ 0 + 0 ✓
+lepton number: 0 = 0 + +1 + -1 ✓
+If we isolate the individual neutron decay reaction in beta decay,
+we can check again:
+beta-minus decay in = p +-13 + que
+charge:
+0 = +1 + -1 + 0 (
+baryon number: +1 = +1 + 0 + 0 ✓
+lepton number: 0 = 0 + +1 + - 1
+Learning tip
+The products from beta decay processes include either an electron
+(beta minus) or a positron (beta plus). This means that you may see
+either symbol for each used in beta decay equations:
+03+
+98-
+Particle
+Symbol Charge
+Lepton Baryon
+number, L number, B
+Anti-particle
+Symbol Charge
+Lepton Baryon
+number, L number, B
+electron
+electron neutrino
+muon
+muon neutrino
+positron
+anti-electron neutrino
+anti-muon
+anti-muon neutrino
+-1
+tau
+-1
+0
+anti-tau
+tau neutrino
+anti-tau neutrino
+table A Leptons and anti-leptons and their properties.
+Particle
+Symbol Charge
+Anti-particle
+Symbol Charge
+Lepton Baryon
+number, L number, B
+proton
+Lepton Baryon
+number, L number, B
++1
+0
++1
+0
+0
+-1
+neutron
+neutral pion
+0
+0
+anti-proton
+anti-neutron
+neutral pion
+anti-pi-plus
+anti-down
+xi-plus
+12 ET EI [1]
+pi-plus
+down quark
+xi-minus
+table B Various particles and anti-particles, and their properties.
+117
+The particle zoo
+8.3
+(b) A scientist observes a similar event in a detector and the
+incoming photon had a frequency of 4.89 x 1020 Hz. She sees
+the tracks of the electron and positron from the reaction are
+160° apart and hypothesises that a third particle must be
+produced. Calculate the mass of this third particle in MeV/c2.
+Electronvolt units
+We have seen (in Book 1 Section 3.1.2) the electronvolt (eV)
+as a unit for very small amounts of energy. Remember that one
+electronvolt is the amount of energy gained by an electron when
+it is accelerated through a potential difference of one volt. This
+is equivalent to 1.6 x 10-19 joules, so it is a very small amount
+of energy, even in particle physics terms. It is common for
+particles to have millions or even billions of electronvolts. For this
+reason we often use MeV and GeV as units of energy in particle
+interactions.
+Look at fig B, which shows tracks in a hydrogen bubble chamber
+that has been bombarded with anti-protons. One anti-proton hits
+a proton in the chamber. The resulting tracks show the tracks of
+various pairs of particles (17+/", e*/e) which are created in the
+collision.
+Similarly, the atomic mass unit, u, is not an SI unit but is
+commonly used in particle interactions, as it is often easier to get
+to grips with. lu= 1.67 x 10-27 kg. As we know that energy and
+mass are connected by the equation AE = c2Am, we can also have
+mass units which are measures of E/c2, such as MeV/c2 and
+GeV/c2.1 u of mass is equivalent to about 931.5 MeV/c2.
+WORKED EXAMPLE
+Calculate the mass in kilograms of 1 MeV/c2
+1 MeV = 1 x 106 x 1.6 x 10-19 = 1.6 x 10-13)
+In Sl units, c = 3 x 108m 5-7
+1 MeV/c2 - 1.6 x 10-13
+(3 * 10%)
+1 MeV/c2= 1.78 x 10-30 kg
+This is about twice the mass of an electron.
+Learning tip
+No particle interactions can occur if they violate any of these
+conservation rules:
+. momentum
+fig B Tracks in a hydrogen bubble chamber that has been bombarded with
+anti-protons.
+(a) Identify the incoming anti-proton track.
+(b) How did you identify the incoming anti-proton? What does
+this tell you about its kinetic energy compared to the resulting
+particles?
+(c) How does the picture illustrate the conservation of matter/
+energy?
+(d) Identify any pair of particles (eg., et/e). How do you know that
+the tracks show you a pair of identical but opposite particles?
+(e) How does the picture illustrate conservation of charge?
+(f) How does the picture illustrate the conservation of momentum
+in two dimensions?
+• mass-energy
+charge.
+There are also other rules that must be obeyed, but these three are
+critical, as all particles involved will have some of each property.
+Questions
+A positron with kinetic energy 2.2 MeV collides with an electron at
+rest, and they annihilate each other.
+(a) Calculate the energy of each of the two identical gamma
+photons produced as a result of the annihilation.
+(b) Calculate the frequency of these gamma photons.
+Kev definitions
+Pair production is the phenomenon in which a particle and its
+anti-matter equivalent are both created simultaneously in a
+conversion from energy.
+Annihilation is the phenomenon in which a particle and its
+anti-matter equivalent are both destroyed simultaneously in a
+conversion into energy which is carried away by force carrier
+particles, such as photons.
+The electronvolt is the amount of energy an electron gains by
+passing through a voltage of 1 V.
+1 eV = 1.6x 10-19] 1 mega electronvolt = 1 MeV = 1.6 x 10-13)
+2
+In 1977, in an accelerator at Fermilab, the upsilon particle was
+discovered. Its mass was determined as 9.46 GeV/c2. What is the
+mass of the upsilon particle in kilograms?
+A gamma ray photon travelling through space spontaneously
+converts into an electron and a positron.
+(a) Explain why the two new particles must move in opposite
+directions to each other.
+111
+Thinking Bigger
+8.3
+Let us start by considering the nature of the writing in this webpage:
+1. a. What sort of people do you think might visit this webpage?
+b. How has the author ensured that the level of scientific terminology, and the depth of
+explanations, are right for their audience?
+2. What is NASA's motivation for including this page on its website?
+UVUV100
+Consider NASA's general
+purposes and aims. You
+may find it helpful to visit
+the original webpage and
+look at close links to it.
+Now we will look at the physics in detail. Some of these questions will link to topics elsewhere in this
+book, so you may need to combine concepts from different areas of physics to work out the answers.
+3. What would be the structure of anti-hydrogen?
+4. a. How could a particle physics lab trap, or store, a charged particle like a proton for a
+long time?
+b. How would CERN store the positrons they create?
+c. Why would it be much more difficult to store anti-hydrogen than an anti-proton?
+5. a. What are the differences between an electron and a positron?
+b. What differences are there between an anti-baryon and an anti-lepton?
+c. Why is it generally unnecessary to define a group of particles we would call
+anti-mesons?
+6. Using the data given in the extract (and assuming ordinary matter is free) calculate the
+cost per joule of energy created if anti-matter annihilation were to be used for power
+generation
+7. a. If a positron beam were to be used as an annihilation cutting tool, calculate the beam
+current that would deliver 100 kW.
+b. What voltage would be needed to accelerate a beam of electrons so that, at the same
+beam current, it could deliver the same power from mechanical collisions with the
+target?
+1000W
+Consider the movement
+of positrons in a beam as
+an electric current, which
+annihilate with the target
+to deliver the energy.
+000000
+Activity
+The webpage was published in 2008 and the study of anti-matter is progressing quickly. Write an updated
+version of the webpage for your nearest university physics department to include on their site. The
+purpose of the webpage, as far as the university is concerned, is to explain anti-matter to students who
+may be considering applying to study physics there. You do not need to mention any activities that the
+department are involved with, the page should simply inspire and interest students into the possibilities
+that a career in physics could offer. The level of scientific explanation should be a little deeper than the
+NASA original shown.
+You will need to do some
+further research in order
+to find out the latest
+developments and areas
+of research, in order
+to make your webpage
+fully up to date. For
+example, has the cost
+of making one milligram
+of anti-matter changed
+Since 2008?
+8.2
+8.3
+YOU ARE
+9.1
+10.1
+11.1
+12.1
+13.1
+HERE
+121
+8.3
+Exam-style questions
+[Note: In questions marked with an asterisk (*), marks will be awarded
+for your ability to structure your answer logically showing how the
+points that you make are related or follow on from each other.
+With reference to the diagram, explain the evidence
+provided for this event.
+[Total: 4]
+1 Which of the following is NOT a possible value for the charge
+on a meson?
+A -1
+B 0
+*5 In 1961 Murray Gell-Mann predicted the existence of a new
+particle called an omega (2) minus. It was subsequently
+discovered in 1964.
+At this time the quark model consisted of three particles, the
+properties of which are given in the table.
+D1
+[1]
+[Total: 1]
+80
+2 Which of the following is a lepton?
+A A baryon
+B An electron neutrino
+C A neutral pi meson
+D A proton
+[1]
+[Total: 1]
+3 'Positron' is the name for an anti-electron. The properties of the
+positron are:
+Answer
+A
+-1
+Mass/kg
+-9.11 X 10-31
+-9.11 x 10-31
+9.11 X 10-31
+9.11 X 10-31
+Lepton number Charge
+0
++1
++1
+L 0
+-1
+B
+Quark Charge Predicted mass in MeV/c2
+Up (u)
+Down (d)
+Strange (s)
+(a) Explain what a charge of + means.
+(b) State the predicted mass of, and the charge on,
+ans particle.
+(c) Convert 4 MeV/c2 to kg.
+(d) The event that led to the discovery of the omega minus
+particle can be summarised as follows. A negative kaon
+collided with a stationary proton and produced a positive
+kaon, a neutral kaon and the omega minus.
+(i) Kaons K consist of either an up or down quark plus
+a strange quark. The omega minus consists of three
+strange quarks.
+Copy and complete the following table by ticking
+the appropriate boxes.
+Meson Baryon Nucleon Lepton
+Negative kaon
+Omega minus
+(ii) Write an equation using standard particle symbols
+to summarise this event.
+(iii) The negative kaon consists of us. Deduce the quark
+structure of two other kaons involved in this event. [2]
+(iv) The total mass of the three particles created after
+this event is larger than the total mass of the two
+particles before. Discuss the quantities that must be
+conserved in interactions between particles and use an
+appropriate conservation law to explain this increase
+in mass.
+[Total: 17]
++1
+[1]
+[Total: 1]
+*4 The diagram shows tracks produced by charged particles in a
+bubble chamber
+[5]
+At X, an incoming charged particle interacts with a stationary
+proton to produce a neutral lambda particle and a neutral kaon
+particle. Both these particles later decay into other particles.
+122
+TOPIC 8
+Nuclear and particle physics
+CHAPTER
+8.3
+The particle zoo
+oxygen a
+Introduction
+On 4 July 2012, there was a press conference at CERN, the particle physics experiments lab near Geneva, in which they
+WP announced the discovery of a particle which they believe is the Higgs boson, predicted in the sixties as the final
+component in the Standard Model. Physicists the world over were hugely excited by CERN's discovery, as this is
+experimental confirmation of the only piece of the Standard Model that had not previously been confirmed to exist. Moreover,
+its mass was very close to a theoretically predicted value. Therefore, the scientific system of subatomic particles was completed,
+and experimental evidence of previous predictions is the foundation for the strongest scientific conclusions. This means that
+the Standard Model is a very sound theory, and any corrections or alterations are now more likely to be very minor.
+In this chapter we will put together the picture of the Standard Model, so that you can see how the few particles you already
+know fit into the overall theory. These particles are the fundamental building blocks of our material Universe, and how they
+interact is what determines the development and structure of everything there is. Arguably, every phenomenon you will ever
+encounter is a consequence of the ideas in this chapter!
+All the maths you need
+• Recognising and use of appropriate units (e.g. converting joules and electronvolts)
+• Use of standard form (e.g. using photon frequencies)
+• Considering orders of magnitude (e.g. comparing the different generations of particles)
+• Changing the subject of an equation (e.g. calculating photon frequencies)
+• Substituting numerical values into equations using appropriate units (eg. calculating matter conversions into energy)
+proton
+gluon
+u p qu
+up quark
+down a
+108
+8.3
+1
+Particle interactions
+By the end of this section, you should be able to...
+use the equation AE = c-Am in situations involving the
+creation and annihilation of matter and anti-matter particles
+use and convert between MeV, GeV and
+E 16.4 x 10-14
+h 6.63 x 10-34
+f = 2.47 x 1020 Hz
+This reaction is known as electron-positron pair production.
+In momentum terms, it is just like an explosion. Initially only
+the photon existed so there was some linear momentum. Along
+this initial direction, their components of momentum must sum
+to the same total as the photon had. Perpendicular to the initial
+momentum, the electron and positron produced must have equal
+and opposite components of momentum so that in this direction
+it will still total zero afterwards.
+In any reaction, the total combination of matter-energy must be
+conserved. If we add the energy equivalent of all matter particles
+with the energies, before and after the reaction, the numbers must
+be equal.
+Creation
+'In the beginning, God created the Heaven and the Earth.' This
+is the first line of the Christian holy book, the Bible. The creation
+story of the indigenous people of Australia claims that everything
+was created from the dreams of their distant ancestors. Hinduism
+has several accounts of creation, one being that everything was
+magically created by Brahma, under the instruction of Vishnu,
+who had just been awakened from dreaming by the primordial
+sound. Some native Americans hold to the idea that 'Earthmaker
+wished for the Earth and it was formed."
+The implication from most creation stories is that, from
+nothing, the material of the Earth was brought into being by
+an unexplained entity. Some scientists take such apparently
+supernatural whimsy as strong evidence that religion is fanciful
+nonsense. However, one of Einstein's most important theories
+seemingly suggests exactly this - matter can appear where
+previously there was nothing but energy. Matter and energy
+are regularly interchanged in the Universe according to his
+well-known equation, E = mc2. In this equation, multiplying the
+mass of an object by the square of the speed of light gives the
+equivalent amount of energy:
+AE = (2x Am
+Given a suitable quantity of energy, such as that in a gamma
+ray photon, particles can spontaneously appear and the energy
+disappears from existence. This is so commonplace in the
+Universe that it should not surprise us. The reason it does is that
+these events only happen on a sub-atomic scale, so we cannot
+detect them without complex machinery
+WORKED EXAMPLE
+Annihilation
+Just as matter can appear spontaneously through a conversion
+from energy, so energy can appear through the disappearance of
+mass. This is the source of energy in nuclear fission and fusion.
+In both reactions, the sum of the masses of all matter involved
+before the reaction is greater than the sum of all mass afterwards.
+This mass difference is converted into energy (see Section
+10.1.3). In a nuclear power station we extract this energy as heat
+and use it to drive turbines to generate electricity.
+If a particle and its anti-particle meet (anti-particles are the
+anti-matter versions of regular particles – see Section 8.3.2).
+they will spontaneously vanish from existence to be replaced
+by the equivalent energy: we call this interaction annihilation
+This reaction was supposedly the main power source to drive the
+starship Enterprise in the science fiction series Star Trek (fig A).
+It is not commonly suggested that annihilation reactors could be
+used as a power source on Earth, as anti-matter exists so rarely.
+Also, if we could find a supply of anti-matter, it would annihilate
+on contact with any matter, which would most likely be before it
+reached the reaction chamber we had set up to extract the energy
+for conversion into electricity.
+Agamma ray photon converts into an electron and a positron
+(an anti-electron that has an identical mass to the electron).
+Calculate the frequency of the gamma photon.
+Mass of an electron me = 9.11 x 10-31 kg.
+AE = 2 x Am = (3 x 108,2x 9.11 x 10-31
+AE = 8.2 x 10-14)
+This is the amount of energy needed to produce an electron or a
+positron so, to produce both, the energy of the photon must be
+double this: 16.4 x 10-14].
+E = hf
+fig A The fictional starship Enterprise was said to be powered by a
+matter-anti-matter annihilation reaction.
+110
+electron
+tom
+What have I studied before?
+The conservation of momentum, charge and
+energy
+The structure and functioning of linear particle
+accelerators
+The structure and functioning of circular particle
+accelerators
+The detection and identification of subatomic
+particles
+How to interpret particle tracks in particle
+detectors
+Deeper matter probing experiments, including the
+Large Hadron Collider
+atomic n. Nuclear fusion
+What will I study later?
+• The types of nuclear radiation and the reactions
+creating them
+• Nuclear fission
+Nuclear fusion
+The importance of particles in stars and between
+stars
+The interactions of dark matter
+neutron
+What will I study in this chapter?
+The various fundamental particles that have been
+discovered
+• Interactions between fundamental particles
+The four fundamental forces of nature
+. What anti-matter is
+Further conservation laws for particle interactions
+• The Standard Model
+neutron
+Jark
+gluon
+up quark
+down quark
+uark
+109
+down quark
+Exam-style questions
+8.3
+(ii) The vector diagram shown below is not complete.
+Copy the diagram and add arrows to represent the
+momenta of J3 and J4.
+N
+8.-------
+[2]
+J2
+[2]
+6 (a) Physicists were able to confidently predict the existence
+of a sixth quark State why.
+(b) The mass of the top quark was determined by an
+experiment. Collisions between protons and anti-protons
+occasionally produce two top quarks.
+(i) How do the properties of a proton and an anti-proton
+compare?
+(ii) After the collision the two top quarks move in opposite
+directions with the same speed.
+Explain why.
+(c) The two top quarks decay rapidly into two muons and four
+jets of particles. These can be detected and their momenta
+measured
+The diagram shows an end-on view of the directions of the
+four jets (J1 to J4) of particles. The two muons are shown
+as y, and u. A muon neutrino is also produced but cannot
+be detected, so is not shown. Each momentum is measured
+in GeV/c.
+The magnitude of the momentum for each particle or 'jet'
+is shown by the number printed at the end of each arrow.
+Scale: 1 cm represents 10 GeV/c
+(iii) Complete the diagram to determine the magnitude
+of the momentum of the muon neutrino. [1]
+(iv) Show that the total energy of all the products of this
+event is about 300 GeV.
+(v) Deduce the mass of a top quark in GeV/c2. [1]
+(vi) Explain why it took a long time to find experimental
+evidence for the top quark
+[Total: 14]
+[27
+34
+H
+40
+19
+Scale: 1cm represents 10 GeV/c
+(i) Explain why GeV/cis a valid unit for momentum.
+[2]
+123

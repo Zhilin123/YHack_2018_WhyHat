@@ -1,0 +1,693 @@
+TOPIC 6
+Further mechanics
+CHAPTER
+16.2
+Circular motion
+Introduction
+What is it that makes the swing carousel an exhilarating fairground ride? How do the engineers that build it have
+WP) confidence that it will be safe in operation? The motion of objects in circles is very common in everyday life. We see
+the Moon orbiting the Earth, and the Earth orbiting the Sun, whilst the Earth itself is making us rotate in a circle every
+day. The mathematics of the forces governing this motion are essentially simple, but the application to a particular real-life
+situation, like the amount of tension in the chains of the swing carousel pictured here, can often leave people confused.
+In this chapter, we will learn how simple trigonometry and basic mechanics can generate the mathematics we need to be able
+to analyse and predict the circular motions of many things, from subatomic particles being accelerated in the Large Hadron
+Collider, to the routing of a spacecraft travelling to Mars. Indeed, very simple circular motion calculations on entire galaxies led
+scientists to the realisation that there must be as-yet-undetected dark matter throughout the Universe.
+All the maths you need
+• Use of trigonometric functions (e.g. in deriving the equations for centripetal acceleration)
+• Use of an appropriate number of significant figures (e.g. calculating angular velocities of planets)
+• Use of small angle approximations (e.g. in deriving the equations for centripetal acceleration)
+• Changing the subject of an equation (e.g. finding the time period of orbits from a known angular velocity)
+• Translating information between numerical and graphical forms (e.g. finding the square of the angular velocity to plot a graph)
+• Determining the slope of a linear graph (e.g. finding the gradient of the line in a centripetal force experiment analysis)
+20
+NERAL ADM
+GENERAL ADMISSION
+TICKET WINDOWS 610
+What have I studied before?
+Speed and acceleration
+How to add vectors
+How to resolve vectors
+Newton's laws of motion
+The radian
+Tension forces
+What will I study later?
+• The circular motion of charged particles in
+magnetic fields
+Particle accelerators
+Particle detectors
+The Large Hadron Collider
+Gravitational fields and orbital motion
+Simple harmonic motion
+What will I study in this chapter?
+How to use both radians and degrees in angle
+measurements
+The concept of angular velocity, and how to
+calculate it
+Centripetal acceleration and how to derive its
+equations
+The need for a centripetal force to enable circular
+motion
+Calculations of centripetal force
+PLASTRE
+ENSURE
+6.2
+Circular motion basics
+travels around the circumference (also in metres) would be equal
+to the angle swept out in radians.
+length of arc
+angle (in radians) = radio of are
+By the end of this section, you should be able to...
+express angular displacement in radians and in degrees, and
+convert between these units
+define angular velocity, and make calculations using it
+define centripetal acceleration, and derive and use the
+equations for it
+So, for a complete circle, in which the circumference is equal to
+2tr, the angle swept out would be:
+0 = 277 = 2 radians
+This means that the angle will be 1 radian (rad) if the distance
+moved around the circle is the same as the radius; just over of
+the distance around the circumference.
+In our study of wave phase in Book 1, Section 5.2.1, we learned
+how angles can be measured in radians as well as in degrees, and
+how to convert between these two units. In this section, we will see
+how that can be taken further to measure movements around a circle.
+1/2
+3
+/4
+1/4
+Going round in circles
+For an object moving in a circle, we often need to measure where it
+is around that circle. For example, to consider the relative positions
+of planets in their orbits at a particular moment, we need to be able
+to state where each one is (ignoring, for the sake of this example,
+the fact that planetary orbits are not perfect circles!).
+Angles measured in degrees are used extensively in navigation in
+order to locate places and discuss the difference between moving
+from one starting point to two possible destinations. This is
+measuring angular displacement on the surface of the Earth. Each
+degree is subdivided into 60 minutes and each of those minutes
+into 60 seconds
+-
+-
+-
+-
+/
+-----
+51/4
+7.1/4
+fig B Measuring angles in radians.
+Angular displacement is the vector measurement of the angle
+through which something has moved. The standard convention
+is that anticlockwise rotation is a positive number and clockwise
+rotation is a negative number.
+Angle in radians
+Angle in degrees
+45
+77/4
+7/2
+37/4
+90
+T
+fig A Measuring angles in degrees.
+When we are measuring rotation, we often use the alternative
+unit to measure angles - the radian. This is defined by the nature
+of a circle itself. Imagine an object moves around part of the
+circumference of a circle. The angle through which it moves,
+measured in radians, is defined as the distance it travels, divided
+by its distance from the centre of the circle (the radius). If the
+radius of the circle were one metre, then the distance the object
+135
+180
+225
+270
+57/4
+37/2
+77/4
+27
+table A Angles measured in degrees and radians.
+315
+360
+6.2
+The mathematical formula for the centripetal force on an object moving in a circle can
+be found from Newton's second law, and the equation we already have for the centripetal
+acceleration:
+F= ma and a=
+mass x (velocity)
+centripetal force =
+radius
+Noting that v= rw, there is an alternative equation for centripetal force in terms of angular
+velocity:
+F=mp2 = m(rwy?
+F=mrw2
+The resultant centripetal force needed will be larger if:
+the rotating object has more mass
+• the object rotates faster
+• the object is further away from the centre of the circle.
+WORKED EXAMPLE
+Estimate the centripetal force on an astronaut in the astronaut training centrifuge (see fig B) if his
+capsule rotated once every 2 seconds.
+Estimate of radius of revolution: r =6m.
+Estimate of astronaut's mass. m = 80 kg.
+velocity, v= = 2516) – 18.8 ms-
+centripetal force, F=!
+This is about 6 times his weight.
+If the operator of the centrifuge were to increase its rate of rotation to once every second, what
+would the astronaut's angular velocity, centripetal force and acceleration now be?
+angular velocity, w = 2nf = 6.28 rad s-1
+centripetal force, F = mrw2 = (80) (6) (6.28)2 = 18 900 N
+centripetal acceleration, a = r2 = (6) (6.28)2 = 237 ms2
+This is about 24 times the acceleration due to gravity and would most likely be fatal if maintained
+for more than a few seconds.
+v
+(80) (18.8) - 4700N
+Learning tip
+Circular motion equations summary:
+angular displacement, 0 =
+angular velocity, w = 2nf = 241 =
+centripetal acceleration, a = r2 =
+centripetal force, F = mrw2 = mv2
+26
+6.2
+2
+Centripetal force
+By the end of this section, you should be able to...
+explain that a centripetal force is required to produce and maintain circular motion
+use the equations for centripetal force
+In Section 6.2.1 we saw how an object moving in a circle must be constantly accelerating towards
+the centre of the circle in order to maintain its motion around the circle.
+Why circular motion?
+When a hammer thrower whirls an athletics hammer around in a circle, the hammer has an angular
+velocity. Yet when the thrower lets the hammer go, it will fly off, following a straight line which is the
+direction in which it was moving at the instant of release. This direction is always along the edge of
+the circle (a tangent) at the point when it was released.
+Learning tip
+There is no special centripetal
+force, any resultant force that
+makes an object move in a
+circle is labelled as the
+centripetal force for that object
+and circle. For example, a
+satellite will move in a circular
+orbit around the Earth because
+its weight acts towards the
+centre of the Earth. The weight
+is the only force acting, so
+could be referred to as the
+centripetal force.
+fig A The instantaneous velocity of an object moving in a circle is tangential to the circle. When there is no resultant
+force, velocity will be constant, so it moves in a straight line.
+As the hammer is whirled at a constant speed, the magnitude of the velocity is always the same.
+However, the direction of the velocity is constantly changing. This means that the vector of velocity
+is constantly changing, and a change in velocity is an acceleration. Newton's first law tells us that
+acceleration will only happen if there is a resultant force. The hammer is constantly being pulled
+towards the centre of the circle. In this example, the force providing this pull is the tension in the
+string (or chain). For any object moving in a circle, there must be a resultant force to cause this
+acceleration, and it is called the centripetal force.
+Centripetal force
+fig B Astronauts are subject to extreme acceleration forces. These forces are simulated in training by the centripetal
+force in a giant centrifuge.
+Exam-style questions
+6.2
+space cycle
+MAMMA
+cage
+A
+(a) Calculate the time taken for each cabin to make one
+complete revolution.
+(b) Calculate the centripetal force acting on each cabin.
+Mass of cabin = 9.7 x 10 kg
+[2]
+(c) (i) The diagram shows just the circle and the cabins.
+Draw arrows to show the direction of the centripetal
+force acting on a person in a cabin when the person is
+at each of positions A, B and C.
+ODAQO
+Wwwwwwwwww
+MANA
+MMA
+WASHIM
+[1]
+exercise bike
+drawn to scale
+(a) Calculate the angular velocity, in rad s I, corresponding to
+20 revolutions per minute.
+[2]
+(b) Use the diagram to estimate the radius of the path followed
+by the cage's platform and in this way calculate the
+platform's acceleration.
+[Total: 5]
+[3]
+6 The London Eye consists of a large vertical circle with
+32 equally spaced passenger cabins attached to it. The wheel
+rotates so that each cabin has a constant speed of 0.26 ms-1
+and moves around a circle of radius 61 m.
+*(ii) As the person in a cabin moves around the circle,
+the normal contact force between the person and the
+cabin varies.
+State the position at which this force will be a
+maximum and the position at which it will be a
+minimum. Explain your answers.
+[Total: 9]
+[4]
+7 Describe an experiment you could carry out in a school
+laboratory to verify the equation for the centripetal force:
+Include details of the measurements to be made, and the
+precautions that would minimise experimental errors. Also
+include explanations of the analysis of the experimental results
+that would confirm the verification.
+[6]
+[Total: 6]
+Circular motion
+6.2
+(sometimes called the 'instantaneous velocity'). We know that
+v=, and from the definition of the angle in radians 0 = , so that
+s=r8.
+Thus: v=r8
+v=rw
+Did you know?
+Military angles
+The British Army uses a system for angle measurement in which a
+complete circle is divided into 6400 'mils'. This is an abbreviation for
+milliradian. They have rounded the numbers for easy use though, as
+strictly speaking there should be 6283 milliradians in a complete
+circle. The idea is that at 1 kilometre distance, an angle of 1 mil
+would represent a distance of 1 metre. So, when aiming artillery fire,
+a horizontal adjustment of 1 mil in angle of fire should move to a
+target 1 metre sideways for every kilometre distance away.
+s = 10
+:: for 1 mil angle at 1 km distance:
+s = 1000 < 0.001 = 1 m
+WORKED EXAMPLE
+In fig D we can see a geostationary satellite orbiting the Earth.
+What is its angular velocity?
+In order to find the angular velocity, remember that it completes an
+orbit at the same rate as the Earth revolves, so one full circle every
+24 hours
+€
+€
+Z72T
+(24 x 60 x 60) 86400
+w = 7.27 x 10-5 rad s-1
+90-3-08
+-
+--
+-
+-
+-
+-
+-
+-
+-
+fig C Measuring angles in mils.
+Angular velocity
+An object moving in a circle sweeps out a certain angle in a
+certain time, depending upon how fast it is moving. The rate at
+which the angular displacement changes is called the angular
+velocity, w. So, angular velocity is measured in rad s-, and is
+defined mathematically by:
+fig D How quickly does a satellite rotate through a certain angle?
+If the radius of the Earth is 6400 km and the satellite in fig D is in
+orbit 35 600 km above the Earth's surface, what is the velocity of
+the satellite?
+From before, w = 7.27 x 10-5 rads-1
+V=rw = (6400 + 35 600) > 103 * 7.27 x 10-5
+v=3050 m 5-1
+If the object completes a full circle (27 radians) in a time period,
+T, then the angular velocity is given by:
+21
+.:
+T=27
+The frequency of rotation is the reciprocal of the time period.
+f=
+iw=27f
+Centripetal acceleration
+Velocity is a vector, and so it is correctly described by quoting
+both its magnitude and direction. An acceleration can change
+either of these, or both. An object moving in a circle may travel
+at a constant speed (and a constant angular velocity) but the
+direction it is moving in must constantly change. This means it
+is constantly accelerating. As this acceleration represents the
+changes in direction around the circle, it is called the centripetal
+acceleration, a. In order to determine how to calculate the
+centripetal acceleration, we must consider how quickly the
+direction, and therefore the velocity, is changing.
+Instantaneous velocity
+Rather than thinking about the angular movement, let us
+consider the actual velocity through space of the moving object
+Thinking Bigger
+6.2
+Let us start by considering the nature of the writing on the webpage.
+1. The extract above consists of information from an American space architect. Consider
+the extract and comment on the type of writing that is used in each case. Try and answer
+the following questions.
+a. Discuss the tone and level of vocabulary included in the article - who is the intended
+audience?
+b. Discuss the level of scientific detail included in the article, particularly considering
+the intended audience.
+c. Compare the webpage of the extract with this more recent website
+http://spacearchitect.org/ considering style and presentation, in addition to content.
+The main basis for the
+website is a calculator
+that calculates the
+artificial gravity for various
+different sizes and speeds
+of rotation. You may find it
+helpful to visit the website
+to view it and its list of
+references.
+Now we will look at the physics in detail. Some of these questions will link to topics elsewhere in this
+book, so you may need to combine concepts from different areas of physics to work out the answers.
+uvwUUU
+Considering the equations
+for centripetal acceleration,
+remember that the tangential
+velocity is dependent on
+radius.
+2. a. Explain the author's suggestion that 'artificial gravity ... is proportional to radius'.
+b. What would a 'gravity gradient' be? Explain how it would come about and why it
+would be minimised by maximising the radius.
+3. a. Convert the angular velocity in Gilruth's data into SI units.
+b. Calculate the centripetal force on an 82 kg astronaut using Gilruth's data.
+c. If this astronaut tried to walk by providing a tangential force of 350 N, calculate the
+moment caused by his foot, acting on the floor about the spacecraft's central axis.
+4. Do some research on the Coriolis force effect, and use your research to explain the final
+sentence in the section on angular velocity.
+5. Explain how a spaceship, in space, could be made to start rotating.
+Twory
+You will need to consider
+how to highlight where
+and how measurements
+would be made.
+Activity
+Imagine that Mr Hall, the space architect, has been invited to give a talk at your school about artificial
+gravity. You have been asked to prepare some demonstrations to illustrate how the data in the experiments
+referenced above could have been measured. Prepare instructions for two demonstrations you will do.
+8.2
+8.3
+9.1
+10.1
+11.1
+12.1
+13.1
+29
+6.2 Exam-style questions
+[Note: In questions marked with an asterisk (*), marks will be awarded
+for your ability to structure your answer logically showing how the
+points that you make are related or follow on from each other.
+[2]
+(a) Calculate the average force used to accelerate a fully
+loaded train along the horizontal track.
+Total mass of fully loaded train = 12 000 kg
+(b) Point X is just before the train leaves the horizontal track
+and moves into the first bend. Complete the free-body
+diagram below to show the two forces acting on a rider in
+the train at this point.
+137
+1 Which of the following is not a correct unit for angular
+velocity?
+A rad min!
+B degrees per minute
+Crads
+D®-1
+[1]
+[Total: 1]
+2 Considering the centripetal force to make a car drive around a
+roundabout, it is more likely to skid outwards if:
+A it has fewer passengers
+B it has worn tyres
+C it travels more slowly
+D it drives around further from the centre of the
+roundabout.
+[1]
+[Total: 1]
+(c) The mass of the rider is m and g is the acceleration of free
+fall. Just after point X, the reaction force of the train on the
+rider is 4 mg and can be assumed to be vertical.
+This is referred to as a g-force of 4g.
+Show that the radius of curvature of the track at this point
+is about 100 m.
+[3]
+(d) Show that the speed of the train as it reaches the top of
+the vertical tower is about 20 ms. Assume that resistance
+forces are negligible.
+The height of the vertical tower is 139 m.
+[2]
+(e) Riders will feel momentarily weightless if the vertical
+reaction force becomes zero.
+The track is designed so that this happens at point Y.
+Calculate the radius of the track at point Y.
+[2]
+[Total: 12]
+3 A particle moves in a circle, completing 14.5 complete
+revolutions in one minute. What is its angular velocity?
+A 0.24 rad s-1
+B 1.52 rad s-1
+C 14.5 rad s-1
+D 87 rad s-1
+[Total: 1]
+[1]
+4 Kingda Ka was the highest roller coaster in the world in 2007.
+A train is initially propelled along a horizontal track by a
+hydraulic system. It reaches a speed of 57 ms- from rest in
+3.5 s. It then climbs a vertical tower before falling back towards
+the ground
+5 Astronauts can be weakened by the long-term effects of
+microgravity. To keep in shape it has been suggested that they
+can do some exercise using a Space Cycle: a horizontal beam
+from which an exercise bike and a cage are suspended. One
+astronaut sits on the exercise bike and pedals, which causes the
+whole Space Cycle to rotate around a pole. Another astronaut
+standing in the cage experiences artificial gravity. When rotated
+at 20 revolutions per minute, this is of similar strength to the
+gravitational field on Earth.
+vertical tower -
+direction of train
+6.2
+vcoso
+vo
+vsino
+B
+vcoso
+0
+The centripetal acceleration in this case is just the horizontal
+acceleration, as we considered the object in a position along
+a horizontal radius. Following a similar derivation at any point
+around the circle will always have identical components of
+velocity that are perpendicular to the radius on either side of
+the point being considered. Thus, the centripetal acceleration is
+always directed towards the centre of the circle.
+WORKED EXAMPLE
+What is the centripetal acceleration of the satellite in fig D?
+(3050)
+(6400 + 35 600) 103
+a = 0.22 ms-2
+or:
+a = r2 = (6400 + 35600) * 10 (7.27 x 10-572
+a = 0.22 ms 2
+vsino
+a=7
+fig E Vector components of velocity leads us to the centripetal acceleration
+equation.
+At the arbitrary positions of the rotating object, A and, at a time t
+later, B, we consider the components of the object's velocity, in the
+x and y directions.
+As A and B are equal distances above and below point C, the
+vertical velocity component, vy, is the same in both cases:
+V = vcoso
+So the vertical acceleration is zero:
+4, = 0
+Questions
+Convert:
+(a) 47 radians into degrees
+(b) 36° into radians.
+What is the angular velocity of an athletics hammer if the athlete
+spins at a rate of three revolutions per second?
+Horizontally, the magnitude of the velocity is equal at both points,
+but in opposite directions:
+at A: V = vsin
+at B: V = -v sin
+So, the acceleration is just the horizontal acceleration, calculated
+as change in velocity divided by time:
+2v sino
+Vinyl records are played at one of three speeds. Calculate the
+angular velocity of each:
+(a) (1) 33 revolutions per minute
+(ii) 45 revolutions per minute
+(iii) 78 revolutions per minute.
+(b) Vinyl records played at the speeds in part (a) (i) are usually
+12 inches (or 30 cm) in diameter. What would be the centripetal
+acceleration of a point on the outside circumference of a record
+such as this?
+From the definition of angular velocity above:
+V="?
+Here, the angle moved in time t is labelled as 20, so:
+t=r20
+A man standing on the Equator will be moving due to the rotation
+of the Earth
+(a) What is his angular velocity?
+(b) What is his instantaneous velocity?
+(c) What is his centripetal acceleration?
+v2v sin 0 v2 sin 0
+i = r2010
+This must be true for all values of 0, and as we want to find the
+instantaneous acceleration at any point on the circumference, we
+must consider the general answer as we reduce o to zero. In the
+limit, as 8 tends to zero:
+5 What is the percentage error in the British Army measurement
+system that uses 6400 mils for a complete circle?
+sin
+= 1
+2
+: centripetal acceleration a =
+From the definition of the instantaneous velocity above:
+v=rw
+Key definitions
+A radian is a unit of angle measurement, equivalent to 57.3 degrees.
+Angular displacement is the vector measurement of the angle
+through which something has moved.
+Angular velocity w is the rate at which the angular displacement
+changes, unit, radians per second.
+Centripetal acceleration, a is the acceleration towards the centre of
+a circle that corresponds to the changes in direction to maintain an
+object's motion around that circle.
+centripetal acceleration a = rw2
+Circular motion
+6.2
+WP
+Investigation
+Investigating centripetal force
+Danas
+fig C Verifying the centripetal force equation. Eye protection should be worn during this investigation.
+-
+rubber
+body of
+ballpoint-
+pen
+burg
+paper clip
+marker
+force
+fig D Experimental detail for centripetal force experiment.
+You can investigate the centripetal force equation by spinning a rubber bung on a string around in a circle.
+The tension in the string, which is the centripetal force, will be provided by the hanging masses at the bottom
+of the vertical string and thus will be known. Spin the rubber bung around in a circle at a speed that keeps a
+paperclip marker in a constant position near the handle. The paperclip marker allows you to maintain a fixed
+length of string (radius) which you can measure. You will also need to measure the mass of the rubber bung.
+Your partner can then time ten revolutions in order to give you the angular velocity. Take angular velocity
+measurements for different forces (different numbers of hanging masses).
+F = mrw2
+.. we mr
+A graph of w2plotted against Fshould give a straight best-fit line. The gradient of this line will be
+mr
+Questions
+A roller coaster has a complete (circular) loop with a radius of 20 m. A 65 kg woman rides the roller coaster
+and the car travels once round the loop in 4.5 seconds. What centripetal force does the woman experience?
+2 Aman with a mass of 75 kg standing on the Equator is moving because of the rotation of the Earth.
+(a) What centripetal force is required to keep him moving in this circle?
+(b) How does this compare with his weight?
+(c) How would the reaction force with the ground be different if he went to the South Pole? (Assume the
+Earth is a perfect sphere.)
+Key definition
+Centripetal force is the resultant force towards the centre of the circle to maintain an object's circular
+motion.
+THINKING
+BIGGER
+ARTIFICIAL GRAVITY
+Astronauts on long-term space missions would benefit from the generation of artificial gravity within
+their ships. Common designs for this involve rotating the spaceship, but this movement can lead to
+motion sickness.
+hull pushes on
+astronaut to keep
+her moving
+in a circle
+-astronaut
+in artificial
+gravity
+outer hull of
+spacecraft
+spacecraft
+spins around
+fig A This is how artificial gravity is generated in a spacecraft.
+Artificial gravity, as it is usually conceived, is the inertial reaction to the
+centripetal acceleration that acts on a body in circular motion. Artificial-
+gravity environments are often characterized in terms of four parameters:
+• radius from the centre of rotation (in metres)
+angular velocity or 'spin rate' (usually quoted in revolutions
+per minute)
+• tangential velocity or 'rim speed' (in metres per second)
+• centripetal acceleration or 'gravity level' (in multiples of the Earth's
+surface gravity).
+Comfort criteria
+Deliberate architectural design for the unusual conditions of artificial
+gravity ought to aid adaptation and improve the habitability of the
+environment (Hall).
+Here is a summary of five research articles which consider the parameters
+leading to rotational discomfort:
+Radius Because centripetal acceleration - the nominal artificial gravity
+- is directly proportional to radius, inhabitants will experience a head-to-
+foot 'gravity gradient'. To minimize the gradient, maximize the radius.
+Angular velocity The cross-coupling of normal head rotations with the
+habitat rotation can lead to dizziness and motion sickness. To minimize
+this cross-coupling, minimize the habitat's angular velocity.
+Graybiel conducted a series of experiments in a 15-foot-diameter 'slow
+rotation room' and observed:
+In brief, at 1.0 rpm even highly susceptible subjects were symptom-
+free, or nearly so. At 3.0 rpm subjects experienced symptoms but
+were not significantly handicapped. Ar 5.4 rpm, only subjects with
+low susceptibility performed well and by the second day were almost
+free from symptoms. Ar 10 rpm, however, adaptation presented a
+challenging but interesting problem. Even pilots without a history of
+air sickness did not fully adapt in a period of twelve days.
+On the other hand, Lackner and DiZio found that:
+Sensory-motor adaptation to 10 rpm can be achieved relatively easily
+and quickly if subjects make the same movement repeatedly. This
+repetition allows the nervous system to gauge how the Coriolis forces
+generated by movements in a rotating reference frame are deflecting
+movement paths and endpoints, and to institute corrective adaptations.
+Tangential velocity When people or objects move within a rotating
+habitat, they're subjected to Coriolis accelerations that distort the apparent
+gravity. For relative motion in the plane of rotation, the ratio of Coriolis
+to centripetal acceleration is twice the ratio of the relative velocity to the
+habitat's tangential velocity. To minimize this ratio, maximize the habitat's
+tangential velocity.
+Centripetal acceleration The centripetal acceleration must have some
+minimum value to offer any practical advantage over weightlessness. One
+common criterion is to provide adequate floor traction. The minimum
+required to preserve health remains unknown.
+Author
+Year Radius m
+min.
+Hill & Schnitzer 1962 not known
+Gilruth
+1969 12
+Gordon & Gervais 1969 12
+Stone
+1973 4
+Cramer
+1985 not known
+Angular Tangential Centripetal
+Velocity Velocity Acceleration
+[rpm] [m/s]
+max. min. min. max.
+4 6 0 .035 1.0
+6 not known 0.3 0.9
+0.2 1.0
+6 10 0.2 1.0
+0.1 1.0
+From a webpage to calculate artificial gravity, maintained by Ted Hall: Hall,
+Theodore W. (2012). "SpinCalc: An Artificial-Gravity Calculator in JavaScript';
+www.artificial-gravity.com/sw/SpinCalc/SpinCalc.htm (as at 24 October 2014).
+Where else will I encounter these themes?
+YOU ARE
+Book
+1
+6
+.1
+6.2
+HERE
+7.2
+7.3
+8.1
+28

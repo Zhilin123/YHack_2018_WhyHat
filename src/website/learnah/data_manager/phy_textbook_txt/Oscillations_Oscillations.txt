@@ -1,0 +1,1122 @@
+13.1
+WORKED EXAMPLE
+A forest playground has a tyre hanging from a tree branch. If the tyre behaves like a pendulum, with a
+rope of 4.0 metres length, and its mass is 15 kg. A child of mass 45 kg swings on the tyre by pulling it 3.0
+metres to one side (amplitude) and leaping on. What is the maximum height that the tyre reaches above
+its equilibrium position?
+T - 2015 - 20 40 - 4.05
+w = * = 1.6 rad s-1
+V = -Aw sinut
+At maximum velocity, sinwi will equal 1. so:
+Vmax = Aw = 3.0 * 1.6 = 4.7 ms
+Maximum kinetic energy:
+Ekmax = my max? = { x (45+ 15) * (4.7) = 660]
+Maximum potential energy:
+Epmax = mghmax = Ekmax = 660)
+fig B Converting potential energy
+into kinetic energy can be fun!
+.
+h
+- 660
+nmax mg
+hmax = 1.1 m
+WORKED EXAMPLE
+If the toy train in fig B of Section 13.1.1 is released from an amplitude position of 5 cm, calculate its
+maximum velocity. What assumption have you made?
+A = 0.05 m k = 100 Nm- m = 0.500 kg
+Maximum potential energy:
+Epmax = 2 FAX = 2 k{Ax)
+= x 100 (0.05)
+: Epmax = 0.125)
+Maximum kinetic energy:
+Ekmax = Epmax = mmax = 0.125)
+0.125
+Vzx (0.500)
+1. Vmax = 0.71 ms-1
+We have assumed that there are no energy losses in the system, so all the elastic potential energy is
+converted into kinetic energy.
+Questions
+1 A pendulum bob has a mass of 0.6 kg and a time period of 4 seconds. If it is released from an amplitude
+position of 5 cm, what is its kinetic energy after 8 seconds? What is its maximum kinetic energy?
+ZIf no energy were lost, a bungee jumper would continue to oscillate up and down forever. Describe the
+energy changes the bungee jumper would undergo. Discuss kinetic energy, different types of potential
+energy, and the total energy. Conclude by explaining why in real life this does not happen.
+3 Suggest how energy might be lost from a pendulum swinging in a vacuum.
+4
+The worked example of the forest tyre pendulum above violates an important assumption of pendulum
+dynamics, which is that the oscillations are of small amplitude, compared with the length of the
+pendulum. Use a geometrical method to calculate the vertical height gained when the child holds the tyre
+at the 3 m horizontal amplitude quoted. Compare your answer with the 1.1 m calculated in the worked
+example, and calculate the percentage difference between the two answers.
+206
+13.1
+3
+SHM energy
+By the end of this section, you should be able to...
+apply the conservation of energy to undamped oscillating systems
+Conservation of energy
+As with any closed system, an oscillator cannot gain or lose energy, unless there is an external
+influence. For example, a pendulum under water will not continue to swing for very long, as the viscous
+drag on the pendulum from the water provides an external force, which can do work to remove energy
+from the pendulum system. Similarly, a child on a swing can continue to oscillate, despite air resistance
+removing energy, if there is also a parent pushing repeatedly (doing work) to put energy back into the
+system. Such damped or forced oscillations will be dealt with in the next sections. Here we will only
+consider a closed system in which no energy moves in or out of the system during its oscillations.
+Energy transformations during oscillation
+The kinetic energy of a pendulum varies during its swinging motion. At each end of the swing, the
+bob is momentarily stationary, meaning that it has zero kinetic energy at these points. The kinetic
+energy then increases steadily until it reaches a maximum, when the bob passes through the central
+position and is moving with its maximum speed. The kinetic energy then decreases to reach zero at
+the other amplitude position. This cycle repeats continuously. However, once swinging the pendulum
+system cannot gain or lose energy. The varying kinetic energy must be changing back and forth into
+another form. In this example, the other form is gravitational potential energy as the pendulum rises to
+a maximum height, where it has maximum GPE at each end of the swing and drops to minimum GPE
+as it passes through the lowest point (the central position). These energy changes are shown in fig A.
+Energy/j
+total energy
+kinetic
+energy
+.
+potential
+energy
++
+4
+Displacement/m
+fig A The energy in a simple harmonic oscillator is constantly being exchanged from kinetic to potential and back again,
+whilst the total remains constant as the sum of the kinetic and potential energies at each moment.
+Fig A could also apply for a mass bouncing on a spring. When stretched a little before release, the
+spring has stored elastic potential energy. On release, the spring accelerates the mass back towards
+the equilibrium position, where it has maximum kinetic energy and zero potential, and this kinetic
+energy is then reconverted into elastic potential as the spring squashes in the other displacement
+direction. The interconversion of potential and kinetic energies continues, and if no energy can be
+lost from the system it would oscillate with the same amplitude forever.
+The above discussions are exclusively for a system that cannot lose any energy. The closest we can
+get to this system would be a pendulum, or mass on a spring, in a vacuum. These would be almost
+free from energy losses, but air resistance will act in most real situations.
+205
+Exam-style questions
+13.1
+6 A bar magnet is suspended by a thread attached to a wooden
+support. The bar magnet hangs horizontally as shown and lines
+up with the Earth's magnetic field.
+When current is passed through the coil it produces a
+magnetic field in the same direction as the Earth's
+magnetic field. When the magnet is again rotated
+horizontally, it oscillates at an increased frequency.
+(i) A student thinks that the period T of the oscillations is
+related to the current in the coil / by
+t2 = k1
+where k is a constant.
+Explain why this suggests a graph of — against I will
+produce a straight line through the origin.
+[2]
+(ii) The student carries out an experiment to measure Tas
+I is varied. He obtains the following data.
+(a) State why the support should be made of wood and not
+steel
+[1]
+(b) The magnet is rotated horizontally about its centre through
+approximately 20 from its equilibrium position. When it is
+released it oscillates in a horizontal plane about the string.
+I/A
+Mean T/s
+0
+1.230
+1.00
+0.827
+2.00
+0.673
+3.00
+0.581
+4.02
+0.520
+5.01
+0.475
+Plot a graph that would test the relationship:
+a = k1
+[5]
+Draw your own table to show any processed data.
+(iii) The student's teacher suggests that the equation
+1 = kl + b
+[3]
+Describe how you would measure the period of these
+oscillations as accurately as possible.
+(c) You are told that these oscillations are lightly damped.
+State what you would observe if the oscillations were
+heavily damped.
+(d) A large coil of wire is now placed vertically around the
+centre of the magnet.
+is a better mathematical model for the data.
+Explain why his teacher is right.
+[2]
+[Total: 14]
+[1]
+7 Explain how damping and the plastic deformation of ductile
+materials affects oscillations. Include explanations of
+overdamping, underdamping and critical damping.
+[Total: 6]
+[6]
+Power
+supply
+215
+Oscillations
+13.1
+IL
+U
+TULE
+|||||II
+Investigation
+WP
+Investigating damping solutions to design problems
+A signal generator can be connected to a vibration generator to
+produce driving forces with a changeable frequency. This can then
+be used to investigate the effects of damping on oscillations. You
+could set up a model of an earthquake shaking a building and see
+how dampers could be attached to the model, either internally or
+externally, to reduce the damage caused by resonance.
+TITUT
+fig) In the Taipei 101 skyscraper in Taiwan, a giant steel pendulum, with a
+mass of 728 tonnes, is tethered by giant shock absorbers. It is the world's
+largest earthquake-induced vibration damper.
+Questions
+1 Give a real life example of:
+(a) forced oscillations
+(b) free oscillations
+(c) damping
+(d) resonance.
+2
+Explain why an accelerating car may go through a brief period when
+a part of the dashboard rattles annoyingly.
+Describe, using scientific terminology, how the problem in
+question 2 could be overcome.
+fig 1 Vibration testing of a model skyscraper to simulate earthquakes.
+Professional research institutions will use large scale models on
+shaking tables to test new designs for skyscraper protection. In a
+school laboratory, a structure made of straws or struts of wood could
+be tested with foam padding dampers and a vibration generator.
+Explain the differences between overdamping, underdamping and
+critical damping
+5
+Explain how a damper between girders in a skyscraper could reduce
+damage caused by an earthquake.
+6
+Explain how some dance music that has an inaudible bass frequency
+of between 5 and 10 Hz can get clubbers moving to the music.
+As we saw in Book 1, Section 4.2.3, climbing ropes need to be
+made of a material which will stretch slightly, without breaking,
+to stop a climber from falling. This is arranged through the
+construction of climbing ropes. There are many strands woven
+together, and if you follow one individual strand, it forms a spiral.
+The climber hanging on the rope can act like a mass hanging
+on a spring. However, the material chosen must be stiff enough.
+If a climber fell whilst using a bungee cord as a safety rope,
+they would bounce many times before stopping. It would not be
+uncomfortable, but could well cause the climber to hit the rock
+face (several times!). Thus, the stiffness and construction of the
+rope must be a perfect combination of stretchy so as to avoid
+a sudden, painful stop to a fall, but still stiff enough to bring the
+climber to a halt. After a fall, a climbing rope has been permanently
+damaged and must be replaced. The rope material is ductile and
+suffers a plastic deformation which acts to reduce the amplitude of
+oscillations. A less stiff material could avoid replacement but would
+not damp the oscillations safely. In effect, the plastic deformation
+of the ductile rope material provides critical damping. Potential
+oscillations are stopped before they start. During an earthquake,
+steel framed buildings can absorb some of the vibration energy
+because steel is ductile, so its plastic deformation damps the
+oscillations.
+Key definitions
+Free oscillation happens when a system performs oscillations, free
+from the influence of any forces from outside the system.
+A natural frequency is the frequency of oscillation that a system will
+take if it undergoes free oscillations.
+A forced oscillation is when a system oscillates under the influence
+of an external (usually repeatedly applied) force.
+A driving frequency is the frequency of an external force applied to
+a system undergoing forced oscillations.
+Resonance describes very large amplitude oscillations that occur
+when a driving frequency matches the natural frequency of a system.
+Damped oscillations occur with each oscillation; there is a loss in
+energy and this reduces the amplitude over time.
+Damping is the material, or system, causing energy loss during each
+damped oscillation.
+A critically damped system occurs when damping is such that the
+oscillator returns to its equilibrium position in the quickest possible
+time, without going past that position.
+211
+THINKING
+BIGGER
+THE WOBBLY BRIDGE
+London's Millennium Footbridge opened on 10 June 2000, and immediately suffered unexpected
+resonant vibrations to such a degree that many pedestrians struggled to continue walking and had to
+hold onto the railings. Some even reported feeling seasick.
+In conjunction with the Royal Academy of Engineering, the bridge architects, Ove Arup Partnership
+produced a paper summarising the design structure, problems and solutions for this bridge.
+LINKING LONDON: THE MILLENNIUM BRIDGE
+The number of pedestrians allowed onto the bridge was reduced on
+Sunday 11 June, and the movements occurred far more rarely. On the
+12 June it was decided to close the bridge in order to fully investigate the
+cause of the movements.
+NA
+fig B A pattern of dampers installed on the Millennium Bridge has reduced
+oscillation amplitudes by altering the resonant frequencies.
+fig A London's Millennium Bridge opened for a single day before resonance
+problems meant that it had to be closed for the installation of 91 dampers.
+Extract 1: Opening day
+It is estimated that between 80 000 and 100 000 people crossed the bridge
+during the first day.
+Analysis of the video footage showed a maximum of 2000 people on the
+deck at any one time, with a maximum of between 1.3 and 1.5 people per
+square metre.
+Unexpected movements occurred. The movements were observed to
+be predominantly lateral and took place mainly on the south span, at a
+frequency of around 0.8 Hz - the first south lateral mode, and on the central
+span, at frequencies of just under 0.5 Hz and 0.9 Hz, the first and second
+lateral modes respectively. More rarely, the movement occurred on the
+north span at a frequency of just over 1.0 Hz, the first north lateral mode.
+These movements were not continuous; they occurred when a large number
+of pedestrians were on the bridge and died down if the number of people
+on the bridge reduced, or if the people stopped walking. From observation
+of the amplitude of the movements on the south and central span, the
+maximum lateral acceleration experienced on the bridge was between 200 and
+250 milli-g. At this level of acceleration a significant number of pedestrians
+began to have difficulty in walking and held onto the balustrades for support.
+The same phenomenon was not observed with any vertical modes. The bridge
+behaved vertically as predicted in the design; that is, the vertical movements
+that took place were within the limits defined by the British Standards.
+Extract 2: Development of modification design
+Unless the usage of the bridge was to be greatly restricted, only two
+generic options to improve its performance were considered feasible.
+The first was to increase the stiffness of the bridge to move its natural
+frequency out of the range that could be excited by the lateral footfall
+forces. The second was to increase the damping of the bridge such that the
+resonant response could be brought under control.
+Extract from the report Linking London: The Millennium Bridge by Tony
+Fitzpatrick et al, published by Arup and the RAE (Royal Academy of Engineering),
+ISBN 1 871634 99 7 June 2001; also at http://www.londonmillenniumbridge.com/
+indepth/pdf/linking_london.pdf
+Where else will I encounter these themes?
+Book 1 6.1
+6.2
+7.1
+7.2
+7.3
+8.1
+212
+TOPIC 13
+Oscillations
+13.1
+Oscillations
+Introduction
+Oscillations are common in everyday life, and can be fun! The mathematics governing these oscillations could be
+WP considered less fun, but actually is much more intuitive than it may look when all the equations are written out
+together.
+In this chapter we will concentrate on simple harmonic oscillations, as these are the most common and lend themselves to
+useful solutions to engineering problems. We will look at how oscillations can be used for fun in everyday life, from playground
+toys to nightclub music.
+Oscillations can also get out of control, which can be damaging or dangerous. In Angers, France, in 1850 over 220 soldiers died
+as the bridge they were crossing collapsed into the cold river below. The rhythmic marching of the soldiers is thought to have
+caused the bridge to oscillate more than the corroded cables supporting it could stand. Following this disaster, and some other
+similar bridge collapses, soldiers are now trained to march out of step across bridges so as to avoid generating excessive
+oscillations.
+We will see how such large oscillations develop and what can be done to alleviate the problems they cause. These solutions
+range from car suspension systems to earthquake protection systems in skyscrapers.
+All the maths you need
+• Draw and use the slope of a tangent to a curve as a measure of rate of change (e.g. drawing a velocity-time graph from a
+displacement-time graph)
+• Use of small angle approximations (e.g. in pendulum motion)
+• Changing the subject of a non-linear equation (e.g. finding the gravitational field strength from a pendulum)
+• Sketching and interpreting relationships shown graphically (e.g. sine and cosine functions for displacement, velocity and
+acceleration of an oscillator)
+• Applying the principles of calculus (e.g. the connections between acceleration, velocity and displacement)
+198
+13.1 Exam-style questions
+[2]
+1 What is the length of a simple pendulum that has a time period
+of 1.24s on Earth?
+A 0.00397 m
+B 0.308 m
+C 0.382 m
+D 2.4m
+[1]
+[Total: 1]
+(i) Use the graph to calculate the amplitude and the
+time period of the variation in the water level
+displacement.
+(ii) Show that the maximum rate of change of water level
+displacement is about 0.6 m hour!
+[3]
+(iii) On a copy of the graph shown in part (b), sketch how
+the rate of change of water level displacement varies
+with time for the interval 0-30 hours. The variation in
+water level displacement with time has been drawn for
+you. You need not add any numerical values to
+the y-axis.
+[Total: 9]
+[2]
+5 A student makes the 'ruler piano' shown.
+2 If an oscillator is performing simple harmonic motion:
+A Its acceleration is proportional to its velocity and in the
+same direction.
+B Its acceleration is proportional to its displacement and in
+the opposite direction.
+C Its velocity is proportional to its displacement and in the
+same direction
+D Its acceleration is inversely proportional to its displacement
+and in the opposite direction.
+[Total: 1]
+TTTTTTTTTTTT
+luuau
+TTITITIT
+uutuu
+mmmlu
+mium
+[1]
+LU
+u uu
+TTTTTTTT
+MITIT
+Luulluuuuu
+LLLL Www
+qualuluwurdulua
+3 A mass suspended on a spring can undergo simple harmonic
+motion because:
+A The spring obeys Hooke's law that F= kx.
+B The weight of the mass will be W = mg
+The spring's elastic force will form a Newton's third law pair
+with the weight of the mass.
+D The spring will act as a damper.
+[Total: 1]
+One end of each ruler is held flat on the desk whilst the other
+end is set into oscillation.
+Each ruler oscillates at a different frequency. Some of the rulers
+produce an audible sound.
+-
+-
+-
+-
+[2]
+4 (a) Define a simple harmonic motion.
+(b) The graph shows the variation in water level displacement
+with time for the water in a harbour. The water level
+displacement varies with simple harmonic motion.
+(a) State the condition for an oscillation to be simple
+harmonic.
+(b) The end of one ruler moves through 5.0 cm from one
+extreme position to the other, and makes 10 complete
+oscillations in 4.5 s.
+Calculate the maximum velocity of this end.
+[3]
+(c) A standing wave is set up on each oscillating ruler.
+Explain why each length of ruler oscillates at a different
+frequency
+[3]
+[Total: 8]
+TILL
+1111111111111
+111 111
+Water depth/m
+0
+5
+10
+15
+20 25 30
+Time/hours
+35
+40
+45
+50
+214
+13.1
+1
+Simple harmonic motion (SHM)
+By the end of this section, you should be able to...
+. describe simple harmonic motion situations, and state that the condition for simple harmonic
+motion is F = -kx
+interpret a distance-time graph for a simple harmonic oscillator
+use the equations for a simple harmonic oscillator and a simple pendulum
+Bouncing and swinging
+There are many things around us which oscillate (figs A and B). This means they undertake
+continuously repeated movements. For example, a child's swing goes backwards and forwards
+through the same positions over and over again. If left to swing freely, it will always take the same
+time to complete one full swing. This would be known as its time period, T. It follows a system of
+movements known as simple harmonic motion (SHM). When a system is moving in SHM, a force,
+known as a restoring force, F, is trying to return the object to its equilibrium position, and this force is
+proportional to the distance, x, from that equilibrium position.
+F= -box
+where k is a constant dependent on the oscillating system in question. The negative sign in the
+equation shows us that the acceleration will always be towards the centre of oscillation.
+000000000
+computer datalogging
+height of suspended toy
+motion sensor
+fig A How quickly does a bouncing spring toy move?
+You will notice that the SHM definition is the same equation as in Hooke's law, and the oscillation of
+a mass attached to a spring is an example of SHM. We can find the equation for the period of the
+oscillations of a mass, m, subject to a Hooke's law restoring force:
+T=27. m
+-
+Look at Section 13.1.2 and see if you can use the mathematics presented there to derive this equation.
+200
+What have I studied before?
+Speed and acceleration
+Basic wave properties
+Newton's laws of motion
+Conservation of energy and momentum
+Wave phase
+Elastic and plastic deformation
+Circular motion and its connection with wave
+movements
+What will I study later?
+• Asymmetric oscillations (further study)
+Coupled oscillators (further study)
+Experimental research into resonance problems
+and solutions (further study)
+Experimental research into useful and nuisance
+damping (further study)
+The conical pendulum as a simple harmonic
+oscillator (further study)
+What will I study in this chapter?
+The basics of oscillatory motion
+• Simple harmonic motion (SHM)
+• How to calculate simple harmonic motion
+• How to represent SHM graphically
+• Free and forced oscillations
+Resonance and damping
+199
+Thinking Bigger
+13.1
+Let us start by considering the nature of the writing in this paper. It was written by engineers, with
+a main target audience of architects and civil engineers. The extracts here are arguably the least
+scientifically detailed parts of the whole paper.
+CUVWvy
+1. a. Describe the level of scientific language used in the extracts reproduced here.
+b. Explain why it is necessary for this report to be comprehensive in its scientific detail
+about the problems the bridge faced.
+2. The paper also contains a large number of images and diagrams. Given the nature of the
+paper and its target audience, what sort of pictures and diagrams would you expect it
+to include?
+Consider how scientists
+relay information in
+images.
+Now we will look at the physics in detail. Some of these questions will link to topics elsewhere in this
+book, so you may need to combine concepts from different areas of physics to work out the answers.
+3. What physics phenomenon caused these surprisingly large movements of the bridge?
+4. a. Why is a certain minimum number of pedestrians needed to create the swaying
+effects?
+b. Why do you think that a crowd of pedestrians might start to walk in a synchronised
+way, so that they exacerbate the phenomenon involved here?
+5. Explain what is meant by 'lateral acceleration experienced on the bridge was between
+200 and 250 milli-g'.
+6. Why would the bridge suffer different variations of this problem at different frequencies?
+7. a. Explain how 'viscous dampers', in which pistons connected to the bridge deck push
+into oil, could reduce the problems the bridge suffered.
+b. Why do you think the solution chosen was to add dampers, rather than to increase
+the stiffness of the bridge?
+If you have ever walked
+across an unusually
+flexible surface, such as
+a gymnasium crash mat,
+or a rope bridge, you
+may have experienced
+this effect yourself.
+Wowy
+Activity
+The Millennium Bridge was a flagship project for the architects, and its closure within days was a
+significant public relations issue for the company. Write a press release on the publication of this paper
+aiming to help in the rebuilding of the company's reputation. Emphasise the scientific depth of the report,
+and the transparency with which the company has approached the problems, partnering with the Royal
+Academy of Engineering.
+Further research may
+give you more details
+to include about what
+the company did
+between the closure and
+re-opening after bridge
+modification, to ensure
+that the solutions
+proposed would work.
+8.2
+8.3
+9.1
+10.1
+11.1
+12.1
+13. YOU ARE
+YOU ARE
+HERE
+213
+Oscillations
+13.1
+light damping
+Displacement
+U
+- Time
+fig C Damping reduces oscillation amplitude. A bungee jumper's amplitude decreases because elastic stresses in the
+rubber rope dissipate energy as heat, and air resistance removes kinetic energy. Note that the dissipation of sound
+energy by screaming will not reduce the amplitude as this does not come from the oscillation energy!
+overdamping
+critically damped
+undamped
+underdamped
+x= displacement
+time
+fig D Different degrees of damping-
+If the damping is such that the oscillator returns to its equilibrium position in the quickest possible
+time, without going past that position (known as overshooting), then it is critically damped.
+Overdamping is useful in many situations, such as car suspension systems, but too much
+overdamping could cause the oscillator to take a very long time to return to its equilibrium position.
+You can appreciate this if you imagine a pendulum swung through treacle - an extreme example of
+overdamping.
+209
+13.1
+2
+SHM mathematics
+By the end of this section, you should be able to...
+• use the equations for simple harmonic oscillators:
+a = -w2x, X = A cost, v = -Aw sin wt,
+a = -Awcoswt, w = 2nf, and T = 1/f =
+• draw and interpret displacement-time and velocity-
+time graphs for simple harmonic oscillators, including
+understanding what the gradient represents in each case
+As the object moves around the circle, its angular displacement
+changes according to its angular velocity, w = Rearranging this
+as 8 = wt, the displacement can be rewritten as:
+x = rcos(wt)
+The motion of all simple harmonic oscillators can be described by
+an equation of this form. Indeed, all simple harmonic oscillators
+can be described by a sine or cosine function which gives their
+displacement, velocity and acceleration over time. In the case
+of a pendulum bob, the radius of the circle is replaced by the
+amplitude of the pendulum's swing. The expression for the
+displacement becomes:
+x = A coswt because at t= 0 x= A
+WORKED EXAMPLE
+Angular velocity and SHM
+For objects moving in a circle, the relationship that gave us the
+angular velocity is:
+w=1
+-------
+ON
+The pendulum that operates a grandfather clock is released from
+its amplitude position which is 10 cm from the middle. It swings
+completely through one cycle every two seconds. What is its
+angular velocity, and where will it be after 174.5 seconds?
+A= 10 cm = 0.1 m; T=2s
+274 275
+T 2
+w = 3.14 rads-1
+Releasing from maximum displacement means
+X = Acoswt
+x = 0.1 cos(3.14 x 174.5)
+= 0.1 cos(547.93)
+= 0.1 x 0.274
+. X = 0.027 m
+II
+fig A Relationships in circular motion.
+In Section 6.2.1, we also saw the relationships:
+T=
+T=27
+Therefore, for an object moving in a circle:
+w = 2
+The movement of an oscillating object follows a similar pattern to
+that of circular motion, so all of these equations are valid in SHM.
+For an object performing SHM, we can determine its angular
+velocity, despite the fact that it may not actually be moving in a
+circle. Its motion is the projection of motion in a circle.
+In fig A, consider the horizontally projected distance to the object
+from the vertical axis, and how this changes over time as the object
+rotates around the circle. When the object is at A, this projected
+distance is equal to the radius of the circle, r, but at position B this
+distance is shown by OC. You could calculate OC from:
+x=rcos
+SHM graphs
+For an object to be moving with SHM the restoring force must,
+by definition, be proportional to the displacement, F= -kx. As
+we can describe the position using y= A Coswt, this gives the
+equation for the force over time as:
+F= -kA coswt
+Not all SHM oscillations involve a spring, so here k refers to some
+constant relevant to the oscillator set-up. From Newton's second
+law, we can also show that:
+ma = -lox
+so: a = m = m A coswt
+From this we can see that the acceleration and displacement in
+SHM have the same form, but the acceleration acts in the opposite
+direction to the displacement. When the displacement is zero,
+so is the acceleration. And when x is at its maximum value, the
+acceleration is also at its maximum value (fig B).
+203
+13.1
+-
+-
+-
+-
+-
+-
+-
+Displacement
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Time
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+WORKED EXAMPLE
+A science museum has a giant demonstration tuning fork. The end
+of each prong vibrates in simple harmonic motion with a time
+period of 1.20s and starts vibrating from an amplitude of 80 cm.
+Calculate the displacement, velocity and acceleration of a prong
+after 5.0 seconds.
+A=0.8 m; T= 1.205
+21
+w=T= 120
+x = Acoswt = 0.80 x cos(5.24 x 5.0) = 0.386 m
+V = - Awsinut = -0.8 x 5.24 * sin(5.24 x 5.0) = -3.67 ms-1
+a = -Aw?coswt = -wx = -(5.24* (0.386) = -10.6 ms 2
+-
+-
+-
+-
+-
+Velocity
+-
+-
+-
+-
+-
+-
+-
+21 - 524 rads1
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Time
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Acceleration
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+at i = 5 seconds, displacement is +0.386 m
+-
+-
+-
+AN
+-
+-
+-
+Time
+-
+-
+-
+-
+-
+-
+Displacement
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+at = 5 seconds, velocity is
+3.67 ms-1
+-
+-
+-
+-
+-
+-
+fig B The changes in position, velocity and acceleration over time for a simple
+harmonic oscillator. The displacement can be described using either sine
+or cosine (depending upon whether the oscillations are taken to start
+from the centre or at amplitude). Velocity and acceleration are then also
+sine or cosine as appropriate.
+Velocity
+-
+-
+-
+-
+-
+at t = 5 seconds, acceleration is -10.6 ms-
+-
+S
+6.0 $
+Acceleration
+---
+-
+Time
+-
+-
+-
+-
+---
+-
+-
+-
+-
+CIZ
+We can calculate the velocity of an oscillator at any moment from
+the gradient of the displacement-time graph. For a function,
+x= sind, the derivative function, which tells us the gradient
+at each point, is = cosé. For x = cos8, the derivative function
+is = -sind. (Remember, 0 is a function of time.)
+If x= A cos wi, then the change in displacement with time is given
+fig C SHM graphs for a giant tuning fork.
+Xee o
+Questions
+by:
+= v= -Aw sin wt
+| What is the angular velocity of a child's swing which completes
+42 swings every minute?
+2 Comment on the rounding errors in the worked example about the
+giant tuning fork above. Estimate the percentage errors generated.
+The change in velocity with time, the acceleration is:
+dʻx_dv_
+= a = -Awcoswt
+-A.
+ded
+or a= -w2x
+If we know the mass of the oscillating object, and the angular
+velocity of the oscillation, we can work out the restoring force
+constant, k, in any SHM.
+a= =-wax
+i krwam
+3
+If the toy train in fig B of Section 13.1.1 is released from an
+amplitude position of 5 cm, calculate its position, velocity and
+acceleration after 2.8 seconds.
+A grandfather clock has a 2-metre-long pendulum to keep time.
+If the owner set it at noon by setting the hands and starting the
+pendulum from an amplitude of 10 cm, calculate the position,
+velocity and acceleration of the pendulum bob at 6 seconds after
+noon.
+204
+13.1
+WP
+Investigation
+Investigating damping
+fig E How does damping affect oscillations?
+In fig E, you can see how to investigate the effects of greater or lesser damping. The card sail will act as an
+air resistance, and altering its size will change its damping effect, making the amplitude decrease more or
+less rapidly. Can you make a card sail that provides critical damping?
+Resonance problems and damping solutions
+Damping solutions to real problems, such as the noisy washing machine, can be designed into new
+products and structures (fig F). As objects will be inclined to oscillate with large amplitudes at their
+natural frequency, this is generally the frequency at which these engineering solutions are most often
+aimed. Creating damping systems that are a happy mediurn between underdamping, critical damping
+and severe overdamping is a tough problem for engineers in many real situations, especially as many
+objects have several natural frequencies.
+In some cases, the amplitude of resonant oscillations can be so great that they damage the system. This
+is what ha
+is what happens when an opera singer breaks a wine glass by singing loudly at just the right pitch (fig G).
+For some oscillators (e.g. clocks) we want minimum damping; for others (e.g. a mountain bike
+shock-absorbing system (fig H)) we want oscillations to stop as fast as possible. To make this happen
+requires an exact damping system ('critical damping') so that the system returns to equilibrium
+without overshooting.
+springs
+outer
+drum
+fig F Damping in a washing machine
+lessens the effects of resonant
+vibrations
+Bolder
+fig G The resonance of a wine glass
+can be damaging to it.
+210
+fig H Mountain bike suspension has springs to accept some movement, and shock absorbers to critically dampen
+any oscillations.
+13.1
+Questions
+Investigation
+Investigating a pendulum
+(a) Draw three free-body force diagrams showing the forces acting
+on the toy in fig A. The diagrams should show the situations
+when the toy is at its equilibrium position, and above and
+below the equilibrium position.
+(b) Why might this toy not follow simple harmonic motion?
+2
+motion sensor
+(a) If the lantern Galileo observed in Pisa cathedral had a mass of
+5 kg hanging on a chain 4.4 m long, what would its time period
+have been?
+(b) Galileo used his own heartbeat as a stop clock when measuring
+the time period. How could he have reduced any experimental
+error in the time measurement?
+1
+(a) What is meant by simple harmonic motion?
+(b) Calculate the length of a simple pendulum with a period of 2.5 s.
+The graph in fig D shows the variation of displacement with
+time for a particle moving with simple harmonic motion.
+IT
+computer datalogging -
+position of pendulum bob
+Displacement/cm
+10
+Time/s
+fig C For small oscillations, the component of a pendulum's weight force
+pushing it back to equilibrium is proportional to its horizontal
+distance from equilibrium, so it will execute SHM.
+Using the set-up in fig C, it is easy to find out a lot of detail about the
+oscillation of a pendulum. An ultrasonic position sensor can take
+hundreds of readings every second to produce an extremely detailed
+displacement-time graph for the pendulum bob. The ultrasonic
+datalogging sensor can also measure the velocity at each reading by
+making a calculation of the change in position divided by the time
+between readings. This will allow a velocity-time graph to be drawn.
+However, you should remember from simple mechanics that the
+gradient of a displacement-time graph at any point gives the velocity
+at that moment. Thus the v-t graph could be generated
+mathematically from the d-t graph.
+To make the pendulum oscillate, you would hold it to one side, to a
+small maximum displacement, and release it. This maximum
+displacement from the equilibrium position is the amplitude, A. It
+will always be stationary, zero velocity, at the amplitude
+displacement, and at the same position on the other side of the
+swing. As it swings from one stationary position to the other, it
+accelerates to a maximum velocity and then slows down again to a
+stop. This all happens symmetrically, with the maximum velocity
+occurring in the middle, at zero displacement. As the restoring force
+is proportional to the displacement, this means that acceleration will
+be maximum at amplitude and zero when the displacement is zero
+in the middle (more details on the mathematics involved in this
+experiment are given in Section 13.1.2).
+You may notice that the amplitude reduces slightly over time, but
+this should not affect the time period for your pendulum. If the
+period is independent of the amplitude, such oscillations are known
+as isochronous.
+fig D
+(c) What is the amplitude of the oscillation?
+(d) Estimate the speed of the particle at the point labelled Z.
+(e) Draw a graph of the variation of velocity, V, with time for this
+particle over the same period. Add a scale to the velocity axis.
+Kev definitions
+To oscillate is to undertake continuously repeated movements.
+A period is the time taken for one complete oscillation.
+Simple harmonic motion is when a system is oscillating such that a
+force is trying to return the object to its centre position and this force
+is proportional to the distance from that centre position.
+202
+13.1
+Investigation
+WP
+Investigating resonance
+The set-up in fig B allows us to monitor the amplitude of vibrations of a mass on a spring, as we force it to
+vibrate at different frequencies. By monitoring for a very large amplitude of vibration, we can determine
+the resonant (or natural) frequency for the set-up.
+vibration-
+generator
+Pilllllllll
+Equipment required:
+• spring
+• hanging masses
+. clamp and stand
+• datalogging laptop
+. motion sensor
+• signal generator
+• vibration generator
+signal generator
+computer
+datalogging
+height of
+masses
+motion -
+sensor
+fig B Forced oscillations can be set up at a desired driving frequency
+From previously, we know that a mass oscillating on a spring follows the equation for its time period:
+T= 24
+m
+The time period will be the reciprocal of the natural frequency.f, and this is also the resonant frequency:
+= 27 m
+Thus, by finding the resonant frequency, from monitoring the amplitude of forced oscillations, we could
+determine an unknown mass that is hanging on the spring:
+47252
+The spring constant, k, could be found by measuring the resonant frequency for a known mass and
+rearranging the equation to find k:
+k = 472f2m
+Make sure you have a good understanding of this pratical as your understanding of the experimental
+method may be assessed in your examinations.
+Damped oscillations
+Damped oscillations suffer a loss in energy in each oscillation and this reduces the amplitude over
+time (fig C).
+If a system is performing SHM at its natural frequency, its energy may still be dissipated through a
+friction force acting on the system, or the plastic deformation of a ductile material in the system. If a
+pendulum is left to swing without interference, its amplitude will constantly decrease with each swing
+through air resistance and internal stresses within the flexing material of the string. These effects
+could be amplified if we were to attach a small sail to catch the air. This artificial increasing of the air
+resistance is an example of damping (or in fact an increase in the damping, as there would already
+be a tiny air resistance force on the pendulum). Note that although the amplitude decreases, the
+period remains constant throughout.
+The amount of damping may vary, which will change how quickly the amplitude is reduced. If the
+oscillator completes several oscillations, the amplitude will decrease exponentially. This is known
+as underdamping (sometimes called light damping). Swinging the pendulum in a bowl of water will
+make its amplitude of oscillation drop very rapidly, and it might not even complete one cycle. This is
+known as overdamping
+208
+13.
+14
+Resonance and damping
+By the end of this section, you should be able to...
+explain the distinction between free and forced oscillations
+define the phenomenon of resonance
+describe how damping affects oscillations, how damping can be caused, and its uses and
+implications
+Free and forced oscillations
+Releasing a pendulum from its maximum amplitude and letting it swing freely (preferably in a
+vacuum) is an example of free oscillation. The situation is set up for a continuous exchange of
+potential and kinetic energy, caused by a restoring force which is proportional to the displacement.
+Any oscillating system has a natural frequency - the frequency at which it naturally chooses to
+oscillate when left alone.
+However, oscillators can be forced to behave in a different way to their natural motion. If, as a
+pendulum swung one way, you were to push in the opposite direction, it would turn back By
+repeated applications of forces from your hand in different directions, you could force the pendulum
+to oscillate at some other frequency. This would then be forced oscillation - not SHM - and the
+frequency at which you were causing it to swing at would be your driving frequency.
+Forcing oscillations involves adding energy to a system whilst it oscillates. Unless this is done at the
+natural frequency, the system is unlikely to undergo SHM and will dissipate the energy quite quickly.
+This is what happens if you push a child on a swing at the wrong moment in the oscillation.
+Resonance
+If a system or object is forced to vibrate at its natural frequency, it will absorb more and more energy,
+resulting in very large amplitude oscillations. This is resonance. If your washing machine is very
+noisy during one part of the wash cycle, the motor will be spinning at a certain frequency. This
+drives vibrations in the machine at a frequency that will happen to be the natural frequency of one
+of the panels, which then vibrates with very large amplitude, making a loud noise. During the rest of
+the wash, the motor's rotation generates vibrations at other frequencies that do not match with the
+natural frequency of any part of the machine, and it is much quieter.
+Amplitude of vibration/mm
+to
+250 500 750 1000 1250 1500 1750
+Frequency/Hz
+fig A Graphical illustration of how the driving frequency in a washing machine affects the oscillation amplitude of its
+side panel. At all frequencies here the amplitude of forced vibration is the same, and relatively small. When the
+motor's vibration reaches about 1100 Hz, the graph peaks, showing that the side panel vibrates significantly, which
+will be very noisy
+207
+Oscillations
+13.1
+WORKED EXAMPLE
+(a) If a 500 g toy train is attached to a pole by a spring, with a spring constant of 100 Nm-l, and made to
+oscillate horizontally, what force will act on the train when it is at its amplitude position of 8 cm from
+equilibrium?
+F= -x = -(100) x (0.08) = -8 N
+A force of 8 newtons will act on the train, trying to pull it back towards the equilibrium position.
+(b) How fast will the train accelerate whilst at this amplitude position?
+From Newton's second law:
+a = - =-16ms?
+(c) What is the period of SHM oscillations for the train?
+T = 20 V - 26/1956 – 0,45
+restoring force, F= 0
+train moving to right
+woooooo00016
+--
+-
+spring at unstretched position
+---
+--
+--
+---
+-
+---
+restoring force, F=-kx
+--
+---
+---
+train moving
+slower
+restoring force, F=
+2lox
+00000000000
+► train even
+slower
+----
+(c)
+2x
+fig B The restoring force in a mass-spring system.
+Pendulum dynamics
+Legend has it that Galileo was just 17 when, watching a hanging lantern in the cathedral in Pisa, he
+observed that a pendulum's time period is independent of the size of the oscillations. In fact, the
+period for a pendulum is given by the expression:
+T= 2
+Therefore, the period is only dependent on the length, I. of the pendulum string, and the strength of
+gravity on the planet on which it has been set up.
+WORKED EXAMPLE
+The pendulum which operates a grandfather clock is 100 cm long. What is the period of oscillation?
+T= 2011 - 2012:00 - 2015
+201

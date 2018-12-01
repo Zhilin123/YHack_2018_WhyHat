@@ -1,0 +1,1105 @@
+19.3 Controlling the position
+of equilibrium
+Specification reference: 5.1.2
+Why does the equilibrium position shift?
+In Topic 10.4, you saw how le Chatelier's principle can be used to
+predict how the position of equilibrium shifts in response to a change.
+You learnt three rules:
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the effect of temperature on
+equilibrium constants
+► the effect of concentration,
+pressure, and catalysts on
+equilibrium constants
+equilibrium constants and
+controlling the position of
+equilibrium.
+1 If the concentration of a species is increased, the equilibrium
+position shifts in the direction that reduces the concentration.
+2 If the pressure is increased, the equilibrium position shifts towards
+the side with fewer gaseous moles.
+3 If the temperature is increased, the equilibrium position shifts in
+the endothermic direction.
+So why does le Chatelier's principle work? The answer lies with
+equilibrium constants.
+Synoptic link
+Revisit Topic 10.4, Dynamic
+equilibrium and le Chatelier's
+principle, if you need to revise
+le Chatelier's principle before
+continuing
+Do equilibrium constants change?
+The magnitude of an equilibrium constant K indicates the extent of a
+chemical equilibrium.
+Synoptic link
+You first encountered the
+relationship between the value of
+Kand the extent of an equilibrium
+reaction in Topic 10.5, The
+equilibrium constant K - part 1.
+• K = 1 indicates an equilibrium halfway between reactants and
+products.
+K= 100 indicates an equilibrium well in favour of the products.
+• K= 1 x 10-2 indicates an equilibrium well in favour of the reactants.
+The value of K gives the exact position of equilibrium. When the
+reactants or products of a reversible reaction are mixed together, the
+reaction proceeds until the concentrations of the equilibrium species
+give the value of K when placed in the equilibrium constant expression.
+At a set temperature, K is constant and does not change despite any
+modifications to concentration, pressure, or the presence of a catalyst.
+But K does change if the temperature is changed - a temperature
+change is the only condition that will causes K to change its value.
+The effect of temperature on equilibrium constants K
+The value of K is changed by altering the temperature. Whether the
+value of K gets larger or smaller depends on whether the forward
+reaction is exothermic or endothermic.
+Exothermic reactions
+If the forward reaction is exothermic:
+the equilibrium constant decreases with increasing temperature
+raising the temperature decreases the equilibrium yield of products.
+302
+19
+EQUILIBRIUM
+6 Worked example: Calculating K for a heterogeneous
+equilibrium
+When calcium carbonate, Caco,, is heated in a closed system,
+a heterogeneous equilibrium is set up. It is a heterogeneous
+equilibrium because there is a mixture of solids and a gas.
+CaCO3(s) = CaO(s) + CO2(g)
+solid solid gas
+In the equilibrium mixture, CO, has a partial pressure of
+2.5 x 10-2 atm at 600°C. Calculate K.
+Step 1: Write down the expression for K.
+Only gaseous species are included in the K, expression.
+Ko = P(CO2)
+Step 2: Calculate Ky
+K = 2.5 x 10-2 atm
+A Figure 3 A lime kiln in the Derbyshire
+Peak District. Limestone contains
+calcium carbonate, CaCOZ. The limestone
+is heated to a high temperature and
+carbon dioxide is allowed to escape. This
+prevents an equilibrium being set up so
+that the maximum yield of lime (calcium
+oxide, Cao) is formed
+Summary questions
+1 a A gas mixture at a total pressure of 320 kPa contains three moles of
+N. (g) and one mole of 0, (g). Calculate the mole fraction and partial
+pressure of each gas.
+(2 marks)
+b A gas mixture contains 10 cm3 of 0, (g), 25 cm3 of N, (g), and 15 cm3
+of H2(g). The total pressure of the mixture is 500 kPa. Calculate the
+mole fraction and partial pressure of each gas.
+(3 marks)
+2 For the following equilibria, write an expression for K and calculate the
+value for K, including units.
+a 2HI(g) =H2(g) + 12(g)
+partial pressures: p(HI) 56 kPa, p(H2) 22 kPa, p(12) 22 kPa (3 marks)
+b 2NO, (g)=2NO(g) +0,(g)
+partial pressures: p(NO) 45 kPa, p(NO) 60 kPa, p(02) 30 kPa (3 marks)
+c 250,(g) +0,(g)=250 (g)
+partial pressures: p(S0_) 74 kPa, p(02)23 kPa, p(S02) 142 kPa (3 marks)
+3 In the equilibrium:
+250,(g) + O2(g) =2503(g)
+2.0 mol of SO (g) was mixed with 1.0 mol O2(g) and the mixture was
+allowed to reach equilibrium at constant temperature. At equilibrium,
+0.5 mol of the SO2(g) had reacted.
+a Calculate the amounts, in mol, of S02,02, and So, in the equilibrium
+mixture.
+(3 marks)
+b The total equilibrium pressure was 900 kPa. Calculate the mole
+fractions and partial pressures of So, 0, and So, in the
+equilibrium mixture.
+(6 marks)
+C Calculate K and state its units.
+(3 marks)
+301
+19
+EQUILIBRIUM
+The concentrations must change to return the ratio back to the K
+value of 16.0 moldm.
+• the concentration of the product NO, must increase
+• the concentration of the reactant N, O, must decrease
+A new equilibrium is established where !
+is established whatNO,(g) 14
+- is restored to
+[N,O,(8)]
+its K value of 16.0 mol dm-3.
+N,O_(g) = 2N0 (8)
+equilibrium position
+shifts to the right
+By le Chatelier's principle, you would also predict a shift in the
+equilibrium position from left to right to decrease [N,O,()].
+le Chatelier's principle only works because K controls the relative
+concentrations of reactants and products present at equilibrium.
+The same principle could have been shown using K for the equilibrium
+constant instead of K
+Equilibrium constants and pressure changes
+For the same equilibrium as above, a doubling of pressure will result in a
+doubling of the partial pressures and concentration of both NO, and N, 02-
+Consider the following equilibrium:
+N,O2(g) = 2NO,(g)
+At a constant temperature, the equilibrium partial pressures are:
+• p(NO2) = 9.6 atm
+• P(N,0.) = 0.24 atm
+p(NO2)_9.62 = 384 atm
+• the ratio P(NO2)2
+App(N,0.) 0.24
+If the total pressure is doubled, p(N,0.) is increased to 19.2 atm and
+P(NO) is increased to 0.48 atm and
+2! is now greater than K, and equal to 19.30 = 768 atm
+p(N204)
+the system is now no longer in equilibrium.
+The partial pressures must change to return the ratio back to the K
+value of 384 atm.
+• the partial pressure of the product NO, must decrease
+the partial pressure of the reactant N, O, must increase
+A new equilibrium position will be reached where
+p(N202)"
+restored to its K, value of 384 atm.
+N20 (9) = 2NO2(g)
+P(NO)
+equilibrium position
+shifts to the left
+Using le Chatelier's principle, you predict a shift in the equilibrium
+position from right to left to the side with fewer gaseous moles.
+This shift has been directed by the value of K, being restored.
+The same principle could have been shown using K for the
+equilibrium constant instead of K.
+305
+19
+EQUILIBRIUM
+6 Worked example: Calculating partial pressures
+Use the mole fractions of the gases in air to calculate the partial
+pressures of gases in air at a pressure of 100 kPa.
+Step 1: Calculate partial pressure of nitrogen.
+p(N,) = x(N) x P = 0.78 x 100 = 78 kPa
+Step 2: Calculate partial pressure of oxygen.
+p(02) = x(02) * P = 0.21 x 100 = 21 kPa
+Study tip
+Always check your calculations:
+Step 3: Calculate partial pressure of other gases.
+p = x x P = 0.01 x 100 = 1 kPa
+The sum of the partial pressures equals the total pressure
+78 +21 + 1 = 100 kPa
+sum of mole fractions = 1
+sum of partial pressures =
+total pressure
+Dissolving oxygen in the blood
+You breathe as a way of getting oxygen into your blood and getting carbon
+dioxide out. But how does it work?
+The amount of oxygen that can dissolve in the blood is proportional to
+the partial pressure of oxygen breathed into the lungs. At equilibrium in
+the lungs, each cubic decimetre of the blood can dissolve about 3 cm of
+gaseous oxygen. An adult human only has about 5 dm of blood and so
+15 cm of oxygen does not seem much. Luckily, as quickly as the oxygen
+dissolves, it combines with haemoglobin in the blood. This allows more than
+200 cm of oxygen to effectively dissolve in each dm of blood.
+Normal air at 1 atmosphere pressure has a pressure of 101 kPa. The 21% of
+oxygen in the air has a partial pressure of just over 21 kPa.
+On Earth, as altitude increases, the atmospheric pressure decreases (Table 1).
+Table 1 Altitude and pressure
+Altitude/m sea level 2000 4000 6000 8000 10000
+Pressure/kPa 101 81 63 49 38 29
+So how do people survive at altitude? The body compensates by producing
+more haemoglobin, but at very high altitudes the partial pressure of oxygen
+may be so small that very little may dissolve.
+High altitude mountaineers compensate by using oxygen tanks and
+breathing pure oxygen.
+1 Why does less oxygen dissolve in the blood with increasing altitude?
+Mount Everest has an altitude of 8848 m above sea level.
+a Estimate the partial pressure of oxygen at the summit of Mount
+Everest.
+b Without breathing apparatus, estimate the volume of oxygen that
+can be dissolved per dm3 of blood at the top of Mount Everest?
+c Breathing pure oxygen at altitude allows mountaineers to breathe
+normally. However, breathing pure oxygen for a length of time at
+lower altitudes is unhealthy. Suggest why there is a difference.
+Figure 1 High-altitude
+mountaineer with breathing
+apparatus containing oxygen
+299
+19
+19.2 The equilibrium constant K.
+Study tip
+The equilibrium constant K
+K, is written in a similar way to K, but with partial pressures replacing
+concentration terms.
+For the equilibrium:
+You should never use square
+brackets [ ] when writing
+expressions for K . Expressions for
+K involve partial pressures, not
+concentration. This is a common
+error made by students.
+K
+-
+P(HI)2
+H.(g) + 1, (g) = 2HI(g) App(H) x p(I.)
+p is the equilibrium partial pressure.
+8) +12(g) = 2HI(g)
+Suitable units for partial pressures are kilopascals (kPa), pascals (Pa),
+or atmospheres (atm) - but the same unit must be used for all gases.
+As with concentration terms for K, the power of a partial pressure in
+the K, expression is the balancing number in the chemical equation.
+K only includes gases because only gases have partial pressures. Any
+other species must be ignored.
+Figure 2 Ammonia production. Part
+of an industrial plant used to make
+ammonia from nitrogen and hydrogen
+gases. Around 80% of the ammonia
+produced is used to produce fertilisers
+Study tip
+number of moles of A
+total number of moles
+Study tip
+Check that the sum of the partial
+pressures matches the total
+pressure:
+DWorked example: Calculating K, for a homogeneous
+equilibrium
+Nitrogen, hydrogen, and ammonia coexist in a homogeneous
+equilibrium, with all species being gases:
+N2(g) + 3H2(g) = 2NH3(g)
+This equilibrium reaction is very important, since it is used in the
+industrial production of ammonia (Figure 2).
+An equilibrium mixture at 400°C contains 18 mol of N, (g),
+54 mol of H, (g), and 48 mol NH (g). The total equilibrium
+pressure is 200 atm. Use this information to calculate K.
+Step 1: Find the mole fractions of nitrogen, hydrogen, and
+ammonia
+Total number of gas moles = 18 +54 +48 = 120 mol
+x{N,) - 128 X(H,) = 120 X(NH3) = 12
+Step 2: Find the partial pressures.
+p(N) = 18 × 200 = 30 atm
+p(H2) = 120 x 200 = 90 atm
+P(NH2) = 180 x 200 = 80 atm
+Step 3: Calculate K.
+For the equilibrium:
+N2(g) + 3H2(g) = 2NH3(g),
+P(NH)2
+(atm)2
+K =— PO
+5 units: K = 7
+p(N2) x
+802
+Partial pressures:
+30+90 + 80 = 200 atm
+Total pressure = 200 atm
+Synoptic link
+There are many different
+equilibrium constants but the
+principles that you have learnt
+for K and K can be applied to
+them all. In Topic 20.1, Brønsted-
+Lowry acids and bases, you will
+meet K and K variations on K.
+with special labels to match their
+context.
+(atm)(atm) 3 = atm-2
+K
+30 x 903 = 2.9 x 10-4 atm-2
+300
+19
+19.3 Controlling the position of equilibrium
+Table 1 Summary of the effect of increasing pressure
+Gaseous moles
+fewer moles of gaseous
+products
+more moles of gaseous
+products
+same number of moles
+of gaseous reactants
+and products
+Ratio of products/ Effect of increasing Equilibrium
+reactants
+pressure
+shift
+products increase,
+ratio <K
+right
+reactants decrease
+products decrease,
+ratio >K
+left
+reactants increase
+ratio =K
+no change
+no effect
+How does a catalyst affect equilibrium constants?
+Equilibrium constants are unaffected by the presence of a catalyst.
+Catalysts affect the rate of a chemical reaction but not the position
+of equilibrium.
+Catalysts speed up both the forward and reverse reactions in the
+equilibrium by the same factor.
+Equilibrium is reached quicker but the equilibrium position is not
+changed.
+Summary questions
+1 Predict whether the two reactions with the K, values
+below are exothermic or endothermic. Explain your
+answer.
+3 Study the equilibrium: H2O(g) + CO(g) =
+H2(g) + CO2(g) AH=-41.2 kJ mol-1
+a State an expression for K for this reaction.
+(1 mark)
+b When 1.00 mol of steam and 1.00 mol of carbon
+monoxide were allowed to reach equilibrium,
+0.60 mol of hydrogen was formed. Calculate
+a value fork
+(4 marks)
+Explain, with a reason, the effect on the
+percentage of hydrogen present at equilibrium of
+the following changes. Also state the effect
+i increasing the pressure
+ii increasing the temperature.
+(4 marks)
+Numerical value of K
+Temperature/K
+Reaction A Reaction B
+200 5.51 x 10-8 4.39 x 104
+400 1.46
+4.03
+600 3.62 x 102 3.00 x 10-2
+(2 marks)
+2 The reaction A(aq) + 2B(aq) = C(aq) is endothermic
+and at room temperature both forward and reverse
+reactions are relatively slow. A and B are both
+colourless, whilst C is a deep blue colour.
+a State an expression for the equilibrium
+constant K for this reaction.
+(1 mark)
+b Explain the effect on the value of K of each
+of the following:
+i Increasing temperature
+ii Adding more A at constant temperature
+(3 marks)
+C Explain what would you see if more C were
+added at room temperature?
+(3 marks)
+4 For the equilibrium N, (g) + 3H2(g) =2NH2(g),
+explain, in terms of K, the effect of increasing
+pressure on the equilibrium yield of NH (g).
+(3 marks)
+306
+19.2 The equilibrium constant K
+Specification reference: 5.1.2
+Mole fraction and partial pressure
+Equilibria involving gases are usually expressed in terms of K, the
+equilibrium constant in terms of partial pressures. For gases, it is easier
+to measure pressure than concentration. Concentration and pressure
+are proportional to one another and K, has a direct relationship to K.
+To understand how to calculate K, you will first need to understand
+mole fractions and partial pressure.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the terms mole fraction and
+partial pressure
+expressions for K, for
+homogeneous and
+heterogeneous equilibria
+calculations of K including
+determination of units
+► application of K and K to
+other equilibrium constants.
+-
+Mole fraction
+Under the same conditions of temperature and pressure, the same
+volume of different gases contains the same number of moles of gas
+molecules.
+The mole fraction of a gas is the same as its proportion by volume to
+the total volume of gases in a gas mixture.
+Synoptic Link
+In Topic 2.3, Formulae and
+equations, you learnt that 1 mole
+of gas molecules occupies
+24.0 dm3 at RTP.
+For a gas A in a gas mixture:
+number of moles of A
+mole fraction X(A) =
+total number of moles in gas mixture
+As with all fractions, the sum of the mole fractions in a gas mixture
+must equal one.
+You also learnt about the ideal
+gas equation which allows gas
+volumes to be calculated at any
+temperature and pressure.
+Worked example: Calculating mole fractions
+Air has approximate molar proportions of 78% N, (g), 21% 0,(g),
+and 1% other gases. Calculate the mole fractions of the gases in air.
+Step 1: Mole fraction of N, x(N,) = 108 = 0.78
+Step 2: Mole fraction of O, x(02) = 200 = 0.21
+Step 3: Mole fraction of other gases x = 100 = 0.01
+Sum of mole fractions equals 1 0.78 + 0.21 + 0.01 = 1
+Partial pressure
+In a gas mixture, the partial pressure p of a gas is the contribution
+that the gas makes towards the total pressure P. The sum of the partial
+pressures of each gas equals the total pressure.
+For gas A in a gas mixture:
+partial pressure p(A) = mole fraction of A x total pressure P
+P(A) = x(A) XP
+298
+19
+19.3 Controlling the position of equilibrium
+Explaining the equilibrium shift in endothermic reactions
+At equilibrium: K. =_p(NO)
+p(N2) * p(0)
+If the temperature increases from 700 K to 1100 K:
+K increases from 5 x 10-13 to 4 x 10-8 atm-!
+the system is no longer in equilibrium
+• the ratio
+in p(NO)_ is now less than K
+p(N2) * p(O2)
+The equilibrium partial pressures that gave a K value of 5 x 10-13 at
+700K must change to give the new K, value of 4 x 10-8 at 1100K.
+. the partial pressure of the product NO must increase
+. the partial pressures of the reactants N, and 0, must decrease
+The position of equilibrium shifts towards the products
+(to the right).
+A new equilibrium is established where - PINO)
+is equal to the
+new K, value of 4 x 10-8 atm-!.
+p(N2) * P(02)
+What about K?
+The explanations for K, work also for K. If you were supplied with K.
+information, just use concentrations instead of partial pressures.
+How do changes in concentration and pressure
+affect equilibrium constants?
+The value of an equilibrium constant K is unaffected by changes in
+concentration or pressure. This may seem strange as you know from
+le Chatelier's principle that the equilibrium position can be shifted by
+changes in concentration or pressure. The equilibrium shift actually
+results from the very fact that the equilibrium constant does not change.
+Study tip
+It is important to realise that
+changes in concentration do not
+change K. The ratio of reactants to
+products changes. The ratio then
+changes to get back to K - this
+is why the equilibrium position
+shifts.
+Equilibrium constants and concentration changes
+Consider the following equilibrium:
+1,04() = 2NO2(g)
+At a constant temperature, the equilibrium concentrations are:
+• [NO2(g)] = 0.400 mol dm3
+. [N,O2(g)] = 0.010 moldm3
+- [NO2(g)12 _ 0.4002 _
+= 16.0 moldm-3
+[N,04()] 0.010
+If [N,O,(g)] is increased to 0.020 moldm-3
+• the ratio [NO2(g)] is now less than K. and is equal to
+[N204(9)]
+0.400% = 8.0 moldm
+0.020
+the system is now no longer in equilibrium.
+304
+19
+EQUILIBRIUM
+Study tip
+The effect of increasing temperature on K, for the S02/02/50,
+equilibrium is shown below.
+2502(g) + O2(g) = 2503(g) AH = -197 kJ mol-1
+exothermic
+equilibrium position
+shifts to the left
+Exothermic reactions give out
+energy.
+Temperature/K
+500
+700
+1100
+K/atm-1
+2.5 x 1010
+3.0 x 104
+1.3 x 10-1
+Exothermic change
+• K decreases with increasing
+temperature
+• equilibrium position shifts to left
+Explaining the equilibrium shift
+At equilibrium, Kop(SO)2 x p(02)
+=
+P(SO)2
+equilibrium, K
+If the temperature increases from 500K to 700 K:
+• K, decreases from 2.5 x 1010 to 3.0 x 104 atm!
+• the system is no longer in equilibrium
+• the ratio _ p(SO3)2
+e is now greater than K
+p(SO2)2 x p(O2)
+The equilibrium partial pressures that gave a K value of 2.5 x 1010 at
+500 K must change to give the new K, value of 3.0 x 104 at 700K.
+• The partial pressure of the product SO, must decrease.
+. The partial pressures of the reactants SO, and 0, must increase.
+• The position of equilibrium shifts towards the reactants (to the left).
+(SO )4
+A new equilibrium will be reached where -
+will be reached whareP
+to the new K, value of 3.0 x 104 atm-1 P(SO2)2 x P(O)
+Is equal
+Study tip
+Endothermic reactions
+If the forward reaction is endothermic:
+the equilibrium constant increases with increasing temperature
+. raising the temperature increases the equilibrium yield of products.
+The effect of temperature on K, for the N,/0,/NO equilibrium is
+shown below.
+Effect of increasing
+temperature on equilibrium
+exothermic endothermic
+K decreases Kincreases
+equilibrium equilibrium
+shifts to left shifts to right
+N2(g) + O2(g) = 2NO(g)
+AH = +180 kJ mol-!
+endothermic
+equilibrium position
+shifts to the right
+Study tip
+K
+Temperature/
+K
+700
+/atm-1
+5X 10-13
+4 x 10-8
+1 x 10-5
+Endothermic change
+increases with increasing
+temperature
+• Equilibrium position shifts to right
+Endothermic reactions take in
+energy.
+1100
+1500
+303
+19
+EQUILIBRIUM
+Summary questions
+Worked example: Calculation of K
+The calculation of K from the results is shown below.
+The method is similar to the first worked example.
+Step 1: Determine the equilibrium amount of CH,COOH.
+From the results of the two titrations:
+equilibrium amount of CH,COOH = 0.115 -0.0500
+= 0.065 mol
+Step 2: Use the equilibrium equation to determine the
+equilibrium amounts of each component.
+equation: CH COOH + C,H,OH = CH COOC,H, + H,O
+reacting Imol Imol → Imol
+1 mol
+amounts
+initial/mol 0.100 0.100
+0.500
+change/mol -0.035 -0.035 +0.035
++0.035
+equilibrium/ 0.065 0.065 0.035
+0.535
+mol
+Step 3: Find the equilibrium concentrations, in moldm .
+The volume of the solution is 20 cm = 0.0200 dm3 so
+equilibrium amounts are divided by 0.0200 to give the
+concentrations in moldm-3
+0
+1 For each of the following
+equilibria, determine the
+expression for K., including
+units.
+a H2(g) + Br_(g) =2HBr(g)
+(2 marks)
+b CO(g) + 2H2(g) =CH2OH(g)
+(2 marks)
+c MgCO3(s) =
+MgO(s) + CO2(g)
+(2 marks)
+-
+0.065
+[CH,COOH
+0.0200
+= 3.25 mol dm3
+0.065
+[C,H,OH]
+= 3.25 mol dm-
+0.0200
+0.035
+[CH,COOC,H1 = = 1.75 mol dm-3
+0.0200
+[H,O]
+0.535
+= 26.75 mol dm-3
+0.020
+Step 4: Write the expression for K., substitute values, and
+calculate K
+[CH,COOC,H,1 [H0] 1.75 x 26.75
+-= 4.43
+[CH,COOH] [C,H,OH] 3.25 * 3.25 –
+(no units, all units cancel)
+2 H, reacts with l, in a reversible
+reaction:
+H2(g) + 2(g) = 2HI(g)
+0.450 mol of H, and 0.300 mol
+of I, were mixed together in
+a container of volume 1 dm.
+At equilibrium, 0.060 mol of IZ
+was present.
+a Calculate the equilibrium
+concentrations of I, and HI.
+(2 marks)
+b Calculate K. (2 marks)
+1 In Stage 3 of the method above, the flask is left for a week to reach
+equilibrium. Suggest how the method could be modified to be sure
+that equilibrium had been reached.
+2 A student set up another experiment using the same method but with
+different initial amounts: 0.150 mol CH,COOH, 0.200 mol C,H,OH. The
+same amount of acid catalyst was used (containing 0.500 mol H,0).
+The total volume is 25 cm.
+Analysis of the mixture showed that 0.0750 mol of CH, COOH were
+present at equilibrium. Use these results to calculate K for the
+reaction (including units).
+3 N, reacts with H, in the
+manufacture of ammonia, NH :
+N2(g) + 3H2(g) = 2NH3(g)
+3.28 mol of N, and 6.64 mol
+H, were mixed together in a
+container of volume 2 dm. At
+equilibrium, 1.76 mol NH, had
+formed.
+a Calculate the equilibrium
+amounts in mol of N, and H.
+(2 marks)
+b Calculate K. (2 marks)
+297
+19
+EQUILIBRIUM
+Practice questions
+1 A 0.300 mol sample of HBr(g) is added to a
+1.00 dm² container maintained at constant
+temperature. The equilibrium is:
+2HBr(g) = H2(g) + Br_(g)
+At equilibrium, there are 0.0520 mol of both
+H2(g) and Br2(g).
+a What is the equilibrium amount of
+HBr(g)?
+(1 mark)
+b Write the expression for K. (1 mark)
+c Calculate the value of K. (1 mark)
+2 6.00 mol So, and 4.50 mol o, are mixed
+together and allowed to reach equilibrium in
+a sealed container of volume 3.00 dm. The
+equilibrium is:
+2502(g) + O2(g) = 2503(g)
+At equilibrium, 2.40 mol of O, remained.
+Calculate K. Show your working and
+give units
+(5 marks)
+A mixture of equal numbers of moles of CO(g)
+and H,O(g) are left to reach equilibrium in a
+sealed container at constant temperature. The
+equilibrium equation is shown below.
+CO(g) + H2O(g) = C02(g) + H2(g)
+At equilibrium, the partial pressure of CO,
+is 15.0 kPa. The total pressure is 150 kPa.
+Calculate K, including units. (4 marks)
+The amount, in mol, of an equilibrium mixture
+at 200 kPa total pressure is shown below.
+CH,(g) + H2O(g) = CO(g) + 3H2(g)
+0.800 0.800 1.20 3.60
+a Write the expression for K. (1 mark)
+b Calculate K, including units. Give your
+answer to three significant figures.
+(5 marks)
+5 In an industrial process involving a reversible
+gas phase reaction, the following yields
+of products are obtained under different
+operating conditions.
+Temperature/K Pressure/atm Yield/%
+100
+300
+300
+60
+100
+5
+500
+300
+12
+a Use this information to answer the
+following
+(i) Explain whether the reaction
+exothermic or endothermic. (1 mark)
+(ii) Explain whether there are more
+or fewer moles of gaseous products
+than reactants.
+(1 mark)
+b What would be the effect (if any) on the
+value of K of each of the following?
+(i) Changing the conditions from
+300 K and 100 atm to 500 K and
+100 atm.
+(1 mark)
+Changing the conditions from
+300 K and 100 atm to 300 K and
+300 atm.
+(1 mark)
+(iii) Introducing a catalyst at 300 K and
+100 atm.
+(1 mark)
+6 Methanol can be prepared industrially by
+reacting together carbon monoxide and
+hydrogen. This is a reversible reaction:
+CO(g) + 2H,(g) = CH,OH(g) AH = -94 kJ mol-1
+A chemist mixes together 0.114 mol CO(g)
+and 0.152 mol H, (g) in a container. The
+container is pressurised and then sealed. The
+total volume is 200 cm?.
+The mixture is heated to 500 K and left to
+reach equilibrium. The volume of the sealed
+container is kept at 200 cm.
+The chemist analyses the equilibrium mixture
+and finds that 0.052 mol CH OH has formed.
+a Calculate the value of K, including units,
+for the equilibrium at 500K. Give your
+answer to three significant figures.
+(6 marks)
+b The chemist repeats the experiment
+using the same initial amounts of CO
+and H,. The same procedure is used but
+the mixture is heated in the 200 cm
+sealed container to a higher temperature
+than 500K. As the gas volume is kept at
+200 cm, the increased temperature also
+increases the pressure.
+Explain why it is difficult to predict how
+the yield of CH OH would change.
+Explain what happens to the value of K.
+(4 marks)
+OCR F325 Jan 13 05
+35
+307
+19
+Chapter 19 Practice questions
+7
+In the Contact Process for the production of
+sulfuric acid, highly purified sulfur dioxide
+and oxygen react together to form sulfur
+trioxide. The process is carried out at about
+700 K and at a pressure of 120 kPa. The
+equilibrium is shown below.
+250 (g) + 0,(g) = 250,(g) AH = -190kJmol-1
+The partial pressures of So, and So, at
+equilibrium are 33 kPa and 39 kPa, respectively.
+a What would be the effect on the yield
+of So, of increasing the temperature?
+Explain your answer.
+(2 marks)
+b Determine the partial pressure and
+the mole fraction of oxygen in the
+equilibrium mixture.
+(2 marks)
+c (i) Write an expression for K, for this
+equilibrium.
+(1 mark)
+(ii) Calculate K,, including units.
+(3 marks)
+eauli
+At 500°C, the numerical value of K for
+this equilibrium is 8.00 x 10-2.
+Calculate the amount, in mol, of
+ammonia present in the equilibrium
+mixture at 500°C.
+(4 marks)
+The research chemist doubled the pressure
+of the equilibrium mixture whilst keeping
+all other conditions the same. As expected
+the equilibrium yield of ammonia increased.
+(i) Explain in terms of le Chatelier's
+principle why the equilibrium yield
+of ammonia increased. (2 marks)
+(ii) Explain in terms of K. why the
+equilibrium yield of ammonia
+increased.
+(3 marks)
+F325 Jun 10 Q5(a)-(c) adapted
+Phosgene, COCI,, can be manufactured by
+the reaction of carbon monoxide and chlorine
+in the presence of a catalyst. An equilibrium
+system exists between CO, Cl, and COCI.
+CO(g) + Cl2(g) = COC12(g) AH =-108 kJ mol!
+a Explain the conditions of temperature
+and pressure needed to obtain a high
+equilibrium yield of phosgene. (2 marks)
+b A chemist mixes together 0.300 mol CO
+with 0.350 mol Cl, in a sealed container of
+volume 2.00 dm.
+The mixture is heated and allowed to
+reach equilibrium. At equilibrium, the
+mixture contains 0.272 mol CoCl2.
+Calculate K including units. Show your
+working
+(5 marks)
+9
+8
+Ammonia is one of our most important
+chemicals, produced in enormous quantities
+because of its role in the production
+of fertilisers. Much of this ammonia is
+manufactured from nitrogen and hydrogen
+gases using the Haber process. The
+equilibrium is shown below.
+b
+N, (g) + 3H, (g) = 2NH2(g) AH = -92 kJmol-!
+a (i) Write an expression for K for this
+equilibrium.
+(1 mark)
+(ii) Deduce the units of K for this
+equilibrium.
+(1 mark)
+A research chemist was investigating
+methods to improve the synthesis of
+ammonia from nitrogen and hydrogen
+at 500°C.
+The chemist mixed together nitrogen and
+hydrogen and pressurised the gases so
+that their total gas volume was 6.0 dm'.
+The mixture was allowed to reach
+equilibrium at constant temperature and
+without changing the total gas volume.
+The equilibrium mixture contained
+7.2 mol N, and 12.0 mol H.
+The gas mixture was compressed whilst
+keeping the temperature constant. The
+system was left to reach equilibrium. The
+position of equilibrium shifted to the right.
+(i) Explain the effect, if any, on K.
+(1 mark)
+(ii) Explain in terms of K, why the
+equilibrium moved to the right.
+(3 marks)
+308
+19
+EQUILIBRIUM
+19.1 The equilibrium constant
+K - part 2
+Specification reference: 5.1.2
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ expressions for K for
+homogeneous and
+heterogeneous equilibria
+the techniques and
+procedures used to
+determine quantities present
+at equilibrium
+calculation of quantities
+present at equilibrium
+calculations of K including
+determination of units.
+The equilibrium constant K.
+You have already seen how to write the equilibrium constant K for an
+equilibrium system in terms of the equilibrium concentrations of the
+species present at equilibrium.
+For example, the expression for K for the equilibrium reaction
+N2(g) + 3H2(g) = 2NH3(g) is:
+INH,(g)12
+[N, (g)] [H2(g)]
+You also learnt how to calculate the numerical value for K from the
+equilibrium concentrations. You were able to then compare values
+of K - the larger the value, the further the position of equilibrium
+towards the products. This topic looks at how K can be calculated
+from experimental results.
+pal
+Units of K
+The units of K depend upon the number of concentration terms on the
+top and bottom of the equilibrium constant term. To work out the units:
+Synoptic link
+. substitute units into the expression for K
+cancel common units and show the final units on a single line.
+Look back at Topic 10.5, The
+equilibrium constant K - part 1,
+to revisit the introductory work on
+equilibrium constants.
+6) Worked example: Calculating units for K.
+Calculate units for K in each of the following reactions.
+Example 1
+[HI(g)]2
+H2(g) +12(g) = 2HI(g) K = TH.(g) IL (g)
+(molem)
+(meldm) (melam)
+No units as all concentration terms cancel.
+Example 2
+N20,(9) = 2NO2(g)
+[NO2(g)12_(mol dm-3)
+[N20,(g)] (metodm3 units = moldm-3
+Example 3
+2502(g) + O2(g) = 2503(g)
+[SO2(g)]2
+(molim
+^ [SO,(9)12 [0, (g)] (moldm2 (mol dm-3)
+units = dm'mol-!
+K =
+2(9)]_ (mold
+Study tip
+The convention for writing units
+is to put positive indices before
+negative indices.
+294
+19
+19.1 The equilibrium constant K - part 2
+Study tip
+In Step 1, the numbers in bold are
+supplied in the question.
+Step 1: Using the equation, work out equilibrium amounts of all
+equilibrium species.
++
+NO, has increased in amount by
++1.20 mol
+=
+→
+2NO,(g)
+2 mol
+equation:
+reacting amounts
+initial/mol
+change/mol
+equilibrium/mol
+Using the balancing numbers in
+the equation, the changes in the
+amounts of other species can be
+calculated.
+2NO(g)
+2 mol
+1.60
+-1.20
+0.40
+O2(g)
+1 mol
+1.40
+-0.60
+0.80
++1.20
+1.20
+Step 2: Find the equilibrium concentrations in moldm-".
+Finally the initial amounts and
+changes are compared to give the
+equilibrium amounts.
+Total volume is 4.0 dm, so the equilibrium amounts are divided
+by 4 to give concentrations in moldm .
+0.40
+With practice, it is easier than it
+looks.
+[NO(g)]
+=
+0.10 mol dm-3
+4.
+0.80
+[O2(g)]
+=
+0.20 mol dm-3
+4
+[NO2(g)]
+1.20
+0.30 mol dm3
+Synoptic link
+This reaction is called
+esterification. You will study this
+reaction in Topic 26.4, Carboxylic
+acid derivatives.
+Step 3: Write the expression for K, substitute values, and
+calculate K.
+[NO2(g)]2 0.302
+K =
+[NO(g)]-[0,(g)] 0.102 x 0,20 = 45 dm'mol-1
+Determining K from experimental results
+This application describes an experimental procedure that would allow you
+to experimentally determine a value for K in the laboratory.
+The reaction of a carboxylic acid with an alcohol shown below is a reversible
+reaction.
+CH,COOH + C,H,OH=CH COOC2H5 + H20.
+1 In a conical flask, mix together 0.100 mol CH2COOH and 0.100 mol C,H,OH.
+Add 0.0500 mol of HCl(aq) as an acid catalyst to the flask.
+The total volume of the mixture in the flask is 20.0 cm.
+The amount of water in the aqueous acid catalyst is 0.500 mol.
+Add 0.0500 mol of HCl(aq) to a second conical flask as a control.
+3 Stopper both flasks and leave for a week to reach equilibrium (Figure 1).
+4 Carry out a titration on the equilibrium mixture using a standard solution
+of sodium hydroxide.
+5 Repeat the titration with the control to determine the amount of acid
+catalyst that had been added.
+PYREX
+100ml
+Results
+By analysing the two titrations:
+amount of HCl(aq) in control = 0.0500 mol
+• amount of acid (HCI and CH,COOH) in equilibrium mixture = 0.115 mol
+Figure 1 Flask left to reach
+equilibrium
+296
+19
+EQUILIBRIUM
+Homogeneous and heterogeneous equilibria
+Equilibria are divided into two main types - homogeneous and
+heterogeneous.
+Homogeneous equilibria
+A homogeneous equilibrium contains equilibrium species that all
+have the same state or phase. In all the examples above and the one
+below, the equilibria are homogeneous since all the equilibrium
+species have the same state and are gases:
+N2(g) + 3H,(g) = 2NH2(g)
+homogeneous - all species are gases
+Heterogeneous equilibria
+A heterogeneous equilibrium contains equilibrium species that
+have different states or phases. For example, in the equilibrium below
+carbon is a solid but the other three species are all gases.
+C(s) + H2O(g) = CO(g) + H2(g) heterogeneous - mixture of states
+In homogeneous equilibria, the K expression contains concentrations
+of all species. However, in heterogeneous equilibria, the concentration
+of solids and liquids are essentially constant. So any species that
+are solids and liquids are omitted from the K expression. They are
+automatically incorporated within the overall equilibrium constant.
+K only includes species that are (g) or (aq).
+So for the equilibrium above, C(s) is constant and is omitted:
+[CO(g)] [H,(g)]
+units = moldm-3
+[H2O(g)]
+K
+=
+Calculating equilibrium quantities and
+calculating K
+You have seen how to calculate K from equilibrium concentrations.
+When working from experimental data, you will need to calculate the
+equilibrium concentrations from your experimental results.
+3) Worked example: Calculation of K from equilibrium
+amounts
+Nitrogen monoxide, NO, and oxygen, 0,, react together in a
+reversible reaction.
+2NO(g) + O2(g) = 2NO2(g)
+1.60 mol NO(g) and 1.40 mol 0,(g) are mixed together in a
+container with a volume 4.0 dm. At equilibrium, 1.20 mol
+NO,(g) has formed. Calculate K.
+295
+19
+EQUILIBRIUM
+d
+(iii) State and explain the rates of the
+forward and reverse reactions
+when the gas mixture was first
+compressed
+when the system reached
+equilibrium
+(2 marks)
+The temperature was increased whilst
+keeping the pressure constant. The system
+was left to reach equilibrium. The value of
+K decreased.
+(i) Explain what happens to the position
+of equilibrium.
+(2 marks)
+(ii) Deduce the sign of the enthalpy
+change for the forward reaction
+in the equilibrium. Explain your
+reasoning.
+(1 mark)
+309

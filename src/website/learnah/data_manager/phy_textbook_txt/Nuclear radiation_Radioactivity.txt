@@ -1,0 +1,1309 @@
+10.
+12
+Here, a plot of In Non the y-axis against t on the x-axis will also be a straight line with a negative
+gradient, which is equal in magnitude to the decay constant, . The y-intercept in this case will be the
+natural logarithm value of the initial number of nuclei.
+In either case, the gradient gives the decay constant, from which we can find the half-life from:
+6.5X
+In A
+6+
+5.5+
+5+
+4.5+
+250
+300
+3.5+
+3+
+0 50 100 150 200
+Time/s
+fig D Logarithmic graphical analysis of protactinium-234m decay data.
+Questions
+Calculate the decay constants for the following isotopes that are commonly used in school laboratories:
+(a) radium-226: half-life = 1602 years
+(b) strontium-90: half-life = 28.8 years
+(c) cobalt-60: half-life = 5.3 years.
+If the cellar in a house in Cornwall contained 6.5 billion atoms of radon-222 gas, with a decay constant
+= 2.10 x 10-65-1, how many radon gas atoms would there be one day later?
+3
+Technetium-99m is a gamma emitter which is often used as a medical tracer to monitor lymph node
+activity. Use the graph of experimental results shown in fig E to work out the half-life of technetium-99m.
+4000
+3500
+3000-
+2500
+Activity/Bq
+520004
+ELETTER
+Time/hours
+fig E Radioactive decay of technetium-99m.
+4
+Explain why a radioactive isotope with a very small decay constant will have a long half-life.
+5
+Find the half-life of protactinium from the logarithmic graph on fig D.
+Kev definitions
+A decay constant is the probability, per second, that a given nucleus will decay.
+Activity is the number of radioactive decays in unit time.
+Half-life is the time taken for half of the atoms of a nuclide within a sample to decay. Alternatively, the
+time taken for the activity of a sample of a radioactive nuclide to reduce to half its initial value.
+150
+Radioactivity
+10.1
+Investigation
+WP
+Investigating radioactive decay rates
+You may have the equipment to measure the half-life for a
+radioactive sample, as shown in fig A. If you do not, a simulation in
+which dice represent the radioactive nuclei can demonstrate the
+exponential decay of a sample (fig B).
+we use the graph to find the time taken for the count to drop to
+400 Bq, which is 70 seconds. Doing this a second time, from a
+count rate of 400 Bq to a count rate of 200 Bq, gives a time of
+80 seconds. Notice that the time interval is not identical each
+time. This is due to the random nature of radioactive decay, plus
+experimental and graphing errors. The best-fit curve will be a
+matter of the drawer's judgement. Thus, to get the best answer for
+the half-life, we must undertake the analysis on the graph several
+times in different parts of the graph and average the results.
+From the two half-lives shown in fig C, the average half-life for
+protactinium-234m would be 75 seconds.
+1000
+Activity/Bq
+fig A Measuring the half-life of protactinium-234m.
+250
+300
+0+
+© 50 100 150 200
+Time/seconds
+fig C Determining half-life graphically
+ota
+S
+fig B Measuring the half-life of dice.
+Half-life graphs
+An experiment to determine the half-life of a substance will
+usually measure its activity over time. As activity is proportional to
+the number of nuclei present, when the activity is plotted against
+time, the shape of the curve is exponential decay (fig C). The
+activity, A, follows the equation:
+A = A.e-
+We can use the graph of activity against time to determine the
+half-life of the substance by finding the time taken for the activity
+to halve.
+To find the half-life from such a graph, find a useful start point on
+the curve. In the example shown in fig C, this could be the start
+point where the activity is 800 Bq. As the half-life is defined as
+the time taken for the activity to fall to half of its original value,
+Logarithmic half-life analysis
+As we have seen in fig C, there are numerous graphical
+uncertainties which could lead to unreliabilities in our conclusion
+of the half-life for a sample under test. To improve on the curving
+graph, we can analyse the experimental data to generate a
+straight-line graph so our best-fit line will be less uncertain.
+Using either of our decay equations, taking the logarithm of the
+equation will give us a new equation for the data that is in the
+form y = mx + c.
+Considering data from measuring the activity of a sample
+over time:
+A= A, et
+In A = In A, -
+: In A = - At+ In A.
+So a plot of In A on the y-axis against t on the x-axis (fig D) will be
+a straight line with a negative gradient equal in magnitude to the
+decay constant, X. The y-intercept will be the natural logarithm
+value of the initial activity.
+Alternatively, if the experimental data is measuring number of
+nuclei (often actually measured as mass):
+N = Net
+In N= In N, - At
+In N= - *t + In N.
+149
+Exam-style questions
+10.1
+6 You are to plan an experiment to investigate the ability of
+gamma rays to penetrate lead. You are then to analyse a set of
+data from such an experiment.
+(a) You have a source of radiation and a detector and counter.
+Describe briefly a simple experiment to confirm that the
+source emits gamma radiation.
+[3]
+(b) You are provided with sheets of lead and apparatus to
+support them safely between the source and the detector.
+The thickness of lead affects the count rate. Describe the
+measurements you would make to investigate this.
+Your description should include:
+• a variable you will control to make it a fair investigation
+• how you will make your results as accurate as possible
+• one safety precaution.
+[6]
+(c) For gamma rays passing through lead of thickness x, the
+count rate A is given by:
+A= A, e-
+where A, is the count rate when there is no lead between
+source and detector, and is a constant.
+Explain why a graph of In A against x should be a straight
+line.
+(d) The following data were obtained in such an investigation.
+The background count was 40 minute-!.
+x/mm measured count rate/minute-1
+0
+1002
+6.30
+739
+12.74
+553
+19.04
+394
+25.44
+304
+31.74
+232
+Process the data as appropriate and then plot a
+suitable graph to show that these data are consistent
+with A = A, et
+[5]
+(e) Use your graph to determine a value for the constant . [2]
+[Total: 17]
+161
+Thinking Bigger
+10.1
+Let us start by considering the nature of the writing in this article.
+1. The extract consists of an article from a UK newspaper.
+a. Comment on the style of the writing, in particular the quantity of paragraphs and level
+of vocabulary used.
+b. Give three reasons why the level of physics detail about the functioning of the new
+nuclear power station is minimal in this article.
+2. a. Nuclear Waste Advisory Associates, quoted in the article, has a publicly stated aim to
+advise against the development of new nuclear power stations. How has the newspaper
+attempted to give readers a balanced view of the issues raised by the article?
+b. Explain how the article has presented a negative viewpoint on what the government
+could claim was actually a positive outcome for the power station's development
+Consider who is the
+intended audience, and
+what they would be most
+interested in learning
+about the new nuclear
+plant.
+Now we will look at the physics in detail. Some of these questions will link to topics elsewhere in this
+book, so you may need to combine concepts from different areas of physics to work out the answers.
+worry
+3. a. Hinkley Point C is to be sited on the Somerset coast of the Bristol Channel. Why are
+all nuclear power stations built near a large body of water?
+b. Criticise the statement in the article that [Hinkley Point C] will heat up to six million
+homes'.
+4. Much of the debate about nuclear power station costs surrounds construction and
+decommissioning, and radioactive waste management. Why is there little comment
+about running costs?
+5. Explain why there is a need for long-term radioactive waste management, how it might
+be achieved, and why this might be expensive.
+Think about the useful
+and wasted energies that
+will be produced in the
+power station
+vvvvwvwwny
+Activity
+Imagine you are writing a community newsletter about the progress of the construction of Hinkley
+Point C. Rewrite the article above to put a positive spin on the outcomes of the meeting of the EU
+Commission, including the funding of the power plant and the future of electricity generation in the UK.
+Make sure that your article includes a balance of quotations, but aim to persuade the reader that the new
+nuclear power plant is a very positive development
+Think about how you could
+structure the newsletter
+to influence the reader's
+opinion.
+8.2
+8.3
+9.1
+10.1 YOU ARE 21.1
+YOU ARE
+HERE
+12.1
+13.1
+159
+10.1 Exam-style questions
+[Note: In questions marked with an asterisk (*), marks will be awarded
+for your ability to structure your answer logically showing how the
+points that you make are related or follow on from each other.
+(b) The concentration of 14C in living organisms might have
+been greater in the past.
+Explain how this would affect the age that you have
+calculated.
+[Total: 6]
+[2]
+1 In an experiment to test the penetrating power of alpha
+particles, a Geiger-Müller counter was placed in front of the
+source and registered 234 counts in three minutes. A 4cm
+thick block of lead was placed between the source and the GM
+counter and the count reduced to 26 counts in one minute.
+What was the background radiation level?
+A 0.433 Bq
+B 0.866 Ba
+C 1.30 Bq
+D 1.73 Bq
+[1]
+[Total: 1]
+5 Fission and fusion are both nuclear processes that release
+energy. About 20% of the UK's energy need is currently
+provided by the controlled fission of uranium. Intensive
+research continues to harness the energy released from the
+fusion of hydrogen.
+(a) (i) Fission of uranium-235 takes place after the absorption
+of a thermal neutron.
+Assume such neutrons behave as an ideal gas at a
+temperature of 310 K.
+Show that the square root of the mean square speed of
+the neutrons is about 3000 ms-1.
+mass of neutron = 1.0087 u
+(ii) Complete the equation for the fission of uranium-235.
+[2]
+2U + inU 138Cs + 4Rb + .....
+(iii) Calculate the energy released in a single fission. Then
+determine the rate of fission necessary to maintain
+a power output of 2.5 GW.
+Mass/u
+[3]
+2 One definition of the unified atomic mass unit has the value
+of 1u as being equivalent to that of 1820 electrons. Using
+this definition, if an electron's mass is converted entirely into
+energy, how much energy would this be?
+A 7.91 x 10-6 eV
+B 0.513 MeV
+C281eV
+D 1700 000 MeV
+[Total: 1]
+[1]
+235.0439
+235U
+138Cs
+96 Rb
+137.9110
+95.9343
+3 The half-life of carbon-14 is 5730 years. What is the decay
+constant for a nucleus of carbon-14?
+A 3.84 x 10-125
+B 1.21 x 10-45-1
+C 2.52 x 10-45-1
+D 8268y!
+[1]
+[Total: 1]
+4 All living organisms contain 12C and radioactive 14C. The
+concentration of 14C in the organism is maintained whilst the
+organism is alive, but starts to fall once death has occurred.
+(a) The count rate obtained from wood from an old Viking
+ship is 14.7 min-1 per gram of wood, after being corrected
+for background radiation. The corrected count rate from
+similar living wood is 16.5 min- per gram of wood.
+Calculate the age of the ship in years.
+14C has a half-life of 5700 years.
+(b) *(i) State the conditions for fusion and go on to explain
+why it has proved difficult to maintain a sustainable
+reaction in a practical fusion reactor.
+[4]
+(ii) The nuclear reaction below represents the fusion of
+two deuterium nuclei.
+Complete the equation and identify particle X. [1]
+2D + D + H+ X
+(iii) Despite the difficulties, the quest for a practical fusion
+reactor continues.
+State two advantages fusion power might have over
+fission power
+[2]
+[Total: 16]
+160
+Nuclear power stations WP
+By the end of this section, you should be able to...
+describe how the penetrating powers of radiations affect industrial application design
+describe how the relative half-lives of different fission products affect risk assessments and
+waste management
+describe ways in which society uses science to inform decision making
+Nuclear reactors
+The most common nuclear fission reaction used in power stations is that of uranium-235. If a
+nucleus of this uranium isotope is hit by a slow moving neutron, often called a thermal neutron, it
+may absorb the neutron to form U-236, which is unstable and quickly breaks up. The products of this
+disintegration will be two medium-sized (and radioactive) nuclei with roughly half the nucleons each,
+plus a number of high speed neutrons. The actual composition of the two main products varies - the
+vast majority of these fissions will produce a heavier daughter nucleus with mass numbers in the
+range 130-150, whilst the lighter product usually has a mass number in the range 85-105.
+There is a difference in the amount of binding energy in the U-236 and the daughter products. This is
+given off as the kinetic energy of the various particles and harnessed by the nuclear reactor to drive
+an electricity-generating system (fig A). A moderator, such as water or graphite, is used to slow
+down the emitted neutrons, so that they arrive at the next uranium fuel rod at the slow speed needed
+to allow them to be absorbed by further U-235 nuclei, to cause further fissions and continue the
+reaction. As each reaction requires only one neutron but produces two or three, this chain reaction
+could run out of control, as is the case in a nuclear bomb. To control the reaction in a nuclear reactor,
+control rods typically made of cadmium or boron absorb excess neutrons (fig B). These control
+rods are lowered into the reactor on an electromagnetic support. If there is a failure in the control
+rods system, gravity will pull them completely down into the reactor core, where they will absorb all
+neutrons and shut down the reaction.
+Learning tip
+The content in this section has
+been included to illustrate how
+different areas of physics can
+be brought together in one
+application to solve a problem.
+It is not required by the
+specification.
+control rods -
+steam
+heat exchanger
+graphite
+moderator
+water circulator
+fuel
+assemblies
+Water
+-gas circulator
+concrete
+pressure vessel and
+radiation shielding
+fig A Advanced Gas Cooled Reactor - a typical nuclear reactor design in the UK.
+155
+TOPIC 10
+Nuclear radiation
+CHAPTER
+10.1 Radioactivity
+Introduction
+Radiation is scary stuff. At least, that is what most people believe. It is certainly true that when the Americans dropped
+WP nuclear bombs on Japan in 1945, the Japanese suffered so many casualties that they surrendered within days. However,
+there is radioactivity naturally all around us. Having a picnic on a rock in Dartmoor could easily expose you to more
+radioactivity than undertaking experiments in school using radioactive sources. Coal-fired power stations release more
+radioactivity to the environment, but nuclear power stations emit more radioactivity from their fuel. It is important to
+understand the evidence relating to hazards in all areas of life, and as nuclear physics is poorly understood by the public, its
+hazards are often overstated.
+In this chapter, we will learn what radioactivity is, how it can be dangerous, and how these hazards can be reduced. We will also
+see how the energy stored in the nuclei of atoms can be measured, where it comes from, and how it can be harnessed as a
+power source.
+All the maths you need
+• Changing the subject of an equation (e.g. finding the mass in E = mc2)
+• Use of exponential and logarithmic functions (e.g. solving for unknowns in the radioactive decay equation)
+• Use of the principles of calculus (e.g. solving the rate of decay differential equation)
+• Use of logarithmic graph plots (e.g. finding the half-life from experimental data from a linear log plot)
+• Calculating surface areas (e.g. verifying the inverse square law for gamma ray intensity)
+142
+10.1
+graphite moderator
+slows neutrons
+U-235
+enery
+U-235
+boron-steel control rod
+absorbs excess emitted
+neutrons to control the
+rate of reaction
+energy
+U-235
+neutron
+energy
+fission
+fragment
+Recent global increased interest in nuclear power has caused the
+potential longevity of reserves to be called into question. Considering
+only the reserves that could be mined at a reasonable cost, and with
+current usage (66 000 tonnes per year), reserves could run out in as
+little as 90 years. As investment in uranium exploration has increased
+significantly recently, new reserves have been discovered and the time
+estimates improved. However, should there be any unexpected supply
+problem (for example, the McArthur River mine in Canada, which
+produces 13% of world supply, was flooded in 2003, which took it out
+of action for three months), the precarious balance between supply
+and demand would be highlighted
+fig B A controlled nuclear fission chain reaction.
+Nuclear power - the way forward?
+In the UK, nuclear power went through periods of popularity in
+the 1950s and 1980s, and our current fleet of 16 reactors produce
+approximately 18% of UK electricity. Most of these power stations
+are reaching the end of their lives, and few will be able to continue
+operation after 2023. The increasing costs of fossil fuels, and the
+need to reduce carbon emissions, has brought nuclear power back
+into popularity with the government as an option for our future
+production of electricity. Modern reactor design is far superior to
+those early power stations, so they are much safer, but there are
+still some important environmental concerns to be considered.
+How does society choose to use nuclear power?
+The first generation of nuclear power stations in the UK were built
+and run by the government. Many of them have now been sold
+to private energy companies, and politicians are currently keen to
+have all future nuclear installations built and run privately. There is
+an economic argument that this will increase efficiency within the
+operation, and in the end this should make the electricity cheaper
+for the consumer, even after allowing for the company's profits.
+Few energy companies have been willing to risk the enormous
+capital investment needed.
+In recent years, public opinion in the UK, along with the viewpoint
+of British industry (as represented by the Confederation of British
+Industries (CBI)) and that of MPs, have all moved towards a more
+positive stance on nuclear power.
+The Health and Safety Executive has a department covering
+nuclear installations and they implement various acts of parliament
+governing the required safety procedures in such power stations.
+An alternative non-renewable energy source
+Radioactive materials which can supply energy through a
+controlled nuclear fission reaction are not uncommon in the
+Earth's crust - uranium is about 500 times more abundant than
+gold. And in order to supply a standard size power station, such
+fuels are only needed in very small quantities. 3 kg of uranium-235
+per day will run a 1000 MW nuclear power station. Compare this
+with the 9000 tonnes of coal per day which would be needed in
+a coal-fired power station of the same output. Indeed, a million
+tonnes of uranium-235 could supply the energy equivalent to
+all the fossil fuels on Earth. There is estimated to be about six
+times that quantity of uranium available. However, it is principally
+located in only a handful of countries, with Australia, Russia and
+Kazakhstan having over 50% of global reserves. This raises some
+serious issues about the security of fuel supply for countries which
+choose to use nuclear power.
+Nuclear disasters
+All industries have a risk of accidents occurring, and the potential
+hazards must be balanced by the likelihood of their occurrence.
+and the checks put in place to minimise this likelihood or limit the
+potential damage. In the nuclear industry the hazards are extreme,
+so the probability of accidents must be virtually eliminated. Only
+two events have been classified as level 7 on the International
+Nuclear Event Scale. Whilst reading about the nuclear disasters
+below, consider the fact that in the USA, in 2014 alone, 16 coal
+miners died in mining accidents.
+Country
+Australia
+Kazakhstan
+Russian Federation
+Uranium reserves/tonnes
+1700000
+679 000
+506 000
+table A Uranium reserves of the top three countries, which hold 50% of the
+world's known 5.9 Mt reserves (counted as those that could be mined
+for less than US$130 per kilogram).
+The Chernobyl explosion
+Nuclear power poses an extreme potential hazard to health and
+safety, as a major incident can destroy an entire landscape. In 1986,
+a reactor explosion at Chernobyl in the Ukraine released about
+156
+101
+Nuclear radiation
+By the end of this section, you should be able to...
+describe what is meant by background radiation and explain how to take appropriate account of it
+explain the relationship between the structure of alpha, beta and gamma radiations, and their
+penetrating and ionising abilities
+write and interpret nuclear equations
+Background radiation
+Human beings can survive small doses of nuclear radiation relatively unscathed. This has been
+important in our evolution, as the natural environment incorporates low levels of radiation from
+natural sources. This is called background radiation. In the UK it averages to less than one
+radioactive particle every two seconds in any given place (fig A). If we measure background
+radiation using a Geiger-Müller (G-M) tube, the number of counts per second usually ranges from
+0.2-0.5 depending on exact location. Radiation levels are often reported in counts per second, and
+this unit is called the becquerel (Ba) after Henri Becquerel, the French physicist credited with the
+discovery of spontaneous radiation in 1896.
+(a)
+radiation dose/Bq year-1
+0.3-0.4
+nuclear power
+and weapons
+0.3%
+0.25–0.3
+other
+0.2%
+0.2-0.25
+cosmic rays
+10.0%
+<0.2
+food and drink
+11.5%
+medical -
+14.0%
+ground and buildings
+14.0%
+radon gas
+50.0%
+fig A The environment continually exposes us to low levels of nuclear radiation. (a) Levels of background radiation dose
+in Great Britain (measured in Bq - a unit for measuring radiation energy delivered to the body); (b) Sources of
+background radiation.
+144
+THINKING
+BIGGER
+NEW NUCLEAR POWER IN THE UK W
+The UK has a long-established nuclear power industry for contributing electricity to the National
+Grid. Many of the older power stations are coming to the end of their lives, and the government has
+given approval for some replacements to be built, but the costs are controversial.
+TREASURY REBUKED BY EU OVER HIDDEN
+NUCLEAR COSTS
+Buried deep in commission minutes from 8 October is an
+admission that there was 'regret, expressed by some, that all the
+long-term costs for the British Treasury had not been integrated
+into the calculation of the cost of the project, for instance the cost
+of storing the nuclear waste or of dismantling the plant at the end
+of its lifetime'.
+This meeting involved 22 members of the Commission, led by the
+president, Jose Manuel Barroso, and including the vice-president,
+Baroness Ashton, from the UK.
+Despite the rebuke, they concluded that state aid for the plant,
+which will heat up to six million homes when it is built by 2023,
+would not have any negative impact on the functioning of the
+market".
+fig A Artist's impression of Hinkley Point C nuclear power station.
+Chancellor George Osborne has been criticised by the European
+Commission for failing to reveal all the costs associated with
+building the UK's first nuclear power station since the 1990s.
+The commission approved the construction of Hinkley Point C
+on the Somerset coast earlier this month following a state aid
+investigation.
+The Government has agreed that owner EDF would be guaranteed
+a minimum fee for the electricity produced there, known as the
+strike price, so that shareholders in the French operator knew they
+would get a return on the £16bn cost of building the plant.
+However, some members of the Commission were critical that
+the Government has consistently failed to include other long-term
+costs when valuing Hinkley Point C, the first of a planned fleet of
+new nuclear reactors that are expected to reduce household bills
+by £95 in 2030.
+Dr David Lowry, a research consultant and member of Nuclear
+Waste Advisory Associates, warned that nuclear costs 'always
+escalate' and added: "When ministers and political atomic
+aficionados back the nuclear industry's claims that they
+have covered all future costs for long-term radioactive waste
+management, they have fallen into a clever trap.'
+A Treasury spokesman said: "With respect to the decommissioning
+and storage costs the situation is that [EDF subsidiary] NNBG are
+responsible for these long-term costs (through their investment in a
+Funded Decommissioning Plan), and these costs are all included in
+the agreed strike price. It is a pity that the minutes do not reflect this.
+As well as being responsible for their costs in cleaning up of the
+site, NNBG will pay HM Government for the radioactive waste
+transferred to HM Government for long-term storage."
+• Treasury rebuked by EU over hidden nuclear costs" by M. Leftley,
+i newspaper, 27/10/2014, page 43, with permission from The Independent,
+www.independent.co.uk.
+Where else will I encounter these themes?
+Book 1
+6.1
+6.2
+7.1
+7.2
+7.3
+8.1
+158
+Radioactivity
+10.1
+5% of the reactor core material into the atmosphere. Up to 2004,
+there had been 56 fatalities which could be directly attributed to
+this disaster, 28 of these occurring within a few weeks from acute
+radiation exposure. Large areas of Russia, Ukraine and Belarus
+were contarninated, and 336 000 people have been resettled
+elsewhere. There will be an ongoing (small) increased incidence
+of cancer amongst the 'liquidators' - the half million people from
+all over the Soviet Union who worked on the clean-up operation
+in the two years after the explosion. However, the World Health
+Organisation, International Atomic Energy Agency and United
+Nations have all undertaken investigations and their reports on the
+region's population are in agreement that the actual harmful effects
+have been considerably overestimated. The most harmful isotopes
+released decayed quite quickly, leaving the area with a background
+radiation which is at present about 50% higher than normal. There
+were four reactors at Chernobyl, and the other three continued
+to operate for many years afterwards. Reactor number 4 was
+encased in a concrete shield very soon afterwards, and this is to be
+enhanced by a more permanent shelter to be completed in 2017.
+Nuclear power legacies
+Nuclear fission of uranium produces a variety of daughter products
+which are also radioactive, with varying half-lives. This spent fuel
+is the most dangerous of the radioactive wastes generated in the
+process. The material of the reactor core's construction will also
+become slightly radioactive during the course of its lifetime, mostly
+through exposure to free neutrons which can be absorbed by a
+nucleus, turning it into an unstable, radioactive isotope. This means
+that the production of radioactive waste from a nuclear power station
+occurs throughout its lifetime and then the decommissioning process
+at the end of the useful lifetime will generate about the same amount
+of waste again (table B). The projected cost for decommissioning all
+of the nuclear power stations in Britain is over £70 billion.
+Questions
+| List all the factors that should be taken into consideration when
+deciding whether or not to build new nuclear power stations.
+2 Carry out some research to find out the methods for disposing of
+high, medium and low level radioactive wastes.
+Explain why a mechanical system using levers moved by hand would be
+inappropriate for use to lower the control rods into a nuclear reactor.
+Fukushima Daiichi nuclear accident
+On 11 March 2011, Japan was hit by a massive earthquake
+(magnitude 9.0). This generated a 14-metre tsunami wave that hit
+the Fukushima nuclear power plant on Japan's east coast. This
+destroyed the cooling system for three of the plant's six reactors.
+These suffered meltdown and released significant amounts
+of radioactive material over three days shortly afterwards. No
+fatalities were directly attributable to this accident, but as a
+result of the evacuation of over 100 000 people, more than 1000
+deaths occurred. The World Health Organisation estimated very
+small increased risk of cancers in later life if the population had
+remained in the affected areas. Whilst the clean-up process will
+take decades, the safety procedures in place significantly limited
+the hazard generated by this incident.
+Calculate the percentage of world uranium reserves held by each of
+Australia, Kazakhstan and Russia (table A).
+5
+Write a short editorial piece for a local newspaper, outlining
+your views about nuclear power generation in the UK, and the
+implications for your local area.
+Key definitions
+A thermal neutron is a relatively slow-moving neutron.
+A moderator is a material used in a nuclear reactor to slow fast-
+moving neutrons to thermal speeds.
+A fuel rod within a nuclear reactor is a rod containing the fissionable
+material, e.g. uranium-235.
+A chain reaction is a self-sustaining nuclear reaction in which the
+products from one individual fission reaction go on to trigger one or
+more further fissions.
+Control rods within a nuclear reactor are made of materials that can
+absorb neutrons to stop the triggering of further fission reactions,
+e.g. boron.
+fig C The Fukushima Daiichi nuclear power plant suffered serious damage
+following an earthquake and tsunami on 11 March 2011.
+Waste level Types of material
+Sources
+Treatment
+Volume percentage Activity percentage
+of global waste (%) of global waste (%)
+high
+3
+95
+heavy metals, spent fuel, fuel
+fuel rods
+reprocessing
+products
+resins, chemical
+reactor
+sludges, reactor | decommissioning
+components
+paper, rags, tools, hospitals,
+clothing, filters laboratories, industry
+cooled in a water pool for
+1-20 years, then buried in a
+deep underground repository
+solidified in concrete or
+bitumen and buried
+intermediate
+low
+incinerated and buried
+table B Radioactive waste levels and their treatments.
+157
+What have I studied before?
+The structure of an atom
+• Particle energies
+The conservation of energy
+• Rutherford's alpha particle scattering experiment
+lonisation
+Photon emission from excited electrons
+What will I study later?
+How gravitational forces follow an inverse square
+relationship
+How nuclear fusion reactions power stars
+Gamma ray bursts from supernova explosions
+The production of the heaviest elements in
+supernovae
+What will I study in this chapter?
+• The different types of radioactive emissions
+• Mass defect and binding energy
+• The importance of binding energy per nucleon
+• Nuclear fission and nuclear fusion
+• Nuclear reactions
+The random nature of radioactive decay, and
+radioactive half-life
+143
+Radioactivity
+10.1
+Investigation
+WP
+Investigating lead absorption of gamma radiation
+Using the same experimental set-up as shown in fig B, we can find out how much lead is needed to reduce
+the intensity of gamma radiation by a certain amount. Using a radioactive source that emits alpha and
+gamma only, we can select to study the gamma radiation by placing a sheet of paper in front of the source to
+absorb all the alpha particles. This will have no measurable effect on the gamma emissions.
+Keeping the distance from the source to the G-M tube constant, we can place varying thicknesses of lead
+plate in the gap between them. For each thickness, record the count over a fixed time period and
+determine the corrected count rate. There is a mathematical relationship between the corrected count
+rate (which represents intensity of the radiation, 1) and the thickness, x, of lead. Can you work out what
+graph to draw to prove that I e-HX?
+Make sure you have a good understanding of this practical as your understanding of the experimental
+method may be assessed in your examinations.
+Dangers from nuclear radiations
+Ionising radiations can interact with the particles that make up human cells. There may be so much
+ionisation that the cells die as a result. Where there is less ionisation, the molecules of DNA in the
+cells may change slightly. These DNA mutations can cause cells to have an increased tendency to
+become cancerous. As the different types of nuclear radiation ionise to different extents, the hazard
+to humans is different for each type. The hazard levels are given in table A.
+Type of radiation Inside body
+Outside body
+alpha, a
+| Highly ionising - very dangerous: Absorbed by surface layer of dead
+radiation poisoning and cancer possible. skin cells - no danger.
+beta, 8
+Moderate ionisation and danger: Moderate ionisation and danger:
+exposure should be minimised.
+close exposure should be minimised.
+gamma, 7
+Minimal ionisation - cancer danger Minimal ionisation - cancer danger
+from long-term exposure.
+from long-term exposure.
+table A Hazards from nuclear radiations. Not considered here is the fact that different tissue types can be more or less
+susceptible to these dangers.
+Questions
+| Create a table summarising everything you know about alpha, beta and gamma radiations.
+In preparation for an experiment using a radioactive sample, Xian measured the radioactivity in her
+laboratory without the sample present. In one hour, her Geiger-Müller tube measured 1645 counts.
+What was the background count in becquerel?
+3 Why is it theoretically safe to hold a sample which emits only alpha radiation? Why should you still never do so?
+Why might the UK government list 'living in Cornwall' as one of the most (radiologically) hazardous
+activities that the public can undertake?
+It is thought that some soil could be contaminated with a radioisotope. You have a sample of this soil.
+Describe an experiment to determine what types of radiation are emitted.
+Key definitions
+Background radiation is low levels of radiation from environmental sources, always present around us.
+Decay ('nuclear' or 'radioactive') is a process in which a nucleus's structure is changed, usually
+accompanied by the emission of a particle.
+Alpha particles are composed of two protons and two neutrons, the same as a helium nucleus.
+A beta particle is an electron emitted at high speed from the nucleus when a neutron decays into a proton.
+Gamma rays are high energy, high frequency, electromagnetic radiation, emitted from a nuclear
+radioactive decay.
+147
+Radioactivity
+10.1
+Stage 1: two protons fuse.
+Stage 2: one proton changes into
+a neutron, as in beta-plus decay.
+to leave a deuterium nucleus.
+w
+ww.
+Man-made fusion reactions
+Nuclear fusion as an energy source for us to generate electricity is
+currently only at a research stage. The Joint European Torus (JET)
+experiment in Oxfordshire is a research facility which investigated
+sustained nuclear fusion reactions. After 25 extremely expensive
+years of tests on confining and controlling burning plasmas',
+the main JET experiment was recently upgraded to provide
+demonstration and developmental support for the ITER project
+(International Thermonuclear Experimental Reactor), which is
+JET's successor. This is a truly international project, whereas JET
+was a European-funded experiment. The costs were becoming
+too much for the European Union to bear alone, and although
+the ITER will be sited in France, six other large nations (India,
+China, Russia, USA, Korea and Japan) will also contribute towards
+the 15 billion Euros construction cost. An estimated 10 years
+of construction began in 2010, and when ITER is complete, the
+aim is to generate temperatures of 150 million kelvin in a plasma
+volume of 840 cubic metres, nearly ten times larger than JET was.
+Stage 3: another proton joins on
+making a nucleus of He-3.
+Stage 4: two He-3 nuclei fuse.
+Stage 5: two protons break off
+leaving an He-4 nucleus.
+fig C The proton-proton nuclear fusion reaction, typical in small cool stars
+such as our Sun, where the core temperature is about 15 x 106K
+WORKED EXAMPLE
+Nuclear fission
+We have seen that nuclear fusion is not yet an option for electricity
+generation, as we have not been able to create the high densities
+and temperatures needed to sustain a fusion reaction. However,
+another process which releases binding energy from nuclei is
+called nuclear fission. In this process a large nucleus breaks
+up into two smaller nuclei, with the release of some neutrons
+and energy (fig D). Fission reactions can be triggered when the
+nucleus absorbs another particle making it unstable. Uranium-235
+can absorb slow-moving neutrons to become the unstable isotope
+U-236.
+U-235
+Kr-92
+The proton-proton chain nuclear fusion reaction effectively takes
+four protons and converts them into a helium-4 nucleus and two
+positrons (which have the same mass as electrons). Calculate the
+energy released in this reaction.
+The measured atomic mass of 'He is 4.002 602 u.
+Mass of 4 protons = 4 x 1.007 276u
+= 4.029 104
+Mass of 'He nucleus + 2 positrons
+= (4.002 602 - 2 0.000 548 58) u + (2 0.000 548 58)
+= 4.002 602 u
+Mass deficit = 4.029 1040 - 4.002 602 u
+= 0.0265 u
+= 24.7 MeV
+U-236
+fast
+neutrons
+slow neutron
+These reactions occurring in enormous numbers provide
+the energy which causes the Sun to emit heat and light in all
+directions in great quantities.
+Converting hydrogen into helium with the release of energy would
+appear to be a fantastic way of supplying the planet's energy needs.
+The seas are full of hydrogen in water molecules, and the helium
+produced would be an inert gas which could simply be allowed to
+float off into the upper atmosphere. However, scientists have not
+yet successfully maintained a controlled nuclear fusion reaction.
+The problem lies in forcing two positively charged, mutually
+repelling, protons to fuse together. The kinetic energy they need
+to have to collide forcefully enough to overcome this electrostatic
+repulsion requires temperatures of many million kelvin. Moreover,
+to ensure enough colliding protons for the reaction to be sustained
+requires a very high density of them. Comparing the energy output
+with nuclear fission below. 235 grammes of hydrogen undergoing
+nuclear fusion would produce an energy output of 1.40 x 1014 J.
+Ba-142
+fig D Nuclear fission of uranium-235.
+153
+10.
+13
+fig E A Fat Man plutonium fission bomb.
+Questions
+WORKED EXAMPLE
+Although there are a variety of possible products from nuclear
+fission reactions, the amount of energy released in each one is
+roughly similar at about 200 MeV.
+Calculate the energy released in the following fission reaction:
+235U + n 141Ba + 92 Kr + 3n + energy
+(Data: mass of U-235 = 235.0439 u; mass of Ba-141 = 140.9144 u;
+mass of Kr-92 = 91.9262 u.)
+Mass difference: Am
+= 235.0439 +1.008665 - 140.9144 - 91.9262 - 3(1.008665)
+= 0.1860 u
+Energy released: E = 0.1860 x 931.5
+= 173 Mev
+= 2.77 x 10-11]
+This is the energy per fission. If one mole of these were to occur,
+using 235 g of U-235, then the total energy produced would be:
+E = 6.02 x 1023 x 2.77 x 10-11
+= 1.67 x 1013]
+However, U-235 is a small proportion (0.7%) of all the uranium
+found, and thus a larger amount of uranium fuel would be needed in
+order to provide enough U-235 atoms to produce this much energy
+What are the changes in binding energy per nucleon in the
+above reaction?
+(Data: binding energy of U-235 = 1786 MeV; binding energy of
+Ba-141 = 1170 MeV; binding energy of Kr-92 = 782 MeV.)
+Find the binding energies per nucleon:
+11-235. 1700 - 76 Mev
+Use the data in table A to work out how much energy could be
+produced if a proton, neutron and electron were each completely
+converted into energy.
+The atomic mass unit used to be different between physics and
+chemistry until the system was unified in the 1960s. Previously, in
+Physics, it was based on the mass of an atom of oxygen-16, which is
+15.994 915 u (now). Using the modern values, calculate the binding
+energy of a nucleus of oxygen-16.
+Inside large mass stars, fusion of heavier elements than in the
+proton-proton cycle can occur. At about 10K, helium-4 nuclei will
+fuse into carbon-12 nuclei according to the equation:
+He2+ + He2+ + 'He2+ = 1206+
+(a) Calculate the energy released in this reaction.
+(b) How does the binding energy per nucleon change in the reaction?
+(c) What is the average kinetic energy and rms speed of the helium
+nuclei in the star?
+235
+Ba-141:
+141
+= 8.3 MeV
+707
+4
+Kr-92: 82 = 8.5 MeV
+So the two fission products each have a higher binding energy per
+nucleon than the original uranium nuclide.
+Complete the following nuclear fission reaction to determine X:
+235U + n - XRb + 139Cs + 2n + energy
+Calculate the amount of energy, in joules, generated from 2 kg of
+uranium fuel, if the U-235 represents 0.7% of the metal and every
+fission reaction produces 200 MeV.
+Did you know?
+6
+Calculate the energy released in one fission in the following reaction:
+235U + n-94Zr + 139 Te + 3n + energy
+(Data: mass of Zr-94 = 93.9063 u; mass of Te-139 = 138.9347 u.)
+Explain, in terms of binding energy per nucleon, why nuclear fusion
+and nuclear fission can release energy.
+Nuclear bombs
+The neutrons in controlled nuclear fission reactions are slowed to speeds
+needed to sustain fission using a moderator (see Section 10.1.4). However,
+some nuclear fission reactions, such as those using plutonium, will
+progress by reacting with high speed neutrons, meaning that a moderator
+is not required. If such a reaction were allowed to run uncontrolled, it
+would produce energy continuously, at an ever-increasing rate, until all
+the fuel were used up. This is the essential concept behind the design of
+nuclear bombs. A lump of plutonium-239 about the size of a cricket ball
+can completely react in less than a microsecond, releasing the energy
+equivalent of 20 kilotonnes of TNT, about 90 x 1012).
+This type of bomb was dropped on the city of Nagasaki in Japan during
+the Second World War (fig E). It killed 40 000 people immediately, and a
+similar number had died from after-effects by the end of 1945. The
+atomic bombings in Japan were so devastating that the country
+surrendered to the allies just six days after the Nagasaki bomb, and
+since the 1960s the Japanese government has resolved never to allow
+Japan to hold nuclear weapons.
+Kev definitions
+A mass deficit is the difference between the measured mass of a
+nucleus and the sum total of the masses of its constituent nucleons.
+Mass defect is an alternative phrase for 'mass deficit.
+Binding energy is the energy used to hold the nucleus together,
+converted from the mass deficit, following E = mc2.
+Fusion happens when small nuclides combine together to make
+larger nuclei, releasing energy.
+Fission happens when larger nuclei are broken up into smaller nuclides,
+releasing energy
+154
+101
+Rate of radioactive decay
+WORKED EXAMPLE
+By the end of this section, you should be able to...
+describe the spontaneous and random nature of radioactive
+decay
+determine half-lives of isotopes graphically
+If our sample of 100 billion carbon-14 atoms were left for 300
+years, how many carbon-14 atoms would remain?
+time, t = 300 x 365 x 24 x 60 x 60 = 9.46 x 10's
+N = N, et
+At = (3.84 x 10-12) (9.46 * 10) = 0.0363
+N = (100 x 109) e-0.0363
+N=9.64 x 1010 atoms
+use the equations for rate of radioactive decay, and their
+logarithmic equivalents
+Learning tin
+The exponential mathematics that govern radioactive decay is
+identical in structure to those for the discharge of capacitors, which
+we saw in Section 7.2.3.
+Half life
+Probability and decay
+Since radioactive decay is a spontaneous and random process, any
+radioactive nucleus may decay at any moment. For each second
+that it exists, there is a certain probability that the nucleus will decay.
+This probability is called the decay constant, A. However, just
+like guessing which number will come up next in a lottery, it is not
+possible to predict when any given nucleus will decay. The likelihood
+that a particular nucleus will decay is not affected by factors outside
+the nucleus, such as temperature or pressure, or by the behaviour of
+neighbouring nuclei - each nucleus decays entirely independently.
+If we have a large sample of the nuclei, the probability of decay will
+determine the fraction of these nuclei that will decay each second.
+Naturally, if the sample is larger, then the number that decay in a
+second will be greater. So the number decaying per second, called
+the activity, A (or ), is proportional to the number of nuclei in
+the sample, N. Mathematically, this is expressed as:
+A= -XN
+As we have seen, the activity of a radioactive sample decreases
+over time as the radioactive nuclei decay, leaving fewer radioactive
+nuclei available to decay. While the activity of a sample depends
+on the number of nuclei present, the rate at which the activity
+decreases depends only on the particular isotope. A measure of
+this rate of decrease of activity is the half-life, 1. This is the time
+taken for half of the atoms of that nuclide within a sample to
+decay.
+Mathematically, the half-life can be found by putting N= N, into
+the decay equation:
+N= No e-
+No
+N = -XN
+2 = N, e-
+dt
+The minus sign in this formula occurs because the number of
+nuclei in the sample, N, decreases with time. In practice we ignore
+the negative sign when using the formula.
+WORKED EXAMPLE
+The decay constant for carbon-14 is A = 3.84 x 10-12 5-1. What is
+the activity of a sample of 100 billion atoms of carbon-14?
+1 = e-
+In ()=-*
+-In 2 =-
+dN-AN
+= In 2
+Rearranging this also gives us:
+dN
+= -(3.84 x 10-12) (100 x 10) = 0.384 Bq
+1_ In 2
+WORKED EXAMPLE
+dy
+The formula for the rate of decay of nuclei in a sample is a
+differential equation. We have previously met this type of equation
+when studying the discharge of a capacitor. The equation
+= -XN can be solved to give a formula for the number of
+dt
+nuclei remaining in a sample, N, after a certain time, t.
+N = N, e-
+where N is the initial number of nuclei within a sample.
+What is the half-life of carbon-14?
+X = 3.84 x 10-125-1
+In 2
+?
+In 2
+143.84 x 10-12
+t1 = 1.81 x 1011s = 5720 years
+148
+10.
+13
+Nuclear binding energy
+The mass deficit comes about because a small amount of the
+mass of the nucleons is converted into the energy needed to
+hold the nucleus together. This is called binding energy. It is
+calculated using Einstein's mass-energy relationship:
+AE = Am
+WORKED EXAMPLE
+Does helium-4 or carbon-12 have the higher binding energy per
+nucleon?
+where c is the speed of light,
+There are two common systems of units for calculating binding
+energy. If you have calculated the mass deficit in kilograms
+(SI units) then using c = 3.00 x 108ms will give the binding
+energy in joules. Alternatively, if you have calculated the mass
+deficit in atomic mass units, then you convert this into binding
+energy in mega-electronvolts (MeV) using:
+lu=931.5 MeV
+WORKED EXAMPLE
+The binding energy of helium-4 is 28.3 MeV, and it contains
+4 nucleons:
+binding energy per nucleon = 2,3 = 7.08 Mev
+The binding energy for carbon-12 is 92.2 MeV, and it contains
+12 nucleons:
+binding energy per nucleon = 72 = 7.68 Mev
+So, carbon-12 nuclei are more tightly bound together than those
+of helium-4
+Drawing a graph of binding energy per nucleon against mass
+number for the nuclei gives us a useful means of comparing how
+tightly different nuclides are bound together.
+Fe
+Calculate the binding energy for a carbon-12 nucleus in both
+joules and electronvolts.
+Working in kilograms, from fig A:
+Am = 1.642354 x 10-28 kg
+AE = c-Am
+= (3 x 108)2 x (1.642 354 x 10-28)
+= 1.478 x 10-11)
+Converting to electronvolts:
+AF - 1.478 x 10-11
+1.6 x 10-19
+= 9.226 107eV
+= 92.3 Mev
+Binding energy per nucleon/MeV
+UTIIIIIIIIIIIIIIIIIIIIIII
+0
+50
+100
+150
+200
+Mass number/A
+fig B Graph of binding energy per nucleon against mass number, A.
+Alternatively, working in atomic mass units, from fig A:
+Am = 0.098 937 u
+AE = 931.5 x Am
+= 931.5 0.098 937
+= 922 MeV
+Note that in calculations of both mass deficit and binding energy,
+you need to use as many significant figures as possible, only
+rounding off at the very end of the calculation. The difference in
+our two answers here has come from rounding off the binding
+energy answer in joules.
+Looking at fig B, you will see that the isotope with the highest
+binding energy per nucleon is iron-56 at 8.8 MeV per nucleon.
+Any nuclear reaction which increases the binding energy per
+nucleon will give out energy.
+The graph shows us that small nuclides can combine together to
+make larger nuclei (up to Fe-56) with a greater binding energy per
+nucleon. This process is called nuclear fusion. Similarly, larger
+nuclei can break up into smaller pieces which have a greater
+binding energy per nucleon than the original nucleus. Reactions
+like this are called nuclear fission. Both of these types of nuclear
+reaction will give out energy, and could be used as power sources.
+Binding energy per nucleon
+How much energy would be needed to remove one nucleon from
+a nucleus? To work this out we need to know both the binding
+energy of a nucleus, and the number of nucleons within it. This
+gives us the binding energy per nucleon in a nucleus in MeV, and
+from this we can determine how strongly different nuclei are held
+together
+Nuclear fusion
+If we take some light nuclei and force them to join together, the
+mass of the new heavier nucleus will be less than the mass of
+the constituent parts, as some mass is converted into energy.
+However, not all of this energy is used as binding energy for the
+new larger nucleus, so energy will be released from this reaction.
+The binding energy per nucleon afterwards is higher than at the
+start. This is the process of nuclear fusion and is what provides the
+energy to make stars shine (fig C).
+152
+10.
+11
+Beta decay
+A beta particle is an electron emitted at high speed from the nucleus when a neutron decays into a
+proton. With its single negative charge and much smaller size, the beta particle is much less ionising
+than an alpha particle, and thus can penetrate much further. Several metres of air, or a thin sheet of
+aluminium, are needed to absorb beta particles.
+Example beta decay equation:
+1C — "N+-18 +
+A neutron changes into
+a proton and an electron,
++
++
++
+beta
+particle
+unstable carbon-14
+nucleus
+fig D Beta-minus particle emission.
+nitrogen
+nucleus
+Gamma decay
+Gamma rays are high energy, high frequency, electromagnetic radiation. These photons have no
+charge and no mass and so will rarely interact with particles in their path, which means they are the
+least ionising nuclear radiation. They are never completely absorbed, although their energy can be
+significantly reduced by several centimetres of lead or several metres of concrete. If the energy is
+reduced to a safe level, gamma rays are often said to have been absorbed.
+Example gamma decay equation:
+Ni-m Ni +
+gamma ray
+fig E Gamma ray emission. The image shows only the gamma emission from an excited nickel nucleus, Ni-ma moment
+after a beta particle was emitted from a cobalt-60 nucleus.
+Gamma ray emission does not alter the structure of a nucleus emitting it but carries away energy, so
+the nucleus must drop energy level in order to emit the gamma ray. This most commonly happens
+immediately after alpha or beta decay, which leaves the nucleus in an excited state. The emission of
+the gamma ray photon and associated de-excitation of the nucleus is exactly the same as we saw
+in Book 1, Section 5.4.4 for the production of visible light, but involving nuclear energy states not
+electrons. The difference is that the amount of energy involved is many times higher, so this produces
+much higher frequency gamma radiation.
+146
+Radioactivity
+10.1
+The three main types of nuclear radiation are called alpha (a),
+beta () and gamma (7) radiation. Each one comes about
+through a different process within the nucleus, each one is
+composed of different particles, and each one has different
+properties.
+The actual exposure to nuclear radiations that any individual will
+receive from their environment will depend on where they are and
+for how long, as different environmental factors contribute to the
+local level of background radiation. On Earth, approximately half
+of the background radiation is from naturally radioactive gases
+in the atmosphere, particularly radon. Radon is produced in the
+decay of uranium ore present in certain rocks (especially granite)
+and thus is more prevalent in certain parts of the world than
+others. In Cornwall in the UK, some houses are fitted with radon
+detectors and special ventilation systems to flush out excess radon
+gas from the household atmosphere.
+Investigation
+WP
+Investigating radiation penetration
+You can investigate the penetrating power of alpha, beta and gamma
+radiation using a Geiger-Müller tube to detect them. Between the
+source and the G-M tube, place absorber sheets that progressively
+increase in density, and measure the average count rate. This
+investigation is often simulated using computer software. This
+removes all risk of exposure to radiological hazards (see below).
+Did you know?
+The most naturally radioactive place on Earth is Ramsar, in Iran,
+where the dosage can be more than 200 times the natural dose rate
+in the UK
+datalogging computer
+recording counts
+absorbing
+material
+G-M tube
+radioactive
+Source
+TAP
+568
+Investigation
+Investigating background radiation
+It is easy to determine the average background radiation in your area
+using a Geiger-Müller tube and counter. As radioactive decay is a
+random and spontaneous process, the activity in your lab must be
+measured over a long period of time (30 minutes or more) and then an
+average calculated. Otherwise, you may find that the measurement is,
+by chance, particularly high or particularly low and thus does not truly
+indicate the average over time. For example, if the G-M tube and
+counter are set to counting for two hours, and the final count is then
+divided by 7200 (seconds), this will give a good approximation to the
+average over time as the count time is long compared with the average
+count of about 0.5 Bq. Measurements of radioactivity that have had the
+background radiation deducted, so that they only represent activity by a
+radioactive source under test, are known as corrected counts.
+paper lead aluminium
+holder for
+absorbing material
+fig B Investigating nuclear radiations.
+WORKED EXAMPLE
+In a school experiment, Ricardo measured the background
+radiation using a G-M tube and counter for half an hour. The final
+reading was 747 counts. What is the average background radiation?
+time = 30 x 60 = 1800 S
+activity = 1900 = 0.415 Bq
+The background count will skew the results of investigations into
+nuclear radiations. Whenever such an investigation is undertaken,
+the background radiation must also be measured separately and
+then deducted from each count measured in the main part of the
+investigation.
+Alpha decay
+Alpha particles are composed of two protons and two neutrons,
+the same as a helium nucleus. This is a relatively large particle with
+a significant positive charge (+2e), so it is highly ionising. An alpha
+particle moving through air typically causes 10 000 ionisations per
+millimetre. As it ionises so much, it quickly loses its kinetic energy
+and is easily absorbed. A few centimetres travel in air is enough to
+absorb an alpha particle, and they are also blocked by paper or skin.
+Example alpha decay equation:
+29] Am233Np + a
+747
+neptunium-237 nucleus
+Types of nuclear radiation
+Many nuclei are slightly unstable and there is a slight probability
+that, each second, they may decay. This means that a nucleon
+may change from one type to another, or the composition or
+energy state of the nucleus as a whole may change. When a
+nuclear decay occurs, the radiation particle emitted will leave
+the nucleus carrying a certain amount of kinetic energy. As the
+particle travels, it will ionise particles in its path, losing a small
+amount of that kinetic energy at each ionisation. When all the
+kinetic energy is transferred, the radiation particle stops and is
+absorbed by the substance it is in at that moment.
+alpha
+particle
+fig C Alpha particle emission.
+145
+Fission and fusion
+By the end of this section, you should be able to...
+define the concepts of nuclear binding energy and binding energy per nucleon
+make calculations of nuclear mass, mass deficit and binding energy, including use of the atomic
+mass unit
+describe the processes of nuclear fission and nuclear fusion, including the conditions needed to
+maintain nuclear fusion
+Energy-mass equivalence
+We have previously seen that a nucleon has a mass which is approximately equal to 1 unified atomic
+mass unit, u (= 1.67 x 10-27 kg). The exact masses of a proton, a neutron and an electron are given
+in table A.
+Particle
+proton
+neutron
+Mass/atomic mass units/u
+1.007 276
+1.008 665
+0.00054858
+Mass/SI units/kg
+1.672 623 x 10-27
+1.674929 x 10-27
+9.109 390 x 10-31
+electron
+table A Masses of sub-atomic particles.
+We might expect that if we know the constituent parts of any nucleus, we can calculate its mass by
+finding the total mass of its nucleons. However, in practice we find that the actual, measured mass of
+a nucleus is always less than the total mass of its constituent nucleons. This difference is called the
+mass deficit, or sometimes the mass defect.
+WORKED EXAMPLE
+00000
+total mass of 6 neutrons
+= 6 x 1.008665
+= 6.05199u
+OOOOOO
+measured mass of C-12 atom = 12.000000 u
+mass of C-12 nucleus is atomic mass minus
+electron mass
+= 12.000 000 - (6 X 0.000548 58)
+= 11.996 709 u
+total mass of 6 protons
+= 6 x 1.007 276
+= 6.043 656 u
+total mass of nucleons in C-12 nucleus
+= 6.05199 + 6.043656
+= 12.095646u
+mass deficit for carbon-12:
+Am = 12.095 646 – 11.996 709 = 0.098937u
+Am = 0.098937 X 1.66 X 10-27 = 1.642354 x 10-24 kg
+fig A How to calculate the mass deficit for carbon-12.
+151

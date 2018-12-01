@@ -1,0 +1,1453 @@
+25
+25.4 Directing groups
+Making TNT
+An application of directing groups can be seen in the reaction of methylbenzene
+(toluene) with an excess of concentrated nitric and sulfuric acid.
+At 50 °C, toluene (methylbenzene) forms a monosubstituted product,
+2-nitrotoluene (Step 1 in Figure 6).
+The product of this reaction is less reactive than toluene because the
+-NO, group deactivates the benzene ring. However if the temperature
+of the reaction mixture is increased to 70°C a disubstituted product,
+2,4-dinitrotoluene is formed (Step 2 in Figure 6).
+A Figure 5 TNT is best known now as
+an explosive, but it was originally used
+as a yellow dye. TNT only found use as
+an explosive at the beginning of the
+twentieth century, when it was used in
+armour-piercing artillery shells
+The second-NO, group deactivates the benzene ring further. Further
+reaction will produce 2,4,6-trinitrotoluene - TNT (Step 3 in Figure 6).
+However, this requires extreme conditions - a good job really as any
+accidental over-heating could result in an explosion.
+CH
+CH3
+CH2
+NOZ
+I
+NO2
+H2SO4/ HNO3
+50°C
+H2SO4 / HNO3
+70°C
+extreme
+conditions
+NO2
+Step 3
+NO2
+Step 1
+Step 2
+A Figure 6 The preparation of trinitrotoluene from benzene
+1 Write an equation for Step 2 in this synthesis.
+2 Show the mechanism for the first step in this reaction. You do not
+need to show how the electrophile is prepared.
+Summary questions
+1 Identify each of the following compounds as containing 2-, 4.,
+or 3-directing groups.
+a CH CH.CH
+(1 mark)
+b CH CI
+(1 mark)
+C C.H.COOH
+(1 mark)
+d CGH N(CH2)2
+(1 mark)
+2 Identify and draw the structures of the product(s) of the following
+reactions.
+a CH Br + HNOZ
+(1 mark)
+b CH.NO,+Br + FeBry
+(1 mark)
+c CH COOCH,CH, + CH CI + AICI,
+(1 mark)
+3 Starting from benzene, suggest a two-step synthesis of:
+a 3-nitromethylbenzene
+b 2-nitromethylbenzene.
+(2 marks)
+(2 marks)
+450
+25
+AROMATIC COMPOUNDS
+Using directing effects in organic synthesis
+The directing effect of substituent groups can be used when planning
+an organic synthesis. When carrying out more than one electrophilic
+substitution reaction on an aromatic compound, you may have to
+consider the order in which the reactions are carried out to ensure the
+correct substitution pattern and that the required product is prepared.
+6 Worked example: Planning an organic synthesis
+Suggest a series of reactions that
+could be used to carry out the
+following synthesis. You should be
+able to carry out the reaction in
+two steps.
+Step 1: Identify the type of
+disubstitution.
+NO2
+The required product is a 1,4-disubstituted product.
+Therefore the first substituent added must direct to the 4 position.
+Step 2: Identify the directing effect of the two substituents.
+NO
+2-directing
+• NO, directs the
+second substituent
+to carbon 3.
+Cl directs the
+second substituent
+to carbons 2 and 4.
+3-directing
+4-directing
+Therefore Cl must be
+substituted first to give
+the correct direction
+for the second NO, substituent.
+Step 3: Write out the two steps with the reagents needed for the
+synthesis.
+0=0=00
+CL/AICI:
+Step 1
+HNO3/H2SO4
+Step 2
+NO2
+Synoptic link
+Step 4: Is there is a mixture of organic products to separate?
+For details of distillation, see
+Topic 16.1, Practical techniques in
+organic chemistry.
+As Cl directs to positions 2 and 4, a mixture of the required
+4- substituted product and the 2- substituted product would be
+obtained. These could be separated by distillation if they are liquids,
+or other methods including recrystallisation, if they are solids.
+For recrystallisation, see Topic 28.2,
+Further practical techniques.
+449
+AROMATIC COMPOUNDS
+25
+When monosubstituted aromatic compounds
+undergo further substitution, the position at
+which the new substituent attaches to the
+ring is directed by the original substituent.
+Use the table below to answer the questions
+which follow:
+Original substituent
+Position to which new
+substituent is directed
+9 Methylbenzene, CH.CH,, is an aromatic
+hydrocarbon, used widely as a solvent. It is
+readily nitrated and can form mono-, di-, or
+tri-nitromethylbenzenes.
+a 4-Nitromethylbenzene can be formed by
+the nitration of methylbenzene.
+Outline the mechanism for the
+formation of 4-nitromethylbenzene
+from methylbenzene using NO, as the
+electrophile.
+(4 marks)
+b There are six possible structural
+isomers of CH CH (NO2), that are
+dinitromethylbenzenes. Four of the
+isomers are shown below.
+2,4
+-COOH
+-CH, (or any alkyl group)
+-NO
+-C1
+-COCH,
+2,4
+3
+CH3
+CH
+NO ON
+NO2
+NO2
+CH3
+NO2
+ON
+V
+NO2
+a (i) Draw the structure of the major
+monosubstituted product formed
+when phenylethanone, C H COCH,
+reacts with chlorine in the presence
+of AICI
+(1 mark)
+(ii) Show the mechanism for this
+reaction using curly arrows and
+illustrating the role of AICI, in the
+reaction.
+(6 marks)
+b Identify the two monosubstituted isomers
+formed when methylbenzene reacts with
+chloroethane in the presence of AICI,
+(2 marks)
+Phenol is much more susceptible to
+electrophilic attack than benzene.
+a Explain why phenol reacts more readily
+with benzene with electrophiles. (3 marks)
+Phenol reacts with dilute nitric acid to
+form a mixture of two monosubstituted
+isomers.
+Draw the structures of these two isomers
+and write an equation for the formation
+of one of these isomers.
+(3 marks)
+NO2
+8
+Draw the structures of the other two
+isomers.
+(2 marks)
+OCR F324 Jan 2011 QI
+b
+453
+25
+AROMATIC COMPOUNDS
+In bromination, one of the hydrogen atoms on the benzene ring is
+replaced by a bromine atom.
+FeBrz or AlBrz
++
+Br2
++
+HBr
+benzene
+bromobenzene
+Figure 6 The equation for the preparation of bromobenzene
+The reaction mechanism is electrophilic substitution as shown in
+Figure 7.
+Benzene is too stable to react with a non-polar bromine molecule. The
+electrophile is the bromonium ion, Brt, which is generated when the
+halogen carrier catalyst (FeBr, in this example) reacts with bromine in
+the first stage of the mechanism (Step 1).
+In Step 2, the bromonium ion accepts a pair of electrons from
+the benzene ring to form a dative covalent bond. The organic
+intermediate is unstable and breaks down to form the organic product,
+bromobenzene, and an H+ ion.
+Finally, the H+ formed in Step 2 reacts with the FeBr -ion from Step 1
+to regenerate the FeBr, catalyst (Step 3).
+Step 1: Br, + FeBr FeBrA + Brt
+bromonium ion
+Step 2:
+Br
+Study tip
+0-0-0
+You may be asked to show the role
+of the halogen carrier or how the
+electrophile is generated.
++
+H+
+You must include Step 1 and Step 3
+in your response.
+intermediate
+Step 3: H+ + FeBra —FeBrı + HBr
+A Figure 7 The mechanism for the bromination of benzene
+Chlorination of benzene
+Chlorine will react with benzene in the same way as bromine and
+following the same mechanism. The halogen carrier used is FeCl,,
+AlClz, or iron metal and chlorine, which react to make FeCl2. The
+equation for the reaction is shown in Figure 8.
+FeCl3 or AICI:
++
+Cl2
++
+HCI
+benzene
+chlorobenzene
+Figure 8 Equation for the chlorination of benzene
+439
+AROMATIC COMPOUNDS
+25
+Practice questions
+1 Salicylic acid is a naturally occurring carboxylic
+acid, widely used in organic synthesis.
+OH
+a In the first stage of the synthesis of a
+dye, methyl 3-nitrobenzoate is formed.
+In this stage, methyl benzoate is nitrated
+by concentrated nitric acid, in the
+presence of concentrated sulfuric acid as
+a catalyst.
+COOCH3
+COOCH3
+COOH
+a
++ HNO3
++
+H20
+The flowchart below shows some
+reactions of salicylic acid.
+(i) In the box below, draw the structure
+of the organic compound formed by
+reaction 1.
+(1 mark)
+OH
+Excess
+NaOH(aq)
+reaction 1
+NO2
+methyl 3-nitrobenzoate
+methyl benzoate
+COOH
+salicylic acid
+Br2
+OH
+reaction 2
+reaction 3
+OH
+Br
+COOH
+CH(CH3)2
+(i) Outline the mechanism for this
+nitration of methyl benzoate. Show
+how H,SO, behaves as a catalyst.
+(5 marks)
+(ii) State the name for this type of
+mechanism.
+(1 mark)
+OCR F324 Jan 2013 Q2(a)
+3 Benzaldehyde, CH CHO, is the simplest
+aromatic aldehyde and has a characteristic
+smell of almonds.
+Benzaldehyde can be nitrated with a mixture
+of concentrated nitric acid and concentrated
+sulfuric acid to form 3-nitrobenzaldehyde.
+Explain, with the aid of curly arrows,
+the mechanism for the formation of
+3-nitrobenzaldehyde. Your answer
+should clearly show the role of sulfuric
+acid as a catalyst.
+(6 marks)
+OCR F324 Jun 2012 Q4 (a)
+4 Benzene and other arenes can be
+chlorinated to produce chloroarenes which
+are used in the manufacture of pesticides,
+drugs and dyes.
+a In 1865, Kekulé proposed a model for the
+structure and bonding of benzene, but
+there is considerable evidence to suggest
+that Kekulé's model may not be correct.
+Scientists have proposed alternative
+models for the structure and bonding of
+benzene. Explain the evidence that led
+scientists to doubt the model proposed by
+Kekulé.
+(3 marks)
+(ii) Write a chemical equation to
+represent reaction 2. (1 mark)
+(iii) State the reagents and conditions in
+reaction 3.
+(1 mark)
+Bromine reacts more readily with salicylic
+acid than with benzene.
+(i) Outline the mechanism for the
+bromination of salicylic acid shown
+in reaction 2 in the flowchart. A
+halogen carrier is not required for
+this reaction. The electrophile is Bry.
+(4 marks)
+(ii) Explain why bromine reacts more
+readily with salicylic acid than with
+benzene.
+In your answer, you should use
+appropriate technical terms, spelled
+correctly.
+(3 marks)
+OCR F324 June 2014 Q1 (a) (b)
+b
+451
+25
+Chapter 25 Practice questions
+08-
+O=
+S=
+0
+07
+O step 1
+step 2
+intermediate
+b Chlorobenzene, CH CI, is formed by the
+reaction of benzene and chlorine in the
+presence of a suitable catalyst, such as
+AICI
+CH. + Cl2 → CH2Cl + HCI
+Outline the mechanism for the formation
+of chlorobenzene from benzene. Show
+how AlCl, behaves as a catalyst. (6 marks)
+Chlorobenzene reacts with
+trichloroethanal, CI,CCHO, to produce
+the pesticide DDT.
++
+H+
+b
+(4 marks)
+The painkiller paracetamol has the
+structure shown below
+H3C-CN-
+OH
+DDT
+6
+Construct an equation for the reaction of
+chlorobenzene with trichloroethanal to
+form DDT.
+(2 marks)
+Chlorobenzene can be nitrated to form a
+mixture of products.
+Suggest why the reaction forms a mixture
+of products.
+(1 mark)
+Explain why phenol reacts more readily
+with chlorine than benzene reacts with
+chlorine.
+In your answer, you should use appropriate
+technical terms, spelled correctly. (3 marks)
+OCR F324 Jan 2010 Q1 and OCR F324 Jun 2011 QI
+a Benzene can be converted into
+benzenesulfonic acid, CH SO,H,
+which is used in the manufacture
+of many detergents. The reaction
+between benzene and sulfuric acid is
+an electrophilic substitution reaction.
+Sulfur trioxide, SO,, is the electrophile.
+Part of the mechanism for this reaction is
+shown below.
+Complete the mechanism by drawing the
+intermediate and by adding curly arrows
+to show the movement of electron pairs
+in steps 1 and 2.
+Separate samples of paracetamol are
+reacted with bromine, Bry, and with cold
+sodium hydroxide, NaOH.
+Draw the structures of possible organic
+products formed in each reaction.
+(2 marks)
+OCR F324 Jan 2012 Q2 (b) (c)
+The mass spectrum of an aromatic hydrocarbon
+is found to have a molecular ion peak at m/z
+value of 106. Elemental analysis showed that
+the compound had the following composition
+by mass, C, 90.56% and H, 9.44%.
+a Use the data to find the molecular
+formula of the aromatic compound.
+(2 marks)
+b A student realised that the calculated
+molecular formula could have a number
+of different structural isomers.
+Draw all the possible structural isomers
+that contain a benzene ring. (4 marks)
+In the presence of concentrated nitric acid
+and concentrated sulfuric acid, one of
+the isomers, A, reacts to give one mono-
+nitrated compound, B.
+Identify A and B.
+(2 marks)
+5
+452
+25
+25.2 Electrophilic substitution reactions of benzene
+Synoptic link
+Alkylation can be used to add
+a carbon chain to the benzene
+ring. This increases the number
+of carbon atoms in the structure.
+You will learn other methods of
+increasing the length of a carbon
+chain in Topic 28.1, Carbon-carbon
+bond formation.
+Alkylation reactions
+The alkylation of benzene is the substitution of a hydrogen atom in
+the benzene ring by an alkyl group. The reaction is carried out by
+reacting benzene with a haloalkane in the presence of AICI,, which
+acts as a halogen carrier catalyst, generating the electrophile.
+Alkylation increases the number of carbon atoms in a compound by
+forming carbon-carbon bonds.
+The reaction is sometimes called a Friedel-Crafts alkylation after the
+two chemists who first carried out the reaction. An example of a
+Friedel-Crafts alkylation is shown in Figure 9.
+C2H5
+AICI 3
++
+C2H5C1
++
+HCI
+benzene
+ethylbenzene
+A Figure 9 Equation for the alkylation of benzene
+Study tip
+You need to be able to interpret
+unfamiliar electrophilic substitution
+reactions for aromatic compounds
+or to work out an unfamiliar
+mechanism from given information.
+Acylation reactions
+When benzene reacts with an acyl chloride in the presence of an AICI,
+catalyst, an aromatic ketone is formed. This is called an acylation reaction
+and is another example of electrophilic substitution. The reaction forms
+carbon-carbon bonds and is again useful in organic synthesis.
+Synoptic link
+Ethanoyl chloride, CH, COCI, is the first member of the acyl chloride
+homologous series. Phenylethanone in produced in the reaction
+between benzene and ethanoyl chloride (Figure 10) and is used in the
+perfume industry (Figure 11).
+Acyl chlorides are discussed
+in more detail in Topic 25.4,
+Carboxylic acid derivatives.
+CH3
+AICI:
++
+H
++
+HCI
+benzene
+ethanoyl chloride
+phenylethanone
+A Figure 10 The reaction between ethanoyl chloride and benzene,
+forming phenylethanone
+A Figure 11 Phenylethanone is an
+ingredient in fragrances that resemble
+almond, cherry, honeysuckle, jasmine,
+and strawberry
+Comparing the reactivity of alkenes with arenes
+Alkenes decolourise bromine by an electrophilic addition reaction.
+One example of this reaction is the reaction between cyclohexene and
+bromine (Figure 12).
+Br
++
+Bra
+Br
+cyclohexene
+1,2-dibromocyclohexane
+A Figure 12 The reaction between cyclohexene and bromine
+440
+AROMATIC COMPOUNDS
+25
+parent chain. Alkyl groups (CH,, C,Hz), halogens (F, CI, Br, I), and nitro
+(NO,) groups are all considered the prefixes to benzene (Figure 7).
+C2H5
+NO2
+ooo
+Synoptic link
+Revisit Topic 11.2, Nomenclature
+of organic compounds, if you need
+to revise the basics of naming
+aliphatic compounds.
+ethylbenzene chlorobenzene nitrobenzene
+A Figure 7 The structures of ethylbenzene, chlorobenzene, and nitrobenzene
+When a benzene ring is attached to an alkyl chain with a functional
+group or to an alkyl chain with seven or more carbon atoms, benzene
+is considered to be a substituent. Instead of benzene, the prefix
+phenyl is used in the name (Figure 8).
+NNNN
+-C- CH3
+-CH2CH2CH2CH2CH2CH3
+phenylethanone
+2-phenyloctane
+COOH
+Figure 8 Examples of structures where the benzene ring is a substituent group
+As with all systems, there are some noticeable exceptions and
+unfortunately some names just have to be learnt and remembered.
+Benzoic acid (benzenecarboxylic acid), phenylamine, and benzaldehyde
+(benzenecarbaldehyde) are three common compounds you will
+encounter when studying aromatic chemistry (Figure 9).
+benzoic acid
+NH2
+Compounds with more than one substituent group
+Some molecules may contain more than one substituent on the
+benzene ring, for example, disubstituted compounds have two
+substituents groups. The ring is now numbered, just like a carbon chain,
+starting with one of the substituent groups. The substituent groups are
+listed in alphabetical order using the smallest numbers possible.
+phenylamine
+CHO
+CH3
+O Worked example: Naming aromatic compounds
+Name each of the following aromatic compounds.
+Example 1
+Step 1: The molecule is based
+on the methylbenzene
+with a bromine substituent.
+Step 2: When naming compounds,
+you always use the lowest
+combination of numbers
+possible. Therefore,
+bromine is on carbon-2 Figure 10 2-bromomethylbenzene
+Step 3: The compound is named 2-bromomethylbenzene.
+2B
+benzaldehyde
+A Figure 9 The structures of benzoic
+acid, phenylamine, and benzaldehyde –
+all derivatives of benzene
+435
+25
+AROMATIC COMPOUNDS
+In this reaction bromine adds across the double bond in cyclohexene.
+Synoptic link
+The mechanism of electrophilic
+addition is covered in detail in
+Topic 13.4, Electrophilic addition of
+alkenes.
+1 The T-bond in the alkene contains localised electrons above and
+below the plane of the two carbon atoms in the double bond. This
+produces an area of high electron density.
+The localised electrons in the -bond induce a dipole in the
+non-polar bromine molecule making one bromine atom of the
+Br, molecule slightly positive and the other bromine atom slightly
+negative.
+3 The slightly positive bromine atom enables the bromine molecule
+to act like an electrophile.
+The mechanism for this reaction is electrophilic addition (Figure 13).
+Br
+Br
+Br
+intermediate carbocation
+1,2-dibromocyclohexane
+A Figure 13 The mechanism for the reaction between cyclohexene and bromine
+Unlike alkenes, benzene does not react with bromine unless a halogen
+carrier catalyst is present. This is because benzene has delocalised
+Study tip
+T-electrons spread above and below the plane of the carbon atoms in Alkenes react with bromine by
+the ring structure. The electron density around any two carbon atoms in electrophilic addition.
+the benzene ring is less than that in a C=C double bond in an alkene.
+Benzene reacts with bromine by
+When a non-polar molecule such as bromine approaches the benzene electrophilic substitution.
+ring there is insufficient t-electron density around any two carbon atoms
+to polarise the bromine molecule. This prevents any reaction taking place.
+Make sure that you know the
+difference and learn the two
+The mechanism for the reaction of bromine with benzene in the
+mechanisms.
+presence of a halogen carrier is electrophilic substitution, as described
+in detail earlier in this topic.
+Summary questions
+1 Benzene reacts by electrophilic substitution.
+Define the terms:
+a electrophile
+(1 mark)
+b substitution
+(1 mark)
+2 Benzene reacts with chlorine by an electrophilic
+substitution mechanism. Outline this mechanism
+including how the electrophile is generated.
+(4 marks)
+4 a Deduce the structure of the organic product
+expected from the reaction of each of the
+following compounds with benzene in the
+presence of AICI
+i (CH,), CHCOCI
+ii C.H.COCI
+(2 marks)
+b Use curly arrows to show the mechanism
+for the reaction between (CH), CHCOCI and
+benzene, clearly showing the role of the
+catalyst in the reaction
+(4 marks)
+3 Benzene reacts with 2-chloropropane, in the
+presence of an Aici, catalyst, by electrophilic
+substitution. Construct the equation for this
+reaction.
+(2 marks)
+441
+25.3 The chemistry of phenol
+Specification reference: 6.1.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the acidity of phenol
+→ electrophilic substitution
+reactions of phenol.
+Phenols and phenol
+Phenols are a type of organic chemical containing a hydroxyl, -OH,
+functional group directly bonded to an aromatic ring. The simplest
+member of the phenols, C,H,OH, has the same name as the group -
+phenol. In this topic you will study some of the reactions of phenol
+but any compound that contains an -OH group attached directly to the
+benzene ring will react in a similar way.
+OH
+Some compounds, such as C,HCH,OH, contain an -OH group
+bonded to a carbon side chain, rather than the aromatic ring. These
+compounds are classified as alcohols rather than phenols.
+TCP
+LIQUID
+Although alcohols and phenols have some common reactions,
+many reactions are different as the proximity of the delocalised
+ring influences the -OH group. It is important that you are able to
+recognise the difference between phenols and alcohols. Figure 2 shows
+three phenols and an aromatic alcohol.
+OH
+OH
+OH
+OH
+CH2CH2OH
+COOH
+Detta
+0
+0
+0
+CH3
+HEC
+A Figure 1 Phenols are used in many
+everyday antiseptics. In the phenol
+groups of each structure, the -OH group
+is attached directly to the benzene ring
+phenol 2-hydroxybenzoic acid 2-nitrophenol 2-phenylethanol
+Figure 2 The first three compounds all show the characteristic reactions of phenol,
+whereas the fourth compound, 2-phenylethanol, is an aromatic alcohol. The aromatic
+alcohol will react similarly to alcohols, rather than phenols
+The manufacture of phenol
+Phenol is an important chemical used in the production of disinfectants,
+detergents, plastics, paints, and even aspirin.
+Original manufacture of phenol
+Phenol used to be made from benzene, CH , using sulfuric acid and sodium
+hydroxide in a multi-stage process. The overall reaction is shown below.
+C6H6 + H2SO4 + 2NaOH → C,H,OH + Na, 50, +2H,0
+Current manufacture of phenol
+Nowadays, the majority of phenol is manufactured from benzene and
+propene, C, H, in a multistep reaction. The overall reaction is shown below.
+CH6+ C3H6 +0% C&H OH + CH,COCH,
+This reaction has an 86% yield of phenol from benzene. The other product is
+propanone, CH COCH, (also called acetone). Ar
+H, (also called acetone). Although propanone is a useful
+product, it is in less demand than phenol, and companies can find it difficult
+to make use of all the propanone produced.
+A Figure 3 Surgery in the nineteenth
+century used an antiseptic spray of
+phenol solution (seen here on the stool).
+Phenol harms the skin and has now
+been replaced by better antiseptics, but
+TCP (2,4,6-trichlorophenol), a related
+compound, is still used as an antiseptic
+in the home
+442
+25
+25.1 Introducing benzene
+Example 2
+Step 1: Benzene is the parent
+molecule.
+Step 2: The molecule contains two
+chlorine substituents:
+one on carbon-1 and
+one on carbon-4.
+Step 3: The compound is called
+1,4-dichlorobenzene.
+A Figure 11 1,4-dichlorobenzene
+Cl2
+CH3
+Example 3
+Step 1: The molecule is based on
+methylbenzene with a
+chlorine substituent on
+carbon-3.
+Step 2: The compound is called
+3-chloromethylbenzene.
+Figure 12 3-chloromethylbenzene
+Summary questions
+1 State the empirical formula of benzene.
+(1 mark)
+2 Explain how X-ray diffraction helped scientists to develop the
+delocalised model of benzene.
+(3 marks)
+3 Explain why the delocalised model of benzene accounts for the
+observed stability of benzene better than the Kekulé model. (3 marks)
+4 Draw the structures for the following aromatic compounds.
+a 1,2,4-tribromobenzene
+(1 mark)
+b 1,3-dinitrobenzene
+(1 mark)
+C 2,4,6-trichloromethylbenzene
+(1 mark)
+d phenylpropanone
+(1 mark)
+e 2,3-dichlorobenzoic acid.
+(1 mark)
+5 Name the following molecules.
+CH3
+COOH
+CH 3
+(1 mark)
+b
+NH2
+(1 mark)
+Br
+(1 mark)
+436
+25
+25.3 The chemistry of phenol
+Electrophilic substitution reactions of phenol
+Phenols are aromatic compounds and they undergo electrophilic
+substitution reactions. The reactions of phenol take place under milder
+conditions and more readily than the reactions of benzene.
+Bromination of phenol
+Phenol reacts with an aqueous solution of bromine (bromine water) to
+form a white precipitate of 2,4,6-tribromophenol (Figure 5 and Figure 6)
+The reaction decolourises the bromine water (orange to colourless). With
+phenol, a halogen carrier catalyst is not required and the reaction is carried
+out at room temperature.
+OH
+OH
+Bromine water
++
+3Br2
++
+3HBr
+Figure 5 When bromine water
+(orange) is reacted with phenol the
+bromine water is decolourised and a
+white precipitate is formed
+Figure 6 Phenol reacts with aqueous bromine to form 2,4,6-tribromophenol
+Study tip
+Nitration of phenol
+Phenol reacts readily with dilute nitric acid at room temperature. A
+mixture of 2-nitrophenol and 4-nitrophenol is formed (Figure 7).
+Addition of bromine water to phenol
+results in two observations -
+bromine decolourises and a white
+precipitate is formed.
+OH
+2-nitrophenol
+NO2
+You should always give both
+observations.
++
+H20
+OH
++ HNO3
+OH
+Study tip
+The conditions for nitrating phenol
+are much milder than when
+nitrating benzene. Concentrated
+sulfuric acid is not required.
+O
++ H2O
++
+H2O
+4-nitrophenol
+NO
+A Figure 7 The nitration of phenol produces a mixture of two isomers, 2-nitrophenol
+and 4-nitrophenol
+Synoptic link
+See also the comparison in
+reactivity of bromine with benzene
+and alkenes in Topic 25.2,
+Electrophilic substitution reactions
+of benzene.
+Comparing the reactivity of phenol and benzene
+Bromine and nitric acid react more readily with phenol than they do
+with benzene. Phenol is nitrated with dilute nitric acid rather than
+needing concentrated nitric and sulfuric acids as with benzene.
+The increased reactivity is caused by a lone pair of electrons from the
+oxygen p-orbital of the -OH group being donated into the t-system
+444
+25
+25.2 Electrophilic substitution reactions of benzene
++
+2HNO3
+H2SO4
+70°C
++
+2H20
+NO
+benzene
+1,3-dinitrobenzene
+A Figure 3 Benzene can react with excess nitric acid above 50 °C to form
+1,3-dinitrobenzene
+Paracetamol
+Tablets
+500
+Nitrobenzene is an important starting material in the preparation
+of dyes, pharmaceuticals, and pesticides. It can be used as a starting
+material in the preparation of paracetamol (Figure 4).
+The reaction mechanism for the nitration of benzene, electrophilic
+substitution, is shown in Figure 5.
+The reaction involves an electrophile. However, nitric acid is not
+the electrophile involved in the mechanism. The electrophile in this
+reaction is the nitronium ion, NO,, produced by the reaction of
+concentrated nitric acid with concentrated sulfuric acid (Step 1).
+In the next step (Step 2) the electrophile, NO,, accepts a pair of
+electrons from the benzene ring to form a dative covalent bond. The
+organic intermediate formed is unstable and breaks down to form the
+organic product, nitrobenzene, and the H+ ion. A stable benzene ring
+is reformed.
+HO
+Figure 4 Paracetamol is a common
+painkiller used to alleviate headache
+and symptoms of fever. Paracetamol can
+be synthesised from nitrobenzene
+Finally, the H+ ion formed in Step 2 reacts with the HSO, ion from
+Step 1 to regenerate the catalyst, H,SO, (Step 3).
+Step 1: HNO3 + H2SO, NO,+ + HS0,- + H2O
+nitronium ion
+Step 2:
+Study tip
+When drawing a mechanism you
+must ensure that your arrows start
+and end at the correct place.
+NO2
+NO2+
+H
+NOZ
++
+H+
+In Figure 5, Step 2, you can see
+how precisely the curly arrows
+have been positioned.
+intermediate
+Step 3: H+ + HSOH ,SO
+A Figure 5 The mechanism for the nitration of benzene
+Study tip
+You may be asked to show the role
+of a catalyst.
+Halogenation of benzene
+The halogens do not react with benzene unless a catalyst called a
+halogen carrier is present. Common halogen carriers include AICI,
+FeCl2, AlBrz, and FeBrz, which can be generated in situ (in the reaction
+vessel) from the metal and the halogen.
+From Figure 5, you would need to
+show Step 1 and Step 3.
+Bromination of benzene
+At room temperature and pressure and in the presence of a halogen
+carrier, benzene reacts with bromine in an electrophilic substitution
+reaction as shown in Figure 6.
+438
+25.2 Electrophilic substitution
+reactions of benzene
+Specification reference: 6.1.1
+Reactivity of benzene and its derivatives
+Benzene and its derivatives undergo substitution reactions in which
+a hydrogen atom on the benzene ring is replaced by another atom or
+group of atoms. Benzene typically reacts with electrophiles and most of
+the reactions of benzene proceed by electrophilic substitution.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ electrophilic substitution in
+aromatic compounds
+the mechanism for
+electrophilic substitution
+the reaction of benzene and
+alkenes with bromine.
+A typical equation representing electrophilic substitution is shown in
+Figure 1.
++
+E+
+Figure 1 In the equation above, the electrophile is Et. In the reaction,
+E substitutes for a hydrogen atom on the benzene ring. This is a typical electrophilic
+substitution reaction
+Synoptic link
+You should recall the definitions
+of electrophile and substitution
+from Topic 13.4, Electrophilic
+addition in alkenes, and
+Topic 11.5, Introduction to
+reaction mechanisms.
+Nitration of benzene
+Benzene reacts slowly with nitric acid to form nitrobenzene (Figure 2).
+The reaction is catalysed by sulfuric acid and heated to 50°C to obtain
+a good rate of reaction. A water bath is used to maintain the steady
+temperature.
+Study tip
+In nitration, one of the hydrogen atoms on the benzene ring is
+replaced by a nitro, -NO2, group.
+You should be able to define and give
+suitable examples of electrophiles
+and substitution reactions.
+NO2
+Synoptic link
+H2SO4
+„804 ,
++
+HNO3
+1
++
+H2O
+50°C
+You were first introduced to catalysts
+and their effect on reaction rates in
+Topic 10.2, Catalysts.
+benzene
+nitrobenzene
+A Figure 2 The reaction of benzene with nitric acid
+If the temperature of the reaction rises above 50°C, further
+substitution reactions may occur leading to the production of
+dinitrobenzene. This shows the importance of temperature control in
+the preparation of organic compounds.
+437
+25
+AROMATIC COMPOUNDS
+Future manufacture of phenol
+Research chemists are investigating another way of producing phenol using
+benzene and nitrogen (1) oxide, N20 (also called nitrous oxide).
+C6H6+N,
+O CH OH + N2
+This reaction has a 95% yield of phenol from benzene. Nitrous oxide is a
+gaseous waste product from the production of nylon and cannot be allowed
+to escape into the atmosphere, as it is a greenhouse gas.
+1 Calculate the atom economy for the three methods for preparing phenol.
+2 Calculate the mass of phenol that could be produced from 100 tonnes
+of benzene after taking into account the percentage yield for:
+a the current method
+b the possible future method.
+3 Explain how the future method affects the atom economy for the
+production of nylon.
+A Figure 4 Distillation units for
+separating phenol and propanone after
+reaction
+Phenol as a weak acid
+Phenol is less soluble in water than alcohols due to the presence
+of the non-polar benzene ring. When dissolved in water, phenol
+partially dissociates forming the phenoxide ion and a proton
+(Figure 3). Because of this ability to partially dissociate to produce
+protons, phenol is classified as a weak acid. Similarly, other phenols
+act as weak acids.
++
+H+
+Phenol is more acidic than alcohols but less acidic than carboxylic
+acids. This can be seen by comparing the acid dissociation constant K
+of an alcohol with a phenol and a carboxylic acid (Table 1).
+phenol
+phenoxide ion
+A Figure 3 The partial dissociation of
+phenol forms the phenoxide ion and a
+proton
+Synoptic link
+For details of the acid dissociation
+constant K see Topic 20.3, The
+acid dissociation constant k.
+• Ethanol does not react with sodium hydroxide (a strong base) or
+sodium carbonate (a weak base).
+Phenols and carboxylic acids react with solutions of strong bases
+such as aqueous sodium hydroxide.
+Only carboxylic acids are strong enough acids to react with the
+weak base, sodium carbonate.
+A reaction with sodium carbonate can be used to distinguish between
+a phenol and a carboxylic acid - the carboxylic acid reacts with sodium
+carbonate to produce carbon dioxide, which is evolved as a gas.
+Table 1 The acid dissociation
+constants K of an alcohol, a carboxylic
+acid, and a phenol
+Compound
+Reaction of phenol with sodium hydroxide
+Phenol reacts with sodium hydroxide to form the salt, sodium
+phenoxide, and water in a neutralisation reaction (Figure 4).
+ethanol
+phenol
+ethanoic acid
+K (298K) /
+mol dm-3
+1.00 x 10-16
+1.26 x 10-11
+1.00 x 10-5 |
+K value increases.
+Acidity increases as
+OH
+o Nat
++
+NaOH
++
+H20
+Figure 4 The reaction of phenol with aqueous sodium hydroxide
+443
+AROMATIC COMPOUNDS
+25
+•
+The -NH, group directs the second substituent to positions 2 or 4.
+The -NO, group directs the second substituent to position 3.
+Study tip
+The-NH, group is said to be 2- and
+4. directing
+Ortho, meta, and para
+The-NO, group is said to be
+3- directing
+You may come across the terms ortho, meta, and para in more advanced
+textbooks and on the Internet. Ortho (0-), meta (m-), and para (p.) refer to
+positions on a benzene ring relative to the group at position 1.
+NO2
+position 2
+= ortho
+position 3
+= meta
+Br
+position 4
+= para
+Figure 3 The positions ortho,
+meta, and para can be used to identify
+positions on a benzene ring
+A Figure 4 3-bromonitrobenzene
+or meta-bromonitrobenzene
+or m-bromonitrobenzene
+For example, 3-bromonitrobenzene is also known as
+meta-bromonitrobenzene or more simply as m-bromonitrobenzene.
+Name each of the following molecules using ortho, meta, and para
+names and the number-based IUPAC names.
+a
+OH
+CH3
+C
+CHz
+Br
+CI
+NO2
+Table 1 Table showing the effect of a
+first substituent on second substitutions
+2-and
+4-directing 3-directing
+(ortho-and-parameta directing)
+directing)
+-NH, or-NHR RCOR
+-OH
+-COOR
+-OR
+-SOUH
+-Ror-CHE -CHO
+-F, -CI, -Br, - -COOH
+-CN
+-NO,
+Directing effects
+There are many different groups that can be attached to a benzene
+ring. Different groups can have a directing effect on any second
+substituent on the benzene ring.
+All 2- and 4-directing groups (ortho and para-directors) are activating
+groups, with the exception of the halogens. All 3-directing groups
+(meta directors) are deactivating groups.
+-NR+
+447
+25
+AROMATIC COMPOUNDS
+a structure containing many double bonds or a structure containing
+double and triple bonds. Compounds containing multiple bonds were
+known to be very reactive, however benzene appeared unreactive.
+The Kekulé model
+In 1865, the German chemist Friedrich August Kekulé suggested that
+the structure of benzene was based on a six membered ring of carbon
+atoms joined by alternate single and double bonds (Figure 3). He
+claimed that he had thought of the ring shape of benzene whilst
+day-dreaming about a snake seizing its own tail.
+Evidence to disprove Kekulé's model
+Not all chemists accepted the Kekulé model of benzene as the
+structure is not able to explain all of its chemical and physical
+properties. This section outlines three pieces of evidence which appear
+to disprove Kekulé's model.
+Figure 3 The skeletal and displayed
+structures of Kekulé's benzene
+1 The lack of reactivity of benzene
+If benzene contained the C=C bonds shown in Figure 3, it should
+decolourise bromine in an electrophilic addition reaction. However:
+Synoptic link
+• benzene does not undergo electrophilic addition reactions
+benzene does not decolourise bromine under normal conditions.
+This has led scientists to suggest that benzene cannot have any C=C
+bonds in its structure.
+Alkenes decolourise bromine
+water. This was covered in
+Topic 13.3, Reactions of alkenes,
+and Topic 13.4, Electrophilic
+addition in alkenes.
+2 The lengths of the carbon-carbon bonds in benzene
+Using a technique called X-ray diffraction, it is possible to measure bond
+lengths in a molecule. When benzene was examined in 1929 by the
+crystallographer Kathleen Lonsdale, it was found that all the bonds in
+benzene were 0.139 nm in length. This bond length was between the
+length of a single bond, 0.153 nm, and a double bond, 0.134nm.
+3 Hydrogenation enthalpies
+The Kekulé structure, containing alternate single and double bonds,
+could be given the name cyclohexa-1,3,5-triene to indicate the
+positioning of the double bonds.
+If benzene did have the Kekulé structure, then it would be expected to
+have an enthalpy change of hydrogenation that is three times that of
+cyclohexene. When cyclohexene is hydrogenated (Figure 4) one double
+bond reacts with hydrogen. The enthalpy change of hydrogenation is
+-120kJ mol-1.
+Study tip
+Hydrogenation is the name given
+to the addition of hydrogen to an
+unsaturated compound.
+HH
+1
+H
+HO
++
+H2
+—
+AH = -120 kJ mol-1
+H
+HH
+HH
+A Figure 4 The enthalpy change of hydrogenation of cyclohexene
+433
+25
+25.1 Introducing benzene
+As the Kekulé structure is predicted to contain three double bonds
+the expected enthalpy change for reacting three double bonds with
+hydrogen would be 3 x -120 = -360 kJ mol-! (Figure 5).
+HH
+I
++
+3H2
+Expected
+AH = -360 kJ mol-1
+I
+H
+H
+Figure 5 The predicted enthalpy change of hydrogenation for cyclohexa-1,3,5-triene
+p-orbitals above and below
+plane of benzene ring
+The actual enthalpy change of hydrogenation of benzene is only
+-208 kJ mol-l. This means that 152 kJ mol-! less energy is produced
+than expected. The actual structure of benzene is therefore more
+stable than the theoretical Kekulé model of benzene.
+H-
+X
+)
+(
+>
+-H
+This information led scientists to propose the delocalised model of
+benzene.
+H
+sideways overlap
+of p-orbitals
+The delocalised model of Benzene
+The delocalised model of benzene was developed by scientists who
+decided that the experimental evidence was sufficient to disprove the
+Kekulé structure of benzene. The delocalised structure of benzene is
+shown in Figure 6. The main features of the delocalised model are
+listed below.
+H
+CC
+H-
+C
+C—H
+C
+C
+delocalised ring of electron
+density above and below the
+plane of benzene ring
+A Figure 6 The delocalised structure
+of benzene forms when the p-orbitals
+overlap sideways forming a -electron
+cloud above and below the plane of the
+carbon atoms
+Benzene is a planar, cyclic, hexagonal hydrocarbon containing six
+carbon atoms and six hydrogen atoms.
+Each carbon atom uses three of its available four electrons in
+bonding to two other carbon atoms and to one hydrogen atom.
+Each carbon atom has one electron in a p-orbital at right angles to
+the plane of the bonded carbon and hydrogen atoms.
+Adjacent p-orbital electrons overlap sideways, in both directions,
+above and below the plane of the carbon atoms to form a ring of
+electron density.
+This overlapping of the p-orbitals creates a system of tt-bonds
+(pi-bonds) which spread over all six of the carbon atoms in the
+ring structure.
+The six electrons occupying this system of t-bonds (pi-bonds) are
+said to be delocalised.
+Synoptic link
+You learnt about the nature of the
+Tt-bond formed between two carbon
+atoms in alkenes in Topic 13.1,
+Properties of alkenes.
+Naming aromatic compounds
+In their names, some groups are shown as prefixes to benzene. These
+include short alkyl chains, halogens, and nitro groups.
+Compounds with one substituent group
+Aromatic compounds with one substituent group are monsubstituted.
+In aromatic compounds, the benzene ring is often considered to be the
+434
+25
+25.4 Directin
+25.4 Directing groups
+B Worked example: Predicting substitution products |
+Benzoic acid, CHCOOH, can be nitrated using a mixture of
+nitric acid, HNO3, and sulfuric acid, H,SO. Identify the
+mono-substituted organic product(s) of benzoic acid and write
+an equation for the reaction.
+COOH
+Step 1: As the -COOH group is a 3-directing
+group there is only one organic product
+and the NO, group will substitute to
+the 3-carbon position:
+NO2
+Step 2: Write the equation for the reaction.
+COOH
+COOH
++
+H2SO4
+HNO3 -
++
+H2O
+B Worked example: Predicting substitution products II
+Methylbenzene reacts more readily than benzene with bromine,
+forming approximately 67% of one mono-substituted product of
+methylbenzene and 33% of a second mono-substituted product.
+Draw the structures of both organic products and suggest which
+product is formed in the greatest percentage.
+CH3
+CH3
+Step 1: As the -CH, group is
+a 2- and 4-directing
+11Br Br
+group, substitution
+of the bromine
+group can be at the 5
+2-, 4-, or 6-positions.
+CH3
+Step 2: Positions 2 and 6 are equivalent
+so you would expect
+approximately twice as much
+2-bromomethylbenzene
+as 4-bromomethylbenzene.
+CH3
+CH3
+67%
+33%
+Study tip
+Other factors can also affect
+the proportions of different
+substituted isomers. For example,
+a large substituted group may get
+in the way.
+This is called a steric effect and
+forms part of university courses in
+chemistry.
+448
+AROMATIC COMPOUNDS
+25.1 Introducing benzene
+Specification reference: 6.1.1
+Benzene - the simplest aromatic hydrocarbon
+Benzene, C,H, was first discovered in 1825 by the English scientist
+Michael Faraday, who isolated and identified it in an oily residue from
+the gas that was used for street lighting. Benzene is:
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the Kekulé and delocalised
+models for benzene
+the nomenclature for
+systematically naming
+substituted aromatic
+compounds.
+. a colourless, sweet smelling, highly flammable liquid
+found naturally in crude oil, is a component of petrol, and also
+found in cigarette smoke
+classified as a carcinogen, that is, it can cause cancer.
+A benzene molecule consists of a hexagonal ring of six carbon atoms,
+with each carbon atom joined to two other carbon atoms and to one
+hydrogen atom. Benzene is classed as an aromatic hydrocarbon or
+arene. The structure of benzene is shown in two ways (Figure 1).
+You may think that benzene, with a name resembling an alkene, would
+react in the same way as the alkenes. However this is not the case.
+A Figure 1 The structure of benzene
+This book mainly uses the structure on
+the left - both are acceptable in exams
+Derivatives of benzene
+Historically, aromatic was the term used to classify the derivatives of
+benzene, as many pleasant-smelling compounds contained a benzene
+ring. Many odourless compounds have been found to contain a benzene
+ring, yet the term aromatic is still used to classify these compounds.
+Synoptic link
+Revisit Chapter 13, Alkenes, to
+revise the structure of alkenes.
+The structures of benzaldehyde and thymol are shown in Figure 2.
+OH
+-CH(CH3)2
+H3C
+thymol
+benzaldehyde
+A Figure 2 The structure of benzaldehyde and thymol – both aromatic compounds
+containing a benzene ring. Each compound has a characteristic aroma. Benzaldehyde
+has the flavour of almonds (right) and thymol is found in the aromatic herb, thyme (left)
+Many aromatic compounds can be synthesised from benzene and you
+will meet some of these compounds and their methods of preparation
+in Topic 25.2.
+The Kekulé and delocalised models of benzene
+For many years, scientists attempted to establish a structure for benzene
+taking into account its molecular formula and the experimental
+evidence available at the time. Its molecular formula of C,H, suggested
+432
+-
+25.4 Directing groups
+Specification reference: 6.1.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the directing effects of
+electron donating and
+electron withdrawing groups
+in electrophilic substitution
+the importance of directing
+groups in organic synthesis.
+Further substitution
+Phenol can undergo an electrophilic substitution reaction with nitric
+acid to form two isomers, 2-nitrophenol and 4-nitrophenol (Topic 253,
+The chemistry of phenol). Like phenol, many substituted aromatic
+compounds can undergo a second substitution - disubstitution. Some
+of these reactions take place more readily than benzene itself whereas
+other reactions take place less easily and require extreme conditions.
+Activation and deactivation
+Bromine requires a halogen carrier catalyst to react with benzene,
+whereas bromine will react rapidly with phenylamine (Figure 1).
+NH2
+NH2
++
+3Br2
++
+3HB
+Br
+Figure 1 Phenylamine reacts more readily than benzene with bromine to
+produce a multi-substituted product
+Nitrobenzene reacts slowly with bromine, requiring both a halogen
+carrier catalyst and a high temperature. The benzene ring in
+nitrobenzene is less susceptible to electrophilic substitution than
+benzene itself.
+NO2
+NO2
++
+Bra
+Brz
+-
+C
+I
++
+HBr
+A Figure 2 The reaction of nitrobenzene with bromine produces only one
+product, 3-bromonitrobenzene
+In the first example shown in Figure 1, the -NH, group activates
+the ring as the aromatic ring reacts more readily with electrophiles.
+In the second example in Figure 2, the -NO, group deactivates the
+aromatic ring as the ring reacts less readily with electrophiles.
+Not only does the rate of reaction and extent of substitution differ in
+the two examples but also the position of substitution on the benzene
+ring is also different.
+446
+25
+AROMATIC COMPOUNDS
+of phenol. The electron density of the benzene ring in phenol is
+increased. The increased electron density attracts electrophiles more
+strongly than with benzene.
+The aromatic ring in phenol is therefore more susceptible to attack
+from electrophiles than in benzene. For bromine, the electron density
+in the phenol ring structure is sufficient to polarise bromine molecules
+and so no halogen carrier catalyst is required.
+Summary questions
+1 a Name each of the following molecules.
+A OH
+B CH2CH2CH2OH
+NO,
+Br
+C
+OH
+DOH
+C2H5
+(4 marks)
+(1 mark)
+b Identify the molecules that are phenols.
+2 Write an equation to show the reaction of 2-hydroxyphenol
+with an excess of sodium hydroxide.
+(1 mark)
+(1 mark)
+3 Outline how you would carry out a test to distinguish
+between solutions of pent-1-ene and phenol.
+Explain why bromine reacts more readily with phenol
+than with benzene.
+(3 marks)
+5 Phenol reacts with chloromethane to form 2-methylphenol. The
+reactivity of phenol means that a halogen carrier is not required.
+Using curly arrows, suggest a mechanism for this reaction.
+(Hint: The initial attack is from the benzene ring to the
+electron-deficient carbon atom of chloromethane). (4 marks)
+445

@@ -1,0 +1,1380 @@
+7.2 lonisation energies
+Comparing beryllium and boron
+The fall in first ionisation energy from beryllium to boron marks the start
+of filling the 2p sub-shell (Figure 5).
+The 2p sub-shell in boron has a higher energy than the 2s sub-shell
+in beryllium. Therefore, in boron the 2p electron is easier to remove
+than one of the 2s electrons in beryllium. The first ionisation energy of
+boron is less than the first ionisation energy of beryllium.
+energy
+beryllium
+energy
+boron
+Summary questions
+n=2
+n=2
+1 Write the equations to represent
+the first two ionisation energies
+of sulfur.
+(2 marks)
+2 Write an equation, with
+state symbols, to represent
+the first ionisation energy of
+aluminium.
+(1 mark)
+Be: outermost electron in 2s
+B: outermost electron in 2p
+A Figure 5 Outer-shell electrons in beryllium and boron atoms
+Comparing nitrogen and oxygen
+The fall in first ionisation energy from nitrogen to oxygen marks the
+start of electron pairing in the p-orbitals of the 2p sub-shell (Figure 6).
+•
+3 Explain why successive
+ionisation energies
+always increase. (2 marks)
+In nitrogen and oxygen the highest energy electrons are in a
+2p sub-shell.
+In oxygen, the paired electrons in one of the 2p orbtals repel one
+another, making it easier to remove an electron from an oxygen
+atom than a nitrogen atom.
+Therefore the first ionisation energy of oxygen is less than the first
+ionisation energy of nitrogen.
+4 a Explain the general trend
+in first ionisation energy
+from Na to Ar. (3 marks)
+b Explain the sharp drop in first
+ionisation energy between
+Ne and Na. (3 marks)
+C Explain the trend in first
+ionisation energy shown
+by He, Ne, and Ar. (3 marks)
+energy
+nitrogen
+energy
+oxygen
+n=2
+n=2
+5 The first six ionisation energies
+of an element in Period 3 are
+787, 1577, 3232,4356, 16 091,
+19 805 kJ mol-1. Identify
+the element and explain
+your reasoning. (3 marks)
+6 a Explain why Al has
+a lower first ionisation
+energy than Mg. (2 marks)
+b Explain why S has
+a lower first ionisation
+energy than P. (2 marks)
+Three 2p electrons: 2p, 2p,'2p, Four 2p electrons: 2p,22p, '2p !
+• one electron in each 2p orbital two electrons in one 2p orbital
+spins are at right angles -
+2p electrons start to pair
+equal repulsion as far apart
+the paired electrons repel
+as possible
+A Figure 6 Outer-shell electrons in nitrogen and oxygen atoms
+100
+PERIODICITY
+Trend in first ionisation energy across a period
+Figure 3 shows the general increase in first ionisation energy across
+the first three periods. Table 2 explains the general increase in first
+ionisation energies of the elements across Period 2.
+Table 3 General trend in first ionisation energy across Period 2
+Atomic
+radius
+Study tip
+Element
+Li
+3p
+Be
+4p
+B
+5p
+C
+6pt
+N
+7p:
+O
+8pt
+F
+9p
+Ne
+10p*
+Across a period, the increased
+nuclear charge is the most
+important factor for the general
+increase in first ionisation energy.
+Protons
+Trend
+Nuclear charge increases
+Same shell: similar shielding
+• Nuclear attraction increases
+Atomic radius decreases
+• First ionisation energy increases
+Synoptic link
+Sub-shell trends in first ionisation energy
+Although first ionisation energy shows a general increase across both
+Period 2 and Period 3, it does fall in two places in each period. The
+drops occur at the same positions in each period, suggesting that there
+might be a periodic cause. The reason is linked to the existence of
+sub-shells, their energies, and how orbitals fill with electrons.
+Review Topic 5.1, Electron structure,
+for details about the electron
+structure, shells, sub-shells,
+and orbitals.
+Across Period 2, the first ionisation energy graph (Figure 4) shows three
+rises and two falls:
+a rise from lithium to beryllium
+a fall to boron followed by a rise to carbon and nitrogen
+a fall to oxygen followed by a rise to fluorine and neon.
+Figure 4 links the pattern to the filling of the s- and p-sub-shells.
+Ne
+first ionisation energy
+0/
+pairing of 2p
+electrons
+Be
+Filling of 2s
+sub-shell/
+adding one electron to each
+2p orbital
+1
+2
+3
+4
+7
+8
+9
+10
+5 6
+atomic number Z
+Figure 4 Filling the sub-shells across Period 2
+99
+PERIODICITY
+Periodic trend in melting points
+The melting points of the elements in Period 2 and Period 3 are
+shown in Figure 10.
+Study tip
+Substances with giant structures
+have high boiling points as strong
+forces are broken on boiling.
+Period 2
+giant
+structures C
+Period 3
+giant
+structures Si
+melting point
+melting point
+simple
+molecules
+Study tip
+simple
+molecules
+PS
+Clar
+Substances with simple molecular
+structures have low boiling points as
+weak forces are broken on boiling.
+N O
+F Ne
+18
+2 4 6 8 10 10 12 14 16
+atomic number/Z
+atomic number/Z
+A Figure 10 Trend in melting points across Periods 2 and 3
+Summary questions
+Across Period 2 and Period 3,
+the melting point increases from Group 1 to Group 14 (4)
+there is a sharp decrease in melting point between Group 14 (4)
+and Group 15 (5)
+the melting points are comparatively low from Group 15 (5) to
+Group 18 (0).
+The sharp decrease in melting point marks a change from giant to
+simple molecular structures, shown in Figure 11. You can also see the
+start of the diagonal divide between metals and non-metals.
+On melting, giant structures have strong forces to overcome so have
+high melting points. Simple molecular structures have weak forces to
+overcome, so have much lower melting points.
+The trend in melting points across Period 2 is repeated across Period 3,
+and continues across the s- and p-blocks from Period 4 downwards.
+1 Explain what is meant by
+metallic bonding and why
+this type of bonding enables
+metals to conduct electricity.
+(3 marks)
+2 Explain how the bonding in a
+simple molecular lattice differs
+from that in a giant covalent
+lattice.
+(2 marks)
+Giant metallic Giant covalent
+structure
+structure
+Strong metallic bonds Strong covalent bonds
+between cations and between atoms
+delocalised electrons
+Simple molecular
+structure
+Weak London forces
+between molecules
+3 Across Period 4, the trend in
+properties is not exactly the
+same as across Periods 2 and
+3. Suggest explanations for the
+following
+a Germanium is a good
+conductor of electricity.
+(2 marks)
+b Arsenic has a much higher
+melting point than nitrogen
+and phosphorus. (2 marks)
+LiBe
+Mg
+B
+Al
+C
+Si
+N
+P
+O
+S
+F
+Cl
+Ne
+Ar
+Na
+A Figure 11 Trend in structure across Periods 2 and 3
+105
+Chapter 7 Practice questions
+4
+Ionisation energies of the elements H to K are
+shown below.
+2500 |
+Ne
+4
+first ionisation
+energy/kJ mol-1
+H | Bed
+MOS, AC
+V BW
+Mg Si
+Na
+K
+0
+2
+4
+6 8 10 12 14 16 18 20
+atomic number
+Practice questions
+1 This question looks at ionisation energies
+a For the third ionisation energy of Mg,
+(i) write an equation, with state symbols
+for the third ionisation energy of
+magnesium.
+(1 mark)
+(ii) which sub-shell loses this electron?
+(1 mark)
+b The Ist to 8th successive ionisation
+energies, in kJmol-, of an element in
+Period 3 are listed below.
+1012, 1903, 2912, 4957, 6274, 21269,
+25398, 29855
+What is the element?
+Explain your reasoning. (3 marks)
+c Suggest, with a reason, which successive
+ionisation energy is being described
+below.
+The energy required to remove one electron
+from each ion in one mole of gaseous 4+ ions.
+(1 mark)
+2 This question looks at trends across a
+period the periodic table. Four sequences of
+elements across Period 3 are shown below.
+Na, Mg, Al Al, Si, P Si, P, S P, S, CI
+a Which sequence shows the melting point
+increasing across Period 3? (1 mark)
+Which sequence shows the first ionisation
+energy increasing across Period 3?
+(1 mark)
+c Which sequence shows the second
+ionisation energy increasing across
+Period 3?
+(1 mark)
+d Two sequences contain elements that
+have the same structure in the solid state.
+Identify these two sequences and state
+the structure for each.
+(2 marks)
+Solid graphite and iodine contain covalent
+bonds but their melting points and electrical
+conductivities are very different.
+a State and explain the difference in
+melting points.
+(4 marks)
+State and explain the difference in
+electrical conductivity.
+(3 marks)
+a Define the term first ionisation energy.
+(3 marks)
+b Explain why the first ionisation energies
+show a general increase across Period 3
+(Li to Ne).
+(3 marks)
+c Explain why the first ionisation energy of
+B is less than that of Be. (2 marks)
+d Explain why the first ionisation energy of
+O is less than that of N. (2 marks)
+State and explain the trend in first
+ionisation energies shown by the elements
+with atomic numbers 2, 10, and 18.
+(3 marks)
+c The 1st to 3rd ionisation energies, in
+kJmol- of nitrogen are 1402, 2856,
+and 4578.
+(i) Write an equation, with state
+symbols, to represent the fourth
+ionisation energy of nitrogen.
+(1 mark)
+(ii) Suggest why the successive ionisation
+energies of nitrogen increase in
+value.
+(1 mark)
+This question is about aluminium oxide, Al,0,.
+a Successive ionisation energies provide
+evidence for the arrangement of electrons
+in atoms. The graph below shows 8
+successive ionisation energies of oxygen.
+h
+5
+106
+PERIODICITY
+7.1 The periodic table
+Specification reference 3.1.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the arrangement of elements
+→ periodicity
+→ groups
+→ trend in electron configuration.
+The periodic table
+The periodic table - then
+Just over 60 elements were known when Mendeleev arranged
+them in order of atomic mass (nothing was known about subatomic
+particles and atomic number at the time). He also lined up the
+elements in groups with similar properties. If the group properties
+did not fit, Mendeleev swapped elements around and left gaps,
+assuming that the atomic mass measurements were incorrect
+and that some elements were yet to be discovered. He even
+predicted properties of the missing elements from group trends
+- a remarkable insight at the time. It was not until protons were
+discovered in the early 1900s that the real reason for the order in
+Mendeleev's table was revealed.
+Focus on ekasilicon
+Table 1 Mendeleev's predictions for ekasilicon, Eka-Si
+Eka-Si
+Ge
+Mendeleev was so confident in his periodic law that
+he predicted the properties of elements that would fill
+the gaps in his periodic table. In 1871, he predicted the
+properties of an undiscovered element that would fit in
+the gap below silicon. He called this element 'ekasilicon'.
+72.00
+72.61
+Property
+atomic mass
+density (gcm )
+formula of oxide
+5.50
+5.35
+E02
+Gel,
+Ekasilicon was discovered in 1886 and was named
+germanium. Mendeleev's predictions are not far off,
+considering that he had never seen the element (Table 1).
+oxide density (gcm
+)
+4.70
+4.70
+Look up the properties of aluminium and indium, and then predict the
+following properties for eka-aluminium a atomic mass b formula of chloride.
+The periodic table - now
+As of 2014, the periodic table has 114 elements arranged in seven
+horizontal periods and 18 vertical groups (Figure 2). The periodic
+table is the most important organisational tool in chemistry. It is the
+first point of reference for chemists everywhere and most chemistry
+laboratories have a periodic table prominently placed on the wall.
+You do not need to memorise the periodic table (although some
+people have done so). It is nevertheless helpful to know where the
+common elements are positioned, and most students know the atomic
+numbers and relative atomic masses of common elements such as
+hydrogen, carbon, nitrogen, and oxygen. It is essential that you are
+able to use the periodic table.
+A Figure 1 Dimitri Mendeleev is one
+of the main chemists credited with the
+periodic table
+92
+7.1 The periodic table
+Across each period, there is a repeating trend in properties of the
+elements, called periodicity. The most obvious periodicity in
+properties is the trend from metals to non-metals. The topics in
+this chapter look at periodicity of several properties:
+electron configuration
+ionisation energy
+structure
+melting points.
+Periodic trend in electron configuration
+The chemistry of each element is determined by its electron configuration,
+particularly the outer, highest energy electron shell. Figure 3 shows the
+electron configuration for elements in the first three periods.
+Synoptic link
+This topic builds upon the earlier
+work covered in Topic 5.1, Electron
+structure, on electron shells,
+sub-shells, and energy levels.
+You may find it useful to look back
+to Topic 5.1.
+1
+H
+He
+182
+10
+Ne
+4
+5
+6
+7
+8
+9
+Be B
+C
+N
+O
+F
+[He]2s! [He]2s2 [He]2s22p[He]2s22p2 [He]2s22p3 [He]2s22p4 [He]2s22p5 [He]2s22p5
+11 12 13 14 15 16 17 18
+Na Mg Al Si P
+S
+CI Ar
+[Ne]3+ [Ne]32 [Ne]3s 3p? INe]3s 3p [Ne]3s 3p3 [Ne]3s 3p4 [Ne]3s 3p [Ne]3s23p5
+S-sub-shell fills
+p-sub-shell fills
+A Figure 3 Electron configuration in Periods 1-3
+Trend across a period
+Each period starts with an electron in a new highest energy shell.
+Study tip
+A repeating, periodic pattern
+is called periodicity. There is a
+periodicity in electron configuration
+in the periodic table. This is where
+the periodic table gets its name.
+Across Period 2, the 2s sub-shell fills with two electrons, followed
+by the 2p sub-shell with six electrons.
+• Across Period 3, the same pattern of filling is repeated for the
+3s and 3p sub-shells.
+Across Period 4, although the 3d sub-shell is involved, the
+highest shell number is n = 4. From the n = 4 shell, only the 4s and
+4p sub-shells are occupied.
+For each period, the s-and p-sub-shells are filled in the same way - a
+periodic pattern.
+Synoptic link
+In Topic 8.1, Group 2, and Topic 8.2,
+The halogens, you will study the
+chemistry of a metal group and a
+non-metal group.
+Trend down a group
+You will know from GCSE that elements in each group have atoms
+with the same number of electrons in their outer shell. Elements
+in each group also have atoms with the same number of electrons in
+each sub-shell. This similarity in electron configuration gives elements
+in the same group their similar chemistry.
+Blocks
+The elements in the periodic table can be divided into blocks
+corresponding to their highest energy sub-shell. This gives four distinct
+94
+PERIODICITY
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(0)
+Key
+atomic number
+Symbol
+relative atomic mass
+13 14 15 16 17
+BCN OF
+10.8 12.0 14.0 16.0 190
+12
+18
+LiBe
+6.
+9 90
+11
+Na Mg
+23.0 24.3
+19
+K Ca
+39.1 40.1
+3
+4
+5
+7
+8
+11
+12
+27.0
+28.1
+6
+24
+Cr
+25
+28
+31.0
+33
+As
+26
+Fe
+MO
+Co
+Sc
+45.0
+52 0
+72.6
+50.9
+41
+83.8
+54.9
+43
+79.9
+38
+45
+49
+53
+54
+Ti
+47.9
+40
+Zr
+91.2
+72
+Rb
+Sr
+Y
+Nb
+Mo
+Cd
+9 10
+27
+Ni
+58.7
+46
+Rh Pd
+1029 106.4
+77
+Ir Pt
+1922 195.1
+109
+110
+Mt Ds
+In
+In
+Sn
+55.8
+44
+Ru
+1011
+76
+Os
+190.2
+107.9
+Sb
+121.8
+Xe
+131.3
+1276
+1269
+73
+75
+78
+56
+Ba
+57-71
+Cs
+95.9
+74
+W
+183.8
+Hf
+85
+At
+Ta
+Re
+118.7
+82
+Pb
+207.2
+114
+TI
+204.4
+Rn
+1329
+178.5
+209.0
+137.3
+88
+1809
+105
+Db
+Au
+197.0
+111
+Rg
+186.2
+107
+106
+2006
+112
+108
+Fr
+Ra
+89-103
+Rf
+Hs
+TO
+59
+65
+67
+71
+lanthanides
+57
+La
+138,9
+58
+Ce
+140.1
+60
+Nd
+144.2
+61
+Pm
+144.9
+| 62
+Sm
+Pr
+1409
+63
+Eu
+Gd
+157.2
+Dy
+162.5
+Ho
+Lu
+Er
+150.4
+158.9
+164.9
+167.3
+70
+Tm Yb
+168,9 173.0
+101
+Md No
+175.0
+91
+93
+94
+96
+97
+98
+99
+100
+102
+103
+actinides
+1 Ac
+90
+Th
+232.0
+Pa
+U
+238.1
+Np
+Pu
+Cm
+Es
+Fm
+LT
+Figure 2 The periodic table
+Arranging the elements
+The arrangement, pattern, and shape of the periodic table reveal
+trends among the elements. The positions of the elements in the
+periodic table are linked to their physical and chemical properties.
+This makes the periodic table essential for predicting the properties
+of elements and their compounds.
+Atomic number
+Reading from left to right, the elements are arranged in order of
+increasing atomic number. Each successive element has atoms with
+one extra proton - H1, He 2, Li 3, Be 4, and so on.
+Groups
+The elements are arranged in vertical columns called groups. Each
+element in a group has atoms with the same number of outer-shell
+electrons and similar properties.
+Periods and periodicity
+The elements are arranged in horizontal rows called periods. The
+number of the period gives the number of the highest energy electron
+shell in an element's atoms.
+93
+PERIODICITY
+7
+ionisation energy
+The table below shows the melting points of
+the elements Na to Cl in Period 3.
+Na Mg Al Si P S CI
+Melting 98 639 660 1410 44 113 | -101
+point °C
+Structure
+Bonds/forces
+broken on
+boiling
+6
+1 2 3 4 5 6 7 8
+ionisation number
+(i) Write an equation, including state
+symbols, to represent the second
+ionisation energy of oxygen. (2 marks)
+(ii) How does this graph provide
+evidence for the existence of two
+electron shells in oxygen? (2 marks)
+b (i) Write the electron configuration for
+an aluminium atom.
+(1 mark)
+(ii) Sketch a graph to show the thirteen
+successive ionisation energies of
+aluminium.
+(3 marks)
+OCR 2811 Jun 2002 Q3(a)(b)
+Solids exist as lattice structures.
+a Giant metallic lattices conduct electricity.
+Giant ionic lattices do not. If a giant
+ionic lattice is melted, the molten ionic
+compound will conduct electricity.
+Explain these observations in terms of
+bonding, structure, and particles present.
+(3 marks)
+b The solid lattice structure of ammonia,
+NH,, contains hydrogen bonds.
+(i) Draw a diagram to show hydrogen
+bonding between two molecules
+of NH, in a solid lattice. Include
+relevant dipoles and lone pairs.
+(2 marks)
+(ii) Suggest why ice has a higher melting
+point than solid ammonia. (2 marks)
+Solid Sio, melts at 2230 °C. Solid Sici,
+melts at -70 °C. Neither of the liquids
+formed conducts electricity.
+Suggest the type of lattice structure in
+solid Sio, and in solid SiCl, and explain
+the difference in melting points in terms
+of bonding and structure. (5 marks)
+OCR F321 Jun 11 Q5
+a (i) Complete the structure row of the
+table using M for giant metallic,
+C for giant covalent, and
+S for simple molecular. (3 marks)
+(ii) Complete the final row by using
+MB for metallic bonds,
+CB for covalent bonds,
+LF for London forces (1 mark)
+b State what is meant by metallic bonding.
+Use a diagram as part of your answer.
+(3 marks)
+c Suggest why the melting point increases
+from Na to Al.
+(2 marks)
+Explain why the melting point of
+phosphorus is much lower than that
+of silicon
+(3 marks)
+e Explain why the melting point of sulfur is
+higher than that of chlorine (2 marks)
+This question compares the electrical
+conductivity of sodium, sodium chloride, and
+chlorine in their solid and molten states.
+a State the structure and particles making
+up the structure in the solid state for
+(i) sodium
+(2 marks)
+(ii) sodium chloride
+(2 marks)
+(iii) chlorine
+(2 marks)
+b Compare and explain the electrical
+conductivities of sodium, sodium chloride
+and chlorine in the solid state. (3 marks)
+Compare and explain any differences in
+electrical conductivities in the liquid state
+compared with the solid state. (1 mark)
+8
+107
+PERIODICITY
+as with ionic compounds, but any interactions would lead to a reaction,
+rather than dissolving, as with sodium and water.
+Synoptic link
+Giant covalent structures
+You already know that many non-metallic elements exist as simple
+covalently bonded molecules. In the solid state, these molecules form a
+simple molecular lattice structure held together by weak intermolecular
+forces. These structures therefore have low melting and boiling points.
+See Topic 6.3, Intermolecular forces,
+if you need to review the simple
+molecular lattice structures of
+covalently bonded molecules.
+The non-metals boron, carbon, and silicon have very different lattice
+structures. Instead of small molecules and intermolecular forces, many
+billions of atoms are held together by a network of strong covalent
+bonds to form a giant covalent lattice.
+Carbon and silicon are in Group 14 (4) of the periodic table and their
+atoms have four electrons in the outer shells. Carbon (in its diamond
+form) and silicon use these four electrons to form covalent bonds to
+other carbon or silicon atoms. The result is a tetrahedral structure, as
+shown in Figure 5 for carbon (diamond).
+Figure 5 shows the tetrahedral arrangement of atoms in the
+diamond form of carbon.
+The bond angles are all 109.5° by electron-pair repulsion.
+The dot-and-cross diagram shows part of the covalently bonded
+network of carbon atoms.
+A Figure 5 Structure and bonding in
+carbon (diamond)
+Properties
+Typical properties of substances with a giant covalent lattice structure
+are shown below. The properties are dominated by the strong covalent
+bonds, which make for very stable structures that are very difficult to
+break down.
+Synoptic link
+Review electron-pair repulsion in
+Topic 6.1, Shapes of molecules
+and ions.
+Melting and boiling points
+Giant covalent lattices have high melting and boiling points. This is
+because covalent bonds are strong. High temperatures are necessary
+to provide the large quantity of energy needed to break the strong
+covalent bonds.
+Solubility
+Giant covalent lattices are insoluble in almost all solvents.
+The covalent bonds holding together the atoms in the lattice
+are far too strong to be broken by interaction with solvents.
+Electrical conductivity
+Giant covalent lattices are non-conductors of electricity. The only
+exceptions are graphene and graphite, which are forms of carbon.
+• In carbon (diamond) and silicon, all four outer-shell electrons are
+involved in covalent bonding, so none are available for conducting
+electricity.
+Carbon is special in forming several structures in which one of the
+electrons is available for conductivity. Graphene and graphite are
+able to conduct electricity.
+A Figure 6 Sand dunes in the Sahara
+desert. Sand is mainly silicon dioxide, Sio
+which has a giant covalent lattice structure
+similar to diamond. The strong covalent
+bonds make giant covalent substances
+stable and generally unreactive
+103
+PERIODICITY
+Successive ionisation energies are defined in the same way as the first
+ionisation energy. Just be careful with the species losing the electron.
+Study tip
+The second ionisation energy is the energy required to remove
+one electron from each atom in one mole of gaseous 1+ ions of an element
+to form one mole of gaseous 2+ ions.
+Don't get your ionisation energies
+muddled. The number of the
+ionisation energy is the same as
+the charge on the ion produced.
+For helium, the second ionisation
+energy produces a 2+ ion from
+a 1+ ion.
+Successive ionisation energies and shells
+Successive ionisation energies provide important evidence for the
+different electron energy levels in an atom. Figure 2 shows a graph
+for the successive ionisation energies of fluorine.
+Two electrons from the 1st shell,
+closest to the nucleus.
+Study tip
+ionisation energy
+The key to analysing graphs of
+successive ionisation energies
+is to look for any large jumps in
+ionisation energy. This marks a
+change from one shell to another.
+Seven electrons from
+2nd shell, furthest
+Large difference in ionisation
+from the nucleus.
+energy.
+Change from n = 2 shell to n=1
+shell, which is much closer to
+the nucleus.
+1 2 3 4 5 6 7 8 9
+ionisation number
+Figure 2 Successive ionisation energies of fluorine
+The large increase between the seventh and eighth ionisation energies
+suggests that the eighth electron must be removed from a different
+shell, closer to the nucleus and with less shielding.
+Study tip
+Make sure that you get the shells
+the right way round.
+The first shell (n = 1, closer to the nucleus) contains two electrons.
+The second shell (n = 2, the outer shell) contains seven electrons.
+The electrons with the largest
+ionisation energy are from the
+shell closest to the nucleus.
+Making predictions from successive ionisation energies
+Successive ionisation energies allow predictions to be made about:
+the number of electrons in the outer shell
+the group of the element in the periodic table
+• the identity of an element.
+Table 1 Successive ionisation
+energies for an element from Period 3
+lonisation
+number
+lonisation
+energy /kJ mol-1
+1st
+578
+The ionisation energies shown in Table 1 steadily increase but then
+there is a large increase between the third and fourth ionisation
+energies. This shows that the fourth electron is being removed from
+an inner shell. Therefore there are three electrons in the outer shell
+and the element must be in Group 13 (3). Since it is in Period 3, the
+element must be aluminium.
+2nd
+1817
+3rd
+2745
+4th
+11 577
+5th
+14 842
+Trends in first ionisation energies
+Periodic trends in first ionisation energies provide important evidence
+for the existence of shells and sub-shells.
+6th
+18 379
+97
+7.2 lonisation energies
+Figure 3 shows the first ionisation energies for the first 20 elements in
+the periodic table. There are two key patterns:
+• a general increase in first ionisation energy across each period
+(H He, Li Ne, Na Ar)
+a sharp decrease in first ionisation energy between the end of one
+period and the start of the next period (He Li, Ne → Na, Ar K).
+These trends can be explained in terms of atomic radius, electron
+shielding, and nuclear charge.
+Trend in first ionisation energy down a group
+First ionisation energies decrease down a group. You can see this trend
+in Figure 3 and Table 2 by comparing the three noble gases helium,
+neon, and argon.
+each peak' is a noble gas
+He, Ne, Ar) at the end of each period
+Het
+Ne
+first ionisation energy
+Synoptic link
+Mg
+Si
+Na
+You will see how the trend in
+ionisation energy down a group
+affects the reactivity in Topic 8.1,
+Group 2.
+Period 2
+Period 3
+14
+16
+18
+20
+6 2 . 4 6 8 10 12
+atomic number Z
+A Figure 3 Trend in first ionisation energy
+Study tip
+Down a group, the increased
+atomic radius and shielding are
+the important factors for the
+decrease in first ionisation energy.
+Table 2 explains the decrease in first ionisation energies down a group.
+First ionisation energy decreases down every group in the periodic
+table for the same reasons. Although the nuclear charge increases, its
+effect is outweighed by the increased radius and, to a lesser extent, the
+increased shielding.
+Table 2 Trend in first ionisation energy down a group
+Noble gas
+Atomic radius
+Number of
+inner shells
+Trend
+helium, He
+neon, Ne
+atomic radius increases
+. more inner shells so shielding increases
+. nuclear attraction on outer electrons decreases
+first ionisation energy decreases
+argon, Ar
+98
+7.3 Periodic trends in bonding and structure
+Graphene and graphite
+Apart from diamond, carbon forms giant covalent
+structures based on planar hexagonal layers.
+You can see from the dot-and-cross diagram in Figure 7
+that only three electrons of the four outer-shell electrons
+are used in covalent bonding. The remaining electron
+is released into a pool of delocalised electrons shared
+by all atoms in the structure. Structures of carbon
+containing planar hexagonal layers are therefore good
+electrical conductors.
+C
+Graphene and graphite are both giant covalent structures
+of carbon based on planar hexagonal layers with bond
+angles of 120° by electron-pair repulsion.
+Graphene
+Graphene is a single layer of graphite, composed of
+hexagonally arranged carbon atoms linked by strong
+covalent bonds (Figure 8). Graphene has the same
+electrical conductivity as copper, and is the thinnest and
+strongest material ever made.
+A Figure 7 Planar hexagonal layer (top)
+and dot-and-cross diagram (bottom) in
+graphene and graphite layers
+Graphite
+Graphite is composed of parallel layers of hexagonally
+arranged carbon atoms, like a stack of graphene layers
+(Figure 9). The layers are bonded by weak London forces.
+Graphene was discovered in 2004 by Andre Geim and
+Konstantin Novoselov from the University of Manchester.
+They were awarded a Nobel prize in 2010. Geim famously
+made graphene by using sticky tape to pull single layers
+of carbon atoms from the surface of graphite. Such a
+simple idea to start work that won a Nobel prize!
+weak force between layers
+strong covalent bond
+A Figure 9 Structure of graphite
+A Figure 8 Graphene
+The bonding in the hexagonal layers only uses three of
+carbon's four outer-shell electrons. The spare electron
+is delocalised between the layers, so electricity can be
+conducted as in metals.
+Carry out some research to find these answers.
+Many materials are made out of carbon fibre.
+a How is carbon fibre linked to the structures of
+graphite and graphene.
+b How are carbon fibre materials strengthened?
+104
+7.2 lonisation energies
+Specification reference: 3.1.1
+What is ionisation energy?
+Ionisation energy measures how easily an atom loses electrons to
+form positive ions.
+.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ ionisation energy
+→ successive ionisation energies
+making predictions from
+successive ionisation energies
+trends in first ionisation
+energies down a group
+→ trends in first ionisation
+energies across a period.
+The first ionisation energy is the energy required to remove one
+electron from each atom in one mole of gaseous atoms of an element
+to form one mole of gaseous 1+ ions. For example:
+Na(g) → Nat(g) + e first ionisation energy = +496 kJ mol-!
+Factors affecting ionisation energy
+Electrons are held in their shells by attraction from the nucleus. The
+first electron lost will be in the highest energy level and will experience
+the least attraction from the nucleus. For example, the first electron lost
+from a sodium atom (1s 2s 2p 3s) is from the 3s sub-shell.
+Three factors affect the attraction between the nucleus and the outer
+electrons of an atom, and therefore, the ionisation energy.
+Synoptic link
+You saw that electron sub-shells
+are filled from the lowest energy
+level upwards in Topic 5.1,
+Electron structure.
+Atomic radius
+The greater the distance between the nucleus and the outer electrons,
+the less the nuclear attraction. The force of attraction falls off sharply
+with increasing distance, so atomic radius has a large effect.
+Nuclear charge
+The more protons there are in the nucleus of an atom, the greater the
+attraction between the nucleus and the outer electrons.
+Electron shielding
+Electrons are negatively charged and so inner-shell electrons repel
+outer-shell electrons. This repulsion, called the shielding effect,
+reduces the attraction between the nucleus and the outer electrons.
+Successive ionisation energies
+An element has as many ionisation energies as there are electrons.
+For example, helium has two electrons and two ionisation energies:
+HYUNTA
+He(g)
+He+(g)
++
+→
+Het(g) + e first ionisation energy
+He2+(g) + e- second ionisation energy
+Figure 1 An ionised gas is called
+a plasma. Lightning is an example of
+ionisation. Neon lights work by ionising
+neon gas sealed in a tube at low
+pressure. The plasma gives out light
+when electricity passes through it, just
+as it does in lightning
+The second ionisation energy of helium is greater than the first
+ionisation energy. In a helium atom, there are two protons attracting
+two electrons in the ls sub-shell. After the first electron is lost, the
+single electron is pulled closer to the helium nucleus. The nuclear
+attraction on the remaining electron increases and more ionisation
+energy will be needed to remove this second electron.
+96
+7.3 Periodic trends in bonding and structure
+In Figure 2, there are 12 cations, each with a l+ charge, and
+12 electrons, each with a l- charge. This balances the charge. For
+metals containing 2+ cations, twice as many negatively charged
+electrons are present to balance the charge.
+In a metal structure, billions of metal atoms are held together by
+metallic bonding in a giant metallic lattice.
+A Figure 2 Metallic bonding
+Properties of metals
+Most metals have:
+strong metallic bonds - attraction between positive ions and
+delocalised electrons
+high electrical conductivity
+• high melting and boiling points.
+The physical properties of metals can be explained in terms of the
+giant structure of the lattice and metallic bonding.
+Electrical conductivity
+Metals conduct electricity in solid and liquid states. When a voltage is
+applied across a metal, the delocalised electrons can move through the
+structure, carrying charge, as shown in Figure 3. Contrast this ability
+with the conductivity of ionic compounds, which have no mobile
+charge carriers in the solid state.
+Figure 3 Metal conductivity - all
+the delocalised electrons will move
+towards the positive terminal whilst
+the negative terminal donates
+electrons that move into the structure
+Melting and boiling points
+Most metals have high melting and boiling points. In Figure 4
+coloured shading is used to compare the melting points of the
+transition metals. Tungsten, W. has the highest melting point at
+3422°C, which is why it is used in the filaments of halogen lamps;
+other metals would melt. In contrast, mercury, Hg, melts at -39°C.
+Other metals that melt at low temperatures include those in Group 1
+of the periodic table, which all have melting points below 200°C.
+Synoptic link
+Mn
+Cu
+1
+Review Topic 5.2, lonic bonding for
+details about the conductivity of
+ionic compounds.
+Mo
+Tc
+Ru
+Rh
+Pd
+Ag
+Cd
+Lu
+HE
+Hf
+Ta
+W
+Re
+Os
+Ir
+Pt
+Au
+Hg
+Figure 4 Comparison of the melting points of transition metals
+The melting point depends on the strength of the metallic bonds
+holding together the atoms in the giant metallic lattice.
+For most metals, high temperatures are necessary to provide
+the large amount of energy needed to overcome the strong
+electrostatic attraction between the cations and electrons.
+This strong attraction results in most metals having high
+melting and boiling points.
+Solubility
+Metals do not dissolve. It might be expected that there would be some
+interaction between polar solvents and the charges in a metallic lattice,
+102
+7.3 Periodic trends in bonding
+and structure
+Specification reference: 3.1.1
+RO
+Metals and non-metals
+One of the key trends in the periodic table is the change from metals
+to non-metals from left to right across each period. The changeover
+from metal to non-metal takes place on a diagonal line from the top
+of Group 13 (3) to the bottom of Group 17 (7) (Figure 1). Elements
+near to the metal/non-metal divide (e.g., boron, B, silicon, Si,
+germanium, Ge, arsenic, As, and antimony, Sb) can show in-between
+properties and are called semi-metals or metalloids.
+Going down these groups, there is a trend from non-metal to metal.
+The divide is clearest in Group 14 (4), carbon (non-metal) to lead
+(metal). The two elements on either side of the divide, silicon and
+germanium, are semi-metals.
+There are far more metallic than non-metallic elements - 92 metals to
+22 non-metals. However, despite being in a minority in the periodic
+table, non-metals are extremely important, especially the elements
+carbon, hydrogen, nitrogen, and oxygen in organic chemistry and
+biochemistry.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+metallic bonding and
+structure
+→ giant covalent structures
+→ periodic trend in melting
+points.
+(3)
+(4)
+14
+(5)
+15
+(6)
+16
+(7)
+17
+(0)
+Ne
+36
+Kr
+Metallic bonding, structures, and properties
+At room temperature, all metals except mercury are solids. The 92
+known metals have a wide range of properties - some are strong
+and hard like tungsten, W, some soft like lead, Pb, some light like
+aluminium, Al, and some very heavy like osmium, Os, which is twice
+as dense as lead.
+The one constant property of all metals is their ability to conduct
+electricity. This is a remarkable property for a solid, as charge must be
+able to move within a rigid structure for conduction to take place.
+Xe
+86
+RO
+116
+114
+FI
+Metallic bonding and structure
+You have already met two main types of chemical bonding - ionic and
+covalent. Metallic bonding is a special type of bonding for metals.
+A Figure 1 The division between
+metals and non-metals in the p-block
+of the periodic table. The blue elements
+are metals and the yellow elements are
+non-metals
+In a solid metal structure, each atom has donated its negative
+outer-shell electrons to a shared pool of electrons, which are
+delocalised (spread out) throughout the whole structure.
+The positive ions (cations) left behind consist of the nucleus and
+the inner electron shells of the metal atoms.
+Metallic bonding is the strong electrostatic attraction between cations
+(positive ions) and delocalised electrons (see Figure 2).
+The cations are fixed in position, maintaining the structure and
+shape of the metal.
+The delocalised electrons are mobile and are able to move
+throughout the structure. Only the electrons move.
+101
+PERIODICITY
+Synoptic link
+blocks, s, p, d, and f. You can follow the order of sub-shell filling by
+looking at the periodic table (see Figure 4).
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+s-block
+You first met the idea of blocks
+in the periodic table in Topic 5.1
+Electron structure
+-1s
+p-block
+d-block
+Study tip
+You should know the names
+halogens and transition elements,
+but you do not need to know the
+names of the other groups. However,
+you may come across them in
+reference books or on the Internet.
+f-block
+--50
++60
+A Figure 4 Sub-shell blocks in the Periodic Table
+Table 3 Group numbers and names
+Names and numbers for groups
+Some groups have names. You will recognise some
+names such as halogens, but others such as chalcogens
+may be unfamiliar.
+Group number
+Old New
+Name
+Elements
+alkali metals
+Li, Na, K, Rb,
+Cs, Fr
+Two ways of numbering groups are in use (Table 3).
+2
+2
+alkaline earth
+metals
+Be, Mg, Ca, Sr,
+Ba, Ra
+3-12
+transition
+elements
+15
+The old numbers are the numbers that you used at
+GCSE. Groups 1–7 and then 0. This system is based
+on the s- and p-blocks. The advantage of the old
+numbering is that the group number matches the
+number of electrons in the highest energy electron shell.
+The new numbers run from 1-18, numbering each
+column in the s-, d-, and p-blocks sequentially. The
+new numbers were approved for use by IUPAC in
+1988, but it can take many years for old practices to
+change. Your periodic table uses both numbers with
+the old numbers bracketed.
+pnictogens
+N, P, As, Sb, Bi
+16
+O, S, Se, Te, Po
+chalcogens
+halogens
+17
+F, CI, Br, I, At
+18
+noble gases
+He, Ne, Ar, Kr,
+Xe, Rn
+Summary questions
+1 State the chemical symbol of:
+a the second element in Period 5
+(1 mark)
+b the third element in Group 15 (5). (1 mark)
+2 State the outer-shell electron configuration of
+elements in Group 15 (5). Use n for the shell number.
+(1 mark)
+3 Mendeleev left gaps in his periodic table that were
+filled later when, for example, scandium, gallium,
+and germanium were discovered. In addition, there
+is an entire group in the modern periodic table that
+Mendeleev omitted. State which group was missing
+and suggest why Mendeleev was unaware of it.
+(2 marks)
+95

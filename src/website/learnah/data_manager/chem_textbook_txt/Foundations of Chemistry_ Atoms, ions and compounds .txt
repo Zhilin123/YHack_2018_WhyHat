@@ -1,0 +1,1005 @@
+ATOMS, IONS, AND COMPOUNDS
+Writing equations
+Study tip
+You will have practised balancing equations at GCSE. For A Level
+chemistry, you will come across many more equations, but you will
+find that balancing them quickly becomes second nature. By the
+end of the course you should be able to write equations for all the
+reactions you have studied and also for some unfamiliar reactions.
+Remember to use brackets.
+Students often lose marks by
+omitting brackets when writing the
+formula of a hydroxide.
+Magnesium hydroxide contains
+Mg2+ and OH ions.
+Mgot, is incorrect as it means one
+oxygen and two hydrogen atoms!
+The correct formula is Mg(OH)2
+Representing elements and compounds in equations
+Elements
+In equations, elements are shown simply as their symbol except
+for the few elements that exist as small molecules. Most of these
+elements exist as diatomic molecules, containing two atoms
+bonded together - Hy, N, Oy, Fy, Cly, Bry, and I,. The only other
+elements that exist as small molecules are phosphorus, P, and
+sulfur, S. (However, it is normal practice to write sulfur simply as
+S in equations - otherwise every formula in the equation has to be
+multiplied up by a factor of 8.)
+Brackets are added if there is more
+than one polyatomic ion in a formula.
+Compounds
+Covalent compounds do not contain ions. Most covalent compounds
+exist as molecules with a small number of atoms bonded together,
+for example, Co, and H,O. In equations, the formula of the molecule
+is used.
+Synoptic link
+You will find out more about these
+different formulae in Topic 3.2,
+Determination of formulae.
+For ionic compounds, the formula worked out from the ionic charges
+is used in equations. This is called the formula unit.
+State symbols in chemical equations
+State symbols are shown in brackets after a formula to indicate the
+physical state. There are four state symbols:
+.
+.
+(g) - gas
+(1) - liquid
+(s) - solid
+(aq) - dissolved in water (aqueous)
+•
+Study tip
+Balancing equations
+To balance an equation, you multiply each formula by a balancing
+number until the number of atoms of each element is the same on
+each side of the equation. Balancing numbers are written in front of
+each formula.
+2 Na O means two Na O formula units giving 2 x 2 = 4 Nat and
+2 x 1 = 2 02-ions.
+When balancing equations, it is
+a common mistake to change a
+formula
+The formula for water is H,0. DO NOT
+change the formula to H,02, this is
+hydrogen peroxide!
+• When balancing an equation you must not change any chemical
+formula.
+Balancing numbers go in front of chemical formulae and on the line
+(not subscripted).
+The equation is balanced when there are the same number of
+atoms of each element on each side of the equation.
+ATOMS, IONS, AND COMPOUNDS
+hydrogen. The isotope is often referred to as deuterium and even given
+its own symbol, D. The formula for heavy water is often written simply as 1,0.
+The chemical properties of heavy water are almost identical to those of normal
+water. However, it has slightly different physical properties, shown in Table 3.
+Table 3 Properties of 0,0 and H20
+Physical Normal water, Heavy water,
+property
+H,0
+0,0
+melting point/°C 0.00
+3.80
+boiling point/°C
+100.00
+101.40
+density/gcm3
+1.00
+1.11
+Summary questions
+The greater density of D, gives heavy water its name. If all water were
+heavy water, you would see ice far more often, as the water would freeze at
+a higher temperature.
+Tritium, T, is a third isotope of water containing two neutrons in the
+nucleus. Tritium forms an oxide called super-heavy water.
+a What is the relative mass of a molecule of (0) H,0,0,0,
+and (ii) 7,0?
+Predict how the melting point, boiling point, and density of T20 would
+be different from H20 and 120.
+1 State the number of protons,
+neutrons, and electrons in the
+following isotopes:
+a 120
+(1 mark)
+b 13C
+(1 mark)
+c 14C
+(1 mark)
+2 Iron contains a mixture of four
+different isotopes:
+54 Fe, 56 Fe, 57 Fe, 58 Fe.
+a State how these isotopes
+differ.
+(1 mark)
+b State the similarity between
+these isotopes. (1 mark)
+Atomic structure of ions
+An ion is a charged atom. The number of electrons is different from the
+number of protons.
+• Positive ions, or cations, are atoms with fewer electrons than
+protons. Cations have an overall positive charge.
+Negative ions, or anions, are atoms with more electrons than
+protons. Anions have an overall negative charge.
+b 19 Ag
+Ions are always shown with their overall relative charge. Take the two
+ions Mg2+ and Cl-.
+Mg2+ has two fewer electrons than protons.
+• Cl- has one more electron than protons.
+Table 4 shows the number of protons, neutrons, and electrons in the
+ions 2Mg2+ and 01.
+3 State the number of protons,
+neutrons, and electrons in the
+following isotopes:
+a 15N
+(1 mark)
+(1 mark)
+c 282 Pb
+(1 mark)
+State the number of protons,
+neutrons, and electrons in the
+following ions:
+(1 mark)
+b 3452
+(1 mark)
+c Cr3+ (1 mark)
+a
+41 K+
+19
+Table 4 Atomic structures of ions
+lon Protons Neutrons
+2. Mg2+ 12 12
+35C1-
+17 18
+Electrons
+10
+18
+Overall relative charge
+(12+) + (10-) = 2+
+(17+) +(18-) = 1-
+5 State the difference in the
+number of protons, neutrons,
+or electrons of the following:
+a 6Li and 'Li (1 mark)
+b 180 and 1802 (1 mark)
+c 39K and 40Ca2+ (1 mark)
+lons and atoms of an element have the same number of protons but a
+different number of electrons.
+2.2 Relative mass
+Specification reference: 2.1.1
+This topic looks at how chemists use a mass system based on relative
+mass to compare the masses of atoms. Later you will see that this idea
+is extended to all chemicals.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ relative isotopic mass and
+relative atomic mass
+► mass spectrometry.
+Carbon-12
+Table 1 shows the relative mass of protons, neutrons, and electrons.
+V Table 1 Masses of three subatomic
+particles
+To find the relative mass of an isotope, it might seem sensible to add
+together the relative masses of the protons, neutrons, and electrons -
+but things are not that simple. In fact, the strong nuclear force holding
+together protons and neutrons comes at the expense of the loss of a
+fraction of their mass. This astonishing fact was worked out by Albert
+Einstein over 100 years ago. The small amount of mass lost is called
+the mass defect. If you are studying A Level physics, you may learn
+more about the mass defect and its importance to the nucleus.
+Particle
+Symbol Relative mass
+proton
+pt
+neutronn
+1.001375
+electron
+0.000 544
+So how do chemists calculate the mass of atoms if some mass is lost to
+hold the nucleus together?
+First, a standard isotope is needed on which to base all atomic masses.
+This role is taken by the carbon-12 isotope, which is the international
+standard for the measurement of atomic masses. One atom of carbon-12
+has a mass of 1.992646 538 x 10-26 kg. Working in kg would be very
+awkward so instead a new unit called the atomic mass unit u is used.
+•
+Figure 1 Carbon-12 contains six
+protons (black), six neutrons (blue), and
+six electrons (red). An atom of carbon-12
+has a mass of exactly 12 u
+The mass of a carbon-12 isotope is defined as exactly 12 atomic
+mass units (12 u).
+The standard mass for atomic mass is lu, the mass of th of an
+atom of carbon-12.
+On this scale, lu is approximately the mass of a proton or
+a neutron.
+Study tip
+Relative isotopic mass
+Relative isotopic mass is the mass of an isotope relative to th of the
+mass of an atom of carbon-12. Table 2 shows the relative isotopic mass
+of several isotopes relative to the mass of carbon-12. Relative isotopic
+mass has no units because it is a ratio of two masses.
+You need to learn the definition for
+relative isotopic mass.
+Table 2 Relative isotopic masses
+Isotope
+Mass number
+Relative isotopic mass
+Accurate
+One decimal place
+12C
+12.0
+12 exactly
+14.003 074 00529
+14N
+14.0
+15.994 914 635
+16.0
+160
+19F
+19
+18.998 403 2215
+19.0
+12
+2.3 Formulae and equations
+Study tip
+Aluminium oxide is an ionic
+compound, so you will need to
+use ionic charges.
+Study tip
+Aluminium is shown simply as its
+symbol, AI.
+Oxygen exists as diatomic
+molecules and so is shown as 0.
+3) Worked example: Constructing a balanced equation
+Aluminium reacts with oxygen to form aluminium oxide.
+Step 1: Work out the formulae.
+Aluminium oxide contains AB+ and 02- ions, so the formula
+is Al,03
+Step 2: Write an equation using formulae for all reactants
+and products.
+Formulae only: Al + 02 - A1,03
+Step 3: Balance the equation by placing balancing numbers on
+the line, in front of formulae.
+The key here is to get the oxygen atoms equal on both sides.
+4Al + 30, +2A1,03
+As a final check,
+• Left-hand side has 4 Al and 3 x 2 (6) O
+• Right-hand side has 2 x A1,0, = 2 x 2 (= 4) Al and 2 x 3 (= 6) O
+The equation is balanced.
+Step 4: Finally, add state symbols to complete the equation.
+4Al(s) + 302(g) → 2A1,03(s)
+Study tip
+Start with the formulae of
+compounds and count the number
+of atoms of each element.
+Study tip
+You are allowed to use fractions
+when balancing equations. If you are
+comfortable using fractions, this can
+be easier than whole numbers. For
+the worked example, this would give
+2A1 + 130, A1,03
+Study tip
+Don't forget to add state symbols!
+Balancing formulae with brackets
+Take care when balancing formulae with brackets. Remember that the
+balancing number multiplies the entire formula.
+3 Zn(NO3), means 3 x Zn(NO3)2
+This gives 3 Zn, 3 x 2 = 6 N, and 3 x 3 x 2 = 18 0
+Summary questions
+1 Write formulae for the following:
+a potassium oxide
+b magnesium iodide
+C calcium phosphide
+d iron(III) hydroxide
+e ammonium carbonate
+f iron(II) nitrate
+(1 mark)
+(1 mark)
+(1 mark)
+(1 mark)
+(1 mark)
+(1 mark)
+2 Name each compound from the formula.
+a AIN
+b (NH.),PO4
+c Fe (50.)3
+3 Balance the following equations:
+a NH, (g) + 0, (aq) NO(aq) + H,00) (1 mark)
+b Cha(g) + O2(g) → CO2(g) + H2001) (1 mark)
+c A1,0, (s) + H2PO2 (aq) - A1,(PO)2(aq) + H20(1)
+(1 mark)
+d Zn(s) + HNO3(aq) — Zn(NO3)2(aq) + NO(g) + H20(1)
+(1 mark)
+4 Write balanced equations with state symbols for the
+following reactions:
+a Magnesium reacts with solid phosphorus
+to form solid magnesium phosphide. (2 marks)
+b Iron reacts with aqueous copper(II) nitrate to
+form copper and aqueous iron (II) nitrate. (2 marks)
+c Lead(II) nitrate decomposes to form solid
+lead(11) oxide and two gases, nitrogen
+dioxide and oxygen.
+(2 marks)
+(1 mark)
+(1 mark)
+(1 mark)
+2.2 Relative mass
+You can work out the relative atomic mass using the method in the
+worked example below.
+B Worked example: Relative atomic mass of chlorine
+As accurate relative isotopic masses have not been provided, the
+mass number for each isotope is used.
+contribution contribution
+from 35cl from 37C1
+75.78 x 35 + 24.22 x 37
+Relative atomic mass = -
+100
+Relative atomic mass = 35.4844 = 35.5 to one decimal place
+Summary questions
+1 Define the terms
+a relative isotopic mass
+(1 mark)
+b relative atomic mass
+(1 mark)
+Determination of relative isotopic mass
+The mass spectrometer can also record the accurate m/z ratio for
+each isotope so that accurate values of relative isotopic mass can
+be measured.
+T
+Relative atomic masses – time for change?
+2 Calculate the relative atomic
+mass of the following
+elements. Give your answers
+to two decimal places.
+a A sample of potassium
+consisting of 93.20% of 39K,
+0.07% of 40K, and 6.73%
+of 41K.
+(1 mark)
+b A sample of antimony
+consisting of 56.87%
+of 121 Sb and 43.13%
+of 123Sb. (1 mark)
+C A sample of neon consisting
+of 91.07% of 20Ne and
+8.93% of 22 Ne. (1 mark)
+Every two years, the International Union of Pure and Applied Chemistry
+(IUPAC) reviews values for relative atomic masses for use across the world.
+The review usually results in some very small adjustments, but the 2011
+review made a more fundamental change. It has been known for many years
+that the isotopic abundances of an element may vary slightly depending on
+where the sample originates. In 2011, IUPAC published a new periodic table to
+take into account this variation by showing the relative atomic mass of some
+elements as a range rather than a single value. Figure 4 shows an extract
+from this periodic table. Compare the relative atomic masses of silicon and
+sulfur in Figure 2 and Figure 5. This change does not really affect the values
+used at A Level, but atomic masses shown to greater accuracy are affected,
+and future reviews may affect other elements.
+5.
+8
+0
+13
+15
+16
+boron
+carbon
+nitrogen
+oxygen
+fluorine
+[10.80, 10.83] [12.00, 12.02] [14.00, 14.01] [15.99, 16.001 19.00
+14
+17
+P
+S
+CI
+aluminium silicon phosphorus sulfur
+chlorine
+26.98
+[28.08, 28.09] 30.97 [32.05, 32.08] [35.44, 35.46]
+AI
+Si
+3 The accurate relative isotopic
+masses for the isotopes
+chlorine-35 and chlorine-37 are
+34.968 852 721 69 (35CI) and
+36.965 902 621 1 (PCI).
+a Calculate the relative atomic
+mass of chlorine, as shown
+in the worked example,
+using these accurate
+isotopic masses. (2 marks)
+b Comment on whether the
+difference from use of
+mass numbers is
+significant (1 mark)
+A Figure 5 Extract from 2011 IUPAC Periodic Table
+Boron occurs naturally as a mixture of two isotopes, 10B and 11B. The
+relative isotopic masses are 10B 10.00 and 11B 11.00.
+Calculate the percentage abundances by mass of 10B and 11B in samples
+of boron with relative atomic masses of (a) 10.80 and (b) 10.83, the limits
+of the range in the new IUPAC Periodic Table.
+14
+ATOMS, IONS, AND COMPOUNDS
+15
+A sample of gallium, A. = 69.7, was
+analysed and was found to consist of 65%
+69Ga and one other isotope.
+Determine the mass number of the other
+isotope in the sample of gallium. (1 mark)
+d Complete the table below for two ions
+that have the same number of electrons
+as a neon atom.
+(2 marks)
+Species Protons Neutrons Electrons Charge
+2-
+14
+3+
+5
+A sample of sulfur, Z = 16, was analysed in
+a mass spectrometer to give the following
+composition of isotopes.
+Isotope
+Abundance (%)
+94.93
+335
+0.76
+345
+4.29
+365
+0.02
+325
+Practice questions
+1 This question refers to species A-D. For each
+part, select the correct species.
+A 3PB F C 1602- D Na
+a The number of protons and neutrons
+are the same.
+(1 mark)
+b The number of neutrons and electrons
+are the same.
+(1 mark)
+C The number of protons, neutrons, and
+electrons are all different. (1 mark)
+2 The answer to each part of this question is a
+number.
+a How many neutrons are in an atom
+of zinc-68?
+(1 mark)
+b What is the total number of electrons
+in a C0,2-ion?
+(1 mark)
+C What is the total number of ions is
+one formula unit of chromium(III)
+sulfate?
+(1 mark)
+3 This question looks at isotopes of three
+elements.
+a An isotope of element A contains the
+same number of neutrons as are found
+in an atom of Sly. The isotope of A also
+contains 26 protons.
+(i) How many protons in an atom
+of 5lv?
+(1 mark)
+(ii) Write the symbol, including the mass
+number and the atomic number,
+of this isotope of A. (2 marks)
+b An isotope of element B has hall as many
+protons and half as many neutrons as
+an atom of 48Ti.
+Write the symbol, including the mass
+number and the atomic number, of this
+isotope of B.
+(2 marks)
+c An isotope of element C has three more
+protons and four more neutrons than an
+atom of 81Br.
+Write the symbol, including the mass
+number and the atomic number, of this
+isotope of C.
+(2 marks)
+4 Neon exists as a mixture of isotopes.
+a What is meant be the term isotopes?
+(1 mark)
+b Define the term relative isotopic mass.
+(2 marks)
+From the results, the relative atomic mass of
+the sulfur sample can be calculated.
+a Define the term relative atomic mass.
+(3 marks)
+b Calculate the relative atomic mass of
+the sample of sulfur. Give your answer
+to two decimal places. (2 marks)
+Complete the table to show the number
+of sub-atomic particles in a 3's atom and
+an 3452- ion.
+(1 mark)
+C
+Protons
+Neutrons
+Electrons
+345
+3692-
+6 Write equations, with state symbols, for the
+following reactions.
+a Magnesium reacts with nitrogen to
+form magnesium nitride. (2 marks)
+Calcium reacts with water to form a
+solution of calcium hydroxide and
+hydrogen.
+(2 marks)
+Sodium hydroxide solution reacts with
+iron(III) sulfate solution to form an
+iron (III) hydroxide precipitate and
+sodium sulfate solution.
+(2 marks)
+19
+ATOMS, IONS, AND COMPOUNDS
+Si
+32.1
+33
+32
+Ge
+Se
+For A Level chemistry, you will be working with masses to one
+decimal place. In most cases, you can assume that the relative isotopic
+Study tip
+mass is the same as the mass number A of the isotope (number of
+You may be provided with relative
+protons and number of neutrons)
+isotopic masses, but if not you can
+use the mass number (the sum
+Relative atomic mass
+of the numbers of protons and
+neutrons).
+Most elements contain a mixture of isotopes, each with a different
+relative isotopic mass. Relative atomic mass A is the weighted mean
+mass of an atom of an element relativ
+of the mass of an atom
+Study tip
+of carbon-12.
+You should learn the definition for
+The weighted mean mass takes account of:
+relative atomic mass.
+the percentage abundance of each isotope
+the relative isotopic mass of each isotope.
+14
+15
+16
+In the periodic table, in addition to the atomic number, each
+element is shown with its relative atomic mass, A. Figure 2
+silicon phosphorus sulfur
+shows six elements of the periodic table, together with their
+28.1
+31.0
+atomic numbers and relative atomic masses.
+34
+Determination of relative atomic mass
+As
+The percentage abundances of the isotopes in a sample
+germanium
+arsenic
+selenium
+of an element are found experimentally using a mass
+72.6
+74.9
+79.0
+spectrometer.
+Figure 2 Elements in the periodic table. The
+Different types of mass spectrometer exist but all work to the
+smaller number at the top is the atomic number Z,
+same basic principle.
+the larger number underneath is the relative atomic
+mass A
+1 A sample is placed in the mass spectrometer.
+2 The sample is vaporised and then ionised to form positive ions.
+3 The ions are accelerated. Heavier ions move more slowly and
+are more difficult to deflect than lighter ions, so the ions of each
+isotope are separated.
+4 The ions are detected on a mass spectrum as a mass-to-charge
+ratio m/z. Each ion reaching the detector adds to the signal, so the
+greater the abundance, the larger the signal.
+mass-to-charge ratio m - relative mass of ion
+Z relative charge on ion
+A Figure 3 A scientist using a mass
+For an ion with one positive charge, this ratio is equivalent to
+spectrometer
+the relative isotopic mass, which is recorded on the x-axis of
+the spectrum.
+| 75.78
+Figure 4 shows part of the mass spectrum obtained from a sample of
+chlorine, with the percentage abundances for each isotope shown by
+each peak. The mass spectrum reveals two isotopes:
+percentage
+abundance(%)
+| 24.22
+75.78% of chlorine-35
+24.22% of chlorine-37.
+•
+35 37
+Figure 4 Mass spectrum of chlorine
+13
+ATOMS, IONS, AND COMPOUNDS
+Table 1 Charges and masses of some subatomic particles, relative to the proton
+Particle Abbreviation Relative charge Relative mass
+proton
+pt
+1+
+1
+neutron
+electron
+e L 1-
+1-
+1836
+The total positive charge from protons is cancelled by the total
+negative charge from electrons.
+The overall charge of an atom is zero - an atom is neutral.
+•
+Neutrons can be thought of as providing the glue that holds the
+nucleus together despite the electrostatic repulsion between its
+positively charged protons.
+. Most atoms contain the same number of, or slightly more,
+neutrons than protons.
+• As the nucleus gets larger, more and more neutrons are needed.
+1OTE
+Ore II
+U7
+Ons are n
+76% Cu,
+20% Zn,
+4% Ni
+Atomic number - the identity of an element
+The number of protons in an atom identifies the element. As of 2014,
+the existence of 114 elements has been confirmed, and others have
+been tentatively reported.
+LGR:
+75% Cu,
+25% Ni
+Every atom of the same element contains the same number
+of protons.
+• Different elements contain atoms that have different numbers
+of protons.
+The periodic table lists elements in order of the number of protons
+in the nucleus. Each element is shown with the number of protons
+as its atomic number (or proton number).
+Figure 4 shows the first 18 elements in the periodic table with their
+atomic numbers.
+Figure 3 One coin, two pounds, and
+three elements - next to one another in
+the periodic table
+28 29 30
+Ni
+7n
+CU
+He
+3
+4
+LiBe
+Ne
+6
+C
+14
+Si
+7
+N
+15
+P
+B
+13
+Al
+all Ni atoms have 28 protons
+• all Cu atoms have 29 protons
+• all Zn atoms have 30 protons
+8
+O
+16
+S
+9
+F
+17
+Cl
+10
+Ne
+18
+Ar
+11 12
+Na Mg
+Study tip
+Figure 4 Atomic numbers (proton numbers) for the first 18 elements
+Isotopes
+Every atom of an element has the same number of protons.
+Every periodic table shows each
+element labelled with its atomic
+number. You will always have
+access to a copy of the periodic
+table. Using the periodic table, you
+will always be able to work out the
+number of protons (and electrons)
+in an atom.
+•
+Every atom of nitrogen, atomic number 7, contains 7 protons.
+Every atom of oxygen, atomic number 8, contains 8 protons.
+... And so on.
+2.1 Atomic structure and isotopes
+hydrogen
+deuterium
+Unlike protons, the number of neutrons in the atoms of an element
+can be different, usually within a narrow range.
+Isotopes are atoms of the same element with different numbers of
+neutrons and different masses (Figure 5).
+Most elements are made up of a mixture of isotopes.
+1 proton
+1 proton
+O neutron
+1 neutron
+l electron
+1 electron
+A Figure 5 Two isotopes of hydrogen with
+the same number of protons but different
+numbers of neutrons
+Representing isotopes
+Isotopes are represented using the chemical notation shown in Figure 6.
+Mass number (nucleon number) A
+A = number of protons + number of neutrons
+Atomic number (proton number) Z
+Z = number of protons
+You can use this notation to work out the number of protons,
+neutrons, and electrons in different isotopes of an element. Table 2
+shows the atomic structures of three isotopes of oxygen.
+mass number, A
+chemical symbol
+atomic number, Z
+AFigure 6 Isotope notation
+Table 2 Atomic structures for isotopes of oxygen
+Isotope
+Protons, p*
+Neutrons, n
+Electrons, e-
+Study tip
+160
+To work out the number of neutrons
+in an atom, simply subtract the
+atomic number, Z from the mass
+number A:
+number of neutrons = A-Z
+000000
+180
+8
+10
+Other ways of representing isotopes
+Chemists refer to isotopes in different ways, so you may see an isotope
+of oxygen written as 160, 160, or simply as oxygen-16. All oxyger
+atoms contain eight protons, so if the '8' is omitted, as in 160 and
+oxygen-16, you still know how many protons the isotope contains.
+Isotopes and chemical reactions
+Chemical reactions involve the electrons surrounding the nucleus.
+• Different isotopes of the same element have the same number of
+electrons.
+The number of neutrons has no effect on reactions of an element.
+Different isotopes of an element therefore react in the same way.
+There may be small differences in physical properties – with higher-mass
+isotopes of an element having a higher melting point, boiling point, and
+density - but the chemical reactions are the same.
+Heavy water
+A Figure 7 Both glasses contain water.
+The left-hand glass contains ice cubes
+made from heavy water. The right-hand
+glass contains normal ice. Solid 1,0 is
+denser than liquid water and so 0,0 ice
+cubes sink in water
+You may have heard of heavy water, used to control processes in nuclear
+reactors. The H,0 molecules in normal water nearly all contain the H isotope
+of hydrogen. In heavy water, all molecules of H_0 contain the H isotope of
+10
+ATOMS, IONS, AND
+COMPOUNDS
+2.1 Atomic structure and isotopes
+Specification reference: 2.1.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ atomic structure
+→ isotopes.
+Protons, neutrons, and electrons
+The nuclear atom
+At GCSE, you learnt about the nuclear model of the atom (Figure 1).
+The atom consists of a nucleus made up of two types of subatomic
+particle - protons and neutrons.
+A third type of subatomic particle, called an electron, occupies
+a region outside the nucleus. Electrons are arranged around the
+nucleus in shells.
+proton
+electron
+Properties of protons, neutrons, and electrons
+Mass
+Atoms and their subatomic particles have tiny masses. Instead of
+working in grams, chemists compare the masses of subatomic particles
+using relative masses (Figure 2).
+neutron
+Figure 1 The nuclear atom
+A proton has virtually the same mass as a neutron.
+• An electron has negligible mass, about oth the mass of a proton.
+1836
+Accurate measurements show that a neutron has a slightly greater mass
+than a proton, by a factor of 1.001375. This is so close to l that chemists
+usually assume that protons and neutrons have the same mass.
+1 neutron
+1 proton
+Charge
+1836 electrons
+1 proton
+Figure 2 Relative masses of protons,
+neutrons, and electrons
+•
+A proton has a positive charge.
+An electron has a negative charge.
+The charge on a proton is equal but opposite to the charge on an
+electron. The charges balance.
+A neutron, as its name suggests, is neutral and has no charge.
+.
+The actual charge on a single proton is tiny: +1.60217733 x 10-1°C
+(coulombs). The charge on a single electron must balance the charge
+on a proton and is -1.60217733 x 10-1°C. It is much easier to use
+relative charges of 1+ for a proton and l- for an electron.
+Building the atom
+Table 1 summarises the relative charges and masses of protons,
+neutrons, and electrons.
+Nearly all of an atom's mass is in the nucleus.
+Atoms contain the same number of protons as electrons.
+2.3 Formulae and equations
+Specification reference: 2.1.2
+Ionic charges
+To study chemistry successfully at any level, you need to be able to
+write chemical formulae and construct balanced chemical equations.
+In this topic, you will review how to write the formula of an ionic
+compound from ionic charges and how to balance chemical equations.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ writing formulae of ionic
+compounds
+→ prediction of ionic charge
+from the periodic table
+→ names and formulae of ions
+→ chemical equations.
+Simple ions from the periodic table
+You should remember from GCSE that many atoms lose or gain
+electrons to achieve the same electron structure as the nearest noble
+gas, helium (He) to radon (Rn).
+Atoms of metals on the left of the periodic table lose electrons to
+form cations (positive ions)
+Atoms of non-metals on the right of the periodic table gain
+electrons to form anions (negative ions).
+Synoptic link
+Electron structure and ionic bonding
+will be developed later in Topic 5.1,
+Electron structure and Topic 5.2,
+lonic bonding and structure.
+For many elements you can use the element's position in the periodic
+table to work out the likely charge on the ion, as shown in Figure 1.
+1+
+2+
+3+
+3-
+2-
+1-
++ ions: electrons lost
+- ions: electrons gained
+H+
+He
+N3-
+P3-
+02-
+52
+Al3+
+F-
+CH
+Br
+IF
+Ne
+Ar
+Kr
+Na+ Mg2+
+K+ Ca2+
+Rb+ Sr2+
+Cs+ Ba2+
+Zn2+
+Agt
+Xe
+Rn
+transition metals
+A Figure 1 The charges of some simple ions can often be deduced from their position in the periodic table
+Some metals, mostly transition metals (Figure 1), can form several Study tip
+ions with different charges. The ionic charge is then shown with a
+You are expected to know the
+Roman numeral in the name of the ion. For example:
+charges on all the ions shown in
+Copper forms two ions - copper(I), Cut, and copper(II), Cu2+.
+Figure 1. Notice that Zn2+ and Agt,
+• Iron forms two ions – iron (II), Fe2+, and iron (III), Fe3+.
+shown in green, do not fit into this
+pattern and you will need to learn
+Binary compounds
+these ionic charges.
+A binary compound contains two elements only.
+Synoptic link
+To name a binary compound, use the name of the first element but
+change the ending of the second element's name to -ide.
+You will learn more about using
+For ionic compounds, the metal ion always comes first.
+Roman numerals in names in
+Topic 4.3, Redox.
+For example, sodium and oxygen form sodium oxide.
+2.3 Formulae and equations
+Polyatomic ions
+Sometimes, an ion may contain atoms of more than one element
+bonded together. These ions are called polyatomic ions. Table 1
+shows some common polyatomic ions and their names.
+Table 1 Common polyatomic ions and their names
+1+
+1-
+2-
+3-
+ammonium
+carbonate
+Figure 2 Cu2+ ions are responsible
+for the blue colour of copper(11) sulfate
+crystals, Cuso
+hydroxide
+OH
+phosphate
+PO.3-
+NH,
+00.2-
+nitrate
+NO
+sulfate
+50,2-
+Study tip
+nitrite
+sulfite
+NOZ
+SO, 2-
+You are expected to know the
+names and formulae of the ions
+shown in blue in Table 1, but you
+will find it useful to learn them all.
+Be warned - there is no easy way
+to work out these formulae!
+dichromate(VI)
+Cr,0,2
+hydrogencarbonate
+HCO,
+manganate(VII)
+(permanganate)
+Mno
+Writing formulae from ions
+An ionic compound contains a cation and an anion. The formula can
+be worked out from the charge on each ion.
+In a correct formula:
+the overall charge is zero so the ionic charges must balance
+sum of positive charges = sum of negative charges.
+A) Worked example: lonic formulae
+Compound name Ions present Balance charges
+zinc chloride
+Zn2+ and Cl-
+1 Zn2+ ions balances 2 Cl-ions
+aluminium sulfate Al3+ and 50,- 2 AB+ ions balance 3 50,- ions
+The charges must balance, but it's just a matter of multiplication tables.
+1 Zn2+ (1 2+ = 2+) is balanced by 2 C1- (2 1- = 2-)
+2 Al3+ (2 X 3+ = 6+) is balanced by 3 80,- (3 x 2- = 6-)
+Formula
+ZnCl2
+Al2(SO4)3
+Writing the formula
+• The number of each ion present is shown as a subscript after
+the ion.
+The ionic charges are usually omitted in the completed formula.
+• Brackets are used if there is more than one polyatomic ion.
+Aluminium sulfate contains 2 Al3+ ions and 3 SO, 2-ions and so the
+formula is Al2(SO4)3
+ns
+11
+16

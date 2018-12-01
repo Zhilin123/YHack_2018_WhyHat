@@ -1,0 +1,1115 @@
+Exam-style questions
+7.3
+7 A teacher demonstrates electromagnetic induction by dropping
+a bar magnet through a flat coil of wire connected to a
+datalogger.
+very small
+coil of wire
+datalogger
+Sketch a graph to show how the e.m.f induced across the
+coil varies as the coil moves from A to B at a constant
+speed.
+Induced
+e.m.f.
+-
+IRIERILIN
+IIIIIIIIIIIIIIIIIIIIIII
+FIIIIIIIIII
+-.--.-.-
+IRILIBRI
+HILLITE
+-.-
+The data from the datalogger is used to produce a graph of
+induced e.m.f across the coil against time.
+Induced 4
+em.f.
+LIIIIIIIIIIIIIIIIIIIIIIIIIII
+IBEIREIBIBILBIR BIEBIE
+LILLI LILILLLLLLLLLLLLLLLLL
+LIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+LIILLILLLLLLLLLLLLLLL
+LIBRIBETEISELE EIN BIEBIEBIE BIBIENIE
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+FILEIREILLHIL HILTI HILI LILILILLIIIIIIIIIIIIIIIIIIIII
+DIE DIE BEDIE IDEEEEEE
+LILEIREITILLILIIIIIIIIIIIIIIII
+LILILLIILLILIILLILLILIILLILIILLILILLLLLLLLLLLLLLL
+LILLILIIDILIITILI TIL LILLILIIIII
+2
+Distance
+-
+T
+10
+[Total: 10]
+111111
+TIITTI
+*(a) Explain the shape of the graph and the relative values on
+both axes.
+[6]
+(b) The teacher then sets up another demonstration using a
+large U-shaped magnet and a very small coil of wire, which
+is again connected to a datalogger.
+The north pole is vertically above the south pole and the
+coil is moved along the line AB, which is midway between
+the poles. The magnetic field due to the U-shaped magnet
+has been drawn. The plane of the coil is horizontal.
+79
+7.3
+Thus, by adjusting the accelerating voltage and the strength of the electromagnet (by altering the current
+through it) we can identify the various chemicals contained within a sample, as each is registered in the
+detector. The intensity of the current in the detector can indicate the proportion of a given chemical
+within the sample.
+WORKED EXAMPLE
+A company selling sea salt for cooking wanted to find out if its ratio of chlorine isotopes was different
+from the usual abundance ratio. In nature, the 35Cl isotope is more common than the 37Cl one by a
+factor of 3: 1. They analysed a sample of their product using a mass spectrometer that would ionise
+the chlorine atoms into single minus ions. What would be the difference between the radii of curvature
+caused for the chlorine isotopes, if the mass spectrometer operated at an accelerating potential of 3.0 kV
+and had a magnetic field strength of 3.0T?
+9 2V
+m Br2
+p2 - 2Vm
+B29
+2Vm
+B29
+For 35C1-:
+2 x 3000 x (35 x 1.67 x 10-27)
+(3.0)2 x 1.6 10-19
+r = 0.0156 m
+For 37C1-:
+2 x 3000 (37 x 1.67 x 10-27)
+(3.0)2 x 1.6 10-19
+r = 0.0160m
+So the difference in the radius of curvature of the path of these two ions is 0.4 mm.
+=
+1
+Questions
+| (a) How much force would be felt by a 12 cm wire carrying 0.8 A at right angles to the Earth's surface
+magnetic field of 5 x 10-5T?
+(b) How much force would be felt by a proton travelling across the Earth's magnetic field at 500 ms-T?
+(c) How fast would a proton need to travel in order for the electromagnetic force on it to make it orbit
+the Earth at the surface? (Radius of Earth = 6.4 x 106 m.) Comment on your answer.
+An electron beam travels across a 36 mT magnetic field at 45% to the field. If the electrons are travelling at
+10% of the speed of light, what is the force exerted on each electron by the field?
+charge
+distance and current = tima
+time
+3 Speed =
+. Explain how F = BIL is actually the same equation as F = Bqv but
+time
+considered for many charges in a group.
+4
+For the investigation on salt in the worked example on this page, calculate the difference in the radii of
+curvature that would be found if the company investigated the two isotopes of sodium: 23Nat and 22Nat.
+Explain why such small differences can be easily detected by a machine like that shown in fig D.
+70
+Electromagnetic effects
+7.3
+where q is the charge on the particle, vis its velocity, and is
+the angle between the velocity and the magnetic field lines. A
+simplified situation that is often considered is that of an electron
+(charge 'e') moving at right angles to the field (sin 90º = 1). This
+reduces the formula to F = Bev, which is commonly remembered
+by students as 'Fred = Bev'.
+A chemical to be identified enters the machine and is ionised.
+This charge will then allow it to be accelerated in two different
+ways within the mass spectrometer. An electric field increases its
+speed. Then it feels a force when travelling through the field of the
+electromagnet, which changes its direction.
+ACCELERATION
+IONISATION
+electromagnet
+Investigation
+Investigating Fred = Bev
+repeller +
+1
+(+ve) I
+DEFLECTION
+-
+vaporised
+sample
+NANNAN
+vacuum
+pump
+detector
+amplifier
+DETECTION
+-
+fig C Investigating the force on charged particles moving in a magnetic
+field. (Image O 3B Scientific GmbH, Hamburg).
+You can investigate how much force will be on an electron moving
+across a magnetic field using equipment like that shown in fig C. The
+grid allows you to observe the path travelled by the electrons, and
+there is a standard formula for calculating the magnetic field strength
+provided by a pair of parallel electromagnetic coils, often referred to
+as Helmholtz coils.
+recorder
+fig D Schematic of the basic parts of a mass spectrometer.
+The force on a charged particle moving at right angles to a
+magnetic field is given by:
+F = Bqv
+Centripetal force is given by:
+F=mv2
+Thus for particles following the circular curve through the
+electromagnet to emerge on a path to the detector:
+Bqv = mv?
+As the force on the charged particle is always at right angles to
+the direction of its velocity, it acts as a centripetal force, and the
+particle follows a circular path. As the charged particle's velocity
+is constantly changing along a circular path, it is being accelerated
+by the magnetic field. This means that given the right combination
+of conditions, a moving charged particle could be held by a
+magnetic field, continuously orbiting a central point. This is the
+principle by which artificially generated anti-matter is contained,
+to save it from annihilation, for future use or study.
+The mass spectrometer
+which rearranges to: m =D
+9_v
+The charge/mass ratio will identify the particles involved, so with
+Band r(the radius of the curvature of the particle through the
+mass spectrometer) known from the calibration of the machine, all
+we need to know is how fast the particles were moving when they
+entered the electromagnet. They are accelerated to this speed by an
+electric field acting on their charge, and the kinetic energy gained
+comes from the potential difference, V, that they pass through
+according to
+my2 = 9V
+2qV
+which gives: v=Vm
+Substituting this into our equation for the charge/mass ratio:
+9_20V/m
+m Br
+Squaring gives:
+92 29V/m
+Learning tip
+The content in this section has been included to illustrate how
+different areas of physics can be brought together in one experiment
+to solve a problem. It is not required by the specification.
+B2,2
+Scientists often need to identify unknown chemicals. This is
+particularly important, for example, in the field of forensic science,
+where a crime scene technician will take a sample of unknown
+material which they need to identify A machine called a mass
+spectrometer (fig D) can separate chemicals according to their
+charge/mass ratio, which allows unique identification of each
+substance within a sample.
+m 29V/m
+m2 9 * B2,2
+9- 2V
+7.3
+field will then determine whether it slows up the falling magnet
+or repels it faster down the tube. If the latter were the case, then
+the magnet would end up with more kinetic energy than the
+gravitational potential it had at the start. This is impossible and so
+the law of conservation of energy dictates Lenz's law:
+The direction of an induced e.m.f. is such as to oppose the change
+creating it.
+In this way the e.m.f. induced in the tube acts to try and slow
+down the magnet, as the movement of the magnet is the change
+creating this e.m.f. The induced current around the copper
+tube acts as an electromagnet, and the polarity of this induced
+magnetic field is opposite to that of the falling magnet, so it slows
+up the magnet's fall.
+WORKED EXAMPLE
+Zora has a wire coil of 120 circular turns with a radius of 5 cm, held
+in a magnetic field with a strength of 20 mT. She removes it from
+within the magnetic field to a place completely outside the field in
+0.02 s. What em.f. is induced in her coil?
+Area, A = 7 * (0.05)2 = 7.85 x 10-3 m2
+D = BA = 0.02 x (7.85 x 10-3) = 1.6 10-4 Wb
+Flux-linkage = N = 120 x 1.6 x 10-4 = 1.88 x 10-2Wb-turns
+This is completely removed in 0.02 s.
+-A(NO) -(-1.88 x 10-2)
+At
+0.02
+E = 0.94 V
+Did you know?
+Questions
+Fleming's right hand rule
+The direction of an induced e.m.f. can be found using Fleming's right
+hand rule (fig D). This is very similar to the left hand rule for the
+motor effect. The reason that the opposite hand is needed is a
+product of Lenz's law, in that the induced e.m.f. must be in a
+direction which opposes the change producing it.
+(a) What is the flux linkage if a square coil with 10 cm sides and
+having 500 turns interacts with a magnetic field, B = 0.33 mT?
+(b) The coil is turned through 90% within the 0.33 mT magnetic
+field, moving from a position perpendicular to the field (full flux
+linkage) to a position parallel to the field (zero flux linkage). This
+action takes 12 ms. What is the induced e.m.f. in the coil?
+(c) How would Lenz's law cause the induced current to affect the
+movement?
+motion
+2
+The graph shown in fig E is a trace of induced e.m.f against time as
+a magnet is dropped through a coil of wire.
+400-
+300
+field
+Voltage/mV
+0.1
+Time/s
+induced e.mf.
+fig D Fleming's right hand rule tells us the direction of an induced e.m.f.
+-400
+fig E
+(a) Describe the trace obtained.
+(b) If the coil were connected in series to a light bulb, explain how
+the current through the bulb would vary over time.
+Calculating induced e.m.f.s
+Putting Faraday's and Lenz's laws together gives us an expression
+for calculating an induced e.mf:
+-d(NO)
+-A(NO)
+do or E= -
+Faraday's law told us that the e.m.f would be proportional to the
+rate of change of flux linkage, and the minus sign in the equation
+comes from Lenz's law, to indicate the opposing direction.
+Key definitions
+Lenz's law is that the direction of an induced e.m.f. is such as to
+oppose the change creating it.
+Faraday's law says that induced e.m.f. is proportional to the rate of
+change of flux linkage.
+7.3
+2
+Electric motors
+By the end of this section, you should be able to...
+apply Fleming's left hand rule to current-carrying conductors in a magnetic field
+Fleming's left hand rule
+Magnetic fields can affect moving electric charges, as well as magnetic poles. If you place a wire in
+a magnetic field and pass a current through it, the wire will feel a force on it (fig A). This is called the
+motor effect. The effect is greatest when the wire and the magnetic field are at right angles. In this
+instance, the force will be at right angles to both, in the third dimension, as shown by Fleming's left
+hand rule in fig B.
+field
+fig A The jumping wire experiment illustrates the motor effect in action.
+WORKED EXAMPLE
+Look at the diagram in fig C in which a wire connected to a cell is placed in a magnetic field. In what
+direction will the wire experience a force?
+fig B Fleming's left hand rule gives
+the relative directions of the
+field, current and movement in
+the motor effect.
+fig C Fleming's left hand rule in action.
+The conventional current will flow from the positive end of the cell, so within the magnetic field, as
+observed in fig D, it will be moving away from us. With the magnetic field from north to south (towards
+the right in fig D), Fleming's left hand rule tells us that the wire will feel a force pushing it downwards.
+current
+force
+fig D
+This wire will feel a downwards force.
+66
+Electromagnetic effects
+7.3
+Flux linkage
+The interaction between magnetic fields and charged particles, or conductors, allows motors to
+operate, and electricity to be generated. In most practical applications, magnetic flux is made to
+interact with a coil of wire, as the effect on a single strand of wire is too small to be useful. If the
+single wire is coiled up, then the magnetic field can interact with each turn on the coil, and so any
+effect is multiplied N times, where N is the number of turns on the coil.
+The amount of magnetic flux interacting with a coil of wire is known as the flux linkage, and is
+simply the product of the number of turns of wire and the flux in that region:
+Flux linkage = No measured in weber
+Remembering that “ = BA means that we also have:
+Flux linkage = BAN
+WORKED EXAMPLE
+Zora takes a wire and winds it into a coil of ten circular turns with a radius of 5 cm and then holds this in
+a magnetic field with a strength of 20 mT. What is the flux linkage?
+Area, A = 7 * (0.05)2 = 7.85 x 10-3 m2
+Flux-linkage = BAN = 0.02 * (7.85 x 10-) 10
+Flux-linkage = 1.6 x 10-3Wb
+Questions
+The Earth acts as a giant bar magnet, and currently the geographic North Pole is at the magnetic south
+end of the field.
+(a) Draw a sketch of the Earth with its magnetic field.
+(b) Explain where you would expect the Earth's magnetic flux density to be the greatest.
+2 In Britain, the Earth's magnetic flux density is 50 000 nT, with the field close to horizontal.
+(a) Estimate the flux passing through your body if you stand vertically and face north.
+(b) A typical smartphone compass uses a small magnetometer chip to determine which way the
+phone is facing. Such chips are typically 2 mm by 2 mm squares. If you held a smartphone so the
+magnetometer chip was at an angle of 20° to the horizontal, what would be the flux passing through
+the chip for it to measure?
+3
+In an electric motor, a permanent magnet of flux density 18.4 mT has its field placed perpendicular to a
+coil of 250 turns of copper wire. The diameter of the coil is 8.50 cm. What is the flux linkage between the
+field and the coil?
+Kev definitions
+Poles are the magnetic equivalent of a charge on a particle: north pole or south pole.
+A magnetic field is a region of space that will cause a magnetic pole to feel a force.
+Magnetic flux is an alternative phrase referring to magnetic field lines.
+Magnetic flux density is the ratio of magnetic flux to the area it is passing through.
+Tesla (T) is the unit for magnetic flux density, or magnetic field strength.
+Weber, Wb is the unit of measurement of magnetic flux, 9, (and magnetic flux linkage, No).
+Magnetic field strength is an alternative phrase for magnetic flux density.
+Flux linkage is the amount of magnetic flux interacting with a coil of wire.
+65
+7.3
+4.
+Generating electricity
+By the end of this section, you should be able to...
+describe the factors affecting the e.m.f. induced in a coil when
+there is relative motion between the coil and a permanent
+magnet
+describe how Lenz's law can predict the direction of an
+induced e.m.f. as a consequence of energy conservation
+• define Faraday's law, and be able to use the equation
+Investigation
+Investigating Faraday's law
+You can investigate Faraday's law using a magnet and a coil of wire
+connected to a voltage datalogger, as shown in fig B, or more simply.
+using the set up in fig A.
+)
+€ = -d/N
+dt
+fig B Measuring the induced e.m.f. as a magnet falls through a coil of wire.
+Electromagnetic induction
+We have seen that the movement of a charged particle in a
+magnetic field causes it to feel a force. Newton's third law of
+motion reminds us that this force must have a counterpart that
+acts equally in the opposite direction. Moreover, this pair of
+electromagnetic forces is generated whenever there is relative
+motion between a charge and a magnetic field. Thus, a magnetic
+field moving past a stationary charge will create the same force.
+The velocity term in the expression F = Bqv actually refers to the
+relative (perpendicular) velocity between the magnetic field lines
+and q. (Also remember that if the movement is not at right angles.
+then we need to work out the component of it that is at right
+angles by including the sin term: F= Bqvsin 6.)
+This means that if we move a magnet near a wire, the electrons
+in the wire will feel a force tending to make them move through
+the wire. This is an e.m.f; if the wire is in a complete circuit, then
+the electrons will move, forming an electric current. We can use
+this principle to generate electricity. Reversing the direction of the
+magnetic field, or the direction of the relative motion, will reverse
+the direction of the force on the electrons, reversing the polarity
+of the e.m.f.. Faraday's law states that the induced e.mf is
+proportional to the rate of change of flux linkage.
+Lenz's law
+If you drop a magnet down a copper tube, it falls more slowly
+than if you drop a similarly sized non-magnetic piece of metal
+through it. As copper is not a magnetic material, the friction forces
+should be identical on the two falling objects. This somewhat
+bizarre result is a product of Lenz's law.
+DO
+fig C Lenz's law slows a magnet falling down a copper tube.
+Imagine the copper tube is like a series of coils of copper wire all
+stacked on top of each other. As the magnet falls through the tube,
+it will induce an e.m.f. in each copper circlet, which will cause a
+small current to flow around the tube. This circling current will
+then generate an electromagnetic field, which will interact with
+the falling magnet. The direction of this newly created magnetic
+fig A Relative movement between a wire and a magnetic field will induce
+an e.m.f.
+Electromagnetic effects
+7.3
+Learning tin
+If a current is parallel to a magnetic field, there is no force.
+Investigation
+Build your own motor
+The forced movement of a current-carrying conductor within a
+magnetic field is the fundamental principle that causes motors to
+work. From Fleming's left hand rule, it is clear that if a coil of wire
+carrying a current were placed in a magnetic field it would feel a
+turning force, as the current travels in opposite directions on
+opposite sides of the coil, thus causing forces in opposite directions,
+tending to rotate the coil. If it is free to move, then the coil (or
+motor) will spin continuously. If replicating the apparatus in fig E,
+remember to use a low power DC supply
+fig G The tiniest motor possible? Built by researchers at the Cockrell School of
+Engineering at The University of Texas, this was the smallest, fastest and
+longest-running tiny synthetic motor in 2014.
+Moving systems on a molecular scale have also been produced by
+other groups of scientists using chemical systems to generate the
+forces, but the motors shown in fig F and fig G are the smallest to
+use electromagnetic forces as explained in this section.
+Questions
+| Describe the use of Fleming's left hand rule.
+Copy the diagrams in fig Hand draw an arrow to show the direction
+of any force acting on the wire in each case.
+fig E Motors obey Fleming's left hand rule.
+(a)
+(b)
+The tiniest motor in the world?
+There was some amazement amongst scientists when the
+University of Berkeley in California produced an electric
+motor which was little more than 100 pm across. However, this
+'micromotor' now seems like a lumbering clunky giant, when
+compared with the Berkeley lab's 'nanomotor'; in 2003, the same
+Zettl Lab at Berkeley produced a motor which was less than
+500 nanometres across. In 2014, the Cockrell School of Engineering
+at the University of Texas built a motor of similar tiny size, but
+rotated it faster and for longer than any previous nanomotor.
+fig H
+Many real motors use electromagnets to create the magnetic
+field that causes their rotor to spin. Give one advantage and one
+disadvantage of building a motor which uses electromagnets rather
+than permanent magnets.
+Kev definitions
+Motor effect is the phenomenon that a wire carrying a current, held
+within a magnetic field, will experience a force.
+Fleming's left hand rule is a system for determining the direction of
+the force generated by the motor effect.
+fig F Computer generated image of a nanomotor - a tiny gold rotor spins on a
+carbon nanotube axle. The entire set-up would fit within one wavelength
+of red light. (Courtesy Zetti Research Group, Lawrence Berkeley National
+Laboratory and University of California at Berkeley).
+7.3
+5
+Alternating current
+By the end of this section, you should be able to...
+define the terms frequency, period, peak value and root-
+mean-square value when applied to alternating currents and
+potential differences
+• use the equations Ves = Wand Img = 0
+• describe the factors affecting the e.m.f. induced in a coil when
+there is a change in another coil linked with this coil
+Output
+Mains electricity
+In Section 7.3.4, we saw how an e.m.f can be induced by
+changing the magnetic flux linkage with a conductor. If this is
+extended to a coil which is made to rotate continuously in the
+magnetic field, as in fig A, the e.mf will be induced constantly,
+although it will keep changing direction as the coil's position
+relative to the field keeps switching back and forth.
+0.2 0.4 0.6 0.8
+Time/s
+fig B The cycles of an alternating current can be measured for frequency and
+peak voltage or current.
+cycles completed per second. In the UK, mains electricity is AC
+and it has a frequency of 50 Hz. This means that power station
+generators are carefully controlled, so that they rotate exactly 50
+times per second.
+WORKED EXAMPLE
+What is the frequency of the AC shown in fig B?
+Two complete cycle takes 0.8 seconds: T = 0.45.
+f= 70.4
+carbon brush
+f = 2.5 Hz
+slip rings
+wwwwwwwwwwwww
+- carbon brush
+w
+wwww
+www
+fig A An AC generator: continuously rotating this coil within the magnetic field
+will induce an em.f. all the time, and so an alternating current will flow in
+the circuit all the time.
+In a complete circuit, the e.m.f will cause a current to flow, and
+as the polarity (direction) of the e.m.f. is constantly switching,
+the current will keep changing direction. This can be seen on the
+graph shown in fig B, where the y-axis labelled 'output' could, with
+appropriate units, refer either to the e.m.f across the bulb or the
+current through it.
+Peak values
+As alternating current follows a sinusoidal waveform, its value is
+constantly changing. If we start at zero, it rises to a peak value,
+drops back through zero to negative values, reaching a maximum
+negative value and then returns to zero, before repeating the cycle
+again and again. This idea is true whether we are considering the
+voltage or the current - they both follow the same wave shape.
+The maximum value, regardless of sign, is called the peak value,
+and we can measure the peak current, 10, or the peak voltage,
+V. In the UK, the peak voltage of mains electricity is about
++325 V. The peak current value will depend on the actual circuit in
+use, following Ohm's law.
+WORKED EXAMPLE
+Measuring AC
+Fig B shows us that alternating current follows a waveform, and
+the same cycle will repeat continuously.
+What is the peak voltage of the AC shown in fig B, if the y-axis scale
+is 0.5 volts per square?
+The waveform rises vertically a maximum of four squares above
+zero, and drops at most two squares below zero.
+Vo = 4 x 0.5
+Vo = 2.0V
+Frequency
+As with any waveform, we can measure the time period for one
+complete cycle, and the reciprocal of this will be the frequency.
+The frequency is measured in hertz (Hz) and is the number of
+1.3
+Investigation
+Investigating AC with an oscilloscope
+An oscilloscope is essentially a voltmeter that gives measurements
+over an extended period of time.
+Aims and Vrms. These values allow direct comparison with DC as
+they will deliver the same amount of energy as a DC with the
+same value.
+V
+ITTS
+WORKED EXAMPLE
+What is the rms voltage of the AC mains electricity in the UK?
+Wome V0 - 325
+22
+Vrms = 230 V
+This is the normally stated voltage value for UK mains electricity.
+fig C A cathode ray oscilloscope measuring an AC voltage.
+The voltage reading is shown on the screen by a small dot. The
+vertical position of the dot indicates the voltage value. As time goes
+by, the dot is automatically moved from left to right across the
+screen, so that if the voltage reading changes over time, we will be
+able to see the changing height of the dot's trace on the screen. If the
+dot moves fast enough, it will blur into a continuous line trace.
+Learning tip
+Root-mean-square values are a type of averaging technique. For an
+AC waveform, we look over a whole cycle and for each value find the
+square of it. Then we look at all these squared answers (which will all
+be positive) and find the mean average of them. Finally, take the
+square root of that average, and we have the 'root-of-the-mean-of-
+the-squares' - 'root-mean-square'. You will see this comes up again
+for the average speed of molecules in a gas sample, in Section 9.1.2.
+5 ms/div
+Voltage/mV
+time base
+10 mV/div
+Electromagnetic induction using an
+electromagnet
+In the previous section, the induction of e.m.f. was a result of the
+relative motion between a conductor, or coil, and a permanent
+magnet. The magnetic field which interacts with the coil could
+just as easily be produced electrically by another coil. This is the
+principle of operation of a transformer, and the coil producing the
+initial magnetic field is referred to as the primary coil.
+HHHH
+iron core
+secondary
+primary
+0 5 10 15 20 voltage
+1cm= 1 'division
+Time/ms
+amplification
+fig D Oscilloscope screen controls allow us to adjust for the readings we
+need to measure.
+The two most important controls on an oscilloscope are the time-
+base (x-axis, dot speed control) and the volts-per-division (y-axis,
+voltage sensitivity control). In the example in fig D, the time-base is
+set at 5 ms divl, so the dot will move horizontally across the screen
+at a rate of 1 square in 5 milliseconds. The voltage sensitivity is set at
+10 mV div-l, so the dot will move vertically 1 square for every 10
+millivolts measured. In fig D, the AC shown has a peak voltage of just
+under 30 mV, and a time period of 20 ms.
+IBA
+magnetic field
+Root-mean-square values
+As the voltage and current values for AC are constantly changing,
+what does it mean if we ask, "What is the voltage of this AC?' If
+you look at the sinusoidal trace, you might say that on average
+it was zero. Alternatively, you might choose to state the peak
+value. Scientists need to have an agreed system or the resulting
+confusion could lead to electrocution. Also, we need to be able
+to compare alternating current with direct current. DC has the
+voltage and current values constant and always in the same
+direction. Unless peak values are stated, the voltage and current
+values of alternating currents are the root-mean-square values,
+74
+fig E Using an electromagnet to induce e.m.f. in a coil.
+In fig E we have a pair of coils linked together by a soft iron
+core. Iron is extremely good at carrying magnetism and, in the
+set-up shown, virtually all the magnetic field generated by the
+primary coil on the left would interact with the secondary coil
+on the right. When the primary switch is first closed, the primary
+suddenly produces a magnetic field that was not previously there.
+This means that a changing magnetic field is now within the
+secondary coil. This sudden change of flux linkage will generate
+an e.m.f. in the secondary. However, once the electromagnetic
+field is stable there will no longer be any change in flux linkage
+over time, and so there will be no further induced e.mn.f in the
+secondary. The voltmeter needle will kick and then return to zero.
+7.3
+Magnetic forces
+WORKED EXAMPLE
+By the end of this section, you should be able to...
+use the equation F = BIL sin, for a current-carrying conductor
+in a magnetic field
+apply Fleming's left hand rule to charged particles moving in
+a magnetic field
+Hannah sets up a jumping wire demonstration to impress her
+younger cousin. She uses a wire with a current of 2 A running
+through it, and a pair of Magnadur magnets that have a magnetic
+field of 0.5 ml. She is not too careful in setting up and 5 cm of the
+wire actually hangs across the field at an angle of 80°. How much
+force does Hannah's wire experience? And, if it has a mass of
+9 grams, how fast will it initially accelerate?
+F = Bilsin 0 = 0.5 x 10-3x 2 x 0.05 * sin 80
+F = 4.92 x 105N
+use the equation F = Bqvsing, for a charged particle moving in
+a magnetic field
+Fred = BIL
+a =
+- 4.92 x 10-5
+am 0.009
+a = 5.5 x 10-3ms 2
+Investigation
+WP
+Investigating the magnetic force on a current-carrying conductor
+You can investigate how much force will be on a wire subjected to
+the motor effect. In the experiment shown in fig A, it is easy to alter
+the current through the wire, the length that is within the magnetic
+field, and the angle it cuts across the field.
+A consequence of the expression F= BIL is that a motor can be
+made more powerful, or faster, by:
+increasing the current through the motor (1)
+increasing the number of turns of wire in the motor (L)
+• increasing the magnetic field within the motor (B).
+86 76
+The magnetic field strength is usually maximised by making the
+coil's core out of soft iron. Some motors use electromagnets to
+provide the field, and these could be strengthened by increasing
+the current through them.
+F = Bev
+The motor effect happens because a charged particle moving at
+right angles to a magnetic field feels a force on it at right angles to
+its direction of motion and also at right angles to the field. If the
+charged particle is constrained - like an electron in a current in
+a wire – then the force will be transferred to the wire itself. If the
+particle is flying freely, its direction will change and it will travel a
+circular path whilst in the magnetic field (fig B).
+fig A Investigating the strength of the force on a current-carrying
+conductor in a magnetic field.
+The strength of the force, F, on a wire which has a current,
+1, through it whilst it is in a magnetic field, B, is given by the
+equation:
+F=Bx/xL x sino
+where L is the length of the wire within the field, and is the
+angle the current makes with the lines of the magnetic field. For
+simplicity, we will only consider uniform magnetic fields in which
+the field lines are all parallel.
+It is common to set up situations in which the angle is 90° so
+that sin is a maximum and equals 1. This reduces the formula
+to F= BIL which is commonly remembered by students as
+Fred = BIL.
+fig B Charged particles moving in a magnetic field follow a circular path as the
+motor effect provides a centripetal force.
+The strength of the force on a charged particle moving across a
+magnetic field is given by the equation:
+F=BXqXv X sin
+68
+7.3
+1
+Magnetic fields
+By the end of this section, you should be able to...
+. define the terms magnetic flux density, B, magnetic flux, o,
+and flux linkage, Nø
+calculate flux, flux density and flux linkage
+jump to one of its ends - as the attraction is stronger towards
+the end. The quantity of flux, ” (
+measured in weber, Wb),
+through any given area indicates the strength of the effect of
+the field there. This can be determined for a particular region by
+multiplying the area enclosed by the region by the component of
+Aux density perpendicular to the area.
+= B sind x A
+If the magnetic flux is in a uniform direction and lies
+perpendicular to the area in question, sin 90º = 1, and the
+equation simplifies to:
+p = BA
+WORKED EXAMPLE
+Magnetic flux
+In Section 7.1.1 we saw how an electric field can be represented
+by lines that indicate how a charge will feel a force when placed in
+the field. You are probably more familiar, though, with the everyday
+effects of magnetic fields such as attracting a fridge with a magnetic
+souvenir. Usually the fridge magnet moves towards the fridge rather
+than the other way around, but Newton's third and second laws
+of motion explain this outcome. Electric and magnetic fields are
+very similar (and utterly intertwined) beasts, as we saw in Book 1,
+Topic 5 with the nature of electromagnetic radiation.
+Where an electric field affects charges, a magnetic field affects
+poles. A region of space that will cause a magnetic pole to feel a
+force is called a magnetic field.
+(a)
+/7
++ 11
+- area A
+1
+fig B Magnetic flux contained in a small region, A.
+(a) If the bar magnet in fig B(a) causes a magnetic field with a flux
+density of 20 mT perpendicular to the plane of area A, how
+much flux will be contained by this area if it is 10 cm??
+A = 10 cm2 = 10 x 10-4m
+0 = B x A = 20 x 10-3 x 10 x 10-4
+D = 20 x 10-5Wb
+(b) In fig B(b) the uniform magnetic field has a flux density of
+5x 10-5T and is at an angle of 75° to the region of area A.
+How much flux will be contained by this area if it is 1 cm??
+A= 1 cm² = 1 x 10-4m2
+= B sin 0 x A = 5x 10-5 * sin 75° x 1 x 10-4
+0 = 4.8 x 10-9Wb
+fig A A magnetic field around a permanent bar magnet.
+When we represent a magnetic field in a diagram, the field lines
+show the direction in which a lone north pole will be pushed.
+In reality, poles always exist in north and south pairs, but the
+convention is to take the field as acting from north to south, and
+this is the direction of arrows drawn onto magnetic field lines
+(also called lines of magnetic flux). Like electric field patterns,
+indeed like all field patterns, the closer the lines are together,
+the stronger the field is. The term referring to the strength of a
+magnetic field is the magnetic flux density, B, and the SI unit for
+it is the tesla (T)
+Looking at fig B, you can see that the field lines all go in and
+out of the ends of the bar magnet. This forces them to be closer
+together at those points, which means that the field is stronger
+there. This is why a paperclip picked up by a bar magnet would
+Magnetic flux density
+In the situation where the flux is perpendicular to the area we
+are considering, a rearrangement of the equation shows why the
+quantity B is known as the magnetic flux density:
+B=P
+By sharing the flux over the area, B indicates how closely packed
+the magnetic field lines are - how dense they are. How dense field
+lines are indicates how strong the field is, so B is also known as the
+magnetic field strength.
+64
+7.3 Exam-style questions
+[Note: In questions marked with an asterisk (*), marks will be awarded
+for your ability to structure your answer logically showing how the
+points that you make are related or follow on from each other.
+5 Faraday's and Lenz's laws are summarised in the list of
+formulae as
+d(No)
+(a) State the meaning of the term No.
+(b) Explain the significance of the minus sign.
+[2]
+[3]
+[Total: 5]
+1 A beam of electrons carries 100 billion electrons 18 centimetres
+per second. The beam enters a magnetic field of 40 mt at right
+angles to the field. How much force does each electron feel?
+A 1.15 x 10-21 N
+B 1.15 x 10-19 N
+C 1.15 x 10-18 N
+D 1.15 x 10-10N
+[Total: 1]
+6 A vinyl disc is used to store music. When the disc is played, a
+stylus (needle) moves along in a groove in the disc. The disc
+rotates, and bumps in the groove cause the stylus to vibrate.
+[1]
+coil
+vinyl disc
+.
+W
+iron strips
+K.
+2 A 230 V alternating e.mf drives a current through a 4700 12
+resistor. What is the rms current through the resistor.
+A 0.035 A
+B 0.049 A
+C 0.069 A
+D 14.4 A
+[1]
+[Total: 1]
+..
+magnet
+stylus
+3 When a magnet is moved into a coil of 50 turns at 0.12 ms!,
+an e.m.f. of 3.60 V is generated in the coil. What will be the
+e.m.f. generated when the magnet is removed from the coil at
+0.48 ms-l?
+A -0.90 V
+B 0.90 V
+C -14.4 V
+D 14.4 V
+[Total: 1]
+[1]
+The stylus is attached to a small magnet, which is near to a coil
+of wire. When the stylus vibrates, there is a potential difference
+across the terminals of the coil.
+(a) Explain the origin of this potential difference.
+(b) The potential difference is then amplified and sent to a
+loudspeaker. Long-playing vinyl discs (LPs) have to be
+rotated at 33 rpm (revolutions per minute) so that the
+encoded bumps in the groove lead to the correct sound
+frequencies.
+(i) Calculate the angular velocity of an LP.
+(ii) As the stylus moves towards the centre of the LP the
+encoded bumps must be fitted into a shorter length of
+groove.
+Explain why the encoding of bumps in the groove
+becomes more compressed as the stylus moves
+towards the centre.
+[3]
+[Total: 9]
+[2]
+4 The diagram shows a horizontal wire which is at right angles
+to a magnetic field. The magnetic field is produced by a
+horseshoe magnet, which is on a balance adjusted to read zero
+when the current in the wire is zero.
+- length of wire
+in field
+- magnet
+0.8
+balance
+When the current is 4 A, the reading on the balance is 0.8 gram.
+The length of wire in the magnetic field is 0.05 m.
+Calculate the average magnetic flux density along the length of
+the wire.
+[3]
+[Total: 3]
+78
+Thinking Bigger
+| 7.3
+Let us start by considering the nature of the writing in this paper.
+Cowy
+1. The extract consists of information from a technical paper written for a metal detector
+manufacturer's customers. Why, then, is there no obvious commercial bias in the text?
+2. Discuss the level of scientific detail included in the extract, and the level of language
+used, particularly considering the intended audience.
+Although a technical paper,
+this was presented in a
+brochure-style format for
+Minelab's customers.
+Now we will look at the physics in detail. Some of these questions will link to topics elsewhere in this
+book, so you may need to combine concepts from different areas of physics to work out the answers.
+UW00w
+3. Explain how a metal detector functions, including references to Faraday's law and
+Lenz's law.
+4. a. Explain how the operation of the metal detector is similar to that of a transformer.
+b. Explain how the metal detector is different from a transformer.
+5. Why does the signal from the receive coil need to be amplified electronically?
+6. If the target metal has a lower resistivity, it produces a stronger detection signal. Explain
+why a gold wedding ring might be easier to detect than a naturally occurring gold
+nugget of a similar size.
+Consider how a
+transformer manages to
+transmit nearly all the
+power from its primary
+coil to its secondary
+coil; and then compare
+with the structure of
+this device.
+Activity
+Imagine Minelab have been asked to give a presentation about their portable metal detectors to a group
+of amateur treasure hunters. Prepare the part of the presentation which explains why some objects are
+more easily detected than others. You should cover size, shape, proximity and resistivity. Diagrams should
+be included in your presentation.
+Do not attempt to teach
+them A level physics -
+your presentation should
+explain the principles
+without overcomplicated
+detail.
+8.2
+8.3
+9.1
+10.1
+11.1
+12.1
+13.1
+77
+What have I studied before?
+• Magnetic field rules for attraction and repulsion
+• Electric current as the movement of charge
+• The effects of electric fields on charges
+• Resolving vectors
+The centripetal force equation
+Conservation of energy
+What will I study later?
+• Alpha particle deflections from nuclei
+The structure and functioning of particle
+accelerators
+The detection and identification of subatomic
+particles by magnetic deflection
+Magnetic storage of charged particles, including
+anti-matter
+Root-mean-square calculations of gas molecule
+speeds
+Nuclear fusion requires magnetic particle
+containment
+What will I study in this chapter?
+How to explain the strength of a magnetic field
+The effects of electric and magnetic fields on the
+movement of charged particles
+• How electricity can be generated
+• How to calculate the amount and direction of
+induced e.m.f.
+How to measure alternating currents and voltages
+63
+Electromagnetic effects
+7.3
+Transformers
+If the primary circuit is switched off, the magnetic field it produces
+will suddenly disappear, and a brief e.m.f. will be induced in the
+opposite direction to the switch-on voltage. The voltmeter needle
+will kick in the opposite direction and then return to zero again.
+WORKED EXAMPLE
+Learning tip
+The content in this section has been included to illustrate how
+different areas of physics can be brought together in one experiment
+to solve a problem. It is not required by the specification.
+The iron core in fig E has a square cross-section with each side
+4 cm. The primary produces a magnetic field with a strength of
+0.5 T. This takes 60 ms to generate, and to die away, when the
+primary circuit is switched on or off. The secondary coil has
+120 turns. What e.m.f. would be induced in the secondary at the
+moments of switch-on and switch-off of the primary circuit?
+-d(N) -A(N) -A(BAN)
+dt At
+-(0.5 * 0.042 * 120)
+60 x 10-3
+E = -1.6 V
+At
+At switch-off, the e.m.f. induced would be the same amount but in
+the opposite direction, so ε = 1.6 V.
+The circuit and situation described above is not really of much
+practical use, although it can be responsible for current surges in
+circuitry, which can cause damage. The same principle is more
+usefully applied in the transformer, in which an alternating current
+is supplied to the primary. As this current constantly varies, the
+electromagnetic field produced by the primary coil alternates,
+which creates a varying induced e.m.f. in the secondary. This e.m.f.
+will vary at the same rate as the AC supplied to the primary. It will
+also change constantly depending on the varying rate of change
+of flux linkage. This comes from the strength of the magnetic field
+(which in turn depends on the number of turns on the primary
+coil) and the number of turns on the secondary coil. It turns
+out that the ratio of voltages between primary and secondary is
+identical to the ratio of the number of turns on these coils:
+V primary primary
+Vsecondary secondary
+This gives us the essential job of a transformer which is to
+change voltage. More turns on the secondary means a step-up
+transformer in which the output voltage is higher than the input
+voltage and vice versa for a step-down transformer.
+The magnetic field is The induced voltage in the
+almost totally contained secondary coil is given by
+in the iron core.
+Faraday's law: V = -NA
+Questions
+| From the oscilloscope readings in fig D:
+(a) What is the frequency of the AC?
+(b) If the peak voltage is 28 mV, what is the rms voltage?
+(c) How would the trace change if:
+(i) the time-base is changed to 10 ms divi?
+(ii) the voltage sensitivity is changed to 5 mV divi?
+A
+A transformer for å toy train set converts the mains supply from
+230 V down to 6V to operate the model train. The transformer that
+makes this conversion has 160 turns on its secondary coil. How
+many primary turns does the transformer have?
+w
+w
+3
+Part of the train set in question 2 has a resistance of 5600 and is
+connected in parallel to the 6V output from the transformer.
+(a) What is the peak voltage from the transformer's 6 Vrms output?
+(b) What are the rms and peak currents through this part of the
+train set?
+magnetic field
+A current in the primary iron core
+coil produces a magnetic
+field, like a solenoid.
+fig F How a transformer can change voltage
+WORKED EXAMPLE
+Kev definitions
+Peak value is the maximum value, regardless of sign, of a sinusoidal
+graph, such as that for alternating current.
+Peak current is the maximum value, regardless of sign, of an
+alternating current
+Peak voltage is the maximum voltage value, regardless of sign, of an
+alternating current.
+A primary coil is the first coil in a transformer, in which the supply
+current passes.
+A secondary coil is the second coil in a transformer, in which the
+output current passes.
+A local substation of the National Grid changes the voltage down
+from 11 kV to 415 V. If the primary coil in this transformer has
+8000 turns, how many will be needed on the secondary to give the
+correct output voltage?
+Vprimary primary
+Vsecondary Nsecondary
+11 x 103 8x 103
+415 secondary
+8 x 103 415
+Nsecondary
+11 x 102
+Nsecondary = 302 turns
+TOPIC 7
+Electric and magnetic fields
+CHAPTER
+7.3
+Electromagnetic effects
+Introduction
+Industrial electricity generation is vital in our technological world. Virtually every device is electrically powered these
+WP days, so the physics behind generating electricity is vital. Electric and magnetic fields are utterly intertwined
+phenomena. Changing one either automatically generates or changes the other. However, the details of how to
+maximise these effects are subtle and important.
+As with all physical phenomena, the conservation of energy is paramount, and this affects the conversion of movement into
+electricity. However, electrical energy being transferred into kinetic energy is also hugely important in today's world. This is
+essentially the inverse effect to the generation of electricity, and we will look at it in this chapter too. Other machines such as
+particle accelerators and mass spectrometers are also affected by the equations involved in this chapter, so we will highlight the
+connections to these.
+Finally, we will combine these effects to look a little beyond the examination specification when considering the functioning of
+electrical transformers. Their interconversion of energy from electric current into magnetic fields and back again is the closest
+people have come to creating a perfectly efficient machine.
+All the maths you need
+• Recognising and use of appropriate units (e.g. the tesla)
+• Substituting numerical values into equations (e.g. calculate magnetic flux linkage)
+• Understanding the slope of a tangent to a curve as a measure of the rate of change (e.g. induced e.m.f. as the rate of change
+of magnetic flux linkage)
+• Use of angles in 2D and 3D structures (e.g. finding the magnetic flux linkage when a coil area is at an angle to the magnetic
+field direction)
+• Distinguishing between instantaneous and average rates of change (e.g. comparing the e.m.f. induced at different times as a
+magnet falls through a coil)
+62
+THINKING
+BIGGER
+METAL DETECTIVES
+Detecting metal objects using a process involving electromagnetic induction was first proposed by
+Alexander Graham Bell, also the inventor of the telephone, as a means to find the bullet within the
+body of dying US President James Garfield after he had been shot by an assassin. The bullet was
+not found, but the invention of the metal detector was one positive outcome of President Garfield's
+demise.
+METAL DETECTORS BASICS AND THEORY
+their generated magnetic field is different from the transmitted
+magnetic field in shape and strength. It is the altered shape of this
+regenerated magnetic field that metal detectors use to detect metal
+targets. (The different shape' may be in the form of a time delay.)
+The regenerated magnetic field from the eddy currents causes an
+alternating voltage signal at the receive coil. This is amplified by
+the electronics because relatively deeply buried targets produce
+signals in the receive coil which can be millions of times weaker
+than the signal in the transmit coil, and thus need to be amplified to
+a reasonable level for the electronics to be able to process.
+In summary:
+fig A Electromagnetic induction can save lives by finding buried explosives.
+Metal detectors work on the principle of transmitting a
+magnetic field and analysing a return signal from the target and
+environment. The transmitted magnetic field varies in time,
+usually at rates of fairly high-pitched audio signals. The magnetic
+transmitter is in the form of a transmit coil with a varying electric
+current flowing through it produced by transmit electronics. The
+receiver is in the form of a receive coil connected to receive and
+signal processing electronics. The transmit coil and receive coil are
+sometimes the same coil. The coils are within a coil housing which
+is usually simply called the coil', and all the electronics are within
+the electronics housing attached to the coil via an electric cable
+and commonly called the 'control box'.
+This changing transmitted magnetic field causes electric currents
+to flow in metal targets. These electric currents are called eddy
+currents, which in turn generate a weak magnetic field, but
+1 Transmit signal from the electronics causes transmit electrical
+current in transmit coil.
+2 Electrical current in the transmit coil causes a transmitted
+magnetic field.
+3 Transmitted magnetic field causes electrical currents to flow in
+metal targets (called eddy currents).
+4 Eddy currents generate a magnetic field. This field is altered
+compared to the transmitted field.
+5 Receive coil detects the magnetic field generated by eddy
+currents as a very small voltage.
+6 Signal from receive coil is amplified by receive electronics,
+then processed to extract signal from the target, rather than
+signals from other environment magnetic sources such as
+Earth's magnetic field.
+From a paper written by Bruce Candy, Chief Scientist, Minelab Electronics,
+a manufacturer of metal detectors. https://www.minelab.com/_files/f/11043/
+METAL DETECTOR BASICS AND THEORY.pdf.
+Where else will I encounter these themes?
+Book 1
+6.1
+6.2
+7.1
+7.2
+YOU ARE
+HERE
+8.1
+76

@@ -1,0 +1,1240 @@
+5.5 Osmosis
+Table 2 Osmosis in a plant cell
+Higher (less negative)
+Equal
+Lower (more negative)
+Water potential (Y)
+of external solution
+compared to cell solution
+Net movement of water
+Enters cell
+Leaves cell
+Water constantly enters and
+leaves, but at equal rates
+No change
+Condition of protoplast
+Swells and becomes turgid
+Plasmolysis, contents shrink
+protoplast pushed
+against cell wall
+protoplast beginning to pull
+away from the cell wall
+protoplast completely pulled
+away from the cell wall
+nucleus
+space
+filled
+with external
+solution
+of lower
+water potentia
+cellulose
+cell wall
+protoplast
+Osmosis investigations ?
+Final
+mass
+Difference
+in mass
+% mass
+change
+Sugar
+concentration
+mol dm-3
+0.0
+The effect of solutions with different water
+potentials can be observed in both plant
+and animal cells.
+Original
+mass
+(g)
+3.0
+Mean %
+mass
+change
+4.0
+3.0
+4.1
+4.2
+0.1
+3.3
+3.0
+3.2
+2.9
+Plant cells
+Pieces of potato or onion can be placed
+into sugar or salt solutions with different
+concentrations, and therefore different
+water potentials. Water will move into
+or out of cells depending on the water
+potential of the solution relative to the
+water potential of the plant tissue. As the
+plant tissue gains or loses water it will
+increase or decrease in mass and size, and
+vice versa.
+0.3
+3.0
+2.9
+3.2
+3.2
+3.5
+3.6
+3.3
+3.0
+3.0
+3.2
+2.8
+2.6
+2.7
+2.2
+2.4
+2.0
+0.5
+3.0
+0.7
+A student used potato cores and their
+knowledge of osmosis to investigate the
+water potential of potato cells.
+The following results were obtained.
+3.1
+3.1
+3.3
+3.0
+1 Copy and complete the table to show final masses, percentage mass changes and mean percentage changes.
+2 Plot a graph of the results.
+3 Describe and explain the shape of the graph.
+4 Write a short evaluation using the information given and suggest any improvements to the investigation.
+116
+PLASMA MEMBRANES
+5.1 The structure and function
+of membranes
+Specification reference: 2.1.5
+You learnt about the structure of cells in Chapter 2, Basic components
+of living systems. Membranes are the structures that separate the
+contents of cells from their environment. They also separate the
+different areas within cells (organelles) from each other and the
+cytosol. Some organelles are divided further by internal membranes.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the roles of membranes within
+cells and at the surface of cells
+the fluid mosaic model of
+membrane structure and the
+roles of its components.
+The formation of separate membrane-bound areas in a cell is called
+compartmentalisation. Compartmentalisation is vital to a cell as
+metabolism includes many different and often incompatible reactions.
+Containing reactions in separate parts of the cell allows the specific
+conditions required for cellular reactions, such as chemical gradients,
+to be maintained, and protects vital cell components.
+Synoptic link
+You will learn about the importance
+of chemical gradients in biological
+processes, including gas exchange
+in mammals and fish in Topic 72,
+Mammalian gaseous exchange
+system and Topic 7.4 Ventilation and
+gas exchange in other organisms).
+You will learn about the transport
+of oxygen in the blood in Topic 8.1,
+Transport systems in multicellular
+animals and about translocation in
+plants in Topic 9.4, Translocation.
+Membrane structure
+All the membranes in a cell have the same basic structure. The
+cell surface membrane which separates the cell from its external
+environment is known as the plasma membrane.
+Membranes are formed from a phospholipid bilayer. The hydrophilic
+phosphate heads of the phospholipids form both the inner and
+outer surface of a membrane, sandwiching the fatty acid tails of the
+phospholipids to form a hydrophobic core inside the membrane.
+Cells normally exist in aqueous environments. The inside of cells
+and organelles are also usually aqueous environments. Phospholipid
+bilayers are perfectly suited as membranes because the outer surfaces
+of the hydrophilic phosphate heads can interact with water.
+Synoptic link
+000000000000000000000000-hydrophillic
+In Chapter 13, Neuronal
+communication you will learn about
+the role of chemical gradients in
+neuronal communication and in
+Chapter 18, Respiration, the role of
+gradients in respiration.
+phosphate
+head
+hydrophobic
+core
+phospholipid
+bilayer
+1000000000000000000000000
+Figure 1 Phospholipids arranged in a double layer forming a hydrophobic core
+Synoptic link
+You learnt about phospholipids
+and how they interact in aqueous
+environments to form bilayers in
+Topic 3.5, Lipids.
+Cell membrane theory
+Membranes were seen for the first time following the invention of
+electron microscopy, which allowed images to be taken with higher
+magnification and resolution. Images taken in the 1950s showed the
+102
+PLASMA MEMBRANES
+If an animal cell is placed in a solution that has a lower water potential
+than the cytoplasm it will lose water to the solution by osmosis down
+the water potential gradient. This will cause a reduction in the volume
+of the cell and the cell-surface membrane to 'pucker', referred to as
+crenation (Figure 2).
+To prevent either cytolysis or crenation, multicellular animals usually
+have control mechanisms to make sure their cells are continuously
+surrounded by aqueous solutions with an equal water potential
+(isotonic). In blood the aqueous solution is blood plasma.
+Table 1 Osmosis in a red blood cell
+Higher (less negative)
+Equal
+Lower (more negative)
+Water potential (Y)
+of external solution
+compared to cell solution
+Net movement of water
+Enters cell
+Leaves cell
+Water constantly enters and
+leaves, but at equal rates
+No change
+State of cell
+Swells and bursts
+Shrinks
+contents, including
+haemoglobin, are released
+haemoglobin is more
+concentrated, giving cell
+a darker appearance
+normal red blood cell
+cell shrunken
+and shrivelled
+remains of cell
+surface membrane
+Plant cells
+Like animal cells, plant cells contain a variety of solutes,
+mainly dissolved in a large vacuole. However, unlike animals,
+plants are unable to control the water potential of the fluid
+around them, for example, the roots are usually surrounded
+by almost pure water.
+Plants cells have strong cellulose walls surrounding the cell-
+surface membrane. When water enters by osmosis the increased
+hydrostatic pressure pushes the membrane against the rigid cell
+walls. This pressure against the cell wall is called turgor. As the Figure 2 Scanning electron micrograph of a red
+turgor pressure increases it resists the entry of further water and blood cell that has been placed in a solution of lower
+the cell is said to be turgid.
+water potential than the cytoplasm and become
+crenated by osmosis (* 5000 magnification)
+When plant cells are placed in a solution with a lower water
+potential than their own, water is lost from the cells by osmosis.
+This leads to a reduction in the volume of the cytoplasm, which
+eventually pulls the cell-surface membrane away from the cell
+wall – the cell is said to be plasmolysed.
+115
+PLASMA MEMBRANES
+membrane as two black parallel lines - supporting an earlier theory
+that membranes were composed of a lipid bilayer.
+In 1972 American scientists Singer and Nicolson proposed a model,
+building upon an earlier lipid-bilayer model, in which proteins occupy
+various positions in the membrane. The model is known as the fluid-
+mosaic model because the phospholipids are free to move within
+the layer relative to each other (they are fluid), giving the membrane
+flexibility, and because the proteins embedded in the bilayer vary in
+shape, size, and position in the same way as the tiles of a mosaic).
+This model forms the basis of our understanding of membranes today.
+Study tip
+The movement of the
+phospholipids in a membrane
+causes the movement of the other
+components.
+A closer look at cell membrane components
+Plasma membranes contain various proteins and lipids – the type and
+number of which are particular to each cell type.
+glycolipid - acts as a recognition
+glycoprotein - branching carbohydrate
+site, e.g., for cholera toxins
+portion of a protein which acts as a
+cholesterol - for stability/flexibility
+recognition site for chemicals, e.g., hormones
+pore
+hydrophilic
+heads of
+protein phospholipid
+molecule molecules
+lying on
+- point outwards
+the surface
+(extrinsic protein)
+protein
+hydrophobic tails
+molecule of phospholipid
+partly
+molecules
+ernbedded - point inwards
+(extrinsic protein)
+protein molecule
+spanning the
+phospholipid layer
+(intrinsic protein)
+A Figure 2 The fluid-mosaic model of a plasma membrane showing the many
+components, including cholesterol, glycolipids and glycoproteins, and membrane proteins
+Study tip
+The components of plasma membranes play an important role in the
+functions of the membrane and the cell or organelle they are part of.
+Membrane proteins
+Membrane proteins have important roles in the various functions
+of membranes. There are two types of proteins in the cell-surface
+membrane - intrinsic and extrinsic proteins.
+Always use the term cell-surface or
+plasma membrane when referring
+to membranes that enclose cells in
+order to distinguish them from the
+membranes that form organelles.
+103
+PLASMA MEMBRANES
+Animal cells
+Eggs can be used to demonstrate osmosis in animal
+cells. A chicken's egg is not exactly a single cell, but
+with the shell removed a single membrane-bound
+structure remains and it will behave in the same
+way as a cell when placed in solutions of varying
+water potentials.
+To investigate osmosis, eggs without their shells are
+placed in different concentrations of sugar syrup. Over
+time, osmosis takes place and there will have been a net
+movement of water into or out of the eggs, depending on
+the concentration of the syrup they were in. (Note that
+if the egg is hard boiled for easier handling that this will
+damage the membrane.)
+Summary questions
+1 Copy the diagram below and use arrows to show the net movement of water.
+(2 marks)
+partially permeable
+membrane
+pure water
+(V = 0 kPa) |
+dilute solution
+(V-200 kPa)
+V concentrated solution
+(V = -500 kPa)
+0 1°
+0
+0
+0
+ooo olo oo oo
+OOO O OOO
+ooo qoo 0 0 0
+2 Explain why it is not possible to have a positive water potential.
+(2 marks)
+3 At which point on the graph in Figure 3 is the water potential of the solution equal to
+the water potential of the cells?
+(1 mark)
+---
+--------------
+PINE
+KERNEL
+10
+sodium chloride
+concentration
+/ mol dm-
+0.6 0.7 0.8 0.9
+mass o
+1
+0.2
+0.3
+0.5
+1.0
+change
+BUTTERNUT
+SQUASH
+SWEET
+POTATO
+-CACTUS
+Figure 3 Mass changes in plant
+tissues bathed in salt solutions
+(3 marks)
+4 Explain why it is important to keep the concentrations of electrolytes (solutes) in body tissues
+at the correct level to ensure proper hydration.
+5 Look at Figure 3 again. State which plant tissue in these data has the highest solute concentration
+(lowest water potential). Suggest a reason for this.
+(4 marks)
+117
+Chapter 5 Practice questions
+4
+The graph below shows the permeability
+of a plasma membrane to different organic
+solvents.
+107
+log membrane permeability (cm/hr)
+0.001 -
+0.0001 +
+0.00001
+0.0001 0.001 0.01
+log oil to water solubility
+0.1
+a
+b
+Practice questions
+1 Solution A has a more negative water
+potential than solution B.
+Which of the following statements is/are
+correct?
+Statement 1: Solution B has a higher water
+potential than solution A
+Statement 2: There would be a net
+movement of water from solution A to
+solution B
+Statement 3: There would be a net
+movement of water from solution A to
+distilled water
+A 1, 2 and 3 are correct
+B Only 1 and 2 are correct
+C Only 2 and 3 are correct
+D Only 1 is correct
+(1 mark)
+2 Membrane proteins are essential in order for
+cells to interact with their environment and
+other cells. About a third of the genes in a
+human genome code for membrane proteins.
+a (i) Explain what is meant by the term
+simple protein.
+(2 marks)
+(ii) List the different levels of protein
+structure.
+(3 marks)
+b Outline the roles of proteins in a cell
+surface membrane.
+(5 marks)
+3 A plasma membrane has a very complex
+structure which is affected by changes in
+the cells environment. Changes in pH or
+temperature affect the permeability of plasma
+membranes.
+a Describe how you would use a
+colorimeter to investigate how cell
+membrane permeability changes with
+temperature.
+(6 marks)
+b Describe what you would do to ensure
+your results were:
+(i) valid
+(2 marks)
+(ii) reliable
+(2 marks)
+c Suggest why alcohol is used in antiseptic
+wipes.
+(3 marks)
+5
+Describe the relationship between lipid
+solubility and membrane permeability of
+organic molecules.
+(2 marks)
+The size of the circles is proportional to
+the size of the organic molecule.
+It is known that with two organic
+molecules of the same lipid solubility,
+the one with greater molecular weight,
+or size, will cross the membrane more
+slowly.
+State whether the data in the graph above
+agrees with this fact. Suggest a reason for
+your answer.
+(3 marks)
+A student stated the following answer
+about membranes
+The cell membrane is a thin semi-permeable
+membrane that surrounds the cytoplasm
+of a cell
+(i) Suggest why the student should have
+used the term 'selectively permeable'
+rather than 'semi-permeable' to
+describe a cell membrane. (2 marks)
+(ii) Identify one other error in this
+statement
+(1 mark)
+Explain how water molecules cross
+selectively permeable membranes by
+simple diffusion.
+(2 marks)
+b
+118
+5.1 The structure and function of membranes
+Study tip
+When discussing transport
+proteins be specific - use the
+term 'channel protein' (passive) or
+'carrier protein' (active or passive).
+Intrinsic proteins
+Intrinsic proteins, or integral proteins, are transmembrane proteins
+that are embedded through both layers of a membrane. They have
+amino acids with hydrophobic R-groups on their external surfaces,
+which interact with the hydrophobic core of the membrane, keeping
+them in place.
+Channel and carrier proteins are intrinsic proteins. They are both
+involved in transport across the membrane.
+Channel proteins provide a hydrophilic channel that allows the
+passive movement (Topic 5.3, Diffusion) of polar molecules and
+ions down a concentration gradient through membranes. They are
+held in position by interactions between the hydrophobic core of
+the membrane and the hydrophobic R-groups on the outside of
+the proteins.
+Carrier proteins have an important role in both passive transport
+(down a concentration gradient) and active transport (against a
+concentration gradient) into cells (Topic 5.4, Active transport). This
+often involves the shape of the protein changing.
+Glycoproteins
+Glycoproteins are intrinsic proteins. They are embedded in the
+cell-surface membrane with attached carbohydrate (sugar) chains of
+varying lengths and shapes. Glycoproteins play a role in cell adhesion
+(when cells join together to form tight junctions in certain tissues) and
+as receptors for chemical signals.
+When the chemical binds to the receptor, it elicits a response from the
+cell. This may cause a direct response or set off a cascade of events
+inside the cell. This process is known as cell communication or cell
+signalling. Examples include:
+•
+receptors for neurotransmitters such as acetylcholine at nerve cell
+synapses. The binding of the neurotransmitters triggers or prevents
+an impulse in the next neurone
+receptors for peptide hormones, including insulin and glucagon,
+which affect the uptake and storage of glucose by cells.
+Synoptic link
+You will learn about cell
+communication in the nervous
+and endocrine (hormone)
+systems in Chapter 13, Neuronal
+communication and Chapter 14,
+Hormonal communication.
+Some drugs act by binding to cell receptors. For example, blockers
+are used to reduce the response of the heart to stress.
+Glycolipids
+Glycolipids are similar to glycoproteins. They are lipids with attached
+carbohydrate (sugar) chains. These molecules are called cell markers or
+antigens and can be recognised by the cells of the immune system as self
+(of the organism) or non-self (of cells belonging to another organism).
+Synoptic link
+You will learn about antigens
+and cell recognition in an
+immune response in Chapter 12,
+Communicable diseases.
+Extrinsic proteins
+Extrinsic proteins or peripheral proteins are present in one side of
+the bilayer. They normally have hydrophilic R-groups on their outer
+surfaces and interact with the polar heads of the phospholipids or with
+intrinsic proteins. They can be present in either layer and some move
+between layers.
+104
+5.3 Diffusion
+Specification reference: 2.1.5
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the passive movement
+of molecules across
+membranes
+→ practical investigations into
+the factors affecting diffusion
+rates in model cells.
+The exchange of substances between cells and their environment or
+between membrane-bound compartments within cells and the cell cytosol
+is defined as either active (requiring metabolic energy) or passive. All
+movement requires energy. Passive movement, however, utilises energy
+from the natural motion of particles, rather than energy from an another
+source. This topic will focus on passive transport methods.
+Diffusion
+Diffusion is the net, or overall, movement of particles (atoms,
+molecules or ions) from a region of higher concentration to a region
+of lower concentration. It is a passive process and it will continue
+until there is a concentration equilibrium between the two areas.
+Equilibrium means a balance or no difference in concentrations.
+Study tip
+Diffusion only occurs between
+different concentrations of the
+same substance.
+Diffusion happens because the particles in a gas or liquid have kinetic
+energy (they are moving). This movement is random and an unequal
+distribution of particles will eventually become an equal distribution.
+Equilibrium doesn't mean the particles stop moving, just that the
+movements are equal in both directions.
+Particles move at high speeds and are constantly colliding, which slows
+down their overall movement. This means that over short distances
+diffusion is fast, but as diffusion distance increases the rate of diffusion
+slows down because more collisions have taken place.
+For this reason cells are generally microscopic – the movement of
+particles within cells depends on diffusion and a large cell would lead
+to slow rates of diffusion. Reactions would not get the substrates they
+need quickly enough or ATP would be supplied too slowly to energy-
+requiring processes.
+Factors affecting rate of diffusion
+• temperature - the higher the temperature the higher the rate of
+diffusion. This is because the particles have more kinetic energy
+and move at higher speeds.
+concentration difference - the greater the difference in
+concentration between two regions the faster the rate of diffusion.
+because the overall movement from the higher concentration to
+lower concentration will be larger.
+A concentration difference is said to be a concentration gradient,
+which goes from high to low concentration. Diffusion takes place
+down a concentration gradient. It takes a lot more energy to move
+substances up a concentration gradient.
+So far diffusion in the absence of a barrier or membrane has been
+considered. This is simple diffusion.
+Figure 1 The random movement
+of particles means the initial unequal
+distribution eventually evens out
+108
+5.5 Osmosis
+Specification reference: 2.1.5
+Osmosis is a particular type of diffusion - specifically the diffusion
+of water across a partially permeable membrane. As with all types of
+diffusion it is a passive process and energy is not required.
+Water potential
+A solute is a substance dissolved in a solvent (for example water)
+forming a solution.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the movement of water
+across membranes by
+osmosis
+the effects that solutions
+of different water potential
+can have on plant and
+animal cells
+practical investigations into
+the effects of solutions of
+different water potential on
+plant and animal cells.
+The amount of solute in a certain volume of aqueous solution is the
+concentration. Water potential is the pressure exerted by water
+molecules as they collide with a membrane or container. It is measured
+in units of pressure pascals (Pa) or kilopascals (kPa). The symbol for water
+potential is the Greek letter psi Y.
+Pure water is defined as having a water potential of OkPa (at standard
+temperature and atmospheric pressure -25°C and 100 kPa). This is
+the highest possible value for water potential, as the presence of a
+solute in water lowers the water potential below zero. All solutions
+have negative water potentials - the more concentrated the solution
+the more negative the water potential.
+Study tip
+Remember that all water potential
+values are negative. Pure water
+has a water potential of zero.
+When solutions of different concentrations, and therefore different
+water potentials, are separated by a partially permeable membrane,
+the water molecules can move between the solutions but the solutes
+usually cannot. There will be a net movement of water from the
+solution with the higher water potential (less concentrated) to the
+solution with the lower water potential (more concentrated). This
+will continue until the water potential is equal on both sides of the
+membrane (equilibrium).
+water
+molecules
+partially permeable
+membrane
+OOOOOOOOOO
+0
+Effects of osmosis on plant and animal cells
+The diffusion of water into a solution leads to an increase
+in volume of this solution. If the solution is in a closed
+system, such as a cell, this results in an increase in pressure.
+This pressure is called hydrostatic pressure and has the
+same units as water potential, kPa. At the cellular level this
+pressure is relatively large and potentially damaging.
+Oo oo
+ooº ooo
+oOo
+0 0
+srisililistallille
+O oºo 0 0.00
+Oo ooo
+molecules
+net movement of water
+solute
+Animal cells
+dilute solution
+low concentration of solute
+high water potential (V)
+concentrated solution
+high concentration of solute
+low water potential (V)
+If an animal cell is placed in a solution with a higher water
+potential than that of the cytoplasm, water will move into the
+cell by osmosis, increasing the hydrostatic pressure inside the
+cell. All cells have thin cell-surface membranes (around 7 nm)
+and no cell walls. The cell-surface membrane cannot stretch
+much and cannot withstand the increased pressure. It will
+break and the cell will burst, an event called cytolysis.
+A Figure 1 Due to the greater number of water
+molecules on the left-hand side of the partially
+permeable membrane, diffusion occurs until the
+number of water molecules is equal on both sides of
+the membrane. This movement is called osmosis
+114
+PLASMA MEMBRANES
+Study tip
+Endocytosis is the bulk transport of material into cells. There
+are two types of endocytosis, phagocytosis for solids and
+pinocytosis for liquids - the process is the same for both.
+The cell-surface membrane first invaginates (bends inwards) when
+it comes into contact with the material to be transported. The
+membrane enfolds the material until eventually the membrane
+fuses, forming a vesicle. The vesicle pinches off and moves into the
+cytoplasm to transfer the material for further processing within the
+cell. For example, vesicles containing bacteria are moved towards
+lysosomes, where the bacteria are digested by enzymes.
+Exocytosis is the reverse of endocytosis. Vesicles, usually formed
+by the Golgi apparatus, move towards and fuse with the cell
+surface membrane. The contents of the vesicle are then released
+outside of the cell.
+It is important to understand the
+difference between facilitated
+diffusion and active transport.
+Both use carrier proteins but
+facilitated diffusion occurs down
+a concentration gradient and
+therefore does not require energy.
+Synoptic link
+You learnt about vesicles in
+Topic 2.4, Eukaryotic cell structure.
+endocytosis
+Synoptic link
+You will learn about phagocytosis
+in Topic 12.5, Non-specific
+defences against pathogens.
+exocytosis
+secretory
+vesicle
+vesicle
+(endosome)
+cell-surface
+membrane
+A Figure 2 Exocystosis is the reverse of endocytosis
+Energy in the form of ATP is required for movement of vesicles along
+the cytoskeleton, changing the shape of cells to engulf materials, and
+the fusion of cell membranes as vesicles form or as they meet the cell-
+surface membrane.
+Summary questions
+1 Explain why facilitated diffusion is not a form of active transport.
+(2 marks)
+2 Cells that carry out active transport usually have more mitochondria
+than cells that do not. Explain why.
+(2 marks)
+3 Plant roots take up mineral ions from the soil. The concentration of
+mineral ions in the soil water is very low. Suggest why active
+transport is very important in root hair cells.
+(4 marks)
+113
+PLASMA MEMBRANES
+water surface (outside of cell)
+This also happens to neurones in the brain, explaining the changes
+seen in peoples' behaviour after consuming alcoholic drinks.
+Investigating membrane permeability a
+alcohol
+Beetroot cells contain betalain, a red pigment that gives them their
+distinctive colour, because of this they are useful for investigating the
+effects of temperature and organic solvents on membrane permeability.
+When beetroot cells membranes are disrupted the red pigment is released
+and the surrounding solution is coloured. The amount of pigment released
+into a solution is related to the disruption of the cell membranes.
+water surface (inside of cell)
+A Figure 2 The presence of alcohol
+molecules between the phospholipids
+disrupts the structure of the membrane
+Synoptic link
+You will learn about nerve impulse
+transmission in Topic 13.4,
+Nervous transmission.
+To investigate the effect of temperature on the permeability of cell
+membranes a student carried out the following procedure. Five small pieces
+of beetroot of equal size were cut using a cork borer. The beetroot pieces
+were thoroughly washed in running water, they were then placed in 100 ml
+of distilled water in a water
+bath. The temperature of the
+water bath was increased
+in 10°C intervals. Samples light source
+detector
+of the water containing
+sample
+the beetroot were taken
+filter
+five minutes after each
+Figure 3 Light first passes through a
+temperature was reached. filter and then the sample. The intensity of
+The absorbance of each light hitting the detector is recorded
+sample was measured using
+a colorimeter with a blue
+filter. The experiment was
+done three times, each time
+with fresh beetroot pieces
+and a mean calculated for
+each temperature. Their
+0 0 10 20 30 40 50 60 70 80 90 100
+results are shown in the
+temperature (°C)
+graph below.
+A Figure 4
+absorbance (blue light)
+OOoooooo
+OWNUONO
+Summary questions
+1 Explain why solvents like
+water do not disrupt cell
+membranes. (2 marks)
+1 Suggest why:
+a The beetroot pieces were washed in running water.
+b Samples of the water containing the beetroot were taken five
+minutes after each temperature was reached.
+c The experiment was repeated three times.
+d The absorbance of the samples was measure using a colorimeter
+with a blue filter
+2 The absorbance of the solution can be calculated from the amount
+of light transmitted. Suggest how and explain why the absorbance
+would change as the amount of pigment increases.
+3 Look at the graph and suggest at what point the membrane what
+disrupted.
+Suggest how you would carry out an investigation to see the effects
+of organic solvents on membrane permeability.
+2 Describe how the absorbance
+of light could be measured
+quantitatively as the
+concentration of released
+pigment increased with
+increasing temperature.
+Describe the graph you
+would plot to show these
+results.
+(4 marks)
+3 Suggest how an excessive
+consumption of alcohol could
+lead to liver cell death and
+ultimately be fatal. (6 marks)
+107
+PLASMA MEMBRANES
+glass rod
+Starch molecules are large and will not cross the tubing.
+lodine is used to test for the presence of starch.
+threads tightly
+tied at the
+two ends
+dialysis tubing
+starch and
+glucose
+solution
+model cell
+distilled water
+Water is a small molecule which will pass through the tubing
+while other solutes such as sucrose will not. Model cells can
+be placed in solutions with different solute concentrations.
+The rates of osmosis can be calculated using changes in
+volume or mass of the model cells over time.
+- beaker
+Rates of diffusion at different temperatures can also be
+calculated using a water bath to change the temperature
+of the model cell. Other variables such as concentration
+must be then be kept constant.
+apparatus to show dialysis
+A Figure 3 The apparatus above is used to demonstrate
+that glucose molecules are small enough to diffuse out of the
+'cell' but the starch molecules are too large. After a set time
+the water is tested for the presence of starch and glucose
+The changes in concentration of solute molecules, both
+inside and outside the model cells, can be measured over
+time. Rates of diffusion across the tubing can then be
+calculated.
+1 Explain why Benedict's test is both quantitative
+and qualitative.
+2 Explain what is meant by the term model cell.
+3 a Describe the differences between dialysis
+tubing and cell membranes with reference to
+transport across membranes.
+b Explain why some ions can pass through dialysis
+tubing by diffusion but can only pass through cell
+membranes by facilitated diffusion.
+Glucose is a small molecule which can cross the tubing.
+Benedict's solution is used to test for the presence of
+glucose, and can also be used to estimate concentration.
+Summary questions
+1 Explain why the rate of diffusion increases as temperature
+increases.
+(2 marks)
+2 State two changes to the structure of a cell-surface membrane
+that would increase the rate at which polar molecules diffuse
+into a cell.
+(2 marks)
+3 Movement requires energy and yet the movement of molecules
+in diffusion is described as passive (not requiring energy).
+Explain this statement and state the source of the energy
+involved in diffusion.
+(2 marks)
+111
+PLASMA MEMBRANES
+Cholesterol
+Cholesterol is a lipid with a hydrophilic end and a hydrophobic end,
+like a phospholipid. It regulates the fluidity of membranes.
+Synoptic link
+You learnt about the structure of
+cholesterol in Topic 3.5, Lipids.
+Cholesterol molecules are positioned between phospholipids in a
+membrane bilayer, with the hydrophilic end interacting with the
+heads and the hydrophobic end interacting with the tails, pulling
+them together. In this way cholesterol adds stability to membranes
+without making them too rigid. The cholesterol molecules prevent
+the membranes becoming too solid by stopping the phospholipid
+molecules from grouping too closely and crystallising.
+Sites of chemical reactions
+Like enzymes, proteins in the membranes forming organelles, or
+present within organelles, have to be in particular positions for
+chemical reactions to take place. For example, the electron carriers
+and the enzyme ATP synthase have to be in the correct positions
+within the cristae (inner membrane of mitochondrion) for the
+production of ATP in respiration. The enzymes of photosynthesis are
+found on the membrane stacks within the chloroplasts.
+Summary questions
+1 Define the term 'compartmentalisation'.
+(2 marks)
+2 Describe the difference between intrinsic and extrinsic
+proteins. State two examples of each.
+Synoptic link
+(4 marks)
+3 Alcohol, caffeine, and nicotine are all lipid-soluble molecules -
+they have an almost instant and widespread effect on the body.
+Explain why.
+(2 marks)
+You learnt about the structure of
+mitochondria and chloroplasts in
+Topic 2.4, Eukaryotic cell structure,
+and Topic 2.5, The ultrastructure
+of plant cells. You will learn
+more about the production of
+ATP in respiration in Chapter 18,
+Respiration.
+4 Membranes, particularly those present within mitochondria,
+are often highly folded. Suggest what advantages this folding
+provides.
+(6 marks)
+105
+5.2 Factors affecting membrane
+structure
+Specification reference: 2.1.5
+Membranes control the passage of different substances into and out
+of cells (and organelles). If membranes lose their structure, they lose
+control of this and cell processes will be disrupted. A number of factors
+affect membrane structure including temperature and the presence
+of solvents.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of: :
+→ factors affecting membrane
+structure and permeability
+practical investigations into
+factors affecting membrane
+structure and permeability.
+Temperature
+Phospholipids in a cell membrane are constantly moving. When
+temperature is increased the phospholipids will have more kinetic
+energy and will move more. This makes a membrane more fluid and
+it begins to lose its structure. If temperature continues to increase the
+cell will eventually break down completely.
+This loss of structure increases the permeability of the membrane,
+making it easier for particles to cross it.
+Carrier and channel proteins in the membrane will be denatured at
+higher temperatures. These proteins are involved in transport across
+the membrane so as they denature, membrane permeability will be
+affected.
+0000000
+heat
+Solvents
+Water, a polar solvent, is essential in the formation of the phospholipid
+bilayer. The non-polar tails of the phospholipids are orientated away
+from the water, forming a bilayer with a hydrophobic core. The charged
+phosphate heads interact with water, helping to keep the bilayer intact.
+Many organic solvents are less polar than water for example alcohols,
+or they are non-polar like benzene. Organic solvents will dissolve
+membranes, disrupting cells. This is why alcohols are used in antiseptic
+wipes. The alcohols dissolve the membranes of bacteria in a wound,
+killing them and reducing the risk of infection.
+Figure 1 The increase in kinetic
+energy of the phospholipids disrupts
+the structure of the membrane, creating
+gaps and making it more permeable
+Pure or very strong alcohol solutions are toxic as they destroy
+cells in the body. Less concentrated solutions of alcohols, such as
+alcoholic drinks, will not dissolve membranes but still cause damage.
+The non-polar alcohol molecules can enter the cell membrane
+and the presence of these molecules between the phospholipids
+disrupts the membrane.
+Study tip
+Unlike proteins, membranes are not
+denatured by high temperatures -
+when they lose their structure they
+should be described as disrupted
+or destroyed.
+When the membrane is disrupted it becomes more fluid and more
+permeable. Some cells need intact cell membranes for specific
+functions, for example, the transmission of nerve impulses by
+neurones (nerve cells). When neuronal membranes are disrupted,
+nerve impulses are no longer transmitted as normal.
+106
+5.4 Active transport
+Specification reference: 2.1.5
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ active transport of molecules
+across membranes
+► endocytosis and exocytosis
+as processes requiring ATP.
+Diffusion, by its nature, will ultimately result in concentration gradients
+being reduced until particles (atoms, molecules or ions) in the different
+regions reach equilibrium. However, many biological processes
+depend on the presence of a concentration gradient, for example, the
+transmission of nerve impulses. To maintain this concentration gradient,
+particles must be moved up it at a rate faster than the rate of diffusion.
+This is an energy-requiring process called active transport.
+Synoptic link
+You learnt about ATP as an energy
+supply in Topic 3.11, ATP. You will
+learn about ATP production and
+impulse transmission in Chapter 17,
+Energy for biological processes
+and Chapter 18, Respiration.
+Active transport
+Active transport is the movement of molecules or ions into or out
+of a cell from a region of lower concentration to a region of higher
+concentration. The process requires energy and carrier proteins.
+Energy is needed as the particles are being moved up a concentration
+gradient, in the opposite direction to diffusion. Metabolic energy is
+supplied by ATP.
+Carrier proteins span the membranes and act as 'pumps'. The general
+process of active transport is described below - in this example
+transport is from outside to inside a cell (Figure 1).
+1
+outside cell
+membrane
+carrier protein
+spanning
+membrane
+The molecule or ion to be transported binds to receptors in the
+channel of the carrier protein on the outside of the cell.
+2 On the inside of the cell ATP binds to the
+inside cell
+carrier protein and is hydrolysed into ADP
+and phosphate.
+Binding of the phosphate molecule to
+the carrier protein causes the protein to
+change shape - opening up to the inside of
+the cell.
+The molecule or ion is released to the
+inside of the cell.
+5 The phosphate molecule is released from
+the carrier protein and recombines with
+ADP to form ATP.
+The carrier protein returns to its original
+shape.
+molecule
+ATP
+molecules bind to
+carrier protein and
+ATP attaches to the
+membrane protein
+on the inside of
+the cell
+The process is selective - specific substances
+are transported by specific carrier proteins.
+ADP
+binding of phosphate
+ion to protein causes
+the protein to change
+shape so that access
+for the molecules is
+open to the inside of
+the membrane but
+closed to the outside
+Bulk transport
+Bulk transport is another form of active
+transport. Large molecules such as enzymes,
+hormones, and whole cells like bacteria are
+too large to move through channel or carrier
+proteins, so they are moved into and out of
+cell by bulk transport.
+A Figure 1 Active transport. The shape of the carrier protein changes
+to move a particle from one side of the membrane to the other
+112
+PLASMA MEMBRANES
+Rate of diffusion and surface area O
+The rate of diffusion can be calculated in two ways - by distance travelled/time
+and volume filled/time. Distance travelled/time is not affected by changes in
+surface area, whilst volume/time varies depending on the surface area.
+A student used different sized agar blocks to investigate how the rate of diffusion
+was affected by surface area.
+The agar used to make the blocks contained the indicator phenolphthalein with
+turns pink in the presence of an alkali.
+The agar blocks were immersed in a solution of sodium hydroxide for ten minutes. The blocks were removed and
+distance the sodium hydroxide had diffused was measured with a ruler.
+Results
+Cube size
+(cm)
+Surface
+area
+(cm)
+Volume
+(cm)
+Surface
+area
+/ volume
+Diffusion
+distance
+(cm)
+Rate of diffusion
+using distance
+(cm/min)
+Rate of diffusion
+using volume
+(cm3/min)
+Rate of diffusion
+using volume per
+64 cm agar
+4x 4x4
+0.3
+2 x 2 x2
+0.3
+1x1x1
+0.3
+1 Copy and complete the table.
+2 Explain what has happened in order for the diffusion distances to be measured.
+3 Describe and explain the results.
+Diffusion across membranes
+Diffusion across membranes involves particles passing through the
+phospholipid bilayer. It can only happen if the membrane is permeable
+to the particles - non-polar molecules such as oxygen (0) diffuse
+through freely down a concentration gradient.
+The hydrophobic interior of the membrane repels substances with a
+positive or negative charge (ions), so they cannot easily pass through.
+Polar molecules, such as water (H,O) with partial positive and
+negative charges can diffuse through membranes, but only at a very
+slow rate. Small polar molecules pass through more easily than larger
+ones. Membranes are therefore described as partially permeable.
+The rate at which molecules or ions diffuse across membranes is
+affected by:
+Synoptic link
+surface area - the larger the area of an exchange surface, the
+higher the rate of diffusion
+. thickness of membrane - the thinner the exchange surface, the
+higher the rate of diffusion.
+You will learn about surface
+area to volume ratio in Topic 7.1,
+Specialised exchange surfaces.
+109
+5
+5.3 Diffusion
+the cornea has no blood supply so its cells obtain
+oxygen by simple diffusion from the air
+air
+.
+high concentration
+of oxygen in the air
+high concentration
+of oxygen in the tears
+that coat the cornea
+fluid (tears) {
+cell on outer
+surface of the
+cornea
+oxygen passes through
+the plasma membrane by
+simple diffusion
+lower concentration
+of oxygen in the cornea
+cells due to aerobic respiration
+Figure 2 Passive diffusion of oxygen into a cell of the cornea
+Study tip
+When referring to particles moving
+passively do not say 'along',
+'with' or 'across' but only 'down'
+concentration gradients.
+Facilitated diffusion
+As you have learnt, the phospholipid bilayers of membranes are
+barriers to polar molecules and ions. However, membranes contain
+channel proteins through which polar molecules and ions can pass.
+Diffusion across a membrane through protein channels is called
+facilitated diffusion.
+Study tip
+Membranes with protein channels are selectively permeable as
+most protein channels are specific to one molecule or ion.
+Facilitated diffusion is still a
+passive process, which does not
+require energy from respiration.
+Facilitated diffusion can also involve carrier proteins (Topic 5.4, Active
+transport), which change shape when a specific molecule binds.
+In facilitated diffusion the movement of the molecules is down a
+concentration gradient and does not require external energy.
+The rate of facilitated diffusion is dependent on the temperature,
+concentration gradient, membrane surface area and thickness, but is
+also affected by the number of channel proteins present. The more
+protein channels, the higher the rates of diffusion overall.
+Investigations into the factors affecting diffusion rates in model cells
+As you have already seen, cell membranes are highly
+complex structures involved in the active and passive
+transport of ions and molecules. The hydrophobic
+hydrocarbon core of the membrane is a barrier to ions
+and large polar molecules, but it allows the passage
+of non-polar molecules. Cells are too small and cell
+membranes too thin to use in practical investigations
+so dialysis tubing is used as a substitute membrane.
+This model enables us to investigate the effects of
+temperature and concentration on the rate of diffusion
+across membranes.
+Dialysis tubing is partially permeable, with pores a
+similar size to those on a partially permeable membrane.
+This means that small molecules like water can pass
+through it, but larger molecules like starch cannot fit
+through the pores. The tubing is therefore a barrier to
+large molecules.
+A model cell can be simulated by tying one end of a
+section of tubing, filling with a solution and then tying
+the other end. The 'cell' is then placed into another
+solution. The solutions could contain different sizes, or
+concentrations, of solute molecules.
+110
+PLASMA MEMBRANES
+6
+7
+A classic experiment investigated the effect of
+temperature on the rate of sugar transport in
+a potted plant.
+Aphid mouthparts were used to take samples
+of sugar solution from the transport tissue in
+the stem. The sugary solution dripped from
+the mouthparts. The number of drips per
+minute was counted.
+The procedure was repeated at different
+temperatures.
+Table 1 shows the results obtained
+The bilayer is the fundamental structure of
+all cell membranes. The bilayer is composed
+of two lipid layers which provide an effective
+barrier to aqueous environments. This allows
+for compartmentalisation and the formation
+of cells and organelles.
+Discuss the roles of the different lipid
+components of plasma membranes. (6 marks)
+Temperature (°C) Number of drips per
+minute
+5 L 3
+106
+20
+14
+30 L
+40
+26
+19
+50
+Suggest brief explanations for these results.
+(3 marks)
+OCR F211 2012
+119

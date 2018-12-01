@@ -1,0 +1,1634 @@
+9
+Chapter 9 Practice questions
+In this student's table, the calculation of the
+rate of diffusion is incorrect.
+(i) suggest the method used to calculate
+the rate of diffusion in the table
+(1 mark)
+(ii) state why the method in ei is not
+correct
+(1 mark)
+OCR F211/01 2013
+4
+3 In an experiment to measure the rate of
+diffusion, a student placed cubes of agar
+jelly containing an indicator into dilute
+hydrochloric acid. The indicator changes from
+pink to colourless in acidic conditions.
+The student used cubes of different sizes and
+recorded the time taken for the pink colour of
+each cube to disappear completely.
+The students results are recorded in the table
+Length Surface Volume Surface Time taken for Rate of
+of side area of of cube area to pink colour diffusion
+of cube cube (mm) volume to disappear (mm s-)
+(mm) (mm)
+ratio
+(s)
+| 24 8 3.0:0 50 0.020
+5 150 125 1.2:1 120 0.021
+10600 1000
+300 0.017
+20 2400 8000 0.3:1 700 0.014
+30 5400 27000 0.2:1 1200 0.013
+5
+a Define diffusion.
+(1 mark)
+b Calculate the surface area to volume ratio
+of the cube with 10 mm sides.
+Show your working.
+(2 marks)
+c (i) Using the data in the table describe
+the relationship between the rate
+of diffusion and the surface area to
+volume ratio.
+(2 marks)
+(ii) Explain the significance of the
+relationship between rate of diffusion
+and the surface area to volume ratio
+for large plants.
+(2 marks)
+d Another student used the same raw data
+obtained in the experiment but calculated
+a different rate of diffusion for each cube.
+This student's results are shown in the
+table.
+Xerophytes are plants adapted to living in
+environments where little water is available.
+These environments can be as varied as
+deserts where there is a complete lack of
+water or the antarctic where all the water is
+present as ice or snow.
+a Explain what is meant by the term
+xerophyte.
+(1 mark)
+b Describe how a cactus plant is adapted
+to the environment in which it lives.
+(3 marks)
+a Explain the difference between active
+transport and facilitated transport.
+(3 marks)
+b Describe the difference in the direction of
+movement in the phloem and xylem.
+(2 marks)
+c The following statements are evidence
+that support the explanation of
+translocation in phloem.
+1 there is an exudation of solution from the
+phloem when the stem is cut or punctured
+by the mouthparts of an aphid
+concentration gradients of organic solutes
+are proved to be present between the sink
+and the source.
+3 when viruses or growth chemicals are
+applied to a well-illuminated leaf, they
+are translocated downwards to the roots.
+This does not happen if the leaves are
+shaded.
+Explain how each statement supports this
+explanation.
+(6 marks)
+Length of side
+of cube (mm)
+Time taken for
+pink colour to
+disappear (s)
+50
+Rate of
+diffusion
+(mm s-1)
+0.040
+2
+5
+120
+0.042
+10
+300
+0.033
+20
+700
+0.029
+30
+1200
+0.025
+220
+TRANSPORT IN PLANTS
+i) Given the following information,
+copy and complete the table and fill
+in the missing figures. (2 marks)
+Practice questions
+1 The term vascular is derived from the
+Latin word vas meaning vessel.
+a State what is meant by the term vascular
+bundle.
+(2 marks)
+b Draw what you would expect to see in a
+dicotyledonous plant stem. (2 marks)
+minui
+phloem
+-xylem
+Water loss ml
+Time/minutes 0 3 6 9 12 15 18 21 | 24 | 2730
+fan 0.00 0.01 0.01 0.01 0.01 0.01 0.02 0.01 0.01 0.01 0.00
+Mass of leaves = 1.1 g
+Leaf Surface Area = 0.0044 m2
+(ii) Suggest how the mass of leaves could
+have been used to calculate the
+surface area of the leaves. (3 marks)
+(iii) State the independent variable, the
+dependent variable and two variables
+that would have been controlled in
+the experiment.
+(4 marks)
+(iv) Plot a graph to display the results.
+(4 marks)
+(v) Identify any anomalous results giving
+the reason for your choice. (2 marks)
+(vi) Explain the trends shown on
+the graph.
+(4 marks)
+d Describe how water is moving at A, B
+and C in the diagram below.
+monocot stem
+2
+c Describe and explain what happens when
+a ring of bark is removed from a tree.
+(4 marks)
+The movement of water and solutes through
+a plant is known as the transpiration
+stream. It is the way essential minerals are
+transported from roots to leaves.
+a (i) Define transpiration. (2 marks)
+(ii) Explain why transpiration is
+an inevitable consequence of
+photosynthesis.
+(4 marks)
+b (i) Name the piece of apparatus used to
+measure transpiration. (1 mark)
+(ii) Explain why the measurements
+obtained from this apparatus are
+only an estimate of the rate of
+transpiration.
+(2 marks)
+C Table 1 below shows the readings obtained
+using the apparatus named in bi for a plant
+exposed to different environments.
+The distance moved by a column of water
+in a capillary tube was measured every
+three minutes for 30 minutes as the plant
+was exposed to each environment.
+Water loss ml/m2
+6 9 12 15
+Time/minutes
+0
+3
+18
+21
+21
+24
+27
+30
+fan
+(6 marks)
+treatment
+mist 0.00 4.17 4.17 4.17 4.17 2.08 0.002.082.08 0.002.08
+219
+TRANSPORT IN PLANTS
+A Figure 7 Marram grass shows many adaptations to reduced water availability including both vertical
+and horizontal roots as well as the stomatal pits, hairs, and curled leaves visible in the light micrograph
+(* 10 magnification)
+Hydrophytes
+Not all plants have to conserve water. In fact the hydrophytes -
+plants that actually live in water (submerged, on the surface or at
+the edges of bodies of water) - need special adaptations to cope with
+growing in water or in permanently saturated soil.
+Examples of hydrophytes include water lilies (plants of the family
+Nymphaeaceae) and water cress (Nasturtium officinale), which grow
+at the surface, duckweeds (genus Lemna), which are submerged or
+free-floating plants, and marginals such bulrushes (Typha latifolia) and
+yellow iris (Iris pseudacorus), which grow at the edge of the water.
+It is important in surface water plants that the leaves float so they are
+near the surface of the water to get the light needed for photosynthesis.
+Figure 8 Hydrophytes like this water
+lily (family Nymphaeaceae) have no
+need to conserve water, but they have
+other problems to overcome
+Water-logging is a major problem for all hydrophytes. The air spaces of
+the plant need to be full of air, not water, for the plant to survive.
+Adaptations of hydrophytes:
+•
+Very thin or no waxy cuticle - hydrophytes do not need to
+conserve water as there is always plenty available so water loss by
+transpiration is not an issue.
+Many always-open stomata on the upper surfaces - maximising
+the number of stomata maximises gaseous exchange. Unlike other
+plants there is no risk to the plant of loss of turgor as there is always
+an abundance of water available, so the stomata are usually open
+all the time for gaseous exchange and the guard cells are inactive. In
+plants with floating leaves such as water lilies the stomata need to be
+on the upper surface of the leaf so they are in contact with the air.
+Reduced structure to the plant - the water supports the leaves
+and flowers so there is no need for strong supporting structures.
+Wide, flat leaves - some hydrophytes, including the water lilies,
+have wide, flat leaves that spread across the surface of the water to
+capture as much light as possible.
+217
+9.3 Transpiration
+Specification reference: 3.1.3
+Photosynthesis, the process by which green plants make their own
+food, takes place mainly in the leaves. Carbon dioxide (CO) and
+water (HO) are both needed so, for successful photosynthesis to take
+place in a leaf, water must be transported there from the roots and
+carbon dioxide must be taken into the cells of the leaf from the air.
+Carbon dioxide diffuses into the leaf cells down a concentration
+gradient from the air spaces within the leaf. In a process of gaseous
+exchange, oxygen (0,) also moves out of the leaf cells into the air
+spaces by diffusion down a concentration gradient (oxygen is a waste
+product of photosynthesis). At the same time water evaporates from
+the surfaces of the leaf cells into the air spaces.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the process of transpiration
+and the environmental factors
+that affect transpiration rate
+practical investigations to
+estimate transpiration rates
+the transport of water into
+the plant, through the plant
+and to the air surrounding
+the leaves.
+1
+The process of transpiration
+Leaves have a very large surface area for capturing sunlight and
+carrying out photosynthesis. Their surfaces are covered with a waxy
+cuticle that makes them waterproof. This is an important adaptation
+that prevents the leaf cells losing water rapidly and constantly by
+evaporation from their surfaces. However, it is also important that
+gases can move into and out of the air spaces of the leaf so that
+photosynthesis is possible.
+Synoptic link
+You will learn more about
+photosynthesis in Topic 17.3,
+Photosynthesis.
+Carbon dioxide moves from the air into the leaf and oxygen moves
+out of the leaf by diffusion down concentration gradients through
+microscopic pores in the leaf (usually on the underside of the leaf)
+called stomata (singular stoma). The stomata can be opened and
+closed by guard cells, which surround the stomatal opening (further
+detail is given later in this topic).
+When the stomata are open to allow an exchange of carbon dioxide
+and oxygen between the air inside the leaf and the external air, water
+vapour also moves out by diffusion and is lost. This loss of water
+vapour from the leaves and stems of plants is called transpiration.
+Transpiration is an inevitable consequence of gaseous exchange.
+Stomata open and close to control the amount of water lost by a
+plant, but during the day a plant needs to take in carbon dioxide for
+photosynthesis and at night when no oxygen is being produced by
+photosynthesis it needs to take in oxygen for cellular respiration, so at
+least some stomata need to be open all the time.
+It has been estimated that an acre of corn loses around 11 500-15000
+litres of water through transpiration every day, whilst a single large
+tree can lose more than 700 litres a day.
+The transpiration stream
+As you learn in Topic 9.2, water enters the roots of the plant by
+osmosis and is transported up in the xylem until it reaches the
+leaves. Here, it moves by osmosis across membranes and by diffusion
+in the apoplast pathway from the xylem through the cells of
+205
+9.3 Transpiration
+Study tip
+the leaf where it evaporates from the freely permeable cellulose cell
+walls of the mesophyll cells in the leaves into the air spaces. The water
+vapour then moves into the external air through the stomata along a
+diffusion gradient. This is the transpiration stream.
+Be careful not to say that water
+evaporates from the stomata,
+water vapour leaves the stomata
+by diffusion.
+The transpiration stream moves water up from the roots of a plant to
+the highest leaves - a height which can be up to 100 m or more in the
+tallest trees. As you learn in Topic 9.1, xylem vessels are non-living,
+hollow tubes so the process must be passive. How does it work?
+• Water molecules evaporate from the surface of mesophyll cells
+into the air spaces in the leaf and move out of the stomata into the
+surrounding air by diffusion down a concentration gradient.
+The loss of water by evaporation from a mesophyll cell lowers the
+water potential of the cell, so water moves into the cell from an
+adjacent cell by osmosis, along both apoplast and symplast pathways.
+- upper epidermal cell
+chloroplast
+mesophyll cell
+water moving to mesophyll
+cell for use in photosynthesis
+- xylem vessel
+H20
+apoplastic pathway
+H20
+symplastic pathway
+- air space
+water
+- mesophyll cell
+vapour
+lower epidermal cell
+guard cell
+stoma
+A Figure 1 Movement of water across a leaf
+•
+This is repeated across the leaf to the xylem. Water moves out of
+the xylem by osmosis into the cells of the leaf.
+Water molecules form hydrogen bonds with the carbohydrates
+in the walls of the narrow xylem vessels - this is known as
+adhesion. Water molecules also form hydrogen bonds with each
+other and so tend to stick together - this is known as cohesion.
+The combined effects of adhesion and cohesion result in water
+exhibiting capillary action. This is the process by which water
+206
+9
+9.5 Plant adaptations to water availability
+Study tip
+A few aquatic plants can survive in
+brackish or salt water, for example
+marine seagrass (Thalassia spp.).
+Seaweeds, however, are not
+vascular plants. They are
+multicellular marine algae
+and therefore not defined as
+hydrophytic plants.
+Small roots - water can diffuse directly into stem and leaf tissue so
+there is less need for uptake by roots.
+Large surface areas of stems and roots under water - this
+maximises the area for photosynthesis and for oxygen to diffuse
+into submerged plants.
+Air sacs - some hydrophytes have air sacs to enable the leaves
+and/or flowers to float to the surface of the water.
+Aerenchyma - specialised parenchyma (packing) tissue forms
+in the leaves, stems and roots of hydrophytes. It has many large
+air spaces, which seem to be formed at least in part by apoptosis
+(programmed cell death) in normal parenchyma. It has several
+different functions within the plants, including:
+making the leaves and stems more buoyant
+forming a low-resistance internal pathway for the movement
+of substances such as oxygen to tissues below the water. This
+helps the plant to cope with anoxic (extreme low oxygen
+conditions) conditions in the mud, by transporting oxygen to
+the tissues.
+Aerenchyma is found in crop species that grow in water, such as rice
+(Oryza sativa and Oryza glaberrima). Studies suggest that aerenchyma
+may provide a low resistance pathway by which methane produced by
+the rice plants can be vented into the atmosphere. This is part of a major
+problem. Atmospheric methane, which contributes of the greenhouse
+effect and the resulting climate change, has doubled over the past two
+centuries and flooded rice paddies represent a major source.
+In situations where there is plenty of water - for example in mangrove
+swamps, the roots can become waterlogged. It is air rather than water
+that is in short supply. Special aerial roots called pneumatophores grow
+upwards into the air. They have many lenticels, which allow the entry
+of air into the woody tissue.
+A Figure 9 Light micrograph showing
+aerenchyma tissue in the stem of
+a water lily leaf (Nymphaea alba) -
+compare this to the TS stem of a land
+plant you looked at in Topic 9.1 Transport
+systems in dicotyledonous plants.
+Summary questions
+1 State three structural adaptations seen in the leaves of xerophytes
+and explain how these are related to their functions. (3 marks)
+2 State three structural adaptations of hydrophytes and
+explain how they are related to their functions.
+(3 marks)
+3 Compare the challenges of a plant of living in dry conditions
+to a plant living in water or waterlogged conditions.
+(4 marks)
+Synoptic link
+You will learn about genetic
+variation and adaptation to
+the environment in Topic 10.5,
+Types of variation and Topic 10.7,
+Adaptations.
+Based on your knowledge of plant adaptations to water availability,
+suggest two characteristics that might be targeted by scientists in their
+search for suitable genes to use in future crops to help them withstand
+drought and two characteristics that might help them withstand
+flooding. Explain the advantages they confer on the
+plants and why you have chosen those characteristics. (6 marks)
+218
+9.5 Plant adaptations to water availability
+Study tip
+Clearly relate the structural
+adaptations of the leaves of
+xerophytic plants to their functions
+in reducing the water vapour
+potential gradient and so reducing
+evaporation from the stomata, thus
+reducing transpiration.
+Root adaptations - many xerophytes have root adaptations that
+help them to get as much water as possible from the soil. Long
+tap roots growing deep into the ground can penetrate several
+metres, so they can access water that is a long way below the
+surface. A mass of widespread, shallow roots with a large surface
+area able to absorb any available water before a rain shower
+evaporates is another adaptation. Many cacti show both of these
+adaptations, including the giant saguaro (Carnegiea gigantea), which
+can get enough water to grow to around 12–18 metres tall and live
+for around 200 years. The root system of marram grass consists of
+long vertical roots that penetrate metres into the sand. They also
+have a mat of horizontal rhizomes (modified stems) from which
+many more roots develop to form an extensive network that helps
+to change their environment and enable the sand to hold more
+water.
+Avoiding the problems - some plants are adapted to cope with
+the problems of low water availability by avoiding the situation
+entirely. Plants may lose their leaves and become dormant, or die
+completely, leaving seeds behind to germinate and grow rapidly
+when rain falls again. Others survive as storage organs such as bulbs
+(onions, daffodils), corms (crocuses) or tubers (potatoes, dahlias). A
+few plants can withstand complete dehydration and recover - they
+appear dead but when it rains the cells recover, the plant becomes
+turgid and green again and begins to photosynthesise. The ability
+to survive in this way is linked to the disaccharide trehalose, which
+appears to enable to the cells to survive unharmed.
+A Figure 5 The folds in the stem of this
+saguaro cactus (Carnegiea gigantea)
+allow it to expand in the rare times when
+water is freely available. A fully hydrated
+saguaro can weigh over a tonne.
+A Figure 6 A leafless palo
+verde (Parkinsonia sp.) not only
+photosynthesises but also flowers
+without any leaves
+Investigating stomatal numbers
+You can compare the numbers of stomata on the leaves and stems of plants
+by taking an impression of the epidermis of the leaf or the stem and looking
+at it under a microscope.
+You can use clear nail varnish, Germolene New Skin or DIY water based
+varnish.
+You need to observe the numbers of stomata, and whether they are open
+or closed over the same area each time so take care to use the same
+magnification with your microscope. You may choose to use a graticule.
+This technique can be used to compare stomatal numbers in different areas
+of a plant and in different types of plants. It can also be used to investigate
+the opening and closing of the stomata under different conditions.
+Synoptic link
+1 How would you predict the number and position of the stomata
+might vary between xerophytes and normal plants?
+2 Suggest why it can be difficult to investigate the stomata of cacti,
+even though they are some of the most effective xerophytes.
+You learnt about disaccharides in
+Topic 3.3, Carbohydrates.
+216
+TRANSPORT IN PLANTS
+221
+TRANSPORT IN PLANTS
+Ways of conserving water
+Xerophytes use a range of strategies for conserving water:
+Synoptic link
+You learned about the structure
+and function of stomata in
+Topic 6.4, The organisation
+and specialisation of cells and
+Topic 9.3, Transpiration.
+Figure 2 The stomata of this sitka
+spruce (Picea stichensis) are in sunken
+pits and the thick waxy cuticle shows
+up as a pale green layer - two clear
+adaptations to minimise water loss
+A thick waxy cuticle - in most plants up to 10% of the water loss
+by transpiration is actually through the cuticle. Some plants have
+a particularly thick waxy cuticle to help minimise water loss. This
+adaptation is common in evergreen plants and helps them survive
+both hot dry summers and cold winters when water can be hard
+to absorb from the frozen ground. Holly (Ilex spp.) is an example
+commonly seen in the UK.
+Sunken stomata - many xerophytes have their stomata located in
+pits, which reduce air movement, producing a microclimate of still,
+humid (moist) air that reduces the water vapour potential gradient
+and so reduces transpiration. These are seen clearly in xerophyes
+such as marram grass, cacti, and conifers.
+Reduced numbers of stomata - Many xerophytes have reduced
+numbers of stomata, which reduce their water loss by transpiration
+but also reduce their gas exchange capabilities.
+Reduced leaves - by reducing the leaf area, water loss can be
+greatly reduced. The leaves of conifers are reduced to thin needles.
+These narrow leaves, which are almost circular in cross-section,
+have a greatly reduced SA:V ratio, minimising the amount of
+water lost in transpiration.
+Hairy leaves - some xerophytes have very hairy leaves that, like
+the spines of some cacti, create a microclimate of still, humid air,
+reducing the water vapour potential gradient and minimising the
+loss of water by transpiration from the surface of the leaf. Some
+plants - such as marram grass - even have microhairs in the
+sunken stomatal pits (Figure 4).
+Curled leaves - another adaptation that greatly reduces water loss
+by transpiration, especially in combination with other adaptations,
+is the growth of curled or rolled leaves. This confines all of the
+stomata within a microenvironment of still, humid air to reduce
+diffusion of water vapour from the stomata. Marram grass is a
+good example of a plant with this strategy.
+Succulents - Succulent plants store water in specialised
+parenchyma tissue in their stems and roots. They get their name
+because, unlike other plants, they often have a swollen or fleshy
+appearance. Water is stored when it is in plentiful supply and
+then used in times of drought. Salicornia spp. (edible samphire),
+which grows on UK salt marshes, and desert cacti are examples of
+succulents, as are aloes, which include Aloe vera, a plant often used
+in cosmetics.
+Leaf loss – some plants prevent water loss through their leaves
+by simply losing their leaves when water is not available. Palo
+verde (Parkinsonia spp.) is a desert tree that loses all of its leaves
+in the long dry seasons. The trunk and branches turn green and
+photosynthesise with minimal water loss to keep it alive. Its name
+is derived from the Spanish words meaning 'green pole'.
+Figure 3 Reducing the leaves to
+spines in this Barrel cactus prevents
+transpiration from the leaves but also
+helps create a microclimate to prevent
+water loss from the stem
+A Figure 4 This Borage flower growing
+in the desert needs these very hairy
+leaves to prevent water loss and survive
+215
+TRANSPORT IN PLANTS
+BA
+Solute accumulation in source phloem leads to an
+sieve-tube
+mesophyll cell
+member
+increase in turgor pressure that forces sap to regions of
+cell wall
+lower pressure in the sinks. The pressure generated in the
+companion
+plasma membrane (transfer) cell
+phloem is around 2 MPa (15000 mm Hg) – considerably
+plasmodesm
+higher than the 0.016 MPa (120 mm Hg) of pressure in a
+human artery. These pressure differences in plants can
+transport solutes and water rapidly over many metres.
+Solutes are translocated either up or down the plant,
+depending on the positions of the source.
+phloem
+apoplast route
+parenchyma cell
+mesophyll
+Phloem unloading
+symplast route
+The sucrose is unloaded from the phloem at any point into
+A Figure 2 The apoplast and symplast routes by which
+the cells that need it. The main mechanism of phloem sucrose is loaded into the phloem
+unloading seems to be by diffusion of the sucrose from
+the phloem into the surrounding cells. The sucrose rapidly
+moves on into other cells by diffusion or is converted into
+another substance (for example glucose for respiration, starch
+for storage) so that a concentration gradient of sucrose is
+maintained between the contents of the phloem and the
+surrounding cells.
+cell
+The loss of the solutes from the phloem leads to a rise in the
+water potential of the phloem. Water moves out into the
+surrounding cells by osmosis. Some of the water that carried
+the solute to the sink is drawn into the transpiration stream
+in the xylem.
+A Figure 3 Aphids (order Hemiptera) are a simple
+but very effective research tool for plant biologists.
+Looking at the evidence
+Top: Aphids penetrate the plant tissue with their
+There is still a lot of research to be done to determine all the mouth parts or stylet (st) to reach the phloem (p).
+details of translocation. But there is a body of evidence that Bottom: If the aphid is anaesthetised and removed
+supports the main principles:
+from the stylet, phloem continues to flow out of the
+stylet due to pressure from the phloem contents. The
+• Advances in microscopy allow us to see the adaptations of rate of flow and composition of sap can be analysed
+the companion cells for active transport.
+If the mitochondria of the companion cells are poisoned,
+Summary questions
+translocation stops.
+The flow of sugars in the phloem is about 10 000 times faster than
+1 Explain the difference between
+it would be by diffusion alone, suggesting an active process is
+a source and a sink. (4 marks)
+driving the mass flow.
+2 Describe how aphids can
+Aphids can be used to demonstrate the translocation of organic
+be used to demonstrate
+solutes in the phloem. Using evidence from aphid studies, it has been
+translocation, including the
+shown that there is a positive pressure in the phloem that forces the
+effect light intensity on the
+sap out through the stylet. The pressure and therefore the flow rate in
+process.
+(5 marks)
+the phloem is lower closer to the sink than it is near the source. The
+concentration of sucrose in the phloem sap is also higher near to the 3 a Explain the role of active
+source than near the sink.
+transport in translocation
+However, some questions remain. Not all solutes in the phloem move
+in the phloem. (5 marks)
+at the same rate. On the other hand, sucrose always seems to move at
+b Describe the evidence
+the same rate regardless of the concentration at the sink. And no one
+that supports this
+is yet completely sure about the role of the sieve plates in the process.
+model. (5 marks)
+213
+TRANSPORT IN PLANTS
+Synoptic link
+Transport systems in dicotyledonous plants
+Dicotyledonous plants (dicots) make seeds that contain two
+cotyledons, organs that act as food stores for the developing embryo
+plant and form the first leaves when the seed germinates. There are
+herbaceous dicots, with soft tissues and a relatively short life cycle
+(leaves and stems that die down at the end of the growing season
+to the soil level), and woody (arborescent) dicots, which have hard,
+lignified tissues and a long life cycle (in some cases hundreds of years).
+You will be looking at herbaceous dicots in this section.
+It will help to look back at your
+work on surface area : volume
+ratios in Topic 71, Specialised
+exchange surfaces and Topic 8.1,
+Transport systems in multicellular
+animals.
+Dicotyledonous plants have a series of transport vessels running
+through the stem, roots, and leaves. This is known as the vascular
+system. In herbaceous dicots this is made up of two main types of
+transport vessels, the xylem and the phloem, described later in
+this topic. These transport tissues are arranged together in vascular
+bundles in the leaves, stems, and roots of herbaceous dicots. The
+pattern of the vascular tissue is easily recognised and is shown in
+transections (TS) in Table 1.
+Table 1
+TS stem of young
+herbaceous plant
+-epidermis
+cortex
+phloem
++ xylem
+-vascular bundle
+-parenchyma
+(packing and supporting tissue)
+In the stem, the vascular bundles are around the edge
+to give strength and support.
+TS root of young herbaceous plant
+root hair
+- exodermis
+epidermis
+endodermis
+– xylem
+cortex
+phloem
+In the roots, the vascular bundles are in the middle to
+help the plant withstand the tugging strains that result
+as the stems and leaves are blown in the wind.
+TS dicot leaf
+palisade mesophyll-
+main photosynthetic tissue
+Xylem
+vascular
+bundle
+phloem
+midrib of leaf
+In the leaves, the midrib of a dicot leaf is the main vein
+carrying the vascular tissue through the organ. It also
+helps to support the structure of the leaf. Many small,
+branching veins spread through the leaf functioning
+both in transport and support.
+199
+9.1 Transport systems in dicotyledonous plants
+Observing xylem vessels in living plant stems
+Xylem vessels can be seen clearly stained in transverse and longitudinal
+sections of plant stems and roots on prepared slides. However, it is also
+possible to observe these vessels in living tissue.
+If plant material, for example celery stalks with plenty of leaves, flowers
+such as a gerberas, or the roots of germinating seeds, are put in water
+containing a strongly coloured dye for at least 24 hours, you can remove the
+plant from the dye, rinse it and look for the xylem vessels which should have
+been stained by the dye.
+The structure and functions
+of the xylem
+The xylem is a largely non-
+living tissue that has two main
+functions in a plant – the transport
+of water and mineral ions, and
+support. The flow of materials in
+the xylem is up from the roots
+to the shoots and leaves. Xylem
+is made up of several types of
+cells, most of which are dead
+when they are functioning in the
+plant. The xylem vessels are the
+main structures. They are long,
+hollow structures made by several
+columns of cells fusing together
+end to end.
+• In one specimen, make clean transverse cuts across the stem with a
+sharp blade on a white tile. Take great care with the blade.
+Observe and draw the position of the xylem vessels which should show
+up as coloured spots.
+In another specimen make a careful longitudinal cut through a region
+where you expect there to be xylem vessels.
+• Observe and draw the xylem vessels which may show up as coloured
+lines.
+How does the information from your dissection compare with the
+micrographs of transverse and longitudinal sections of a dicot stem
+in Table 1 on the previous page?
+2 What are the limitations of this method of observing the transport
+tissues in plants?
+There are two other tissues
+associated with xylem in
+herbaceous dicots. Thick-walled
+xylem parenchyma packs around
+the xylem vessels, storing food, and
+containing tannin deposits. Tannin
+is a bitter, astringent-tasting
+chemical that protects plant tissues
+from attack by herbivores. Xylem
+Xylem vessel showing lignin spirals
+thick
+lignified wall
+xylem
+parenchyma
+lignified
+cell wall
+non-lignified
+pit
+>spirals of lignin
+running around
+the lumen of
+the xylem, lignin
+helps reinforce
+the xylem vessels
+so that they do not
+collapse under the
+transpiration pull
+hollow tube
+(no cytoplasm)
+0000000000000
+lumen of
+xylem vessel
+TS xylem
+vessel
+region where
+end cell wall
+has been lost
+LS xylem
+vessel
+A Figure 2 Xylem tissue is both strong and vital
+for the transport of water and minerals around
+plants, lignified xylem vessels not shown
+200
+9.5 Plant adaptations to
+water availability
+Specification reference: 3.1.3
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+adaptations of plants to the
+availability of water in their
+environment, including
+xerophytes and hydrophytes.
+Land plants exist in a state of constant compromise between getting
+the carbon dioxide they need for photosynthesis and losing the
+water they need for turgor pressure and transport. They must have
+a large SA:V ratio for gaseous exchange and the capture of light for
+photosynthesis, but this greatly increases their risk of water loss
+by transpiration.
+Synoptic link
+You will learn more about the
+adaptations of marram grass in
+Topic 10.7, Adaptations.
+Xerophytes
+Most plants have adaptations to conserve water. These include a waxy
+cuticle to reduce transpiration from the leaf surfaces, stomata found
+mainly on the underside of the leaf that can be closed to prevent the
+loss of water vapour, and roots that grow down to the water in the
+soil. However, in habitats where water is often in very short supply,
+this is not enough. In hot conditions, particularly hot, dry, and breezy
+conditions - water will evaporate from the leaf surfaces very rapidly.
+Plants in dry habitats have evolved a wide range of adaptations that
+enable them to live and reproduce in places where water availability is
+very low indeed. They are known as xerophytes.
+Conifers (class Pinopsida) are xerophytes. So is marram grass
+(Ammophila spp.), a plant found widely on sand dunes and coastal
+areas, in dry and salty conditions.
+Synoptic link
+Many plants that survive in very cold and icy conditions are also
+xerophytes - the water in the ground is not freely available to them
+because it is frozen.
+You will learn about the
+classification and naming
+of species in Topic 10.1,
+Classification.
+Perhaps the best known xerophytes are the cacti (members of the
+plant family Cactaceae).
+Synoptic link
+You will learn about habitat
+biodiversity in Topic 11.1,
+Biodiversity and about
+ecosystems in Chapter 23,
+Ecosystems.
+Figure 1 Successful desert plants like these have many adaptations to a
+xerophytic way of life because the gap between rains may be months or even years so
+water is rarely available
+214
+TRANSPORT IN PLANTS
+9.1 Transport systems in
+dicotyledonous plants
+Specification reference: 3.1.3
+Plants have transport systems to move substances between leaves,
+stems, and roots. These transport systems work at tremendous
+pressures. The pressure in the phloem, one of the main transport
+tissues of a plant, is around 2000 kPa. For comparison, the systolic
+blood in your main arteries is at a pressure of around 16 kPa,
+while the steam turbines in a power station work at around
+4000 kPa. The higher pressures in plants, however, are confined
+to much smaller spaces than in arteries and turbines.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the need for transport systems
+in multicellular plants
+the structure and function of
+the vascular system in the
+roots, stems and leaves of
+herbaceous dicotyledonous
+plants
+The examination and drawing
+of stained plant tissue sections
+to show xylem and phloem.
+The need for plant transport systems
+There are three main reasons why multicellular plants need transport
+systems:
+Metabolic demands – The cells of the green parts of the plant
+make their own glucose and oxygen by photosynthesis - but
+many internal and underground parts of the plant do not
+photosynthesise. They need oxygen and glucose transported
+to them and the waste products of cell metabolism removed.
+Hormones made in one part of a plant need transporting to the
+areas where they have an effect. Mineral ions absorbed by the
+roots need to be transported to all cells to make the proteins
+required for enzymes and the structure of the cell.
+Size - Some plants are very small but because plants continue
+to grow throughout their lives, many perennial plants (plants
+that live a long time and reproduce year after year) are large and
+some of them are enormous. The tallest trees in the world include
+the coastal redwood (Sequoia sempervirens) and giant redwood
+(Sequoiadendron giganteum) in the USA (up to around 115 m tall)
+and the mountain ash (Eucalyptus regnans) in Australia (up to
+around 114 m tall). This means plants need very effective transport
+systems to move substances both up and down from the tip of the
+roots to the topmost leaves and stems.
+Surface area: volume ratio (SA:V) - Surface area : volume
+ratios are not simple in plants. Leaves are adapted to have a
+relatively large SA:V ratio for the exchange of gases with the
+air. However, the size and complexity of multicellular plants
+means that when the stems, trunks, and roots are taken into
+account they still have a relatively small SA:V ratio. This means
+they cannot rely on diffusion alone to supply their cells with
+everything they need.
+A Figure 1 This saguaro cactus
+(Carnegiea gigantea) in the Sonoran
+Desert is as tall as many trees
+Synoptic link
+You will learn about the
+classification and scientific
+naming of species in Topic 10.1,
+Classification.
+198
+9.4 Translocation
+The process of translocation
+Translocation is a vital and effective process - a large tree can transport
+around 250 kg of sucrose down its trunk in a year, and substances
+move at speeds of around 0.15–7 metres per hour. The details of how
+substances are moved in the phloem of plants are still the subject of
+active investigation but the main steps are described here:
+Phloem loading
+In many plants the soluble products of photosynthesis are moved into
+the phloem from the sources by an active process. Sucrose is the main
+carbohydrate transported - it is not used in metabolism as readily
+as glucose and is therefore less likely to be metabolised during the
+transport process.
+There are two main ways in which plants load assimilates into the
+phloem (phloem loading) for transport:
+The symplast route
+In some species of plants the sucrose from the source moves through
+the cytoplasm of the mesophyll cells and on into the sieve tubes by
+diffusion through the plasmodesmata (known as the symplast route).
+Although phloem loading and translocation are often referred to as
+active processes, this route is largely passive. The sucrose ends up in
+the sieve elements and water follows by osmosis. This creates a pressure
+of water that moves the sucrose through the phloem by mass flow.
+The apoplast route
+In some plant species sucrose from the source travels through the cell
+walls and inter-cell spaces to the companion cells and sieve elements
+(known as the apoplast route) by diffusion along a concentration
+[outside cell] - high H+ concentration gradient, maintained by the removal of sucrose into the
+phloem vessels. In the companion cells sucrose is moved
+into the cytoplasm across the cell membrane in an active
+co-transporter
+proton pump
+process. Hydrogen ions (H+) are actively pumped out of
+the companion cell into the surrounding tissue using ATP.
+The hydrogen ions return to the companion cell down a
+concentration gradient via a co-transport protein. Sucrose
+is the molecule that is co-transported. This increases the
+ATP
+ADP+P
+sucrose concentration in the companion cells and in the
+sieve elements through the many plasmodesmata between
+[inside cell] - low Ht concentration the two linked cells.
+A Figure 1 The active movement of
+Companion cells have many infoldings in their cell membranes to give
+sucrose (S) into a companion cell or
+an increased surface area for the active transport of sucrose into the
+sieve tube across the cell membrane
+cell cytoplasm. They also have many mitochondria to supply the ATP
+needed for the transport pumps.
+proton gradient
+sucrose gradient
+As a result of the build up of sucrose in the companion cell and sieve
+tube element, water also moves in by osmosis. This leads to a build up
+of turgor pressure due to the rigid cell walls. The water carrying the
+assimilates moves into the tubes of the sieve elements, reducing the
+pressure in the companion cells, and moves up or down the plant by
+mass flow to areas of lower pressure (the sinks).
+212
+9.4 Translocation
+Specification reference: 3.1.3
+The leaves of a plant produce large amounts of glucose, which is
+needed for respiration by all the cells of the plant. The glucose is
+converted to sucrose for transport. When it reaches the cells where it
+is needed it is converted back to glucose for respiration, or to starch
+for storage, or used to produce the amino acids and other compounds
+needed within the cell.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the mechanism of
+translocation including the
+transport of assimilates
+between sources and sinks.
+From source to sink
+Plants transport organic compounds in the phloem from sources to
+sinks (the tissues that need them) in a process called translocation.
+In many plants translocation is an active process that requires
+energy to take place and substances can be transported up or down
+the plant. The products of photosynthesis that are transported are
+known as assimilates. Although glucose is made in the process of
+photosynthesis, the main assimilate transported around the plant is
+sucrose. The sucrose content of most cell sap is only around 0.5%,
+but it can be 20-30% of the phloem sap content.
+Synoptic link
+You learnt about glucose,
+sucrose and starch in Topic 3.3,
+Carbohydrates.
+The main sources of assimilates in a plant are:
+• green leaves and green stems
+storage organs such as tubers and tap roots that are unloading
+their stores at the beginning of a growth period
+• food stores in seeds when they germinate.
+Some of these need to transport resources downwards, and some need
+to move materials up the plant.
+The main sinks in a plant include:
+roots that are growing and/or actively absorbing mineral ions
+meristems that are actively dividing
+any parts of the plant that are laying down food stores, such as
+developing seeds, fruits or storage organs.
+Table 1 Carbohydrates in cyclamen. The data in this table suggest that sucrose is
+transported in the phloem
+Plant part
+Mean carbohydrate content
+(ugg-fresh mass standard error of mean)
+sucrose
+1312 + 212
+starch
+62 +25
+leaf blade
+vascular bundle in the leaf stalk,
+consisting of xylem and phloem
+5757 - 1190
+<18
+417 +96
+<18
+tissue surrounding the vascular
+bundle in the leaf stalk
+buds, roots, and tubers
+(underground storage organs)
+2260 +926
+152 + 242
+211
+TRANSPORT IN PLANTS
+fibres are long cells with lignified secondary walls that provide extra
+mechanical strength but do not transport water. Lignin can be laid
+down in the walls of the xylem vessels in several different ways. It can
+form rings, spirals or relatively solid tubes with lots of small unlignified
+areas called bordered pits. This is where water leaves the xylem and
+moves into other cells of the plant.
+Synoptic link
+You learnt about the cells of the
+xylem and phloem in Topic 6.4,
+The organisation and specialisation
+of cells.
+The structure and functions of the phloem
+Phloem is a living tissue that transports food in the form of organic
+solutes around the plant from the leaves where they are made by
+photosynthesis. The phloem supplies the cells with the sugars and
+amino acids needed for cellular respiration and for the synthesis of all
+other useful molecules. The flow of materials in the phloem can go
+both up and down the plant.
+The main transporting vessels of the phloem are the sieve tube
+elements. Like xylem, the phloem sieve tubes are made up of many
+cells joined end to end to form a long, hollow structure. Unlike xylem
+tissue, the phloem tubes are not lignified. In the areas between the
+cells, the walls become perforated to form sieve plates, which look
+like sieves and let the phloem contents flow through. As the large
+pores appear in these cell walls, the tonoplast (vacuole membrane),
+the nucleus and some of the other organelles break down. The phloem
+becomes a tube filled with phloem sap and the mature phloem cells
+have no nucleus.
+A Figure 3 Plants such as these desert
+cholla grow big but do not form wood like
+a tree, so they are very dependent on the
+complex lignified xylem structures to act
+as a supporting skeleton
+Study tip
+Closely linked to the sieve tube elements are companion cells, which
+form with them. These cells are linked to the sieve tube elements by
+many plasmodesmata - microscopic channels through the cellulose
+cell walls linking the cytoplasm of adjacent cells. They maintain their
+nucleus and all their organelles. The companion cells are very active
+cells and it is thought that they function as a 'life support system' for the
+sieve tube cells, which have lost most of their normal cell functions.
+Be clear about the structural
+differences between xylem and
+phloem. Neither xylem vessels nor
+mature sieve tubes have nuclei,
+but xylem vessels are dead and
+phloem vessels are living tissue.
+Phloem tissue also contains supporting tissues including fibres and
+sclereids, cells with extremely thick cell walls.
+Summary questions
+1 Explain why multicellular plants need transport systems.
+sieve
+plate
+(4 marks)
+companion cell -
+D.
+2 State three differences between transport systems in
+multicellular plants and multicellular animals.
+sieve
+tube
+element
+(3 marks)
+sieve tube
+E BEH
+3 State the positioning of the transport tissue in herbaceous
+dicot stems, roots and leaves, and explain how this
+positioning is related to their functions.
+cytoplasm
++
+(6 marks)
+4 Compare and contrast the structure and function of the
+main cell types in xylem and phloem tissues.
+(6 marks)
+A Figure 4 Phloem tissue transports
+carbohydrates and other solutes around
+a plant
+201
+TRANSPORT IN PLANTS
+can rise up a narrow tube against the force of gravity. Water is
+drawn up the xylem in a continuous stream to replace the water
+lost by evaporation. This is the transpiration pull.
+The transpiration pull results in a tension in the xylem, which in
+turn helps to move water across the roots from the soil.
+This model of water moving from the soil in a continuous stream up the
+xylem and across the leaf is known as the cohesion-tension theory.
+Synoptic link
+You learn about the adhesive and
+cohesive properties of water and
+capillary action in Topic 3.2, Water.
+H20 vapour
+air-space
+200'OQC
+epidermal
+cell
+mesophyll cell
+water is drawn up in
+the transpiration stream
+as a result of the cohesive
+forces between water
+molecules
+xylem vessel
+casparian strip - prevents
+movement of water across
+the cell wall
+apoplastic pathway
+symplastic pathway
+endodermal cell
+root cortex
+cell
+root hair cell
+soil particle
+Figure 2 A model of water transport through a plant
+rate of water flow
+diameter of tree trunk
+Evidence for the cohesion-tension theory
+Several pieces of evidence support the cohesion-tension theory for the
+movement of water up the xylem of a plant. These include the following:
+00.00 06.00 12.00 18.00 24.00
+time of day
+A Figure 3 The relationship between
+water flow in the xylem and the diameter
+of a tree trunk
+Changes in the diameter of trees. When transpiration is at its
+height during the day, the tension in the xylem vessels is at its
+highest too. As a result the tree shrinks in diameter. At night,
+when transpiration is at its lowest, the tension in the xylem vessels
+is at its lowest and the diameter of the tree increases. This can be
+tested by measuring the circumference of a suitably sized tree at
+different times of the day.
+When a xylem vessel is broken – for example when you cut flower
+stems to put them in water - in most circumstances air is drawn in
+to the xylem rather than water leaking out.
+If a xylem vessel is broken and air is pulled in as described in the
+previous bullet, the plant can no longer move water up the stem
+as the continuous stream of water molecules held together by
+cohesive forces has been broken.
+Study tip
+Read questions about water
+movement in plants carefully.
+A question about how water in the
+xylem in the root reaches the cells
+of the leaves of a plant does not
+require you to give any information
+about the uptake of water from the
+soil by the root hairs or about the
+movement of water across the root.
+In summary, transpiration delivers water, and the mineral ions
+dissolved in that water, to the cells where they are needed. The
+evaporation of water from the leaf cell surfaces also helps to cool the
+207
+9
+9.3 Transpiration
+leaf down and prevent heat damage (refer back to Topic 3.2, Water).
+However, transpiration, specifically the water loss, is also a problem
+for a plant because the amount of water available is often limited. In
+high intensity sunlight when the plant is photosynthesising rapidly, there
+will be a high rate of gaseous exchange, the stomata will all be open
+and the plant may lose so much water through transpiration that the
+supply cannot meet the demand.
+any water loss measured is as a result of transpiration
+from the stem and leaves (Figure 4).
+Rate of water uptake = distance moved by air bubble/
+time taken for air bubble to move that distance. The units
+are cms-1.
+A plant was placed in a potometer in bright light. The time
+taken for the bubble to move 5 cm was recorded under
+different conditions:
+Measuring transpiration
+It is very difficult to make direct measurements of
+transpiration because of the practical difficulties with
+condensing and collecting all of the water that evaporates
+from the surfaces of the leaves and stems of a plant
+without also collecting water that evaporates from the
+soil surface. It is also very difficult to separate water
+vapour from transpiration and water vapour produced as
+a waste product of respiration.
+However, it is relatively easy to measure the uptake of
+water by a plant. As around 99% of the water taken up
+by a plant is then lost by transpiration, water uptake
+gives us a good working model of transpiration losses.
+By measuring factors that affect the uptake of water by a
+plant, you are effectively also measuring the factors that
+affect the rate of transpiration.
+The rate of water uptake can be measured in a variety
+of ways. The most common is using a potometer. The
+apparatus has to be set up with great care, and all joints
+must be sealed with waterproof jelly to make sure that
+Conditions
+Time in Rate of bubble
+seconds movement cm s 1
+35.0 0.14
+18.0
+0.28
+Normal lab conditions
+Bright light directed at
+leaves
+Bottom surfaces of leaves
+covered with vaseline
+175.0
+0.028
+Data like these can be used to help demonstrate the
+effect of different factors on transpiration
+fresh shoot. The stem is cut under
+water and transferred to the apparatus
+to avoid introducing air bubbles to the
+stem - but care must be taken NOT
+to get water onto the leaves.
+reservoir from which water can be
+let into the capillary tube, pushing
+the air bubble back to the start of
+the scale
+air tight
+tap -
+seal
+0
+capillary tube
+1 How far did the bubble actually move
+in each of the time periods?
+2 Suggest an explanation for the result
+when the bottom surfaces of the
+leaves are covered with Vaseline
+scale calibrated in cm
+air bubble moves along tube as
+water is absorbed by shoot
+A Figure 4 A potometer - apparatus used for measuring water uptake from plants
+208
+9.2 Water transport in
+multicellular plants
+Specification reference: 3.1.3
+Unlike some other multicellular organisms, plants do not have a
+muscular heart beating to move fluids through the vessels of the
+xylem and phloem. In this topic you are going to discover exactly how
+they manage to move the substances they need through bodies that
+may be many metres tall and weigh many tonnes.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the transport of water into
+the plant, through the plant
+and to the air surrounding the
+leaves
+the mechanisms of water
+movement in plants.
+Water transport in plants
+Water is key in both the structure and in the metabolism of plants:
+Synoptic link
+You learnt about osmosis, water
+potential and turgor pressure in
+Topic 5.5, Osmosis.
+Turgor pressure (or hydrostatic pressure) as a result of osmosis in
+plant cells provides a hydrostatic skeleton to support the stems and
+leaves. So, for example, the turgor pressure in leaf cells is around
+1.5 MPa - that is 11251 mm Hg (unit of pressure still commonly
+used in medicine) (human systolic blood pressure is around
+120 mm Hg).
+Turgor also drives cell expansion - it is the force that enables plant
+roots to force their way through tarmac and concrete.
+The loss of water by evaporation helps to keep plants cool.
+Mineral ions and the products of photosynthesis are transported in
+aqueous solutions.
+Water is a raw material for photosynthesis.
+To understand the role of water in plants we need to look at
+how water moves into a plant from the soil and how it moves around
+the plant.
+Synoptic link
+Movement of water into the root
+Root hair cells are the exchange surface in plants where water is
+taken into the body of the plant from the soil. A root hair is a long,
+thin extension from a root hair cell, a specialised epidermal cell found
+near the growing root tip.
+You learnt about meristems in
+plant roots and shoots (the tissues
+of a plant where growth can take
+place) in Topic 6.5, Stem cells. You
+will learn more about plant growth
+in Topic 16.1, Plant hormones and
+growth in plants.
+Root hairs are well adapted as exchange surfaces:
+•
+Their microscopic size means they can penetrate easily between
+soil particles.
+Each microscopic hair has a large SA:V ratio and there are
+thousands on each growing root tip.
+Each hair has a thin surface layer (just the cell wall and
+cell-surface membrane) through which diffusion and osmosis
+can take place quickly.
+The concentration of solutes in the cytoplasm of root hair cells
+maintains a water potential gradient between the soil water and
+the cell.
+202
+9.3 Transpiration
+rate of transpiration
+the leaf decrease air movement close to the leaf. The water vapour
+that diffuses out of the leaf accumulates here and so the water
+vapour potential around the stomata increases, in turn reducing
+the diffusion gradient. Anything that increases the diffusion
+gradient will increase the rate of transpiration. So air movement or
+wind will increase the rate of transpiration, and conversely a long
+period of still air will reduce transpiration (Figure 7).
+Soil-water availability – The amount of water available in the
+soil can affect transpiration rate. If it is very dry the plant will be
+under water stress and the rate of transpiration will be reduced.
+light intensity
+A Figure 6 Graph to show the effect of
+light intensity on transpiration
+a Still air
+b Moving air
+guard
+stoma
+inside of leaf
+cells
+inside of leaf
+O OOO OC
+thick layer
+of moist air -
+decreased water
+vapour potential gradient
+vapour potential gradient bien er water vapour
+thin layer
+of moist air -
+increased water vapour
+potential gradient
+diffusion and mass movement
+of water vapour
+diffusion of water vapour
+air movement
+A Figure 7 The effect of air movements on the rate of transpiration
+Summary questions
+1 Explain the difference between transpiration and the transpiration stream.
+(2 marks)
+2 Compare root pressure and the transpiration pull.
+(3 marks)
+3 Describe how you might use a potometer to investigate the effect of air movements on
+transpiration rates.
+(6 marks)
+4 In an investigation into water uptake by a shoot using a bubble potometer, a group recorded how far the
+air bubble moved in a set time period of 40 seconds, in different conditions.
+Their results are as follows:
+a In the dark: 0.4 cm
+(5 marks)
+b In normal daylight: 5.6 cm
+(5 marks)
+c With bright lights shining on the plant shoot: 8.0 cm
+(5 marks)
+d With bright light shining and a fan blowing on the shoot: 12 cm
+(6 marks)
+Calculate the rate of water movement under each set of conditions and explain each result.
+(6 marks)
+5 a Describe the cohesion-tension theory of transpiration.
+b Use the theory to explain:
+i the changes in diameter measured in the trunk of a tree between midday and midnight
+ii the fact that cut flowers placed in water may droop and die very quickly.
+(4 marks)
+(4 marks)
+210
+9.2 Water transport in multicellular plants
+cytoplasm
+waterproof
+casparian strip
+water in the apoplast
+is forced into the
+cytoplasm by the
+casparian strip
+The solute concentration in the cytoplasm of the endodermal cells
+is relatively dilute compared to the cells in the xylem. In addition, it
+appears that the endodermal cells move mineral ions into the xylem
+by active transport. As a result the water potential of the xylem cells
+is much lower than the water potential of the endodermal cells.
+This increases the rate of water moving into the xylem by osmosis
+down a water potential gradient from the endodermis through the
+symplast pathway.
+Once inside the vascular bundle, water returns to the apoplast
+pathway to enter the xylem itself and move up the plant. The active
+pumping of minerals into the xylem to produce movement of water by
+osmosis results in root pressure and it is independent of any effects
+of transpiration. Root pressure gives water a push up the xylem, but
+under most circumstances it is not the major factor in the movement
+of water up from the roots to the leaves.
+endodermal cell
+A Figure 3 The effect of the casparian
+strip on the movement of water across
+the endodermis
+Xylem
+vessel
+water is drawn up in
+the transpiration stream
+as a result of the cohesive
+forces between water
+molecules
+casparian strip - prevents
+movement of water across
+the cell wall
+Evidence for the role of active transport in root pressure
+It has taken some time and many different investigations to determine
+the role of active transport in moving water from the root endodermis
+into the xylem. There are several strands of evidence supporting the
+current model:
+NOUS
+•
+endodermal
+cell
+root /
+cortex root
+cortex root
+cell hair cell
+soil
+particle
+Some poisons, such as cyanide, affect the mitochondria and
+prevent the production of ATP. If cyanide is applied to root cells so
+there is no energy supply, the root pressure disappears.
+Root pressure increases with a rise in temperature and falls with a
+fall in temperature, suggesting chemical reactions are involved.
+If levels of oxygen or respiratory substrates fall, root pressure falls.
+Xylem sap may exude from the cut end of stems at certain times.
+In the natural world, xylem sap is forced out of special pores at the
+ends of leaves in some conditions – for example overnight, when
+transpiration is low. This is known as guttation.
+apoplastic pathway
+→ symplastic pathway
+Figure 4 The root cells provide a very
+efficient system for moving water from
+the soil into the xylem
+Summary questions
+1 Explain how a root hair cell is adapted for its role in the
+uptake of water from the soil.
+(4 marks)
+2 Explain the differences between the apoplast and
+symplast pathways for water movement across the
+root of a plant into the xylem.
+(6 marks)
+(2 marks)
+3 a Suggest why the effect of temperature on root pressure
+is not sufficient to prove that active transport is involved
+in the development of root pressure.
+b Explain why the effects of cyanide, oxygen levels, and
+respiratory substrates on root pressure are taken as
+evidence that active transport is involved in the
+development of root pressure.
+Figure 5 Guttation - evidence for root
+pressure independent of transpiration
+(5 marks)
+204
+TRANSPORT IN PLANTS
+cellulose
+cell wall
+nucleus
+Soil water has a very low concentration of dissolved minerals so it has
+a very high water potential. The cytoplasm and vacuolar sap of the
+root hair cell (and the other root cells) contain many different solvents
+including sugars, mineral ions, and amino acids so the water potential
+in the cell is lower. As a result water moves into the root hair cells by
+osmosis.
+soil
+air
+space
+soil
+cytoplasm vacuole
+Movement of water across the root
+Once the water has moved into the root hair cell it continues to move
+across the root to the xylem in one of two different pathways:
+I particles
+thin
+containing cellulose
+cell sap - cell wall
+solution
+of ions and cell-surface
+sugars, lower membrane
+water
+potential
+solution
+(very dilute
+solution of
+mineral
+ions) higher
+water
+potential
+TII
+The symplast pathway
+Water moves through the symplast - the continuous cytoplasm of
+the living plant cells that is connected through the plasmodesmata -
+by osmosis. The root hair cell has a higher water potential than the
+next cell along. This is the result of water diffusing in from the soil,
+which has made the cytoplasm more dilute. So water moves from the
+root hair cell into the next door cell by osmosis. This process continues
+from cell to cell across the root until the xylem is reached.
+absorption of water
+by osmosis
+A Figure 1 Osmosis is the driving force
+behind the absorption of water by a root
+hair cell
+Synoptic link
+As water leaves the root hair cell by osmosis, the water potential of
+the cytoplasm falls again, and this maintains a steep water potential
+gradient to ensure that as much water as possible continues to move
+into the cell from the soil.
+You learned about water potential
+in Topic 5.5, Osmosis.
+cell 1
+The apoplast pathway
+This is the movement of water through the apoplast - the cell walls
+and the intercellular spaces. Water fills the spaces between the loose,
+open network of fibres in the cellulose cell wall. As water molecules
+move into the xylem, more water molecules are pulled through the
+apoplast behind them due to the cohesive forces between the water
+molecules. The pull from water moving into the xylem and up the
+plant along with the cohesive forces between the water molecules
+creates a tension that means there is a continuous flow of water
+through the open structure of the cellulose wall, which offers little or
+no resistance.
+cellulose cell
+wall (fibres with
+water-filled
+spaces between)
+cytoplasm
+cell 2
+vacuole (with cell
+sap made up of a
+dilute solution of
+salts and sugars)
+plasmodesma
+(fine strand of
+cytoplasm
+linking adjacent
+cells)
+cell 3
++
+►
+apoplastic pathway
+symplastic pathway
+Movement of water into the xylem
+Water moves across the root in the apoplast and symplast pathways
+until it reaches the endodermis - the layer of cells surrounding the
+vascular tissue (xylem and phloem) of the roots (Figure 4). The
+endodermis is particularly noticeable in the roots because of the effect
+of the Casparian strip. The Casparian strip is a band of waxy material
+called suberin that runs around each of the endodermal cells forming a
+waterproof layer (Figure 3). At this point, water in the apoplast pathway
+can go no further and it is forced into the cytoplasm of the cell, joining
+the water in the symplast pathway. This diversion to the cytoplasm is
+significant as to get to get there, water must pass through the selectively
+permeable cell surface membranes, this excludes any potentially-toxic
+solutes in the soil water from reaching living tissues, as the membranes
+would have no carrier proteins to admit them. Once forced into the
+cytoplasm the water joins the symplast pathway.
+Figure 2 The apoplast and symplast
+pathways along which water moves
+across the root
+Synoptic link
+You learnt about the properties of
+water in Topic 3.2, Water.
+203
+TRANSPORT IN PLANTS
+Synoptic link
+You learn about turgor pressure
+in plant cells in Topic 5.5, Osmosis.
+15-20 um
+Stomata - controlling the rate of transpiration
+As you learn at the start of this topic, the main way in which the
+rate of transpiration is controlled by the plant is by the opening and
+closing of the stomatal pores. This is a turgor-driven process. When
+turgor is low the asymmetric configuration of the guard cell walls
+closes the pore. When the environmental conditions are favourable
+guard cells pump in solutes by active transport, increasing their
+turgor. Cellulose hoops prevent the cells from swelling in width, so
+they extend lengthways. Because the inner wall of the guard cell is
+less flexible than the outer wall, the cells become bean-shaped and
+open the pore. When water becomes scarce, hormonal signals from
+the roots can trigger turgor loss from the guard cells, which close the
+stomatal pore and so conserve water.
+thin outer wall
+a Stoma closed
+chloroplast
+cytoplasm
+vacuole
+nucleus
+thick inner wall
+b Stoma open
+Factors affecting transpiration
+Any factor affecting the rate of water loss from the leaves of a
+plant will affect the rate of transpiration. Factors that affect water
+loss from the leaf must either act on the opening/closing of the
+stomata, the rate of evaporation from the surfaces of the leaf cells
+or the diffusion gradient between the air spaces in the leaves and
+the air surrounding the leaf. The effects of some of these factors are
+described below:
+stomatal aperture
+A Figure 5 The opening and closing
+of the stomata is vital to the control of
+transpiration in a plant
+Light is required for photosynthesis and in the light the stomata
+open for the gas exchange needed. In the dark, most of the
+stomata will close. Increasing light intensity gives increasing
+numbers of open stomata, increasing the rate of water vapour
+diffusing out and therefore increasing the evaporation from the
+surfaces of the leaf. So, increasing light intensity increases the rate
+of transpiration (Figure 6).
+Relative humidity is a measure of the amount of water vapour
+in the air (humidity) compared to the total concentration of
+water the air can hold. A very high relative humidity will lower
+the rate of transpiration because of the reduced water vapour
+potential gradient between the inside of the leaf and the outside
+air. Very dry air has the opposite effect and increases the rate of
+transpiration.
+Temperature affects the rate of transpiration in two ways:
+An increase in temperature increases the kinetic energy
+of the water molecules and therefore increases the rate of
+evaporation from the spongy mesophyll cells into the air
+spaces of the leaf.
+An increase in temperature increases the concentration of water
+vapour that the external air can hold before it becomes saturated
+(so decreases its relative humidity and its water potential).
+Both factors increase the diffusion gradient between the air inside and
+outside the leaf, thus increasing the rate of transpiration.
+Air movement - Each leaf has a layer of still air around it trapped
+by the shape of the leaf and features such as hairs on the surface of
+209

@@ -1,0 +1,661 @@
+14
+ALCOHOLS
+6
+Practice questions
+1 There are four structural isomers that are
+alcohols with the molecular formula C,H,O.
+a Draw the displayed formula of these
+alcohols and classify them as primary,
+secondary or tertiary.
+(4 marks)
+b One of these alcohols does not react with
+acidified dichromate.
+Identify this alcohol
+(1 mark)
+2 Identify, by name and structure, the alcohol
+needed to be reacted with acidified potassium
+dichromate solution to make each of the
+following oxidation products.
+a hexanal
+(2 marks)
+b 2-methylbutanoic acid
+(2 marks)
+C 3-methylheptan-2-one
+(2 marks)
+3 Alcohols are soluble in water due to their
+ability to hydrogen bond with water molecules;
+Draw a diagram to show the hydrogen
+bonding between water and a molecule
+of propan-1-ol.
+(2 marks)
+4 Describe the oxidation reactions of propan-1-ol
+when using a suitable oxidising agent.
+Indicate how the use of different reaction
+conditions can control which organic product
+forms.
+Include reagents, observations and equations
+in your answer. In your equations, use
+structural formulae and use [O] to represent
+the oxidising agent.
+(6 marks)
+OCR F322 June 2014 Q7 (d)
+5 The skeletal formulae of six alcohols,
+C, D, E, F, G, and H, are shown below.
+b (i) What is the molecular formula of
+alcohol G?
+(1 mark)
+(ii) What is the name of alcohol C?
+(1 mark)
+c The alcohols are members of a
+homologous series.
+Explain the term homologous series.
+(2 marks)
+OCR F322 June 2013 Q2 (a-c)
+Pentan-2-ol is a secondary alcohol.
+a Pentan-2-ol can be converted into three
+alkenes, A, B, and C, by the elimination
+of water.
+Two of the alkenes, A and B, are
+stereoisomers.
+The third alkene, C, is a structural isomer of
+both A and B.
+This elimination often uses a catalyst
+(i) What is a suitable catalyst for this
+reaction?
+(1 mark)
+Construct an equation, using molecular
+formulae, for the elimination of water
+from pentan-2-ol.
+(1 mark)
+(iii) Explain what is meant by the terms
+structural isomers and stereoisomers.
+(4 marks)
+(iv) Draw the structures of stereoisomers
+A and B and the structure of
+compound C.
+(3 marks)
+(v) Stereoisomers A and B show E/Z
+isomerism. State two features of these
+molecules that enable them to show
+E/Z isomerism.
+(2 marks)
+b Pentan-2-ol can be oxidised by heating
+under reflux with acidified aqueous
+potassium dichromate(VI).
+Write the equation for this oxidation.
+Use skeletal formulae.
+Use [O] to represent the oxidising agent.
+(2 marks)
+Pentan-1-ol can also be oxidised but it
+gives two different products.
+Show the structures of the two organic
+products formed. State the reagents and
+different conditions for each oxidation.
+(3 marks)
+OCR F322 Jan 2013 Q3
+OH
+OH
+OH
+OH
+OH HO
+H
+a
+(i) Which two alcohols are structural
+isomers of one another? (1 mark)
+(ii) Which alcohol is a tertiary alcohol?
+(1 mark)
+(iii) Which alcohol can be oxidised to
+a carboxylic acid using acidified
+K,Cr,0,?
+(1 mark)
+229
+ALCOHOLS
+Preparation of carboxylic acids
+If a primary alcohol is heated strongly under reflux, with an excess of
+acidified potassium dichromate(VI), a carboxylic acid is formed. Use
+of an excess of the acidified potassium dichromate(VI) ensures that
+all of the alcohol is oxidised. Heating under reflux ensures that any
+aldehyde formed initially in the reacton also undergoes oxidation to
+the carboxylic acid.
+The complete oxidation of butan-1-ol to butanoic acid is shown
+in Figure 3.
+H
+H
+H
+H
+H
+H
+H
+O
+H—
+C—
+C—
+C—
+C—
+K2Cr207/H2SO4
+OH + 2[0] —
+reflux
+H-
+C-
++ H2O
+H
+H
+H
+H
+H
+butan-1-ol
+butanoic acid
+oxidising agent
+A Figure 3 The oxidation of butan-1-ol with excess acidified potassium dichromate (VI) to form butanoic acid
+You can see that the conditions of the oxidation of a primary alcohol,
+such as whether a reagent in excess the conditions and the technique
+used, influence the product formed.
+Study tip
+Remember the order of oxidation
+for primary alcohols.
+primary alcohol aldehyde
+carboxylic acid
+When preparing the aldehyde, use distillation to remove the
+aldehyde from the reaction mixture.
+When preparing the carboxylic acid, heat the alcohol under reflux.
+Oxidation of secondary alcohols
+Secondary alcohols are oxidised to ketones. It is not possible to further
+oxidise ketones using acidified dichromate (VI) ions.
+Synoptic link
+To ensure the reaction goes to completion, the secondary alcohol is
+heated under reflux with the oxidising mixture. The dichromate(VI)
+ions once again change colour from orange to green. The oxidation
+of propan-2-ol to propanone is shown in Figure 4.
+Distillation and heat under reflux
+are practical techniques that you
+will need to use as part of your
+practical course. You will meet both
+in Topic 16.1, Practical techniques
+in organic chemistry.
+HHH
+K2Cr207/H2SO4
+H
+—
+C
+—
+C
+—
+C
+—
+H
++
+[O]
+H-
+—C—
+H
++ H2O
+reflux
+H
+OH
+H
+propan-2-ol
+propanone
+oxidising agent
+Figure 4 The oxidation of propan-2-ol with excess acidified potassium dichromate (VI)
+to form propanone
+Oxidation of tertiary alcohols
+Tertiary alcohols do not undergo oxidation reactions. The acidified
+dichromate(VI) remains orange when added to a tertiary alcohol.
+Study tip
+On oxidation:
+primary alcohol → aldehyde
+→ carboxylic acid
+secondary alcohol ketone
+tertiary alcohol no reaction
+227
+14.2 Reactions of alcohols
+Synoptic link
+You will recall from Topic 11.5,
+Introduction to reaction
+mechanisms, that an elimination
+reaction involves the removal of a
+small molecule from a molecule,
+forming two products.
+Dehydration of alcohols
+Dehydration is any reaction in which a water molecule is removed
+from the starting material. An alcohol is heated under reflux in the
+presence of an acid catalyst such as concentrated sulfuric acid, H,SO,
+or concentrated phosphoric acid, H,PO . The product of the reaction is
+an alkene.
+Dehydration of an alcohol is an example of an elimination reaction.
+The equation for the dehydration of the alcohol cyclohexanol is shown
+in Figure 7. The products of the reaction are cyclohexene and water.
+Summary questions
+H
+HH
+I
+I
+H3PO4
+H-
++
+H20
+I
+o
+1 Alcohols can be oxidised
+using acidified potassium
+dichromate. show the full
+displayed formula of the
+organic products formed
+when acidified potassium
+dichromate is heated under
+reflux with:
+a butan-2-ol (1 mark)
+b hexan-1-ol
+(1 mark)
+c ethane-1,2-diol (1 mark)
+d butane-1,2-diol (1 mark)
+H
+H
+Cyclohexanol
+cyclohexene
+A Figure 7 The dehydration of cyclohexanol to form cyclohexene
+2 Write the overall equation for
+the reaction between butan-1-
+ol, sodium iodide and sulfuric
+acid. Name the organic product
+and state the type of reaction
+taking place. (3 marks)
+Substitution reactions of alcohols
+Alcohols react with hydrogen halides to form haloalkanes. When
+preparing a haloalkane, the alcohol is heated under reflux with
+sulfuric acid and a sodium halide the hydrogen bromide is formed
+in situ (in place).
+NaBr(s) + H,SO,(aq) + NaHSO4(aq) + HBr(aq)
+The HBr formed reacts with the alcohol to produce the haloalkane.
+The reaction of propan-2-ol with HBr is shown in Figure 8.
+HHH
+HHH
+H—C—C—C—H
++ HBr →H—C—C—C
+H
++ H20
+3 Draw the full displayed formula
+of the organic product of the
+reactions between:
+a propan-2-ol and concentrated
+sulfuric acid (1 mark)
+b 2-methylpropan-2-ol and
+a mixture of sodium
+chloride and concentrated
+sulfuric acid. (1 mark)
+H OH H
+H Br H.
+propan-2-01
+2-bromopropane
+A Figure 8 Substitution of the alcohol group -OH in propan-2-ol
+The overall equation for the reaction of propan-2-ol with H,So, and
+NaBr is shown below.
+CH, CHOHCH, + NaBr + H,50,
+CH,CHBrCH, + NaHSO4 + H2O
+228
+14.2 Reactions of alcohols
+Specification reference: 4.2.1
+Combustion of alcohols
+Alcohols burn completely in a plentiful supply of oxygen to produce
+carbon dioxide and water. The equation shows the complete
+combustion of ethanol.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ combustion of alcohols
+→ oxidation of alcohols
+→ elimination from alcohols
+substitution of alcohols by
+halide ions.
+C,H,OH() + 30 () 200,(g) + 3H, 0(1)
+The reaction is exothermic, releasing a large quantity of energy in the
+form of heat. As the number of carbon atoms in the alcohol chain
+increases the quantity of heat released per mole also increases.
+Oxidation of alcohols
+Primary and secondary alcohols can be oxidised by an oxidising agent.
+The usual oxidising mixture is a solution of potassium dichromate(VI),
+K,Cr,O, acidified with dilute sulfuric acid, H,SO,. If the alcohol
+is oxidised, the orange solution containing dichromate(VI) ions is
+reduced to a green solution containing chromium(III) ions (Figure 1).
+Cr, 0,2-
+dichromate(VI) ions
+Cr3+
+chromium(III) ions
+A Figure 1 Oxidation of the primary
+alcohol butan-1-ol by acidified potassium
+dichromate(VI) solution, a strong
+oxidising agent that is reduced to a green
+solution containing chromium(III) ions
+Oxidation of primary alcohols
+Primary alcohols can be oxidised to either aldehydes or carboxylic acids.
+The product of the oxidation depends on the reaction conditions used
+because aldehydes are themselves also oxidised to carboxylic acids.
+Study tip
+Preparation of aldehydes
+On gentle heating of primary alcohols with acidified potassium
+dichromate, an aldehyde is formed. To ensure that the aldehyde is
+prepared rather than the carboxylic acid, the aldehyde is distilled out
+of the reaction mixture as it forms. This prevents any further reaction
+with the oxidising agent. The dichromate (VI) ions change colour
+from orange to green, as shown in Figure 1.
+Use [O] in brackets to show that
+an oxidising agent is being used.
+It makes balancing the equations
+much easier, too!
+The equation in Figure 2 shows the oxidation of butan-1-ol, a primary
+alcohol, to form the aldehyde butanal, using acidified potassium
+dichromate(VI). Notice that [O] is used to indicate the oxidising agent.
+I-
++ H20
+H H H H
+HHH
+K2Cr207/ H2SO4
+H- C-
+-C— C—OH + [0] –
+→ H— C— C— C— C
+distil
+HH H H
+H H H
+butan-1-ol
+butanal
+oxidising agent
+A Figure 2 The oxidation of butan-1-ol to with acidified potassium dichromate (VI) to form butanal
+226
+14
+ALCOHOLS
+Secondary alcohols
+In a secondary alcohol the-OH group is attached to a carbon atom
+that is attached to one hydrogen atom and two alkyl groups. Propan-2-ol
+and pentan-3-ol are both examples of secondary alcohols.
+H
+H
+H
+H
+H
+H
+H
+H
+H—
+H+ 14-
+C—
+C—
+C—H
+H
+—
+C—
+C—
+C—
+C—
+C—
+H
+Ħ OH H
+HH OHHH
+propan-2-01
+pentan-3-01
+Figure 8 The structure of two secondary alcohols
+Tertiary alcohols
+In a tertiary alcohol the -OH group is attached to a carbon atom
+that is attached to no hydrogen atoms and three alkyl groups.
+2-Methylpropan-2-ol and 2-methylbutan-2-ol are both examples
+of tertiary alcohols.
+CH3 H
+H CH3 HH
+H-C-CC -
+H
+111
+H
+-
+1111
+0-
+0-
+-
+-
+H
+H
+OH
+H OH HH
+2-methylpropan-2-01
+2-methylbutan-2-01
+A Figure 9 The structure of two tertiary alcohols
+You must be able to recognise the three different classes of alcohol in
+order to predict how the alcohol will react with oxidising agents. You
+will cover oxidation of alcohols in the next topic.
+Summary questions
+1 a
+Name the following alcohols.
+(3 marks)
+H
+H
+H
+H
+H
+I-
+H
+H
+H
+CH3 H
+ISO
+H-
+-
+CC -CC -H
+C
+O
+H
+-6-6-6-OH
+H=C—C—C—C—OH
+H
+OH
+H
+H
+H
+HHH
+HH
+b
+Classify the three structures in part (a) as primary, secondary, or tertiary.
+(3 marks)
+2 Four of the isomers with the molecular formula C,H, O are alcohols. Draw skeletal formulae of these
+four alcohols and classify them as primary, secondary, or tertiary.
+(8 marks)
+3 State and explain the trend in the boiling point of the alcohols as the length of the carbon chain
+increases.
+(3 marks)
+4 Show, using a diagram, how hydrogen bonds act between molecules of propan-1-ol and water.
+(2 marks)
+5 Propane-1,2,3-triol is more soluble in water than propan-1-ol. Explain why.
+(4 marks)
+225
+ALCOHOLS
+14.1 Properties of alcohols
+Specification reference: 4.2.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ polarity, solubility, and
+volatility of alcohols
+→ classification of alcohols.
+The alcohol homologous series
+Alcohols contain the -OH functional group, known as the hydroxyl
+group. The hydroxyl group is responsible for both the physical and
+chemical properties of the alcohols.
+The simplest alcohol, methanol, CH,OH, is used as a high-performance
+fuel because of its efficient combustion. Methanol is also an important
+chemical feedstock - the starting material in many industrial
+syntheses. It can be converted into polymers, paints, solvents,
+insulation, adhesives, and many other useful products.
+The second member of the alcohol homologous series, ethanol, is
+used primarily in alcoholic drinks and as a fuel, and also finds use
+as a solvent and a feedstock.
+Naming alcohols
+You will recall that the suffix -ol is added to the stem name of the
+longest carbon chain. The position of the alcohol functional group
+in the chain is indicated using a number.
+Figure 1 Ethanol is used in alcoholic
+drinks
+6) Worked example: Naming an alcohol
+What is the IUPAC name of this alcohol?
+H CH3 HH
+H—
+C—
+0
+C-
+-C-
+H
+H
+OH
+OH
+H
+Step 1: There are four carbons in the longest chain, so the stem
+is butane.
+Step 2: There are two-OH functional groups, so the suffix
+is -diol.
+Step 3: The-OH groups are on carbons 2 and 3, so the infix
+is -2,3-.
+Synoptic link
+Step 4: The suffix-diol does not start with a vowel. The alkane
+chain name is not shortened.
+Step 5: There is a methyl group (-CH) on carbon 2. The prefix
+2-methyl is added to the name.
+Alcohols are named using the
+rules introduced in Topic 11.2,
+Nomenclature of organic
+compounds.
+Step 6: The compound is 2-methylbutane-2,3-diol.
+222
+14.1 Properties of alcohols
+As the hydrocarbon chain increases in size, the influence of the -OH
+group becomes relatively smaller, and the solubility of longer-chain
+alcohols becomes more like that of hydrocarbons – solubility decreases.
+Ethylene glycol to the rescue
+H
+H
+HO—C—C—OH
+Scraping ice from the windscreen of a car is one of the least pleasant tasks of
+the early morning motorist. Spraying a solution of ethane-1,2-diol, also known
+as ethylene glycol (Figure 6), onto the cold windscreen can melt away the ice in
+seconds. Water freezes at 0 °C and ethane-1,2-diol at -13 °C, but when the two
+are mixed the freezing point of the mixture can be as low as -40 °C.
+H H
+A Figure 6 Ethane-1,2-diol has
+two alcohol functional groups in its
+structure
+Figure 5 Deicing fluid, a mixture
+of a chemical called ethylene glycol
+and water, is generally heated and
+sprayed under pressure to remove ice
+and snow from aircraft
+How does this molecule work its magic? Use a clear diagram in your answer
+to show the role of intermolecular forces.
+Synoptic link
+See Topic 13.4, Electrophilic
+addition in alkenes, for the
+classification of carbocations as
+primary, secondary, or tertiary.
+Classifying alcohols
+Alcohols can be classified as primary, secondary, or tertiary. This
+classification depends on the number of hydrogen atoms and
+alkyl groups attached to the carbon atom that contains the alcohol
+functional group.
+Primary alcohols
+Methanol and ethanol, the two simplest alcohols in the alcohols
+homologous series, are both primary alcohols.
+In a primary alcohol the -OH group is attached to a carbon atom that
+is attached to two hydrogen atoms and one alkyl group. (Methanol,
+with three hydrogen atoms and no carbon atoms attached, is an
+exception that is still classified as a primary alcohol.)
+HH
+H—
+C—
+OH
+H
+—
+C—
+C—OH
+H H
+methanol
+ethanol
+A Figure 7 The structures of the primary alcohols methanol
+and ethanol
+224
+14
+ALCOHOLS
+Synoptic link
+Physical properties
+When you compare the physical properties of alcohols with alkanes
+of the same number of carbon atoms (e.g., methanol and methane),
+there are some interesting differences. Alcohols are less volatile,
+have higher melting points, and greater water solubility than the
+corresponding alkanes. The differences become much smaller as the
+length of the carbon chain increases.
+If you are not sure about
+electronegativity, polarity,
+and intermolecular forces you
+should look back at Topics 6.3,
+Intermolecular forces, and 12.1,
+The properties of alkanes.
+These differences can be explained by considering the polarity of the
+bonds in both the alkanes and alcohols, and the effect that these bonds
+have on the strength of the intermolecular forces.
+2501
+alcohols
+The alkanes have non-polar bonds because the
+electronegativity of hydrogen and carbon are very similar.
+The alkane molecules are therefore non-polar.
+The intermolecular forces between non-polar molecules are
+very weak London forces.
+Alcohols have a polar 0-H bond because of the difference in
+electronegativity of the oxygen and hydrogen atoms.
+Alcohol molecules are therefore polar.
+The intermolecular forces will be very weak London forces but
+there will also be much stronger hydrogen bonds between the
+polar 0-H groups.
+boiling point/°C
+alkanes
+H
+H
+HÔ+
+.
+10
+-hydrogen bond
+H—
+C—
+C-
+H
+H
+HH
+carbon number/n
+A Figure 3 The relationship between carbon
+number and boiling point for the alcohols and
+the alkanes. As chain length increases, the
+contribution of the -OH group decreases and
+the alcohols resemble the alkanes more closely
+ISO-
+$0 CCH
+HH
+A Figure 2 Hydrogen bonding between two ethanol molecules
+Study tip
+Volatility and boiling points
+The difference in the boiling points of the alkanes and alcohols can
+be seen in Figure 3. In the liquid state, intermolecular hydrogen
+bonds hold the alcohol molecules together. These bonds must be
+broken in order to change the liquid alcohol into a gas. This requires
+more energy than overcoming the weaker London forces in alkanes,
+so alcohols have a lower volatility than the alkanes with the same
+number of carbon atoms.
+Compounds with low boiling points
+are volatile – they are easily
+converted from a liquid to a gas.
+The higher the boiling point, the
+lower the volatility.
+Solubility in water
+A compound that can form hydrogen bonds with water is far more
+water-soluble than a compound that cannot. Alkanes are non-polar
+molecules and cannot form hydrogen bonds with water. Alcohols such
+as methanol and ethanol are completely soluble in water, as hydrogen
+bonds form between the polar -OH group of the alcohol and the water
+molecules (Figure 4).
+hydrogen bond
+_0—
+H
+Figure 4 Hydrogen bonds form
+between methanol and water
+223

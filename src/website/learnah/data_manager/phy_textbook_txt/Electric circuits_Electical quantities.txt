@@ -1,0 +1,1342 @@
+Electrical quantities
+3.1
+fall as the temperature rises. Table A below shows how the density of conduction electrons, n in the
+transport equation, explains why the resistivity of metals is so much lower than for semiconductors.
+The negative temperature coefficients of resistivity for semiconductors show that their resistivity falls
+as the temperature goes up. The reason for this is that the value for n in the transport equation will
+be higher at higher temperatures (see also Section 3.1.6). So the fact that the resistivity goes down
+is actually just a consequence of the fact that these materials, like silicon, conduct better at higher
+temperatures.
+Material
+Copper
+Aluminium
+Silicon
+Germanium
+n/m? (at 20°C)
+8.42 x 1028
+18.2 x 1028
+8.49 x 1015
+1.56 x 1019
+n/m-3 (at 50°C)
+8.27 x 1028
+17.9 x 1028
+7.42 x 1017
+6.82 x 1020
+table A The number of charge carriers for some common materials, at room temperature and at a higher temperature.
+A slight decrease in n for metals at higher temperatures is due to their thermal expansion, rather
+than any change in the number of available conduction electrons. It is not nearly as significant
+as the increase in collisions between metal atoms and conduction electrons caused by increased
+thermal vibrations.
+Questions
+| What is meant by the 'drift velocity' of conduction electrons in a metal?
+2 For an aluminium wire at room temperature with a diameter of 0.40 mm, calculate the electrons' drift
+velocity when a current of 2.2 A passes through the wire.
+3
+Explain why the resistance of a wire is greater if the wire is longer.
+4 Develop a model to explain conduction and resistance in metals. Your explanation should include
+reference to at least the following ideas:
+movement of charge carriers
+fixed lattice ions
+collisions between ions and charge carriers
+• increased vibrations of fixed lattice ions with temperature
+an evaluation of the strengths and weaknesses of your model.
+5
+Estimate the number of free conduction electrons in a penny coin.
+Key definitions
+The slow overall movement of the charges in a current is called their drift velocity.
+The transport equation is I = nAvg. This defines electric current, I, from a fundamental basis. It is the
+product of charge carriers, n; the charge on those carriers, q; the cross-sectional area of the conductor, A;
+and the drift velocity of the charge carriers in that conductor, V.
+What have I studied before?
+- Atomic structure, and electrical conduction by
+electrons
+- When electrical charges attract or repel
+• Conservation of electrical charge
+... What we mean by 'current and by 'voltage, and
+how these are measured
+• The Ohm's law equation
+Electrical resistance and its effects
+The variation in current with changing potential
+difference, for various components
+What will I study later?
+• How electrical properties are affected by the
+design of the circuit in which they are being
+measured
+How the conservation of charge, and the
+conservation of energy affect the distribution of
+currents and voltages around circuits
+How resistances can be combined and separated
+in series and parallel circuits
+How internal resistance can affect the usefulness
+of an electrical supply
+How to calculate the transfer of electrical energy,
+power, and the efficiency of an electrical device
+or circuit
+The causes of forces on electrically charged
+particles
+The structures and effects of electrical fields
+(A level)
+What will I study in this chapter?
+• Atomic structure, and the structure of solid
+materials, especially metals
+• Numerical quantities of electrical charge, and the
+movement of quantities of charge
+Conservation of electrical charge implications for
+currents
+Mathematical definitions of current, voltage and
+resistance
+Ohm's law in general and when it is, and is not,
+relevant
+What affects resistance in different objects and
+materials, including resistivity and
+superconductivity
+Why there is the variation we see in current with
+changing potential difference, for various
+components
+65
+:
+3.1
+Electric current
+By the end of this section, you should be able to...
+describe electric current as the rate of flow of charged particles
+make calculations of electric current
+Electric charge
+WP
+Some particles have an electric charge. For example, the electron has a negative charge.
+In SI units, electric charge is measured in coulombs (C) and the amount of charge on a single
+electron in these units is -1.6 X 10-19 C.
+e = 1.6 x 10-19
+This means that you would have one coulomb of negative charge if you collected together
+6.25 X 1018 electrons, as shown in this calculation:
+total charge, Q = ne = 6.25 x 1018 x 1.610-19 = 10
+The charges on fundamental particles such as electrons are fixed properties of these particles.
+It is impossible to create or destroy charge - the total charge must always be conserved.
+fig A Electric current is a measure
+of the rate of movement of
+electric charge. Lightning strikes
+can have currents of 10000
+amperes.
+Electric current
+If electric charge moves, this is referred to as an electric current, and the strict definition of current
+is the rate of movement of charge. As it is usually a physical movement of billions of tiny charged
+particles, such charge movements are often said to flow. Thinking of the flow of charge like the current
+in a river can be useful, and we will see later how current splits and recombines at circuit junctions in a
+manner that is analogous to water flow. Moreover, as the total amount of water in a river at a given time
+does not change, even if the river splits, this again illustrates the conservation of charge.
+0.22
+fig B We can measure electric current through a component using an ammeter connected in series.
+Electric current occurs when a charged particle, which is free to move, experiences an electric force.
+If it can move it will be accelerated by the force. This movement of charge forms the electric current.
+Most electric circuits are made from metal wiring in which there are electrons that are free to move.
+These conduction electrons then form the current.
+Any source of electrical energy can create an electric force in order to produce a current. In fig C,
+the cell causes the electric force experienced by the negative conduction electrons so they move
+through the metal – they are attracted to the positive anode of the cell.
+-
+---
+conventional
+current
+fig C Conventional current flows from positive to negative. Negative electrons would move in the opposite direction.
+66
+3.1
+Semiconductors
+By the end of this section, you should be able to...
+explain conduction in semiconductors
+explain electrical insulation
+Conduction in semiconductors
+Semiconductors are generally solid materials that only have small numbers of delocalised electrons
+that are free to conduct. A typical example is silicon, one of the most abundant elements on Earth.
+Free atoms have a series of discrete energy levels in which we can find their electrons, depending on
+the energy the electrons have received (see Section 4.4.4). If the electron receives enough energy, it
+will leave the atom altogether, leaving behind an ion.
+In solid materials, where there are many, many atoms close together, the allowed energy levels
+become much wider, forming energy bands. The electrons can have a large range of energies and
+still be within the same band. There are energy amounts which are forbidden for the electrons, but
+it is a very different situation from the highly limited energy levels of the isolated atom's electrons,
+As these energy bands are created by the collective grouping of the solid's atoms, the bands are
+attributed to the semiconductor as a whole rather than to individual atoms. There is an energy
+level called the valence band Electrons with this amount of energy remain tied to atoms and do
+not form part of any electric current. Those that gain energy to jump up to the conduction band
+become delocalised and can move through the semiconductor as part of a current.
+empty
+conduction
+band
+almost empty
+conduction
+band
+almost full
+conduction band
+valence band
+full valence
+band
+almost full
+valence band
+Metal
+Insulator
+Semiconductor
+fig A The gaps between energy bands within materials explain why they are conductors or insulators. If there is a large
+energy gap, electrons will need to gain a lot of energy to leave their atoms and conduct a current.
+The number of delocalised electrons in a semiconductor is low compared with metals, and so
+the current they will carry is therefore lower than metals for the same applied voltage. At higher
+temperatures they have more conduction electrons, as more electrons are elevated into the
+conduction band. There will be a temperature-related reduction in current due to increased collisions
+with fixed atoms, but the increase in available conduction electrons far outweighs this. The overall
+effect is that a semiconductor will carry more current as the temperature goes up - its resistivity
+effectively drops as the temperature rises.
+80
+TOPIC 3
+Electric circuits
+CHAPTER
+3.1
+Electrical quantities
+Introduction
+In 1881, the streets of Godalming in Surrey were the first in the world to be lit by a public electricity
+service. The power was generated from a water wheel in a nearby river. Electricity has revolutionised
+the way people live, but we have only been using it in the all-encompassing manner we do now for
+about 100 years. Today, it is difficult to imagine what life would have been like when the night was not
+artificially illuminated and music could only be heard if the instruments were played live.
+It is extraordinary how far-reaching the use of electricity has become in such a short time, and just how
+difficult it might be for us today to try and adapt to life without electricity. Arguably, the first electrical
+battery was built by Alessandro Volta in 1800. A little over 200 years later, almost everything around you
+will either use electricity directly or would have been impossible to manufacture without the availability of
+electricity.
+In this chapter, you will learn about the fundamental electrical quantities that can be measured and how
+they are related to each other, along with the essential material structures that allow, or restrict, the flow of
+electricity.
+All the maths you need
+• Units of measurement (e.g. the coulomb, c)
+• Calculating areas of circles (e.g. finding the cross-sectional area of a wire in order to find resistivity)
+• Use of standard form and ordinary form (e.g. representing the charge on an electron)
+• Changing the subject of an equation (e.g. finding the resistivity of a material from an object's resistance)
+• Substituting numerical values into algebraic equations (e.g. using the transport equation)
+• Determining the slope of a linear graph (e.g. finding the resistivity from experimental results)
+64
+3.1
+The transport equation
+Did you know?
+For a metal, the random thermal motion of the free electrons will be
+at speeds of thousands of kilometres per second, whereas the drift
+velocity during conduction is usually only millimetres per second.
+Investigation
+Investigating conduction velocity of coloured ions
+In this experiment, you can observe the movement of coloured ions
+as charge carrier particles on a piece of filter paper soaked in
+ammonium hydroxide solution. A crystal of copper sulfate and one
+of potassium manganate(VII) will each dissolve, producing positive
+blue copper ions and negative purple ions of manganate(VII).
+Connecting a pd of 30 V across the wet filter paper will cause the ions
+to flow slowly across it, in opposite directions, and their velocity can
+be measured using a ruler and stopclock. Expect a velocity of about
+1 mm per minute.
+The value of the electric current in a metal can be calculated
+from the fundamental movement of the electrons if we remember
+the definition that I = =
+_AQ
+If we consider the cylinder shaded on the diagram in fig B as the
+length of the wire that the charges move through in a time Ar,
+then we need to calculate how much charge flows through it in
+that time. There are n electrons per cubic metre of this metal, and
+the wire has a cross-sectional area, A. Their movement is at a drift
+velocity, v, and the distance this takes them along the wire in that
+time is Ax. So: Ax= vat.
+The total charge will be the number of electrons multiplied by the
+charge on each, e. The number of electrons will be their density.
+n, multiplied by the volume of the cylinder, V, that they travel
+through in At.
+... AQ = n x V xe = n < AAxxe = n < Avat xe
+AQnAvAte
+crystal
+filter paper
+i
+- At
+At
+microscope slide
++30 V
+1 = nAve
+This is called the transport equation.
+crocodile clip
+fig C Observing the slow speed of ion movement during current flow.
+Transport equation example
+How fast would be the drift velocity of the electrons in a
+copper wire which has a diameter of 0.22 mm and carries
+a current of 0.50 A? The number density of conduction
+electrons in copper, n = 8.5 x 102m-"
+wire radius = 0.11 mm = 1.1 x 10-4m
+cross-sectional area, A = r2 = TX (1.1 x 10-4)2 = 3.8 x 10-8 m2
+I = nave
+:
+vande
+0.50
+8.5 x 1028 * 3.8 x 10-8 x 1.6 x 10-19
+V = 9.67 x 10-4ms
+V = 0.97 mms-1
+wire at time I
+a cross-section of the wire
+Resistance
+We have seen that whilst the natural speed of electrons within a
+metal is very high, their progress through a metal's lattice of fixed
+atoms is very slow. They are constantly colliding with those atoms
+making their motion akin to taking 100 steps forward and 99 steps
+back. This is electrical resistance. The frequency of collisions is
+determined in part by the temperature, as this affects the vibration
+of the fixed atoms. The higher the metal's temperature, the more
+its atoms vibrate, and this means more collisions, further slowing
+the drift velocity of the electrons.
+However, a higher current will cause more collisions, as more
+electrons move faster through the metal structure. This makes the
+metal atoms vibrate more - effectively increasing the temperature.
+Looking back to the I–V graph for a filament lamp, fig Cin
+Section 3.1.3, we can now explain how increased current leads
+to higher temperature, which leads to greater resistance, thus
+causing the curve to flatten out when higher voltages try to drive
+higher currents.
+there are n electrons
+the sea of electrons
+per cubic meter of wire cross-section is moving to the right
+area A
+with drift speed v
+The sea of electrons has moved forward a distance Ax = VAL.
+The shaded volume is V= A AX
+Resistivity
+Table A in Section 3.1.4 showed the resistivity of various
+materials, good conductors, semiconductors and insulators
+(which are discussed in detail in Section 3.1.6). It also showed
+how the resistivity varies with temperature for metals and
+semiconductors. The resistivity of semiconductors was seen to
+fig B A section of metal wire with dimensions to show how to make
+calculations using the transport equation.
+78
+3.1
+5
+Conduction and resistance
+By the end of this section, you should be able to...
+explain conduction in metals
+explain electrical resistance
+calculate the drift velocity of conduction electrons in metals
+In order to conduct electricity, solids need to have electrons that are delocalised from the solid's atoms, so
+that they can move through the solid causing an overall movement of charge - a current.
+Conduction in metals
+The structure of metals has a regular lattice of metal atoms. These are bonded together through
+the sharing of electrons, which act as if they were associated with more than one atom. Many of the
+atoms also have an outer electron that is not needed for bonding between the atoms. These free
+electrons have a random motion, which changes as they collide with atoms or other electrons, but on
+average the overall position of all the charge in the metal is stationary. However, if a source of emf is
+connected across the metal, the electric field it sets up in the metal will have a tendency to push the
+negative electrons towards the positive end of the field. The slow overall movement of the electrons
+is called their drift velocity.
++ + + + + + + + + + + +/
+Ð°Ð°Ð + + + + + + +
++ + + + + + + + + + +
++ + + + + + + + + + +
+electric field
+from emf
+electric field
+from emf
+electric field
+from emf
+A net displacement in the direction
+of the positive side of the emf is
+superimposed on the random
+thermal motion.
+fig A Conduction in metals happens as the free electrons add an overall movement along the direction of the voltage
+across the conductor (towards the positive anode) to their random collisions and vibrations.
+Electrical quantities
+3.1
+Calculating current
+The SI unit for electric current is the ampere, A. Current can be calculated from the equation:
+charge passing a point (C)
+current (A) =
+time for that charge to pass (s)
+AQ
+WP
+Thus one ampere (1 A) is the movement of one coulomb (1 C) of charge per second (1 s).
+For example, if the lightning strike in fig A takes 0.1 seconds to transfer 1150 coulombs of charge,
+we could calculate the current in the lightning:
+AQ_1150 - 11500 A
+At 0.1
+The equation defining electric current is often used in a rearranged form to find AQ, the amount of
+charge that has moved through a component in a given time, At.
+AQ = At
+You could remember this as the 'Qult equation (Q = It).
+Investigation
+WP
+Observing charge flow
+We can monitor small movements of charge, to see how they form a current, using a hanging ball that will
+conduct electricity
+TH
+fig D A suspended ball can carry small numbers of electrons across a high voltage gap, and this current is measured
+using a spot galvanometer.
+The high voltage set up across the air gap between the metal plates encourages negative electrons to want
+to move towards the positive side. The hanging ball is painted with conducting paint and swings
+backwards and forwards across the gap, ferrying a small quantity of electrons from one metal plate to the
+other each time. We can measure this small movement of charge on a very sensitive ammeter. If we time
+the period of oscillation of the shuttling ball and the tiny current, we can calculate how many electrons
+would pass across on each journey of the ball. If the ball is shuttling too fast to be timed by eye, then we
+can use a stroboscope to measure the frequency of oscillations.
+Example calculation:
+If the spot galvanometer registers 6.5 microamperes and the ball takes 2.0 milliseconds for one swing, how
+many electrons does it carry on each pass from the negative plate to the positive one?
+AQ = 1 x At = 6.5 x 10-6 x 2 x 10-3 = 13 x 10°C = 13 nC
+no of electrons per swing:
+M AQ 13 x 10-9
+e 1.6 x 10-19
+N = 8.1 x 1010 electrons
+Note that on the ball's return journey it will be positively charged, having lost an excess of electrons when
+contacting the positively charged plate. However, positive charge moving in the opposite direction still
+constitutes a current and it will be at the same rate - the same current - because the ball speed is constant.
+Electrical quantities
+3.1
+Current-voltage characteristics
+In designing an electric circuit, we need to know how components will react when the pd
+across them changes, in order to ensure that the circuit performs its intended function under all
+circumstances. Part of the specification of any component is a graph of its I–V characteristics. We
+have already seen the graph for a simple resistor, and a metal at constant temperature would produce
+the same straight-line result. The only difference would be that the gradient will be different in each
+case, as it corresponds to the specific resistance of the resistor or wire under consideration.
+Current
+1-V graph for a filament bulb
+For the filament lamp I-V graph in fig C, we can see that for small voltages, the current is
+proportional to it, as shown by the straight-line portion of the graph through the origin. At higher
+voltages, a larger current is driven through the lamp filament wire, and this heats it up. At hotter
+temperatures, metals have higher resistance. The gradient of the graph in fig B was given as the
+reciprocal of the resistance, and thus the gradient here becomes less towards higher voltages: higher
+resistance means a lower gradient. In Section 3.1.5, we will see why the resistance increases with
+temperature and why this reduces current.
+Potential
+difference
+1-V graph for a diode
+Current (A)
+fig C A filament lamp is an example
+of a non-ohmic conductor. This
+is because the current through
+it affects its own temperature -
+higher current means a higher
+temperature - and controlling
+temperature is part of the
+definition of Ohm's law.
+Voltage (V)
+threshold voltage = 0.6V
+fig D A semiconductor diode is designed to only pass current in one direction, so the line follows the x-axis, I = 0, for
+negative voltages.
+For the diode in fig D, we can see the basic idea that a diode only conducts in the forwards direction,
+and so there is zero current for negative voltages. It also requires a minimum driving voltage in the
+forwards direction. This threshold voltage is typically around 0.6 V. The curve for a diode will be looked
+at in detail in Section 3.1.6, which covers the ideas of electrical conduction in different materials.
+1-V graph for a thermistor
+Current (A)
+Voltage (V)
+fig E A thermistor is designed to alter its resistance with temperature; in the reverse manner to a filament bulb.
+_
+3.1
+3
+For the thermistor in fig E, its resistance reduces with the temperature. The gradient of the line
+increases with the heating effect of the increasing current. The gradient represents the reciprocal of
+the resistance: larger gradient value means lower resistance. This is a result of its manufacture from
+semiconductor materials, whose atoms release more conduction electrons as the temperature rises.
+This will be explained in detail in Section 3.1.6.
+Questions
+1 State Ohm's law.
+2
+A buzzer in a circuit allows a current of 0.05 A to pass through it when the pd across it is 6 V. What is the
+buzzer's resistance?
+What is the difference between an ohmic and a non-ohmic conductor?
+4 Graphs of current against voltage are usually drawn with V on the x-axis, as the experimental data
+would be collected by having pd as the independent variable. This is just a convention. Considering the
+resistance, why might it be more useful to plot these data with pd on the y-axis?
+What is the difference between component A and component B shown in the I-V plot of fig F? Explain
+your answer.
+1/A
+0.6-
+0.24
+-10.0
+5.0
+5.0
+0.0
+-0.24
+10.0 V/V
+Component A
+- Component B
+fig F 1-V graphs for two components.
+Key definitions
+Resistance is the opposition to the flow of electrical current. It can be calculated from the equation:
+potential difference (V)
+resistance (1) =
+current (A)
+REV
+Ohm's law states that the current through a component is directly proportional to the voltage across it,
+providing the temperature remains the same. The equation for this is often expressed as:
+V= / xR
+voltage (V) = current (A) resistance (0)
+74
+3.1
+Ionic charge carriers
+If the circuit is more unusual, there may be other charged particles, charge carriers, which can move
+to form the electric current. For example, in the electrolytic processing of bauxite ore to produce
+aluminium metal, the bauxite is dissolved in cryolite- another aluminium compound - and this
+solution then has free aluminium ions (charge carriers) that can move through the liquid as an electric
+current. These ions are positively charged, and will move because of the electric force towards the
+negative cathode. This is still an electric circuit that must obey the rule of conservation of charge,
+and in which we can measure the current as the rate of flow of charge.
+As the charge on an electron is a fixed negative amount, we can easily calculate the charge on any
+ion. This would be important in a situation where ions were moving as the charge carriers in an
+electric current, for example, in electrolysis.
+Learning tip
+The charge on a proton is the same magnitude as that on an electron, but is positive: 9. = +1.6 x 10-19C.
+WORKED EXAMPLE
+What would be the charge on an iron (III) ion, Fe3+?
+Three electrons have been lost, so the net charge is that of the ion's three excess protons:
+9Fe3+ = 3 x 1.6 x 10-19 = + 4.8 x 10-19
+Questions
+| (a) If 12.5 x 1018 electrons move through a lamp in 3.2 seconds, what current is flowing through
+the lamp?
+(b) How many coulombs of charge move through an ammeter in 8 seconds if it is reading 0.95 A?
+(c) How long would it take for a current of 0.68 A to move 100 billion electrons past a certain point?
+In a shuttling ball experiment to demonstrate the movement of electrons as an electric current, the
+galvanometer showed a current of 0.12 PA.
+(a) If the ball carried 20 nC of charge on each swing, how long does one swing take?
+(b) How many electrons does the ball carry in each swing?
+3
+In an electrolysis experiment, 0.01 moles of Cu2+ ions moves through the copper sulfate solution in
+23 minutes. How much current flows?
+(One mole contains Avogadro's number of any particle, and this is NA = 6.02 * 102.)
+Key definitions
+Charge is a fundamental property of some particles. It is the cause of the electromagnetic force,
+and it is a basic aspect of describing electrical effects.
+Charge is measured in coulombs, C. One coulomb is the quantity of charge that passes a point in a
+conductor per second when one ampere of current is flowing in the conductor. The amount of charge on
+a single electron in these units is -1.6 x 10-19 C.
+Electric current is the rate of flow of charge. Current can be calculated from the equation:
+charge passing a point (C)
+Current (A) = -
+time for that charge to pass (s)
+- 4Q
+At
+One ampere (1 A) is the movement of one coulomb (1C) of charge per second (1 s)
+68
+3.1
+produce a straight-line graph of experimental results and calculate
+our answer from the gradient. In this case, plotting resistance on the
+y-axis against length on the x-axis will give the gradient as and
+from this we could calculate the resistivity with more confidence in
+our conclusion.
+As we have Ron the y-axis and / on the x-axis, comparing the
+equation above with y = mx + c shows that the gradient is
+equivalent to so we can find the resistivity by multiplying the
+gradient by the cross-sectional area.
+: p=
+: p=0.730 x A = 0.730 x 3.8 * 10-8 = 2.8 x 10-60 m
+Experimentally, we have found that the resistivity of aluminium is
+2.8 x 10-80 m.
+Questions
+1
+Calculate the resistance of a piece of constantan wire if it is 80 cm
+long and has a diameter of 0.84 mm.
+2
+Explain three ways of reducing uncertainties in an experimental
+investigation to find the resistivity of a metal wire.
+Conductivity is the opposite concept to resistivity. It is calculated
+as the reciprocal of the resistivity and is measured in Siemens per
+metre (Sm-"). Calculate and compare the conductivity values for
+polyethene and copper.
+fig C Accurate measurement of the wire's diameter is vital.
+4
+In a resistance experiment, a gold ring was connected into a
+circuit as a resistor. The connections touched on diametrically
+opposite points on the circular ring. Its diameter is 2 cm, and the
+metal's cross-section is a rectangle 3 mm by 0.5 mm. A voltmeter
+connected across the ring measured 4.2 mV, whilst the current
+through it was measured at 18 A.
+Resistivity investigation example
+An investigation like the one explained above produced the results
+shown in fig D. This was for an aluminium wire with a measured
+diameter averaging 0.22 mm (giving A = 3.8 x 10-8 m2). A single
+1.5 V cell was used to drive a current, which was measured at
+each different length. These data were then used to calculate the
+resistances plotted on the graph for each length. From the graph,
+we can use its gradient to find the resistivity of aluminium.
+0.800
+gold ring
+0.7007
+Resistance/
+0.600
+0.500+
+0.400-
+20.300
+0.200
+0.100-
+0.000
+08001
+fig E
+(a) Calculate the resistivity of gold.
+(b) Describe a practical difficulty with undertaking an experiment
+of this kind.
+0.900
+1.000
+5 Estimate the volume of metal in the wire in a fuse.
+Length/m
+fig D From the gradient of this graph, it is possible to calculate the resistivity of
+the aluminium wire in the investigation.
+Ay_AR_0.730 -0.000 - 0.730
+gradient
+Ax Al 1.000 -0.000
+0.100
+0.2001
+0.300N
+0.400
+0.500
+0600
+0,7009
+$
+Key definition
+The resistivity of a material is defined as the same value as the
+resistance between opposite faces of a cubic metre of the material.
+76
+3.1
+2
+WORKED EXAMPLE
+A cell transfers 40) of chemical potential energy for every 15 C of
+electrons that pass through it, in order to power an electrical
+circuit. What is the cell's emf?
+8 = 15
+Electrical models
+A model is a way of thinking about an idea or
+phenomenon in order to help us understand it better.
+For example, as it is too small to see, it is common for people
+to imagine the structure of an atom as being similar to planets
+orbiting the Sun in the Solar System. There are many aspects
+of this model that do not correctly represent an atom, but there
+are some aspects that enable people to think about how atoms
+interact with a little less confusion than if they did not use this
+imagination model.
+Electricity has many aspects that are not visible to us in everyday
+life, and physicists often use models to explain some of these.
+All models will have limitations, so it is important to be able to
+evaluate the strengths and weaknesses of any model, in order to
+ensure that you do not rely too heavily on it.
+ε = 2.7V
+For every 2000 C of charge passing through it, a loudspeaker
+transfers 18 500) of electrical energy into sound and heat.
+What is the loudspeaker's pd?
+V-W
+V-18500
+2000
+V = 9.25 V
+The electronvolt
+The electronvolt, eV, is a unit of energy that is generally used
+with sub-atomic particles. Its definition comes from the equation
+defining voltage:
+Modelling voltage
+One model that could be used to try and understand the transfers
+of energy in an electric circuit could be to think of an electric
+circuit as a ski area.
+maximum
+sarning
+losing
+If an electron is accelerated by a potential difference of 1 V, the
+energy it will gain is:
+E = Ve
+1. E = 1 x 1.6x 10-19 = 1.6 x 10-19)
+The amount of energy an electron gains by passing through a
+voltage of 1 V is an electronvolt. So 1 eV = 1.6 x 10-19 J.
+Spe
+gaining
+Spe
+losing
+spe
+losing
+gpe
+5.00
+VOLT
+losing
+gpe
+lost gpe back to
+same level as start
+BATTERY
+figC Modelling an electric circuit as a ski area.
+The skiers on the lift gain gravitational potential energy, which
+is representing electrical energy in this analogy. By the time
+they have skied back down through all the runs and over all the
+obstacles, they have lost all that gpe again and are back to the
+same level as before they started. This illustrates the principle of
+conservation of energy in an electric circuit. If moving charge is
+given energy by a source of emf, it will return all that energy on
+its journey around the circuit, through the various pds. Around the
+circuit, the total of all the emfs will be the same as the total of all
+the pds - total energy supplied will equal total energy used,
+5.00
+VOLT
+fig B We can measure voltage across a component with a voltmeter
+connected in parallel.
+70
+3.1
+2
+Electrical energy transfer
+By the end of this section, you should be able to...
+define electromotive force and potential difference
+• make calculations of voltage and the energy transfer in components
+evaluate a model of electrical circuits
+For any electrical circuit to be of use, it acts as a means to transfer energy usefully. The circuit must
+have at least one component that can supply electrical energy. It will also have components that
+convert this electrical energy into other forms, and at least one of these forms of energy will be
+useful to its purpose.
+For example, in a bicycle light there will be a cell that provides electrical energy from a chemical
+reaction, and there will be a lamp that converts some of the electrical energy into light energy.
+Learning tip
+Almost every aspect of the
+study of physics relates to the
+transfer of energy. Energy is
+the means by which things
+happen.
+Voltages
+The electrical quantity voltage is a measure of the amount of energy a component transfers per unit
+of charge passing through it. It can be calculated from the equation:
+energy transferred (1)
+voltage (V) =
+charge passing (0)
+VED
+Electromotive force
+For a supply voltage - a component which is putting electrical energy into a circuit – the correct
+term for the voltage is electromotive force, or emf. If a cell supplies one joule (1J) of energy per
+coulomb of charge (1 C) that passes through it, it has an emf of 1 volt (1 V).
+emf (V) =
+energy transferred (J)
+charge passing (C)
+WP
+fig A Electric circuits transfer energy.
+For example, if the bicycle lamp in fig A was powered by a cell with an emf of 1.5 V, then this cell
+would transfer 1.5 J of electrical energy to each coulomb of charge that passed through it.
+Potential difference
+For a component which is using electrical energy in a circuit and transferring this energy into other
+forms, the correct term for the voltage is potential difference, or pd. If a component uses one joule
+(1J) of energy per coulomb of charge (1 C) that passes through it, it has a pd of 1 volt (1 V). The
+energy being used by the component could be referred to as work done, W.
+energy transferred (1)
+pd (V) =
+charge passing (C)
+V=W
+For example, if the bicycle light in fig A produced light from an LED with a pd of 1.5 V, then this
+LED would transfer 1.5 J of electrical energy from each coulomb of charge that passed through it
+into light energy and a little thermal energy.
+3.1
+4
+Resistivity
+Material
+Resistivity p/
+m at 20°C
+By the end of this section, you should be able to...
+define resistivity
+explain how to measure resistivity experimentally
+make calculations of resistance using resistivity
+Resistance is the result of collisions between charge carriers and
+atoms in the current's path. This effect will vary depending on
+the density of charge carriers and the density of fixed atoms, as
+well as the strength of the forces between them. Thus, pieces of
+different materials with identical dimensions will have differing
+resistances. The general property of a material to resist the flow
+of electric current is called resistivity, which has the symbol
+rho, p, and SI units ohm metres, 2 m.
+Silver
+1.6 x 10-8
++0.38
+Copper
+1.7 x 10-8
++0.40
+Aluminium
+2.8 x 10-8
++0.38
+Constantan
+4.9 x 10-7
++0.003
+Germanium
+4.2 x 10-1
+-5.0
+Silicon
+2.6 x 10
+-7.0
+Polyethene
+2 x 1011
+Glass
+Epoxy resin
+table A Resistivity varies greatly between materials, and is also dependent on
+temperature. Note the small change in resistivity with temperature
+for constantan, an alloy of copper and nickel; this information is used
+where accurately known resistance is important.
+-1012
+-1015
+Learning tip
+Resistivity is a property of a material. All samples of the same
+material, regardless of their shape and size, will have the same
+resistivity, whilst their resistances may be very different.
+Investigation
+Investigating resistivity
+You can investigate the resistivity for a metal in the school laboratory
+using a simple circuit.
+The resistance of an object is dependent on its dimensions and
+the material from which it is made. This gives rise to an equation
+for calculating the resistance of a uniform sample of material if
+we know the resistivity of the material:
+resistivity (22 m) sample length (m)
+resistance (Q) =
+cross-sectional area (m2)
+A
+fig A With knowledge of the resistivity, p. of a material, we can calculate the
+resistance of objects made from it.
+Resistivity equation example
+See fig A and table A. What is the resistance of a piece of
+copper fuse wire if it is 0.40 mm in diameter and 2 cm long?
+wire radius = 0.20 mm = 2.0 x 10-4m
+cross-sectional area, A = Tr2 = 7 * (2.0 x 10-4)2 = 1.3 x 10-7m²
+fig B Measuring the resistance for various lengths of a wire will allow us to
+plot a graph to find its resistivity.
+We will need to use a micrometer screw gauge to measure the wire's
+diameter. For improved accuracy, this is done in right-angled pairs at
+several places along the length of the wire, and then we take the
+mean diameter measurement.
+For several different lengths of the wire, the wire's resistance should
+be measured using the voltmeter-ammeter method (R =). The
+resistance will be small, so care must be taken to ensure currents are
+safely low.
+R-1.7 x 10-8 x 0.02
+1.3 x 10-7
+R = 2.6 x 10-30
+A
+The equation involving resistivity means that we could calculate a
+value for it by re-arranging the equation and taking one of the results
+and making the calculation. However, it is always more reliable to
+3.1
+Exam-style questions
+1 Which of the following is a unit equivalent to the volt?
+(a) Ah
+(b) Cs-1
+(c) JC-1
+(d) Js-1
+[1]
+[Total: 1]
+4
+6 An integrated circuit uses strips of gold as connectors and
+strips of silicon as resistors.
+A strip of gold of cross-sectional area 3.0 x 10-6m2 carries a
+current of 8.0 A. The charge carrier density n is
+6.0 x 1028 m3
+(a) Show that the carrier drift velocity v for gold is
+approximately 3 x 10-7ms-1
+(b) An approximate value of v for a sample of silicon of the
+same dimensions, carrying the same current would be
+0.2 ms1
+Compare this value with the one for gold and account for
+the difference in the values.
+[2]
+(c) State and explain what happens to the resistance of a
+sample of silicon as its temperature increases. [2]
+[Total: 6]
+2 An ammeter reads 1.42 A. How many electrons pass through
+the ammeter in one hour?
+(a) 5.1 x 103
+(b) 8.9 x 1018
+(c) 5.3 x 1020
+(d) 3.2 x 1022
+[1]
+[Total: 1]
+7 (a) Explain the difference between resistance and resistivity. [2]
+(b) The resistivity of copper is 1.7 x 10-62 m. A copper wire is
+0.50 m long and has a cross sectional area of 1.0 x 10-6m2.
+Calculate its resistance.
+[2]
+[Total: 4]
+3 Which of the following is a correct explanation for the shape
+of a current/voltage graph for a filament bulb?
+(a) Below a certain temperature, the resistivity of the filament
+material suddenly reduces to zero.
+(b) Above a certain temperature, the resistivity of the filament
+material suddenly reduces to zero.
+(c) Increased voltage increases the current, which raises the
+temperature, increasing the resistance.
+(d) As the voltage increases, the current increases, increasing
+the temperature of the filament, causing a release of more
+conduction electrons.
+[1]
+[Total: 1]
+4 Explain, in terms of energy, the difference between potential
+difference (pd) and electromotive force (emf).
+[Total: 2]
+8 When tidying a prep room, a teacher discovers a tray of
+resistance wires that have lost their labels. She decides to
+ask her students to carry out experiments to determine the
+material that each wire is made of by measuring the resistivity
+of the wires.
+(a) Explain why the teacher asks the students to measure the
+resistivity and not the resistance of the wires.
+[2]
+(b) You are to describe a method to determine accurately the
+resistivity of one of the metal wires.
+Your description should include:
+• the circuit diagram you would use
+• the quantities you would measure
+• the graph you would plot
+• how you would determine the resistivity.
+[9]
+[Total: 11]
+[2]
+5 The planet Jupiter has a moon lo. Volcanic activity on lo
+releases clouds of electrons which travel at high speeds
+towards Jupiter. During a 15 s time period, 2.6 x 1026 electrons
+reach Jupiter from lo.
+Calculate the current.
+[Total: 3]
+[3]
+86
+Thinking Bigger
+3.1
+Let us start by considering the nature of the writing in the booklets.
+1. The extract opposite consists of various snippets from the manufacturer's sales brochure,
+and also from the user manual. Consider the snippets and comment on the type of
+writing that is used in each case. Try and answer the following questions:
+a. Identify which parts of the extract above are from the sales brochure, and which are e
+from the operations manual. Justify your choices.
+b. Discuss the science presented in each booklet, in relation to the intended audience.
+105530808800870
+Think about what you
+would expect to be the
+different purposes of
+the two booklets.
+Now we will look at the physics in detail. Some of these questions will link to topics elsewhere in
+this book, so you may need to combine concepts from different areas of physics to work out the
+answers. Use the timeline at the bottom of the page to help you put this work in context with what
+you have already learned in your course.
+08538388867070
+impedance is a term used
+to mean 'resistance' when
+charge flow is in changing
+directions.
+2. a. Using information from the discharge current waveform graph and table, calculate
+the average current for each of the two parts of the discharge, and use this average
+current to calculate the charge transferred in the times given. Do these calculations for
+the 50, 100 and 150 entries in the table, and compare the variations in charge.
+b. For the same 50, 100 N and 150 N entries in the table, use your charge values to
+calculate the voltage needed to cause each shock to deliver exactly 200).
+C. Compare your answers to part (b) with the voltage values that Ohm's law gives you
+for the peak current in each case.
+3. One of the Environmental specifications claims that the unit can survive a one metre
+drop onto its corner. Calculate the force that the unit would experience if it falls one
+metre and is stopped by the ground in 20 ms.
+555558067778770
+Activity
+The manufacturers of the LIFEPAK 1000 would like an additional brochure that its customers can leave in
+hospital waiting rooms for patients to read. Use the information above to design such a leaflet.
+Consider the likely level
+of scientific education
+of the intended
+audience for this
+publication; as well as
+the concerns that they
+might have about being
+in hospital.
+From the brochures LP1000_Operations Manual_3205213-002 and LP1000_Brochure_3303851_A_LR
+by Physio Control, www.physio-control.com
+4.1
+4.2
+5.1
+5.2
+5.3
+5.4
+85
+Electrical quantities
+3.1
+fig D Superconductors can levitate magnets, as they do not accept penetration by magnetic fields. This is the Meissner
+Effect.
+Questions
+Explain why a piece of silicon semiconductor will have a lower resistance at a higher temperature.
+2
+'The critical temperature for superconductivity for lead is 7.2 K'. Explain what this statement means.
+3 Some types of glass have been manufactured that do conduct electricity. Suggest and explain what
+properties impurities might have in these glasses to make them less insulating than standard glass.
+Kev definitions
+Semiconductors have a lower resistivity than insulators, but higher than conductors. They usually
+only have small numbers of delocalised electrons that are free to conduct.
+The valence band is a range of energy amounts that electrons in a solid material can have which keeps
+them close to one particular atom.
+The conduction band is a range of energy amounts that electrons in a solid material can have which
+delocalises them to move more freely through the solid.
+The critical temperature for a material is that below which its resistivity instantly drops to zero.
+Electrical quantities
+3.1
+The ski lift takes skiers to the top of the slope - it gives them potential energy like a battery gives
+electrons electrical energy. From there, they can slide down a number of possible routes - like
+separate, parallel, loops in a circuit. If the skier does a trick off an obstacle, then we could imagine
+that he was passing through a component and giving up energy to the component. We could think
+about measuring the emf of the chairlift, and the pd of each obstacle on the run.
+Notice that although the picture in fig D has skiers and snowboarders, for simplicity we only refer
+to 'skiers. This is a weakness of the model, as both would represent charge carriers flowing in our
+circuit, but usually electric circuits have only one type of charge carrier that flows - the electrons.
+Questions
+Explain how potential difference is different from electromotive force.
+2 (a) A cell provides 76 C of charge with 120) of energy. What is the cell's emf?
+(b) When a lamp carries a current of 2.4 A for 5.4 s, it transfers 120) of energy. What is the pd across the lamp?
+3 Convert the following:
+(a) 9.6 x 10-19) into electronvolts
+(b) 4.8 MeV into joules.
+fig D Modelling charge carriers
+as skiers.
+4 Write an evaluation of the strengths and weaknesses of the ski area model of an electric circuit. Include
+discussion of at least the following ideas:
+• the representation of charge carriers
+. a complete circuit is needed
+gravitational potential as the analogy for electrical energy
+the ski lift as a cell
+• the snowpark obstacles as components using electrical energy
+• differing speeds by different skiers.
+5 Write a suggestion for a different model of an electric circuit, explaining what electrical aspect is
+represented by the various sections of your model.
+Key definitions
+The electrical quantity voltage is a measure of the amount of energy a component transfers per unit of
+charge passing through it. It can be calculated by the equation:
+energy transferred (1)
+voltage (V) =
+charge passing (C)
+V-
+Electromotive force, or emf, is a supply voltage.
+For a component that is using electrical energy in a circuit and transferring this energy into other forms,
+the correct term for the voltage is potential difference, or pd.
+The electronvolt is the amount of energy an electron gains by passing through a voltage of 1 V.
+1 eV = 1.6 10-19)
+1 mega electronvolt = 1 MeV = 1.6 x 10-13)
+3.1
+Current and voltage relationships
+By the end of this section, you should be able to...
+state Ohm's law
+calculate resistances
+explain the I-V characteristics of components
+The movement of electrons through a circuit is caused by the
+electric force that an emf generates. Thus, an emf could be said
+to drive the current around a circuit. A higher voltage emf would
+be expected to do this to a greater extent, as it creates a stronger
+force on the charges so they are driven round the circuit faster and
+in greater quantity-resulting in an increased current. The electric
+force is directly proportional to the voltage, so we would expect
+current to increase in direct proportion to voltage. In many cases
+this is true - 10 V - but in some situations other factors become
+important and alter the relationship.
+Investigation
+Investigating 1-V relationships
+We can do an experiment to investigate whether or not a
+component follows Ohm's law using the equipment in fig A.
+The component under test is the resistor, and we could replace this
+resistor to allow testing of other components.
+Use various values of supply emf and measure the potential
+difference across and current through the resistor for each one.
+This should include reversing the terminals on the power supply in
+order to measure the effects of negative pds across the resistor.
+In the case of a resistor, negative pds correspond to negative
+currents - a voltage creating an electric force in the opposite
+direction in the wires will attract electrons in the opposite direction
+around the circuit.
+In this example, the results would produce a graph like the one
+shown in fig B. The straight line illustrates that is proportional to V
+for all tested values, telling us that the resistor is an ohmic conductor.
+Current/A
+Resistance calculations
+Electrical resistance is considered to be the opposition to the
+flow of current within a conductor At a given moment it can be
+calculated from the equation:
+potential difference (V)
+resistance (2) =
+current (1)
+Potential difference/V
+Ohm's law
+SH
+fig B 1-V graph for a resistor.
+fig A Measuring the resistance of an ohmic conductor.
+You can calculate the resistance of the resistor from the graph in
+fig B. First calculate the gradient of the straight line from:
+m= 41
+AV
+A component through which the current is proportional to the
+voltage driving it is referred to as an ohmic conductor, as this
+means it follows Ohm's law. The proportional relationship can be
+used to find the resistance of the component.
+For example, what is the resistance of the resistor shown in fig A?
+This calculation is the reciprocal of the one for resistance given
+above. Thus, you can find the resistance here by taking the reciprocal
+of the gradient:
+REV. 4.0
+R=ī0.18
+R:1
+R = 220
+For an ohmic conductor, the answer to the calculation of
+resistance would be the same for all voltages and their
+corresponding current values (providing the temperature remains
+constant - see Section 3.1.5).
+72
+Note that using the gradient is only effective for an ohmic
+conductor. If the line is not straight, the resistance changes and
+can be calculated using Ohm's law at each specific V/I value on
+the line.
+BIGGER
+SHOCKING STUFF Cm
+A defibrillator is a medical device which is designed to deliver an electric shock to a patient's heart,
+to restart it if the heart has stopped, or reset if it is beating with a dangerously unpredictable rhythm.
+In this activity, we will consider how the electrical and other characteristics of one make of
+defibrillator help it to perform its function,
+Snippet 2:
+Snippet 1:
+Patient
+Impedance (2)
+11(A)
+12 (A)
+13 (A)
+14 (A)
+T1 (ms) T2 (ms)
+25
+50.3
+28.2
+3.9
+5.0
+50
+28.2
+14.6
+14.5
+9.3
+7.5
+5.0
+fig A The LIFEPAK
+1000 can help
+paramedics with
+resuscitation by
+restarting the
+patient's heart
+using an electric
+shock through the
+75
+5.8
+1141
+100
+125
+Note: Table values are nominal 150
+for a 200-joule shock
+175
+155
+12.9
+11.1
+9.8
+20.1
+14.6
+11.7
+10.0
+8.7
+7.8
+7.1
+19.7
+14.5
+11.7
+9.9
+8.7
+7.7
+7.1
+10.7
+9.3
+8.2
+7.3
+6.6
+l 6.2
+5.7
+5.9
+7.5
+8.7
+9.7
+10.4
+11.1
+11.7
+6.5
+7.0
+| 7.4
+heart.
+fig B Graph of the current against time during discharge. The defibrillator discharge has a large
+shock in one direction (TI) followed by a smaller shock in the reverse direction (T2) each of
+which follows a trapezium shape on the graph. The table shows the current values and
+times during the discharge, for various different resistance values of the patient.
+Snippet 3:
+cprMAX Technology
+The 1000 features our exclusive cprMAX technology, which gives you
+the flexibility to choose CPR settings that best accommodate your
+patient and CPR protocol requirements. The pre-shock CPR option
+allows adjustment of the CPR interval prior to the first shock, making
+the 1000 the only device that minimizes pre-shock pauses by allowing
+providers to continue compressions while the AED charges.
+Recently published clinical data shows a relationship between
+increased compression fraction and survival to hospital discharge,
+and the 2010 AHA Guidelines place a strong emphasis on
+high-quality CPR. With the LIFEPAK 1000, you have more control
+over the CPR you provide in lifesaving settings than ever before.
+LIFEPAK TOUGH™
+Built for the harshest environments, the LIFEPAK 1000 is the toughest.
+most durable AED from Physio-Control. The device itself withstands
+rigorous drop-testing from any angle, and is enclosed in a highly
+protective case with bumpers. In addition, the 1000 has received an
+IP55 rating - the highest for any AED - signifying maximum protection
+from external elements-
+360 Joules
+Like every LIFEPAK defibrillator from Physio-Control, the 1000 can
+escalate energy up to 360). Studies show that for difficult-to-
+defibrillate patients, repeating 2003 shocks yields significantly lower VF
+termination rates. And the 2010 AHA Guidelines note that rescuers
+may consider using escalating energy up to 360 J if initial shocks at a
+lower dose aren't working.
+Snippet 4:
+ENVIRONMENTAL
+One Hour Operating Temperature (from room temperature to
+temperature extreme, one hour duration): -20 to 60°C (-4 to +140°F).
+Operating Temperature: 0° to 50°C (32 to 122°F).
+Storage Temperature: -30° to 60°C (-22° to 144°F) with battery and
+electrodes (maximum exposure limited to 7 days).
+Atmospheric Pressure: 575 hPa to 1060 hPa (4572 to -382 meters:
+15,000 to -1253 feet).
+Relative Humidity: 5 to 95% (non-condensing).
+Dust/Water Resistance: IP55 with battery and REDI-PAK
+electrodes installed (IEC 60529/EN 60529).
+Bump: 15g, 1000 bumps (IEC 600-68-2-29).
+Shock: 40 g peak, 15-23 ms. 45 Hz cross over frequency
+Drop: 1 meter drop on each corner, edge and surface
+(MIL-STD-810F, 516.5, Procedure IV).
+Snippet 6:
+Picture the waiting room of a hospital or a corridor or a
+cafeteria. Now picture a visitor, patient or staff member struck
+down by sudden cardiac emergency. Who will respond first? It
+could be an ALS-trained member of the code team, but it's just
+as likely to be a nurse or a receptionist trained in the use of the
+1000. The LIFEPAK 1000 defibrillator is ready for all these
+possibilities, combining the simplicity of one-push defibrillation
+with clear guidance, both onscreen and from audio prompts.
+Snippet 5:
+physical characteristics
+Height: 8.7 cm (3.4 in).
+Width: 23.4 cm (9.2 in).
+Depth: 27.7 cm (10.9 in).
+Weight: 32 kg (7.1 lbs) with one
+set of REDI-PAK electrodes and
+one nonrechargeable battery
+Where else will I encounter these themes?
+1.1
+2.1
+2.2
+2.3
+YOU ARE
+HERE
+3.2
+_3.
+16
+Insulators
+Electrical insulators can be thought of as materials in which the energy gap between the valence
+band and the conduction band is so large that there are virtually zero electrons available for
+conduction. There will therefore be no conduction holes either. A very large input of energy is
+required in order to make the material conduct. Often this results in melting, or other damage, before
+the material becomes electrically conducting. For example, glass is normally an excellent electrical
+insulator, but a very high electric field, more than 10 million volts per metre, created across glass can
+cause it to become conducting.
+Superconductivity
+Resistance increases with higher temperatures, because the higher level of internal energy in the
+material causes more vibration of the fixed ions and these collide more often with charge carriers to
+reduce their speed of movement through the material. Reducing the temperature therefore reduces
+resistance, allowing greater current flow.
+HI ENERGY
+plus
+fig C If we cool a conductor, the current through it is seen to increase because its resistance drops.
+Cooling to ever lower temperatures continues this trend, until something quite unexpected happens.
+Below a certain critical temperature, the resistance suddenly drops to zero. This is called
+superconductivity. The critical temperature varies with material, but for most metals it will be below
+-243 °C. Complex ceramic superconductors have been created that have temperatures at which they
+conduct without any resistance as high as –135°C.
+Superconductors are especially useful in applications where a large current is needed, as a large
+current would normally waste too much energy or damage the surroundings with the heat dissipated.
+For example, the strong magnets needed in a particle accelerator will often be superconducting
+electromagnets, cooled to very low temperatures to maintain their superconductivity. The
+electromagnets in the Large Hadron Collider operate at about 1.9 K.
+Did you know?
+WP
+Low temperatures are often expressed on the Kelvin temperature scale, where 0 Kelvin (K) is referred
+to as Absolute Zero.
+OK = -273.15°C
+0°C = 273.15K
+We usually ignore the 0.15® and convert from Celsius to Kelvin by adding 273º. Absolute Zero is the
+lowest temperature possible, as this represents a temperature where the particles have zero internal
+energy.
+Exam-style questions
+3.1
+10
+9 (a) State Ohm's law.
+[2]
+(b) Using the axes below sketch graphs to show how resistance
+varies with potential difference for a fixed resistor and a
+1.5 V filament lamp.
+The graph shows the current-potential difference
+characteristic for an electrical component.
+Current/A
+Resistance
+Resistance
+1.5
+1.5
+Potential difference/V
+Potential difference/V
+FIXED RESISTOR
+FILAMENT LAMP
+(c) The filament of a lamp is made of metal. Explain why the
+lamp does not demonstrate Ohm's law.
+[Total: 7]
+Potential difference/V
+[2]
+(a) State the name of the component.
+(b) State the resistance of the component when the potential
+difference is -0.7 V.
+[1]
+(c) Calculate the resistance of the component when the
+potential difference is +0.7 V.
+(d) State a practical use for this component.
+[Total: 5]
+Electrical quantities
+3.1
+Conduction 'holes'
+When an electron enters the conduction band and moves away, this leaves the atom with an
+effective positive charge. The empty space the electron has left is referred to as a (positive) hole.
+If an electron from another atom moves to fill the hole, leaving its original atom with a hole, the
+hole has effectively moved. As the electrons will be attracted to jump in the positive direction of an
+applied voltage, the hole will slowly appear to move in the opposite direction. A positive hole moving
+towards the negative cathode is effectively another charge carrier, contributing to the current flow in
+a semiconductor. It is analogous to the current flow in electrolysis, where positively and negatively
+charged particles are moving in opposite directions at the same time.
+Learning tin
+Note that conduction by holes does not mean there is overall movement of the positive lattice ions.
+The holes are an absence of an electron, and it is this space that seemingly moves as electrons actually
+jump in the opposite direction.
+I-V characteristics of a semiconductor diode
+A diode is made by joining together different types of semiconductors, which normally creates an
+energy barrier at the junction between them, blocking the movement of charge carriers (holes and
+electrons) across the barrier. This barrier can be overcome in the forward direction if a small forward
+voltage is applied. In the reverse direction, only very few charge carriers can pass through at low
+voltages. They account for a tiny 'leakage current'. Once the reverse voltage becomes large enough,
+it can overcome the large reverse energy barrier and force the conduction process in the opposite
+direction.
++]
+Forward
+conduction
+Reverse
+breakdown
+voltage
++ V
+Leakage
+Current
+Forward
+junction
+potential
+Reverse
+breakdown
+-Il
+fig B The I-V characteristics for a semiconductor diode in detail.
+Light dependent resistors (LDRs) and thermistors
+Light dependent resistors have the property that their resistance depends on the light level
+around them. In brighter conditions, the LDR will have a lower resistance. LDRs are made from
+semiconductor material, and light landing on the material can boost electrons from the valence
+energy band up to the conduction band, increasing the number of conduction electrons. The effect
+of this is to make the LDR conduct better - it has a lower resistance.
+Thermistors work in exactly the same way, except that their resistance depends on thermal
+energy from the surroundings. The most common type of thermistors are referred to as negative
+temperature coefficient thermistors. These use thermal energy to boost their electrons into the
+conduction energy band, meaning their resistance falls as the temperature rises.

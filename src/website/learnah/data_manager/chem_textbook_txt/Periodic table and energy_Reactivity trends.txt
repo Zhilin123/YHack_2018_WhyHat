@@ -1,0 +1,1118 @@
+8.2 The halogens
+Specification reference: 3.1.3
+Characteristic physical properties
+The halogens, Group 17 (7) of the periodic table, are the most reactive
+non-metallic group. The elements do not occur in their elemental
+form in nature. On Earth, the halogens occur as stable halide ions
+(Cl, Br, and I ) dissolved in sea water or combined with sodium or
+potassium as solid deposits, such as in salt mines containing common
+salt, Naci.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ characteristic physical
+properties of halogens
+→ redox reactions and reactivity
+of halogens
+→ the trend in reactivity of the
+halogens Cl, Brą, and Iz
+► disproportionation
+► the use of chlorine in water
+purification and bleach.
+DE DO
+Trends in boiling points
+At room temperature and pressure (RTP), all the halogens exist as
+diatomic molecules, X,. The group contains elements in all three
+physical states at RTP, changing from gas to liquid to solid down the
+group (Figure 1). In their solid states the halogens form lattices with
+simple molecular structures. Table I explains the trend in boiling
+points of the five halogens – fluorine to astatine.
+Synoptic link
+For more details about simple
+molecular structures and induced
+dipole-dipole interactions
+(London forces) look back at
+Topic 6.3, Intermolecular forces.
+Figure 1 Chlorine is a pale green
+gas at RTP. Bromine liquid is extremely
+toxic, and vaporises readily at room
+temperature, as can be seen from the
+orange gas above the red-brown liquid.
+lodine is a solid with grey-black crystals
+Table 1 Boiling points of the halogen. Astatine only exists as short-lived isotopes and its boiling point has been estimated from
+the group trend
+Halogen
+molecule
+Number of
+electrons
+Boiling
+point/°C
+Appearance and state at RTP
+Trend
+F
+18
+-188
+pale yellow gas
+34
+-34
+pale green gas
+70
+red-brown liquid
+more electrons
+stronger London forces
+more energy required to break
+the intermolecular forces
+boiling point increases
+59
+184
+230
+106
+shiny grey-black solid
+170
+never been seen
+Redox reactions and reactivity of halogens
+Redox reactions
+Each halogen has seven outer-shell electrons, just one electron short
+of the electronic configuration of a noble gas. Two electrons are in the
+outer s sub-shell and five in the outer p sub-shell - s2p.
+112
+8.3 Qualitative analysis
+Halide tests
+Most halides are soluble in water, but silver halides are insoluble.
+Aqueous silver ions react with aqueous halide ions to form precipitates
+of silver halides, as shown by the general equation below. X-(aq)
+represents an aqueous solution of any halide.
+Agt(aq) + X-(aq) → AgX(s)
+This reaction forms the basis for a halide test, which was briefly
+introduced in Topic 8.2, The halogens.
+1
+2
+Add aqueous silver nitrate, AgNO3, to an aqueous solution
+of a halide.
+The silver halide precipitates are different colours - silver chloride
+is white, silver bromide is cream-coloured, and silver iodide is
+yellow (Figure 3).
+Add aqueous ammonia to test the solubility of the precipitate. This
+stage is very useful because the three precipitate colours can be
+difficult to tell apart.
+A Figure 3 From left to right, the test tubes contain - a precipitate of silver chloride,
+silver chloride after addition of dilute aqueous ammonia, a precipitate of silver
+bromide, silver bromide after addition of concentrated aqueous ammonia, a precipitate
+of silver iodide, and silver iodide after addition of concentrated aqueous ammonia,
+which fails to dissolve the silver iodide precipitate
+The reactions with Ag+ (aq) ions and the solubilities of the silver halide
+precipitates in aqueous ammonia are summarised in Table 1.
+Table 1 Halide tests using aqueous silver ions, Ag+ (aq)
+Halide
+Colour of precipitate
+Solubility in NH, (aq)
+chloride, CI-
+white
+soluble in dilute
+lonic equation
+Ag+ (aq) + CI+(aq) → AgCl(s)
+Ag+ (aq) + Br (aq) → AgBr(s)
+Ag+ (aq) + (aq) → Agl(s)
+bromide, Br
+cream
+soluble in conc
+iodide,
+yellow
+insoluble in con
+118
+8.3 Qualitative analysis
+Specification reference: 3.1.4
+Qualitative analysis of ions
+You have already learned about titration as a quantitative analysis
+technique (a technique with numerical results). Qualitative analysis
+relies on simple observations rather than measurements, and can often
+be carried out quickly on a test-tube scale. The observations may be
+gas bubbles, precipitates, colour changes, or identification of gases.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ qualitative analysis of ions
+→ test-tube tests
+analysing unknown
+compounds.
+Tests for anions
+Tests based on gases
+Carbonate test
+Carbonates react with acids to form carbon dioxide gas. The
+equation below shows the reaction of dilute nitric acid with
+aqueous sodium carbonate.
+Synoptic link
+All carbonates react with acids
+in a similar way, as described
+in Topic 4.1, Acids, bases, and
+neutralisation.
+NaCO3(aq) + 2HNO3(aq) + 2NaNO3(aq) + CO2(g) + H2O(l)
+This reaction forms the basis for a test for the carbonate ion, CO2-
+1
+2
+3
+In a test tube, add dilute nitric acid to the solid or solution to be
+tested.
+If you see bubbles, the unknown compound could be a carbonate.
+To prove that the gas is carbon dioxide, use the test that you will
+remember from GCSE.
+• Bubble the gas through lime water - a saturated aqueous
+solution of calcium hydroxide, Ca(OH),.
+Carbon dioxide reacts to form a fine white precipitate of calcium
+carbonate, which turns the lime water cloudy (milky) (Figure 1).
+CO2(g) + Ca(OH)2(aq) → CaCO3(s) + H20(1)
+A Figure 1 Lime water test for carbon
+dioxide
+Tests based on precipitates
+Sulfate test
+Most sulfates are soluble in water, but barium sulfate, BaSO, is very
+insoluble. The formation of a white precipitate of barium sulfate is
+the basis for the sulfate test, in which aqueous barium ions are added
+to a solution of an unknown compound. The ionic equation
+is shown below.
+Ba2+(aq) + S0,-(aq) + BaSO4(s)
+Usually the Ba2+(aq) ions are added as aqueous barium chloride or
+barium nitrate. If you intend to carry out a halide test afterwards, use
+barium nitrate – with barium chloride, you are introducing chloride
+ions to your solution.
+A Figure 2 A dense white precipitate
+forms when Ba2+ (aq) ions are added
+to a solution containing sulfate ions,
+50 -- the heavy precipitate of Baso
+sinks to the bottom of the test tube
+117
+REACTIVITY TRENDS
+Synoptic link
+Group 2 compounds in medicine
+Group 2 bases are often used as antacids for treating acid indigestion.
+Many indigestion tablets use magnesium and calcium carbonates as
+the main ingredients, whilst 'milk of magnesia' is a suspension of
+white magnesium hydroxide, Mg(OH),, in water. Remember that
+magnesium hydroxide is only very slightly soluble in water.
+If you are unsure about
+neutralisation reactions look back
+at Topic 4.1, Acids, bases, and
+neutralisation.
+The acid in your stomach is mainly hydrochloric acid and the
+equations below show the neutralisation reactions that take place with
+Mg(OH), and Caco.
+Mg(OH)2(s) + 2HCl(aq) —MgCl, (aq) + 2H,0(1)
+CaCO3(s) + 2HCl(aq) +CaCl2 (aq) + H2O(1) + CO2(g)
+e 600ml Dom
+TOS E
+BAYER
+(um<Po
+GAVISCON
+Rennie
+ORIGINAL ANISEED
+RELIEF
+Oral Suspension
+PEPPERMINT
+Sodium alginate
+Sodium bicarbonate
+Calcium carbonate
+Heartbum & Indigestion
+Lasts up to 4 hours o
+72
+tablets
+Calcium Carbonate,
+Magnesium Carbonate
+Fast effective relief from
+indigestion and heartburn
+Figure 6 Common indigestion remedies made with Group 2 compounds, such as
+calcium carbonate, CaCO.
+Summary questions
+1 Explain why Group 2 elements are reducing agents.
+(2 marks)
+2 The following reaction is a redox process: Mg + 2HCI - MgCl, + H,
+a Identify the changes in oxidation number.
+(2 marks)
+b State which species is being oxidised and which is being reduced.
+(1 mark)
+3 Explain why the Group 2 elements become more reactive down
+the group
+(4 marks)
+4 State and explain the trend in alkalinity of the solution formed when
+Group 2 oxides are added to water.
+(3 marks)
+111
+REACTIVITY TRENDS
+A barium meal - making use
+of precipitation reactions
+You may have heard of barium meals - not some kind of food, but an
+application of precipitation in medicine.
+Barium meals are used to enable doctors to see the outline of the gullet,
+stomach, and upper small intestine in order to identify abnormalities such
+as ulcers or tumours. The patient swallows water that has been shaken with
+barium sulfate, the insoluble compound that forms during the sulfate test.
+The white precipitate coats the inner lining of the gut. An X-ray image is then
+taken that displays the barium sulfate coating the gut.
+Barium ions in solution are extremely toxic. Why are patients not poisoned
+by this treatment?
+A Figure 4 X-ray image of a patient who
+has taken a barium meal to coat the upper
+gastrointestinal tract with barium sulfate,
+which shows up white in the picture
+Sequence of tests
+If you are asked to analyse an unknown inorganic compound,
+you will need to carry out the tests for anions in the correct order.
+Otherwise you could obtain confusing results and make an incorrect
+identification. For anions, the correct order for tests is:
+1 carbonate, CO2-
+2 sulfate, So,
+3 halides, Cl-, Br, and I
+Why is there a correct order?
+To understand the reasons behind the correct order, you need to think
+about the chemistry involved in each test.
+Carbonate test
+In the carbonate test, you add a dilute acid and are looking for
+effervescence from carbon dioxide gas.
+Neither sulfate nor halide ions produce bubbles with dilute acid. The
+carbonate test can be carried out without the possibility of an incorrect
+conclusion. If the test produces no bubbles, then no carbonate is
+present and you can proceed to the next test.
+Sulfate test
+In the sulfate test, you add a solution containing Ba2+(aq) ions and are
+looking for a white precipitate of BaSO4(s).
+Barium carbonate, Baco, is white and insoluble in water. So if you
+carry out a sulfate test on a carbonate, you will get a white precipitate
+too. Therefore it is important to carry out the carbonate test first and only
+proceed to the sulfate test when you know that no carbonate is present.
+Halide test
+In the halide test, you add a solution containing Agt(aq) ions, as
+AgNO,(aq), and are looking for a precipitate.
+119
+REACTIVITY TRENDS
+Redox reactions are the most common type of reaction of the
+halogens. Each halogen atom is reduced, gaining one electron to form
+a l-halide ion with the electron configuration of the nearest noble
+gas (see Table 2).
+Cl2 + 2e → 2Cl chlorine is reduced
+Table 2 Comparison of outer-shell
+electron configurations of halogen
+atoms and halide ions
+Halogen atom Halide ion
+F 2s22p5
+2s22p6
+CI 3s 3p5 Cl 3s23p
+Br 4s24p5
+4s24p6
+5s25p5
+5s-5p6
+At 6s6p5 At 6s-6p
+Another species loses electrons to halogen atoms - it is oxidised.
+The halogen is called an oxidising agent because it has oxidised
+another species.
+Br-
+Halogen-halide displacement reactions
+Displacement reactions of halogens with halide ions can be carried out
+on a test-tube scale. The results of the displacement reactions show
+that the reactivity of the halogens decreases down the group.
+V Table 3 Halogen solutions in water
+and cyclohexane
+Cl2
+A solution of each halogen is added to aqueous solutions of the other
+halides. For example, a solution of chlorine (Cl) is added to two
+aqueous solutions containing bromine (Br) and iodine (I") ions. If the
+halogen added is more reactive than the halide present
+Brąz
+solution in water
+pale green
+orange
+brown
+a reaction takes place, the halogen displacing the halide from
+solution
+the solution changes colour.
+.
+solution in cyclohexane (top layer)
+Solutions of iodine and bromine in water can appear a similar orange-
+brown colour, depending on the concentration. To tell them apart,
+an organic non-polar solvent such as cyclohexane can be added and
+the mixture shaken. The non-polar halogens dissolve more readily
+in cyclohexane than in water. In cyclohexane their colours are much
+easier to tell apart, with iodine being a deep violet. The colours are
+shown in Table 3.
+pale green
+orange
+violet
+The results and conclusions for these displacement reactions of
+aqueous solution of halogens and halides are shown in Table 4.
+Table 4 Halogen displacement reactions
+_
+Cl(aq)
+Br2(aq)
+12(aq)
+Halogen
+Cl(aq)
+no reaction
+no reaction
+Br (aq)
+no reaction
+orange colour from Br, formation
+C12(aq) + 2Br (aq) → 2C1- (aq) + Br_(aq)
+violet colour from l, formation
+Cl(aq) + 21- (aq) - 2014(aq) + 12(aq)
+1-(aq)
+violet colour from 1, formation
+Br, (aq) + 21- (aq) - 2Br (aq) + 1, (aq)
+From the results:
+chlorine has clearly reacted with both Br and I-
+bromine has reacted with I only
+iodine has not reacted at all.
+113
+8.2 The halogens
+Synoptic link
+Reaction of chlorine with bromide ions
+The equation and oxidation number changes are shown in full for
+the redox reaction between aqueous solutions of chlorine and
+sodium bromide.
+If you are unsure about redox
+reactions and oxidation numbers,
+look back at Topic 4.3, Redox.
+full equation
+ionic equation
+Cl(aq) + 2NaBr(aq) + 2NaCl(aq) + Br_(aq)
+C1,(aq) + 2Br (aq) – 2C1- (aq) + Br,(aq)
+-1
+reduction
+-1 →
+0 oxidation
+chlorine
+most reactive
+bromine
+2 Br in 2Br
+each Br increases by +1
+each Cl decreases by - 1
+total increase = +2
+total decrease = -2
+lodine
+least reactive
+2 Cl in Cl,
+A Figure 2 The order of reactivity
+of chlorine, bromine, and iodine
+Figure 2 shows the order of reactivity of the three halogens chlorine,
+bromine, and iodine.
+What about fluorine and astatine?
+Fluorine is a pale yellow gas, reacting with almost any substance that
+it comes in contact with.
+Astatine is extremely rare because it is radioactive and decays rapidly,
+and the element has never actually been seen. It is predicted to be the
+least reactive halogen.
+Trend in reactivity
+In redox reactions, halogens react by gaining electrons. Down the
+group, the tendency to gain an electron decreases and the halogens
+become less reactive (Table 5).
+Table 5 Trend in reactivity of the halogens
+Trend
+Halogen
+molecule
+Atomic Number of
+radius inner shells
+•
+Atomic radius increases
+More inner shells so shielding
+increases
+Less nuclear attraction to capture
+an electron from another species
+Reactivity decreases
+In the halogens, fluorine is the strongest oxidising agent, gaining
+electrons from other species more readily than the other halogens. The
+halogens become weaker oxidising agents down the group.
+Disproportionation
+Disproportionation is a redox reaction in which the same element
+is both oxidised and reduced. The reaction of chlorine with water
+and with cold, dilute sodium hydroxide are two examples of
+disproportionation reactions.
+114
+8.3 Qualitative analysis
+Silver carbonate, Ag, CO, and silver sulfate, Ag, SO4, are both
+insoluble in water and will form as precipitates in this test. It is
+therefore important to carry out the halide test last, after carrying out
+carbonate and sulfate tests to rule out those possibilities.
+What about a mixture of ions?
+If you are asked to analyse a mixture of chemicals, you carry out the
+tests in the same sequence and on the same solution.
+1 Carbonate test
+If you see bubbles, continue adding dilute nitric acid until the
+bubbling stops.
+• All carbonate ions will then have been removed and there will be
+none left to react in the next tests.
+If you intend to test for sulfate or halide ions, it is important to use
+dilute nitric acid, HNO, for this test. Sulfuric acid contains sulfate ions
+and hydrochloric acid contains chloride ions, which will show up in
+the sulfate and halide tests.
+2 Sulfate test
+• To the solution left from the carbonate test, add an excess of
+Ba(NO3)(aq).
+Any sulfate ions present will precipitate out as barium sulfate.
+• Filter the solution to remove the barium sulfate.
+If you intend to test for halide ions, it is important not to use
+BaCl,(aq), because the chloride ions will show up in the halide test.
+3 Halide test
+To the solution left from the sulfate test, add AgNO3(aq).
+Any carbonate or sulfate ions initially present have already been
+removed. Therefore any precipitate formed must involve halide ions.
+• Add NH, (aq) to confirm which halide you have.
+Summary questions
+1 How could you distinguish
+between NaCl, NaBr, and Nal
+by a simple test? (3 marks)
+Tests for cations
+Test for ammonium ion, NH +
+When heated together, aqueous ammonium ions and aqueous
+hydroxide ions react to form ammonia gas, NH.
+NH,+ (aq) + OH(aq) + NH3(g) + H2O(1)
+2 Explain why it is important to
+carry out the carbonate test
+before carrying out a sulfate
+test on an unknown chemical.
+(2 marks)
+This reaction forms the basis for a test of the ammonium ion.
+3 Explain why, if you are testing
+a mixture, it is important to
+use dilute nitric acid, rather
+than sulfuric or hydrochloric
+acid, for the carbonate test?
+(2 marks)
+Aqueous sodium hydroxide, NaOH, is added to a solution of an
+ammonium ion.
+Ammonia gas is produced. You are unlikely to see gas bubbles as
+ammonia is very soluble in water.
+The mixture is warmed and ammonia gas is released.
+You may be able to smell the ammonia, but it is easy to test the
+gas with moist pH indicator paper. Ammonia is alkaline and its
+presence will turn the paper blue.
+3
+120
+8.1 Group 2
+Although other energy changes take place when Group 2 elements
+react, the first and second ionisation energies make up most of the
+energy input. From Figure 4, it is clear that the total energy input from
+ionisation energies to form 2+ ions decreases down the group.
+The Group 2 elements become more reactive and stronger reducing
+agents down the group.
+Reactions of Group 2 compounds
+Group 2 oxides
+Reactions with water
+The oxides of Group 2 elements react with water, releasing hydroxide
+ions, OH®, and forming alkaline solutions of the metal hydroxide.
+CaO(s) + H,O(1) Ca2+(aq) + 2OH- (aq)
+The Group 2 hydroxides are only slightly soluble in water. When the
+solution becomes saturated, any further metal and hydroxide ions will
+form a solid precipitate:
+Ca2+ (aq) + 2OH(aq) —
+Ca(OH),(s)
+Solubility of hydroxides
+The solubility of the hydroxides in water increases down the group, so the
+resulting solutions contain more OH(aq) ions and are more alkaline.
+Table 2 Trend in alkalinity
+Hydroxide
+Trend
+Mg(OH),(s) is only very slightly soluble in water.
+The solution has a low OH-(aq) concentration and a pH - 10.
+Ba(OH),(s) is much more soluble in water.
+The solution has a greater OH-(aq) concentration and a pH - 13.
+The trend is shown in Table 2.
+solubility
+increases
+PH
+You can easily show this trend by carrying out the following experiment.
+Mg(OH)2
+Ca(OH)2
+Sr(OH)2
+Ba(OH)2
+increases
+alkalinity
+increases
+1 Add a spatula of each Group 2 oxide to water in a test tube.
+Shake the mixture. On this scale, there is insufficient water to
+dissolve all of the metal hydroxide that forms. You will have a
+saturated solution of each metal hydroxide with some white solid
+undissolved at the bottom of the test-tube.
+3 Measure the pH of each solution. The alkalinity will be seen to
+increase down the group.
+Uses of Group 2 compounds as bases
+The Group 2 oxides, hydroxides, and carbonates have many uses
+related to their basic properties and ability to neutralise acids.
+Group 2 compounds in agriculture
+Calcium hydroxide, Ca(OH), is added to fields as lime by farmers
+to increase the pH of acidic soils. You may have seen the white lime
+powder on fields (Figure 5). The calcium hydroxide neutralises acid in
+the soil, forming neutral water:
+Ca(OH),(s) + 2H+ (aq) → Ca2+(aq) + 2H20(1)
+A Figure 5 Spreading lime (Ca(OH)2)
+on a field to reduce soil acidity
+110
+REACTIVITY TRENDS
+Redox reactions with water
+The Group 2 elements react with water to form an alkaline hydroxide,
+with the general formula M(OH),, and hydrogen gas. Water and
+magnesium react very slowly, but the reaction becomes more and
+more vigorous with metals further down the group - reactivity
+increases down the group.
+least reactive
+Sr(s) + 2H2O(l)
+→ Sr(OH)2(aq) + H2(g)
+→ +2
+oxidation
+reduction
++1
+0
+Not all the hydrogen atoms are reduced:
+Rn
+most reactive
+A Figure 2 The reactivity of Group 2
+elements
+• l Sr in Sr
+• 4 H in 2H,0
+Sr increases by 2
+total increase = +2
+two H decrease by 1 forming H, total decrease = -2
+two H do not change forming Sr(OH),
+Redox reactions with dilute acids
+Many metals take part in redox reactions with dilute acids to form a
+salt and hydrogen gas.
+metal + acid salt + hydrogen
+All Group 2 elements react in this way. Again, the reactivity increases
+down the group.
+Figure 2 shows the reaction of magnesium with dilute hydrochloric acid.
+Mg(s) + 2HCl(aq) → MgCl,(aq) + H2(g)
+oxidation
+reduction
+Figure 3 Magnesium ribbon reacts
+with dilute hydrochloric acid to give off
+tiny bubbles of hydrogen
+11
++1 –
+0
+The total changes in oxidation number balance:
+1 Mg in Mg Mg increases by 2
+2 H in 2HCl each H decreases by 1
+total increase = +2
+total decrease = -2
+Synoptic link
+You can review ionisation energies
+in Topic 7.2, lonisation energy.
+Trend in reactivity and ionisation energy
+When the redox reactions above are carried out with each Group 2
+element, the reactivity increases down Group 2 (Figure 2).
+1st
+2nd
+So why does the reactivity increase?
+The atoms of Group 2 elements react by losing electrons to form
++2 ions. The formation of +2 ions from gaseous atoms requires the
+input of two ionisation energies:
+• M(g) → M*(g) + e
+first ionisation energy
+M+(g) → MP+(g) + e
+second ionisation energy
+Element
+foos
+1500
+2000
+2500
+3000+
+Figure 4 shows the first and second ionisation energies for the Group 2
+elements. The ionisation energies decrease down the group because
+the attraction between the nucleus and the outer electrons decreases
+as a result of increasing atomic radius and increasing shielding.
+lonisation energy/kJ mol-1
+A Figure 4 First and second ionisation
+energies of Group 2 elements
+109
+REACTIVITY TRENDS
+8
+6. This question is about properties of the
+halogens
+a Describe and explain the trend in boiling
+points in the halogens.
+(4 marks)
+b Bromine reacts with calcium to form an
+ionic compound.
+State the electron configuration, in terms
+of sub-shells, for:
+(i) Ca and Br atoms.
+(2 marks)
+(ii) the ions formed in the reaction.
+(2 marks)
+c Iodine and strontium are reacted together.
+Explain why it is difficult to predict
+whether this reaction is more or less
+reactive than the reaction of bromine
+with calcium.
+(3 marks)
+7. The Group 2 element barium, Ba, is silvery
+white when pure but blackens when exposed
+to air. The blackening is due to the formation
+of both barium oxide and barium nitride. The
+nitride ion is N3-
+a Predict the formula of:
+(i) barium oxide
+(ii) barium nitride
+(2 marks)
+A 0.11g sample of pure barium was added
+to 100 cm of water.
+Ba(s) + 2H20(1) - Ba(OH)2(aq) + H2(g)
+(i) Show that 8.0 x 10-4 mol of Ba were
+added to the water.
+(1 mark)
+(ii) Calculate the volume of hydrogen, in
+cm, produced at room temperature
+and pressure.
+(1 mark)
+(iii) Calculate the concentration, in
+mol dm-, of the Ba(OH),(aq)
+solution formed.
+(1 mark)
+(iv) State the approximate pH of the
+Ba(OH),(aq) solution. (1 mark)
+C A student repeated the experiment in
+(b) using a 0.11g sample of barium that had
+blackened following exposure to the air.
+Suggest why the volume of hydrogen
+produced would be slightly less than the
+volume collected using pure barium.
+(1 mark)
+d Describe and explain the trend, down the
+group, in the reactivity of the Group 2
+elements with water.
+(5 marks)
+F321 June 2009 05
+A student is provided with a solution
+containing two different sodium compounds.
+The student carries out the series of tests
+below on the mixture.
+Test 1 Add dilute nitric acid.
+Observation: Effervescence.
+Test 2 Add aqueous barium nitrate to the
+resulting mixture. If a precipitate
+forms, filter off the precipitate before
+carrying out Test 3.
+Observation: No observable change
+Test 3 Add aqueous silver nitrate
+Observation: Cream precipitate which
+dissolves in concentrated aqueous ammonia.
+a What conclusions can be drawn from
+the tests?
+Include the formulae of any ions
+identified and equations for any
+reactions that take place. (4 marks)
+b A second student carries out the same
+sequence but added dilute sulfuric acid in
+the first step rather than dilute nitric acid.
+The student continues with the series of
+tests and obtains a different result and
+comes to an incorrect conclusion.
+State and explain the second student's
+different result and conclusion. Include an
+equation for any different reaction.
+(3 marks)
+You are provided with unlabelled solutions
+of sodium bromide, ammonium bromide,
+ammonium iodide, and ammonium iodide.
+Describe test-tube tests that would allow
+you to identify which solution is which. For
+each test, state the observation for a positive
+result and write an equation to illustrate a
+positive test.
+(7 marks)
+9
+123
+REACTIVITY TRENDS
+b
+Practice questions
+1 The equation for the redox reaction between
+chlorine and hot concentrated NaOH(aq) is
+shown below.
+Cl, (g) + NaOH(aq) → 5NaCl(aq)
++ NaClO3(aq) + 3H20(1)
+This redox reaction is an example of
+disproportionation.
+a Explain what is meant by
+disproportionation.
+(1 mark)
+Using oxidation numbers, show
+that this reaction is an example of
+disproportionation.
+(3 marks)
+Chlorine reacts with hot iron to form
+iron (III) chloride.
+(i) Write the full equation, with state
+symbols, for the reaction. (2 marks)
+(ii) Write a half equation to show the
+reduction of chlorine in this reaction.
+(1 mark)
+(iii) The reaction is repeated using
+bromine instead of chlorine.
+What difference would you expect in
+the rate of the reaction. Explain your
+answer.
+(1 mark)
+2 In Group 2, reactivity increases down the
+group.
+a Explain, in terms of first ionisation
+energy, this trend in reactivity. (4 marks)
+b The second ionisation energy is important
+when explaining trends in reactivity in
+Group 2.
+(i) Write an equation, with state
+symbols, to represent the second
+ionisation energy of calcium.
+(1 mark)
+(ii) Why is the 2nd ionisation enthalpy
+important when explaining
+Group 2 reactivity?
+(1 mark)
+3 The Group 2 element barium was first
+isolated by Sir Humphrey Davy in 1808.
+Barium has a giant metallic structure and a
+melting point of 725 °C.
+a Describe, with the aid of a labelled
+diagram, the structure and bonding in
+barium and explain why barium has a
+high melting point.
+Include the correct charges on the metal
+particles in your diagram.
+In your answer, you should use
+appropriate technical terms, spelled
+correctly.
+(3 marks)
+b A chemist reacts barium with water.
+A solution is formed which conducts
+electricity.
+(i) Write the equation for the reaction
+of barium with water. Include state
+symbols.
+(2 marks)
+(ii) Predict a value for the pH of the
+resulting solution.
+(1 mark)
+(iii) Give the formula of the negative ion
+responsible for the conductivity
+of the solution formed. (1 mark)
+c Heartburn is a form of indigestion caused
+by an excess of stomach acid.
+State a compound of magnesium that
+could be used to treat heartburn.
+(1 mark)
+d In an experiment, a student makes a
+solution of strontium chloride, SrCly, by
+adding excess dilute hydrochloric acid to
+strontium carbonate.
+(i) Describe what the student would
+observe and write the equation for
+the reaction.
+(2 marks)
+(ii) Draw a dot-and-cross diagram to
+show the bonding of strontium
+chloride. Show outer electrons
+only.
+(2 marks)
+e In another experiment, a student attempts
+to make a solution of strontium chloride
+by adding chlorine water to aqueous
+strontium bromide.
+(i) Describe what the student would
+observe.
+(1 mark)
+(ii) Write the ionic equation for the
+reaction which takes place. (1 mark)
+(iii) Chlorine is more reactive than
+bromine. Explain why. (4 marks)
+OCR F321 Jan 2013 Q4
+121
+Chapter 8 Practice questions
+4 Group 2 elements react with the halogens
+a Describe and explain the trend in
+reactivity of Group 2 elements with
+chlorine as the group is descended.
+In your answer you should use appropriate
+technical terms, spelled correctly. (5 marks)
+b A student was provided with an aqueous
+solution of calcium iodide. The student
+carried out a chemical test to show that
+the solution contained iodide ions. In this
+test, a precipitation reaction took place.
+(i) State the reagent that the student
+would need to add to the solution
+of calcium iodide.
+(1 mark)
+(ii) What observation would show that
+the solution contained iodide ions?
+(1 mark)
+(iii) Write an ionic equation, including
+state symbols, for the reaction that
+took place.
+(1 mark)
+(iv) The student is provided with an
+aqueous solution of calcium bromide
+that is contaminated with calcium
+iodide. The student carries out the
+same chemical test but this time
+needs to add a second reagent to
+show that iodide ions are present.
+State the second reagent that the
+student would need to add. (1 mark)
+F321 June 2013 Q4
+5 A student used the internet to research
+chlorine and some of its compounds.
+a They discovered that sea water contains
+chloride ions. The student added aqueous
+silver nitrate to a sample of sea water.
+(i) What would the student see?
+(1 mark)
+(ii) Write an ionic equation, including
+state symbols, for the reaction that
+would occur.
+(2 marks)
+(iii) After carrying out the test in (i),
+the student added dilute aqueous
+ammonia to the mixture.
+What would the student see?
+(1 mark)
+The student also discovered that chlorine,
+Cly, is used in the large-scale treatment of
+water.
+(i) State one benefit of adding chlorine
+to water.
+(1 mark)
+(ii) Not everyone agrees that chlorine
+should be added to drinking water.
+Suggest one possible hazard of adding
+chlorine to drinking water. (1 mark)
+The equation for the reaction of chlorine
+with water is shown below.
+Cl2(g) + H2O(1) HCl(aq) + HClO(aq)
+(i) State the oxidation number of
+chlorine in
+ClHCI; HCIO
+(1 mark)
+(ii) The reaction of chlorine with water is
+a disproportionation reaction.
+Use the oxidation numbers in (i)
+to explain why.
+(2 marks)
+(iii) Chlorine reacts with sodium
+hydroxide to form bleach in another
+disproportionation reaction.
+Write an equation for this reaction.
+(1 mark)
+Two other compounds of chlorine are
+chlorine dioxide and chloric(V) acid.
+(i) Chlorine dioxide, CIO,, is used as a
+bleaching agent in both the paper
+and the flour industry. When dry,
+Clo, decomposes explosively to form
+oxygen and chlorine.
+Construct an equation for the
+decomposition of ClO, (1 mark)
+(ii) Chloric(V) acid has the following
+percentage composition by mass:
+H, 1.20%; CI, 42.0%; 0, 56.8%.
+Using this information, calculate the
+empirical formula of chloric(V) acid.
+Show all of your working. (2 marks)
+(iii) What does (V) represent in chloric(V)
+acid?
+(1 mark)
+F321 Jan 2009 Q3
+d
+122
+REACTIVITY TRENDS
+8.1 Group 2
+Specification reference: 3.1.2
+Characteristic physical properties
+The elements in Group 2 of the periodic table are metals, sometimes
+named the alkaline earth metals. The name comes from the alkaline
+properties of the metal hydroxides. The elements are reactive metals
+and do not occur in their elemental form naturally. On Earth, they are
+found in stable compounds such as calcium carbonate, CaCoz.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ redox reactions of Group 2
+elements
+→ trends in reactivity and
+ionisation énergies
+action of water on Group 2
+oxides
+uses of some Group 2
+compounds.
+Redox reactions and reactivity
+Reducing agents
+Each Group 2 element has two outer shell electrons, two more than
+the electron configuration of a noble gas. The two electrons are in the
+outer s sub-shell.
+Table 1 Outer-shell electron
+configurations of Group 2 atoms and
+Group 2 ions
+Redox reactions are the most common type of reaction of Group 2
+elements. Each metal atom is oxidised, losing two electrons to form
+a 2+ ion with the electron configuration of a noble gas.
+Group 2 ion
+Be2+
+[He]
+Ca 7 Ca2+ + 2e Ca is oxidised
+[Ar]4s [Ar]
+Another species will gain these two electrons and be reduced.
+The Group 2 element is called a reducing agent because it has
+reduced another species.
+Mg2+ [Ne]
+Group 2 atom
+Be [He] 252
+Mg [Ne] 3s
+Ca [Ar] 452
+Sr [kr] 5s
+Ba [Xe] 6s2
+Ra [Rn] ?s?
+•
+[Ar]
+Ca2+
+Sp2+
+[kr]
+Table 1 compares the outer shell electron configurations of Group 2
+atoms with Group 2 ions.
+Ba2+
+[Xel
+Ra?[Rn]
+Redox reactions with oxygen
+The Group 2 elements all react with oxygen to form a metal oxide
+with the general formula MO, made up of M2+ and 02- ions.
+You will have seen the reaction of magnesium with oxygen in the air
+in the laboratory. The magnesium burns with a brilliant white light
+and forms white magnesium oxide.
+A Figure 1 Group 2 elements, from
+left to right - calcium, beryllium, and
+magnesium
+2Mg(s) + O2(g) 2Mgo(s)
+→ +2
+0
+-2
+The total changes in oxidation number balance:
+oxidation
+reduction
+Synoptic link
+• two Mg in 2Mg
+two O in O
+each Mg increases by +2
+each o decreases by -2
+total increase = +4
+total decrease = -4
+If you are unsure about redox
+reactions and oxidation numbers,
+look back at Topic 4.3, Redox.
+108
+8.2 The halogens
+Tests for halide ions
+Precipitation reactions with aqueous silver ions
+Aqueous halide ions react with aqueous silver ions to form precipitates
+of silver halides, as shown by the general equation below. X-(aq)
+represents an aqueous solution of any halide.
+Agt(aq) + X-(aq) → AgX(s)
+This reaction forms the basis for a test for the presence of halides.
+Halide tests are discussed in detail in Topic 8.3, Qualitative analysis.
+Halide ions as reducing agents
+In the displacement reactions between halogen and halide ions, the halogen
+gained electrons and the halide lost electrons. So halogens are oxidising
+agents and halide ions are reducing agents.
+The reducing ability of halide ions can be shown by their reactions with
+sulfuric acid, H,SO, which is a strong oxidising agent. If a reaction takes
+place, the halide ions will be oxidised to form the halogen.
+Chloride ions are not powerful enough to reduce H,SO
+Bromide ions are more powerful and can reduce H,50, to sulfur dioxide, SO:
+2H+ + H2SO4 + 2Br -50,+Bry+2H,0
+Notice that the both the atoms and the charges balance.
+lodide ions are even more powerful and reduce the sulfur dioxide formed to
+sulfur, S, which is then reduced further to hydrogen sulfide, H,S.
+The unbalanced equations below are for the stepwise reduction,
+by lions, of H2SO, to H,S.
+Step 1 H+ + H2SO4 +1-502 +12 + H20
+Step 2 H+ + SO, +1-S ++ H20
+Step 3 H+ +5+1 H,S+,
+a Balance the equations
+b What are the oxidation number changes in each stage?
+c Write an overall equation for the conversion of H,SO, to H,S
+Summary questions
+1 State and explain the trend in boiling points of the halogens fluorine
+to iodine.
+(3 marks)
+2 Write full and ionic equations for displacement reactions of
+Cl, (g) with
+a KBr(aq) b Mgl (aq).
+(4 marks)
+3 Chlorine reacts with hot concentrated NaOH(aq) as below.
+3C1, (aq) + 6NaOH(aq) - NaCIO, (aq) + 5NaCl(aq) + 3H,0(1)
+Show that this is a disproportionation reaction.
+(3 marks)
+116
+REACTIVITY TRENDS
+The reaction of chlorine with water
+You will know that chlorine is used in water purification. Chlorine
+began to be widely used as a disinfectant for drinking water treatment
+over 100 years ago, revolutionising public health by reducing the
+incidence of waterborne diseases by killing harmful bacteria.
+When small amounts of chlorine are added to water, a disproportionation
+reaction takes place. For each chlorine molecule, one chlorine atom is
+oxidised and the other chlorine atom is reduced.
+Cl, (aq) + H2O(l) → HCIO (aq) + HCl(aq)
+-1
+reduction
+oxidation
++
++1
+unicef
+The two products are both acids, chloric(I) acid, HCIO, and
+hydrochloric acid, HCl. The bacteria are killed by chloric(I) acid and
+chlorate(I) ions, CIO, rather than by chlorine. Chloric(I) acid also acts
+as a weak bleach. You can demonstrate this by adding some indicator
+solution to a solution of chlorine in water. The indicator first turns red,
+from the presence of the two acids. The colour then disappears as the
+bleaching action of chloric(I) acid takes effect.
+Domestos
+EXTENDED
+GEAM-KILL
+The reaction of chlorine with cold, dilute aqueous sodium hydroxide
+The reaction of chlorine with water is limited by the low solubility of
+chlorine in water. If the water contains dissolved sodium hydroxide,
+much more chlorine dissolves and another disproportionation reaction
+takes place.
+Figure 3 Household bleach contains
+sodium chlorate(), NACIO, made by
+reacting chlorine with sodium hydroxide
+Cl, (aq) + 2NaOH(aq) → NaClO(aq) + NaCl(aq) + H2O(l)
+-1
+reduction
+7 +1
+oxidation
+The resulting solution contains a large concentration of chlorate(I),
+Clo, ions from the sodium chlorate(I), Nacio, that is formed. This
+solution finds a use as household bleach, which is made by reacting
+chlorine with cold dilute aqueous sodium hydroxide (See Figure 3).
+Synoptic link
+You will learn about the reaction
+of chlorine and methane in
+Topic 12.2, Chemical reactions
+of alkanes.
+Benefits and risks of chlorine use
+Although chlorine is beneficial in ensuring that our water is fit to
+drink and that bacteria are killed, chlorine is also an extremely toxic
+gas. Chlorine is a respiratory irritant in small concentrations, and large
+concentrations can be fatal.
+Chlorine in drinking water can react with organic hydrocarbons such as
+methane, formed from decaying vegetation. Chlorinated hydrocarbons
+are formed, which are suspected of causing cancer. However, the overall
+risk to health of not adding chlorine to the water supply is far greater than
+the risk posed by the chlorinated hydrocarbons. The quality of drinking
+water would be compromised and diseases such as typhoid and cholera
+might break out. Before safeguarding against what might be a minimal
+risk, you should also consider why chlorine is added to drinking water
+in the first place. After a natural disaster one of the very first, life-saving
+tasks is to ensure that the survivors have a safe water supply (Figure 4).
+Figure 4 In water, chlorine tablets
+release chlorine in low concentrations
+at a steady rate. The tablets are used
+to purify water for drinking and in
+swimming pools and can be used to
+purify water supplies after a natural
+disaster
+115

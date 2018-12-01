@@ -1,0 +1,803 @@
+Chapter 15 Practice questions
+Practice questions
+1 Name each of the following haloalkanes
+H H H H
+CI—
+C—
+C -
+H
+H
+H
+H
+H
+-I
+I-
+CH3 H
+HE
+—C—C—
+C—C
+H
+H
+BY
+H
+H CH3 HH
+CI
+H
+CH3 H
+H
+H
+H
+Write an equation for the preparation of
+product A from l-chlorobutane and name
+product A.
+(1 mark)
+The formation of product A is an example
+of a hydrolysis reaction.
+Name the type of mechanism for the
+hydrolysis of haloalkanes. (1 mark)
+State and explain the effect on the rate
+of hydrolysis of replacing 1-chlorobutane
+with 1-bromobutane.
+(1 mark)
+d Methoxybutane can be made from
+1-chlorobutane and sodium methoxide.
+The methoxide ion acts as a nucleophile.
+Suggest a mechanism for this reaction.
+(3 marks)
+Haloalkane, H, has a relative molecular mass
+of 127 and has the following composition by
+mass:
+C. 37.8 %; H, 6.3%; CI, 55.9%.
+a Deduce the empirical formula and
+molecular formula of H.
+(3 marks)
+b Compound H reacts with an excess of
+aqueous sodium hydroxide under reflux
+to form compound J.
+What is the molecular formula of J.
+(1 mark)
+c Write an equation for the formation of J
+from H.
+(1 mark)
+In the stratosphere, nitrogen monoxide, NO,
+is linked with ozone depletion.
+Complete the equations below that describe
+how NO contributes to ozone depletion.
+Step 1: NO + 0, → ........... + .....
+Step 2: NO, + ........... - NO + ........
+Overall: ........... + ........... - 20,
+(3 marks)
+OCR F322 June 2012 Q4(d)
+HC-Ć
+—C—
+C—
+C—
+H
+H
+CH3 CICH
+H
+2
+5
+(4 marks)
+Nucleophilic substitution takes place when a
+bromoalkane is hydrolysed by heating with
+an alkali in aqueous solution.
+a Explain the term nucleophilic
+substitution.
+(2 marks)
+b Write an equation for the reaction of
+2-bromopropane with a hydroxide ion in
+aqueous solution.
+(1 mark)
+c Outline the mechanism for this reaction.
+(3 marks)
+d State and explain what would happen
+to the rate of the hydrolysis reaction
+if 2-bromopropane was replaced with
+2-iodopropane.
+(1 mark)
+Haloalkanes are useful synthetic reagents for
+the preparation of many important chemicals.
+Some reactions of 1-chlorobutane is shown
+below:
+CH3CH2CH2CH2CI
+CH3CH2CH2CH OH
+product A
+CH20-Na+
+3
+6
+O
+A student carried out an investigation
+to compare the rates of hydrolysis of
+1-iodopropane and 1-bromopropane.
+The student heated hot aqueous sodium
+hydroxide with each haloalkane and
+found that 1-iodopropane was hydrolysed
+faster. The equation for the reaction with
+1-iodopropane is shown below.
+CH CH CH I + OH - CH,CHCH,OH + 1
+CH3CH2CH2CH2OCH3
+methoxybutane
+238
+15
+HALOALKANES
+The end of the road for organohalogen compounds?
+In 1987, the Montreal Protocol was signed, which
+introduced steps for the complete removal of CFCs in
+all but a limited number of products where no suitable
+alternative can be found. Research into alternatives
+for refrigeration and air conditioning units have led to
+the development of coolants that use hydrocarbons,
+ammonia, or even carbon dioxide. For sprays, some
+companies have produced pump-action spray dispensers
+to replace products in aerosol form. Where aerosols
+are still being used, the propellant is most likely to be a
+hydrocarbon such as butane.
+A Figure 3 Organohalogen compounds found use
+in aerosols
+Brominated flame retardants (BFRs) are organobromine
+compounds commonly used by the electronics industry
+in components such as circuit boards, outer coverings,
+and cables to reduce the flammability of the product.
+Organobromine compounds are currently under close
+scrutiny as scientists suspect that they are toxins that
+may interfere with the effective function of the human
+endocrine system.
+The following organohalogen compounds have
+all found a use over the last 50 years. Draw the
+structures of each compound.
+1,1,2-trichloro-1,2,2-trifluoroethane (a CFC)
+1,2,5,6,9,10-hexabromocyclododecane (a BFR
+with 12 carbon atoms)
+PVC
+Both Apple and Dell claim to have reduced or eliminated
+environmentally damaging flame retardants from their
+products and to have stopped using the organohalogen
+polymer, PVC.
+Summary questions
+1 List three sources of CFCs in the atmosphere.
+(1 mark)
+(1 mark)
+2 Name the layer of the atmosphere above the troposphere.
+(2 marks)
+3 Explain why ozone depletion should be of major concern
+to humans.
+4 Write equations to show how the HCFC HCCIF, breaks down
+ozone in the upper atmosphere.
+(2 marks)
+5 OH• radicals are known to deplete the ozone layer. Complete the
+two propagation steps given below and write an overall equation
+for the process.
+Step 1 —+03 _+02
+Step 2 - +03 → __+02
+(3 marks)
+237
+HALOALKANES
+15.1 The chemistry of the
+haloalkanes
+Specification reference: 4.2.2
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of: :
+→ hydrolysis of haloalkanes
+→ nucleophiles
+→ nucleophilic substitution
+→ rates of hydrolysis of primary
+haloalkanes.
+Naming the haloalkanes
+Haloalkanes are compounds containing the elements carbon, hydrogen,
+and at least one halogen. When naming haloalkanes, a prefix is added
+to the name of the longest chain to indicate the identity of the halogen
+(Table 1). When two or more halogens are present in a structure they
+are listed in alphabetical order.
+In this chapter you will mainly learn about aliphatic haloalkanes,
+in which the halogen is joined to a straight or branched carbon
+chain. These compounds, like alcohols, can be classified as primary,
+secondary, and tertiary.
+•••••••••••••••••••••••••••••••••••••
+HH
+HHH
+H
+CH3 H
+Table 1 Prefixes used to represent the
+different halogens in haloalkanes
+H—
+C—
+C—
+C
+H—
+C—
+C—
+0
+-H H
+Ć
+-Ć-Ć-H
+Halogen
+Prefix
+fluoro-
+H
+Br
+HI H
+chloro-
+chloroethane
+primary
+2-bromopropane
+secondary
+2-iodo-2-methylpropane
+tertiary
+bromo-
+jodo-
+Figure 1 The structure of some primary, secondary and tertiary haloalkanes
+HH
+H—
+I
+C—C
+18+. 8-
+CI
+Reactivity of the haloalkanes
+Haloalkanes have a carbon-halogen bond in their structure. Halogen
+atoms are more electronegative than carbon atoms. The electron pair
+in the carbon-halogen bond is therefore closer to the halogen atom
+than the carbon atom. The carbon-halogen bond is polar (Figure 2).
+HH
+A Figure 2 Polarity in a carbon-chlorine
+bond. The bonding pair of electrons is
+closer to the chlorine atom than the
+carbon atom
+In haloalkanes the carbon atom has a slightly positive charge and can
+attract species containing a lone pair of electrons. Species that donate
+a lone pair of electrons are known as nucleophiles. A nucleophile
+is an atom or group of atoms that is attracted to an electron deficient
+carbon atom, where it donates a pair of electrons to form a new
+covalent bond.
+Nucleophiles include:
+Study tip
+You can define a nucleophile as an
+electron pair donor.
+Synoptic link
+You should recall polarity and
+electronegativity from Topic 6.2,
+Electronegativity and polarity.
+• hydroxide ions, OH-
+• water molecules, H,O:
+• ammonia molecules, :NH,.
+230
+15.1 The chemistry of the haloalkanes
+Hydrolysis and carbon-halogen bond strength
+In hydrolysis, the carbon-halogen bond is broken and the -OH
+group replaces the halogen in the haloalkane. The rate of hydrolysis
+depends upon the strength of the carbon-halogen bond in the
+haloalkane. The bond enthalpies for the carbon-halogen bonds
+are shown in Figure 4.
+500
+Synoptic link
+You will recall from Topic 5.3,
+Covalent bonding, that the larger
+the value of the average bond
+enthalpy, the stronger the
+covalent bond.
+Bond enthalpy (kJ mol-l)
+C-
+FC-IC-Br C-
+Bond type
+A Figure 4 Graph showing the bond enthalpies for the carbon-halogen bond
+You can see from the graph that the C-F bond is the strongest
+carbon-halogen bond and the C-I bond the weakest. Less energy is
+required to break the C-I bond than other carbon-halogen bonds.
+From these bond enthalpies we can predict that:
+iodoalkanes react faster than bromoalkanes
+bromoalkanes react faster than chloroalkanes
+fluoroalkanes are unreactive as a large quantity of energy is
+required to break the C-F bond.
+You can test out some of these predictions by carrying out an
+experiment to hydrolyse some haloalkanes.
+Measuring the rate of hydrolysis of primary haloalkanes
+In this experiment you compare the rate of hydrolysis of three
+haloalkanes: 1-chlorobutane, 1-bromobutane, and 1-iodobutane.
+The general equation for hydrolysis of these haloalkanes with water is
+shown in the equation below. X represents any of the halogens.
+CH,CH,CH,CH,X + H,O - CH,CH,CH,CH,OH + H+ + X-
+Synoptic link
+See Topic 8.3, Qualitative analysis,
+for details of the formation of the
+silver halide precipitates using
+aqueous silver nitrate.
+The rate of each reaction can be followed by carrying out the reaction
+in the presence of aqueous silver nitrate. As the reaction takes place
+halide ions, X-(aq), are produced which react with Ag+ (aq) ions to
+form a precipitate of the silver halide.
+Ag+ (aq) + X-(aq) → AgX(s)
+Precipitate of silver halide
+The nucleophile in the reaction is water, which is present in the
+aqueous silver nitrate. Haloalkanes are insoluble in water, and
+232
+15
+HALOALKANES
+When a haloalkane reacts with a nucleophile, the nucleophile replaces
+the halogen in a substitution reaction. A new compound is produced
+containing a different functional group. The reaction mechanism is
+nucleophilic substitution.
+Nucleophilic substitution in the haloalkanes
+Primary haloalkanes undergo nucleophilic substitution reactions with
+a variety of different nucleophiles to produce a wide range of different
+compounds. Substitution is a reaction in which one atom or group of
+atoms is replaced by another atom or group of atoms.
+Hydrolysis
+Hydrolysis is a chemical reaction involving water or an aqueous
+solution of a hydroxide that causes the breaking of a bond in a
+molecule. This results in the molecule being split into two products.
+In the hydrolysis of a haloalkane, the halogen atom is replaced by
+an -OH group. This is an example of a nucleophilic substitution
+reaction which takes place as follows:
+1 The nucleophile, OH , approaches the carbon atom attached to
+the halogen on the opposite side of the molecule from the halogen
+atom (Figure 3).
+2 This direction of attack by the OH-ion minimises repulsion
+between the nucleophile and the 5, halogen atom.
+3 A lone pair of electrons on the hydroxide ion is attracted and
+donated to the 8+ carbon atom.
+4 A new bond is formed between the oxygen atom of the hydroxide
+ion and the carbon atom.
+5 The carbon-halogen bond breaks by heterolytic fission.
+6 The new organic product is an alcohol. A halide ion is also formed.
+The mechanism for the reaction is shown in Figure 3.
+Study tip
+H3C
+CH3
+H
+OO+LCA -
+HO—C—H
++
+C-
+It is important to show the curly
+arrows starting and ending in the
+correct places when you draw a
+mechanism. Curly arrows show
+the movement of electron pairs.
+Curly arrows start from either a lone
+pair or a bonding pair of electrons
+and point to the atom to which the
+electron pair moves.
+OH
+Figure 3 Nucleophilic substitution mechanism for the hydrolysis
+of chloroethane
+Haloalkanes can be converted to alcohols using aqueous sodium
+hydroxide. The reaction is very slow at room temperature so the
+mixture is heated under reflux to obtain a good yield of product.
+The equation for the hydrolysis of 1-bromobutane is shown below.
+CH,CH,CH,CH,Br + NaOH → CH,CH,CH,CH,OH + NaBr
+1-bromobutane
+butan-1-ol
+231
+15.2 Organohalogen compounds
+in the environment
+Specification reference: 4.2.2
+Uses of organohalogen compounds
+Organohalogen compounds are molecules that contain at least one
+halogen atom joined to a carbon chain. They have found many
+practical uses, some of which are listed in Table 1.
+Organohalogen compounds are also used in many pesticides.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ uses of organohalogen
+compounds
+the ozone layer
+→ breakdown of the ozone layer
+by radicals.
+Organohalogen compounds are rarely found in nature and, as they are
+not broken down naturally in the environment, they have become the
+focus of some concern.
+Table 1 Uses of organohalogen
+compounds
+Use
+Examples of
+compounds
+The ozone layer
+The ozone layer is found at the outer edge of the stratosphere, at a
+height that varies from about 10 to 40 km above the Earth's surface.
+Only a tiny fraction of the gases making up the ozone layer is ozone, but
+this is enough to absorb most of the biologically damaging ultraviolet
+radiation (called UV-B) from the Sun's rays, allowing only a small
+amount to reach the Earth's surface. UV-B radiation is the radiation
+most commonly linked to sunburn and much research has been carried
+out on its harmful effects. It is feared that continued depletion of the
+ozone layer will allow more UV-B radiation to reach the Earth's surface.
+This is very bad news for living organisms, leading to increased genetic
+damage and a greater risk of skin cancer in humans.
+general
+solvents
+CHCI
+dry cleaning
+solvents
+C2H4Cl2, C2HCl
+making
+polymers
+CH,C1, C2F4
+In the stratosphere, ozone is continually being formed and broken
+down by the action of ultraviolet (UV) radiation. Initially very high
+energy UV breaks oxygen molecules into oxygen radicals, O:
+flame
+retardants
+CF,Br
+0,
+20
+refrigerants
+F.CCl2, HCCIF,
+HCCI F
+A steady state is then set up involving 0, and the oxygen radicals
+in which ozone forms and then breaks down. In this steady state,
+the rate of formation of ozone is the same as the rate at which it is
+broken down:
+0, +0=0
+Study tip
+Human activity, especially in the production and use of
+chlorofluorocarbons (CFCs), has upset this delicate equilibrium.
+Though O is not drawn with the
+typical'radical dot', it is still a radical.
+CFCs and the ozone layer
+Until recently, CFCs and HCFCs were the most common compounds
+used as refrigerants, in air-conditioning units, and as aerosol
+propellants. CFCs are very stable because of the strength of the
+carbon-halogen bonds within their molecules. In 1973 two chemists,
+Frank Sherwood Rowland and Mario Molina, began to look at the
+235
+15.2 Organohalogen compounds in the environment
+ozone layer
+25 km
+impact of CFCs on the Earth's atmosphere. They concluded that
+CFCs remain stable until they reach the stratosphere (Figure 1). Here
+the CFCs begin to break down, forming chlorine radicals, which
+are thought to catalyse the breakdown of the ozone layer. In 1995,
+Sherwood and Molina were awarded a Nobel Prize for their work in
+discovering this ozone depletion.
+ozone layer
+20 km ti
+stratosphere
+15 km
+altitude
+How do CFCs deplete the ozone layer?
+The stability of CFCs, due to the strength of their carbon-halogen
+bonds, means that CFCs have a long residence time in the
+troposphere. It may take them many years to reach the stratosphere.
+Once in the stratosphere UV radiation provides sufficient energy to
+break a carbon-halogen bond in CFCs by homolytic fission to form
+radicals. The C-Cl bond has the lowest bond enthalpy and so is the
+bond that breaks.
+10 km
+tropopause
+troposphere
+5 km
+A Figure 1 Earth's atmosphere is
+divided into five layers. We exist in
+the lowest level, the troposphere. The
+stratosphere is the next layer up, and
+includes the ozone layer
+As radiation initiates the breakdown, this process is called
+photodissociation. The photodissociation of CF,C1, is shown below.
+CF,Cl2 → CF Cl• + Cl.
+The chlorine radical formed, Cl, is a very reactive intermediate. It can
+react with an ozone molecule, breaking down the ozone into oxygen.
+This breakdown occurs by a two-step process:
+propagation step 1 Cl. + 0; ClO. + 0
+propagation step 2 CO. + 0 + Cl + 0,
+The overall equation is 03 + 0
+202
+Propagation step 2 regenerates a chlorine radical, which can attack
+and remove another molecule of ozone in propagation step 1. The
+two propagation steps repeat in a cycle over and over again in a
+chain reaction. It has been estimated that a single CFC molecule can
+promote the breakdown of 100 000 molecules of ozone.
+Synoptic link
+This photodissociation is the
+initiation step in a chain reaction.
+See Topic 12.2, Chemical reactions
+of alkanes, to review the reaction
+mechanism of radical substitution,
+which is similar.
+Are CFCs responsible for all ozone-depleting reactions?
+The simple answer is no. Other radicals also catalyse the breakdown of
+ozone. Nitrogen oxide radicals are formed naturally during lightning
+strikes, and also as a result of aircraft travel in the stratosphere.
+Nitrogen oxide radicals cause the breakdown of ozone by a mechanism
+similar to that involving chlorine radicals.
+propagation step 1 NO. + 0 NO. + 02
+propagation step 2 NO. + 0 NO. + 0,
+The overall equation is the same as with chlorine radicals, showing
+that the radicals act as a catalyst for the process.
+03 + 0 202
+A Figure 2 Lightning is a major source
+of NO radicals, which are an important
+contributor to ozone depletion
+236
+15.1 The chemistry of the haloalkanes
+Hydrolysis of primary, secondary, and tertiary haloalkanes
+You have just learnt that the rate of hydrolysis depends The increased rate and different can be explained by the
+upon the strength of the carbon-halogen bond, but this increased stability of the tertiary carbocation compared
+does not explain why three structural isomers of C H Br to that of the primary carbocation.
+hydrolyse at different rates (Table 3).
+H H H
+Table 3 Relative rate of hydrolysis for
+some bromoalkanes
+—C— C— C— C— Br
+H
+H
+H
+H
+Relative rate
+of reaction
+primary
+H
+H
+H
+Formula of
+bromoalkane
+CH,CH,CH,CHBr
+CH,CH,CHBICH
+(CH),CBr
+slowest
+H-
+IOI
+—
+C
+—
+C—
+H
+fastest
+H
+H Br
+secondary
+H
+CH3 H
+H—
+C—
+C—
+C—
+H
+Clearly the strength of the carbon-halogen bond is not
+the only factor that influences the rate of hydrolysis.
+If you examine the structures of the three haloalkanes,
+you will notice that one haloalkane is primary, one is
+secondary and one is tertiary (Figure 7).
+The data shows that the tertiary haloalkane is hydrolysed
+fastest, whilst hydrolysis of the primary haloalkane
+is the slowest. The main reason lies with the reaction
+mechanism. A primary haloalkane will react by a
+one-step mechanism (look back at Figure 3), whereas a
+tertiary haloalkane reacts by a two-step mechanism.
+H Br H
+tertiary
+Figure 7 The structures of the primary, secondary, and
+tertiary bromoalkanes
+•
+In the first step, the carbon-halogen bond of the
+tertiary haloalkane breaks by heterolytic fission,
+forming a tertiary carbocation and a halide ion.
+In the second step, a hydroxide ion attacks the
+carbocation to form the organic product.
+1 Predict, using curly arrows, the mechanism for
+the reaction of (CH), CBr with OH-ions.
+2 Referring back to the reasons behind
+Markownikoff's rule in Topic 13.4, explain why
+a tertiary carbocation is more stable than a
+primary carbocation.
+Summary questions
+1 Explain why a carbon-halogen bond is polar.
+(2 marks)
+2 Show the mechanism for the reaction between
+1-chloropropane and sodium hydroxide. (2 marks)
+4 Ethanol reacts with sodium metal to form an ethoxide
+ion, CH,CH,0 . The ethoxide ion acts as a nucleophile.
+a Predict the structure of the organic product formed
+when the ethoxide ion reacts with 1-bromopropane.
+b Show the mechanism of this nucleophilic
+substitution reaction.
+(3 marks)
+3 Place the following haloalkanes in the order of their
+rates of hydrolysis, starting with the fastest one first.
+Explain your answer.
+A CH,CH,CH,CI
+B CH,CH,CH,!
+C CH CH.CH, Br
+N
+234
+15
+HALOALKANES
+the reaction is carried out in the presence of an ethanol solvent.
+Ethanol allows water and the haloalkane to mix and produce a single
+solution rather than two layers.
+0
+Hydrolysis of haloalkanes
+5 Observe the test tubes for five minutes and record
+the time taken for the precipitate to form.
+You should observe the results shown in Table 2 and
+Figure 5.
+1 Set up three test tubes as follows:
+Tube 1: Add 1 cm of ethanol and two drops of
+1-chlorobutane
+Tube 2: Add 1 cm of ethanol and two drops of
+1-bromobutane
+Tube 3: Add 1 cm of ethanol and two drops of
+1-iodobutane
+2 Stand the test tubes in a water bath at 60°C.
+3 Place a test tube containing 0.1 mol dm-silver
+nitrate in the water bath and allow all tubes to reach a
+constant temperature.
+Add 1 cm of the silver nitrate quickly to each of the
+test tubes. Immediately start a stop-clock.
+1-chlorobutane
+1-bromobutane
+1-jodobutane
+Table 2 Observations from the hydrolysis of the haloalkanes
+Haloalkane
+Observation
+Figure 5 The precipitates formed
+when the haloalkanes 1-chlorobutane,
+1-bromobutane, and 1-iodobutane react
+with aqueous silver nitrate in ethanol
+1-chlorobutane
+1-bromobutane
+A white precipitate forms very slowly.
+A cream precipitate forms slower than with
+1-iodobutane but faster than with 1-chlorobutane.
+Why is it important that the test
+tubes are placed in a water bath at
+60°C at the same time.
+1-iodobutane
+A yellow precipitate forms rapidly.
+These observations are explained by considering the bond enthalpies
+of the carbon-halogen bonds. The compound with the slowest rate of
+reaction is the one that has the strongest carbon-halogen bond:
+1-Chlorobutane reacts slowest and the C-Cl bond is the strongest
+1-Iodobutane reacts fastest and the C-I bond is the weakest.
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+HHHHHH
+H
+C
+-C
+C
+-C
+CI H—
+C—
+C—
+C—
+C—
+Br H-
+C—
+C—
+C-
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+1-chlorobutane
+1-bromobutane
+l-iodobutane
+Rate of hydrolysis increases as the strength of the carbon-halogen bond decreases
+Figure 6 The pattern in the rates of hydrolysis of the haloalkanes
+233
+15
+HALOALKANES
+(i) lodoethane is reacted with ammonia.
+Write an equation for this reaction.
+(1 mark)
+(ii) The first step in the mechanism of the
+reaction between CH,CH,CH,Br and
+NH, is shown below.
+H
+a (i) Outline the mechanism for this
+hydrolysis of 1-iodopropane.
+Show curly arrows and relevant
+dipoles.
+(3 marks)
+(ii) State the name of this type of
+mechanism.
+(1 mark)
+b Explain why 1-iodopropane is hydrolysed
+faster than 1-bromopropane. (1 mark)
+OCR F322 June 2009 Q6
+7 Haloalkanes are polar molecules and react
+with nucleophiles.
+a The displayed formula of chloromethane
+is shown below. Label the dipole on the
+C-Cl bond.
+CH3CH2—C—Br
+CH3CH2 —¢-NH3 + .....
+H—
+C—
+C1
+Complete the mechanism. Include relevant
+dipoles, lone pairs, curly arrows and the
+missing product.
+(3 marks)
+b A student investigates the rate of
+hydrolysis of six haloalkanes. The student
+mixes 5 cm of ethanol with five drops of
+haloalkane. This mixture is warmed to
+50 °C in a water bath. The student adds
+5 cm of aqueous silver nitrate, also heated
+to 50 °C, to the haloalkane. The time taken
+for a precipitate to form is recorded in the
+results table. The student repeats the whole
+experiment at 60 °C instead of 50 °C.
+Time taken for a precipitate to
+form/s
+Haloalkane
+50°C
+60°C
+121
+243
+121
+40
+(1 mark)
+b Chloromethane is hydrolysed by a
+solution of sodium hydroxide as shown in
+the equation below.
+CH,Cl + OH - CH,OH + C1-
+(i) State the solvent in which the sodium
+hydroxide is dissolved. (1 mark)
+(ii) State and explain the role of the
+hydroxide ion, OH, in this reaction.
+(1 mark)
+(iii) Show, with the aid of curly arrows,
+the mechanism of this hydrolysis.
+(3 marks)
+(iv) What would happen to the rate of
+hydrolysis if chloromethane were
+replaced by iodomethane? Explain
+your answer.
+(1 mark)
+This question is about halogenated
+hydrocarbons.
+a Haloalkanes undergo nucleophilic
+substitution reactions with ammonia
+to form amines. Amines contain the
+-NH, functional group. For example,
+1-bromopropane reacts with ammonia to
+form propylamine, CH, CH CH NH,
+CH,CH,CH,Br + 2NH, CH,CH,CH,NH,
++ NH Br
+CH,CH,CH,CH,CI
+CH,CH,CH,CH,Br
+CH,CH,CH,CH, I
+CH,CH,CHBCH
+(CH),CHCH,Br
+(CH,),CBI
+89
+55
+110
+44
+21
+8
+Describe and explain the factors that affect
+the rate of hydrolysis of haloalkanes. Include
+ideas about
+• the halogen in the haloalkanes
+the groups attached to the carbon of
+the carbon-halogen bond (the type of
+haloalkane)
+• the temperature of the hydrolysis.
+In your answer you should link the evidence
+with your explanation.
+(7 marks)
+OCR F322 Jan 11 Q5
+239

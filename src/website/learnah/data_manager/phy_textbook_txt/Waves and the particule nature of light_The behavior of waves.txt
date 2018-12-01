@@ -1,0 +1,1002 @@
+5.2
+Investigation
+Investigating two-source interference
+fig C Two-source interference demonstration in a ripple tank.
+A ripple tank where plane waves are diffracted through two gaps will cause an interference pattern
+between the two water waves.
+Another common experimental demonstration of two-slit interference is with laser light.
+laser
+screen
+wwwwwww
+double slit
+bright spots
+fig D Two-slit interference demonstration with a laser.
+Learning tip
+Two-source interference and two-slit interference are the same thing. In both cases, two waves are
+brought together to produce an interference pattern. Two-slit interference is a form of two-source
+interference, where the slits diffract existing waves in order to act as new sources of waves.
+Explaining two-source interference
+fig E Different distances from each slit to point X determine the resultant amplitude of the standing wave at X.
+Each point in a two-source interference pattern will have a superposition result that depends on the
+phase difference between the waves coming from each source to that point. That phase difference
+will, in turn, depend on the relative distances to the point from each of the slits compared with the
+wavelength. In fig E, imagine the distance from the slit to X along the blue line is 100 wavelengths,
+and the distance along the red line is 115 wavelengths. As the path difference is exactly 15
+wavelengths, the waves will be in phase at point X, and will constructively interfere, to produce a
+maximum resultant, as in an antinode. If we passed laser light through the two slits, then point X
+would show a bright spot on a screen placed there.
+164
+5.2
+2
+mode
+wavelength
+fundamental
+(1st harmonic)
+node
+node
+node
+antinode X
+antinode
+1st overtone
+(2nd harmonic)
+2nd overtone
+(3rd harmonic)
+WN
+MN
+3rd overtone
+(4th harmonic)
+.
+fig C As the string is fixed at each end, these end points must always be nodes. The standing wave can only occur if its
+wavelength exactly allows a node at each end.
+WORKED EXAMPLE
+A guitar string of length 65 cm vibrates in its fundamental mode. The speed of waves in the string is
+362ms-l. What are the wavelength and frequency of this standing wave?
+A = 2L = 2 x 0.65
+A = 1.30 m
+f=V-V
+2L
+F-362
+- 1.30
+f = 278 Hz
+String wave speeds
+Waves on a stretched spring travel at a speed that is affected by the tension in the string, 7 (in
+newtons) and the mass per unit length of the string, u (in kg m ). The equation for the speed of a
+wave in a string is:
+If this equation is combined with the wave equation, we get an equation that tells us how the
+frequency of string vibrations is affected by other factors:
+v=VH and v=f*1
+In the fundamental mode of vibration, this means the fundamental frequency. fo. depends on the
+length of the string, its tension and its mass per unit length from:
+fo= al Vü
+158
+Stationary waves
+By the end of this section, you should be able to...
+explain what is meant by coherent waves
+explain how a standing/stationary wave forms and identify
+nodes and antinodes
+displacement
+Www
+AN
+M
+distance
+.
+use the equation for the speed of transverse waves on a string
+verify experimentally what factors affect the frequency of
+standing waves on a string
+W
+displacement
+www
+.
+distance
+.
+displacement
+distance
+Standing waves
+Continuous waves travelling in opposite directions will superpose
+continuously, and this can set up a stationary wave pattern, also
+known as a standing wave. The waves need to be of the same
+speed and frequency, with similar amplitudes, and have a constant
+phase relationship. Waves with the same frequency and a constant
+phase relationship are said to be coherent.
+Stationary waves are so called as the profile of the wave does not
+move along, it only oscillates. This also means that wave energy
+does not pass along a standing wave; as such they do not meet
+our strict definition of waves, which do transfer energy and are
+more precisely called progressive waves. A situation such as
+that in fig B can be set up when waves travel along a string and
+are reflected from a fixed end, which is how the wave in fig A
+was produced. In this situation, such as when a guitar string is
+plucked, the first wave will meet its own reflection, and these two
+coherent waves set up a standing wave on the string. There are
+points where the resultant displacement is always zero. These
+points never move, and are called nodes. Conversely, the points
+of maximum amplitude are called antinodes. Note that all points
+between one node and the next are in the same phase at all times,
+although their amplitude of vibration varies up to the antinode
+and back to zero at the next node.
+displacement
+w
+distance
+displacement
+N
+distance
+fig B As coherent waves pass through each other, the resultant wave will be
+stationary
+Depending on the frequency of the wave that produces the
+stationary wave by constructively interacting with its own
+reflection, the standing wave pattern that can be set up will
+have a corresponding wavelength, as the wave equation must
+still be satisfied. For example, in fig C, the first overtone exactly
+fits one complete wave in the length of the string: 1 = L. In the
+third overtone, there are two complete waves in length L, so the
+wavelength is halved. The speed of waves on the string is the
+same in both situations, so the frequency in the third overtone
+must be double that of the first overtone. If a string is plucked
+and allowed to vibrate freely, all modes of vibration will be
+present at the same time, but the fundamental will be the
+most significant
+fig A When coherent waves meet, a stationary wave is set up with points of
+zero amplitude (nodes) and points of maximum amplitude (antinodes).
+This can be demonstrated in the school laboratory with a vibration
+generator and a rubber cord.
+157
+Wave interference
+By the end of this section, you should be able to...
+understand what is meant by the terms coherence, path difference and interference
+interpret the relationship between phase difference and path difference
+explain examples of wave interference
+Two-source interference
+In Section 5.2.2 we saw that a wave meeting its own reflection would set up a standing wave pattern,
+also known as an interference pattern. Reflection is a convenient way to generate coherent waves
+that will produce a standing wave. However, any combination of waves that have the same frequency
+and a constant phase relationship will produce this result. For example, in fig A, the loudspeakers
+are connected to the same signal generator, so they simultaneously produce identical sound waves.
+Wherever the sound waves meet, they will superpose to produce a resultant displacement of air
+molecules. This means there will be points of maximum amplitude - antinodes - such as at position
+X, or points of zero amplitude - nodes - where there will be silence, such as position Y. The relative
+positions of nodes and antinodes will depend on the distance from the speakers, their separation and
+the wavelength of the waves.
+position X
+loudspeakers
+position Y
+sound waves
+fig A Two loudspeakers generating the same frequency sounds.
+Two-slit interference
+Another interference pattern can be observed if light is shone into an experimental set-up that
+WP
+causes it to create two coherent wave sources that produce a standing wave pattern. This effect
+was first demonstrated by Thomas Young in 1803, using sunlight as the light source. A simple
+laboratory set-up using a torch, similar to that shown in fig B, would show a pattern of dark and light
+fringes that resembles the nodes and antinodes in a standing light wave.
+Young explained his experiment using a theory that light behaves as a wave. In classical physics,
+interference is a phenomenon that can only occur with waves. Young's theory was highly
+controversial at the time, as he was contradicting Newton's theory that light behaved as a stream of
+particles. Despite the experimental evidence he demonstrated, most scientists at the time refused to
+believe Young's wave theory of light.
+fig B Two-slit interference of torch
+light. An interference pattern
+of dark and light fringes is seen
+on the screen.
+163
+The behaviour of waves
+5.2
+two transverse waves
+Wavefronts
+Diagrams of waves are often drawn as lines, as in fig B, where
+all the points on a line represent points on the wave that are at
+exactly the same phase position, perhaps a wave crest. These lines
+are called wavefronts. They are how the sea might look observed
+from a helicopter, where the troughs are all in shadow and so
+appear darker.
+wavefront - all
+The waves are
+points at a wave peak
+travelling in this
+where phase = 90°
+direction.
+I
+11
+A
++ B
+fig B All points on each wavefront (black lines) are in the same phase position:
+90", or 7/2. The green line showing direction of travel is called a ray.
+Rays must be perpendicular to wavefronts.
+fig D Wave pulse displacements add when they meet in the same location.
+Wave superposition
+When waves meet, each wave will be trying to cause a wave
+displacement at the point of intersection, according to its phase
+at that location. The net effect is that the overall displacement will
+be the vector sum of the displacements caused by the individual
+waves. After the encounter, each wave will continue past each other,
+as the energy progresses in the same direction it was originally
+travelling. This can be most simply illustrated if we consider just
+wave pulses passing each other, as in fig C.
+If the wave pulses in fig D are travelling on the surface of water,
+then each would be trying to displace the water molecules
+upwards briefly as it passed. When both meet at the same
+location, wave pulse A lifts the water a little, and then pulse B is
+also lifting up, so the water raises even higher - to the level of the
+two pulse displacements added together. This effect is thought
+to explain the tales from returning sailors that they saw a sudden
+freak wave which then vanished as quickly as it had appeared. The
+sum of many waves, travelling in many different directions, which
+happen to coincide at a point at one instant, could cause a huge
+instantaneous displacement, which then drops again as the waves
+continue on their way.
+20
+Surface elevation/m
+-100
+200
+1200
+200 400 600 800 1000
+Time/s
+fig E Multiple small waves coinciding in the same location can lead
+to a brief very large displacement. This graph is of sea surface
+height at the Draupner North Sea Oil Platform on 1st January
+1995, showing a freak 18 m wave,
+WP
+fig C When waves meet, the displacements would add to each other to give
+the overall displacement for each location.
+155
+The behaviour of waves
+5.2
+at interference in the next section, but the diffraction patterns we have seen with a laser are examples
+of an interference pattern. Considering the waves being diffracted from each end of the slit, gives us
+two waves that will meet at the screen. We saw in Section 5.2.1 that if waves meet in phase they will
+superpose to give a larger amplitude resultant wave. This would appear as a light spot on the screen.
+At a slightly different place on the screen, these two waves will be completely out of phase and the
+sum of their displacements will always be zero, so it appears as a dark spot. The diffraction pattern is
+an example of a standing wave on the screen, where the dark spots are nodes and the light spots are
+antinodes.
+Single slit diffraction
+If we change the width of the diffraction slit, we will alter the diffraction pattern that we observe.
+A narrower slit widens the central maximum, as well as the further maxima and minima.
+fig E Diffraction patterns of light observed on a screen show a bright, wide central maximum, surrounded by areas of
+darkness, and further bright spots that have decreasing brightness from the centre.
+The diffraction grating
+A diffraction grating is a device that will cause multiple diffraction patterns, which then overlap.
+creating an interference pattern with a mathematically well-defined spacing between bright and dark
+spots. It is a collection of a very large number of slits through which the waves can pass. These slits
+are parallel and have a fixed distance between each slit.
+Learning tin
+The grating spacing is often
+quoted as a number of lines
+per metre (or per millimetre).
+which means that to find d you
+will need to do an initial
+calculation in which:
+fig F Diffraction gratings can be used to examine light spectra.
+The pattern produced by each colour passing through a diffraction grating follows the equation:
+na = dsino
+where is the angle between the original direction of the waves and the direction of a bright spot,
+is the wavelength of the light used, d is the spacing between the slits on the grating, and n is called
+the 'order'. The order is the bright spot number from the central maximum (which is n = 0).
+number per metre
+OR:
+1 x 10-3
+d=-
+number per millimetre
+161
+5.
+23
+Questions
+Investigation
+Investigating diffraction with a laser
+You can use a laser pointer or laboratory experimental laser to
+demonstrate diffraction. A diffraction grating investigation allows
+careful study of the light making up the spectrum from any light
+source. Astronomers use this to study the spectra from stars.
+1 In stormy seas, a yachtsman thought it would be a good idea to
+position his boat behind a large oil tanker to avoid being battered
+by the waves that were coming from the other side of the tanker.
+Explain why this plan might not help.
+2
+diffraction
+grafting
+central bright spot
+(a) Explain why the radio waves from the two dishes in fig I spread
+out differently in each case.
+(b) Suggest examples in which each situation in fig I might be
+useful for different purposes.
+transmitter dish same size
+as wavelength
+waves spead
+out as they
+travel
+laser
+L
+1st order
+2nd order
+3rd order
+wavefronts of microwaves
+wwwwwwwwwwwww
+screen
+waves stay in
+a beam
+as they travel
+dish larger than wavelength
+figi The size of a radio transmitter can be important depending on
+its purpose.
+3
+fig G A diffraction grating will produce a series of bright spots at increasing
+angles from the centre.
+Diffraction gratings are manufactured to have a fixed spacing, d,
+between lines on the grating, and this will be printed on the grating.
+By measuring the angle to each maximum brightness spot created by
+a diffraction grating, you can calculate the wavelength of the light
+used from the diffraction grating equation.
+In an experiment to examine the colours of light produced by hot
+helium gas, a chemist used a diffraction grating, and found the first
+order maximum for each of three colours were at angles of 26.6°,
+30.1 and 36.0°. If the grating she used had 1000 lines per mm, what
+were the wavelengths for these three colours?
+90° is the maximum angle through which a maximum produced
+by a diffraction grating could be observed, but we can only
+observe a maximum for which n is an integer. For the experiment
+in question 3, calculate how many orders would be observed for
+each of the three colours.
+fig H CDs have a series of very close lines marked on them and act as a
+diffraction grating that reflects. This causes the spectrum of colours that
+can be seen on them from white light that hits the surface.
+162
+5.2
+Superposition of continuous waves
+If, rather than a single point along the path of the waves, we consider waves superposing over an
+extended space, the outcome is a continuous wave that is the sum of the displacements over time
+in each location. If the two waves are in phase, their effect will be to produce a larger-amplitude
+resultant wave. This is known as constructive interference. If identical waves meet and are exactly
+out of phase - if their phase difference is 180° or a radians - then the resultant is a zero-amplitude
+wave. This idea of complete destructive interference can be confusing: imagine shining two
+beams of light to the same place, and at that point you see blackness. In the right circumstances, as
+explained in Section 5.2.4, this is exactly what happens.
+It is important to know the phase difference between two waves, in order to determine what will
+happen as a result of their superposition. Waves that constructively interfere, as with the top pair in
+fig F. must be in phase, which means they have a phase difference of zero. As phase repeats every
+complete cycle, this could also be said to be a phase difference of 360° or 27 radians.
+m
+.
+fig F Constructive and destructive
+interference.
+Questions
+What is the difference between a ray and a wavefront?
+2 What is the phase difference between waves that completely destructively interfere?
+Imagine waves on the surface of the sea. What are the phase differences between:
+(a) two wave crests
+(b) a crest and the next trough
+(c) a trough and the crest three waves in front?
+On graph paper, draw three diagrams of the wave pulses shown in fig G, at time = 1.0 s, 2.0s and 3.0 s if fig G is
+at time = 0. Superpose the wave pulses as necessary to draw the correct overall displacements of the string.
+-4.0 cm
+3.0 cm
+v = 2.0 cms-1
+7.0 cm
+4.0 cm
+v = 2.0 cms-1
++
+4.0 cm
+fig G Two wave pulses moving along a string.
+Key definitions
+Wavefronts are lines connecting points on the wave that are at exactly the same phase position.
+Constructive interference is the superposition effect of two waves that are in phase, producing a larger
+amplitude resultant wave.
+Destructive interference is the superposition effect of two waves that are out of phase, producing a
+smaller amplitude resultant wave.
+156
+TOPIC 5
+Waves and the particle nature of light
+CHAPTER
+5.2
+The behaviour of
+waves
+Introduction
+Some of the most intriguing and beautiful phenomena are the product of two or more waves combining
+their effects together. It is perhaps surprising that waves can pass through each other, creating some
+spectacular effects, and then continue on their way as if they had never met.
+We will look at the ways in which different waves will combine together, along with the reasons why they
+might not, and learn how to predict and measure the outcomes of these combinations. The production of
+stationary wave patterns can be counter-intuitive, but it is the fundamental basis for the functioning of
+musical instruments. The variety and beauty of musical instruments, along with the variation in the sounds
+they produce, is all a product of their need to generate a stationary wave by combining multiple wave
+movements together.
+WP
+Diffraction and interference can be explained with some relatively simple mathematical ideas.
+When these relationships are repeated over and over again, in different places, it can lead not only
+to striking sights such as the rainbow reflected from an oily puddle, but also to the limits of
+scientific knowledge, such as the discovery that the Universe is expanding.
+All the maths you need
+Units of measurement (e.g. the radian, rad)
+Translating information between graphical, numerical and algebraic forms (e.g. superposing wave
+displacements to discover a standing wave)
+Understanding the relationship between degrees and radians and translating from one to the other
+(e.g. comparing the phase relationship between waves)
+Plotting two variables from experimental data, and understanding that y = mx + C represents a linear
+relationship (e.g. using a graph of experimental results to verify the standing wave properties in a string
+under tension)
+• Solving algebraic equations (e.g. comparing the positions of interference maxima and minima)
+Substituting numerical values into algebraic equations (e.g. finding the speed of waves in a string under
+tension)
+152
+BIGGER
+THE MARIMBA
+WP
+The marimba is a percussion instrument like a xylophone. Its wooden bars vibrate with frequencies
+related to their sizes, as a standing wave is set up in the wood when it is struck with a mallet.
+In this activity, we will look at some of the detail about tuning the marimba bars.
+THE MARIMBA BAR
+to sound at different frequencies. Sensitivity in the bass region is much
+less than in the range around 1000 to 4000 Hz. In order to partially
+overcome this problem, the bass bars are designed with wider width
+so that they generate sound at a higher energy level.
+The marimba bar vibrates in complex patterns that produce a
+sound uniquely characteristic to the instrument. An understanding
+of the sound quality (timbre) is gained by study of the vibrations.
+Each type of vibration is called a mode of vibration. In a scientific
+study of a C3 (C below middle C) marimba bar, Bork et al. (1999)
+identified 25 modes of vibration in the range of 0 to 8000 Hz.
+third torsional mode
+fig C C-note Marimba bars from five octaves.
+fig A When the bar vibrates, the salt sprinkled all over it moves away from
+antinodes, leaving a pattern which identifies how the wood is vibrating.
+In this example, the bar is vibrating in a torsional mode, as well as the
+standard transverse vibration.
+The graph below depicts the threshold of human hearing at different
+frequencies. Note that the human ear is most sensitive to frequencies
+in the range of 1000 to 4000 Hz. The energy level of the sound is
+graphed in decibels (dB), which is logarithmic. An increase of 10 dB
+represents a 10-fold increase in sound energy and an increase of
+20 dB represents a 100-fold increase in sound energy.
+Drilling the Holes for the Bar - Finding the Nodes of the
+Fundamental Mode
+Sprinkle some salt on the bar and then tap very lightly with
+a mallet at the centre of the bar. Keep tapping until the salt
+accumulates over each node as illustrated below.
+w
+Www
+wwwww
+Sound pressure level (dB)
+fig B Finding the nodes on a marimba bar, for the positions of mounting screws.
+Human Hearing at Different Frequencies and the Graduation
+of Bar Width
+You will note that marimba bars are graduated in width, growing
+wider with lower notes. One of the challenges in designing an
+instrument which sounds in the bass region is to provide tones that can
+be easily heard. The human ear has a remarkable range of sensitivity
+2015, c, C C C C C C C C
+15.6 31.2 62.5 125 250 500 1000 2000 4000 8000 16000
+Frequency (Hz)
+fig D As the frequency of sound decreases, it must be played louder for us to
+hear it.
+Where else will I encounter these themes?
+1.1
+2.1
+2.2
+2.3
+3.1
+3.2
+166
+The behaviour of waves
+5.2
+Alternatively, imagine the blue line distance to X is 97 wavelengths but the red line distance is 98.5
+wavelengths. The path difference is 1.5 wavelengths. In this case, the waves will always be 37 radians
+out of phase - always in antiphase - and so will always cancel. This would look like a standing wave
+node, and if it were the laser light two-slit experiment, there would be a dark spot at point X.
+Note that these wavelength numbers are examples only. As light waves are so short, the numbers
+should be millions of wavelengths for standard laboratory distances for X.
+destructive
+interference
+constructive
+interference
+Am
+fig F All points that are exactly in phase, where the path difference is a whole number of wavelengths, nx, will produce
+w (2n+1)
+constructive interference. Any points where the path difference is given by will cause destructive interference.
+The connection between the phase difference and the path difference comes if we remember that
+each complete cycle (or wavelength) corresponds to 27 radians in phase. Waves from one slit
+meeting waves from the other slit at a point will each have had to travel to that point, cycling through
+wavelengths as they go. Thus, by comparing the path difference, this can be converted into phase
+differences.
+Points where the path difference is equal to ni exactly will have a phase difference of 2nt exactly
+and will be in phase, producing constructive interference.
+(2n + 1)
+Points where the path difference is equal to
+exactly, will have a phase difference of
+(2n + 1) T exactly and will be in antiphase, producing destructive interference.
+Questions
+What are coherent waves?
+In a laser light two-slit interference experiment, a bright fringe was observed at a point on the screen
+exactly halfway between the two slits. A dark fringe was observed on either side of this, and then another
+bright fringe on either side.
+(a) What is the phase difference between the waves arriving from each slit at the central maximum?
+(b) What is the path difference, and the phase difference, between waves arriving from each slit to the
+first minimum on the left of the central maximum?
+(c) What is the path difference, and the phase difference, between the waves arriving from each slit at the
+first maximum to the left of the central maximum?
+(d) Describe what difference would be observed in the fringe pattern if the screen were moved further
+away from the two slits.
+Key definitions
+Interference is the superposition outcome of a combination of waves. An interference pattern will
+only be observed under certain conditions, such as the waves being coherent.
+Coherent waves must have
+• the same frequency
+• a constant phase relationship.
+165
+Thinking Bigger
+5.2
+Let us start by considering the nature of the writing in the webpage.
+1. The extract opposite is from a webpage explaining the complex physics of the vibrations
+and sounds produced by a marimba. This is a hobby interest of the author who is a
+scientist in a teaching university (as opposed to a research-based university). Consider
+the extract and comment on the type of writing that is used. Try and answer the
+following questions:
+a. Discuss the level of the science presented in the extract. Who might gain some
+useful insight from reading this webpage?
+b. Comment on the fact that this webpage runs to several thousand words, has many
+images and diagrams relating to the science of stationary waves, but there is no picture
+of a complete Marimba instrument on it.
+c. What is meant by the phrase 'Bork et al. (1999)?
+On this page we only
+have an extract: you may
+find it helpful to visit the
+webpage and see all the
+different sections that it
+covers in their entirety.
+Now we will look at the physics in detail. Some of these questions will link to topics earlier in
+this book, so you may need to combine concepts from different areas of physics to work out the
+answers. Use the timeline at the bottom of the page to help you put this work in context with what
+you have already learned in your course.
+2. Explain why the salt collects in the two places shown in fig B. Why would these be the
+best points to place the mounting screws for the bar?
+3. What is the connection between frequency of the C-notes and the octave they are in?
+4. Looking at fig C, estimate the ratios of the surface area of the bars. Compare these
+answers with the decibel values for each needed to hear each note on the graph in fig D.
+Why might these be linked?
+108503706708800
+Activity
+Write a report to a school Design and Technology department which explains how they could make
+marimba bars in lessons. Include some of the physics behind what will alter their sound properties, and
+include outline plans for manufacture by school students. Also include instructions for experimentally
+testing the frequency of each bar produced. Your report should be written for the teacher in charge of the
+subject, whilst their lessons will be for GCSE students.
+Think about how the
+vibrations of the bar will
+generate sound waves.
+By Jeffrey La Favre, from the article Tuning the Marimba Bar and Resonator on his website,
+http://lafavre.us/tuning-marimba.htm. Copyright Jeffrey La Favre, used with his permission.
+4.1
+4.2
+5.1
+52 YOU ARE 53
+5.2 HERE
+5.4
+167
+What have I studied before?
+• Definitions of the properties of waves, such as
+frequency, amplitude, wavelength and speed
+The definition of wave phase, and its relationship
+to frequency and time period
+The difference between, and examples of,
+transverse and longitudinal waves
+The transmission of waves, and graphical
+representations of them
+Calculations of wave properties
+What will I study later?
+Effects on the properties and movement of a
+wave due to changes in its medium
+Interference and diffraction of fast-moving
+particles such as electrons
+The use of diffraction in studying the spectra of
+stars (A level)
+The connections between waves and simple
+harmonic motion (A level)
+What will I study in this chapter?
+How waves can combine when they meet
+The development of standing waves, and what
+affects their properties
+Diffraction and interference
+Applications of standing wave patterns, such as
+the interference or diffraction of light, and the
+development of musical instruments
+-153
+52
+Wave phase and superposition
+By the end of this section, you should be able to...
+understand what is meant by the terms wavefront, superposition and phase
+explain examples of wave superposition
+Phase
+All points in a wave will be at some position through their cycle of oscillation. Some of these
+positions in the cycle have their own names, such as peak (or crest), trough, compression or
+rarefaction. The remaining points through a cycle are important, but there are too many to give
+them all names. We describe any position through a cycle by a number, referred to as the phase.
+A complete cycle is considered to be equivalent to rotating through a complete circle, so the phase
+position will be an angle measurement, where a complete cycle is equivalent to 360°.
+phase angle
+-
+-
+-
+-
+-
+-
+-
+-
+AN
+-
+-
+-
+-
+phase angle
+-
+-
+-
+0
+1800A
+360°
+L
+90°
+180°
+270°
+310° /360°
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+310°
+270°
+-
+-
+-
+-
+-
+-
+-
+fig A Wave phase represents the position through a complete cycle, measured in angle units.
+It is quite common to measure phase in the alternative angle units of radians, where one complete
+cycle is 2 trad. Table A shows common phase positions in the two equivalent angle units, along with
+the fraction of a complete wavelength that they represent. As waves are, by definition, a repetitive
+cyclic process, phases of more than 360° could be reduced to their equivalent value within a first
+cycle. For example, the wave peak after 1.25 cycles has exactly the same phase as the wave peak in
+the first cycle, so its phase could be quoted as either 450° or 90°
+Start
+Wave cycle
+position
+Start
+of a
+of a
+of a
+cycle
+A whole
+cycle
+1.5
+cycles
+2 complete
+cycles
+cycle
+cycle
+Phase/
+90
+180
+270
+360
+5 40
+720
+Phase/rad
+27
+3TT
+4T
+Number of
+wavelengths
+0
+31
+1.5A
+table A Phase angles in degrees and radians, and also compared to wavelengths.
+154
+5.2 Exam-style questions
+1 What is the wavelength of the fundamental standing wave on a
+guitar string that is 74 cm long?
+(a) A = 0.37m
+(b) A = 0.74 m
+(c) A = 1.48 m
+(d) A = 2.96 m
+[1]
+[Total: 1]
+5 When oil floats on water, coloured interference patterns are
+often seen. The interference patterns are formed because of the
+thin film of oil. A thin film of oil can also produce interference
+patterns with monochromatic light. The diagram shows light
+from a monochromatic source, incident on a film of oil.
+Explain why interference patterns may be seen.
+WWWWW
+air
+1
+oil
+2 Which of the following is not caused by wave superposition:
+(a) The fundamental note produced on a guitar string.
+(b) Seismic P-waves cause surface damage before S-waves.
+(c) Occasionally a theatre seat can be in a 'dead zone' where
+little can be heard from the stage.
+(d) CDs can have a rainbow appearance.
+Dan.)
+water
+[1]
+[Total: 5]
+[Total: 1
+3 Which of these correctly represents the same phase position in
+different units?
+(a) 90' and Trad
+(b) 180º and Trad
+(c) 360° and
+(d) 180° and 27 rad
+[Total: 1]
+6 In a school experiment, a laser is shone at right angles onto a
+diffraction grating to produce a pattern of light and dark spots
+on a screen several metres away. The grating is marked
+*500 lines/mm'.
+(a) What is the distance between slits on the diffraction
+grating?
+[1]
+(b) If the first bright spot from the centre is found to be at an
+angle of 15° from the original direction of the laser beam,
+what is the wavelength of the light?
+[2]
+(c) The laser is changed for a different one which has a
+wavelength of 450 nm. How many orders of bright spot will
+be generated by the diffraction grating?
+[3]
+[Total: 6]
+[1]
+4 A sonic tape measure uses ultrasound to measure distances in
+buildings. It sends out pulses of ultrasound towards a distant
+wall and records the time interval between a pulse being sent
+and its return.
+sonic tape
+measure
+(a) For one particular measurement the time interval
+was 25 ms.
+Calculate the distance from the sonic tape measure
+to the wall.
+Speed of sound = 330 m s-1
+[3]
+(b) Why is the ultrasound transmitted in pulses?
+[Total: 4]
+[1]
+168
+Exam-style questions
+5.2
+7 (a) A transverse wave travelling along a wire under tension has
+a speed v given by
+v=vi
+8 (a) State what is meant by diffraction.
+(b) State the principle of superposition of waves.
+(c) The photograph shows a beach in England. Waves can be
+seen passing rocks on their way to the beach. The uneven
+surface of the sand has formed as a result of diffraction
+and superposition of these waves.
+where T'is the tension in the wire and u is the mass per
+unit length of the wire.
+Show that the units on both sides of the equation are the
+same.
+[3]
+(b) The diagram shows a wire held under tension by hanging
+weights at one end and supported by a vibration generator
+at the other end. The frequency of the vibration generator
+is slowly increased from zero until a standing wave is
+formed
+-2.0m-
+vibration
+generator
+weights
+(d) Use the ideas of diffraction and superposition to explain
+why the sand surface becomes uneven.
+[Total: 9)
+[5]
+(i) Explain how the standing wave is produced. [3]
+(ii) Calculate the wavelength of the standing wave. [1]
+(iii) The weight is 150 N and the mass per unit length of
+the wire is 0.0050 kg m-?.
+Using the equation given in (a), calculate the speed of
+the transverse wave along the wire.
+[2]
+(iv) The wire is observed as the frequency of the vibration
+generator is steadily increased to several times the
+frequency that produced the first standing wave.
+Describe and explain what is seen as the frequency is
+increased
+[Total: 13]
+169
+The behaviour of waves
+5.2
+WORKED EXAMPLE
+Questions
+How fast do waves travel in a string that is held under 75 N tension
+and has a mass per unit length of 5.0 x 10-4kg m-l? What would be
+its fundamental frequency if the string was 75.5 cm long?
+A guitar string of length 75 cm vibrates in its second harmonic.
+The speed of waves in the string is 420ms! What are the
+wavelength and frequency of this standing wave?
+75
+V
+=
+15 10-4
+V = 387 ms-1
+1T
+2 (a) How fast do waves travel in a string that is held under 90 N
+tension and has a mass per unit length of 4.8 x 10-4 kg m-"?
+(b) What would be the waves' fundamental frequency if the string
+was 74.0 cm long?
+fo= L V
+f
+1
+75
+fo = 2 x 0.755 15 x 10-4
+fo= 256 Hz
+WP
+Investigation
+Investigating the factors affecting the fundamental frequency
+of a string
+We can verify the equation for experimentally. In order to
+confirm it, we need to undertake three separate investigations to
+verify each part of the relationship, whilst maintaining the other
+variables as control variables. Thus we need to verify: fo fo VT;
+and fova
+A sonometer experiment produced the following data (table A).
+Draw a suitable graph to find out what the mass per unit length of
+the vibrating string was.
+Length/m
+Frequency/Hz
+0.60
+190
+0.65
+180
+0.70
+165
+0.75
+150
+0.80
+140
+0.85
+135
+0.90
+| 130
+0.95
+| 120
+1.00
+Tee
+115
+String
+table A Data from a sonometer experiment.
+The hanging mass used was 2.4 kg : T = 23.5 N.
+4 Estimate the mass per unit length of piano wire.
+-hanging masses
+fig D Sonometer experiments to verify the factors affecting the fundamental
+frequency of a stretched string.
+We can use a microphone connected to an oscilloscope to monitor the
+sounds produced by a sonometer string and to measure its frequency
+of vibration. This can be easier if a datalogging computer is used instead
+of an oscilloscope, so the screen can be frozen for close scrutiny.
+1 The string supports (called bridges) on a sonometer are
+moveable, so that we can find the frequency with varying lengths,
+L, whilst the same string (constant p) and the same hanging mass
+(constant T) keep the other variables controlled. We can plot a
+graph to verify fo on the y-axis is proportional to 1/L on the x-axis.
+2 We can find the fundamental frequency using a fixed length of
+the same string throughout (constant Land constant u) for
+varying masses hung over the pulley, i.e. varying T. We can plot a
+graph to verify fo on the y-axis is proportional to VT on the x-axis.
+3 The final experiment requires a set of different strings (varying
+diameter metal wires could be used). Maintaining the same
+length and the same hanging mass (constant Land T) keeps the
+other variables controlled. Measure the mass of each wire using a
+digital balance, and its full length, in order to calculate the mass
+per unit length for each wire or string used. We can plot a graph
+to verify fo on the y-axis is proportional to on the x-axis.
+Key definitions
+A stationary or standing wave consists of oscillations in a fixed
+space, with regions of significant oscillation and regions with zero
+oscillation, which remain in the same locations at all times.
+Waves are said to be coherent if they have the same frequency and
+have a constant phase relationship. Coherent waves are needed to
+form a stable standing wave.
+A progressive wave is a means for transferring energy via
+oscillations.
+Nodes are regions on a stationary wave where the amplitude of
+oscillation is zero.
+Antinodes are regions on a stationary wave where the amplitude of
+oscillation is at its maximum.
+A sonometer is an apparatus for experimenting with the frequency
+relationships of a string under tension, usually consisting of a
+horizontal wooden sounding box and a metal wire stretched along
+the top of the box.
+159
+5.
+23
+Diffraction
+By the end of this section, you should be able to...
+understand what is meant by the term diffraction
+understand the factors that affect the amount of diffraction
+describe an experiment to observe diffraction effects
+fig C Water waves in a ripple tank diffract obviously when passed through a gap.
+Factors affecting diffraction
+The amount of diffraction around an obstacle depends on the
+size comparison between the obstacle and the wavelength of
+the wave. As the resulting diffraction through a gap is caused
+by the diffraction at each end of the gap, there is an optimum
+size for maximum diffraction, or spreading, through the gap.
+Diffraction happens most when the gap size is the same size as
+the wavelength.
+fig A Diffraction is a spreading of wave energy through a gap or around an
+obstacle.
+Diffraction
+When a wave passes the edge of an obstacle, the wave energy
+spreads into the space behind the obstacle. If the obstacle is
+relatively small, this can mean that the wave energy will pass around
+both sides of it and continue travelling past the obstacle, with no
+shadow, as if the obstacle were not there, as shown in fig B.
+direction of
+wave travel
+fig D The amount of diffraction depends on the size of the gap relative to the
+wavelength.
+If the gap is too small, very little wave energy can pass through.
+If the gap is very large, there is little effect as the majority of the
+wave passes through undisturbed. However, when the wavelength
+matches the gap size, the wave energy is spread very effectively
+through the gap to fill the space behind, as shown in fig D. This
+is why we can hear around corners, but not see around them.
+The typical wavelength for an audible sound ranges from tens
+of centimetres to a couple of metres, depending on the exact
+frequency. These are the same sort of size as potential diffracting
+obstacles. For example, a doorway might be a metre wide, and a
+sound of this wavelength would have a frequency around 330 Hz,
+which is a typical speech frequency for humans. This means that
+a conversation in a room could be heard in the corridor outside
+the door, as the waves diffract from their original direction through
+the doorway to be heard out of line of sight. However, with typical
+visible frequencies of light being of the order of 10-metres, these
+will not diffract perceptibly through the doorway. So light from the
+speakers will only be visible in direct line of sight through the gap.
+www
+rock
+fig B Wave energy spreads behind an obstacle.
+If the obstacle is larger, then there may be a shadow region behind
+it, but there will still be diffraction around each edge. If there are
+two close obstacles forming a gap, then there will be diffraction
+from each edge of the gap, causing the waves to spread out
+through the gap. Also see Section 5.4.1 for an explanation of why
+diffraction occurs.
+160
+Diffraction patterns
+The diffraction pattern observed when light passes through a
+narrow slit, such as in fig E, shows a central maximum and then
+areas of darkness and further maxima of decreasing intensity. It
+can be confusing to see the areas where there is no light at all,
+when the diffraction through a gap suggests that the wave energy
+spreads out behind the gap. You might expect to see the screen
+behind the slit illuminated everywhere. We will look more carefully

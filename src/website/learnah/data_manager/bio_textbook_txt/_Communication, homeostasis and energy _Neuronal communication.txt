@@ -1,0 +1,2687 @@
+13
+13.5 Synapses
+Study tip
+There are many different
+neurotransmitters such as
+dopamine, serotonin, and
+adrenaline. The one you have to
+concentrate on is acetylcholine
+and its role in a cholinergic
+synapse.
+Transmission of impulses across synapses
+Synaptic transmission occurs as a result of the following:
+. The action potential reaches the end of the presynaptic neurone
+Depolarisation of the presynaptic membrane causes calcium ion
+channels to open
+Calcium ions diffuse into the presynaptic knob
+This causes synaptic vesicles containing neurotransmitters to fuse
+with the presynaptic membrane. Neurotransmitter is released into
+the synaptic cleft by exocytosis
+Neurotransmitter diffuses across the synaptic cleft and binds with
+its specific receptor molecule on the postsynaptic membrane
+This causes sodium ion channels to open
+Sodium ions diffuse into the postsynaptic neurone
+This triggers an action potential and the impulse is propagated
+along the postsynaptic neurone.
+Once a neurotransmitter has triggered an action potential in the
+postsynaptic neurone, it is important that it is removed so the
+stimulus is not maintained, and so another stimulus can arrive at
+and affect the synapse. Any neurotransmitter left in the synaptic
+cleft is removed. Acetycholine is broken down by enzymes,
+which also releases them from the receptors on the postsynaptic
+membrane. The products are taken back into the presynaptic knob.
+Removing the neurotransmitter from the synaptic cleft prevents the
+response from happening again and allows the neurotransmitter to
+be recycled.
+Transmission across cholinergic synapses
+Cholinergic synapses use the neurotransmitter acetylcholine. They
+are common in the CNS of vertebrates and at neuromuscular
+junctions - where a motor neurone and a muscle cell (an effector)
+meet. If the neurotransmitter reaches the receptors on a muscle
+cell, it will cause the muscle to contract. Acetylcholine is released
+from the vesicles in the presynaptic knob (Figure 2). It then diffuses
+across the synaptic cleft where it binds with specific receptors in
+the postsynaptic membrane. This triggers an action potential in the
+postsynaptic neurone or muscle cell. Once an action potential has
+been triggered, acetylcholine is hydrolysed by a specific enzyme -
+acetylcholinesterase. This enzyme is also situated on the postsynaptic
+membrane. Acetylcholine is hydrolysed to give choline and ethanoic
+acid. One molecule of acetylcholinesterase can break down around
+25000 molecules of acetylcholine per minute. The breakdown
+products are taken back into the presynaptic knob to be reformed
+into acetylcholine, and the postsynaptic membrane is ready to receive
+another impulse.
+356
+NEURONAL COMMUNICATION
+13.1 Coordination
+Specification reference: 5.1.1
+When changes occur in an organism's internal or external
+environment, the organism must respond to these changes in order to
+survive. Examples of these changes are shown in Table 1.
+Table 1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the need for communication
+systems in multicellular
+organisms
+the communication between
+cells by cell signalling.
+Internal environment
+External environment
+blood glucose concentration
+internal temperature
+water potential
+cell pH
+humidity
+external temperature
+light intensity
+new or sudden sound
+Animals and plants respond to these changes in a variety of ways.
+Animals react through electrical responses (via neurones), and
+through chemical responses (via hormones). Plant responses are based
+on a number of chemical communication systems including plant
+hormones. These communication systems must be coordinated to
+produce the required response in an organism.
+A Figure 1 Complex coordination
+systems are needed to enable your body
+to cope with the sort of changes you
+encounter when moving from a warm, lit
+house to a dark, frosty outside world
+Synoptic link
+You will find out about the nervous
+system throughout Chapter 13,
+Neuronal communication, the
+hormonal system in Chapter 14,
+Hormonal communication, and
+coordination in plants in Chapter 16,
+Plant responses
+Why coordination is needed
+As species have evolved, cells within organisms have become
+specialised to perform specific functions. As a result organisms need
+to coordinate the function of different cells and systems to operate
+effectively. Few body systems can work in isolation (apart from a few
+exceptions, for example, a heart can continue to beat if placed in the
+right bathing solution). For example, red blood cells transport oxygen
+effectively, but have no nucleus. This means that these cells are not
+able to replicate - a constant supply of red blood cells to the body is
+maintained by haematopoietic stem cells. In order to contract, muscle
+cells must constantly respire, and thus require a consistent oxygen
+supply. As these cells cannot transport oxygen, they are dependent
+on red blood cells for this function. In plants flowering needs to
+coordinate with the seasons, and pollinators must coordinate with the
+plants. In temperate climates light-sensitive chemicals enable plants to
+coordinate the development of flower buds with the lengthening days
+that signal the approach of spring and summer.
+Figure 2 Everything from the fresh spring
+leaves to the reproductive behaviour of these
+birds and of the insects with which they feed
+their young is controlled by chemicals and/or
+nervous coordination
+342
+13
+13.9 Voluntary and involuntary muscles
+Figure 1 Skeletal muscle, x2
+magnification
+A Figure 2 Cardiac muscle, approx 300
+magnification
+Figure 3 Involuntary muscle,
+approx x157 magnification
+Structure of skeletal muscle
+Muscle fibres
+Skeletal muscles are made up of bundles of muscle fibres. These are
+enclosed within a plasma membrane known as the sarcolemma.
+sarcolemma
+-nucleus
+The muscle fibres contain a number of nuclei
+and are much longer than normal cells,
+as they are formed as a result of many
+individual embryonic muscle cells fusing
+together. This makes the muscle stronger, as
+the junction between adjacent cells would act
+as a point of weakness. The shared cytoplasm
+within a muscle fibre is known as sarcoplasm.
+- myofibril
+sarcoplasmic
+reticulum
+Parts of the sarcolemma fold inwards
+(known as transverse or T tubules) to help
+spread electrical impulses throughout the
+sarcoplasm. This ensures that the whole of
+the fibre receives the impulse to contract at
+the same time.
+A Figure 4 Structure of a muscle fibre, approx x10 000 magnification Muscle fibres have lots of mitochondria to
+provide the ATP that is needed for muscle
+Study tip
+contraction. They also have a modified version of the endoplasmic
+reticulum, known as the sarcoplasmic reticulum. This extends
+When thinking about the structure
+throughout the muscle fibre and contains calcium ions required for
+of muscles think of a rope. A
+muscle contraction.
+rope is made up of lots of strings
+(muscle fibres), which themselves Myofibrils
+are made up of lots of threads
+Each muscle fibre contains many myofibrils. These are long
+(myofibrils), acting together to
+cylindrical organelles made of protein and specialised for contraction.
+give it its strength.
+On their own they provide almost no force but collectively they are
+very powerful. Myofibrils are lined up in parallel to provide maximum
+force when they all contract together. Myofibrils are made up of two
+types of protein filament:
+Actin - the thinner filament. It consists of two strands twisted
+around each other.
+Myosin – the thicker filament. It consists of long rod-shaped fibres
+with bulbous heads that project to one side.
+370
+13.9 Voluntary and involuntary
+muscles
+Specification reference: 5.1.5
+There are around 650 muscles in the body, making up roughly half
+of the body's weight. The contraction of many muscle cells causes the
+body to move (Topic 13.10, Sliding filament theory). However, there
+are many muscle cells in the body whose contractions you are largely
+unaware of.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the structure of mammalian
+muscle and the mechanism
+of muscular contraction
+the examination of stained
+sections or photomicrographs
+of skeletal muscle.
+Types of muscle
+There are three types of muscle in the body:
+Skeletal muscle - skeletal muscles make up the bulk of body
+muscle tissue. These are the cells responsible for movement, for
+example, the biceps and triceps.
+Cardiac muscle - cardiac muscle cells are found only in the heart.
+These cells are myogenic, meaning they contract without the need
+for a nervous stimulus, causing the heart to beat in a regular rhythm.
+Involuntary muscle (also known as smooth muscle) - involuntary
+muscle cells are found in many parts of the body - for example, in
+the walls of hollow organs such as the stomach and bladder. They
+are also found in the walls of the blood vessels and the digestive
+tract, where through peristalsis they move food along the gut.
+Table 1 Important differences in the structure and function of the different types of muscle
+Type of muscle
+Skeletal
+Cardiac
+Involuntary
+Fibre appearance striated
+specialised striated
+non-striated
+Control
+conscious (voluntary) involuntary
+involuntary
+regularly arranged so muscle cells branch and interconnect no regular arrangement - different
+Arrangement
+contracts in one direction resulting in simultaneous contraction cells can contract in different directions
+Contraction speed rapid
+intermediate
+slow
+Length of
+can remain contracted for a
+short
+intermediate
+contraction
+relatively long time
+Structure
+Muscles showing cross
+striations are known as striated
+or striped muscles. Fibres are
+tubular and multinucleated.
+Cardiac muscle does show striations
+but they are much fainter than
+those in skeletal muscle. Fibres are
+branched and uninucleated.
+Muscles showing no cross striations
+are called non-striated or unstriped
+muscles. Fibres are spindle shaped
+land uninucleated.
+369
+13.5 Synapses
+Specification reference: 5.1.3
+In Topic 13.4, Nervous transmission, you learnt about how impulses
+travel along each neurone in the form of an action potential. However,
+to reach the CNS or an effector, the impulse often needs to be passed
+between several neurones. The junction between two neurones (or a
+neurone and effector) is called a synapse. Impulses are transmitted
+across the synapse using chemicals called neurotransmitters.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the structure and
+roles of synapses in
+neurotransmission.
+Synapse structure
+All synapses have a number of key features:
+Lo Ca2+
+Synaptic cleft – the gap which separates
+– myelin sheath
+the axon of one neurone from the dendrite
+axon of presynaptic
+of the next neurone. It is approximately
+neurone
+20-30 nm across.
+Presynaptic neurone - neurone along which
+membrane of
+presynaptic neurone
+the impulse has arrived.
+mitochondrion
+smooth endoplasmic
+Postsynaptic neurone - neurone that
+reticulum
+receives the neurotransmitter
+synaptic
+vesicle
+Synaptic knob - the swollen end of the
+containing
+presynaptic neurone. It contains many acetylcholine
+calcium ion
+mitochondria and large amounts of
+Ca2+
+channel
+endoplasmic reticulum to enable it to
+manufacture neurotransmitters (in
+most cases).
+Synaptic vesicles - vesicles containing
+neurotransmitters. The vesicles fuse with
+membrane
+the presynaptic membrane and release their
+of postsynaptic
+contents into the synaptic cleft.
+acetylcholine
+neurone
+molecule
+sodium ion channels
+Neurotransmitter receptors - receptor
+synaptic cleft
+molecules which the neurotransmitter binds
+to in the postsynaptic membrane.
+acetylcholine
+empty receptor site
+molecule in
+Types of neurotransmitter
+receptor site
+one of five protein sub-units
+that make up the sodium ion
+Neurotransmitters can be grouped into
+channel
+two categories:
+1 Excitatory - these neurotransmitters result
+in the depolarisation of the postsynaptic
+A Figure 1 Structure of a synapse. This synapse is known as a cholinergic
+neurone. If the threshold is reached in the synapse as the neurotransmitter which passes across the synapse
+postsynaptic membrane an action potential
+is acetylcholine
+is triggered. Acetylcholine is an example of
+an excitatory neurotransmitter.
+2 Inhibitory – these neurotransmitters result in the hyperpolarisation
+of the postsynaptic membrane. This prevents an action potential
+being triggered. Gamma-aminobutyric acid (GABA) is an example
+of an inhibitory neurotransmitter that is found in some synapses
+in the brain.
+355
+Nata
+NEURONAL COMMUNICATION
+13
+Synoptic link
+You will find out about homeostasis
+in Chapter 15, Homeostasis.
+Homeostasis
+In many relatively large multicellular animals, different organs have
+different functions in the body. Therefore, the functions of organs
+must be coordinated in order to maintain a relatively constant internal
+environment. This is known as homeostasis. For example, the
+digestive organs such as the exocrine pancreas, duodenum,
+and ileum along with the endocrine pancreas and the
+liver work together to maintain a constant blood glucose
+concentration.
+brain
+diet
+glucose +
+liver
+intestine
+Cell signalling
+Nervous and hormonal systems coordinate the activities
+of whole organisms. This coordination relies on
+communication at a cellular level through cell signalling.
+This occurs through one cell releasing a chemical which
+has an effect on another cell, known as a target cell.
+Through this process, cells can:
+blood
+fat
+muscle
+insulin
+pancreas
+transfer signals locally, for example, between neurones
+at synapses. Here the signal used is a neurotransmitter.
+transfer signals across large distances, using hormones.
+For example, the cells of the pituitary gland secrete
+antidiuretic hormone (ADH), which acts on cells in the
+kidneys to maintain water balance in the body.
+A Figure 3 To maintain blood glucose concentration,
+the function of many organs must be coordinated
+Synoptic link
+You will find out more about
+cell signalling in Topic 14.5,
+Coordinated responses.
+Coordination in plants
+Plants do not have a nervous system like animals. However, to survive
+they still must respond to internal and external changes to their
+environment. For example, plant stems grow towards a light source
+to maximise their rate of photosynthesis. This is achieved through the
+use of plant hormones.
+Summary questions
+(2 marks)
+1 State one internal factor which causes a response in:
+a a plant
+b an animal
+2 Describe how cells are able to communicate with one another. (2 marks)
+Figure 4 When aphids attack certain
+types of wheat, the wheat plant cells
+produce chemicals both to alert other cells
+within the plant to the attack, and to signal
+to other aphids, putting them off landing
+on the plant and attacking it further
+3 Using examples, explain why coordination is required in a
+multicellular organism.
+(6 marks)
+Synoptic link
+You will find out more about plant
+hormones in Chapter 16, Plant
+responses.
+343
+NEURONAL COMMUNICATION
+13
+4
+1 The arrival of an action potential at the end of the presynaptic
+neurone causes calcium ion channels to open and calcium
+ions (Ca2+) enter the synaptic knob.
+The influx of sodium ions generates a new action
+potential in the postsynaptic neurone.
+presynaptic
+neurone
+action
+potential
+Ca2+
+Ca2+
+synaptic vesicle
+containing
+acetylcholine
+calcuim ion
+channel
+open
+New
+action
+potential
+postsynaptic
+neurone
+sodium ion
+channel
+closed
+2 The influx of calcium ions into the presynaptic neurone causes
+synaptic vesicles to fuse with the presynaptic membrane, so
+releasing acetylcholine into the synaptic cleft.
+Acetylcholinesterase hydrolyses acetylcholine into
+choline and ethanoic acid (acetyl), which diffuse back
+across the synaptic cleft into the presynaptic neurone
+(= recycling). In addition to recycling the choline and
+ethanoic acid, the breakdown of acetylcholine also
+prevents it from continuously generating a new action
+potential in the postsynaptic neurone.
+vesicle fuses
+with membrane
+acetylcholine
+released into
+the synaptic
+cleft
+acetylcholinesterase
+empty
+receptor
+site
+sodium ion
+channel
+closed
+sodium ion
+channel closed
+6
+3 Acetylcholine molecules fuse with receptor sites on the sodium
+ion channel in the membrane of the postsynaptic neurone.
+This causes the sodium ion channels to open, allowing sodium
+ions (Na+) to diffuse in rapidly along a concentration gradient.
+ATP released by mitochondria is used to recombine
+choline and ethanoic acid into acetycholine. This is stored
+in synaptic vesicles for future use. Sodium ion channels
+close in the absence of acetylcholine in the receptor sites.
+mitochondrion
+produces ATP
+two acetylcholine
+molecules fused
+to receptor sites
+ATP used in reactions
+recombining choline
+and ethanoic acid
+2015
+Na+ Nar
+sodium ion
+- Sodium ion
+channel
+channel
+open
+sodium ion channel closed
+open
+Sodium ions (Na+)
+A Figure 2 Mechanism of transmission across a cholinergic synapse - only essential structures are shown
+opene
+acetylcholine
+returns to
+synaptic vesicle
+sodium ion channel closed
+357
+13
+13.5 Synapses
+spatial summation
+presynaptic
+neurone A
+no action potential
+Role of synapses
+In simple models a neurone with a single synapse is shown.
+In the body, however, one neurone may make thousands of
+synapses using the dendron, dendrites, and axons. Synapses
+play an important role in the nervous system:
+•
+presynaptic
+neurone B
+no action potential
+They ensure impulses are unidirectional. As the
+neurotransmitter receptors are only present on the
+postsynaptic membrane, impulses can only travel from the
+presynaptic neurone to the postsynaptic neurone.
+They can allow an impulse from one neurone to be
+transmitted to a number of neurones at multiple synapses.
+This results in a single stimulus creating a number of
+simultaneous responses.
+Alternatively, a number of neurones may feed in to the
+same synapse with a single postsynaptic neurone. This
+results in stimuli from different receptors interacting to
+produce a single result.
+action potential
+A Figure 3 On their own, neurone A and neurone B
+do not produce enough neurotransmitter to trigger
+an action potential. However, together there is
+enough neurotransmitter to reach the threshold
+and trigger an action potential in the postsynaptic
+neurone
+Summation and control
+Each stimulus from a presynaptic neurone causes the release
+of the same amount of neurotransmitter into the synapse.
+In some synapses, however, the amount of neurotransmitter
+from a single impulse is not enough to trigger an action
+potential in the postsynaptic neurone, as the threshold level
+is not reached. However, if the amount of neurotransmitter
+builds up sufficiently to reach the threshold then this will
+trigger an action potential. This is known as summation.
+There are two ways this can occur:
+temporal summation
+low-frequency action potentials
+•
+no action
+potential
+Spatial summation - this occurs when a number of
+presynaptic neurones connect to one postsynaptic
+neurone. Each releases neurotransmitter which builds up
+to a high enough level in the synapse to trigger an action
+potential in the single postsynaptic neurone (Figure 3).
+Temporal summation - this occurs when a single presynaptic
+neurone releases neurotransmitter as a result of an action
+potential several times over a short period. This builds up
+in the synapse until the quantity is sufficient to trigger an
+action potential (Figure 4).
+high-frequency action potentials
+action
+potential
+presynaptic neurone
+postsynaptic neurone
+Figure 4 If neurotransmitter is released several
+times in quick succession from a presynaptic neurone,
+the level builds up in the synapse and triggers an action
+potential in the postsynaptic neurone
+neurotransmitter
+358
+13.2 Neurones
+Specification reference: 5.1.3
+The nervous system is responsible for detecting changes in the internal
+and external environment. These changes are known as a stimulus.
+This information then needs to be processed and an appropriate
+response triggered.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the structure and functions
+of sensory, relay, and motor
+neurones.
+Both the nervous system and hormonal system play a role in reacting
+to stimuli, but they do so in very different ways. In this chapter you
+will focus on neuronal communication. This is generally a much
+faster and more targeted response than that produced by hormonal
+communication.
+Synoptic link
+You will find out about hormonal
+communication in Chapter 14,
+Hormonal communication.
+Neurones
+You have already learnt that the nervous system is made up billions
+of specialised nerve cells called neurones. The role of neurones
+is to transmit electrical impulses rapidly around the body so that
+the organism can respond to changes in its internal and external
+environment. There are several different types of neurone found
+within a mammal. They work together to carry information detected
+by a sensory receptor to the effector, which in turn carries out the
+appropriate response.
+Structure of a neurone
+Mammalian neurones have several key features:
+Figure 1 Nerve fibres (axons). They
+are grouped together into bundles
+called nerves, which transmit electrical
+impulses to and from the central nervous
+system approx x800 magnification
+Cell body – this contains the nucleus surrounded by cytoplasm.
+Within the cytoplasm there are also large amounts of endoplasmic
+reticulum and mitochondria which are involved in the production
+of neurotransmitters. These are chemicals which are used to
+pass signals from one neurone to the next. You will find out more
+about the important role of neurotransmitters in the nervous
+system in Topic 13.5, Synapses.
+Dendrons - these are short extensions which come from the cell
+body. These extensions divide into smaller and smaller branches
+known as dendrites. They are responsible for transmitting electrical
+impulses towards the cell body.
+Axons - these are singular, elongated nerve fibres that transmit
+impulses away from the cell body. These fibres can be very long,
+for example, those that transmit impulses from the tips of toes
+and fingers to the spinal cord. The fibre is cylindrical in shape
+consisting of a very narrow region of cytoplasm (in most cases
+approximately lum) surrounded by a plasma membrane.
+344
+13
+13.3 Sensory receptors
+neurone
+ending
+layers of
+connective
+tissue with
+viscous gel
+between
+Figure 2 shows the structure of a Pacinian corpuscle. The end of
+the sensory neurone is found within the centre of the corpuscle,
+surrounded by layers of connective tissue. Each layer of tissue is
+separated by a layer of gel.
+capsule
+Within the membrane of the neurone there are sodium ion channels.
+These are responsible for transporting sodium ions across the
+membrane. The neurone ending in a Pacinian corpuscle has a special
+type of sodium channel called a stretch-mediated sodium channel.
+When these channels change shape, for example, when they stretch,
+their permeability to sodium also changes.
+blood
+capillary
+neurone
+A Figure 2 The structure of a Pacinian
+corpuscle
+You learnt about the structure of different neurones in Topic 13.2,
+Neurones and you will learn more about the transmission of nerve
+impulses in Topic 13.4, Nervous transmission.
+stretching opens sodium
+channels and creates a
+generator potential.
+this leads to an action
+potential in the neurone
+neurone
+membrane
+The following steps explain how a Pacinian corpuscle converts
+mechanical pressure into a nervous impulse:
+1 In its normal state (known as its resting state), the stretch-mediated
+sodium ion channels in the sensory neurone's membrane are too
+narrow to allow sodium ions to pass through them. The neurone of
+the Pacinian corpuscle has a resting potential.
++
++
+2
++
+When pressure is applied to the Pacinian corpuscle, the corpuscle
+changes shape. This causes the membrane surrounding its neurone
+to stretch
+pressure
+acts as the
+stimulus
++
++
+3 When the membrane stretches, the sodium ion channels present
+widen. Sodium ions can now diffuse into the neurone.
++
++
+4
+The influx of positive sodium ions changes the potential of the
+membrane - it becomes depolarised. This results in a generator
+potential.
+5
+In turn, the generator potential creates an action potential (a nerve
+impulse) that passes along the sensory neurone.
+The action potential will then be transmitted along neurones to
+the CNS.
+A Figure 3 A generator potential is
+created when mechanical pressure causes
+a Pacinian corpuscle to change shape
+Summary questions
+1 Describe the role of a sensory receptor in the body.
+(2 marks)
+(1 mark)
+2 State the transformation that takes place in a cone cell.
+3 Explain how your body detects that your finger has
+touched a pin.
+(6 marks)
+348
+13
+13.4 Nervous transmission
+The size of the stimulus, however, does affect the number of action
+potentials that are generated in a given time. The larger the stimulus
+the more frequently the action potentials are generated.
+The effect of the size of the stimulus on the frequency of nerve
+impulses can be seen in Figure 6.
+Measuring action potentials o
+The presence and frequency of action potentials can be recorded using an
+oscilloscope. The diagram below shows some sample data collected in this
+manner, showing two action potentials:
++60
+membrane potential/mV
+i
+į
+§
+4
+5
+6
+§
+§
+§
+10
+time/ms
+A Figure 7
+1 State what occurs in the neurone between 1 ms and 2 ms.
+2 State and explain how the membrane potential changes between
+5.5 ms and 7 ms.
+3 Using the data shown in the graph, calculate the frequency of action
+potentials.
+Summary questions
+1 State how the body detects the difference between a
+small and a large stimulus.
+2 State the difference between depolarisation,
+repolarisation, and hyperpolarisation. (2 marks)
+4 Describe how the movement of ions establishes the
+resting potential in an axon.
+(4 marks)
+5 Explain how temperature receptors in the hand
+generate an action potential in the sensory
+neurone to tell the body that you are touching
+a hot object
+(6 marks)
+3 Describe what would happen if a refractory period did
+not exist.
+(2 marks)
+354
+13
+NEURONAL COMMUNICATION
+Apart from myelination, two other factors affect the speed at which an
+action potential travels:
+Axon diameter - the bigger the axon diameter, the faster the impulse
+is transmitted. This is because there is less resistance to the flow of
+ions in the cytoplasm, compared with those in a smaller axon.
+Temperature - the higher the temperature, the faster the nerve
+impulse. This is because ions diffuse faster at higher temperatures.
+However, this generally only occurs up to about 40°C as higher
+temperatures cause the proteins (such as the sodium-potassium
+pump) to become denatured.
+All-or-nothing principle
+Nerve impulses are said to be all-or-nothing responses. A certain level of
+stimulus, the threshold value, always triggers a response. If this threshold is
+reached an action potential will always be created. No matter how large
+the stimulus is, the same sized action potential will always be triggered. If
+the threshold is not reached, no action potential will be triggered.
+1 very weak stimulus
+Threshold not exceeded No depolarisation No action potential
+2 weak stimulus
+Threshold exceeded
+Depolarisation
+Action potential
+potential difference/mV
+resting potential
+3 strong stimulus
+Threshold exceeded
+Depolarisation
+Action potentials the
+same size but more
+frequent
+potential difference/mv
+4 very strong stimulus
+Threshold exceeded
+Depolarisation
+Action potentials the
+same size but even
+more frequent
+potential difference/mV
+A Figure 6 Effect of stimulus intensity on impulse frequency
+353
+13.3 Sensory receptors
+Specification reference: 5.1.3
+The body is able to detect changes in its environment using groups of
+specialised cells known as sensory receptors. These are often located in
+the sense organs, such as the ear and eye.
+Sensory receptors convert the stimulus they detect into a nerve
+impulse. The information is then passed through the nervous system
+and on into the central nervous system (CNS) - normally to the
+brain. The brain coordinates the required response and sends an
+impulse to an effector (normally a muscle or gland) to result in the
+desired response.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the roles of mammalian
+sensory receptors in
+converting different types of
+stimuli into nerve impulses.
+............................
+Features of sensory receptors
+All sensory receptors have two main features:
+They are specific to a single type of stimulus.
+They act as a transducer - they convert a stimulus into a
+nerve impulse.
+There are four main types of sensory receptor present in an animal,
+shown in Table 1.
+Table 1
+Type of sensory
+receptor
+Stimulus
+Example of receptor
+Example of
+sense organ
+mechanoreceptor
+skin
+pressure and
+movement
+Pacinian corpuscle
+(detects pressure)
+Synoptic link
+Plants also respond to stimuli,
+but their receptor cells produce
+chemicals rather than nerve
+impulses. You will find out more
+about plant responses in
+Chapter 16, Plant responses.
+chemoreceptor
+chemicals
+nose
+olfactory receptor
+(detects smells)
+end-bulbs of Krause
+thermoreceptor
+heat
+tongue
+photoreceptors
+light
+cone cell
+(detects different
+light wavelengths)
+eye
+Role as a transducer
+Sensory receptors detect a range of different stimuli including light,
+heat, sound, or pressure. The receptor converts the stimulus into
+a nervous impulse, called a generator potential. For example, a rod
+cell (found in your eye) responds to light and produces a generator
+potential.
+Pacinian corpuscle
+Pacinian corpuscles are specific sensory receptors that detect mechanical
+pressure. They are located deep within your skin and are most abundant
+in the fingers and the soles of the feet. They are also found within joints,
+enabling you to know which joints are changing direction.
+Figure 1 A Pacinian corpuscle. These
+sensory receptors are found mostly in
+the skin of the feet, hands, genitals, and
+nipples. They respond to vibration and
+deep pressure
+347
+13
+NEURONAL COMMUNICATION
+To gain the signal trace, electromyography uses
+electrodes which detect the electrical currents created
+when muscles contract. Changes in this signal are used
+to identify fatigue, which may include:
+an increase in the mean amplitude of the signal
+a decrease in the frequency of the signal
+disruption to the overall pattern existing within
+the signal.
+force N
+Figure 8 At 2.5s the subject
+grasped a grip strength meter
+as hard as possible. Notice how
+the strength of the subject's
+grip peaked at 5.5s and
+then gradually declined until
+recording ended at 20s
+5
+15
+10
+time/s
+20
+sensor p.d./mV
+WONNEFOOOFENNW
+Gououououououou
+Till 1 1 1
+Figure 9 EMG sensor trace
+from a muscle undergoing
+fatigue. Notice that the
+electrical activity in the muscle
+increases over time while,
+as shown in Figure 8, the
+maximum force produced by a
+muscle decreases
+1
+5
+10 15 20 25 30 35 40 45 50 55 60 65 70 75
+time/s
+1 Plan an investigation into muscle fatigue, using an EMG to monitor the
+activity of the muscle.
+2 A 00 Suggest how the outcomes from the investigation could be
+used to identify when the muscle became fatigued.
+Summary questions
+1
+A State two differences in the appearance of a sarcomere in a relaxed
+and contracted muscle when observed through a microscope. (2 marks)
+2 Professional sprinters have high levels of creatine phosphate
+in their muscle cells. Describe why this is advantageous.
+(2 marks)
+3 After a person's death, their body can no longer produce ATP. This results
+in the stiffening of muscles (rigor mortis). Explain why a lack
+of ATP prevents muscles relaxing.
+(3 marks)
+4 Bepridil is a drug that can be used to treat angina, a form of heart
+disease. It works by partially blocking calcium ion channels. Explain
+the effect bepridil will have on heart muscle contraction. (4 marks)
+379
+13
+NEURONAL COMMUNICATION
+Na+ channel
+Propagation of action potentials
+A nerve impulse is an action potential that starts at one end of the neurone
+and is propagated along the axon to the other end of the neurone.
+K channel that can
+be opened and
+closed K+ channel that is
+permanently open
+The initial stimulus causes a change in the sensory receptor which
+triggers an action potential in the sensory receptor, so the first
+region of the axon membrane is depolarised. This acts as a stimulus
+for the depolarisation of the next region of the membrane. The
+process continues along the length of the axon forming a wave
+of depolarisation. Once sodium ions are inside the axon, they are
+attracted by the negative charge ahead and the concentration gradient
+to diffuse further along inside the axon, triggering the depolarisation
+of the next section.
+outside axon
+Nat
+Nat
++
++
++
++
+-
++
++
++
+inside axon
+ad
+polarised
+K+
+outside axon
+depolarised
+repolarised
++
++
++
+Na+
+1 At resting potential the concentration of
+sodium ions outside the axon membrane is
+high relative to the inside, whereas that of the
+potassium ions is high inside the membrane
+relative to the outside. The overall concentra-
+tion of positive ions is, however, greater on
+the outside, making this positive compared
+with the inside. The axon membrane is
+polarised.
+localised electrical
+Nat Nat
+Nat circuit
++
+3
+inside axon
++
+,
++1
++1
++
+-
++
+-
++
+stimulus
+2 A stimulus causes a sudden influx of sodium
+ions and hence a reversal of charge on the
+axon membrane. This is the action potential
+and the membrane is depolarised.
+outside axon
+1+
+1+
++
++
++
++
+1
+inside axon
+3 The localised electrical circuits established by
+the influx of sodium ions cause the opening of
+sodium voltage-gated channels a little further
+along the axon. The resulting influx of sodium
+ions in this region causes depolarisation.
+Behind this new region of depolarisation, the
+sodium voltage-gated channels close and the
+potassium ones open. Potassium ions begin
+to leave the axon along their electrochemical
+gradient.
++
++
+K+ outside axon
+K+
+Nat
+1
+inside axon
++
+I
+4 The action potential (depolarisation) is
+propagated in the same way further along the
+axon. The outward movement of the
+potassium ions has continued to the extent
+that the axon membrane behind the action
+potential has returned to its original charged
+state (positive outside, negative inside), that is,
+it has been repolarised.
+-
++
++
+outside axon
+Nat
+Na+
+5
++
++
+-
++
+i +
+5 Following repolarisation the axon membrane
+returns to its resting potential in readiness for
+a new stimulus if it comes.
+Nat
++
+inside axon
+.
++
+Na+
+A Figure 4 Changes in channel
+proteins in axon membrane during an
+action potential
+Figure 3 Propagation of an action potential along a non-myelinated neurone
+351
+13
+NEURONAL COMMUNICATION
+Types of neurone
+Neurones can be divided into three groups according to their function.
+As a result they have slightly different structures:
+Sensory neurones - these neurones transmit impulses from a sensory
+receptor cell to a relay neurone, motor neurone, or the brain. They
+have one dendron, which carries the impulse to the cell body, and
+one axon, which carries the impulse away from the cell body.
+Relay neurones – these neurones transmit impulses between
+neurones. For example, between sensory neurones and motor
+neurones. They have many short axons and dendrons.
+Motor neurones - these neurones transmit impulses from a relay
+neurone or sensory neurone to an effector, such as a muscle or a
+gland. They have one long axon and many short dendrites.
+In most nervous responses the electrical impulse follows the pathway:
+Receptor → sensory neurone → relay neurone → motor neurone → effector cell
+sensory neurone
+relay neurone
+dendron nucleus
+cell body
+,72 cell body
+-nucleus
+axon
+myelin
+sheath
+motor neurone
+node of
+Ranvier
+dendrites
+dendron
+dendrites
+nucleus
+T1
+cell body
+cell body
+direction of impulse
+(from dendrites to axon)
+axon
+A Figure 2 Types of neurone
+Myelinated neurones
+The axons of some neurones are covered in a myelin sheath, made
+of many layers of plasma membrane. Special cells, called Schwann
+cells, produce these layers of membrane by growing around the
+axon many times. Each time they grow around the axon, a double
+layer of phospholipid bilayer is laid down. When the Schwann cell
+stops growing there may be more than 20 layers of membrane. The
+myelin sheath acts as an insulating layer and allows these myelinated
+neurones to conduct the electrical impulse at a much faster speed
+than unmyelinated neurones. Myelinated neurones can transmit
+impulses at up to 100 metres per second. In comparison, non-
+myelinated neurones can only conduct impulses at approximately
+1 metre per second.
+Figure 3 Transverse section through
+an axon showing the myelin sheath
+created by the Schwann cell's membrane
+wrapping around the axon many times,
+approx 25000 magnification
+345
+13
+13.2 Neurones
+@
+axon terminal
+axon terminal
+nucleolus
+dendrites
+.
+cell body
+axon
+.
+Schwann cell
+nucleus
+$
+ao Do
+a
+• O POVO
+ao
+OD
+>>
+myelin sheath
+Summary questions
+node of
+Ranvier
+Schwann
+cell
+CO
+1 State the difference between
+the function of a motor and a
+sensory neurone. (1 mark)
+106
+axon
+myelin sheath
+2 Draw and annotate a diagram
+of a motor neurone. (4 marks)
+3 Describe the difference in
+structure between a myelinated
+and a non-myelinated neurone
+and how this affects the speed
+a nerve impulse is transmitted.
+(4 marks)
+Figure 4 Structure of a myelinated motor neurone
+Between each adjacent Schwann cell there is a small gap (2–3 pm)
+known as a node of Ranvier. This creates gaps in the myelin sheath. In
+humans these occur every 1-3 mm. The myelin sheath is an electrical
+insulator. In myelinated neurones, the electrical impulse 'jumps' from
+one node to the next as it travels along the neurone. This allows the
+impulse to be transmitted much faster. In non-myelinated neurones the
+impulse does not jump-it transmits continuously along the nerve fibre,
+so is much slower. You will find out more detail about the transmission
+of impulses along axons in Topic 13.4, Nervous transmission.
+Multiple sclerosis
+MS is known to be an autoimmune disease. This is where
+the immune system mistakenly attacks healthy body
+tissue. This results in a thinning or complete loss of the
+myelin sheath and, as the disease advances, results in the
+breakdown of the axons of neurones. It is not known what
+triggers this disorder but is thought to be a combination of
+genetic and environmental factors, such as a viral infection.
+Figure 5 Computer
+artwork comparing a
+healthy myelinated
+nerve fibre (bottom) with
+one from a person with
+multiple sclerosis (top)
+Multiple sclerosis (MS) is a neurological condition which
+affects around 100 000 people in the UK. Most people are
+diagnosed between the ages of 20 and 40.
+1 The population of the UK is around 65 000 000. Calculate
+the proportion of the population who suffer from MS.
+2 State what is meant by an autoimmune disease.
+3 Describe the role of myelin in the body.
+4 One of the symptoms of MS is the loss of vision,
+normally in only one eye. Suggest why a damaged
+myelin sheath could prevent a person from being
+able to see.
+MS affects nerves in the brain and spinal cord, causing a
+wide range of symptoms, including problems with muscle
+movement, balance, and vision.
+346
+13
+13.4 Nervous transmission
+Study tip
+The region of the membrane which has been depolarised as the action
+potential passed along now undergoes repolarisation to return to its
+resting potential.
+The action potential itself does
+not move along the axon. Like
+the Mexican wave, or a rumour,
+the action potential is not a
+physical entity, yet it moves. Each
+individual stays still, but every
+time a person raises their hand it
+stimulates the person next to them
+to do the same, producing a wave.
+After an action potential there is a short period of time when the axon
+cannot be excited again, this is known as the refractory period. During
+this time, the voltage-gated sodium ion channels remain closed,
+preventing the movement of sodium ions into the axon.
+A refractory period is important because it prevents the propagation
+of an action potential backwards along the axon as well as forwards.
+The refractory period makes sure action potentials are unidirectional.
+It also ensures that action potentials do not overlap and occur as
+discrete impulses.
+Saltatory conduction
+Myelinated axons transfer electrical impulses much faster than
+non-myelinated axons. This is because depolarisation of the axon
+membrane can only occur at the nodes of Ranvier where no myelin is
+present. Here the sodium ions can pass through the protein channels
+in the membrane. Longer localised circuits therefore arise between
+adjacent nodes. The action potential then jumps' from one node to
+another in a process known as saltatory conduction. This is much
+faster than a wave of depolarisation along the whole length of the
+axon membrane. Every time channels open and ions move it takes
+time, so reducing the number of places where this happens speeds up
+the action potential transmission. Long-term, saltatory conduction
+is also more energy efficient. Repolarisation uses ATP in the sodium
+pump, so by reducing the amount of repolarisation needed, saltatory
+conduction makes the conduction of impulses more efficient.
+-action potential
+resting potential
+localised circuit
+myelin sheath
+(prevents action
+potential)
+-axon
+node of Ranvier
+node of Ranvier
+direction of impulse
+A Figure 5 Saltatory conduction along a myelinated axon
+352
+13
+Chapter 13 Practice questions
+normal neurone
+Pasawa
+damaged neurone
+VVP
+&
+Practice questions
+1 Tension in muscles is created as the myosin
+filaments pull the actin filaments towards
+each other as cross bridges form between the
+filaments. The resting length of muscle fibres
+determines, along with the frequency of
+stimulation, the magnitude of this tension.
+Elastic proteins, such as titins, present in
+muscle resist the overstretching of muscle
+fibres.
+a (i) State the name of cross bridges that
+form between the filaments. (1 mark)
+(ii) State the term that describes the
+fact that both the frequency of
+stimulation and arrival of action
+potentials determine the size of the
+response.
+(1 mark)
+The diagram shows the changes in tension as
+a muscles contracts.
+bie
+tension (percent of maximum)
+normal
+range
+a (i) State the name of the specific part of
+the nervous system damaged in people
+with multiple sclerosis. (1 mark)
+(ii) Describe and explain how this
+damage would affect the functioning
+of the nervous system. (4 marks)
+Some of the symptoms of MS are described
+here:
+temporary loss of vision
+loss of balance and co-ordination
+incontinence / constipation
+temporary loss of sensation in limbs
+sensory impairment
+b Explain why people with MS may get
+these symptoms.
+(4 marks)
+An imbalance in the neurotransmitters in the
+brain, particularly a shortage of serotonin,
+is now considered to be one of the causes of
+depression.
+The diagram shows a synapse in the brain
+which uses serotonin as a neurotransmitter.
+GF
+3
+O lum 2um 3um 4um 5um
+sarcomere length
+b (i) Describe how muscle tension changes
+with changing sarcomere length.
+(4 marks)
+(ii) State the optimal resting length of a
+sarcomere.
+(2 marks)
+(iii) Explain, using the diagram, why
+muscle fibres have a small range of
+optimal resting lengths. (5 marks)
+2 Multiple sclerosis (MS) is a condition that
+affects the nervous system. The immune
+system of people with MS treats parts of the
+nervous system as foreign, and launches an
+immune response damaging neurons. An
+example of the damage caused is shown in
+the diagram.
+ww
+w
+380
+13
+NEURONAL COMMUNICATION
+Structure of actin
+Actin filaments have binding sites for myosin heads. These are called
+actin-myosin binding sites. However, these binding sites are often
+blocked by the presence of another protein called tropomyosin which
+is held in place by the protein troponin.
+When a muscle is in a resting state (relaxed) the actin-myosin sites are
+blocked by tropomyosin. The myosin heads can therefore not bind to
+the actin, and the filaments cannot slide past each other.
+actin filaments spiralled
+around one another
+DJ
+tropomyosin
+molecule
+When a muscle is stimulated to contract, the myosin heads form bonds
+with actin filaments known as actin-myosin cross-bridges. The myosin
+heads then flex (change angle) in unison, pulling the actin filament
+along the myosin filament. The myosin then detaches from the actin
+and its head returns to its original angle, using ATP. The myosin then
+reattaches further along the actin filament and the process occurs
+again. This is repeated up to 100 times per second.
+Figure 4 Actin structure
+Study tip
+How muscle contraction occurs
+Neuromuscular junction
+Muscle contraction is triggered when an action potential arrives at a
+neuromuscular junction - this is the point where a motor neurone
+and a skeletal muscle fibre meet (Topics 13.4, Nervous transmission
+and 13.5, Synapses). There are many neuromuscular junctions along
+the length of a muscle to ensure that all the muscle fibres contract
+simultaneously. If only one existed, the muscle fibres would not
+contract together therefore the contraction of the muscle would not
+be as powerful. It would also be much slower, as a wave of contraction
+would have to travel across the muscle to stimulate the individual
+fibres to contract.
+Try to visualise the sliding filament
+model as a rowing boat containing
+several rowers. When the oars
+(myosin heads) are dipped into the
+river (bind to actin filament), the
+cars change angle (myosin heads
+flex), then are removed (myosin
+heads detach). This is then repeated
+further along the river. The rowers
+work in unison, and so the boat and
+water move relative to one another.
+All the muscle fibres supplied by a single motor neurone are known as
+a motor unit – the fibres act as a single unit. If a strong force is needed,
+a large number of motor units are stimulated, whereas only a small
+number are stimulated if a small force is required.
+axon of motor neurone
+neurone mitochondria
+myelin sheath
+sarcolemma
+synaptic vesicle containing
+acetylcholine
+postsynaptic membrane
+endoplasmic reticulum
+sarcoplasm
+When an action potential reaches
+the neuromuscular junction, it
+stimulates calcium ion channels
+to open. Calcium ions then
+diffuse from the synapse into
+the synaptic knob, where they
+cause synaptic vesicles to fuse
+with the presynaptic membrane.
+Acetylcholine is released into the
+synaptic cleft by exocytosis and
+diffuses across the synapse. It binds
+to receptors on the postsynaptic
+membrane (the sarcolemma),
+opening sodium ion channels, and
+resulting in depolarisation.
+OO
+non
+mitochondrion H-zone
+of muscle
+Z-line
+of muscle
+light band dark band
+of myofibril of myofibril
+A Figure 5 Neuromuscular junction
+375
+13
+NEURONAL COMMUNICATION
+mammalian nervous system
+central nervous system (CNS)
+brain and spinal cord
+relay neurones
+peripheral nervous system (PNS)
+everything else
+sensory and motor neurones
+somatic nervous system
+conscious control
+input from sense organs
+output to skeletal muscles
+autonomic nervous system
+subconscious control
+input from internal receptors
+output to smooth muscles and glands
+sympathetic motor system
+"fight or flight responses
+neurotransmitter - noradrenaline
+A Figure 1 Summary of the organisation of the mammalian nervous system
+parasympathetic motor system
+relaxing responses
+neurotransmitter - acetylcholine
+Table 2 Comparison of autonomic and somatic motor systems, where ACh = acetylcholine and NA = noradrenaline
+Cell bodies in central
+nervous system
+Peripheral nervous system
+Neurotransmitter
+at effector
+Effector
+organs
+Effect
+single neuron from CNS to effector organs
+ACH
+somatic nervous system
+stimulatory
+heavily myelinated axon
+skeletal muscle
+neurons from CNS to effector organs
++
+-
+unmyelinated
+postganglionic axon
+sympathetic
+lightly myelinated
+preganglionic axons
+ganglion
+noradrenaline
+autonomic
+nervous
+system
+adrenal medulla
+blood vessel
+stimulatory
+or inhibitory,
+depending
+on neuro-
+transmitter
+and
+receptors
+on effector
+organs
+ACH
+parasym-
+pathetic
+smooth muscle
+(eg., in gut), glands,
+cardiac muscle
+lightly myelinated
+preganglionic axon
+ganglion
+unmyelinated
+postganglionic
+axon
+Summary questions
+1 State the difference between the peripheral and the
+central nervous system.
+(1 mark)
+3 State and explain one reason why many autonomic
+functions can be controlled.
+(3 marks)
+2 Sort the following activities into those which are
+controlled by the somatic nervous system and those
+which are controlled by the autonomic nervous system
+a pupil dilation b blood pressure
+c throwing a ball d blinking
+e walking.
+(2 marks)
+361
+13.4 Nervous transmission
+Specification reference: 5.1.3
+After the sensory receptor has detected a change in the environment,
+an impulse is sent along the neurone by temporarily changing the
+Learning outcomes
+voltage (potential difference) across the axon's membrane. As a result,
+Demonstrate knowledge,
+the axon membrane switches between two states - a resting potential
+understanding, and application of:
+and an action potential. You will find out how the impulse travels
+→ the generation and
+between neurones in Topic 13.5, Synapses.
+transmission of nerve
+impulses in mammals.
+Resting potential
+When a neurone is not transmitting an impulse, the potential
+difference across its membrane (difference in charge between the
+Synoptic link
+inside and outside of the axon) is known as a resting potential. In this
+state, the outside of the membrane is more positively charged than the
+Look back at Chapter 5, Plasma
+inside of the axon. The membrane is said to be polarised as there is a
+membranes to ensure you fully
+potential difference across it. It is normally about -70 mV.
+understand the structure of a
+plasma membrane and the role of
+The resting potential occurs as a result of the movement of sodium
+intrinsic proteins.
+and potassium ions across the axon membrane. The phospholipid
+bilayer prevents these ions from diffusing across the membrane and,
+therefore, they have to be transported via channel proteins. Some
+of these channels are gated - they must be opened to allow specific
+ions to pass through them. Other channels
+tissue fluid outside axon
+remain open all of the time allowing sodium and
+sodium ions actively
+potassium ions to simply diffuse through them.
+transported out of
+the axon
+plasma
+The following events result in the creation of a
+resting potential:
+O,
+O, membrane
+3Na+ @
+Sodium ions (Na+) are actively transported
+Nat-KW
+out of the axon whereas potassium ions (K™)
+M pump WA
+are actively transported into the axon by a
+specific intrinsic protein known as the sodium-
+ion channel potassium ions potassium ion channels open
+and so potassium ions diffuse
+closed
+actively
+potassium pump. However, their movement
+transported
+back out of the axon
+is not equal. For every three sodium ions
+into the axon
+cytoplasm of axon ©
+that are pumped out, two potassium ions are
+pumped in.
+A Figure 1 Axon membrane during a resting potential
+As a result there are more sodium ions outside the membrane than
+inside the axon cytoplasm, whereas there are more potassium ions
+inside the cytoplasm than outside the axon. Therefore, sodium
+ions diffuse back into the axon down its electrochemical gradient
+(this is the name given to a concentration gradient of ions),
+whereas potassium ions diffuse out of the axon.
+However, most of the 'gated' sodium ion channels are closed,
+preventing the movement of sodium ions, whereas many
+potassium ion channels are open, thus allowing potassium ions
+to diffuse out of the axon. Therefore, there are more positively
+charged ions outside the axon than inside the cell. This creates the
+resting potential across the membrane of -70mV, with the inside
+negative relative to the outside.
+of axon
+0
+sodium
+©
+2K+
+349
+13
+13.4 Nervous transmission
+action potential
++
++
++
++
++
++
+I
+ET +
++
++
+Action potential
+When a stimulus is detected by a sensory receptor, the
+energy of the stimulus temporarily reverses the charges on
+the axon membrane. As a result the potential difference
+across the membrane rapidly changes and becomes
+positively charged at approximately +40 mV. This is known
+as depolarisation - a change in potential difference from
+negative to positive. As the impulse passes repolarisation
+then occurs - a change in potential difference from positive
+back to negative. The neurone returns to its resting potential.
+direction of impulse
+> +40
+polarised
+(resting
+potential)
+hyper-
+polarisation
+axon membrane potential difference/mV
+repolarised (resting
+potential)
+depolarisation
+repolarisation
+An action potential occurs when protein channels in the
+axon membrane change shape as a result of the change of
+voltage across its membrane. The change in protein shape
+depolarised
+results in the channel opening or closing. These channels are
+(action
+known as voltage-gated ion channels.
+-65+
+2 potential)
+Figure 2 shows the changes in potential difference which
+0 1 2 3
+occur across the axon membrane during an action potential.
+time/ms
+The numbers on the graph correspond to the sequence of
+Figure 2 Change in potential difference across an
+axon membrane during an action potential
+events that take place during an action potential:
+1 The neurone has a resting potential - it is not transmitting an
+impulse. Some potassium ion channels are open (mainly those
+that are not voltage-gated) but sodium voltage-gated ion channels
+are closed.
+The energy of the stimulus triggers some sodium voltage-gated
+ion channels to open, making the membrane more permeable
+to sodium ions. Sodium ions therefore diffuse into the axon
+down their electrochemical gradient. This makes the inside of the
+neurone less negative.
+3
+This change in charge causes more sodium ion channels to open,
+allowing more sodium ions to diffuse into the axon. This is an
+example of positive feedback.
+4 When the potential difference reaches approximately +40 mV
+the voltage-gated sodium ion channels close and voltage-gated
+potassium ion channels open. Sodium ions can no longer
+enter the axon, but the membrane is now more permeable to
+potassium ions.
+5
+Potassium ions diffuse out of the axon down their electrochemical
+gradient. This reduces the charge, resulting in the inside of the
+axon becoming more negative than the outside.
+Initially, lots of potassium ions diffuse out of the axon, resulting
+in the inside of the axon becoming more negative (relative to
+the outside) than in its normal resting state. This is known as
+hyperpolarisation. The voltage-gated potassium channels now
+close. The sodium-potassium pump causes sodium ions to move
+out of the cell, and potassium ions to move in. The axon returns
+to its resting potential – it is now repolarised.
+350
+13.7 Structure and function
+of the brain
+Specification reference: 5.1.5
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of: :
+→ the structure of the human
+brain and the functions of
+its parts.
+An adult human brain contains approximately 86 billion neurones.
+The brain is responsible for processing all the information collected
+by receptor cells about changes in the internal and external
+environment. It also receives and processes information from the
+hormonal system through molecules in the blood. It must then
+produce a coordinated response.
+The advantage of having a central control centre for the whole body
+is that communication between the billions of neurones involved
+is much faster than if control centres for different functions were
+distributed around the body. With the exception of reflex actions, all
+other nervous reactions are processed by the brain. You will find out
+about reflex actions in Topic 13.8, Reflexes.
+skull
+- cerebrum
+Gross structure
+The brain is protected by the skull. It is also surrounded
+by protective membranes (called meninges). The human
+brain is extremely complex, but the structures you need
+to know about are shown in Figure 1.
+corpus callosum
+hypothalamus
+There are five main areas. They are distinguishable by
+their shape, colour, or microscopic structure:
+cerebellum
+medulla oblongata
+spinal cord
+vertebra
+pituitary-
+gland
+• Cerebrum - controls voluntary actions, such as
+learning, memory, personality, and conscious
+thought.
+Cerebellum - controls unconscious functions such as
+posture, balance, and non-voluntary movement.
+Medulla oblongata - used in autonomic control, for
+example, it controls heart rate and breathing rate.
+Hypothalamus - regulatory centre for temperature and
+water balance.
+Pituitary gland - stores and releases hormones that
+regulate many body functions
+Figure 1 Main structures in the brain
+Different images of the brain
+Many different techniques are used to study the brain in order to
+understand its function. Figures 2, 3, and 4 all show a cross-section
+through the brain. Can you identify the main structures?
+362
+13
+13.10 Sliding filament model
+Acetylcholine is then broken down by acetylcholinesterase
+into choline and ethanoic acid. This prevents the muscle being
+overstimulated. Choline and ethanoic acid diffuse back into the
+neurone, where they are recombined into acetylcholine, using the
+energy provided by mitochondria.
+Sarcoplasm
+The depolarisation of the sarcolemma travels deep into the muscle
+fibre by spreading through the T-tubules. These are in contact with the
+sarcoplasmic reticulum. The sarcoplasmic reticulum contains stored
+calcium ions which it actively absorbs from the sarcoplasm.
+When the action potential reaches the sarcoplasmic reticulum it
+stimulates calcium ion channels to open. The calcium ions diffuse down
+their concentration gradient flooding the sarcoplasm with calcium ions.
+The calcium ions bind to troponin causing it to change shape. This
+pulls on the tropomyosin moving it away from the actin-myosin
+binding sites on the actin filament. Now that the binding sites have
+been exposed the myosin head binds to the actin filament forming an
+actin-myosin cross-bridge.
+Once attached to the actin filament the myosin head flexes, pulling
+the actin filament along. The molecule of ADP bound to the myosin
+head is released. An ATP molecule can now bind to the myosin head.
+This causes the head to detach from the actin filament.
+The calcium ions present in the sarcoplasm also activate the
+ATPase activity of the myosin. This hydrolyses the ATP to ADP and
+phosphate, releasing energy which the myosin head uses to return to
+its original position.
+The myosin head can now attach itself to another actin-myosin
+binding site further along the actin filament and the cycle is repeated.
+The cycle continues as long as the muscle remains stimulated. During
+the period of stimulation many actin-myosin bridges form and break
+rapidly, pulling the actin filament along. This shortens the sarcomere
+and causes the muscle to contract.
+Figure 6 summarises what takes place in the sarcoplasm.
+Energy supply during muscle contraction
+Muscle contraction requires large quantities of energy. This is provided
+by the hydrolosis of ATP into ADP and phosphate. The energy is required
+for the movement of the myosin heads and to enable the sarcoplasmic
+reticulum to actively reabsorb calcium ions from the sarcoplasm. The
+three main ways ATP is generated are described here - many activities
+use a combination of these processes.
+Aerobic respiration
+Most of the ATP used by muscle cells is regenerated from ADP during
+oxidative phosphorylation. This chemical reaction takes place inside
+the mitochondria which are plentiful in the muscle. However, this can
+only occur in the presence of oxygen. Aerobic respiration is therefore
+used for long periods of low-intensity exercise.
+376
+13
+13.7 Structure and function of the brain
+Cerebellum
+This area of the brain is concerned with the control of muscular
+movement, body posture, and balance - it does not initiate movement,
+but coordinates it. Therefore, if this area of the brain is damaged, a person
+suffers from jerky and uncoordinated movement. The cerebellum receives
+information from the organs of balance in the ears and information about
+the tone of muscles and tendons. It then relays this information to the
+areas of the cerebral cortex that are involved in motor control.
+Medulla oblongata
+The medulla oblongata contains many important regulatory centres
+of the autonomic nervous system. These control reflex activities such
+as ventilation (breathing rate) and heart rate. It also controls activities
+such as swallowing, peristalsis, and coughing,
+A Figure 6 A sensory homunculus.
+Neurobiologists have constructed
+models of the body in which the body
+part is made in proportion to the number
+of sensory inputs received from it. The
+hands and lips are very sensitive, and
+therefore they are drawn as particularly
+large in relation to other body parts
+Hypothalamus
+This is the main controlling region for the autonomic nervous system.
+It has two centres – one for the parasympathetic and one for the
+sympathetic nervous system. It has a number of functions, which include:
+Synoptic link
+You will find out more about
+controlling heart rate in Topic 14.6,
+Controlling heart rate.
+controlling complex patterns of behaviour, such as feeding,
+sleeping, and aggression
+monitoring the composition of blood plasma, such as the
+concentration of water and blood glucose - therefore it has a very
+rich blood supply
+producing hormones - it is an endocrine gland, that is, it produces
+hormones.
+hypothalamus
+Pituitary gland
+This is found at the base of the hypothalamus. It is approximately the
+size of a pea but it controls most of the glands in the body. It is divided
+into two sections:
+anterior
+pituitary
+posterior
+pituitary
+Anterior pituitary (front section) - produces six hormones
+including follicle-stimulating hormone (FSH), which is involved in
+reproduction and growth hormones.
+Posterior pituitary (back section) - stores and releases hormones
+produced by the hypothalamus, such as ADH involved in urine
+production.
+A Figure 7 Structure of the pituitary gland
+Summary questions
+1 State the difference between the function of the
+anterior pituitary and the posterior pituitary. (1 mark)
+2 Sounds are interpreted by the auditory area in
+the temporal lobe. State the pathway followed
+by a nervous impulse produced by a
+sound wave.
+(3 marks)
+3 A patient displays three symptoms: asynergia - a
+lack of coordination in their motor movement,
+adiadochokinesia - an inability to perform rapid
+movements, and ataxic gait - staggering movements.
+Suggest and explain which part of the brain may have
+been damaged to cause these symptoms. (2 marks)
+364
+13
+13.10 Sliding filament model
+Anaerobic respiration
+In a very active muscle, oxygen is used up more quickly than the blood
+supply can replace it. Therefore, ATP has to be generated anaerobically.
+ATP is made by glycolysis but, as no oxygen is present, the pyruvate which
+is also produced is converted into lactate (lactic acid). This can quickly
+build up in the muscles resulting in muscle fatigue. Anaerobic respiration
+is used for short periods of high-intensity exercise, such as sprinting.
+Synoptic link
+Creatine phosphate
+Another way the body can generate ATP is by using the chemical
+creatine phosphate which is stored in muscle. To form ATP, ADP has
+to be phosphorylated - a phosphate group has to be added. Creatine
+phosphate acts as a reserve supply of phosphate, which is available
+immediately to combine with ADP, reforming ATP. This system
+generates ATP rapidly, but the store of phosphate is used up quickly.
+As a result this is used for short bursts of vigorous exercise, such as a
+tennis serve. When the muscle is relaxed, the creatine phosphate store
+is replenished using phosphate from ATP.
+You will study in detail the
+chemical reactions which take
+place during respiration in
+Chapter 18, Respiration.
+Monitoring muscle activity with sensors 2
+Sensors can be used to monitor the electrical activity in a
+muscle. These can be used to measure the strength of a
+muscle contraction, or to track muscle fatigue levels.
+The resultant trace, an electromyogram (EMG), is a record
+of the electrical activity in a muscle during an activity.
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+sensor p.d./mV
+OOOhhiamo
+uouououou
+Figure 7 EMG sensor trace from a
+biceps muscle. The subject is applying a
+gradually increasing force, which results
+1 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 in a larger output trace on the EMG,
+time/s
+p.d = partial discharge
+Muscle fatigue is a long-lasting reduction of the ability The detection and classification of muscle fatigue is
+to contract and exert force. It is normally localised important in research into human-computer interactions,
+and occurs after prolonged, relatively strong muscle sport injuries and performance, ergonomics, and prosthetics.
+activity. Occasionally, this can be beneficial, through
+A typical experiment in muscle fatigue research involves
+promoting muscle growth (as seen in bodybuilders).
+a subject performing a set task such as moving a limb in
+However, it is usually harmful - serious injury is most
+a specified manner. A signal is acquired using sensors
+likely to occur when the level of fatigue in a muscle
+attached to the skin, which is recorded and processed
+is high.
+to reveal the characteristics of the muscle during that
+particular exercise.
+378
+13
+NEURONAL COMMUNICATION
+1 Tropomyosin molecule prevents myosin head from attaching
+to the binding site on the actin molecule.
+myosin filament
+5 ATP molecule fixes to myosin head, causing it to detach
+from the actin filament.
+myosin head
+troponin
+ADP
+troponin
+actin filament
+tropomyosin molecule
+blocking binding site
+2 Calcium ions released from the endoplasmic reticulum cause
+the tropomyosin molecule to pull away from the binding sites on
+the actin molecule.
+6 Hydrolysis of ATP to ADP by myosin provides the energy
+for the myosin head to resume its normal position.
+binding site
+Ca2+ binds
+to troponin
+myosin head
+ADP
+myosin head resumes
+normal position
+troponin
+Ca2+
+direction of movement of tropomyosin
+3 Myosin head now attaches to the binding site on the actin
+filament.
+7 Head of myosin reattaches to a binding site further along
+the actin filament and the cycle is repeated.
+myosin head fixed
+into binding site
+of actin filament
+new point of
+attachment
+ADP
+ADP
+troponin
+troponin
+4 Head of myosin changes angle, moving the actin filament
+along as it does so. The ADP molecule is released.
+myosin head
+changes angle
+troponin
+ADP
+actin filament moves to the left
+A Figure 6 Interaction of myosin and actin during muscle contraction. Only one myosin head is shown for simplicity
+377
+13
+NEURONAL COMMUNICATION
+Figure 2 Photo of the brain.
+Images like this have been taken
+during autopsies. The position of
+a lesion caused as a result of an
+accident, tumour, or stroke can be
+linked to observed changes in a
+patient's behaviour or capabilities
+before their death
+Figure 4 Computerised tomography (CT)
+scan of the brain. A CT scan uses a series of
+X-rays to create detailed three-dimensional
+images of the inside of the body
+A Figure 3 Magnetic resonance imaging
+(MRI) of the brain. MRI is used to investigate
+the structure of the brain. A specialised version
+of MRI, called functional magnetic resonance
+imaging (fMRI), has been developed which
+allows the brain to be studied during activity.
+Active areas of the brain can be identified due
+to increased blood flow
+Cerebrum
+frontal lobe
+parietal lobe
+The cerebrum receives sensory information, interprets it with respect
+to that stored from previous experiences, and then sends impulses
+along motor neurones to effectors to produce an appropriate response.
+It is responsible for coordinating all of the body's voluntary responses
+as well as some involuntary ones.
+The cerebrum is highly convoluted, which increases its surface area
+considerably and therefore its capacity for complex activity. It is split into
+left and right halves known as the cerebral hemispheres. Each hemisphere
+controls one half of the body, and has discrete areas which perform specific
+functions - these areas are mirrored in each hemisphere. The outer layer
+of the cerebral hemispheres is known as the cerebral cortex. It is 2-4mm
+thick. The most sophisticated processes such as reasoning and decision-
+making occur in the frontal and prefrontal lobe of the cerebral cortex.
+occipital
+lobe
+temporal
+lobe
+medulla
+oblongata
+cerebellum
+Figure 5 The folded structure of the
+cerebral cortex viewed from the left side
+Each sensory area within the cerebral hemispheres receives information
+from receptor cells located in sense organs. The size of the sensory area
+allocated is in proportion to the relative number of receptor cells present
+in the body part. The information is then passed on to other areas of the
+brain, known as association areas, to be analysed and acted upon. Impulses
+come into the motor areas where motor neurones send out impulses, for
+example, to move skeletal muscles. The size of the motor area allocated
+is in proportion to the relative number of motor endings in it. The main
+region which controls movement is the primary motor cortex located at
+the back of the frontal lobe.
+In the base of the brain, impulses from each side of the body cross-
+therefore the left hemisphere receives impulses from the right-hand
+side of the body, and the right hemisphere receives impulses from the
+left-hand side of the body. For example, inputs from the eye pass to
+the visual area in the occipital lobe. Impulses from the right side of
+the field of vision in each eye are sent to the visual cortex in the left
+hemisphere, whereas impulses from the left side of the field of vision
+are sent to the right hemisphere. Through the integration of these
+inputs the brain is able to judge distance and perspective.
+363
+13
+NEURONAL COMMUNICATION
+Blinking reflex
+The blinking reflex is an
+axon of motor
+involuntary blinking of the
+neurones
+eyelid muscle
+(7th cranial
+eyelids (Figure 4). It occurs
+nerve)
+when the cornea is stimulated,
+for example, by being touched.
+Its purpose is to keep the cornea
+safe from damage due to foreign
+touch
+bodies such as dust or flying
+insects entering the eye - this
+type of response is known as the
+corneal reflex. A blink reflex also
+axon of sensory neurone
+occurs when sounds greater than
+(5th cranial nerve)
+40-60 dB are heard, or as a result
+A Figure 4 The blinking reflex
+of very bright light. Blinking as a
+reaction to over-bright light (to protect the lens and retina) is known
+as the optical reflex. The blinking reflex is a cranial reflex - it occurs
+in the brain, not the spinal cord.
+lower brain stem
+sclera
+lens
+choroid
+When the cornea of the eye is irritated by a foreign
+body, the stimulus triggers an impulse along a sensory
+neurone (the fifth cranial nerve). The impulse then
+passes through a relay neurone in the lower brain
+stem. Impulses are then sent along branches of the
+motor neurone (the seventh cranial nerve) to initiate
+a motor response to close the eyelids. The reflex
+initiates a consensual response - this means that both
+eyes are closed in response to the stimulus.
+retina
+fovea
+aqueous humour
+pupil
+iris
+conjunctiva
+cornea
+blind spot
+optic nerve
+vitreous humour
+Figure 5 Structure of the eye
+The blinking reflex is very rapid - it occurs in around
+one tenth of a second.
+Doctors test for the blinking reflex when examining unconscious
+patients. If this reflex is present, it indicates that the lower brain stem is
+functioning. This procedure is therefore used as part of an assessment
+to determine whether or not a patient is brain-dead - if the corneal
+reflex is present the person cannot be diagnosed as brain-dead.
+Measuring reaction time
+0
+When a person catches a falling object, at least part of this
+response is a reflex reaction. Measuring the time taken to
+catch a falling object can therefore be used to measure a
+person's reaction time.
+To measure the reaction time, a suitable scale is placed
+onto the ruler which converts the distance dropped by the
+ruler into a reaction time. One investigation which can be
+carried out using this approach is to measure the effect of
+caffeine concentration on a person's reaction time.
+1 State two variables which should be controlled
+when carrying out this investigation.
+2 Explain why, in this investigation, only part of this
+response is a reflex action'.
+3 Plan an investigation into how the concentration of
+caffeine affects a person's reaction time.
+367
+13
+NEURONAL COMMUNICATION
+Summary questions
+1 Describe simply the structure of skeletal muscle.
+(3 marks)
+2
+A Figure 7 shows an image of skeletal muscle viewed under an
+electron microscope. Name the structures labelled A-D. (4 marks)
+3 Describe the similarities and differences in the structure and
+function of cardiac and involuntary muscle.
+(4 marks)
+4 The drawings in Figure 10 show myofibrils in transverse section.
+a Describe the difference between taking a transverse and a
+longitudinal section of muscle.
+(1 mark)
+b State and explain which section through a sarcomere is
+represented by each image in Figure 10.
+(4 marks)
+Figure 10 Transverse sections of striated muscle
+373
+13.10 Sliding filament model
+Specification reference: 5.1.5
+In the previous topic, you looked in detail at the structure of skeletal
+muscle fibres. In order to contract and cause movement, the actin
+and myosin filaments within the myofibrils have to slide past each
+other. Muscle contraction is usually described using the sliding
+filament model.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+► the structure of mammalian
+muscle and the mechanism
+of muscular contraction
+the examination of stained
+sections or photomicrographs
+of skeletal muscle.
+Sliding filament model
+During contraction the myosin filaments pull the actin filaments
+inwards towards the centre of the sarcomere. This results in:
+a relaxed muscle
+the light band becoming narrower
+the Z lines moving closer together, shortening the
+sarcomere
+• the H-zone becoming narrower.
+The dark band remains the same width, as the myosin
+filaments themselves have not shortened, but now
+overlap the actin filaments by a greater amount.
+light band
+light band
+dark band
+Z-line
+Z-line
+H-zone
+myosin
+actin
+light band shortens,
+indicating actin
+slides along myosin
+dark band remains
+the same length
+Figure 1 Electron micrograph of relaxed and
+contracted sarcomeres
+The simultaneous contraction of lots of sarcomeres
+means that the myofibrils and muscle fibres contract.
+This results in enough force to pull on a bone and
+cause movement. When sarcomeres return to their
+original length the muscle relaxes.
+sarcomere contracts
+b contracted muscle
+Figure 2 Comparison of a relaxed
+and contracted sarcomere
+Structure of myosin
+Myosin filaments have globular heads that are hinged which allows
+them to move back and forwards. On the head is a binding site for
+each of actin and ATP. The tails of several hundred myosin molecules
+are aligned together to form the myosin filament.
+myosin
+filament
+myosin
+head
+myosin filament - the heads of the myosin molecule
+protrude, while the tails wrap around one another to
+form the filament
+► Figure 3 Myosin structure
+myosin tail
+myosin molecule
+374
+13
+13.8 Reflexes
+When carrying out this investigation, a researcher may
+choose to give a placebo caffeine drink to some of the
+people being tested. This is a drink labelled as a caffeine
+drink, but contains no caffeine.
+Explain why a researcher may choose to give
+some people being tested a placebo.
+Figure 6 Testing a
+person's reaction time
+Survival importance
+Reflexes are essential for survival as they avoid the body being
+harmed, or reduce the severity of any damage. For example, the iris
+contracts the pupil in bright light to prevent damage to the retina. In
+dim light, the reverse occurs to enable you to see as much as possible.
+Reflexes increase your chances of survival by:
+Being involuntary responses - the decision-making regions of the
+brain are not involved, therefore the brain is able to deal with more
+complex responses. It prevents the brain from being overloaded with
+situations in which the response is always the same.
+Not having to be learnt - they are present at birth and therefore
+provide immediate protection.
+Extremely fast - the reflex arc is very short. It normally only
+involves one or two synapses, which are the slowest part of nervous
+transmission.
+Many reflexes are what we would consider everyday actions, such
+as those which keep us upright (and thus not falling over), and
+those which control digestion.
+Summary questions
+1 State the reflex arc which occurs when a doctor tests
+the knee-jerk reflex.
+(1 mark)
+ate and explain the considerations a
+researcher should take into account when planning
+an investigation into the effect of drugs, such as
+caffeine, on a group of human volunteers. (4 marks)
+2 Which of the following actions are reflexes
+a gagging
+b speaking
+c jumping
+d pupil dilation.
+(1 mark)
+3 State and explain how a reflex action can improve an
+organism's chances of survival.
+(2 marks)
+368
+13.6 Organisation of the
+nervous system
+Specification reference: 5.1.5
+In the last few topics, you have looked in detail at how nervous
+impulses are transmitted around the nervous system - how are the
+billions of neurones in your nervous system organised?
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of: :
+► the organisation of the
+mammalian nervous system.
+Structural organisation
+The mammalian nervous system is organised structurally into
+two systems:
+Central nervous system (CNS) - this consists of your brain and
+spinal cord.
+Peripheral nervous system (PNS) - this consists of all the
+neurones that connect the CNS to the rest of the body. These
+are the sensory neurones which carry nerve impulses from the
+receptors to the CNS, and the motor neurones which carry nerve
+impulses away from the CNS to the effectors.
+Functional organisation
+The nervous system is also functionally organised into two systems:
+Study tip
+Although primarily unconscious,
+many aspects of the autonomic
+nervous system can come under
+conscious control. For example,
+people can choose to hold their
+breath or swallow rapidly. When
+people do not actively choose
+to control these functions, the
+autonomic nervous system takes
+over and controls them. This frees up
+the conscious areas of the brain-it
+would be hard to think of much else if
+you had to concentrate on breathing
+and keeping your heart beating.
+Somatic nervous system - this system is under conscious
+control - it is used when you voluntarily decide to do something.
+For example, when you decide to move a muscle to move your arm.
+The somatic nervous system carries impulses to the body's muscles.
+Autonomic nervous system - this system works constantly.
+It is under subconscious control and is used when the body does
+something automatically without you deciding to do it - it is
+involuntary. For example, to cause the heart to beat, or to digest
+food. The autonomic nervous system carries nerve impulses to
+glands, smooth muscle (for example, in the walls of the intestine),
+and cardiac muscle.
+The autonomic nervous system is then further divided by function into
+the sympathetic and parasympathetic nervous system. Generally, if the
+outcome increases activity it involves the sympathetic nervous system -
+for example, an increase in heart rate. If the outcome decreases activity
+it involves the parasympathetic nervous system - for example, a
+decrease in heart or breathing rate after a period of exercise.
+Table 1 Examples of the effects of
+sympathetic and parasympathetic
+stimulation. Note that most of these
+result in opposite effects on the body
+Structure
+salivary glands
+Sympathetic stimulation
+saliva production reduced
+bronchial muscle relaxed
+decreased urine secretion
+Parasympathetic stimulation
+saliva production increased
+bronchial muscle contracted
+increased urine secretion
+lung
+kidney
+stomach
+peristalsis reduced
+peristalsis reduced
+gastric juice secreted
+digestion increased
+small intestine
+360
+13
+13.9 Voluntary and involuntary muscles
+capillaries
+myocyte nuclei
+Histology of skeletal muscle
+Figure 9 is a stained section of skeletal muscle viewed through a
+microscope. You should be able to identify the following features:
+Individual muscle fibres - long and thin multinucleated fibres that
+are crossed with a regular pattern of fine red and white lines.
+The highly structured arrangement of sarcomeres which appear as
+dark (A-bands) and light (I-bands) bands.
+Streaks of connective and adipose tissue.
+Capillaries running in between the fibres.
+A-bands
+l-bands
+(dark)
+(light)
+A Figure 9 Stained skeletal muscle
+as seen through a microscope, 570
+magnification
+T
+Slow-twitch and fast-twitch muscles
+There are two types of muscle fibres found in your body. Different muscles in
+the body have different proportions of each fibre.
+Properties of slow-twitch fibres:
+fibres contract slowly
+• provide less powerful contractions but over a longer period
+used for endurance activities as they do not tire easily
+• gain their energy from aerobic respiration
+. rich in myoglobin, a bright red protein which stores oxygen - this makes
+the fibres appear red
+• rich supply of blood vessels and mitochondria.
+Slow-twitch fibres are found in large proportions in muscles which help to
+maintain posture such as those in the back and calf muscles which have to
+contract continuously to keep the body upright.
+Properties of fast-twitch fibres:
+fibres contract very quickly
+produce powerful contractions but only for short periods
+used for short bursts of speed and power as they tire easily
+gain their energy from anaerobic respiration
+pale coloured as they have low levels of myoglobin and blood vessels
+• contain more, and thicker, myosin filaments
+• store creatine phosphate - a molecule that can rapidly generate ATP
+from ADP in anaerobic conditions.
+Fast-twitch fibres are found in high proportions in muscles which need short
+bursts of intense activity, such as biceps and eyes.
+1
+A State and explain how you could tell the difference between
+areas of fast-twitch and slow-twitch muscle when observing skeletal
+muscle under the microscope.
+State and explain any differences in composition which may exist in
+the skeletal muscles of marathon runners and sprinters.
+2
+372
+13
+13.8 Reflexes
+Spinal cord
+The spinal cord is a column of nervous tissues running up the back. It
+is surrounded by the spine for protection. At intervals along the spinal
+cord pairs of neurones emerge, as shown in Figure 2.
+sensory neurone
+relay neurone
+contains
+sensory
+neurones
+contains motor neurones
+from receptor
+spinal nerve
+motor neurone
+effector
+A Figure 2 Section through a spinal cord showing the neurones in a reflex arc
+Knee-jerk reflex
+The knee-jerk reflex is a reflex commonly tested by doctors. It is a
+spinal reflex - this means that the neural circuit only goes up to the
+spinal cord, not the brain.
+When the leg is tapped just below the kneecap (patella), it stretches
+the patellar tendon and acts as a stimulus. This stimulus initiates
+a reflex arc that causes the extensor muscle on top of the thigh
+to contract. At the same time, a relay neurone inhibits the motor
+neurone of the flexor muscle, causing it to relax. This contraction,
+coordinated with the relaxation of the antagonistic flexor hamstring
+muscle, causes the leg to kick.
+After the tap of a hammer, the leg is normally extended once and comes
+to rest. The absence of this reflex may indicate nervous problems and
+multiple oscillation of the leg may be a sign of a cerebellar disease.
+extensor muscles
+axon of sensory
+neurones
+cell body of sensory neurone
+cell bodies of
+motor neurones
+segment of
+spinal cord
+patellar
+tendon
+flexor
+muscles
+relay neurone
+axons of
+motor neurones
+A Figure 3 The knee-jerk reflex
+This reflex is used by the body to help maintain posture and balance,
+allowing you to remain balanced with little effort or conscious thought.
+366
+13.8 Reflexes
+Specification reference: 5.1.5
+When the body is in danger, it can respond to situations without
+conscious thought. This causes a faster response, preventing or
+minimising damage to the body. This is known as a reflex action.
+A reflex is an involuntary response to a sensory stimulus.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ the reflex actions.
+Reflex arc
+The pathway of neurones involved in a reflex action is known as a
+reflex arc. Most reflexes follow the same steps between the stimulus
+and the response:
+Receptor - detects stimulus and creates an action potential in the
+sensory neurone.
+Sensory neurone - carries impulse to spinal cord.
+Relay neurone - connects the sensory neurone to the motor
+neurone within the spinal cord or brain.
+Motor neurone - carries impulse to the effector to carry out the
+appropriate response.
+Figure 1 illustrates what happens when you touch a hot candle - this
+is known as a withdrawal reflex. Before your brain registers that your
+hand is hot, the muscles in your arm have already pulled your hand
+away from the danger, minimising damage to your hand.
+5 motor neurone
+passes impulses
+to the muscle
+7 response
+hand is moved
+quickly away
+from flame
+transverse section
+through spinal cord
+(magnified five times
+in relation to man)
+6 effector
+contracts
+1 stimulus
+heat from
+candle flame
+4 relay neurone
+passes impulses
+across the spinal
+cord
+2 thermoreceptor
+in skin detects
+heat
+3 sensory neurone
+passes nerve
+impulses to spinal cord
+Figure 1 Reflex arc involved in the withdrawal of the hand from a heat stimulus
+365
+13
+NEURONAL COMMUNICATION
+Myofibrils have alternating light and dark bands - these result in their
+striped appearance:
+myosin
+filament
+OO
+Light bands - these areas appear light as they are the region where
+the actin and myosin filaments do not overlap. (They are also
+known as isotopic bands or l-bands.)
+Dark bands - these areas appear dark because of the presence
+of thick myosin filaments. The edges are particularly dark as
+the myosin is overlapped with actin. (They are also known as
+anisotropic bands or A-bands.)
+Z-line - this is a line found at the centre of each light band. The
+distance between adjacent Z-lines is called a sarcomere. The
+sarcomere is the functional unit of the myofibril. When a muscle
+contracts the sarcomere shortens.
+H-zone - this is a lighter coloured region found in the centre of
+each dark band. Only myosin filaments are present at this point.
+When the muscle contracts the H-zone decreases.
+Oooooo
+OOOooo
+OOOOOO
+Oooooo
+Oo oo
+OOOOOO
+actin
+filament
+Figure 5 Transverse section through a
+myofibril, approx 50 000 magnification
+one sarcomere
+Drawing a labelled diagram of a sarcomere
+Key points you should remember when drawing and labelling a
+sarcomere are:
+light band Z-line dark band
+A Figure 6 The structure of a myofibril
+Show two Z-lines to demonstrate your understanding of the length of a
+sarcomere.
+Sarcomere
+• Ensure there are heads present on the
+myosin filaments.
+Connect actin filaments to the Z-line.
+Clearly label the light and dark bands.
+. Show the position of the H-zone.
+It is useful to note the position of the
+A band, I band, H zone, and Z-line
+but you do not need to learn them.
+A Figure 7 TEM of skeletal muscle, 5000 magnification
+light
+dark band
+band
+light
+band
+SS SSH-zonerse
+thick myosin
+filaments
+thin actin
+filaments
+Z-line
+sarcomere
+Z-line
+A Figure 8 The structure of a sarcomere
+Why are there light bands within a sarcomere?
+371
+NEURONAL COMMUNICATION
+13
+Effects of drugs on synapses
+Many recreational and medical drugs cause their effects
+by acting on synapses. This will result in the nervous
+system being stimulated or inhibited.
+SOLG
+ISIO
+MOHA
+Bu öz
+NZOHd
+Drugs that stimulate the nervous system create more
+action potentials in postsynaptic neurones, resulting in an
+enhanced response. For example, if the targeted synapse
+is with a neurone that transmits an impulse from a sound
+receptor, the body will perceive a louder sound. These
+drugs may work by:
+SORE
+VISIO
+Figure 5 Prozac is used to treat
+depression. It acts on neurotransmitters
+in synapses in the brain
+Binding to specific receptors on the post-synaptic
+membrane of some neurones and changing the
+shape of the receptor such that binding of the
+neurotransmitter increases. This therefore increases
+activity. An example of this is alcohol binding to
+GABA, receptors.
+Mimicking the shape of the neurotransmitter - nicotine is
+the same shape as acetylcholine. It can therefore bind to
+acetylcholine receptors on the postsynaptic membrane
+and trigger action potentials in the postsynaptic neurone.
+Stimulating the release of more neurotransmitter. For
+example, amphetamines.
+Inhibiting the enzyme responsible for breaking down
+the neurotransmitter in the synapse. For example,
+nerve gases stop acetylcholine being broken down.
+This can result in a loss of muscle control.
+Drugs that inhibit the nervous system create fewer
+action potentials in postsynaptic neurones, resulting in a
+reduced response. For example, if the targeted synapse
+is with a neurone that transmits an impulse from a sound
+receptor, the body will perceive a quieter sound. These
+drugs may work by:
+synaps for brea
+etylch
+State the difference between the result of an
+inhibitory and a stimulatory drug that acts on the
+nervous system.
+2 Explain how amphetamines will affect the nervous
+system.
+3 Explain how alcohol affects the nervous system.
+Serotonin is a neurotransmitter involved in the
+regulation of sleep and other emotional states. Low
+levels of serotonin are found in patients suffering
+from depression. Prozac is an example of a drug
+used to treat depression. It works be blocking
+the reuptake of serotonin into the presynaptic
+neurone. Using your knowledge of synapses,
+explain how Prozac causes its effects.
+Blocking receptors - this means the neurotransmitter
+can no longer bind and activate the receptor. For
+example, curare blocks acetylcholine receptors at
+neuromuscular junctions. The muscle cells cannot
+therefore be stimulated, and the person suffers from
+paralysis.
+Summary questions
+1 State what is meant by a synapse.
+(1 mark)
+2 Explain how synapses ensure impulses are only transmitted
+in one direction.
+(2 marks)
+3 Describe one similarity and one difference between temporal
+and spatial summation.
+(2 marks)
+4 Explain in detail how a motor neurone causes a postsynaptic
+neurone to depolarise.
+(6 marks)
+359
+13
+NEURONAL COMMUNICATION
+CT scans use X-rays to produce multiple
+images building up a detailed, three-
+dimensional picture of the brain. An injection
+of a dye into one of the veins in the arm
+can be administered during the scan to help
+improve the clarity of the image.
+b Explain how the dye improves the clarity
+of the images produced. (2 marks)
+MRI scans use a strong magnetic field and
+radio waves to produce a detailed picture of
+the brain. A dye can also be used to improve
+scan images.
+The photos show two brain scans performed
+on patients after admission to hospital with
+suspected strokes.
+a (i) Name the structures labelled A, F, G,
+and H.
+(4 marks)
+State the name of the process that
+results in the release of F into the
+synaptic cleft.
+(1 mark)
+Structure B is a serotonin transporter (SERT)
+that transports serotonin back into the
+synaptic knob. Structure P is a drug that is
+used to treat depression.
+b (i) Explain why serotonin needs to be
+removed from a synapse after it has
+been released.
+(2 marks)
+(ii) Suggest the action of drug P on
+the synapse in the diagram and
+explain how this would improve the
+symptoms of depression. (4 marks)
+Fluoxetine is an example of a drug used in
+the treatment of depression. Fluoxetine only
+inhibits the reuptake of serotonin. It is known as
+a selective serotonin reuptake inhibitor (SSRI).
+Cocaine, a drug of misuse, also inhibits
+the reuptake of serotonin as well as
+the neurotransmitters dopamine and
+noradrenaline.
+C Discuss why cocaine is not used to treat
+depression.
+(4 marks)
+When patients arrive at hospital with a
+suspected stroke they are usually given an
+MRI or CT brain scan. Doctors need to find
+out as much information as possible to help
+with the diagnosis.
+Strokes are often diagnosed by studying
+images of the brain produced during these
+brain scans. New guidelines have suggested
+that doctors should use MRI scans to diagnose
+strokes instead of CT scans.
+MRI scans are better at detecting stroke
+damage caused by a lack of blood flow (usually
+due to a blockage or a blood clot) in the brain
+compared to CT scans. The majority of strokes
+are caused by a lack of blood flow in the brain.
+There is only a short time that treatment used
+to reverse the damage is effective.
+In diffusion MRI, the movement of water in
+brain tissue is measured. The movement of
+water is restricted in damaged tissue.
+a Suggest why the movement of water is
+restricted in damaged tissue. (2 marks)
+4
+The photo on the left shows a functional
+magnetic resonance imaging (fMRI) scan of the
+brain of a 32 year old woman after a massive
+stroke. This scan shows the amount of blood
+flow received by areas of the brain. Green and
+blue areas are receiving normal blood flow,
+while yellow, red, and black are receiving
+abnormal blood flow. The lack of blood flow
+in the right hemisphere is due to a blocked
+right internal carotid artery. The photo on the
+right shows a coloured computed tomography
+(CT) scan of a section through a patient's brain
+showing internal bleeding (red) due to a stroke.
+c Describe the differences between the two
+images.
+(3 marks)
+d Outline the advantages and disadvantages
+of MRI and CT scans.
+(4 marks)
+e Suggest why a CT scan may still be
+recommended if an MRI scanner is not
+immediately available for patients that
+require an emergency injection to break
+up blood clots.
+(2 marks)
+381

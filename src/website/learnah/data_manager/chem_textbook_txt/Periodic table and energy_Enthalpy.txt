@@ -1,0 +1,1405 @@
+ENTHALPY
+Exothermic - heat out of the system
+The conservation of energy means that:
+Study tip
+energy transferred
+from the system
+energy transferred to
+the surroundings.
+The chemical system releases heat energy to the surroundings.
+• Any energy loss by the chemical system is balanced by the same
+energy gain by the surroundings.
+AH is negative.
+The temperature of the surroundings increases as they gain energy.
+Remember the directions of
+energy transfer:
+Exothermic
+AH is negative
+chemical system loses energy
+surroundings gain energy
+temperature of surroundings
+increases.
+SURROUNDINGS
+reactants
+enthalpy H
+AH is
+negative
+Chemical system
+loses energy
+AH is negative
+products
+temperature
+rise
+SURROUNDINGS
+Surroundings gain energy
+temperature increases
+progress of reaction
+A Figure 2 Exothermic energy change
+Endothermic - heat into the system
+The conservation of energy means that:
+energy transferred
+to the system
+energy transferred
+from the surroundings.
+Study tip
+Remember the directions of
+energy transfer:
+Endothermic
+AH is positive
+chemical system gains energy
+surroundings lose energy
+temperature of surroundings
+decreases.
+•
+The chemical system takes in heat energy from the surroundings.
+Any energy gain by the chemical system is balanced by the same
+energy loss by the surroundings.
+AH is positive.
+The temperature of the surroundings decreases as they lose energy.
+SURROUNDINGS
+Products
+enthalpy H
+Chemical system
+gains energy
+AH is positive
+AH is
+positive
+temperature
+fall
+reactants
+SURROUNDINGS
+progress of reaction
+Surroundings lose energy
+temperature decreases
+Figure 3 Endothermic energy change
+125
+ENTHALPY
+Study tip
+Indirect determination of enthalpy changes
+In Topic 9.1, you learnt about several standard enthalpy changes.
+Chemists have determined the values of many of these enthalpy
+changes and have listed them in data books. The most useful values
+are for standard enthalpy changes of formation A.HⓇ and combustion
+A Hº. The worked examples show how known enthalpy changes can
+be used with Hess' law to determine enthalpy changes indirectly.
+Remember, for elements A,
+His
+always zero (Topic 9.1).
+Usually you will not be provided
+with a value of zero for elements.
+6) Worked example: Enthalpy changes from AH®
+You can work out the standard enthalpy change of any reaction from the standard enthalpy changes of
+formation A, HⓇ of the reactants and products.
+Calculate the standard enthalpy change of reaction for the reaction shown below.
+Fe,0,(s) + 3 Ca(s) — 2Fe(s) + 3CaO(s)
+The standard enthalpy changes of formation of the reactants and products are listed in Table 1.
+Table 1 Standard enthalpy changes of formation
+Substance Fe, Oz(s) Ca(s) Fe(s) Cal(s)
+4HⓇ/kJ mol-1 -824 1 0 0
+-635
+Step 1: Construct the enthalpy cycle between the reactants, the products, and their elements. In the
+enthalpy cycle, the elements, Fe(s), Ca(s), and 0, (g), form the common link between reactants
+and products. Using A.HⓇ, the reactants and products of the original reaction are formed from
+their elements and the arrow points upwards.
+A
+Fe,0,(s) + 3Ca(s)
+2Fe(s) + 3 CaO(s)
+Following the arrows from reactants
+to products for the two routes:
+Route 1:
+B + A
+LAH reactants B
+C LA H®products
+Route 2: C
+elements
+Fe(s), Ca(s), O (9)
+By Hess' law, B + A = C
+SO, A = C-B
+A Figure 3 Construction of the enthalpy cycle
+Step 2: Add AH values and calculate the unknown enthalpy change.
+A
+Fe,0,(s) + 3Ca(s)
+2Fe(s) + 3 Cao(s)
+A = (3 X -635) - (-824)
+= -1081 kJ mol-1
+(-824) + 0
+B
+CO+ 3 X -635
+elements
+Fe(s), Ca(s), 0, (g)
+Figure 4 Calculation using the enthalpy change
+139
+9.4 Hess' law and enthalpy cycles
+9 Worked example: Enthalpy changes from AH
+The equation for the formation of butane, C.H.(g), is shown below.
+4C(s) + 5H2(g) → C4H10()
+It would be impossible to measure the enthalpy change of this reaction directly.
+Carbon and hydrogen form so many compounds that C_H10 would be formed alongside
+dozens of other compounds.
+However, the enthalpy changes of combustion of the reactants C(s) and H, (g) and of the product
+C,H, (g) can all be measured directly. The enthalpy change of reaction can then be found indirectly
+using the A Hº values shown in Table 2.
+Table 2 Standard enthalpy changes of combustion
+Substance
+A HⓇ/kJ mol-1
+C(s)
+-394
+H2(g)
+-286
+CH..(g)
+-2877
+Step 1 Construct the enthalpy cycle between the reactants, the products, and their common
+combustion products, Co, (g) and H,O(I). Using A H®, both the reactants and the products of
+the original reaction react to form combustion products and the arrows point downwards.
+4C(s) + 5H2(g)
+C2H0(g)
+Following the arrows from reactants
+to products for the two routes:
+Route l:
+A+C
+C JAHⓇ products
+E A HⓇ
+reactants
+Route 2: B
+combustion products
+CO2(g), H2O(l)
+By Hess' law, A + C=B
+SO, A = B-C
+A Figure 5 Construction of an enthalpy cycle
+Step 2 Add A H values and calculate the unknown enthalpy change.
+A
+4C(s) + 5H2(g)
+C
+,H,(g)
+A = (4 * -394) + (5 x -286) - (-2877)
+= -129 kJ mol-
+(4 x -394) +
+(5x-286)
+C
+(-2877)
+combustion products
+CO2(g), H2O(1)
+A Figure 6 Calculation of the enthalpy change
+Summary
+There are two rules that you can use to help you with your
+calculations using enthalpy changes of formation and combustion
+Using enthalpy changes of formation, AH,
+• A H= E 4H products – EA,H reactants
+Using enthalpy changes of combustion, A H,
+• AH = 5 4 H reactants - 4H products
+140
+9.1 Enthalpy changes
+Synoptic link
+You will learn more about
+activation energy and its relevance
+to catalysis in Chapter 10, Reaction
+rates and equilibrium.
+Activation energy
+Atoms and ions are held together by chemical bonds. During chemical
+reactions, the bonds in the reactants need to be broken by an input
+of energy. New bonds in the products can then form to complete the
+reaction. The energy input required to break bonds acts as an energy
+barrier to the reaction, known as the activation energy E Activation
+energy is the minimum energy required for a reaction to take place.
+Figures 4 and 5 show full enthalpy profile diagrams for exothermic
+and endothermic reactions. Note that these diagrams show the
+reactants and products, together with labels for AH and E.
+2Mg(s) + O2(g)
+enthalpy H
+AH is
+negative
+In general, reactions with small activation energies take place very
+rapidly, because the energy needed to break bonds is readily available
+from the surroundings. Very large activation energies may be present
+such a large energy barrier that a reaction may take place extremely
+slowly or even not at all.
+2MgO(s)
+progress of reaction
+A Figure 4 Exothermic enthalpy
+profile diagram
+Standard enthalpy changes
+The enthalpy change for a reaction can vary slightly depending on
+the conditions used. Chemists use standard conditions for physical
+measurements such as enthalpy changes, close to typical working
+conditions of temperature and pressure. Tables of data always include
+values taken under standard conditions.
+2NO(g)
+enthalpy H
+AH is
+positive
+N2(g) + O2(g)
+Standard conditions
+A standard physical value, such as an enthalpy, is shown in data
+tables using a special standard sign®. A standard enthalpy change AH
+refers to an enthalpy H change A under standard conditions
+Units are usually kJ mol-', with mol-' referring to the amount in
+mol given by the balancing numbers of the chemicals in a stated
+equation for the reaction (see enthalpy change of reaction below).
+progress of reaction
+Figure 5 Endothermic enthalpy
+profile diagram
+Synoptic link
+You will learn about the Kelvin
+scale of temperature in Topic 9.2,
+Measuring enthalpy changes.
+• Standard pressure is 100 kPa. This is very close to a pressure
+of one atmosphere, 101 kPa.
+• Standard temperature is a stated temperature, usually 298 K
+(25°C). In this book, standard temperature refers to 298 K.
+Standard concentration is 1 mol dm' (this is relevant
+for solutions only).
+Standard state is the physical state of a substance under
+standard conditions. Most data tables show the standard state
+at 100 kPa and 298 K.
+Enthalpy change of reaction
+The standard enthalpy change of reaction 4 Hº is the enthalpy
+change that accompanies a reaction in the molar quantities shown in
+a chemical equation under standard conditions, with all reactants and
+products in their standard states.
+126
+9.4 Hess' law and enthalpy cycles
+Specification reference: 3.2.1
+Hess' law
+The techniques described in Topic 9.2 allow enthalpy changes to
+be determined directly in a single experiment. Unfortunately, the
+enthalpy changes of many reactions are very difficult to determine
+directly. Hess' law comes to the rescue, allowing enthalpy changes
+to be determined indirectly.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ enthalpy cycles
+→ indirect determination
+of enthalpy change from
+enthalpy changes of
+formation
+→ indirect determination
+of enthalpy change from
+enthalpy changes of
+combustion
+Hess' law states that, if a reaction can take place by two routes, and
+the starting and finishing conditions are the same, the total enthalpy
+change is the same for each route.
+Hess' law comes from the idea of conservation of energy (see Topic 9.1)
+and is easy to visualise with a diagram. Figure 1 shows an enthalpy
+cycle with two routes for converting reactants into products.
+→ unfamiliar enthalpy cycles.
+Following the arrows from reactants to
+products for the two routes:
+Route 1: A+B
+Route 2: C
+By Hess' law, the total enthalpy change
+is the same for each route.
+A+B=C
+If two of A, B, and C are known, the
+third can be calculated.
+reactants
+products
+A Figure 1 Enthalpy cycle illustrating Hess' law
+9 Worked example: An enthalpy cycle
+For the enthalpy cycle in Figure 1, A = +110 kJ mol-1;
+B = -150 kJ mol-!. Find C.
+Step 1: Substitute values for A and B
+into the cycle.
+Step 2: Calculate C.
+A+B=C;
++110 + (-150) = C
+C=-40 kJ mol-1
++110
+-150
+reactants
+products
+Figure 2
+This principle can be extended for any number of enthalpy changes.
+Provided that all enthalpy changes are known except for one, the
+unknown enthalpy change can always be determined.
+138
+ENTHALPY
+9.1 Enthalpy changes
+Specification reference: 3.2.1
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ exothermic and endothermic
+changes
+→ enthalpy profile diagrams
+→ activation energy
+→ standard enthalpy changes.
+Enthalpy and enthalpy change
+Enthalpy
+Enthalpy His a measure of the heat energy in a chemical system.
+The chemical system refers to the atoms, molecules, or ions making
+up the chemicals.
+Enthalpy is sometimes thought of as the energy stored within bonds.
+Enthalpy cannot be measured, but enthalpy changes can.
+Enthalpy change
+In a chemical reaction, the reactants and products are likely to
+have different enthalpies. The difference in the enthalpies is the
+enthalpy change AH:
+AH = H (products) - H(reactants)
+AH can be positive or negative, depending on whether the products
+contain more or less energy than the reactants.
+Conservation of energy
+The law of conservation of energy is one of the fundamental rules
+of science and states that energy cannot be created or destroyed.
+universe = system + surroundings
+When a chemical reaction involving an enthalpy change takes place,
+heat energy is transferred between the system and the surroundings.
+-surroundings
+System
+(contents of flask)
+The system is the chemicals - the reactants and products.
+The surroundings are the apparatus (e.g., the thermometer
+and apparatus), the laboratory, and everything that is not the
+chemical system.
+The universe is everything, and includes both system and
+surroundings, as shown in Figure 1.
+Figure 1 The system and
+the surroundings
+Heat in or heat out?
+Unlike enthalpy, an enthalpy change AH can be determined
+experimentally by measuring the energy transfer between the system
+and the surroundings.
+Energy transfer can be in either of two directions:
+. from the system to the surroundings - an exothermic change
+• from the surroundings to the system - an endothermic change.
+In Figures 2 and 3, the diagrams on the left are called enthalpy
+profile diagrams. Each diagram shows the relative enthalpies of
+the reactants and products and the enthalpy change AH.
+124
+ENTHALPY
+Despite this limitation, the calculated enthalpy change of reaction
+should be in general agreement with the actual enthalpy change
+of reaction.
+Calculations using average bond enthalpies need all species to be
+gaseous molecules. In the worked example above, you produced
+H2O(g) rather than H,O(l). This means that your calculated AH
+is not a standard enthalpy change. You could still work out the
+standard enthalpy change but you would need to also take into
+account the enthalpy change for H2O(g) condensing into H2O(l).
+Bond enthalpies and combustion
+Values for the enthalpy change of combustion of alcohols can be calculated
+from bond enthalpies. A H values for three alcohols are shown below
+together with their equations.
+CH,OH + 1.502 - CO2 + 2H,0 4H=-658 kJ mol-1
+C,H,OH + 30, 200, + 3H,0 A H=-1276 kJ mol-1
+C,H,OH + 4.50, – 300, + 4H20 AH=-1894 kJ mol-1
+The enthalpy changes increase by a constant quantity for each increase in the
+carbon chain length. The reason is all linked to bond breaking and bond making.
+Study tip
+In a question, if you are only
+provided with an equation,
+always draw out all the bonds.
+It is then much easier to get the
+number of each type of bond
+correct. The calculations are not
+difficult, but many students slip
+up by short-cutting and getting
+the wrong number of bonds.
+1 Show that the increase in enthalpy change matches the extra bonds
+broken and made during combustion in progressing from one alcohol?
+2 What would be the calculated enthalpy change of combustion of the
+alcohol with 20 carbon atoms?
+3 Give two reasons why enthalpy changes calculated from average
+bond enthalpies are not standard enthalpy changes.
+Summary questions
+1 State what is meant by the term average bond
+enthalpy. Explain why you would expect the actual
+(=O bond enthalpy to be different in CO, and
+in H,C=0.
+(2 marks)
+2 You are provided with data for the following reaction.
+H2(g) + 2(g) → 2HI(g) AH = +53 kJ mol-1
+E = +183 kJ mol-1
+a Assuming that the activation energy breaks
+all the bonds in the reactants, calculate how
+much energy is released during bond formation.
+(2 marks)
+b Explain what can be deduced about the relative
+strengths of the bonds that are broken and the
+bonds that are formed.
+(2 marks)
+3 Use Table 1 and the following data:
+250, (g) +0,(g) 250,(g) AH = -192 kJ mol-1
+Assume that So, and So, contain only S=O bonds.
+a Calculate the average bond enthalpy for
+the SEO bond.
+(2 marks)
+b The actual bond enthalpy for the S=O bond
+in So, is 531 kJ mol-1. Calculate the actual
+bond enthalpy for the S=0 bond in SO2. (2 marks)
+137
+ENTHALPY
+In the experiment, 0.0500 mol CuSo, transfers 7.942 kJ of energy
+to the solution.
+1 mol Cuso, has lost a
+Guso has lost 7.942 – 150kl of
+4 = 159 kJ of energy to the solution.
+0.0500
+AH = -159 kJmol-!
+Cooling curves
+This experiment measures the enthalpy change for the
+reaction as on the previous page but the method has
+been adapted to correct for heat loss by use of a cooling
+curve correction
+This method can be used to correct for heat loss in other
+similar enthalpy experiments.
+temperature/"C
+46 AT = 64.0 - 19.5
+= 44.5°C
+Method
+1 Pipette 25.0 cm of 1.00 moldm-3 CuSO, into a
+polystyrene cup. Weigh out an excess of zinc powder.
+2 Start a stop-clock and take the temperature of the
+solution every 30 s until the temperature stays
+constant.
+3 Add the zinc to the solution and stir the mixture.
+Record the temperature every 30 seconds until the
+temperature has fallen for several minutes.
+Plot a graph of temperature against time (Figure 4).
+0
+i
+2
+5
+6
+8
+3 4
+time/min
+A Figure 4 Cooling curve method for heat loss
+To correct for cooling, extrapolate the cooling curve
+section of the graph back to the time when the zinc
+was added. Draw a vertical line from the time that the
+solutions were mixed to the extrapolated cooling curve
+(Figure 4).
+Using the results shown on Figure 4, AH=-186 kJmol-1.
+This compares with – 159 kJ mol-1 for the method on the
+previous page. You should be able to check this.
+The table below gives results for the reaction of excess Mg with 100.0 cm
+0.500 mol dm-'CuSO,(aq)
+Time/min 0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5
+Temperature /°C 20.0 20.0 20.0 20.0 63.0 72.5 74.5 72.5
+4.0
+71.5
+4.5 5.0
+70.5 68.5
+5.5
+67.5
+6.0
+65.5
+Plot a graph of temperature against time and make a correction for heat
+loss based on the cooling curve. Hence obtain a corrected value for AT.
+From your results, calculate the enthalpy change for the reaction of
+1 mol CuSO (aq) with Mg.
+133
+ENTHALPY
+A.HⓇ always refers to a stated equation, and its value depends on
+the balancing numbers. For example, the equation for the reaction
+of magnesium with oxygen to form magnesium oxide can be written
+using a fraction to balance Oz
+Mg(s) + 402(g) – MgO(s) A.HⓇ = -602 kJ mol-'
+1 mol mol 1 mol
+If the equation is balanced with whole numbers, the amounts are
+doubled and the enthalpy change is doubled.
+2Mg(s) + O2(g) → 2MgO(s) AH = -1204 kJ mol-!
+2 mol 1 mol 2 mol
+Both A H® values are correct, but only for the quantities given in each
+equation written for each value.
+Enthalpy change of formation
+The standard enthalpy change of formation AH is the enthalpy
+change that takes place when one mole of a compound is formed from
+its elements under standard conditions, with all reactants and products
+in their standard states.
+Study tip
+Learn the definition for 4,H.
+Compounds
+The fractional equation for the reaction of magnesium and oxygen
+above gives the enthalpy change for the formation of 1 mol of a
+compound. By definition, this is A. Hº for MgO(s).
+Mg(s) + O2(g) – MgO(s) 4H® = -602 kJ mol-!
+Study tip
+When balancing equations for
+enthalpy changes of formation,
+you must not add a balancing
+number in front of the product that
+has formed. Balance the equation
+to give one mole of the product.
+elements
++ 1 mol
+The equation could have been written using whole balancing
+numbers, but it would then not match the definition for A.HⓇ,
+which requires formation of one mole of Mgo.
+Remember that A His for
+the formation of one mole of a
+substance.
+Elements
+From its definition, A, HⓇ for an element refers to the formation of one
+mole of an element from its element. This is clearly no change, so all
+elements have an enthalpy change of formation of OkJ mol-1.
+Enthalpy change of combustion
+The standard enthalpy change of combustion A He is the
+enthalpy change that takes place when one mole of a substance
+reacts completely with oxygen under standard conditions, with all
+reactants and products in their standard states.
+When a substance reacts completely with oxygen the products are the
+oxides of the elements in the substance.
+Study tip
+Learn the definition for A H.
+The equation for the combustion of one mole of butane, C,H, is
+shown below.
+C,40(9) +6402(g) + 4CO2(g) + 5H20(1) 4HⓇ = -2877 kJ mol-1
+1 mol
+→ combustion products
+127
+9.1 Enthalpy changes
+The equation could have been balanced without fractions, but it
+would then not match the definition, which requires combustion
+of one mole of C H20
+Study tip
+Learn the definition for AuHº.
+Enthalpy change of neutralisation
+The standard enthalpy change of neutralisation A. He is the
+energy change that accompanies the reaction of an acid by a base to
+form one mole of H2O(l), under standard conditions, with all reactants
+and products in their standard states.
+H+(aq) + OH-(aq) + H2O(l) Ameu, Hº = -57 kJ mol-1
+acid
+base + 1 mol
+neut"
+The neutralisation of hydrochloric acid by sodium hydroxide to form
+one mole of H2O(l) is shown below:
+HCl(aq) + NaOH(aq) + H2O(l) + NaCl(aq)
+acid
+base + 1 mol
+For A Hº, neutralisation involves the reaction of H(aq) with
+OH(aq) to form one mole of H, O(l). The value of Anu HⓇ is the same
+for all neutralisation reactions.
+OD
+What about calories?
+Summary questions
+Calories are in the news and the importance of a calorie-controlled diet is
+constantly talked about. You may know that calories have something to do
+with energy but how are they related to joules? The calorie content of many
+foods is stated on the packaging in the nutrition label, usually on the back
+or side of packaging. This information will appear under the Energy heading.
+Strangely the food calorie is really a kcal.
+1 Sketch enthalpy profile
+diagrams, including E, for the
+following reactions:
+a N, (g) + 3H2(g) + 2NH,(g)
+AH = -92 kJ mol-1
+(2 marks)
+b N20_(g) 2N0_(g)
+AH = +58 kJ mol-1
+(2 marks)
+Vesi
+Figure 6 shows the label
+from a chocolate bar.
+You can see the energy
+information but how
+many people read this?
+The label also shows
+how much this single
+bar contributes to daily
+energy requirement!
+2 Write equations, including
+state symbols, that
+give A HⓇ for:
+a CH,
+(1 mark)
+(1 mark)
+Figure 6 Chocolate bar with energy
+information
+b NOZ
+3 Write equations, including
+state symbols, that give
+A HⓇ for:
+a H,S(g)
+(1 mark)
+b AL
+(1 mark)
+1 A calorie is equal to 4.18 kJ.
+a Where have you seen this number before?
+b How many kJ of energy are available in a Mars bar?
+2 Use kitchen scales to find the mass of a cup of tea. Then calculate
+how many cups of tea could be made from the energy available in a
+chocolate bar. Assume that the water from the tap is at 15°C
+128
+9.2 Measuring enthalpy changes
+Determination of an enthalpy change of
+neutralisation AvH
+neut
+This procedure is very similar to the previous example. The only
+difference is that two solutions react, rather than a solution and a solid.
+9 Worked example: Determination of AmeuH
+A student measures out and mixes 35.0 cm of 2.40 moldm-3 NaOH and 35.0 cm of 2.40 moldm-3 HCl.
+The temperature rises by 16.5°C.
+Specific heat capacity of the mixture is 4.18 Jg-K-1. The density of the mixture is 1.00gcm3.
+Calculate the enthalpy change of neutralisation, in kJ mol-1.
+Step 1: Calculate the energy change q in the solution in kJ.
+Total volume of solution changing temperature = 35.0 + 35.0 = 70.0 cm.
+Density of mixture is 1.00g cm-, so 70.0 cm has a mass of 70.0g.
+q = MCAT = 70.0 x 4.18 x 16.5 = 4827.9 J= 4.8279 kJ
+Step 2: Calculate the amount, in mol, of NaOH and HCl that reacted.
+n(NaOH) = n(HCl) = x-
+XV (in cm) – 2.40 35.0 = 0.0840 mol
+1000
+1000
+Step 3: Calculate A .H in kJ mol-1.
+A
+TI
+H is defined as the enthalpy change required for the neutralisation of an acid by an alkali
+to form 1 mol H, O(l)
+Reacting quantities NaOH(aq) + HCl(aq) - NaCl(aq) + H2O(1)
+Imol mol → 1 mol l mol
+Experiment 0.0840 mol 0.0840 mol →
+0.0840 mol
+Formation of 0.0840 mol H2O transfers 4.8279 kJ of energy to the solution.
+Formation of 1 mol H2O loses 4.8270 = 57.5 kJ of energy to the solution.
+0.0840
+Aneur H = -57.5 kJ mol-1.
+Summary questions
+1 Calculate the energy change, in kJ, of the following
+(c = 4.18 Jg-1K-4):
+a 50 cm of water decreases in temperature from
+62 °C to 19°C;
+(2 marks)
+b 50 cm of one aqueous solution is mixed with
+75 cm' of a second solution and the temperature
+increases from 23 °C to 39 °C.
+(1 mark)
+2 Combustion of 1.29gCH, releases 34.2 kJ
+of energy. Calculate A H for CH2 (2 marks)
+3 Combustion of 1.656 g of ethanol, C,H,OH, raised the
+temperature of 150 g of water from 22.5°C to 74.5 °C.
+a Write the equation to represent the enthalpy
+change of combustion of ethanol. (2 marks)
+b Calculate the enthalpy change of combustion
+of ethanol to three significant figures. (2 marks)
+134
+9.2 Measuring enthalpy changes
+Study tip
+Learn q = MCAT.
+Determination of an enthalpy change
+of combustion A H
+Combustion is simply a reaction of a substance with oxygen (see
+Topic 9.1) and is one of the easiest enthalpy changes to determine
+experimentally. The equation for the combustion of methanol is
+shown below.
+Remember that m is the mass that
+changes temperature not the mass
+of the reactants.
+CH,OH(l) + 1902(g) → CO2(g) + 2H20 (1)
+Spirit burners
+thermometer -
+beaker
+clamp -
+water
+Liquid fuels, such as methanol, can easily be burnt using small spirit burners.
+The experimental method and the calculation are outlined below.
+1 Using a measuring cylinder, measure out 150 cmof water. Pour the
+water into the beaker. Record the initial temperature of the water to the
+nearest 0.5 °C.
+2 Add methanol to the spirit burner. Weigh the spirit burner containing
+methanol.
+Place the spirit burner under the beaker as shown in Figure 2. Light
+the burner and burn the methanol whilst stirring the water with the
+thermometer.
+After about three minutes extinguish the flame. Immediately record the
+maximum temperature reached by the water.
+5 Re-weigh the spirit burner containing the methanol. Assume that the
+wick has not been burnt.
+spirit burner
+wick -
+– methanol
+A Figure 2 Apparatus for determination
+of AH-of a liquid fuels such as
+methanol
+C Worked example: Determination of AH of methanol
+Results
+Mass of spirit burner and methanol before burning = 196.97 g
+Mass of spirit burner and methanol after burning = 195.37g
+Mass of fuel burnt
+= 1.60 g
+Study tip
+Initial temperature of water
+21.5°C
+Final temperature of water
+For Step 1, you are calculating the
+energy change in the surroundings
+- where the thermometer is.
+= 62.5 °C
+41.0°C
+Temperature change AT of water
+For water, density = 1.00 g cm . c = 4.18 Jg-K-
+You always use q = MCAT Joules
+Finally divide by 1000 to convert
+to kJ
+Calculation
+Step 1: Calculate the energy change 9 of the water in kJ.
+Synoptic link
+You learnt about this equation,
+nam in Topic 3.1, Amount of
+substance and the mole.
+Density = 1.00gcm- so 150 cm of water has a mass of 150 g.
+q = MCAT = 150 x 4.18 x 41.0 = 25707 J = 25.707 kJ
+Step 2: Calculate the amount, in mol, of CH, OH burnt.
+n(CH,OH) = M = ,60 = 0.0500 mol
+130
+9.3 Bond enthalpies
+exothermic
+endothermic
+breaking
+bonds
+making
+bonds
+HI
+making
+bonds
+breaking
+bonds
+AH-ve
+AH +ve
+The energy released when making bonds
+is greater than the energy required when
+breaking bonds.
+The energy required when breaking bonds
+is greater than the energy released when
+making bonds.
+A Figure 2 Enthalpy profile diagrams for bond breaking and bond making in exothermic and
+endothermic reactions
+Calculating enthalpy changes from average
+bond enthalpies
+The enthalpy change of reaction AH can be found by calculating the
+bond enthalpies of the bonds in the reactants and the products.
+Study tip
+(a capital Greek letter sigma)
+is shorthand for sum of.
+For a reaction involving gaseous molecules of covalent substances:
+4.H= (bond enthalpies in reactants)-
+(bond enthalpies in products)
+6) Worked example: Combustion of propane
+Using average bond enthalpies, calculate A H for the reaction of
+propane with oxygen.
+C2H2(g) + 502(g) — 3C02(g) + 4H2O(g)
+Table 2 A, H calculation for the reaction of propane with oxygen
+Equation CH (8) + 502(g) - 300,(9) + 4H,0(g)
+H
+H
+H
+030
+Bonds
+H-
+C-
+-
+CH +
+-
+O= 0
+o=0
+o=0
+o=0
+0=CEO HO
+==0 + H0H
+o= = 0
+I
+H
+H
+H
+I
+5(0=0)
+6(C=0)
+8(0-H)
+Bonds broken 8(C-H)
+8 x 413
+Energy /
+(3304
+kJ mol-1
+210-C)
+2 x 347
++ 694
+6488
+5 x 498
+2490)
+6 x 805
+(4830
+8 x 464
+3712)
++
+8542
+AH
+-2054 kJ mol-1
+Limitations
+As you are using average bond enthalpies, the actual energy
+involved in breaking and making individual bonds would be
+slightly different (the bonds may be in different environments).
+136
+9.3 Bond enthalpies
+Specification reference: 3.2.1
+Average bond enthalpy
+In this topic you will look at how average bond enthalpies can be used
+to calculate enthalpy changes of reaction without carrying out any
+experiments, as well as the limitations of this approach.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ average bond enthalpy
+calculating enthalpy changes
+from bond enthalpies.
+Average bond enthalpy is the energy required to break one mole of
+a specified type of bond in a gaseous molecule.
+•
+Energy is always required to break bonds.
+Bond enthalpies are always endothermic.
+Bond enthalpies always have a positive enthalpy value.
+Synoptic link
+Table 1 lists average bond enthalpies for some of the more common
+covalent bonds. You will need to refer to this table during this topic.
+Limitations of average bond enthalpies
+The actual bond enthalpy can vary depending on the chemical
+environment of the bond. Figure 1 shows examples of the actual
+bond enthalpy of a C-H bond in different environments.
+In Topic 5.3, Covalent bonding, you
+learnt that average bond enthalpy
+is a measurement of covalent bond
+strength - the larger the value of
+the average bond enthalpy, the
+stronger the covalent bond.
+H
+HHH
+Table 1 Average bond enthalpies
+H—C—
+H
++
+H
+CC-HH -
++
++
+C—
+C—
+C—
+H
+Bond
+Average bond
+enthalpy
+(kJ mol-1)
+H
+H
+H
+H
+H
+413
+347
+C-H 422 kJ mol-1
+C-H 439 kJ mol-1 6-H 420 kJ mol-1
+C-H 411 kJ mol-1
+A Figure 1 Bond enthalpies of C-H bonds in different environments
+358
+464
+0–H
+0=0
+498
+An average bond enthalpy is calculated from the actual bond enthalpies
+in different chemical environments. In calculations, you will usually
+be provided with average bond enthalpies, but sometimes you may be
+provided with the actual bond enthalpy of an individual bond.
+NEN
+945
+612
+805
+Bond breaking and bond making
+In chemical reactions, bonds break and new bonds are formed.
+=0
+N-H
+391
+H-H
+436
+AH is positive
+243
+Energy is required to break bonds
+bond breaking is endothermic
+Energy is released when bonds form
+bond making is exothermic
+Br-Br
+193
+AH is negative
+151
+432
+The difference between the energy required for bond breaking and
+the energy released by bond making determines whether an overall
+reaction is exothermic or endothermic (Figure 2).
+H-CI
+H-Br
+366
+HI
+298
+135
+9.2 Measuring enthalpy changes
+Specification reference: 3.2.1, 2.1.3
+Measuring energy changes
+In Topic 9.1, you looked at the distinction between the chemical
+system and the surroundings. When you carry out experiments
+to determine enthalpy changes, the thermometer is part of the
+surroundings and you will be measuring the temperature change of
+the surroundings.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ calculating energy changes
+from experiments
+determination of enthalpy
+changes directly
+practical techniques for
+measuring mass.
+The Kelvin scale of temperature
+The Kelvin scale of temperature is commonly used in science. It starts
+at absolute zero, OK and is equivalent to -273°C. The Kelvin scale
+is part of the International System of Units (SI units). On the Kelvin
+scale, ice melts at 273 K (0°C) and water boils at 373K (100°C). So a
+1K rise in temperature is the same as a 1°C rise in temperature. If you
+record temperatures using a thermometer graduated in °C, the value
+of the temperature change is exactly the same in °C and K.
+100 °C
+water
+boils
+400K
+373K
+- 350K
+50°C -
+Calculating an energy change
+The energy change of the surroundings is calculated from three
+quantities - mass, specific heat capacity, and temperature change.
+0°C -
+40°C -
+-50 °C
+water
+freezes
+- 300K
+273K
+250K
+The mass of the surroundings m
+The mass is measured simply by weighing. You have to identify the
+materials that are changing temperature. Mass is usually measured in
+grams (g) to match the scale often used in experiments.
+-78°C -
+dry ice
+solid CO2
+200K
+195K
+-100 °C -
+150K
+-150 °C
+liquid
+-191 °C
+-200 °C
+I- 100K
+82K
+air
+- 50K
+The specific heat capacity of the surroundings c
+Different materials require different quantities of energy to produce the
+same temperature change. The specific heat capacity c is the energy
+required to raise the temperature of lg of a substance by 1K.
+Every substance has a specific heat capacity. Good conductors of
+heat, such as metals, have small values of c. Insulators of heat such as
+foam plastic, have large values of c. In most experiments, you will be
+measuring the temperature change of water or aqueous solutions. For
+water, c = 4.18Jg-K-!.
+-250 °C-
+-273 °C -
+absolute
+- OK
+zero
+Celsius
+Kelvin
+A Figure 1 Comparison of Celsius and
+Kelvin scales of temperature
+The temperature change of the surroundings AT
+The temperature change AT is determined from the thermometer
+readings:
+AT = T(final) - T(initial).
+Calculating an energy change
+Heat energy is given the symbol q. Once you have values for m, c,
+and AT from an experiment, it is very easy to calculate the energy in
+joules (J) using the simple equation below.
+Study tip
+It is easy to convert between Kelvin
+and Celsius. Add 273 to a Celsius
+reading to get the Kelvin reading.
+Subtract 273 from a Kelvin reading
+to get the Celsius reading.
+q = MCAT
+129
+ENTHALPY
+Study tip
+Step 3: Calculate A H in kJ mol-!
+A H is the enthalpy change for the complete combustion of
+1 mol CH,OH.
+In the experiment, 0.0500 mol CH,OH transfers 25.707 kJ of
+energy to the water.
+The water gained 25.707 kJ of energy from the combustion
+of 0.050 mol CH, OH
+1 mol CH,OH has lost 27.407 = 514.14 kJ of energy on
+0.0500
+combustion A H(CH,OH) = -514 kJ mol-I.
+AH only makes an appearance
+right at the end. This is the
+time to decide on the sign. As
+water has gained energy, the
+combustion of methanol must
+have lost the same quantity of
+energy. So AH is negative and the
+reaction is exothermic.
+Synoptic link
+In the calculation, rounding was left until the final answer. This will always
+give the most accurate result. Work out the error that is introduced in the
+final answer by rounding the answer in Step 1 to:
+a three significant figures
+b two significant figures.
+As part of the practical skills required
+for your course, you need to know
+how to measure mass, volumes of
+solutions, and volumes of gases.
+This practical application box tells you
+how to measure masses.
+Measuring masses, volumes of
+solutions, and volumes or gases are
+also covered in:
+Topic 3.2, Determination of
+formulae, for how to measure mass
+Topic 3.4, Reacting quantities, for how
+to measure the volumes of gases
+Topic 4.2, Acid-base titrations, for
+how to measure volumes of solutions
+Topic 10.1, Reaction rates, for how
+to measure volumes of gases.
+How accurate is the experimental AH value?
+The data book value for A H of methanol is - 726 kJ mol-!. This seems
+very different from the experimental value of -514kJ mol-1 shown
+above. Data book values are obtained using much more sophisticated
+apparatus than a spirit burner and a beaker of water. Clearly much less
+heat was transferred to the water in our experiment than expected.
+Possible reasons are listed below.
+Heat loss to the surroundings other than the water.
+This includes the beaker but mainly the air surrounding
+the flame.
+Incomplete combustion of methanol.
+There may be some incomplete combustion, with carbon
+monoxide and carbon being produced instead of carbon dioxide.
+You would see carbon as a black layer of soot on the beaker.
+Evaporation of methanol from the wick.
+The burner must be weighed as soon as possible after
+extinguishing the flame. Otherwise some methanol may have
+evaporated from the wick. Spirit burners usually have a cover
+to reduce this error.
+Non-standard conditions.
+The data book value is a standard value. The conditions for this
+experiment are unlikely to be identical to standard conditions.
+Study tip
+Be very careful when comparing
+negative numbers.
+The experimental and data book
+values for A Hare -514 kJ mol-1
+and - 726 kJ mol-1. Correct
+comparisons for the experimental
+value would be less exothermic
+or less negative. Do not be
+tempted to state simply that the
+experimental value is less.
+-514 is more than - 726 as -514
+is less negative!
+All but the last of these reasons would lead to a value for A H that is
+less exothermic than expected.
+131
+ENTHALPY
+What would be the difference, if any in
+the temperature change and the enthalpy
+change of neutralisation? Explain your
+answer.
+(2 marks)
+7 Hydrocarbons such as heptane, C. (1), are
+used as fuels, making use of their combustion
+reaction with oxygen to form carbon dioxide
+and water.
+a Define the term standard enthalpy change
+of combustion. Include the standard
+conditions in your answer. (3 marks)
+b Write the equation, with state symbols for
+the equation that represents the enthalpy
+change of combustion of heptane.
+(2 marks)
+Calculate the enthalpy change of
+combustion of heptane from the AH
+values in the table below. (3 marks)
+The standard enthalpy change of
+formation of hexane can be defined as:
+The enthalpy change when I mol of hexane is
+formed from its constituent elements in their
+standard states under standard conditions.
+Hexane melts at -95 °C and boils at 69 °C.
+(i) What are standard conditions? (1 mark)
+(ii) An incomplete equation is shown
+below for the chemical change that
+takes place to produce the standard
+enthalpy change of formation of
+hexane.
+Add state symbols to the equation to
+show each species in its standard state.
+6C (.....) + 7H, (.......) → CH4......)
+(1 mark)
+(iii) It is very difficult to determine
+the standard enthalpy change of
+formation of hexane directly. Suggest
+a reason why.
+(1 mark)
+(iv) The standard enthalpy change
+of formation of hexane can be
+determined indirectly.
+Calculate the standard enthalpy
+change of formation of hexane using
+the standard enthalpy changes of
+combustion below.
+(3 marks)
+C
+4H/kJ mol-1
+-224
+Substance
+CH2601)
+CO2(g)
+H20(1)
+-394
+-286
+Substance
+H/kJ mol-1
+-394
+Ha
+-286
+-4163
+OCR F322 Jun 09 Q2
+8 Enthalpy changes of combustion, AH, are
+amongst the easiest enthalpy changes to
+determine directly.
+a Define the term enthalpy change of
+combustion.
+(2 marks)
+b A student carried out an experiment
+to determine the enthalpy change of
+combustion of pentan-1-ol, CH, (CH) OH.
+In the experiment, 1.76 g of pentan-1-ol
+was burnt. The energy was used to heat
+250 cm of water from 24.0°C to 78.0°C.
+(i) Calculate the energy released, in
+KJ, during combustion of 1.76 g
+pentan-1-ol. The specific heat
+capacity of water = 4.18 Jg- K-.
+Density of water = 1.00gcm .
+(1 mark)
+(ii) Calculate the amount, in moles, of
+pentan-1-ol that was burnt. (2 marks)
+(iii) Calculate the enthalpy change of
+combustion of pentan-1-ol. Give your
+answer to three significant figures.
+(3 marks)
+143
+9.2 Measuring enthalpy changes
+Use of draught screens and an input of oxygen gas could minimise
+errors from heat loss and incomplete combustion.
+Determination of an enthalpy change
+of reaction AH
+Many reactions take place between two solutions, or between a
+solid and a solution. The enthalpy change of these reactions can be
+determined using plastic cups made of polystyrene foam. These are
+cheap, waterproof and light weight, and offer some insulation against
+heat loss to the surroundings.
+When carrying out reactions between aqueous solutions, the solution
+itself is the immediate surroundings. The chemical particles within
+the solutions may react when they collide, and any energy transfer is
+between the chemical particles and water molecules in the solution.
+A thermometer in the solution will record any temperature change,
+allowing the heat energy change to be calculated using mcAT.
+Figure 3 A simple experiment to
+determine the enthalpy change of a reaction
+Worked example: Determination of AH for a solid
+and a solution
+An excess of zinc powder is added to 50.0 cm of 1.00 moldm-3
+copper(II) sulfate. The mixture is stirred until a maximum
+temperature is obtained.
+Find 4 H for Zn(s) + Cuso, (aq) - Cu(s) + ZnSO2(aq)
+Results
+Initial temperature of solution = 22.5 °C
+Final temperature of solution = 60.5°C
+Temperature change AT of solution = 38.0°C
+For the solution, density and specific heat capacity are close to
+those of water (density = 1.00 g cm-3; c = 4.18 Jg-'K-1)
+Calculation
+Step 1: Calculate the energy change q in the solution in KJ.
+of the solution has a mass
+Density = 1.00gcm-? so 50.0 cm
+of 50.0g.
+q = MCAT = 50.0 x 4.18 x 38.0 = 7942 J = 7.942 kJ
+n(CuSO4) = (*
+1000
+Step 2: Calculate the amount, in mol, of Cuso, that reacted
+(Zn is in excess).
+Vin cm) = 1.00 x 50.0 = 0.0500 mol
+V (in cm)
+1000
+Step 3: Calculate 4 H in kJ mol-!.
+A H is for the reaction Zn(s) + CuSO4 (aq) – Cu(s) + ZnSO4(aq)
+Balancing numbers lmol 1 mol Imol 1 mol
+give amounts:
+132
+Chapter 9 Practice questions
+Enthalpy changes can be calculated from
+average bond enthalpies. You are supplied
+with some average bond enthalpies.
+bond
+C-HC-C0-HC=00=0
+Practice questions
+1 Write equations to represent the following
+enthalpy changes.
+a The standard enthalpy change of
+formation for ethanol, C,H,OH(I).
+b The standard enthalpy change of
+combustion for hexane, C H 4(1)
+c The standard enthalpy change of
+neutralisation.
+d The bond enthalpy of H-Br.
+2 The table below shows enthalpy changes of
+formation.
+bond enthalpy/
+kJ mol-1
++413
++347
++464
++805
++498
+Compound
+4.H/kJ mol-1
+120,(s)
+-158
+co(g)
+-110
+C0, (g)
+-394
+6
+3
+a Define the term standard enthalpy change of
+formation.
+Include the standard conditions in
+your answer.
+(3 marks)
+b Calculate the value of A H, in kJ mol-?, for
+the reaction in the following equation?
+1,03(s) + 5CO(g) - 12(s) + 5CO2(g)
+(3 marks)
+The equation for the reaction of nitrogen and
+hydrogen to form ammonia is shown below.
+N, (g) + 3H, (g) + 2NH2(g)
+AHⓇ = -93 kJmol-1.
+The H-H and N=N bond enthalpies are
++436 and +941 respectively.
+Calculate the N-H bond enthalpy in kJ mol-1.
+Show your working
+(3 marks)
+0.766 g of Mg are added 100 cm (an excess)
+of 1.00 mol dm-3 HCl. The temperature
+changed from 22.0 °C to 44.5 °C.
+a Write the equation for the reaction that
+takes place.
+(1 mark)
+b Show that the HCl was in excess. (2 marks)
+Calculate the energy change in the
+reaction.
+Assume that the specific heat capacity of
+the solution is the same as water. (1 mark)
+d Calculate the enthalpy change, in kJ mol-1
+for the reaction of 1 mol of Mg. (2 marks)
+a Explain why bond enthalpies are always
+endothermic.
+(1 mark)
+b The equation for the combustion of
+pentane is:
+CH,2(g) + 802(g) - 5C02(g) + 6H2O(g)
+(i) Using the bond enthalpies, calculate
+the enthalpy change of combustion
+of pentane
+(3 marks)
+(ii) Explain why this calculated enthalpy
+change is not a standard enthalpy
+change.
+(1 mark)
+(iii) What are the limitations of using
+average bond enthalpies for
+calculating enthalpy changes?
+(1 mark)
+The enthalpy change of neutralisation can be
+determined from experimental results.
+a Define the term enthalpy change of
+neutralisation.
+(1 mark)
+b Write the ionic equation for the change
+that represents enthalpy change of
+neutralisation.
+(1 mark)
+25.0 cm of 2.00 mol dm-HCl is placed
+in a plastic cup and its temperature is
+recorded. 25.0 cm' of 2.00 moldm- KOH
+is placed in a different plastic cup and its
+temperature is recorded.
+The initial temperature of both solutions
+is 19.0 °C. After mixing the maximum
+temperature of the reaction mixture was
+31.9 °C.
+Density of solution = 1.00 gcm .
+The specific heat capacity of the solution
+is the same as water.
+Calculate the enthalpy change of
+neutralisation.
+(4 marks)
+d The same experiment was repeated using
+100 cm of HCl and NaOH.
+4
+142
+ENTHALPY
+Unfamiliar enthalpy cycle
+The energy cycle below and enthalpy change information can be used to
+calculate an unfamiliar enthalpy change X.
+Table 3 Enthalpy information
+Reaction
+Enthalpy
+change/kJ mol-1
+-393
+-285
+C(s) + 0, (g) CO2()
+H2(g) + 302(g) → H20(1)
+Caco, (s) + 2HCl(aq) → CaCl (aq) + CO2(g) + H20()
+Ca(s) + 2HCl(aq) → CaCl,(aq) +H2(g)
+-54
+-168
+Ca(s) + 2HCl(aq) + C(s) + 140_(8) "*">CaCO3(s) + 2HCl(aq)
+Cacly(s) + H2(aq) + C(s) +1202()
+CaCl(s) + H20(1) + C(s) + O2(g) → CaCl (s) + H2O(1) + CO2(g)
+To calculate and identify the unknown enthalpy change, match what has
+changed at each stage in the cycle with the enthalpy changes provided.
+Then work out the two routes to solve the unknown enthalpy change.
+1 Use Table 3, to identify the values for enthalpy changes A-D.
+2 Using the values for A-D and the enthalpy cycle, calculate the
+enthalpy change of formation 4 H of calcium carbonate, CaCO,
+(1 mark)
+Summary questions
+1 Explain why 4H®(C(s)) and A H® (CO2(g)) have the same value: -394 kJ mol-1.
+2 You are provided with the following data.
+Substance NH (8) HI(g) NH Cl(s) Ca(OH),(s) CaCl (s) H20(1) Cuo(s)
+4.HⓇ/kJ mol-1 -46 -93 -314 -986 -796 -286 -157
+Calculate A H® for the following reactions.
+a NH (g) + HCl(g) → NH,CI(s)
+b 2NH, C1(s) + Ca(OH),(s) — CaCl (s) + 2NH,(s) + 2H20(1)
+c 2NH3(g) + 3Cu0(s) — N2(g) + 3Cu(s) + 3H20(1)
+3 You are provided with the following data.
+Substance C(s) Hz (g) CH40 C2H2OH(1)
+A HⓇ/kJ mol-1 -394 -286 -4163 -1367
+Calculate the enthalpy change of formation of a CH 2 (1 mark) b C,H,OH(1).
+(1 mark)
+(1 mark)
+(1 mark)
+(1 mark)
+141

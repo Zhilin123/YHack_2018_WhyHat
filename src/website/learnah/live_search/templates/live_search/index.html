@@ -1,0 +1,67 @@
+{% extends "live_search/base.html" %}
+{% load static %}
+
+{% block css %}
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+{% endblock %}
+
+{% block content %}
+
+<div class="container">
+    <input type="text" name="search_box" id="search_box" placeholder="Search..">
+</div>
+<div class="container" style="width:100%">
+    <div id="videos" class="row view-group">
+                <div class="item col-xs-4 col-lg-4 list-group-item">
+                    <div class="thumbnail card">
+                        <div class="img-event">
+                            <img class="group list-group-image img-fluid" src="http://placehold.it/400x250/000/fff" alt="" />
+                        </div>
+                        <div class="caption card-body">
+                            <h4 id="video_title" class="group card-title inner list-group-item-heading">
+                                Video title</h4>
+                            <p id="video_description" class="group inner list-group-item-text">
+                                description
+                            </p>
+                            <div class="row">
+                                <div class="col-xs-12 col-md-6">
+                                    <p id="video_tags" class="lead">
+                                        Physics Computers</p>
+                                </div>
+                                <div class="col-xs-12 col-md-6">
+                                    <a id="video_btn" class="btn btn-success">Watch Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block script %}
+    $("#search_box").on("paste keyup", function() {
+        //alert($(this).val());
+        $.ajax({
+            method: "GET",
+            url: "{% url 'live_search:search_data'%}",
+            data: {
+                'input':$(this).val(),
+            }
+        }).done(function(data){
+            var videos = data['data']['videos'];
+            console.log(videos);
+            $("#videos").empty();
+            for (var i = 0; i<videos.length; i++){
+                add_video_card(videos[i]['title'],
+                            videos[i]['description'],
+                            videos[i]['url'],)
+            }
+        });
+    });
+    function add_video_card(title, description, url){
+        html_text = '<div class="item col-xs-4 col-lg-4 list-group-item"><div class="thumbnail card"><div class="img-event"><img class="group list-group-image img-fluid" src="http://placehold.it/400x250/000/fff" alt="" /></div><div class="caption card-body"><h4 id="video_title" class="group card-title inner list-group-item-heading">' + title + '</h4>';
+        html_text += '<p id="video_description" class="group inner list-group-item-text">' + description + '</p><div class="row"><div class="col-xs-12 col-md-6"><p id="video_tags" class="lead">' + url + '</p></div><div class="col-xs-12 col-md-6"><a id="video_btn" class="btn btn-success">Watch Now</a></div></div></div></div></div>';
+        $("#videos").append(html_text);
+    };
+{% endblock %}

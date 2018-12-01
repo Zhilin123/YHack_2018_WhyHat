@@ -1,0 +1,1096 @@
+Quantum physics
+5.4
+Intensity of radiation
+When a lamp emits light, we could measure its intensity. This is the amount of energy it carries, per
+unit area, and per unit time. Power is the rate of transfer of energy, so this becomes:
+21 power (W)
+intensity (Wm-2) =
+area (m2)
+TED
+WORKED EXAMPLE
+On a particular day, sunlight lands on Earth with an intensity of 960 Wm? What is the power received
+by the solar cell on a calculator placed in this sunlight, if the cell is a rectangle 1 cm by 4 cm?
+.:
+P = / A
+=960 x 0.01 0.04
+P = 0.38 W
+— level A
+Questions
+632.8 nm wavelength
+laser light emission
+What is the wavelength of light emitted when an excited hydrogen electron falls from energy level n = 2
+down to its ground state?
+level B
+-
+-
+Why couldn't a photon of light with an energy of 1.43 x 10-18 joules excite hydrogen from its ground
+state?
+-
+-
+-
+-
+-
+-
+-
+3
+-
+-
+-
+Fig F shows the two important energy levels (out of the large number of available levels) of a neon atom,
+for its use inside a He-Ne laser. Calculate the energy of the photon emitted when a neon atom electron
+excited to the n = A level drops to level B. Give your answer in electronvolts.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Other than by absorbing photons, explain how a ground state atom of mercury could be excited if it were
+in the tube of a compact fluorescent light bulb.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Explain why the light from a compact fluorescent light bulb containing mercury gas will produce a
+spectrum of various colours when electricity passes through the gas.
+-
+-
+-
+-
+-
+-
+6
+Estimate the number of photons hitting your face each second when you stand in the sunshine.
+ground state
+Ne
+fig F Electron de-excitation in a
+neon atom.
+Kev definitions
+The ground state is the lowest energy level for a system. For example, when all the electrons in an
+atom are in the lowest energy levels they can occupy, the atom is said to be in its ground state.
+Excitation is an energy state for a system that is higher energy than the ground state. For example, in an
+atom, if an electron is in a higher energy level than the ground state, the atom is said to be 'excited'.
+lonisation energy is the minimum energy required by an electron in an atom's ground state in order to
+remove the electron completely from the atom.
+A line spectrum is a series of individual lines of colour showing the frequencies present in a light source.
+201
+BIGGER
+SOLAR CELLS TO POWER THE USA? W
+WP
+In this activity, you will consider the quantity of solar cells that might be needed to generate enough
+electricity for the USA, analyse the limitations on making such a calculation, and discuss the practical
+difficulties in implementing such a plan.
+AMAZING MAP: TOTAL SOLAR PANELS TO POWER THE
+UNITED STATES
+Solar panels to fulfill U.S.
+electricity demand
+(with caveats)
+1 = 44 miles per side
+CAVEATS AND PROBLEMS
+That is a lot of solar panels! 3 billion of them. However it is an
+interesting thought to consider the total approximate cost of these
+panels compared with what the United States government spends
+every year on everything else... If one approximates each panel
+to cost $250, the total cost would be $767 billion. To put it in
+perspective, the government spent $3600 billion in 2012.
+The raw materials and manufacturing capability would be
+enormous to build that many panels.
+The infrastructure and additional equipment needed would be
+tremendous.
+It's dark at night - no solar power generation... so traditional
+power would required during those times. A battery storage bank
+would be unimaginably huge for night storage at these power
+levels...
+Solar panels and inverters are not 100% efficient. There will be
+cloudy days.
+Less sun during the winter months unless this was built on the
+equator.
+This map illustrates the total area of solar panels that would be
+needed to fulfill the electricity demands of the United States. The
+United States Energy Information Association (eia.gov) reveals in
+their December 2013 Electrical Power Annual report, in the table
+below, that the peak load for all interconnections of electricity
+during the summer of 2012 was 767 762 Megawatts within the
+contiguous United States. It is also reported that total electricity
+consumption for the United States during 2012 was 3 694 650
+million kWh (million kilowatt-hours).
+3 694 650 000 000 kWh Total 2012
+10 122 328 767 123 Wh Daily Average
+421 763 698 630
+W
+Hourly Average
+767 762000000 W
+Peak Load
+I imagined using a 250-watt Sharp ND-250QCS solar panel (made
+in the USA) 65" x 39" each.
+767 762 000 000 watts / 250 watts per panel
+3071 048 000 total panels
+PER PANEL
+TOTAL NEEDED
+2535 sq."
+54063 240833 sq.'
+1939 sq. miles
+44 miles per side of square
+A SOLUTION
+While it may not be doable to build a central location for our
+nation's electricity needs, it is very doable to augment one's own
+electricity needs with solar photovoltaic panels. Even building
+an off-grid system is entirely within the realm of possibilities for
+many people.
+In any event, it was an interesting exercise to determine how
+much total area of solar panels would fulfill the nation's electricity
+demands. It's a smaller footprint than I initially thought it would
+be...
+17.6 sq.
+Where else will I encounter these themes?
+1.1
+2.1
+2.2
+2.3
+3.1
+3.2
+202
+TOPIC 5
+Waves and the particle nature of light
+CHAPTER
+5.4 Quantum Physics
+Introduction
+Albert Einstein is probably the most famous physicist of the 20th century. Away from the Newtonian bias of
+England, Einstein is probably the most famous physicist ever. So what did a clerk in the Swiss patent office,
+who mostly educated himself, produce that could make him so important? In 1905, Einstein had what is
+often referred to as his Annus Mirabilis - year of miracles - in which he published scientific papers on four
+separate topics. All four papers made significant breakthroughs in the topics they were concerned with,
+and were diverse, not directly related to each other. His paper on the photoelectric effect won Einstein the
+1921 Nobel Prize for Physics.
+In this chapter, we will be dealing with the ideas that electromagnetic radiation, such as light, and
+WP particles, such as electrons, can behave as both waves and particles. Usually we only observe one
+aspect or the other, such as the photoelectric effect demonstrating that light can be a particle.
+Scientists are still not clear on an explanation for both light and electrons that can universally
+describe their behaviour under all circumstances. Einstein helped us along the way, but he did not
+solve the underlying conundrum. Maybe someday you will.
+All the maths you need
+• Units of measurement (e.g. the electronvolt, eV)
+• Use of standard form and ordinary form (e.g. using a wavelength of light)
+Changing the subject of an equation (e.g. using the photon energy equation)
+• Solving algebraic equations (e.g. finding the colour of light emitted by an excited atom)
+Substituting numerical values into algebraic equations (e.g. a photoelectric effect calculation)
+• Determining the slope and intercept of a linear graph (e.g. analysing the photoelectric cell data)
+188
+5.4 Exam-style questions
+1 What is the energy of a photon of yellow light, with a
+wavelength of 550 nm?
+(a) 5.79 x 10-38J
+(b) 3.62 x 10-21 J
+(c) 3.62 x 10-19 J (d) 2.26J
+[Total: 1]
+4 An electronics student is using light emitting diodes (LEDs)
+to make a traffic light model. He uses red, orange and green
+LEDs. The table gives information about these LEDs. They are
+identified as 1, 2 and 3.
+[1]
+LED
+Colour
+Frequency/
+1014 Hz
+5.66
+5.00
+Wavelength/
+10-9m
+530
+600
+2
+2 Use information in the diagram, showing energy levels for
+electrons in a hydrogen atom, to calculate the frequency of a
+photon of light emitted by an electron moving from the level
+n= 4 to the ground state.
+E = 0J
+E = -1.36 X 10-19 J7
+E = -2.42 X 10-19
+4.41
+680
+un= 0000
+LIL
+(a) Complete the table by filling in the colour of light emitted
+by each LED.
+[1]
+(b) Calculate the energy of the lowest energy photon emitted
+by this traffic light model.
+[Total: 4]
+[3]
+L
+E, = -5.45 X 10-19J
+energy (J)
+quantum number, n
+5 In 1921. Albert Einstein won the Nobel Prize for his work on
+the photoelectric effect.
+The results of experiments on the photoelectric effect show that:
+photoelectrons are not released when the incident radiation
+is below a certain threshold frequency:
+• the kinetic energy of the photoelectrons released depends
+on the frequency of the incident light and not its intensity.
+Explain how these results support a particle theory, but not a
+wave theory of light.
+[6]
+[Total: 6]
+6 The graph shows how the maximum kinetic energy E of
+photoelectrons emitted from the surface of aluminium varies
+with the frequency fof the incident radiation.
+E = -2.18 X 10-18 JL
+Jn= 1
+(a) 8.20 x 10-20 Hz
+(c) 3.08 x 1015 Hz
+(b) 2.42 x 10-6 Hz
+(d) 2.05 x 1014 Hz
+[1]
+[Total: 1]
+E/eV
+3 A zinc plate illuminated by ultraviolet light will emit
+photoelectrons. Which of the following would not be observed
+using the same zinc plate?
+(a) Photoelectrons would still be emitted using shorter
+wavelength UV light
+(b) More photoelectrons would be observed each second using
+brighter UV of the original wavelength
+(c) The stopping voltage for the photoelectrons would be
+decreased using UV light with a longer wavelength
+(d) The maximum kinetic energy of the photoelectrons would
+be increased using brighter UV of the original wavelength
+[1]
+[Total: 1]
+o 2 4 6 5 10 12 14 16 18 20
+f/10'4Hz
+(a) Explain why no photoelectrons are emitted below a
+frequency of 10 x 1014 Hz.
+(b) Calculate the work function of aluminium in electron
+volts.
+(c) State the quantity represented by the gradient of the
+graph.
+Add a second line to the graph to show how E varies
+with f for a metal which has a work function less than
+aluminium
+[2]
+[Total: 7]
+204
+5.
+41
+Wave-particle duality
+By the end of this section, you should be able to...
+understand how the behaviour of electromagnetic radiation
+can be described in terms of both waves and photons
+use the equation E = hf for the energy of a photon of
+electromagnetic radiation
+Light is a wave
+We have seen numerous instances of light undergoing wave-like
+activities.
+Evidence that light is a wave
+The interference pattern produced by diffraction and Young's
+two-slit experiment both require the superposition of wave
+displacements to generate the standing wave pattern seen. This is
+only possible if light is behaving as a wave and has the appropriate
+repeating cycles of displacement that cause this ongoing
+superposition to maintain the constructive and destructive
+interference that produces nodes and antinodes. Particles cannot
+superpose in this way.
+Huygens' principle
+The Dutch scientist Christiaan Huygens came up with a principle
+for predicting the future movement of waves if we know the
+current position of a wavefront. The basic idea is to consider
+that any and every point on the wavefront is a new source of
+circular waves travelling forwards from that point. When the
+movement of these myriad circular waves is plotted, and then
+their superposition considered, the resultant wave will be the new
+position of the original wavefront.
+secondary wavelets
+new wavefront
+secondary sources
+fig C Superposition effects, such as standing wave interference patterns, are
+only possible if light behaves as a wave.
+Polarisation is another phenomenon exhibited by electromagnetic
+waves, including light, that can only be explained in classical
+physics by using the ideas of waves.
+original wavefront
+fig A Huygens' construction for explaining the movement of waves.
+Huygens" geometrical system exactly explains all the basic
+phenomena we see light undergoing. We can make drawings
+like fig A to correctly predict the movement of wavefronts in
+reflection, refraction, diffraction fig B, interference and straight-
+line propagation of light.
+-
+-
+Light is a particle
+In some cases, the examples of light acting as a wave are
+phenomena that can only occur for waves. In Section 5.4.2
+we will look in detail at the photoelectric effect. This was first
+observed in 1887 by Heinrich Hertz (after whom the unit for
+frequency is named), but it was not until the beginning of
+the twentieth century that an adequate explanation of the
+phenomenon was made. Working on the basis of Max Planck's
+1901 suggestion that light could exist as quantised packets of
+energy called photons, Einstein produced a paper called, in
+English, Concerning an Heuristic Point of View Toward the Emission
+and Transformation of Light. Einstein wrote four important papers
+in 1905, including one on relativity and one regarding E = mc,
+but it was the explanation of the photoelectric effect for which
+he was awarded the 1921 Nobel Prize in Physics. Crucially, the
+photoelectric effect cannot be explained using a wave theory for
+light. However, the idea that light travels as particles, or photons,
+whose energy is proportional to the frequency it would have when
+considered as a wave, fits all the observations exactly.
+WM
+fig B Huygen's construction correctly predicts diffraction through a gap.
+190
+What have I studied before?
+• Diffraction and interference of light
+Detailed knowledge of the parts of the
+electromagnetic spectrum, and the frequencies of
+electromagnetic radiations
+Models of waves and wave processes
+The existence and properties of the electron
+The electronic structure of atoms
+Macroscopic emission and absorption of light
+What will I study later?
+• Details about the smallest fundamental particles
+yet found (A level)
+Blackbody radiation of all wavelengths of
+electromagnetic radiation, and the colours of
+stars (A level)
+How to calculate the wavelength of an electron
+(A level)
+Experimental investigations of the structure of
+subatomic particles (A level)
+The process of thermionic emission, and its
+similarities to and differences from the
+photoelectric effect (A level)
+What will I study in this chapter?
+The idea of wave-particle duality, and the nature
+of light
+Photon energy
+• The photoelectric effect
+Electron diffraction and interference
+How light is created
+189
+Thinking Bigger
+5.4
+Let us start by considering the nature of the writing in the article.
+1. The article opposite was written for an American website blog. Consider the article and
+comment on the type of writing being used. Think about for example whether this is a
+scientist reporting the results of their experiments, a scientific review of data, a
+newspaper or magazine style article for a specific audience. Try and answer the
+following questions:
+a. Is there any bias present in the report? What parts of the article suggest any bias?
+b. How has the author adapted their use of language to suit their audience? Would
+the wording be different for example if they were trying to explain the same ideas to
+primary school children? Or to a US government committee for energy infrastructure?
+C. Discuss the extent to which the caveats and problems' highlighted by the author
+undermine the basic premise of the article.
+555880000000001
+Command word
+If you're asked to
+discuss something you
+first need to identify
+the information you
+should talk about. (Here,
+the bullet points will
+help you.) Then explore
+and investigate that
+information. You answer
+might take the form of
+a carefully considered
+argument.
+Now we will look at the physics in, or connected to, this article. Some of these questions will link to
+topics in much earlier sections of this book, so you may need to combine concepts from different
+areas of physics to work out the answers. Use the timeline at the bottom of the page to help you put
+this work in context with what you have already learned in your course.
+2. Convert all the dimensions quoted in the article into Sl units: (1 inch, 1" = 2.54 cm;
+1 foot, 1' = 12 inches; 1 mile = 1.6 km)
+3. The radiation from the Sun lands on Earth with a power of approximately 1000 W m-2
+How much sunlight power would land on one of the solar panels considered in the
+article?
+4. If the average wavelength of light from the sun landing at the surface of the Earth were
+taken to be 550 nm, how many photons would be landing on this one solar panel per
+second? Discuss whether it is reasonable to make this wavelength average for this
+calculation.
+5. If the panel produces 250 W, what is the efficiency of one solar panel?
+6. The manufacturer further claims that the panel is made up of 60 individual solar cells in
+series, and the maximum output voltage is 29.8 V. What is the emf produced by each of
+the 60 cells, and what is the maximum output current?
+155500808806800
+Activity
+Many working environments require people to be able to communicate scientific ideas in persuasive
+ways. Imagine you work for a US electricity generating company that specialises in nuclear power
+stations. Prepare a critique of this blog article which could be used to persuade the public that the
+author's idea, for solar power to be used to generate all of America's electricity needs, is impractical and
+too expensive. You should not explain any benefits of using other means, such as nuclear power your
+brief is simply to put the public off the idea of large solar power stations.
+We have not yet
+considered the
+practicalities of
+connecting the giant
+solar power station
+to the national grid to
+transport the electricity
+all over the USA. Some
+calculations about
+quantity and cost of
+cabling and pylons
+could add some weight
+to your critique
+By Ken Jorgustin, from Modern Survival Blog, http://modernsurvivalblog.com
+.
+4.1
+4.2
+5.1
+5.2
+5.3
+YOU ARE
+HERE
+203
+Quantum physics
+5.4
+II
+E = OJ
+E = -1.36 X 10-19 J
+E = -2.42 x 10-19 J
+n=4
+n= 3
+E = -5.45 X 10-19 J
+n= 2
+If an electron is already excited, after a random amount of time
+it will de-excite. This may involve dropping straight down to the
+ground state, or it may drop to an intermediate level if there is
+one. Fig C shows an excited hydrogen electron dropping from
+energy level n= 4 down to n=3. As the electron ends up with
+less energy than it had, the conservation of energy requires
+that this energy is emitted as a photon with exactly the energy
+difference between the levels. The frequency of the emitted
+photon can be calculated from the equation for photon energy,
+E = hf. Thus, a collection of gas atoms that are excited will emit
+light with a particular collection of frequencies, dependent on
+which element the gas atoms are.
+WORKED EXAMPLES
+energy (J)
+quantum number, n
+What are the frequencies of the photon absorbed in fig B and the
+photon emitted in fig C?
+In fig B, the electron is raised from level n = 1 up to level n = 2.
+The energy difference between the levels - the energy gained by
+the electron - must equal the energy of the absorbed photon.
+From the diagram, the energy level difference is 1.635 x 10-18).
+AE = Ex - E, = 1.635 x 10-18)
+AE = hf
+E =
+-2.18 X 10-18 J
+n=
+1
+fig B Electron excitation in a hydrogen atom. For ease of reference, the energy
+levels are numbered with integers from n = 1 for the ground state,
+upwards.
+An incident photon that does not have the energy exactly
+equivalent to a jump between the current position of the electron
+and one of the higher levels will not be absorbed - the photon and
+electron will not interact at all. If gas atoms are illuminated by a
+range of frequencies (colours), those with the correct frequency
+values will be absorbed, so there will be some colours missing
+from the light after it passes through the gas.
+E = OJ
+= -1.36 X 10-19)
+= -2.42 X 10-19 J
+f-1.635 x 10-18
+6.63 x 10-34
+f = 2.47 x 1015 Hz
+In fig C, the electron drops from level n = 4 down to level n = 3.
+The energy difference between the levels - the energy lost by the
+electron - must equal the energy of the emitted photon.
+From the diagram, the energy level difference is from -1.36 x
+10-19) down to -2.42 * 10-19).
+AE = E3 - E4 = -2.42 x 10-19 - -1.36 10-19 = -1.06 x 10-19)
+The fact that this energy value is negative indicates that energy is
+given out here.
+l
+E,= -5.45 X 10-19 J
+12
+f_1.06 x 10-19
+16.63 x 10-34
+f= 1.60 x 1074 Hz
+energy (J)
+quantum number, n
+lonisation
+Fig A shows the ground state energy of a hydrogen atom is 2.18
+X 10-18 J, which is equivalent to 13.6 electronvolts. The n=co
+level at the top of the diagram has an energy value of zero. At this
+level, the electron has left the atom - the hydrogen is ionised. This
+means that the energy required to ionise an atom of hydrogen in
+its ground state, its ionisation energy, is 13.6 eV.
+E = -2.18 X 10-18jL
+n =
+1
+Learning tip
+Hydrogen has the simplest energy level system as it only has one
+electron, but everything explained here is applicable to an electron
+in any atom. All we need is the energy level diagram and we can
+calculate the frequencies of photons emitted and absorbed for a
+variety of energy level transitions.
+fig C Electron de-excitation in a hydrogen atom.
+199
+The photoelectric effect
+By the end of this section, you should be able to...
+explain the photoelectric effect and experimental
+observations of it
+understand how the photoelectric effect provides evidence
+for the photon model of light
+use the photoelectric effect equation
+ultra
+violet light
+negatively
+charged
+zinc plate
+Gold leaf falls immediately
+the zinc plate is illuminated
+with ultra violet light.
+Photoelectrons
+If ultraviolet light is shone onto a negatively charged zinc plate,
+the plate loses its charge. The explanation for this is that the light
+causes electrons to leave the metal, removing the negative charge.
+The electrons that are released are called photoelectrons.
+However, variations on this experiment throw up some surprising
+observations. There is a certain minimum amount of energy that
+an electron needs in order to escape the surface of the metal
+it is in. This energy is called the work function, and has the
+symbol, o.
+The wave theory of light would allow some of the wave energy
+to be passed to the electrons to enable them to gain the work
+function and escape. In the wave theory, the energy carried
+by a wave depends on its amplitude, which for light means its
+brightness. So the wave theory would predict that any colour
+of light, if made sufficiently bright, should enable the release
+of photoelectrons. Alternatively, if the wave were of smaller
+amplitude, it could shine for longer and slowly pass energy to
+the electrons, until they had gained as much as the work function
+and escape. However, this is not what is observed. The same
+negatively charged zinc plate cannot be discharged by red light, no
+matter how bright or how long the illumination. No photoelectrons
+are emitted under red light. There is a maximum wavelength for
+the light, above which no photoelectrons are ever emitted. This
+can be thought of equivalently as a minimum frequency for the
+light, known as the threshold frequency.
+fig A Demonstrating the photoelectric effect.
+If you attempt to discharge the electroscope with an ordinary desk
+lamp, or sunlight, there will be very little effect as these sources
+provide little UV light intensity, and longer wavelengths will not
+cause the photoelectric effect with zinc. Even if you left the
+electroscope in front of the desk lamp for several hours, it would not
+discharge. However, the UV light need not be very bright, and it will
+still immediately cause discharge.
+Investigation
+Investigating photoelectrons
+If you charge a gold leaf electroscope then it will show a deflection
+on the gold leaf. If you place a zinc plate on top of the electroscope,
+the photoelectric effect will allow the electroscope to be discharged
+if it held a negative charge. If you shine UV light onto the zinc plate,
+the gold leaf will fall immediately. This observation shows that
+electrons on the zinc plate have escaped. Those electrons remaining
+on the gold leaf and electroscope stalk spread out more, so that
+there is no longer enough mutual repulsion to hold up the gold leaf.
+You may need to clean the surface of the zinc, as it oxidises quite
+easily in air, so there may be a layer of oxide on top of the pure
+metal, stopping the light absorption.
+The explanation for these experimental observations can be
+summarised as:
+• Light travels as photons, with a photon's energy proportional
+to the frequency
+• When a photon encounters an electron, it transfers all its
+energy to the electron (the photon ceases to exist).
+If an electron gains sufficient energy - more than the work
+function - it can escape the surface of the metal as
+a photoelectron
+Brighter illumination means more photons per second, which
+will mean a greater number of photoelectrons emitted per
+second.
+If an electron does not gain sufficient energy from an
+encounter with a photon to escape the metal surface, it will
+transfer the energy gained from the photon to the metal as a
+whole before it can interact with another photon. Thus, if the
+photon energy is too low, no photoelectrons are observed.
+193
+5.
+42
+The photoelectric effect equation
+Einstein developed an equation to explain the photoelectric effect, which is based fundamentally on
+the conservation of energy. We have previously seen that the energy of a light photon can be found
+from E= hf. An electron gaining this energy from a photon will have to use up the amount of energy
+equal to the work function in order to escape the metal surface. If before that the electron needs to
+travel up to the surface from deeper in the metal, it will have used up some additional energy along
+the way. Only the remaining energy will be available to be used by the electron as the kinetic energy
+to fly away. Therefore, the kinetic energy that the electron can have on departure from the metal
+surface is less than or equal to the difference between the photon energy and the work function.
+This maximum possible kinetic energy m2max determines the maximum velocity Vmax of the
+photoelectron. Einstein's photoelectric effect equation then is:
+žmv max = hf - 0
+Or, in direct conservation of energy terms, the photon energy is used by the electron partly to escape
+the metal surface and partly as its kinetic energy. So, a rearrangement of the equation is:
+hf = 0 + mvamax
+WORKED EXAMPLE
+Learning tip
+The SI units for the terms
+in the photoelectric effect
+equation are all joules (), but it
+is often used in units of
+electronvolts (eV). Remember
+that:
+1 eV = 1.6 x 10-19)
+What is the work function of potassium if green light with a wavelength of 510 nm shining on it
+produces photoelectrons that have a maximum kinetic energy of 0.14 eV?
+mv_max = hf - •
+.. $=hf - 3mvmax
+mv-max = 0.14 eV = 0.14 1.6 10-19 = 2.24 x10-20)
+6.63 x 10-34 x 3 x 10° 2
+hf=hc
+V 510 * 10-9
+0= hf - mv2 max = 3.9 x 10-19 -2.24 x 10-20
+0= 3.68 x 10-19)
+The photoelectric cell experiment
+photoelectrons
+incident
+light
+variable power supply
+photocell
+LLA
+fig B A photoelectric effect cell experiment circuit.
+We could use the photoelectric effect equation to measure Planck's constant and the work function
+for a metal. In a vacuum, we place the metal as the anode in a cell that has a gap to the cathode -
+see fig B. When we shine light of a known frequency onto the anode, photoelectrons will be emitted
+and the current registered on the ammeter. If we slowly increase the pd across the photoelectric cell,
+eventually the anode will become sufficiently positive that all photoelectrons will be stopped and
+attracted back to it, so the photoelectric current will be zero. This stopping voltage, V., will give us
+the maximum kinetic energy of the photoelectrons, from the definition of voltage:
+imvmax = e XV,
+If we use a range of light frequencies and find the stopping voltage for each, we can plot a graph
+of the photoelectron maximum kinetic energy, on the y-axis, against frequency, on the x-axis.
+Comparison with the equation for a straight line shows us that the graph should produce a straight
+best-fit line and the gradient will be equal to Planck's constant.
+mvmax = hf - ©
+y = mx + c
+194
+5.4
+Line spectra
+Light made up of multiple wavelengths (colours) can be split up to show which colours are present.
+This could be done using a diffraction grating in which the amount of diffraction is dependent on
+the wavelength, and so the various colours will spread different amounts. The resulting spectrum will
+often be a series of individual lines, if the original light contained only a select few wavelengths. Such
+a line spectrum is the typical result of exciting the atoms of a gas, perhaps by heating the gas.
+400nm
+500 nm
+fig D Hydrogen emission line spectrum.
+600'nm
+700nm
+Learning tip
+Remember that c = fa, so photons that all have the same frequency will also all have the same wavelength
+(colour).
+For example, fig D shows the line spectrum from hydrogen gas. The gas has electricity passed
+through it, and this will excite the hydrogen atoms. Each coloured line is a wavelength of light given
+off as a result of an electron dropping between two energy levels. The different energy gaps cause
+the difference in wavelengths emitted. When viewed all together, the colours merge, and the gas
+glows a purple colour.
+Investigation
+WP
+Investigating gas discharge spectra
+A high voltage will cause an electric current to pass through a gas in a discharge tube. The electrical energy
+excites the electrons in each atom of the gas, and they then drop energy levels at random times, giving off
+a photon for each energy level transition. As there are so many atoms, it appears as if the gas is
+continuously emitting light, and of all the possible colours - all the possible transitions within its energy
+level ladder. Using a diffraction grating, we can analyse the light emitted from the tube to detect the
+separate colours, or wavelengths, being emitted. We observe a line spectrum.
+fig E A gas discharge tube demonstrates the emission of photons by excited electrons of hydrogen gas. A diffraction
+grating shows the separate lines in the spectrum.
+If we change the tube for one containing a different gas, we will observe a different line spectrum.
+200
+5.
+41
+Electrons are waves
+If electrons are made to travel at very high speeds, they will pass through gaps and produce
+a diffraction pattern. They will similarly interact with a double-slit apparatus to produce the
+interference pattern seen when waves pass through two slits. Diffraction and interference are not
+expected by classical particles, as they should simply travel straight through the slits. Observation of
+these experimental results proves that electrons can behave as waves.
+Waves or particles?
+The experimental observations highlighted in this section have suggested that both electrons and
+electromagnetic radiation seem to contradict our explanations of them. Physicists have good
+theoretical descriptions of the wave and particle natures for electrons and also for electromagnetic
+radiation. However, we do not have a complete and perfect single theory that explains both correctly.
+for either electrons or EM radiation.
+Phenomenon
+Evidence for waves
+Evidence for particles
+light
+diffraction, interference, polarisation photoelectric effect
+electron
+diffraction, interference
+ionisation
+table A Summary of the evidence for light and electrons behaving as waves or particles.
+The idea that these things behave as waves under certain circumstances and as particles under other
+circumstances is known as wave-particle duality.
+Questions
+| Suggest an experiment that demonstrates:
+(a) light behaving as a wave
+(b) electrons behaving as waves.
+2 What is the energy of a photon of UV light that has a wavelength of 2 x 10-7m?
+Demonstrating the polarisation of a beam of electrons requires a complex experiment. If electrons were
+shown to be travelling like polarised light, explain whether this would confirm that the electrons were
+particles or waves.
+4
+is light a wave or a particle? Explain your answer.
+Draw a picture illustrating how Huygens' construction could explain diffraction of sea waves around a
+large rock.
+Key definitions
+Photons are 'packets' of electromagnetic radiation energy where the amount of energy E = hf, which is
+Planck's constant multiplied by the frequency of the radiation: the quantum unit that is being considered
+when electromagnetic radiation is understood using a particle model.
+Quantisation is the concept that there is a minimum smallest amount by which a quantity can change:
+infinitesimal changes are not permitted in a quantum universe. The quantisation of a quantity is analogous
+to the idea of the precision of an instrument measuring it.
+Wave-particle duality is the principle that the behaviour of electromagnetic radiation can be described in
+terms of both waves and photons.
+192
+5.
+44
+Atomic electron energies
+By the end of this section, you should be able to...
+understand atomic line spectra in terms of energy level transitions
+calculate the frequency of radiation emitted or absorbed in an electron energy transition
+Electron energy levels
+In Section 3.1.6 we saw that electrons in semiconductors can have varying amounts of energy, and
+that the energy they have can put them into the valence band or conduction band. These energy
+bands are wide in solids - there is a large range of values of energy that the electron could have and
+still be in that band. In free atoms, such as those in a gas, the energy values that the electrons could
+have are limited to a small number of exact values, often called energy levels.
+E = OJU
+n= 6000
+Ex= -1.36 X 10-19 J
+E = -2.42 x 10-19 J
+n= 3
+I
+E =
+-5.45 X 10-19 J
+energy (J)
+quantum number, n I
+E = -2.18 X 10-18 JL
+n = 1
+fig A An energy level diagram for hydrogen. The energy values are negative, as we have to put energy in to lift the
+electron up from the ground state.
+Excitation and de-excitation
+Fig A illustrates the energy values that electrons of hydrogen could have. Under normal
+circumstances, an electron in an atom of hydrogen would be in its ground state. This is the lowest
+energy level, with a quantum number (or level) of n = 1. In order to move up energy levels, the
+electron must take in some energy. This is called excitation Electrons can become excited if the
+atom collides with another particle. Alternatively, if the electron absorbs a photon that has exactly
+the correct amount of energy, the electron can jump to a higher energy level. For example, the
+difference in energy between the ground state (-2.18 x 10-18 J) and the n = 2 state (-5.45 X 10-19 J)
+is 1.635 x 10-18 J.
+A photon with exactly this energy could be absorbed by an electron in the ground state of hydrogen,
+and this would lift the electron up to the energy level above the ground state, n = 2, and the photon
+would no longer exist. This is illustrated in fig B.
+198
+Quantum physics
+5.4
+of an electron beam can be controlled by altering the voltage
+applied to accelerate the electrons. In some instances, this
+can mean the wavelength of electrons in the beam can be
+10-10m - the same size as atoms. As a rough rule of thumb, the
+minimum-sized object that can be imaged by any wave is about
+the same size as the wavelength. In this example, the electron
+waves are 1000 times shorter than light waves, and so they can
+produce images of objects 1000 times smaller than visible light.
+fig D An electron beam diffraction tube demonstrates the wave nature
+of electrons.
+If we make careful measurements of the dimensions of the tube and
+the diffraction pattern produced with different accelerating voltages,
+we can carry out an approximate calculation of the atom spacing
+in graphite.
+Two-slit electron interference
+In 1965, Richard Feynman suggested that electrons should also be
+able to produce the two-slit interference pattern seen with light, as
+they can behave as waves. Recently, this has been shown to be the
+case, giving further evidence for the wave nature of electrons.
+fig F Electron microscopes can have a magnification up to 10 million times.
+These bacteria are about 1 micrometre long.
+:
+fig E Recent experiments have been able to demonstrate electrons producing
+an interference pattern when passed through a two-slit-type experiment.
+The five images here show the same image after different amounts of
+time. The particle electrons hit the screen in places that slowly build up
+the wave interference pattern.
+fig G Electron microscopes have sufficient magnification to see the results of
+manipulation of individual atoms. This Atom Boy image was made by
+researchers at IBM who moved individual carbon monoxide molecules
+on a surface of copper metal.
+Questions
+However, the latest research has allowed scientists to observe that
+the interference pattern is built up by the movement through the
+apparatus of the individual electrons. They are behaving as both
+individual particles and waves at the same time. They are showing
+wave-particle duality.
+Give an example of electrons behaving as a wave, and explain why
+this can only occur for waves.
+Why would an electron microscope beam need to be accelerated
+through a higher voltage in order to view a smaller object?
+Electron microscopy
+One of the most important applications of the wave nature
+of electrons is its use to study objects at very small scales. An
+electron beam can work like a beam of light, but with some
+different properties that can make the electron beam much more
+useful for microscopy. The main advantage is that the wavelength
+What would be the wavelength of electrons that had been
+accelerated through a 400 V pd?
+Estimate the de Broglie wavelength of a football in flight towards
+the goal.
+197
+Quantum physics
+5.4
+Photon energy
+For electromagnetic radiation, the energy of the photon can be calculated by multiplying the
+frequency by Planck's constant, h. This constant has an extremely small value because it represents
+the fundamental minimum possible step in energy. In SI units, h= 6.63 x 10-34 J s. If we work on
+very small scales, photons cannot have energy values that differ by less than the Planck constant.
+This means that there are some energy values that are impossible in our Universe. Such a system of
+minimum sized steps is called quantisation.
+The energy of a photon is given by the equation:
+photon energy () = Planck's constant (s) frequency (Hz)
+E = hf
+WORKED EXAMPLES
+Calculate the energy of a photon of yellow light that has a wavelength of 550 nm.
+E = hf
+c=fa
+cc 3x108_- 5.45 1014 Hz
+"1 550 10-
+95.
+E = 6.63 x 10-34 x 5.45 x 1014
+E = 3.6 x 10-19
+Calculate the frequency of a gamma ray photon that has 2.24 x 10-14 joules of energy
+E = hf
+F_E_2.24 x 10-14
+m en 6.63 x 10-34
+f = 3.38 x 1019 Hz
+Electrons are particles
+Experiments that produce ions can demonstrate electrons behaving as particles because a fixed lump
+of mass and charge is removed from the atom in order to change the atom into an ion. The charge to
+mass ratio is a uniquely identifying property of particles, and was first demonstrated for the electron
+by JJ. Thomson in 1897. Robert Millikan, in an experiment finally published in 1913, took this one
+step further to find the electron charge itself. The fact that electrons hold a fixed amount of charge
+and a fixed mass indicates they are localised particles.
+fig D Robert Millikan's oil drop apparatus showed that electrons have a fixed charge of 1.5924 x 10-19 coulombs.
+The difference with the currently accepted value is caused by a mistake in Millikan's calculations, because
+he used a slightly incorrect value for the viscosity of air.
+WP
+191
+5.4
+Electron diffraction and interference
+Scattering intensity
+By the end of this section, you should be able to...
+explain how diffraction experiments provide evidence for the
+wave nature of electrons
+describe other evidence for the wave nature of electrons
+be able to use the de Broglie equati
+We have seen that waves passing through a gap will produce a
+diffraction pattern with bright and dark fringes as the diffracted
+waves from each side of the gap superpose to produce the
+interference pattern.
+0 10 20 30 40 50 60 70 80 90
+Scattering angle 0
+fig C Davisson and Germer's electron beam reflection from a surface of atoms,
+acting as a reflection grating, showed variable intensity at different angles,
+exactly as is observed with waves.
+Not only did Davisson and Germer prove experimentally that
+electrons can behave as waves, but their results also allow
+calculation of the distance between atoms in the nickel crystal.
+This has given rise to advances in the study of atomic structures
+using electron beam crystallography.
+fig A Circular diffraction pattern caused by a laser passing through a pinhole.
+Electron diffraction
+As a diffraction pattern is a wave phenomenon, to observe this
+from a beam of electrons means that they must be behaving as
+waves. This is true whether we are passing waves through a gap,
+as in fig A, or reflecting waves from a grating, as we saw in fig H
+of Section 5.2.3.
+filament
+de Broglie equation
+In 1924, a French prince called Louis de Broglie suggested electrons
+could behave as waves and proposed an equation to calculate
+their wavelength. Their wavelength is inversely proportional to the
+momentum they have when considered as particles.
+Planck's constant (JS)
+electron wavelength (m) =
+momentum (kgms-)
++V -
+accelerating
+anode
+detector
+WORKED EXAMPLE
+electron
+beam
+Calculate the wavelength of electrons travelling at 10% of the
+speed of light.
+h
+6.63 x 10-34
+p 9.11 x 10-31 x 0.1 x 3 x 108
+= 2.43 x 10-11 m.
+nickel crystal
+fig B Davisson and Germer reflected a beam of electrons from a nickel Crystal
+and measured the intensity of the reflection at different angles.
+In 1927, Davisson and Germer tried to detect diffraction of
+electron 'waves' when they reflected from a crystal of nickel.
+Fig B illustrates the experimental setup. They measured the
+intensity of the beam at different angles for various accelerating
+voltages, and plotted a graph of their results. Fig C shows the
+graph for a beam accelerated through 54 volts.
+Investigation
+Investigating electron diffraction
+Although they are quite expensive, some school laboratories have an
+electron beam diffraction tube. This accelerates a beam of electrons
+through a high voltage, and then passes the beam through a sliver of
+graphite. The array of carbon atoms in the graphite acts as a
+diffraction grating in two dimensions, which produces a circular
+diffraction pattern. The front end of the tube has a phosphorescent
+screen that will show up the diffraction pattern.
+196
+Quantum physics
+5.4
+The y-intercept will represent the value of the work function, . Also, when the value of y is zero
+(the x-intercept) then the photon energy must equal the work function.
+mvmax = hf -
+0 = hf -
+... hf = 0
+This means that the value of the x-intercept will give the threshold frequency for the anode metal.
+mv2max = hf -
+gradient = h
+frequency
+threshold frequency
+fig C Graphical analysis of results from a photoelectric cell experiment can determine Planck's constant and the work
+function for the anode metal.
+Metal Work function (eV)
+cadmium
+4.07
+caesium
+2.10
+iron
+4.50
+nickel
+5.01
+zinc
+4.30
+table A Examples of photoelectric work function values.
+Questions
+| What is the work function of potassium in electronvolts?
+2 (a) Why would iron not release photoelectrons if red light were shone on it?
+(b) How would this result change if the red light were turned up to double brightness?
+3 How does the photoelectric cell experiment described above get over the problem that the electrons
+released will have a variety of kinetic energies, depending on how deep in the metal they start?
+4 What is the threshold frequency of caesium?
+Kev definitions
+Photoelectrons are electrons released from a metal surface as a result of its exposure to
+electromagnetic radiation.
+The work function is the minimum energy needed by an electron at the surface of a metal to escape from
+the metal.
+The threshold frequency for a given metal is the minimum frequency of electromagnetic radiation that
+can cause the emission of photoelectrons from the metal.
+The stopping voltage in an appropriately illuminated photoelectric cell is the minimum voltage needed to
+reduce the photoelectric current to zero.
+195
+Exam-style questions
+5.4
+7 The diagram shows the lowest three energy levels of a
+hydrogen atom.
+-1.5
+ultraviolet radiation
+S zinc plate
+-3.4 -
+energy/eV
+– 13.6 -
+[2]
+(a) Excited hydrogen atoms can emit light of wavelength
+6.56 x 10-7m.
+(i) Calculate the frequency of this light.
+(ii) The energy of a photon of this frequency is
+3.03 X 10-19 J.
+By means of a calculation determine which electron
+transition emits this photon.
+[2]
+(b) The spectrum of light from the Sun has a dark line at a
+wavelength of 656 nm. In the spectrum of light received
+from a distant galaxy, the corresponding line appears at a
+wavelength of 690 nm.
+Explain what the observation tells us about this galaxy. Do
+not include calculations in your answer.
+[2]
+[Total: 6]
+(a) The gold leaf slowly falls.
+Explain, with reference to the work function of zinc, why
+this happens.
+(b) Why is the effect not observed if the ultraviolet radiation
+is replaced by visible light?
+[1]
+(c) Ultraviolet radiation of wavelength 2.00 x 10-7m is shone
+onto the zinc plate.
+Calculate the maximum speed of the electrons emitted
+from the plate.
+work function of zinc = 6.88 x 10-19 J
+(d) The source of ultraviolet radiation is moved further away
+from the zinc plate.
+State what will happen to the maximum speed of the
+electrons emitted from the plate. Justify your answer. [2]
+[Total: 11]
+9 The diagram shows four energy levels for an electron in a
+particular atom.
+energy/10-1'J
+level 4
+not to scale
+8 A gold leaf electroscope is used to detect very small amounts
+of charge. When the electroscope cap is negatively charged,
+electrons spread along the metal rod and the gold leaf so they
+both become negatively charged. The rod and leaf repel each
+other, so the gold leaf rises up.
+-2.8
+level 3 -
+level 2
+-32
+electroscope cap
+- insulator
+metal rod
+gold leaf
+TES
+case
+level 1
+--6.4 ground state
+(a) State what is meant by an energy level.
+[1]
+(b) Draw on the diagram two arrows to indicate two different
+transitions that would result in emitted radiation of the
+same frequency
+[2]
+(c) A gas consisting of these atoms can emit a line spectrum.
+Explain how this happens.
+[3]
+(d) One of these atoms in its ground state absorbs
+3.6 x 10-19 J of energy from a collision with an electron.
+Calculate the smallest frequency of radiation that the atom
+may subsequently emit.
+(e) Calculate how much energy in eV would be required to
+ionise the atom in its ground state.
+[2]
+[Total: 11]
+uncharged
+charged
+electroscope
+electroscope
+A gold leaf electroscope can be used to demonstrate the
+photoelectric effect. A clean zinc plate is placed onto the cap
+of the electroscope and the plate and electroscope are charged
+negatively. Ultraviolet radiation is shone onto the zinc plate.
+205

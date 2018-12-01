@@ -1,0 +1,1203 @@
+SHAPES OF MOLECULES AND INTERMOLECULAR FORCES
+repelling more strongly than a bonding pair. The relative repulsions
+between lone pairs and bonding pairs are shown below.
+bonded-pair/bonded-pair < bonded-pair/lone-pair < lone-pair/lone-pair
+increasing repulsion
+Molecular shapes from four electron pairs
+Methane, CH,, ammonia, NH,, and water, H,O all have four electron
+pairs surrounding the central atom, but in ammonia and water the
+electron pairs are a mixture of bonded pairs and lone pairs.
+The four electron pairs around the central atom repel one another
+as far apart as possible into a tetrahedral arrangement.
+Lone pairs repel more strongly than bonded pairs.
+Therefore, lone pairs repel bonded pairs slightly closer together,
+decreasing the bond angle - the angle between the bonded pairs
+of electrons.
+The bond angle is reduced by about 2.5° for each lone pair.
+Figure 2 compares the shapes of methane, ammonia, and water
+molecules, and their different bond angles.
+Bonded pairs
+Lone pairs
+Name of shape
+tetrahedral
+pyramidal
+non-linear
+H
+Study tip
+NH
+H
+1070
+104.50 H
+Make sure that you learn the
+shapes and bond angles in these
+molecules.
+109.50 H
+Shape and
+bond angle
+A Figure 2 Shapes of methane, CH,, ammonia, NHz, and water, H,0
+Molecular shapes from multiple bonds
+In molecules containing multiple bonds, each multiple bond is treated
+as a bonding region. For example, the bonding and shape of a carbon
+dioxide, CO,, molecule is shown in Figure 3.
+Molecule
+Dot-and-cross
+diagram
+Number of Shape and
+bonding regions bond angle
+Name of
+shape
+180°
+CO, COCO)
+2
+ta
+linear
+Figure 3 Dot-and-cross diagram and shape of a carbon dioxide, CO molecule
+SHAPES OF MOLECULES AND INTERMOLECULAR FORCES
+H .
+.
+.
+.H
+Linus Pauling was a Nobel Prize
+winning chemist who devised a scale
+of electronegativity. Some Pauling
+electronegativity values are shown in the table.
+0
++ 0*
+.
+O
+Element
+Electronegativity
+2.0
+2.8
+Br
+N
+3.0
+F
+4.0
+a What is meant by the term
+electronegativity?
+(2 marks)
+b Show, using O+ and 8-symbols, the
+permanent dipoles on each of the
+following bonds. N-F; N-Br (1 mark)
+Boron trifluoride, BF,, ammonia, NH,
+and sulfur hexafluoride, SF, are all
+covalent compounds. The shapes of their
+molecules are different.
+(i) State the shape of a molecule
+of SF
+(1 mark)
+(ii) Using outer electron shells only,
+draw 'dot-and-cross' diagrams for
+molecules of BF, and NH,
+Use your diagrams to explain why
+a molecule of BF, has bond angles
+of 120° and NH, has bond angles
+of 107°.
+(5 marks)
+(iii) Molecules of BF, contain polar bonds,
+but the molecules are non-polar.
+Suggest an explanation for this
+difference.
+(2 marks)
+F321 Jan 11 Q3
+Simple molecules are covalently bonded.
+a State what is meant by the term
+covalent bond.
+(1 mark)
+Chemists are able to predict the shape
+of a simple covalent molecule from the
+number of electron pairs surrounding the
+central atom.
+(i) Explain how this enables chemists to
+predict the shape.
+(2 marks)
+(ii) The 'dot-and-cross' diagram of the
+simple covalent molecule, H,BO,, is
+shown below.
+Predict the 0-B-O and B-0-H bond
+angles in a molecule of H,BO, (2 marks)
+Give an example of a simple covalent
+molecule which has all bond angles equal
+to 90°.
+(1 mark)
+F321 Jan 2013 Q2
+8 Hydrogen chloride is a colourless gas which
+forms white fumes in moist air.
+a Molecules of hydrogen chloride, HCI,
+and molecules of fluorine, F,, contain
+the same number of electrons. Hydrogen
+chloride boils at -85 °C and fluorine boils
+at -188 °C.
+Explain why there is a difference in the
+boiling points of HCl and F,. In your
+answer you should refer to the types of
+force acting between molecules and the
+relative strength of the forces between the
+molecules.
+In your answer, you should use appropriate
+technical terms, spelled correctly. (4 marks)
+Hydrogen chloride reacts with water to
+produce an ion with the formula H, 0+. An
+H,O+ ion has one dative covalent bond.
+Draw a 'dot-and-cross' diagram to show
+the bonding in H, 0+. Show outer
+electrons only.
+(2 marks)
+F321 Jan 13 Q5(a)(b)
+9 The compounds, NH, PF, and SF, are all
+gases at room temperature and pressure.
+a What intermolecular forces are present
+in liquid samples of each compound?
+(3 marks)
+b The boiling point of NH, is much higher
+than PF, and SF.
+Explain why.
+(2 marks)
+Name the shapes and give the bond angles
+in molecules of NH, and SF?
+(4 marks)
+b
+7
+b
+85
+6
+6.1 Shapes of molecules and ions
+The 4 bonded pairs around the central carbon atom are arranged
+as two double bonds, which count as two bonded regions.
+The two bonded regions repel one another as far apart as possible.
+This gives the carbon dioxide molecule a linear shape with all
+three atoms aligned in a straight line.
+Molecular shapes from other numbers of electron pairs
+The principles of electron-pair repulsion theory can be applied to any
+number of electron pairs surrounding the central atom.
+1
+•
+Electron pairs around the central atom repel each other as far
+apart as possible.
+The greater the number of electron pairs, the smaller the bond angle.
+Lone pairs of electrons repel more strongly than bonded pairs of
+electrons.
+Three electron pairs
+Boron trifluoride, BFz, has only three bonded pairs around the central
+boron atom. Electron-pair repulsion gives a trigonal planar shape with
+equal bond angles of 120° (Figure 4).
+Synoptic link
+The octahedral shape resulting
+from six bonding pairs is extremely
+important in transition metal
+chemistry, which you will study in
+Chapter 24, Transition elements.
+Six electron pairs
+Sulfur hexafluoride, SF, has six bonded pairs of electrons around the
+central sulfur atom. Electron-pair repulsion gives an octahedral shape
+with equal bond angles of 90° (Figure 4).
+Electron pairs/regions
+2
+H
+L 90°
+180°
+1
+109.5°
+Film N
+F
+Shape and bond angle
+CH
+070
+linear
+trigonal planar
+tetrahedral
+octahedral
+Name of shape
+Figure 4 Shapes and bond angles for molecules with different numbers of electron pairs
+An octahedral shape from six bonded pairs
+It may seem strange that SFg, with six bonded pairs, forms a molecule
+that is an octahedral shape. The reason lies with what is meant by
+the shape of a molecule. The six fluorine atoms are positioned at the
+corners of an octahedron. From the diagrams in Figure 5, you should
+be able to see that an octahedral shape with eight sides is obtained by
+joining together the six corners occupied by fluorine atoms.
+A Figure 5 In an SF molecule, six
+bonded pairs give an octahedral shape
+72
+Chapter 6 Practice questions
+4
+This question is about the molecular
+fluorides, F,0, CF4, NF3, and OF2.
+a Complete the table as follows.
+(i) Add the number of bonded pairs and
+lone pairs of electrons around the
+atom in bold.
+Ignore any inner shells. (4 marks)
+(ii) Draw a 3D diagram for the shape of
+each molecule. Include any lone pairs
+(4 marks)
+Molecule Bonded pairs Lone pairs Shape
+Practice questions
+1 This question looks at polarity and shapes of
+molecules and ions
+a Arrange the molecules below in order of
+increasing polarity.
+(i) HCI, HBr, HF, HI
+(1 mark)
+(ii) CH_Br, CH,I, CHCI,F, CFA (1 mark)
+b The list of ten molecules and ions below
+can be arranged into five pairs, each with
+a different shape.
+H,O, HCN, AICI,, BF,, SO2, SCI,, H, 0+,
+NH4+, NH3, CO2
+(i) Select the five pairs and state the
+shape of each pair.
+(5 marks)
+(ii) Which of the molecules and ions are
+planar?
+(1 mark)
+2 Complete the table below as follows.
+State the bond angle(s). (5 marks)
+b Name the shape of each molecule.
+(5 marks)
+Molecule Bond angle Shape
+BF3
+CFA
+NFZ
+OF 2
+CO2
+SFG
+CH
+PF 3
+BF
+3
+Sbcl, exists as simple covalent molecules.
+A'dot-and-cross' diagram of Sbcl, is shown
+below.
+b In their solid structures, the four molecular
+fluorides all have London forces.
+Explain the origin of London forces.
+(3 marks)
+C Electronegativity explains why all of the
+molecules have polar bonds.
+(i) Explain the term electronegativity.
+(1 mark)
+(ii) Show all the dipoles on a
+molecule of CF.
+(1 mark)
+d Explain which of the molecules in the
+table are polar and which are
+non-polar.
+(3 marks)
+5 Much of the chemistry of water is influenced
+by its polarity and its ability for form
+hydrogen bonds.
+a What is meant by a hydrogen bond?
+(1 mark)
+b Explain why water molecules are polar.
+(2 marks)
+C Draw a diagram showing hydrogen
+bonding between two molecules of
+water. Include dipoles and lone pair
+of electrons.
+(2 marks)
+d State the bond angle in a water
+molecule.
+(1 mark)
+e State and explain two properties of
+ice that are a direct result of hydrogen
+bonding
+(4 marks)
+:
+:
+Sbxo:
+• ci :
+a
+b
+Predict the shape of a molecule of SbCl.
+Explain your answer.
+(3 marks)
+SbCl, molecules are polar.
+Explain why.
+(2 marks)
+F321 Jan 2014 QI(d)
+84
+SHAPES OF MOLECULES AND
+INTERMOLECULAR FORCES
+6.1 Shapes of molecules and ions
+Specification reference: 2.2.2
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ electron-pair repulsion theory
+→ shapes of molecules and ions.
+Electron-pair repulsion theory
+An electron has a negative charge, so electron pairs repel one another.
+The electron-pair repulsion theory is a model used in chemistry for
+explaining and predicting the shapes of molecules and polyatomic ions.
+The electron pairs surrounding a central atom determine the shape
+of the molecule or ion.
+The electron pairs repel one another so that they are arranged as
+far apart as possible.
+The arrangement of electron pairs minimises repulsion and thus
+holds the bonded atoms in a definite shape.
+Different numbers of electron pairs result in different shapes.
+109.50
+Shapes of molecules
+Representing molecules in three dimensions
+A molecule of methane, CH, is symmetrical with four C-H
+covalent bonds.
+CH
+H
+H
+Four bonded pairs of electrons surround the central carbon atom.
+The four electron pairs repel one another as far apart as possible in
+three-dimensional (3D) space.
+Figure 1 The four electron pairs and
+tetrahedral shape of a methane, CH
+molecule
+The result is a tetrahedral shape with four equal H-C-H bond angles
+of 109.50, shown in Figure 1.
+Synoptic link
+Wedges
+It is difficult to show a three-dimensional shape on a flat sheet of paper,
+so chemists use wedges to help visualise structures in three dimensions:
+The shapes of molecules and ions
+are extremely important, especially
+for organic chemistry and transition
+element chemistry, Chapter 24.
+• a solid line
+represents a bond in the plane of the paper
+a solid wedge
+comes out of the plane of the paper
+. a dotted wedge
+goes into the plane of the paper
+Wedges are especially useful for representing bonds in
+organic molecules.
+Bonded-pair and lone-pair repulsions
+A lone pair of electrons is slightly closer to the central atom, and
+occupies more space, than a bonded pair. This results in a lone pair
+70
+SHAPES OF MOLECULES AND INTERMOLECULAR FORCES
+TA
+TA
+:
+-A
+Hydrogen bonding in DNA
+The double helix structure of DNA (Figure 5) is held together
+by hydrogen bonds which enable a single DNA strand to
+create a perfect copy of itself in a process called replication.
+The replication process depends on four bases adenine A,
+thymine T, cytosine C, and guanine G being present in the
+correct order.
+In Figure 5, you can see that:
+A and T pair by forming two hydrogen bonds
+Cand G pair by forming three hydrogen bonds
+So why do the bases always pair up correctly?
+The chemical structure and shape of these four bases
+ensure correct pairing.
+Adenine and guanine are both purine bases with two-
+ringed structures.
+Thymine and cytosine are both pyrimidine bases with
+single-ringed structures.
+Hydrogen bonding in the double helix can only take
+place between a purine and a pyrimidine base.
+The bases must fit together so that a hydrogen atom
+from one molecule and an electronegative atom
+(either oxygen or nitrogen) from the other molecule
+are aligned correctly to maximize hydrogen bonding.
+Figure 6 shows the pairing of A with T and C with G.
+Figure 5 Hydrogen bonds in DNA hold the double helix
+structure together and enable DNA to replicate by ensuring
+that the correct bases are paired.
+1 Suggest why pairing does not take place between
+two purine bases or between two pyrimidine bases.
+2 Human DNA typically contains just over three billion
+base pairs in a definite sequence. During replication,
+this sequence must be copied perfectly. If replication
+took place randomly, how many possible sequences
+of the four bases could there be in human DNA?
+N-
+H------
+T
+NA
+N------H-
+N
+N------H-
+N
+-NH
+HN
+--...-
+HN
+adenine
+thymine
+cytosine
+guanine
+G
+H
+A Figure 6 Base pairing in DNA by hydrogen bonding
+TA
+Summary questions
+1 State and explain two anomalous properties of water.
+(4 marks)
+2 State which of the following compounds have
+hydrogen bonding H, O, H,S, CH, CH,OH, NO,
+(2 marks)
+3 Draw diagrams showing two ways that hydrogen
+bonding can form between:
+a One molecule of ammonia and one molecule
+of water
+b One molecule of water and one molecule
+of ethanol, CH,CH, OH.
+(4 marks)
+SHAPES OF MOLECULES AND INTERMOLECULAR FORCES
+Table 3 Induced and permanent dipoles
+Study tip
+Molecule
+Dipole
+London
+forces
+Permanent
+dipole-dipole
+interactions
+Number of
+electrons
+Boiling
+point/°C
+F-F
+none
+It is a common mistake to
+forget that polar molecules have
+induced dipole interactions as
+well as permanent dipole-dipole
+interactions.
+yes
+no
+9x 2 = 18
+-220
+H-CI
++ -
+H-C1
+yes
+yes
+1 + 17 = 18
+-85
+Fluorine molecules are non-polar and only have London forces
+between molecules.
+Hydrogen chloride molecules are polar and have London forces
+and permanent dipole-dipole interactions between molecules.
+Extra energy is needed to break the additional permanent
+dipole-dipole interactions between hydrogen chloride molecules.
+The boiling point of hydrogen chloride is therefore higher than
+fluorine.
+weak intermolecular interactions between
+12 molecules break on changing state
+Simple molecular substances
+A simple molecular substance is made up of simple molecules -
+small units containing a definite number of atoms with a definite
+molecular formula, such as neon, Ne, hydrogen, H,, water, H, O, and
+carbon dioxide, CO2
+In the solid state, simple molecules form a regular structure called
+a simple molecular lattice. In the simple molecular lattice:
+strong covalent bonds between atoms in
+12 molecule do not break on changing state
+the molecules are held in place by weak intermolecular forces
+the atoms within each molecule are bonded together strongly
+by covalent bonds.
+Figure 3 shows the different forces in the simple molecular lattice of
+iodine, I
+Properties of simple molecular substances
+Low melting point and boiling point
+All simple molecular substances are covalently bonded. At room
+temperature, they may exist as solids, liquids, or gases. All simple
+molecular substances can be solidified into simple molecular lattices
+by reducing the temperature.
+In a simple molecular lattice, the weak intermolecular forces can
+be broken even by the energy present at low temperatures.
+Simple molecular substances have low melting and
+boiling points.
+When a simple molecular lattice is broken apart during melting,
+• only the weak intermolecular forces break
+the covalent bonds are strong and do not break.
+Solubility
+Covalent substances with simple molecular structures fall into two
+categories - polar and non-polar.
+The solubility of non-polar substances is easier to predict.
+Figure 3 lodine, /, is a solid at room
+temperature, but can easily be turned into
+a purple vapour. A small Bunsen flame
+provides enough energy to break the
+weak intermolecular forces between /,
+molecules in the simple molecular lattice
+79
+SHAPES OF MOLECULES AND INTERMOLECULAR FORCES
+Study tip
+Shapes of ions
+Electron-pair repulsion theory can also be used to explain and predict
+the shapes of ions.
+The ammonium ion
+The ammonium ion, NH4+, has four bonded pairs surrounding the
+central nitrogen atom (Figure 6).
+Remember that dot-and-cross
+diagrams can be very useful for
+working out the arrangement of
+electron pairs and therefore
+predicting molecular shapes.
+1109.50
+NH
+Figure 6 The four bonded pairs and tetrahedral shape of an NH,tion
+Summary questions
+• An NH + ion has the same number of bonded pairs of electrons
+around the central atom as a methane molecule.
+NH, has the same tetrahedral shape and bond angles (109.5°) as a
+methane molecule.
+Carbonate, nitrate, and sulfate ions
+Figure 7 shows the shapes of carbonate, Co,--, nitrate, NO,, and
+sulfate, SO -, ions.
+• C0,2- and NO, ions have three regions of electron density
+surrounding the centre atom. So they have the same shape as a
+BF, molecule.
+SO,2-ions have four centres of electron density around the central
+sulfur atoms and have the same shape as a methane molecule.
+1 Name the shapes and give
+the bond angles around the
+central atom in the following
+molecules:
+a Bel,
+(1 mark)
+b BCI
+(1 mark)
+c SiH
+(1 mark)
+d H.C=0
+(1 mark)
+e CS,
+(1 mark)
+2 Name the shapes and bond
+angles in the following:
+a CH,OH (around C and 0)
+(1 mark)
+b SO
+(1 mark)
+c SO,
+(1 mark)
+d H2O
+(1 mark)
+120°
+120°
+1h
+109.5°
+2
+Sullo
+0
+0
+trigonal planar trigonal planar tetrahedral
+CO;2-ion
+NO3 ion
+SO42-ion
+A Figure 7 Shapes of carbonate, nitrate, and sulfate ions
+Predicting molecular shapes and bond angles
+You should be able to predict the shapes of, and bond angles in
+molecules and ions with different numbers of electron pairs, whether
+bonded pairs or lone pairs. The principles of electron-pair repulsion
+enable you to predict the arrangement of electron pairs around a
+central atom of unfamiliar molecules and ions.
+3 BF, reacts with NH, to form the
+compound F BNH,. The bond
+angles in BF, and NH, are
+different from the bond angles
+in F,BNHZ.
+a State the bond angles in
+BF, and NHz. (2 marks)
+b Predict, with reasons,
+the bond angles in
+F BNHZ. (2 marks)
+6.2 Electronegativity and polarity
+Specification reference: 2.2.2
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ electronegativity
+→ Pauling electronegativity
+values
+→ bond polarity.
+Electronegativity
+In a covalent bond, the nuclei of the bonded atoms attract the shared
+pair of electrons. In molecules of elements, such as hydrogen, H.,
+oxygen, O, nitrogen, N, and chlorine, Cly, the atoms are the same
+element and the bonded electron pair is shared evenly.
+This changes when the bonded atoms are different elements:
+• the nuclear charges are different
+• the atoms may be different sizes
+the shared pair of electrons may be closer to one nucleus than the
+other.
+H-
+OH
+attraction
+The shared pair of electrons in the covalent bond may now experience
+more attraction from one of the bonded atoms than the other.
+Figure 1 Attraction causing
+a covalent bond
+The attraction of a bonded atom for the pair of electrons in a covalent
+bond is called electronegativity.
+electronegativity increases
+How is electronegativity measured?
+The Pauling scale is used to compare the electronegativity
+of the atoms of different elements. Figure 2 shows how
+Pauling electronegativity values depend on an element's
+position in the periodic table.
+2.1
+Across the periodic table
+1.0
+1.5
+Mg
+1.2
+2.0
+2.0
+Al
+1.5
+| CN 01
+2.5 3.0 3.5 4.0
+Si P |
+1.8 2.1 2.5 3.0
+CI
+• the nuclear charge increases
+the atomic radius decreases.
+0.9
+BO
+0.8
+Figure 2 Pauling electronegativity values in the
+Periodic Table
+A large Pauling value indicates that atoms of the element
+are very electronegative. You can see that electronegativity
+increases across and up the periodic table. Consequently,
+fluorine is the most electronegative atom and is given a
+Pauling value of 4.0. The noble gases are not included as
+they tend not to form compounds.
+The non-metals nitrogen, oxygen, fluorine, and chlorine have the
+most electronegative atoms.
+The Group 1 metals, including lithium, sodium, and potassium
+have the least electronegative atoms.
+Table 1 lonic or covalent
+Bond type
+Electronegativity
+difference
+lonic or covalent?
+If the electronegativity difference is large, one bonded atom will have
+a much greater attraction for the shared pair than the other bonded
+atom. The more electronegative atom will have gained control of the
+electrons and the bond will now be ionic rather covalent.
+covalent
+polar covalent
+0 to 1.8
+ionic
+greater than 1.8
+Electronegativity values can be used to estimate the type of bonding as
+shown in Table 1.
+74
+6.3 Intermolecular forces
+Solubility of non-polar simple molecular substances
+When a simple molecular compound is added to a non-polar
+solvent, such as hexane, intermolecular forces form between the
+molecules and the solvent.
+The interactions weaken the intermolecular forces in the simple
+molecular lattice. The intermolecular forces break and the
+compound dissolves.
+Therefore, non-polar simple molecular substances tend to be soluble in
+non-polar solvents.
+When a simple molecular substance is added to a polar solvent,
+there is little interaction between the molecules in the lattice and
+the solvent molecules.
+• The intermolecular bonding within the polar solvent is too strong
+to be broken.
+Therefore simple molecular substances tend to be insoluble in
+polar solvents.
+Figure 4 compares the solubility of iodine in water (polar solvent) and
+in cyclohexane (non-polar solvent).
+A Figure 4 Solubility of iodine (purple
+when dissolved) in polar and non-polar
+solvents. From left to right - cyclohexane
+and iodine, water and iodine, water
+and cyclohexane, and layers of water
+(bottom) and cyclohexane (top) with
+iodine. Iodine dissolves readily in
+cyclohexane, a non-polar solvent, but not
+in water, a polar solvent
+Summary questions
+1 Explain how an induced dipole
+forms.
+(2 marks)
+2 Explain why simple molecular
+compounds:
+a have low melting and boiling
+points
+b do not usually dissolve
+readily in water
+c have poor electrical
+conductivity. (3 marks)
+Solubility of polar simple molecular substances
+Polar covalent substances may dissolve in polar solvents as the polar
+solute molecules and the polar solvent molecules can attract each
+other. The process is similar to dissolving of an ionic compound. For
+example, sugar dissolves in water, a polar solvent. Sugar is a polar
+covalent compound with many polar 0-H bonds, which attract and
+bond with polar water molecules. This solubility can extend to liquids
+and gases. Hydrogen chloride is a gas with a polar H-Cl bond that is
+extremely soluble in water, forming hydrochloric acid.
+The solubility depends on the strength of the dipole and can be hard
+to predict. Some compounds such as ethanol, C,H,OH, contain both
+polar (the 0-H) and non-polar (the carbon chain) parts in their
+structure and can dissolve in both polar and non-polar solvents.
+Some biological molecules have hydrophobic and hydrophilic parts.
+The hydrophilic part will be polar and contain electronegative atoms
+(usually oxygen) that can interact with water. The hydrophobic part
+will be non-polar and comprised of a carbon chain.
+3 For each of the following, state
+the structure. Predict and
+explain the following physical
+properties: melting and boiling
+points, electrical conductivity,
+solubility.
+a KBr
+(4 marks)
+b CCI
+(4 marks)
+Electrical conductivity
+There are no mobile charged particles in simple molecular structures.
+With no charged particles that can move, there is nothing to
+complete an electrical circuit.
+Therefore simple molecular structures are non-conductors of electricity.
+80
+6.2 Electronegativity and polarity
++
+8+
+permanent dipoles
+overall
+A Figure 5 The water, H,0, molecule
+is polar
+A water, H, O molecule is polar.
+• The two 0-H bonds each have a permanent dipole.
+The two dipoles act in different directions but do not exactly
+oppose one another.
+. Overall the oxygen end of the molecule has a - charge and
+nd of the molecule has a 8- charge and
+the hydrogen end of the molecule has a 0+ charge (Figure 5).
+A carbon dioxide, CO2, molecule is non-polar.
+overall,
+dipoles cancel
+A + +
+no overall
+dipole
+CO2 molecule
+Figure 6 The carbon dioxide, CO2,
+molecule is non-polar
+The two C=O bonds each have a permanent dipole.
+The two dipoles act in opposite directions and exactly oppose
+one another.
+Over the whole molecule, the dipoles cancel and the overall
+dipole is zero (Figure 6).
+Synoptic link
+Polar solvents and solubility
+Figure 7 shows a sodium chloride lattice being dissolved by water
+molecules to form aqueous sodium and chloride ions:
+The solubility of ionic compounds
+by polar solvents was introduced
+in Topic 5.2, lonic bonding and
+structure.
+NaCl(s) + aq
+Nat(aq) + Cl (aq)
+. Water molecules attract Na+ and Cl- ions.
+The ionic lattice breaks down as it dissolves.
+• In the resulting solution, water molecules surround the Nat
+and Cl- ions.
+8+ (H/08-
+cra
+Na+ C Mach H
+You can see that:
+Na (CF
+Na
+cr Nach Na
+(cracy
+Na
+cr Na CD
+Nations are attracted towards the oxygen of water molecules (8-)
+Clions are attracted towards the hydrogen of water molecules (8+).
+Summary questions
+1 Define:
+a electronegativity
+b polar covalent bond
+c dipole
+(1 mark)
+(1 mark)
+(1 mark)
+2 This question refers to the following compounds:
+Brą, NO2, Na,O, PH2, A1,03, SiO, KF, and LiBr
+Predict the type of bonding in each compound using the electronegativity
+values from Figure 2 in order to list the compounds from most ionic
+to most covalent.
+(2 marks)
+A Figure 7 Solid sodium chloride, NaCl,
+(top) dissolving in water to give sodium
+and chloride ions (bottom) surrounded
+by water molecules
+3 This question refers to the following compounds, all with polar bonds:
+H,S, BeBr , NH, BF, SiCI, CHCI , H,C=0, PF, SF
+a State which way round the dipole is in each bond. (Refer to the
+electronegativity values in Figure 2.)
+b Classify the molecules as polar and non-polar, explaining how
+you have made your decisions. (You may find it useful to refer
+to Topic 6.1 to work out the shapes of the molecules.) (9 marks)
+76
+6.4 Hydrogen bonding
+Water has a relatively high melting point and boiling point
+As with all molecules, water has London forces between molecules.
+--
+Hydrogen bonds are extra forces, over and above the London forces.
+An appreciable quantity of energy is needed to break the hydrogen
+bonds in water, so water has much higher melting and boiling
+points than would be expected from just London forces.
+When the ice lattice breaks, the rigid arrangement of hydrogen
+bonds in ice is broken. When water boils, the hydrogen bonds
+break completely.
+A Figure 3 The open lattice structure
+of ice, in which the linear H.--0-H
+arrangement holds the water molecules
+apart
+Without hydrogen bonds, water would have a boiling point of about
+-75°C and would exist as a gas at room temperature and pressure. There
+would be no liquid water in most places on Earth and there would be no
+life as we know it.
+T
+Boiling points of hydrides and intermolecular forces
+Figure 4 shows the boiling points of the hydrides of
+Groups 14–17 (Groups 4-7) in the periodic table.
+150
+H20
+HzTe
+7 period
+SbHz 6 number
+ulus H2SA HI
+SnHA
+boiling point/°C
+NH
+1 Water, hydrogen fluoride, and ammonia do not
+follow the trend shown by the other hydrides
+in each group.
+a Estimate what the boiling points of water,
+hydrogen fluoride, and ammonia would be
+if they were to follow the group trends.
+b Explain why water, hydrogen fluoride and
+ammonia do not follow the group trends.
+2 Explain why all groups show an increase in
+boiling point from Period 3 to Period 6.
+3 What conclusions can be drawn about the
+relative strengths of London forces and
+permanent dipole-dipole interactions for the
+hydrides of Groups 14-17 (Groups 4-7)?
+ASH2HBK
+GeH4
+PH3 HCl
+SIHA
+-150
+CHA
+-200-
+Figure 4 Boiling points of hydrides of Groups 14-17
+(Groups 4-7)
+Synoptic link
+Hydrogen bonding is very
+important in organic compounds
+containing 0—H, N-H, and
+(= groups, such as alcohols,
+carboxylic acids, carbonyl
+compounds, amines, and amino
+acids. You will learn about all these
+groups when you study organic
+chemistry later in the course
+(Chapter 11 onwards).
+Other anomalous properties of water
+The extra intermolecular bonding from hydrogen bonds also contributes
+to many more unusual properties of water. Other examples are a
+relatively high surface tension and viscosity, properties than result in
+droplets that are 'not wet' and allow insects to walk on pond surfaces.
+Detergents reduce the surface tension, making water 'wetter'. Water
+has dozens of anomalous properties, so you can be relieved that you are
+only required to know about density, melting points, and boiling points.
+82
+6.4 Hydrogen bonding
+Specification reference: 2.2.2
+Hydrogen bonds
+A hydrogen bond is a special type of permanent dipole-dipole
+interaction found between molecules containing:
+an electronegative atom with a lone pair of electrons, for example,
+oxygen, nitrogen, or fluorine
+a hydrogen atom attached to an electronegative atom, for example,
+H-O, H-N, or H-F.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ hydrogen bonding
+anomalous properties of water.
+hydrogen bond
+DI
+The hydrogen bond acts between a lone pair of electrons on an
+electronegative atom in one molecule and a hydrogen atom in
+a different molecule. Hydrogen bonds are the strongest type of
+intermolecular attractions.
+HP
+0.0
+electronegative
+O atom
+0
+The hydrogen bond is shown by a dashed line. The lone pair of
+electrons on the oxygen in water, and the nitrogen in ammonia, play
+a key role in a hydrogen bond. The shape around the hydrogen atom
+involved in the hydrogen bond is linear.
+hydrogen bond
+8+
+H
+VOI
+Osim
+H-
+NO-----
+Anomalous properties of water
+Hydrogen bonding has a significant influence on the properties of
+many molecules but none more so than water. Hydrogen bonding
+gives water some unique and anomalous (unusual) properties that
+support the existence of life on Earth.
+electronegative
+HN
+Natom
+A Figure 1 Hydrogen bonding between
+molecules of water, H2O, and ammonia,
+NH3
+Study tip
+The solid (ice) is less dense than the liquid (water)
+• Hydrogen bonds hold water molecules apart in an open
+lattice structure.
+The water molecules in ice are further apart than in water.
+• Solid ice is less dense than liquid water and floats.
+When you draw a diagram to show
+hydrogen bonding, remember
+to show lone pairs and the atom
+polarities. Hydrogen is always 8+!
+Ice floating on water may seem obvious, but water is one of the
+few substances in which the solid is less dense than water. The
+consequence is that ice floats instead of sinking in ponds and lakes,
+forming an insulating layer and preventing the water from freezing
+solid - good news if you are a fish. With two lone pairs on the oxygen
+atom and two hydrogen atoms, each water molecule can form four
+hydrogen bonds. The hydrogen bonds extend outwards, holding
+water molecules slightly apart and forming an open tetrahedral
+lattice full of holes (Figure 3). The bond angle about the hydrogen
+atom involved in the hydrogen bond is close to 180°.
+The holes in the open lattice structure decrease the density of water
+on freezing. When ice melts, the ice lattice collapses and the molecules
+move closer together. So liquid water is denser than solid ice.
+Figure 2 At 0°C, the density of ice is
+0.917 g cm-" compared to 1.029gcm-3
+for seawater. Only about of the volume
+of the iceberg is above the surface of the
+water
+SHAPES OF MOLECULES AND INTERMOLECULAR FORCES
+Bond polarity
+Non-polar bonds
+In a non-polar bond, the bonded electron pair is shared equally
+between the bonded atoms. A bond will be non-polar when:
+HXH
+CI X Ci
+the bonded atoms are the same, or
+• the bonded atoms have the same or similar electronegativity.
+In molecules of elements such as hydrogen, oxygen, and chlorine, the
+bonded atoms come from the same element and the electron pair is
+shared equally. The bond is a pure covalent bond (Figure 3). Carbon
+and hydrogen atoms have very similar electronegativities and form
+non-polar bonds. Hydrocarbon liquids such as hexane, CH4, are
+non-polar solvents and do not mix with water.
+non-polar
+electron pair is attracted
+equally to each bonded atom
+A Figure 3 Two non-polar molecules,
+hydrogen, Hy, and chlorine, Cly. Only the
+bonding electrons have been shown for
+chlorine
+Polar bonds
+In a polar bond, the bonded electron pair is shared unequally between
+the bonded atoms. A bond will be polar when the bonded atoms are
+different and have different electronegativity values, resulting in a
+polar covalent bond.
+Example: Hydrogen chloride
+Hydrogen chloride, HCl, has atoms of different elements.
+From Figure 2, hydrogen has an electronegativity of 2.1 and
+chlorine has an electronegativity of 3.0.
+The chlorine atom is more electronegative than the hydrogen atom.
+The chlorine atom has a greater attraction for the bonded pair of
+electrons than the hydrogen atom, resulting in a polar covalent bond.
+8+ -
+HXCI
+polar
+bonded electron pair is
+attracted closer to Cl atom
+A Figure 4 A polar molecule of
+hydrogen chloride, HCI. Only the bonding
+electrons have been shown for chlorine
+The H-Cl bond is polarised with a small partial positive charge (8+)
+on the hydrogen atom and a small partial negative charge (8-) on
+the chlorine atom (Figure 4). The delta d sign means small. The two
+charges, d+ and 8- are partial charges, and are much smaller than a
+full + and - charge.
+Study tip
+If you are provided with Pauling
+electronegativity values:
+This separation of opposite charges is called a dipole.
+The hydrogen chloride molecule is polar, with 8+ and 8- charges
+at different ends of the H-Cl bond.
+the atom with the larger
+electronegativity value has
+the o-charge
+the atom with the smaller
+electronegativity value has
+the d+ charge.
+A dipole in a polar covalent bond does not change and is called a
+permanent dipole to distinguish it from an induced dipole, which
+you will meet in the next topic.
+Polar molecules
+Hydrogen chloride is a polar molecule, as the H-Cl bond has one
+permanent dipole acting in the direction of the H-Cl bond. For
+molecules with more than two atoms, there may be two or more
+polar bonds. Depending on the shape of the molecule, the dipoles
+may reinforce one another to produce a larger dipole over the whole
+molecule, or cancel out if the dipoles act in opposite directions.
+6.3 Intermolecular forces
+Specification reference: 2.2.2
+Forces between molecules
+Covalent bonding is strong and holds the atoms in a molecule together.
+Intermolecular forces are weak interactions between dipoles of
+different molecules. Intermolecular forces fall into three main categories.
+induced dipole-dipole interactions (London forces)
+permanent dipole-dipole interactions
+• hydrogen bonding.
+Intermolecular forces are largely responsible for physical properties
+such as melting and boiling points, whereas covalent bonds determine
+the identity and chemical reactions of molecules.
+Table 1 compares the strengths of intermolecular forces with
+covalent bonds.
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ induced dipole-dipole
+interactions (London forces)
+→ permanent dipole-dipole
+interactions
+structure and properties
+of simple molecular lattices.
+Table 1 Strengths of intermolecular forces and covalent bonds
+Bond enthalpy/kJ mol-1
+Type of bond
+London forces
+permanent dipole-dipole interactions
+hydrogen bonds
+1-10
+3-25
+10-40
+150-500
+single covalent bonds
+Induced dipole-dipole interactions (London forces)
+London forces are weak intermolecular forces that exist between all
+molecules, whether polar or non-polar. They act between induced
+dipoles in different molecules. The origin of induced dipoles is
+described in Figure 1.
+for
+an instant
+later
+an instant
+later
+Movement of electrons produces a changing dipole
+in a molecule.
+At any instant, an instantaneous dipole will exist,
+but its position is constantly shifting
+instantaneous dipole constantly changing
+The instantaneous dipole induces a dipole on a
+neighbouring molecule
+0- 8+
+000000
+induced dipole on neighbouring molecule
+The induced dipole induces further dipoles on
+neighbouring molecules, which then attract one
+another.
+neighbouring molecules, which then attract one
+Ô- 08-
+o
+O
+o
+o8_ot
+induced dipole-dipole interactions
+Figure 1 Origin of induced dipole-dipole interactions (London forces)
+6.3 Intermolecular forces
+Induced dipoles are only temporary. In the next instant of time, the
+induced dipoles may disappear, only for the whole process to take
+place amongst other molecules.
+een
+The strength of induced dipole-dipole interactions
+(London forces)
+Induced dipoles result from interactions of electrons between
+molecules. The more electrons in each molecule:
+• the larger the instantaneous and induced dipoles
+the greater the induced dipole-dipole interactions
+• the stronger the attractive forces between molecules.
+Table 2 compares the boiling points of the first three noble gases, helium
+to argon.
+Larger numbers of electrons mean larger induced dipoles.
+More energy is then needed to overcome the intermolecular
+forces, increasing the boiling point.
+Table 2 London forces and boiling points of the noble gases helium to argon
+Noble gas
+Number of electrons
+Boiling point/°C
+Relative strength
+helium, He
+2
+-269
+Synoptic link
+The shapes of molecules also affect
+the strength of London forces. This
+is especially important in organic
+chemistry (see Topic 12.1, the
+properties of the alkanes).
+neon, Ne
+10
+-246
+stronger
+London
+forces
+argon, Ar
+18
+-186
+What ever happened to van der Waals' forces?
+The term van der Waals, forces has sometimes been used to describe
+induced dipole-dipole interactions. The International Union of Pure
+and Applied Chemistry (IUPAC), which publishes guidelines for
+chemical terminology, recommends that van der Waals' forces be
+used for both permanent and induced dipole-dipole interactions, and
+London forces for induced dipole-dipole interactions. So the term
+van der Waals' forces is ambiguous.
+London forces is the correct term to use when describing induced
+dipole-dipole interactions. In other sources, you may see the
+term dispersion forces. Whoever said the language of science is
+straightforward?
++ -
+HTC
+S+
+H-
+Permanent dipole-dipole interactions
+In Topic 6.1, you looked at polarity in bonds and molecules.
+Permanent dipole-dipole interactions act between the permanent
+dipoles in different polar molecules.
+Figure 2 shows intermolecular forces arising from permanent
+dipole-dipole interactions in hydrogen chloride, HCl, molecules.
+covalent permanent
+bond dipole-dipole
+interaction
+A Figure 2 Permanent dipole-dipole
+interactions between hydrogen chloride,
+HCl, molecules
+Table 3 compares hydrogen chloride with fluorine, F,. Molecules of
+hydrogen chloride and fluorine have the same number of electrons
+and the same shape, so the strength of the London forces in hydrogen
+chloride and fluorine should be very similar.
+78

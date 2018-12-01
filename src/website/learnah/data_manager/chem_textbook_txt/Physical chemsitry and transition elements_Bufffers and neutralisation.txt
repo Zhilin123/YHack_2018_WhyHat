@@ -1,0 +1,983 @@
+21
+BUFFERS AND NEUTRALISATION
+When the base is first added, the acid is in great excess and the pH
+increases very slightly. As the vertical section is approached, the pH
+starts to increase more quickly as the acid is used up more quickly.
+Eventually, the pH increases rapidly during addition of a very small
+volume of base, producing the vertical section. Only drops of solution
+will be needed for the whole vertical section.
+After the vertical section, the pH will rise very slightly as the base is
+now in great excess.
+Excess of base
+pH increases slowly as basic
+solution is added
+Equivalence point
+The centre of the vertical
+section of the pH titration
+curve.
+PH
+Excess of acid
+pH increases slowly as
+basic solution is added
+Vertical section
+pH increases rapidly on addition
+of a very small volume of base.
+Acid and base concentrations
+similar
+0
+5
+45
+50
+10 15 20 25 30 35 40
+volume of 0.1 moldm-3 base added/cm3
+A Figure 2 pH titration curve for addition of a base to an acid
+The equivalence point of the titration is the volume of one
+solution that exactly reacts with the volume of the other solution.
+The solutions have then exactly reacted with one another and the
+amounts used matching the stoichiometry of the reaction. The
+equivalence point is the centre of the vertical section of the pH
+titration curve.
+PH
+The titration curve may be a different shape for combinations of
+acid and base with different strengths. These curves and shapes are
+discussed later in this topic and you will see how the shape helps in
+choosing a suitable indicator for a titration.
+Adding an acid to a base
+A pH titration curve can also be plotted with the acid added from the
+burette to the base in the flask. The shape is essentially the same, just
+the other way around, going from high pH to low pH (Figure 3).
+0 +
+0 5 10 15 20 25 30 35 40 45 50
+volume of 0.1 moldm-3 acid added/cm3
+A Figure 3 pH titration curve for addition of an
+acid to a base
+O=
+H-0
+-S
+=o
+Acid-base indicators
+The end point
+An acid-base indicator is a weak acid, HA, that has a
+distinctively different colour from its conjugate base, A-, for
+example, for the common indicator methyl orange (Figure 4):
+HA(aq) red
+=O
+0
+-
+=O
+O
+the weak acid, HA, is red
+• the conjugate base A is yellow.
+At the end point of a titration, the indicator contains equal
+concentrations of HA and A and the colour will be in between the
+A (aq) yellow
+Figure 4 HA and A-forms of methyl orange
+341
+BUFFERS AND NEUTRALISATION
+3) Worked example: Calculating the pH of a buffer
+solution
+Calculate the pH when the buffer solution contains
+0.100 moldm-3 CH2COOH and 0.300 mol dm-CH,COONa.
+K (CH,COOH) = 1.74 x 10-5 moldm-3
+Step 1: Calculate [H+ (aq)] from K, [HA (aq)], and [A-(aq)].
+[CH,COOH(aq)]
+[H*(aq)] = K, X
+na [CH,COO-(aq)]
+= 1.74 x 10-5 x 0.100
+0.300
+= 5.80 x 10-6 mol dm-3
+Step 2: Use your calculator to find the pH.
+pH = -log [H+(aq)] = -log(5.80 x 10-) = 5.24
+Study tip
+If you are given pk, and the
+concentrations of HA and Aare
+the same, the pH is equal to the
+pk value.
+O Worked example: Calculating the pH of a buffer
+solution made from a weak acid and its salt
+150 cm' of 1.00 mol dm-HCOOH is mixed with 100 cm
+0.750 mol dm-3 HCOONa. Calculate the pH of the buffer solution
+formed.
+K (HCOOH) = 1.78 x 104 moldm-3
+Step 1: Calculate the amounts, in mol, of HCOOH and HCOO in
+the buffer solution.
+Study tip
+Remember:
+cx V (in cm)
+n(HCOOH) = 1.00 x 150
+n
+=
+1000
+DOV = 0.150 mol
+1000
+- = 0.0750 mol
+1000
+Step 2: Calculate the concentrations of HCOOH and HCOO in
+the buffer solution.
+n(HCOO-) = 0.750 x 100
+[HCOO (aq)] = 1000 x 0.0750
+Total volume of buffer solution = 250 cm
+1000 x 0.150
+[HCOOH(aq)] = =
+= 0.600 mol dm-3
+250
+= 0.300 moldm3
+250
+Step 3: Calculate [H+(aq)] from K (HA(aq)] and [A (aq)].
+[HCOOH(aq)]
+[H+ (aq)] = K *
+[HCOO (aq)]
+= 1.78 x 10-4 x 0.600
+0.300
+= 3.56 x 10-4 mol dm-3
+Step 4: Use your calculator to find the pH.
+pH = -log [H+(aq)] = -log(3.56 x 10-4) = 3.45
+335
+21
+21.1 Buffer solutions
+Study tip
+This is the hardest worked example
+but is also mirrors the commonest
+method of preparation of a buffer
+solution, by partial neutralisation
+of a weak acid.
+n(NaOH) added - 0.750 x100
+B Worked Example: Calculating the pH of a buffer
+solution made by partial neutralisation
+100 cm of 0.750 mol dm NaOH(aq) is added to 150cm of
+1.50 moldm HCOOH. Calculate the pH of the buffer solution
+formed. K (HCOOH) = 1.78 x 10 moldm-}.
+Step 1: Calculate the amount, in mol, of HCOO in the buffer solution.
+The partial neutralisation is:
+HCOOH(aq) + NaOH(aq) → HCOONa + H2O
+W = 0.0750 mol
+1000
+n(HCOO-) formed = 0.0750 mol
+Step 2: Calculate the amount, in mol, of HCOOH in the buffer
+solution.
+-= 0.225 mol
+1000
+n(HCOOH) remaining = n(HCOOH) used - n(NaOH) added
+= 0.225 - 0.0750 = 0.150 mol
+Step 3: These are the same amounts as obtained from Step 1 of
+the previous worked example.
+The remainder of the calculation is identical to give the pH of 3.45.
+n(HCOOH) used - 1.50 x150
+Summary questions
+1 ACH(CH,),COOH/CH,(CH,),COO buffer contains equal
+concentrations of CH (CH),COOH and CH (CH), COONa.
+(K for CH (CH,),COOH = 1.51 x 10-5 mol dm-3 at 25°C)
+a Calculate the pH of the buffer solution.
+(1 mark)
+b State the equilibrium equation for the buffer.
+(1 mark)
+C Explain in terms of equilibrium how the buffer solution removes
+added alkali.
+(2 marks)
+2 Three buffer solutions are made from benzoic acid, C.H.COOH, and
+sodium benzoate, CHCOONa, with the following compositions.
+Calculate the pH of each buffer solution shown below.
+(K for CGH COOH = 6.3 x 10-5 mol dm-3 at 25°C)
+a Buffer A: 0.10 mol dm-'CHCOOH and 0.10 mol dm-CH_COONa
+(2 marks)
+b Buffer B: 1.25 mol dm-3 C.H.COOH and 0.25 mol dm-3 CHCOONa
+(2 marks)
+c Buffer C: 0.20 moldm-'CH.COOH and 0.80 moldm- CHCOONa
+(2 marks)
+3 K of CH2COOH = 1.74 x 10-5 mol dm-3 at 25°C
+a 80 cm3 of 0.200 mol dm-3 CH,COOH is mixed with 20 cm3
+0.500 mol dm-3CH2COONa. Calculate the pH of the buffer solution.
+(2 marks)
+b A CH,COOH/CH,C00- buffer is prepared by adding 150 cm3
+0.250 mol dm-3 NaOH to 100 cm 0.500 mol dm-'CH,COOH.
+Calculate the pH of the buffer solution.
+(2 marks)
+336
+21
+21.3 Neutralisation
+weak
+acid
+conjugate
+base
+HA(aq)
+A (aq) + H+(aq)
+two extreme colours. For methyl orange, the colour at its end point is
+orange (Figure 5).
+Explaining indicator colour changes
+An indicator is a weak acid. The equilibrium position is shifted towards
+the weak acid in acidic conditions or towards the conjugate base in
+basic conditions, changing the colour as it does so.
+acid
+alkali
+colour
+colour
+end-point
+colour
+A Figure 5 Colours for methyl orange
+indicator
+In a titration in which a strong base is added to a strong acid, methyl
+orange is initially red as the presence of H+ ions forces the equilibrium
+position well to the left.
+On addition of a basic solution containing OH(aq) ions:
+•
+OH(aq) ions react with H(aq) in the indicator:
+H(aq) + OH (aq) → H,O(1)
+The weak acid, HA, dissociates, shifting the equilibrium position to
+the right.
+The colour changes, first to orange at the end point and finally to
+yellow as the equilibrium position is shifted to the right.
+equilibrium
+phenolphthalein
+HA(aq) = A (aq) + H+(aq)
+If methyl orange is added initially to a basic solution and acid is added:
+.
+PH
+bromothymol
+blue
+H+(aq) ions react with the conjugate base, A (aq).
+The equilibrium position shifts to the left.
+The colour changes, first to orange at the end point and finally to
+red when the equilibrium position has shifted to the left.
+equilibrium
+HA(aq) = A (aq) + H+(aq)
+methyl
+orange
+This is very similar to the mode of action of a buffer solution. All acid-base
+indicators work in a similar way.
+How sensitive is the end point?
+Different indicators have different K values and change colour over
+different pH ranges.
+At the end point:
+[H*(aq)[4 tay
+. [HA (aq)] = [A"(aq)] and K =
+[HA(aq)]
+K = [H+(aq)] and pK = pH
+Figure 6 pH colour ranges for some
+common indicators
+Table 1 pH colours and approximate
+ranges
+Indicator
+pH range
+1.2-2.8
+The pH of the end point is the same as the pK, value of HA.
+The sensitivity of an indicator depends upon the indicator itself and
+eyesight. Most indicators change colour over a range of about two pH
+units. The pH ranges and colours for three indicators are shown in
+Figure 6. Table 1 shows pH ranges of more indicators.
+thymol blue
+3.6-4.6
+4.4-6.2
+bromophenol blue
+methyl red
+metacresol purple
+indigo carmine
+7.4–9.0
+Choosing the indicator
+In a titration, you must use an indicator that has a colour change
+which coincides with the vertical section of the pH titration curve.
+Ideally the end point and equivalence point would coincide. However,
+11.4-13.0
+342
+21
+21.2 Buffer solutions in the body
+3
+added alkali
+H,CO, dissociates, shifting the equilibrium position to the right to
+restore most of H+(aq) ions:
+added alkali
+H2CO3(aq) = H+(aq) + HCO, (aq)
+H2CO3(aq) = H+ (aq) + HCO3(aq)
+added acid
+Figure 2 The carbonic acid-
+hydrogencarbonate ion equilibrium
+Worked example: Calculating the concentration ratio
+of HCO3 /H,CO, in healthy blood
+The pK, for the carbonic acid-hydrogencarbonate equilibrium is
+6.1 at body temperature. What is the ratio of HCO,-/H,CO, in
+healthy blood at a pH of 7.40?
+Step 1: Express HCO,-/H,Co, in terms of K, and [H*(aq)].
+[H+ (aq)] [HCO, (aq)]
+H2CO3(aq) = H+ (aq) + HCO, (aq) Kg =
+[HCO3(aq)]
+[HCO, (aq)] K
+[H,CO, (aq)] [H*(aq)]
+Step 2: Convert pH into [H+ (aq)] and pK, into K.
+[H+ (aq)] = 10-pH = 10-7.40 = 3.98 x 10-8 moldm-
+K = 10-pka = 10-6.1 = 7.9 x 10-7 moldm-3
+Step 3: Calculate the HCO,-/H,C0, ratio.
+[HCO, (aq)] K 7.9 x 10-7 20
+[H2CO3(aq)] [H+ (aq)] 3.98 x 10-8 = 1
+Study tip
+If you take A level biology, you will
+learn far more about how carbon
+dioxide is removed from the body
+to control carbonic acid in blood
+plasma.
+OO
+The body produces far more acidic materials than alkaline, which
+the conjugate base HCO, converts to H,CO,. The body prevents
+H,CO, building up by converting it to carbon dioxide gas, which is
+then exhaled by the lungs.
+T
+The Henderson-Hasselbalch equation
+You have already learnt a method for calculating pH using K. [HA (aq)], and
+[A-(aq)]. The Henderson-Hasselbalch equation is an alternative way of
+calculating the pH of a buffer solution that allows you to really see how pk
+and the base/acid ratio control the pH:
+[A-(aq)]
+pH = pk + log
+[HA(aq)]
+In the Henderson-Hasselbalch equation, it is easy to appreciate the effect of
+the base/acid concentration ratio. When the acid and base concentrations are
+the same:
+[A-(aq)]
+and log 1 = 0
+[HA(aq)]
+pH = pk, a relationship you have already seen.
+338
+21
+Chapter 21 Practice questions
+Practice questions
+1 A weak acid HA has a p value of 4.32.
+a A buffer solution is prepared by mixing
+equal volumes of 0.100 moldm-' HA and
+0.100 moldm-? A. What is the pH?
+(1 mark)
+b Calculate the ratio of HA:A- needed
+to prepare a buffer solution with a pH
+of 3.50.
+(2 marks)
+25 cm² of 0.200 moldm? HA is added to
+75 cm of 0.100 moldm- A.
+Calculate the pH of the resulting buffer
+solution.
+(3 marks)
+A chemist needs to prepare a buffer
+solution with a pH of exactly 4 using
+HNO, and NaNOZ
+K for HNO, = 4.00 x 10-4 mol dm3
+Calculate the volumes of 0.250 moldm-
+HNO, and 0.250 moldm-' needed to make
+250 cm of this buffer solution. (4 marks)
+2 The titration curve below was produced
+by adding 0.100 mol dm- CH,COOH to
+NaOH(aq).
+4
+A chemist prepares a buffer solution
+containing CH2COOH and CH COO-ions by
+mixing together the following:
+200 cm of 3.20 moldm- CH,COOH
+(K = 1.74 x 10-5 mol dm-3) and 800 cm of
+0.500 mol dm-3 NaOH. The volume of the
+buffer solution is 1.00 dm.
+a Write an equation for the reaction that
+takes place during the preparation. (1 mark)
+b Explain why a buffer solution is formed
+when these two solutions are mixed
+together.
+(1 mark)
+(i) Calculate the amount, in mol, of
+CH,COOH and CH COO present in
+the buffer solution. (2 marks)
+(ii) Calculate the pH of this buffer
+solution. Give your answer to
+two decimal places. (2 marks)
+Blood is an example of a buffered solution.
+Healthy human blood is slightly basic and
+has a pH of 7.40. If the pH falls, a condition
+known as acidosis can occur which can be
+fatal if the pH drops below 6.80.
+a Explain the term buffer solution. (1 mark)
+b (i) Calculate the hydrogen ion
+concentration, fH+(aq)], in healthy
+human blood.
+(1 mark)
+(ii) How many times greater is the
+hydrogen ion concentration in
+blood at pH 6.8 compared to blood
+at pH 7.4?
+(1 mark)
+Mild acidosis may occur during
+strenuous exercise from the build up of
+lactic acid, CH,CH(OH)COOH.
+(K of 8.40 x 10-moldm-?)
+(i) Write an equation for the dissociation
+of lactic acid.
+(1 mark)
+(ii) Write the expression for K of
+lactic acid.
+(1 mark)
+(iii) Calculate the pH of a 0.100 moldm3
+solution of lactic acid. Include any
+approximations that you make in
+your calculation.
+(4 marks)
+The most important buffer system in blood
+is a mixture of carbonic acid, H,CO,, and
+hydrogencarbonate ions, HCO,
+a Write the equilibrium present in this
+buffer system.
+(1 mark)
+Hd
+0 5 10 15 20 25 30 35 40
+volume 0.1 moldm-3 solution added/cm3
+a What evidence from the curve shows that
+the NaOH(aq) used had a concentration of
+0.10 moldm.
+(2 marks)
+b What volume of CH,COOH was needed to
+reach the end point?
+(1 mark)
+c What pH range should the indicator have
+for this titration?
+(1 mark)
+d The titration was repeated using
+0.10 moldm-' H,SO, instead of
+CH,COOH. State and explain two
+differences to the titration curve. (2 marks)
+5
+344
+BUFFERS AND NEUTRALISATION
+this may not be possible and the end point may give a volume that is
+slightly different from the equivalence point. But any difference will
+be very small in the order of one or two drops (i.e., 0.05-0.10 cm).
+Figures 7-10 show pH titration curves for combinations of 0.1 moldm-3
+strong and weak acids with 0.1 moldm strong and weak bases.
+The pH ranges for methyl orange and phenolphthalein indicators have
+been added to show which indicator is suitable for each titration.
+No indicator is suitable for a weak acid-weak base titration as there
+is no vertical section and, even at its steepest, the pH requires
+several cm' to pass through a typical pH indicator range of 2 pH units.
+14, HCl(aq) and NaOH(aq)
+14 CH3COOH(aq) and NaOH(aq)
+phenolphthalein
+suitable
+phenolphthalein
+suitable
+Hd
+pH
+methyl orange
+suitable
+methyl orange
+not suitable
+0
++
+0 5 10 15 20 25 30 35 40 45 50
+volume of 0.1 moldm-3 base added/cm3
+A Figure 7 Strong acid-strong base titration
+HCl(aq) and NH3(aq)
+0 5 10 15 20 25 30 35 40 45 50
+volume of 0.1 moldm base added/cm3
+Figure 8 Weak acid-strong base titration
+14CH3COOH(aq) and NH3(aq)
+phenolphthalein
+not suitable
+Hd
+Hd
+no indicator is
+suitable
+methyl orange
+suitable
+0 5 10 15 20 25 30 35 40 45 50
+volume of 0.1 moldm base added/cm3
+Figure 9 Strong acid-weak base titration
+0 5 10 15 20 25 30 35 40 45 50
+volume of 0.1 moldm 3 base added/cm3
+A Figure 10 Weak acid-weak base titration
+Summary questions
+1 Explain the difference between the terms equivalence
+point and end point?
+(2 marks)
+2 For the indicator chlorophenol red, the HA form is
+yellow and the A- form is red.
+a Write an equation to link these two forms
+of the indicator.
+(1 mark)
+b Predict the colour of chlorophenol red:
+i in a strong acid
+ii in a strong alkali
+iii at the end-point of a titration. (3 marks)
+3 This question refers to the titration curve in Figure 8
+for 0.100 mol dm-3CH2COOH with 0.100 mol dm-3
+NaOH.
+Predict how the curve would differ if 0.050 moldm-3
+CH,COOH had been used instead. (2 marks)
+343
+21.2 Buffer solutions in the body
+Specification reference: 5.1.3
+Controlling blood pH
+Buffer solutions are widespread in living systems. The well-being of
+the human body relies on precise pH control with different parts of the
+body requiring specific pH values for effective functioning. Enzymes
+are particularly sensitive and each has an optimum pH. The role of pH
+control in the body falls to buffer solutions, for example, in the plasma
+of the blood.
+Learning outcome
+Demonstrate knowledge,
+understanding, and application of:
+→ buffer solutions in the control
+of blood pH.
+Sund I
+Blood plasma needs to be maintained at a pH between 7.35 and 7.45
+The pH is controlled by a mixture of buffers, with the carbonic
+acid-hydrogencarbonate (H,CO,/HCO,-) buffer system being the most
+important. Normal healthy blood should have a pH of 7.40.
+30
+San
+350
+Hemoglobin
+#
+C
+What happens if the pH slips outside this range?
+If the pH falls below 7.35, people can develop a condition called
+acidosis, which can cause fatigue, shortness of breath, and in extreme
+cases, shock or death. If the pH rises above 7.45, the condition is called
+alkalosis, which can cause muscle spasms, light-headedness, and
+nausea.
+emrogram
+Remember that pH is a sensitive scale - a difference of just 0.30 pH
+units is a two-fold difference in H+(aq) concentration. So although
+7.40 + 0.30 (i.e. 7.10 - 7.70), does not sound very different from
+the healthy blood pH of 7.40, the difference is very large in terms of
+acidity or alkalinity.
+A Figure 1 A sample tube of human
+blood for analysis. Healthy blood has a
+pH of 740
+The carbonic acid-hydrogencarbonate buffer system
+A general buffer system based on HA/A-controls pH. The carbonic
+acid-hydrogencarbonate operates in a similar way:
+Synoptic link
+You first encountered the pH scale
+in Topic 20.2, The pH scale and
+strong acids.
+On addition of an acid, H*(aq):
+1
+2
+3
+[H+(aq)] increases.
+H+(aq) ions react with the conjugate base, HCO, (aq).
+The equilibrium position shifts to the left, removing most of the
+H+(aq) ions.
+added acid
+H.CO,(aq) = H+ (aq) + HCO, (aq)
+On addition of an alkali, OH (aq):
+1
+2
+[OH(aq)] increases.
+The small concentration of H+ (aq) ions reacts with the OH-(aq)
+ions:
+H+ (aq) + OH(aq) H,O(1)
+337
+21
+BUFFERS AND NEUTRALISATION
+base. Some of the weak acid is left over unreacted. The resulting
+solution contains a mixture of the salt of the weak acid and any
+unreacted weak acid.
+Two reservoirs to remove added acid and alkali
+In the ethanoic acid equilibrium, the equilibrium position lies well
+towards ethanoic acid. When CH,COO ions are added to CH COOH,
+the equilibrium position shifts even further to the left, reducing the
+already small concentration of H+(aq) ions, and leaving a solution
+containing mainly the two components, CH,COOH and CH COO:
+CH,COOH(aq) = H(aq) + CH,COO-(aq)
+component 1
+component 2
+CH,COOH and CH COO act as two reservoirs that are able to act
+independently to remove added acid and alkali. This is achieved by
+shifting the buffer's equilibrium system either to the right or left.
+Action of the buffer solution
+The conjugate acid-base pair, HA(aq)/A (aq), in an acid buffer solution
+controls the pH. The equilibrium is shown below.
+HA(aq) = H+(aq) + A-(aq)
+The control of pH can be explained in terms of shifts in the
+equilibrium position using le Chatelier's principle.
+Synoptic link
+For details of equilibrium position
+and le Chatelier's principle, see
+Topic 10.4, Dynamic equilibrium
+and le Chatelier's principle.
+Conjugate base removes added acid
+On addition of an acid, H(aq):
+1
+2
+3
+[H(aq)] increases.
+H+(aq) ions react with the conjugate base, A (aq)
+The equilibrium position shifts to the left, removing most of the
+H+(aq) ions
+HA(aq) = H(aq) + A (aq)
+added alkali
+added acid
+Weak acid removes added alkali
+On addition of an alkali, OH (aq):
+1 [OH-(aq)] increases.
+2 The small concentration of H+(aq) ions reacts with the OH(aq) ions:
+H+(aq) + OH-(aq) H20(1)
+3 HA dissociates, shifting the equilibrium position to the right to
+restore most of H(aq) ions.
+added alkali
+HA(aq) = H+(aq) + A-(aq)
+added acid
+Figure 1 Shifting the buffer
+equilibrium. Additions of acid and alkali
+shift the equilibrium position in opposite
+directions
+HA (aq) = H+(aq) + A (aq)
+The role of the weak acid, HA, and its conjugate base, A-, in
+controlling pH is summarised in Figure 1.
+pH and buffer solutions
+Choosing the components for a buffer solution
+Different weak acids result in buffer solutions that operate over
+different pH ranges. How do you know which weak acid to use?
+333
+21
+21.1 Buffer solutions
+A buffer is most effective at removing either added acid or alkali when
+there are equal concentrations of the weak acid and its conjugate base.
+When [HA(aq)] = [A-(aq)]:
+6.14
+röm-Pac!
+DUFTER
+the pH of the buffer solution is the same as the pK value of HA
+the operating pH is typically over about two pH units, centred at
+the pH of the pk, value.
+The ratio of the concentrations of the weak acid and its conjugate base
+can then be adjusted to fine-tune the pH of the buffer solution.
+Table 1 shows the pK, values of several weak acids together with their
+typical operating pH ranges as buffers.
+Figure 2 Measuring the pH of a
+buffer solution with a pH probe and a
+pH meter
+Table 1 Buffer pH ranges for weak acids
+Acid
+Name
+Typical operating pH range
+3.76–5.76
+4.76
+ethanoic acid
+glycolic acid
+methanoic acid
+3.83
+CH,COOH
+HOCH,COOH
+HCOOH
+CH,CHOHCOOH
+2.83-4.83
+3.75
+2.75-4.75
+lactic acid
+3.08
+2.08-4.08
+Study tip
+The pH of a buffer solution depends
+upon:
+• the pk (ork) value of the
+weak acid
+the ratio of the concentrations
+of the weak acid, HA, and its
+conjugate base, A.
+Calculating the pH of a buffer solution
+The equilibrium and K expression for a weak acid is shown below:
+HA(aq) = H+ (aq) + A-(aq)
+K - [H+(aq)] [A (aq)]
+K = 15
+[HA(aq)]
+When you calculate the pH of a weak acid, you make an
+approximation that [H+(aq)] = [A-(aq)]. For a buffer solution, this is
+no longer true as A (aq) has been added as one of the components of
+the buffer.
+To work out the pH of a buffer solution, rearrange the K expression as
+shown below.
+Study tip
+[H*(aq)] = K
+x [HA(aq)]
+[A- (aq)]
+Take care. Weak acid and buffer
+pH calculations use the same k
+expression but the methods are
+different
+For weak acids: [H+(aq)] = [A-(aq)]
+For buffers: [H+ (aq)] + [A (aq)]
+acid dissociation
+constant
+ratio of weak
+acid and its
+conjugate base
+Provided that K, and the concentrations of HA and A are known,
+[H*(aq)] and the pH can be calculated.
+When the concentrations of HA and A are the same:
+•
+[H(aq)[4 al
+[HA(aq)] = [A- (aq)] and K =
+[HAtaq)]
+K = [H(aq)] and p = pH
+334
+BUFFERS AND
+NEUTRALISATION
+21.1 Buffer solutions
+Specification reference: 5.1.3
+What is a buffer solution?
+A buffer solution is a system that minimises pH changes when small
+amounts of an acid or a base are added. Buffer solutions contain
+two components to remove added acid or alkali – a weak acid (as
+component l) and its conjugate base (as component 2).
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ buffer solutions
+→ preparing buffer solutions
+► the role of acid-base pairs in
+buffer solutions
+→ calculating the pH of buffer
+solutions.
+The weak acid, HA, removes added alkali.
+The conjugate base, A-, removes added acid.
+When alkalis and acids are added to a buffer, the two components
+in the buffer solution react and will eventually be used up. As soon
+as one component has all reacted, the solution loses its buffering
+ability towards added acid or alkalis. As the buffer works, the pH
+does change but only by a small amount - you should not assume
+that the pH stays completely constant.
+Synoptic link
+You first learnt about conjugate
+acid-base pairs in Topic 20.1,
+Brønsted -Lowry acids and bases.
+Preparing weak acid buffer solutions
+A buffer solution based on a weak acid needs a weak acid and its
+conjugate base. Two methods for preparing a buffer based on ethanoic
+acid are outlined below.
+Preparation from a weak acid and its salt
+A buffer solution can be prepared by mixing a solution of ethanoic
+acid, CH2COOH, with a solution of one of its salts, for example,
+sodium ethanoate, CH,COONa.
+When ethanoic acid is added to water, the acid partially dissociates and
+the amount of ethanoate ions in solution is very small. Ethanoic acid is
+the source of the weak acid component of the buffer solution.
+CH,COOH(aq) = H+ (aq) + CH,C00-(aq)
+component 1
+Synoptic link
+For more information about
+dissolving ionic compounds,
+see Topic 5.2 lonic bonding and
+structure, Topic 22.2, Enthalpy
+changes in solution, and Topic
+22.3, Factors affecting lattice
+enthalpy and hydration.
+Salts of weak acids are ionic compounds and provide a convenient
+source of the conjugate base. When added to water, the salt
+completely dissolves. Dissociation into ions is complete and so the salt
+is the source of the conjugate base component of the buffer solution.
+CH,COONa(s) + aq - CH,C00-(aq) + Na+ (aq)
+component 2
+Preparation by partial neutralisation of the weak acid
+A buffer solution can also be prepared by adding an aqueous solution
+of an alkali, such as NaOH(aq), to an excess of the weak acid. The
+weak acid is partially neutralised by the alkali, forming the conjugate
+332
+BUFFERS AND NEUTRALISATION
+21
+6
+b Explain how this buffer system acts as a
+buffer in the control of blood pH. (4 marks)
+Healthy blood at a pH of 7.40 has a
+HCO, :H,CO, ratio of 20:1.
+A patient is admitted to hospital. The
+patient's blood pH is measured as 7.20.
+Calculate the HCO, :H,CO, ratio in the
+patient's blood.
+(4 marks)
+Glycolic acid, HOCH,COOH, and thioglycolic
+acid, HSCH, COOH, are weak acids.
+a Glycolic acid reacts with bases, such as
+aqueous sodium hydroxide, NaOH(aq), to
+form salts.
+A student pipetted 25.0 cm of
+0.125 moldm glycolic acid into a conical
+flask. The student added NaOH(aq) from a
+burette. A pH meter and data logger were
+used to measure continuously the pH of
+the contents of the conical flask.
+The pH curve obtained is shown below.
+(i) What is the expression for the acid
+dissociation constant K of glycolic
+acid?
+(1 mark)
+(ii) Calculate K for glycolic acid. (3 marks)
+(iii) Calculate the percentage dissociation
+of the glycolic acid. (1 mark)
+C A buffer of glycolic acid and ammonium
+glycolate is used in a facial cleanser.
+Explain, using equations:
+how a solution containing glycolic acid
+and glycolate ions can act as a buffer
+how this buffer could be prepared
+from ammonia and glycolic acid.
+In your answer you should explain how
+the equilibrium system allows the buffer
+solution to control the pH. (7 marks)
+d Ammonium thioglycolate,
+HSCH,COONH,, is the ammonium salt of
+thioglycolic acid, HSCH,COOH.
+When ammonium thioglycolate
+is dissolved in water, an acid-base
+equilibrium is set up. The equilibrium lies
+well to the left-hand side.
+HSCH,C00-(aq) + NH,+ (aq) =
+HSCH COOH(aq) + NH, (aq)
+Label one conjugate acid-base pair as
+Acid l' and 'Base l'.
+Label the other conjugate acid-base
+pair as 'Acid 2' and 'Base 2'. (2 marks)
+OCR F325 Jan 2011 Q3 (a)-(d)
+Benzoic acid, C H2COOH, is a weak acid,
+used for preserving fruit juices. The acid
+dissociation constant K of benzoic acid is
+6.30 x 10-moldmat 25°C.
+a Write the equation for the dissociation of
+benzoic acid when dissolved in water.
+(1 mark)
+b Write the expression for the acid
+dissociation constant K, of benzoic acid.
+(1 mark)
+c The solubility of benzoic acid in water is
+3.40 g dm-.
+Calculate the pH of a saturated solution of
+benzoic acid in water at 25°C. (5 marks)
+2816/01 June 2009 Q3 (a)-(0)
+Hd
+ONWA000RW
+OLULIITTUU
+5
+10
+40
+45
+50
+15 20 25 30 35
+volume NaOH(aq) added/cm3
+7
+1 mol of glycolic acid reacts with 1 mol of
+sodium hydroxide.
+(i) Write the equation for the reaction
+that takes place in the titration.
+(1 mark)
+(ii) Determine the concentration, in
+moldm-, of the NaOH. (2 marks)
+(iii) The student decided to carry out this
+titration using an acid-base indicator.
+What important factor does the
+student need to consider when
+deciding on the most suitable
+indicator to use?
+(1 mark)
+The 0.125 mol dm-' glycolic acid had a pH
+of 2.37.
+b
+345
+BUFFERS AND NEUTRALISATION
+Although the equation appears more complex than the method you have
+learnt, the calculation is often easier. For a buffer solution containing
+0.100 mol dm-3 CH2COOH (pK = 4.76) and 0.300 mol dm-3CH,COONa, the
+pH can be solved in a single step:
+[CH,COO-(aq)] - 476+100 0.300
+pH = pk + log
+[CH,COOH(aq)]
+0.100
+= 4.76 + log 3 = 4.76 +0.48
+= 5.24
+Use the Henderson-Hasselbalch equation to calculate the pH of the
+following buffer solutions.
+a 0.250 mol dm-3 HCOOH and 0.750 mol dm-3 HCOONa
+(PK HCOOH = 3.75)
+b 0.800 mol dm-3 HOCH,COOH and 0.400 moldm-3 HOCH,COONa
+(PK HOCH,COOH = 3.83)
+c 0.475 mol dm-CH,CHOHCOOH and 0.625 mol dm "CH,CHOHCOONa
+(pK CH CHOHCOOH = 3.08)
+Study tip
+If you prefer, you can use this
+method for calculating the pH of a
+buffer solution. But be very careful
+that you show the ratio the correct
+way round.
+Summary questions
+1 The carbonic acid-hydrogencarbonate buffer system controls blood pH.
+a State the equilibrium in this buffer system.
+(1 mark)
+b Explain in terms of equilibrium how this buffer system removes
+excess acid from the blood.
+(2 marks)
+2 Normal healthy blood has a pH of 7.40. A sample of blood
+in a patient suffering from acute acidosis has a pH of 6.92.
+a Calculate the [H+ (aq)] concentration at these two pH values
+in the blood.
+(2 marks)
+b Calculate how many times greater the [H*(aq)] in blood is
+at pH 6.92 compared to blood at pH 740.
+(2 marks)
+3 a Calculate the concentration ratio of CH,COOH/CH,C00-in a
+buffer solution with a pH of 4.11.
+K (CH,COOH) = 1.74 x 10-5 mol dm-3
+(3 marks)
+b Healthy blood at a pH of 7.40 has a hydrogencarbonate:
+carbonic acid ratio of 20:1. A patient is admitted to hospital.
+The patient's blood pH is measured as 7.20.
+i Calculate K, for carbonic acid.
+ii Calculate the hydrogencarbonate: carbonic acid ratio
+in the patient's blood.
+(6 marks)
+339
+21.3 Neutralisation
+Specification reference: 5.1.3
+Learning outcomes
+Demonstrate knowledge,
+understanding, and application of:
+→ pH titration curves
+→ choosing an indicator
+→ using a pH meter.
+pH titration curves
+Acid-base titrations use indicators to monitor neutralisation reactions
+accurately. The results can then be analysed to find out some unknown
+information about the acid or base. This topic looks closely at the pH
+changes that take place during a titration. A pH meter can be used for
+monitoring these changes as outlined below.
+Synoptic link
+Look back to Topic 4.2, Acid-base
+titrations.
+Using a pH meter
+ApH meter consists of an electrode, that is dipped into a solution, and
+connected to a meter that displays the pH reading. A pH meter typically
+records pH values to two decimal places. Indicator paper is usually matched
+from colour charts to the nearest whole number, so a pH meter is able to
+give more accurate measurements of pH during a titration. The procedure
+below monitors the pH as an aqueous base is added to an acid solution.
+1 Using a pipette, add a measured volume of acid to a conical flask.
+2 Place the electrode of the pH meter in the flask.
+3 Add the aqueous base to the burette and add to the acid in the conical
+flask, 1 cm at a time.
+After each addition, swirl the contents. Record the pH and the total
+volume of the aqueous base added.
+5 Repeat steps 3 and 4 until the pH starts to change more rapidly. Then
+add the aqueous base dropwise for each reading until the pH changes
+less rapidly.
+6 Now add the aqueous base 1 cm at a time again until an excess has
+been added and the pH has been basic, with little change, for several
+additions.
+A graph of pH against total volume of aqueous base added is then plotted.
+Figure 2 shows the curve for a titration between 0.1 mol dm-3 solutions of a
+strong monobasic acid and a strong monobasic base.
+For an alternative automatic method, you could attach the pH meter to a
+datalogger and use a magnetic stirrer in the flask. The aqueous base would
+then be added from the burette to the flask slowly, and the pH titration
+curve could be plotted automatically using the datalogger or appropriate
+software on a computer.
+A Figure 1 A student using a digital pH
+meter to measure the pH of a solution
+in a conical flask during an acid-base
+titration
+A pH meter records a pH as 4.65 but the best match with indicator paper
+is a pH of 5. Calculate the (H+(aq)] concentration at each pH reading and
+estimate the percentage error in pH and [H(aq)] made by measuring the
+pH with indicator paper.
+The pH titration curve
+The key features of a typical pH titration curve are shown labelled
+on Figure 2.
+340
