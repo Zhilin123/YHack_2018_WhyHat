@@ -1,21 +1,24 @@
 from django.db import models
 from django.contrib.auth.models import User
 import numpy as np
-
+from django.core.files import File
 # Create your models here.
 
 
 class UserProfile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
-    topic_vector = models.FileField(upload_to='topic_vector/', null=True)
-    def upload_topic_vector(self, myfile):
+    topics = models.ManyToManyField('Topic')
+    interest_vector = models.FileField(upload_to='interest_vector/', null=True)
+    def update_interest_vector(self, prefix, vector):
         # param: file:python file object
-        self.topic_vector.save("topic_vector.npx", myfile)
+        np.save('temp.npy', vector)
+        myfile = File(open('temp.npy', 'rb'))
+        self.interest_vector.save(prefix + "_interest_vector.npy", myfile)
         self.save()
 
-    def get_topic_vector(self):
+    def get_interest_vector(self):
         # return: numpy array stored in this video
-        f = self.topic_vector.open()
+        f = self.interest_vector.open()
         return np.load(f)
 
 
@@ -47,24 +50,8 @@ class Topic(models.Model):
         return string
 
 
-class Video(models.Model):
-    title = models.CharField(max_length=30)
-    url = models.URLField()
-    vector = models.FileField(upload_to='video_vector/', null=True)
-
-    def upload_video_vector(self, myfile):
-        # param: file:python file object
-        self.vector.save("vector.npx", myfile)
-        self.save()
-
-    def get_video_vector(self):
-        # return: numpy array stored in this video
-        f = self.vector.open()
-        return np.load(f)
-
-
 class VideoHistory(models.Model):
-    video = models.ForeignKey('Video', on_delete=models.CASCADE)
+    video_url = models.CharField(max_length=255, blank=True)
     user = models.OneToOneField(User, on_delete=models.CASCADE)
     start_time = models.DateTimeField()
     end_time = models.DateTimeField()

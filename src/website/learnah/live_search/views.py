@@ -5,7 +5,7 @@ from django.conf import settings
 from django.http import JsonResponse
 from django.views.generic import TemplateView
 from django.shortcuts import redirect
-from data_manager.models import UserProfile, Subject, Unit, Topic, Video
+from data_manager.models import UserProfile, Subject, Unit, Topic
 from django.contrib.auth.models import User
 from django.core.files import File
 
