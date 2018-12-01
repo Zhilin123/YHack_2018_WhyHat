@@ -65,5 +65,5 @@ class HomeView(TemplateView):
         #res, err_message = create_new_user("test_user","test_password", "test_mail@gmail.com")
         #print(res, err_message)
 
-        params["input_param"] = str("total number of records in topics: " + str(Topic.objects.all().count()) + str(Topic.objects.all()))
+        params["input_param"] = str("total number of records in topics: " + str(Topic.objects.all().count()) + str(list(Topic.objects.all())))
         return self.render_to_response(params)
