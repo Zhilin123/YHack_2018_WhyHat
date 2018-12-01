@@ -25,6 +25,7 @@ class SearchDataView(TemplateView):
     template_name = 'live_search/index.html'
 
     def get(self, request, *args, **kwargs):
+        print (request)
         input = request.GET['input']
         strs = input.split(" ")
         data = {"videos":[]}
