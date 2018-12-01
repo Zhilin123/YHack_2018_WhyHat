@@ -4,6 +4,47 @@ from data_manager.models import Subject, Unit, Topic
 import os
 
 def import_topics():
+    f = open('data_manager/tree.json')
+    res = json.load(f)['children']
+    for node in res:
+        node_name = node['name']
+        if node_name == 'bio':
+            subject_name = "Biology"
+        elif node_name == 'phy':
+            subject_name = 'Physics'
+        elif node_name == 'chem':
+            subject_name = 'Chemistry'
+        print(subject_name)
+        subject = Subject.objects.get(name=subject_name)
+
+        for sub_node in node['children']:
+            unit_name = sub_node['name']
+            print("-", unit_name)
+            if Unit.objects.filter(name=unit_name, subject=subject).count() == 0:
+                new_unit = Unit()
+                new_unit.name = unit_name
+                new_unit.subject = subject
+                new_unit.save()
+            unit = Unit.objects.get(name=unit_name, subject=subject)
+
+            for sub_sub_node in sub_node['children']:
+                topic_name = sub_sub_node['name']
+                print ("--", topic_name)
+                if Topic.objects.filter(name=topic_name, unit=unit).count() == 0:
+                    new_topic = Topic()
+                    if topic_name[0:4]=='sub_':
+                        new_topic.name = topic_name[4:]
+                    else:
+                        new_topic.name = topic_name
+                    new_topic.real_name = topic_name
+                    new_topic.unit = unit
+                    print(new_topic)
+                    new_topic.save()
+
+
+    #subject = Subject.objects.get(name="Chemistry")
+
+    '''
     from os import listdir
     from os.path import isfile, join
     mypath = os.getcwd() + '/data_manager'
@@ -40,7 +81,7 @@ def import_topics():
                     new_topic.name = topic_name
                     new_topic.unit = unit
                     new_topic.save()
-
+    '''
 
 
 def import_chemistry_topics():

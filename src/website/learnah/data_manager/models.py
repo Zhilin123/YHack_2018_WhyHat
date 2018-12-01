@@ -39,10 +39,11 @@ class Unit(models.Model):
 
 class Topic(models.Model):
     name = models.CharField(max_length=255)
+    real_name = models.CharField(max_length=255, blank=True)
     description = models.CharField(max_length=255, blank=True)
     unit = models.ForeignKey('Unit', on_delete=models.CASCADE, null=True)
     def __str__(self):
-        string = "unit:"+ self.unit.name + "name: " + self.name + "\n" + "des: " + self.description
+        string = "unit:"+ self.unit.name + " name: " + self.name
         return string
 
 

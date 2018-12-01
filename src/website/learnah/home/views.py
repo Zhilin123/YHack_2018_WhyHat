@@ -28,6 +28,8 @@ class HomeView(TemplateView):
                 subject.description = x + "for test"
                 subject.save()
 
+        Unit.objects.all().delete()
+        Topic.objects.all().delete()
         '''
         Video.objects.all().delete()
         
