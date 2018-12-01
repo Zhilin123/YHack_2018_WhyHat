@@ -8,6 +8,8 @@ from django.core.files import File
 class UserProfile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
     topics = models.ManyToManyField('Topic')
+    areas = models.ManyToManyField('Area')
+
     interest_vector = models.FileField(upload_to='interest_vector/', null=True)
     def update_interest_vector(self, prefix, vector):
         # param: file:python file object
