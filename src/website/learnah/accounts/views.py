@@ -7,7 +7,10 @@ from django.contrib.auth.views import logout_then_login
 from django.conf import settings
 from django.views.generic import TemplateView
 from django.http import HttpResponseRedirect
-
+from django.http import JsonResponse
+from data_manager.models import UserProfile
+from accounts.user_registration import create_new_user
+from django.contrib.auth.models import User
 
 class LoginView(TemplateView):
     template_name = 'accounts/login.html'
@@ -52,3 +55,37 @@ class LogoutView(TemplateView):
 
     def post(self, request):
         return logout_then_login(request)
+
+
+
+class LoginSignupView(TemplateView):
+    '''
+    GET:
+    username string
+    RETURN:
+    {
+        'msg':'Login Successfully'/'Signup Successfully'/'Fail'
+    }
+    '''
+    template_name = 'accounts/login.html'
+
+    def get(self, request, *args, **kwargs):
+        username = request.GET['username']
+
+        res, err_message = create_new_user(username, 'nopassword', 'nomail@gmail.com')
+        try:
+            user = User.objects.get(username=username)
+
+            profiles = UserProfile.objects.filter(user=user)
+            if profiles.count() > 0:
+                return JsonResponse({
+                    'msg': "Login Successfully",
+                })
+            else:
+                return JsonResponse({
+                    'msg': "Signup Successfully",
+                })
+        except:
+            return JsonResponse({
+                'msg': "Fail",
+            })

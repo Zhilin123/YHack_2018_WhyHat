@@ -136,7 +136,7 @@ class UserProfileUpdateView(TemplateView):
         type = request.GET['type']
         name = request.GET['name']
         selected = int(request.GET['selected'])
-        
+
 
         res, err_message = create_new_user(username, 'nopassword', 'nomail@gmail.com')
         try:
@@ -159,9 +159,9 @@ class UserProfileUpdateView(TemplateView):
             else:
                 area = Area.objects.get(name=name)
                 if selected:
-                    profile.topics.add(area)
+                    profile.areas.add(area)
                 else:
-                    profile.topics.remove(area)
+                    profile.areas.remove(area)
             profile.save()
             print(profile.topics.all())
 
