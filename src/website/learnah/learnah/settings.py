@@ -14,7 +14,7 @@ SECRET_KEY = 'r!e4c178fd3iq!!-f1j2+20#dz&jrfbo5js&62#ru#!)o)o8&6'
 DEBUG = True
 ONLINE_DATABASE = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['zhilingmail.pythonanywhere.com']
 
 
 # Application definition
