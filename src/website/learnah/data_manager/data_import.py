@@ -29,7 +29,17 @@ def import_topics():
                 unit_name = strs[0]
                 topic_name = strs[1][:-4]
                 print(subject_name, unit_name, "|", topic_name)
-
+                if Unit.objects.filter(name=unit_name, subject=subject).count() == 0:
+                    new_unit = Unit()
+                    new_unit.name = unit_name
+                    new_unit.subject = subject
+                    new_unit.save()
+                unit = Unit.objects.get(name=unit_name, subject=subject)
+                if Topic.objects.filter(name=topic_name, unit=unit).count() == 0:
+                    new_topic = Topic()
+                    new_topic.name = topic_name
+                    new_topic.unit = unit
+                    new_topic.save()
 
 
 

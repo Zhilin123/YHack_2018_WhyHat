@@ -59,9 +59,9 @@ class HomeView(TemplateView):
             #import_physics_topics()
             import_topics()
 
-        #print(Unit.objects.filter(subject__name="Chemistry"))
-        #print(Unit.objects.filter(subject__name="Physics"))
-        #print(Unit.objects.filter(subject__name="Biology"))
+        print(Unit.objects.filter(subject__name="Chemistry"))
+        print(Unit.objects.filter(subject__name="Physics"))
+        print(Unit.objects.filter(subject__name="Biology"))
 
         params['current_user'] = request.user
         params["input_param"] = str("total number of records in topics: " + str(Topic.objects.all().count()))
