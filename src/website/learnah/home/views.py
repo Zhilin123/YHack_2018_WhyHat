@@ -17,11 +17,6 @@ class HomeView(TemplateView):
     template_name = 'home/index.html'
 
     def get(self, request, *args, **kwargs):
-
-        Subject.objects.all().delete()
-        Unit.objects.all().delete()
-        Topic.objects.all().delete()
-
         params = dict()
         subjects = Subject.objects.all()
 
