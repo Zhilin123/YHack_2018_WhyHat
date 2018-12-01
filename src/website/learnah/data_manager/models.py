@@ -8,7 +8,6 @@ import numpy as np
 class UserProfile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
     topic_vector = models.FileField(upload_to='topic_vector/', null=True)
-
     def upload_topic_vector(self, myfile):
         # param: file:python file object
         self.topic_vector.save("topic_vector.npx", myfile)
