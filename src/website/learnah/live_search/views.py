@@ -117,31 +117,26 @@ class UserProfileDataView(TemplateView):
             })
 
 
-
-
-
-class RecommendDataView(TemplateView):
+class UserProfileUpdateView(TemplateView):
     # API call processing
     template_name = 'live_search/index.html'
     '''
     GET:
     username: string
-    areas: list of strings
-    topics: list of strings
+    type: string "area"/"topic"
+    name: string (area name or topic name)
+    selected: True/False
     RETURN:
     {
-        [
-             {url of video 1 <string>: title of video 1 <string>},
-             {url of video 2 <string>: title of video 2 <string>},
-             ...
-        ]
+        'msg':'Success'/'Fail'
     }
     '''
     def get(self, request, *args, **kwargs):
-        data = []
         username = request.GET['username']
-        areas = request.GET['areas']
-        topics = request.GET['topics']
+        type = request.GET['type']
+        name = request.GET['name']
+        selected = int(request.GET['selected'])
+        
 
         res, err_message = create_new_user(username, 'nopassword', 'nomail@gmail.com')
         try:
@@ -155,6 +150,64 @@ class RecommendDataView(TemplateView):
                 profile.user = user
                 profile.save()
 
+            if type == "topic":
+                topic = Topic.objects.get(name=name)
+                if selected:
+                    profile.topics.add(topic)
+                else:
+                    profile.topics.remove(topic)
+            else:
+                area = Area.objects.get(name=name)
+                if selected:
+                    profile.topics.add(area)
+                else:
+                    profile.topics.remove(area)
+            profile.save()
+            print(profile.topics.all())
+
+            return JsonResponse({
+                'msg': "Success",
+            })
+        except:
+            return JsonResponse({
+                'msg': "Fail",
+            })
+
+
+
+class RecommendDataView(TemplateView):
+    # API call processing
+    template_name = 'live_search/index.html'
+    '''
+    GET:
+    username: string
+    RETURN:
+    {
+        [
+             {url of video 1 <string>: title of video 1 <string>},
+             {url of video 2 <string>: title of video 2 <string>},
+             ...
+        ]
+    }
+    '''
+    def get(self, request, *args, **kwargs):
+        data = []
+        username = request.GET['username']
+        #areas = request.GET['areas']
+        #topics = request.GET['topics']
+
+        res, err_message = create_new_user(username, 'nopassword', 'nomail@gmail.com')
+        try:
+            user = User.objects.get(username=username)
+
+            profiles = UserProfile.objects.filter(user=user)
+            if profiles.count() > 0:
+                profile = profiles[0]
+            else:
+                profile = UserProfile()
+                profile.user = user
+                profile.save()
+            '''
             for area_name in areas:
                 area = Area.objects.get(name=area_name)
                 profile.areas.add(area)
@@ -162,6 +215,8 @@ class RecommendDataView(TemplateView):
             for topic_name in topics:
                 topic = Topic.objects.get(name=topic_name)
                 profile.topics.add(topic)
+            '''
+            #TODO: call interface
 
             return JsonResponse({
                 'data': data,

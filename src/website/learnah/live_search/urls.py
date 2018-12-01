@@ -19,4 +19,6 @@ urlpatterns = [
          name='topicarea_data'),
     path('profile_data/', views.UserProfileDataView.as_view(),
          name="profile_data"),
+    path('profile_update/', views.UserProfileUpdateView.as_view(),
+         name="profile_update"),
 ]
