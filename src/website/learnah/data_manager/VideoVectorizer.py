@@ -1,8 +1,5 @@
 import numpy as np
-import pandas as pd
-from ast import literal_eval
 from gensim import corpora, models, similarities
-from nltk.tokenize import sent_tokenize, word_tokenize
 from stop_words import get_stop_words
 from random import shuffle
 import stop_words
@@ -10,8 +7,6 @@ from gensim.parsing.porter import PorterStemmer
 import time
 import re
 import json, os, pickle
-import pyLDAvis
-import pyLDAvis.gensim
 
 from data_manager.TextCleaner import TextCleaner
 
@@ -171,10 +166,12 @@ class VideoVectorizer():
         
         return interest_vec
         
-    def get_ranked_video(self, subjects, interest_vec, subject_weight=0.8, subject_mask_value=0.1, thresh=0):
+    def get_ranked_video(self, subjects, interest_vec, subject_weight=0.75, subject_mask_value=1, thresh=0):
         # get score for each video based on topics and interests
         interest_score = self.interest.score_video_based_on_interest_vector(interest_vec)
         subject_score = self.subject.score_video_based_on_topic(subjects)
+        interest_score /= interest_score.sum()
+        subject_score /= subject_score.sum()
         
         # get the final score, NB video that does not match a subject would not be presented
         final_score = subject_weight * subject_score + (1 - subject_weight) * interest_score
