@@ -170,6 +170,7 @@ class VideoVectorizer():
         return interest_vec
         
     def get_ranked_video(self, subjects, interest_vec, subject_weight=0.75, subject_mask_value=1, thresh=0):
+        print("Start video ranking")
         # get score for each video based on topics and interests
         interest_score = self.interest.score_video_based_on_interest_vector(interest_vec)
         subject_score = self.subject.score_video_based_on_topic(subjects)
@@ -188,6 +189,7 @@ class VideoVectorizer():
         # give ranked url and title out
         sorted_score = sorted(enumerate(final_score), key=lambda x:x[1], reverse=True)
         
+        print("Final score acquired, starting ranking")
         ranked_video = []
         for index, score in sorted_score:
             if score < thresh:
