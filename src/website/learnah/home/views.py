@@ -40,7 +40,6 @@ class HomeView(TemplateView):
         test_video.vector.save("temp.npx", myfile)
         test_video.save()
         '''
-        Topic.objects.all().delete()
         # re-import the topics and units
         if Topic.objects.all().count() == 0:
             Unit.objects.all().delete()
@@ -67,7 +66,7 @@ class HomeView(TemplateView):
             profile = profiles[0]
         #profile.update_interest_vector(request.user.username, np.array([5,6,7,8]))
         #print(profile.get_interest_vector())
-        topics = Topic.objects.filter(unit__subject__name="Physics")
+        topics = Topic.objects.all()
         print(topics)
         for topic in topics:
             profile.topics.add(topic)

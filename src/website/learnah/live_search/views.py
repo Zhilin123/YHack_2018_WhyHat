@@ -251,10 +251,10 @@ class VideoWatchView(TemplateView):
         video_title = request.GET['video_title']
 
         res, err_message = create_new_user(username, 'nopassword', 'nomail@gmail.com')
-        user = User.objects.get(username=username)
-        update_user_interest_vector(user, video_url, video_title)
 
         try:
+            user = User.objects.get(username=username)
+            update_user_interest_vector(user, video_url, video_title)
 
             return JsonResponse({
                 'msg': "Success",
