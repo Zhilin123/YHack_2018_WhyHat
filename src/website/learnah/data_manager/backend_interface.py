@@ -47,17 +47,18 @@ def obtain_recommend_videos(user, offset=0):
     topics = profile.topics.all()
     topic_list = [topic.real_name for topic in topics]
     #print(topic_list)
-
+    '''
     if not profile.interest_vector: # no vector stored
         # call function
         interest_vec = np.empty(Area.objects.all().count())
         interest_vec.fill(0)
         profile.update_interest_vector(interest_vec)
-    else:
-        interest_vec = profile.get_interest_vector()
-
-    print(interest_vec)
+    else:'''
     print(topic_list)
+
+    interest_vec = profile.get_interest_vector()
+    print(interest_vec)
+
     print("start calling")
     global vv
     rank = vv.get_ranked_video(topic_list, interest_vec, subject_weight=0.6, thresh=0, subject_mask_value=0)
