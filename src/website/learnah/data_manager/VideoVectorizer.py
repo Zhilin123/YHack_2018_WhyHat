@@ -10,7 +10,6 @@ from gensim.parsing.porter import PorterStemmer
 import time
 import re
 import json, os, pickle
-import matplotlib.pyplot as plt
 import pyLDAvis
 import pyLDAvis.gensim
 

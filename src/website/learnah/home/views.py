@@ -72,9 +72,6 @@ class HomeView(TemplateView):
         for topic in topics:
             profile.topics.add(topic)
 
-        obtain_recommend_videos(request.user)
-
-
         #print(profile.topics.all().count())
         #obtain_recommend_videos(request.user)
         params['current_user'] = request.user
