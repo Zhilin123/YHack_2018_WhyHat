@@ -133,6 +133,9 @@ class SubjectVectorizer():
         With the input topics, return a score for all the videos
         Removing video whose similarity to the topic is less then thresh
         """
+        if len(topics) == 0:
+            return np.ones(len(self.indexed_video)) / len(self.indexed_video)
+        
         video_score_sum = np.zeros(len(self.indexed_video))
         for t in topics:
             ti = self.topic_index[t]
