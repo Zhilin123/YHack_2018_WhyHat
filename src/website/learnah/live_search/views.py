@@ -196,6 +196,7 @@ class RecommendDataView(TemplateView):
 
         res, err_message = create_new_user(username, 'nopassword', 'nomail@gmail.com')
         results = []
+        vector = []
         try:
             user = User.objects.get(username=username)
 
@@ -206,6 +207,7 @@ class RecommendDataView(TemplateView):
                 profile = UserProfile()
                 profile.user = user
                 profile.save()
+            vector = list(profile.get_interest_vector())
 
             results = obtain_recommend_videos(user)
             for record in results:
@@ -220,6 +222,7 @@ class RecommendDataView(TemplateView):
             return JsonResponse({
                 'data': {
                     'username':username,
+                    'vector':vector,
                     'results':results,
                 },
                 'msg': "Internal Server Error",
