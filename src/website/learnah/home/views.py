@@ -40,7 +40,7 @@ class HomeView(TemplateView):
         test_video.vector.save("temp.npx", myfile)
         test_video.save()
         '''
-
+        Topic.objects.all().delete()
         # re-import the topics and units
         if Topic.objects.all().count() == 0:
             Unit.objects.all().delete()
