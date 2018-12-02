@@ -54,7 +54,7 @@ def obtain_recommend_videos(user, offset=0):
 
     print(interest_vec)
     global vv
-    rank = vv.get_ranked_video(topic_list, interest_vec, subject_weight=0.5, thresh=0.01)
-
+    rank = vv.get_ranked_video(topic_list, interest_vec, subject_weight=0.6, thresh=0, subject_mask_value=0)
+    print(rank)
     return rank[offset:offset+10]
 

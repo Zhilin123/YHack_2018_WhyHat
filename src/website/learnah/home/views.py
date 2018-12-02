@@ -73,11 +73,11 @@ class HomeView(TemplateView):
             profile.topics.add(topic)
 
         #print(profile.topics.all().count())
-        #obtain_recommend_videos(request.user)
+        results = obtain_recommend_videos(request.user)
         params['current_user'] = request.user
 
         #res, err_message = create_new_user("test_user","test_password", "test_mail@gmail.com")
         #print(res, err_message)
 
-        params["input_param"] = str("total number of records in topics: " + str(Topic.objects.all().count()) + str(list(Topic.objects.all())))
+        params["input_param"] = str(results)
         return self.render_to_response(params)
