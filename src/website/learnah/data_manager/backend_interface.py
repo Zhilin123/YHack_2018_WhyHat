@@ -22,6 +22,7 @@ def update_user_interest_vector(user, video_url, video_title):
     if not profile.interest_vector: # no vector stored
         interest_vec = np.empty(Area.objects.all().count())
         interest_vec.fill(0)
+        profile.update_interest_vector(interest_vec)
     else:
         interest_vec = profile.get_interest_vector()
 
@@ -51,6 +52,7 @@ def obtain_recommend_videos(user, offset=0):
         # call function
         interest_vec = np.empty(Area.objects.all().count())
         interest_vec.fill(0)
+        profile.update_interest_vector(interest_vec)
     else:
         interest_vec = profile.get_interest_vector()
 
