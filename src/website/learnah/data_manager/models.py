@@ -20,8 +20,13 @@ class UserProfile(models.Model):
 
     def get_interest_vector(self):
         # return: numpy array stored in this video
-        f = self.interest_vector.open()
-        return np.load(f)
+        if self.interest_vector:
+            f = self.interest_vector.open()
+            return np.load(f)
+        else:
+            a = np.empty(Area.objects.all().count())
+            a.fill(0)
+            return a
 
 
 class Subject(models.Model):

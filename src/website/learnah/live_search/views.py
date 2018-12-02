@@ -202,8 +202,10 @@ class RecommendDataView(TemplateView):
 
             profiles = UserProfile.objects.filter(user=user)
             if profiles.count() > 0:
+                print("detect profile")
                 profile = profiles[0]
             else:
+                print("no profile, creating")
                 profile = UserProfile()
                 profile.user = user
                 profile.save()
