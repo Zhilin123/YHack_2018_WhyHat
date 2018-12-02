@@ -146,6 +146,11 @@ class SubjectVectorizer():
             video_score[video_score<thresh] = 0
             video_score_sum += video_score
         video_score_sum[video_score_sum<thresh] = 0
+        
+        if not video_score_sum.any():
+            print("no matching video for these toipcs: ", topics)
+            return np.ones(len(self.indexed_video)) / len(self.indexed_video)
+        
         print("Finishing subject topic vector score ranking")
             
         return video_score_sum / len(topics)
