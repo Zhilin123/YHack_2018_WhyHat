@@ -56,12 +56,14 @@ class InterestVectorizer():
         Be advised, do not normalize video topic vec as we are not summing the simlarities of videos
             to different 
         """
+        print("Start interest vector score ranking")
         if interest_vec.sum() == 0: # normally distributed interest if no interest is registered
             normed_interest_vector = np.ones_like(interest_vec)
             normed_interest_vector /= normed_interest_vector.sum()
         else:
             normed_interest_vector = interest_vec / interest_vec.sum()
         video_score = np.dot(self.video_topic_vec, normed_interest_vector).reshape(-1)
+        print("Finish interest vector score ranking")
         
         return video_score
     
@@ -133,6 +135,7 @@ class SubjectVectorizer():
         With the input topics, return a score for all the videos
         Removing video whose similarity to the topic is less then thresh
         """
+        print("Start subject topic vector score ranking")
         if len(topics) == 0:
             return np.ones(len(self.indexed_video)) / len(self.indexed_video)
         
@@ -143,6 +146,7 @@ class SubjectVectorizer():
             video_score[video_score<thresh] = 0
             video_score_sum += video_score
         video_score_sum[video_score_sum<thresh] = 0
+        print("Finishing subject topic vector score ranking")
             
         return video_score_sum / len(topics)
 
@@ -171,12 +175,14 @@ class VideoVectorizer():
         
     def get_ranked_video(self, subjects, interest_vec, subject_weight=0.75, subject_mask_value=1, thresh=0):
         print("Start video ranking")
+        print("Interest vector shape: ", interest_vec.shape)
         # get score for each video based on topics and interests
         interest_score = self.interest.score_video_based_on_interest_vector(interest_vec)
         subject_score = self.subject.score_video_based_on_topic(subjects)
         interest_score /= interest_score.sum()
         subject_score /= subject_score.sum()
         
+        print("Start final score combining")
         # get the final score, NB video that does not match a subject would not be presented
         final_score = subject_weight * subject_score + (1 - subject_weight) * interest_score
         # get subject mask to mask the final result
@@ -185,6 +191,7 @@ class VideoVectorizer():
         subject_mask[subject_mask==0] = subject_mask_value
         # get finally masked result
         final_score *= subject_mask
+        print("Finish final score combining")
         
         # give ranked url and title out
         sorted_score = sorted(enumerate(final_score), key=lambda x:x[1], reverse=True)

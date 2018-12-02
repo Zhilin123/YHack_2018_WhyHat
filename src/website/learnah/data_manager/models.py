@@ -24,8 +24,7 @@ class UserProfile(models.Model):
             f = self.interest_vector.open()
             return np.load(f)
         else:
-            a = np.empty(Area.objects.all().count())
-            a.fill(0)
+            a = np.zeros(Area.objects.all().count())
             return a
 
 
