@@ -21,4 +21,6 @@ urlpatterns = [
          name="profile_data"),
     path('profile_update/', views.UserProfileUpdateView.as_view(),
          name="profile_update"),
+    path('video_watch/', views.VideoWatchView.as_view(),
+         name="video_watch"),
 ]

@@ -222,3 +222,35 @@ class RecommendDataView(TemplateView):
                 'data': [],
                 'msg': "Internal Server Error",
             })
+
+
+
+class VideoWatchView(TemplateView):
+    # API call processing
+    template_name = 'live_search/index.html'
+    '''
+    GET:
+    username: string
+    video_url: string
+    video_title: string
+    RETURN:
+    {
+        msg':'Success'/'Fail'
+    }
+    '''
+    def get(self, request, *args, **kwargs):
+        username = request.GET['username']
+        video_url = request.GET['video_url']
+        video_title = request.GET['video_title']
+
+        res, err_message = create_new_user(username, 'nopassword', 'nomail@gmail.com')
+        try:
+            user = User.objects.get(username=username)
+            update_user_interest_vector(user, video_url, video_title)
+            return JsonResponse({
+                'msg': "Success",
+            })
+        except:
+            return JsonResponse({
+                'msg': "Fail",
+            })

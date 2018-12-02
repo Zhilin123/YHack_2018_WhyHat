@@ -12,7 +12,7 @@ def initialize():
 '''
 Here is the interface between backend server and algorithm
 '''
-def update_user_interest_vector(user, video_url):
+def update_user_interest_vector(user, video_url, video_title):
     profiles = UserProfile.objects.filter(user=user)
     if profiles.count() > 0:
         profile = profiles[0]
@@ -20,16 +20,18 @@ def update_user_interest_vector(user, video_url):
         return False
 
     if not profile.interest_vector: # no vector stored
-        # call function
-        pass
-        # (np.array([0*300]), video_url)
+        interest_vec = np.empty(Area.objects.all().count())
+        interest_vec.fill(0)
     else:
-        # there's a vector
-        pass
-        # (profile.get_interest_vector(), video_url)
-    # new_vector = ...
-    #
-    # profile.update_interest_vector(user.username, new_vector)
+        interest_vec = profile.get_interest_vector()
+
+    new_vector = vv.update_interest_vector(interest_vec, prev_video=(video_title, video_url))
+    print(interest_vec)
+    print(new_vector)
+
+    profile.update_interest_vector(user.username, new_vector)
+    print(profile.get_interest_vector())
+
 
 def obtain_recommend_videos(user, offset=0):
     if initialized == False:
