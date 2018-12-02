@@ -58,7 +58,7 @@ class HomeView(TemplateView):
 
 
         profiles = UserProfile.objects.filter(user=request.user)
-        profiles.delete()
+        #profiles.delete()
         if profiles.count() == 0:
             profile = UserProfile()
             profile.user = request.user
@@ -73,11 +73,11 @@ class HomeView(TemplateView):
             profile.topics.add(topic)
 
         #print(profile.topics.all().count())
-        results = obtain_recommend_videos(request.user)
+        #results = obtain_recommend_videos(request.user)
         params['current_user'] = request.user
 
         #res, err_message = create_new_user("test_user","test_password", "test_mail@gmail.com")
         #print(res, err_message)
 
-        params["input_param"] = str(results)
+        params["input_param"] = "test"
         return self.render_to_response(params)
