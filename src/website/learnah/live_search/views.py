@@ -193,10 +193,9 @@ class RecommendDataView(TemplateView):
     def get(self, request, *args, **kwargs):
         data = []
         username = request.GET['username']
-        #areas = request.GET['areas']
-        #topics = request.GET['topics']
 
         res, err_message = create_new_user(username, 'nopassword', 'nomail@gmail.com')
+        results = []
         try:
             user = User.objects.get(username=username)
 
@@ -219,7 +218,10 @@ class RecommendDataView(TemplateView):
             })
         except:
             return JsonResponse({
-                'data': [],
+                'data': {
+                    'username':username,
+                    'results':results,
+                },
                 'msg': "Internal Server Error",
             })
 
