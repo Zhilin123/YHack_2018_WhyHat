@@ -57,7 +57,7 @@ class HomeView(TemplateView):
 
 
         profiles = UserProfile.objects.filter(user=request.user)
-        #profiles.delete()
+        profiles.delete()
         if profiles.count() == 0:
             profile = UserProfile()
             profile.user = request.user
