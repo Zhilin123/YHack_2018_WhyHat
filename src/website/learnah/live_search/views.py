@@ -124,7 +124,7 @@ class UserProfileUpdateView(TemplateView):
     GET:
     username: string
     type: string "area"/"topic"
-    name: string (area name or topic name)
+    names: a list of string (area names or topic names)
     selected: True/False
     RETURN:
     {
@@ -134,11 +134,11 @@ class UserProfileUpdateView(TemplateView):
     def get(self, request, *args, **kwargs):
         username = request.GET['username']
         type = request.GET['type']
-        name = request.GET['name']
+        names = request.GET.getlist('names[]')
         selected = int(request.GET['selected'])
 
-
         res, err_message = create_new_user(username, 'nopassword', 'nomail@gmail.com')
+
         try:
             user = User.objects.get(username=username)
 
@@ -149,19 +149,19 @@ class UserProfileUpdateView(TemplateView):
                 profile = UserProfile()
                 profile.user = user
                 profile.save()
-
-            if type == "topic":
-                topic = Topic.objects.get(name=name)
-                if selected:
-                    profile.topics.add(topic)
+            for name in names:
+                if type == "topic":
+                    topic = Topic.objects.get(name=name)
+                    if selected:
+                        profile.topics.add(topic)
+                    else:
+                        profile.topics.remove(topic)
                 else:
-                    profile.topics.remove(topic)
-            else:
-                area = Area.objects.get(name=name)
-                if selected:
-                    profile.areas.add(area)
-                else:
-                    profile.areas.remove(area)
+                    area = Area.objects.get(name=name)
+                    if selected:
+                        profile.areas.add(area)
+                    else:
+                        profile.areas.remove(area)
             profile.save()
             print(profile.topics.all())
 

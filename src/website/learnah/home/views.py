@@ -48,7 +48,7 @@ class HomeView(TemplateView):
             #import_chemistry_topics()
             #import_physics_topics()
             import_topics()
-        
+
         if Area.objects.all().count() == 0:
             import_areas()
 
