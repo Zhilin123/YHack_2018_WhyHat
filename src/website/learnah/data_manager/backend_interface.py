@@ -26,11 +26,11 @@ def update_user_interest_vector(user, video_url, video_title):
         interest_vec = profile.get_interest_vector()
 
     new_vector = vv.update_interest_vector(interest_vec, prev_video=(video_title, video_url))
-    print(interest_vec)
-    print(new_vector)
+    #print(interest_vec)
+    #print(new_vector)
 
     profile.update_interest_vector(user.username, new_vector)
-    print(profile.get_interest_vector())
+    #print(profile.get_interest_vector())
 
 
 def obtain_recommend_videos(user, offset=0):
