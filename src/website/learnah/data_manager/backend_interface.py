@@ -18,15 +18,17 @@ def update_user_interest_vector(user, video_url, video_title):
         profile = profiles[0]
     else:
         return False
-
+    '''
     if not profile.interest_vector: # no vector stored
         interest_vec = np.empty(Area.objects.all().count())
         interest_vec.fill(0)
         profile.update_interest_vector(interest_vec)
-    else:
-        interest_vec = profile.get_interest_vector()
+    else:'''
 
+    interest_vec = profile.get_interest_vector()
+    print("now:", interest_vec)
     new_vector = vv.update_interest_vector(interest_vec, prev_video=(video_title, video_url))
+    print("new:", new_vector)
     #print(interest_vec)
     #print(new_vector)
 
