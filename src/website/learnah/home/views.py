@@ -58,18 +58,22 @@ class HomeView(TemplateView):
 
 
         profiles = UserProfile.objects.filter(user=request.user)
+        profiles.delete()
         if profiles.count() == 0:
             profile = UserProfile()
             profile.user = request.user
             profile.save()
         else:
             profile = profiles[0]
-        profile.update_interest_vector(request.user.username, np.array([5,6,7,8]))
-        print(profile.get_interest_vector())
+        #profile.update_interest_vector(request.user.username, np.array([5,6,7,8]))
+        #print(profile.get_interest_vector())
         topics = Topic.objects.filter(unit__subject__name="Physics")
         print(topics)
         for topic in topics:
             profile.topics.add(topic)
+
+        obtain_recommend_videos(request.user)
+
 
         #print(profile.topics.all().count())
         #obtain_recommend_videos(request.user)

@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import pyLDAvis
 import pyLDAvis.gensim
 
-from TextCleaner import TextCleaner
+from data_manager.TextCleaner import TextCleaner
 
 class InterestVectorizer():
     """
@@ -63,7 +63,7 @@ class InterestVectorizer():
             to different 
         """
         if interest_vec.sum() == 0: # normally distributed interest if no interest is registered
-            normed_interest_vector = np.ones_like(normed_interest_vector)
+            normed_interest_vector = np.ones_like(interest_vec)
             normed_interest_vector /= normed_interest_vector.sum()
         else:
             normed_interest_vector = interest_vec / interest_vec.sum()

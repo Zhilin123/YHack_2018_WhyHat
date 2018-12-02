@@ -9,7 +9,7 @@ from data_manager.models import UserProfile, Subject, Unit, Topic, Area
 from django.contrib.auth.models import User
 from django.core.files import File
 from accounts.user_registration import create_new_user
-
+from data_manager.backend_interface import obtain_recommend_videos, update_user_interest_vector
 class SearchView(TemplateView):
     template_name = 'live_search/index.html'
 
@@ -207,17 +207,12 @@ class RecommendDataView(TemplateView):
                 profile = UserProfile()
                 profile.user = user
                 profile.save()
-            '''
-            for area_name in areas:
-                area = Area.objects.get(name=area_name)
-                profile.areas.add(area)
 
-            for topic_name in topics:
-                topic = Topic.objects.get(name=topic_name)
-                profile.topics.add(topic)
-            '''
-            #TODO: call interface
-
+            results = obtain_recommend_videos(user)
+            for record in results:
+                video_title = record[0][0]
+                video_url = record[0][1]
+                data.append({video_url:video_title})
             return JsonResponse({
                 'data': data,
                 'msg': "Return Successfully",
