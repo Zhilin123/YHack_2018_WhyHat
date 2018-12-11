@@ -40,6 +40,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'live_search.middleware.MyMiddleware',
 ]
 
 ROOT_URLCONF = 'learnah.urls'
@@ -138,5 +139,3 @@ CSRF_COOKIE_HTTPONLY = True
 
 LOGIN_REDIRECT_URL = "/home/"
 
-TEST_X = 0
-TEST_X = TEST_X + 2
